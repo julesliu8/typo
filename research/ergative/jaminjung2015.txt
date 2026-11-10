@@ -1,0 +1,1367 @@
+[PDF PAGE 1]
+The University of Manchester Research
+Complex verbs, simple alternations: valency and verb
+classes in Jaminjung.
+Document Version
+Other version
+Link to publication record in Manchester Research Explorer
+Citation for published version (APA):
+Schultze-Berndt, E. (2015). Complex verbs, simple alternations: valency and verb classes in Jaminjung. In A.
+Malchukov, & B. Comrie (Eds.), Valency Classes in the World's Languages: Case Studies from Austronesia, the
+Pacific, the Americas, and Theoretical Outlook (Vol. 2, pp. 1117–1162). (Comparative Handbooks of Linguistics;
+No. 2). de Gruyter, Walter GmbH.
+Published in:
+Valency Classes in the World's Languages:
+Citing this paper
+Please note that where the full-text provided on Manchester Research Explorer is the Author Accepted Manuscript
+or Proof version this may differ from the final Published version. If citing, it is advised that you check and use the
+publisher's definitive version.
+General rights
+Copyright and moral rights for the publications made accessible in the Research Explorer are retained by the
+authors and/or other copyright owners and it is a condition of accessing publications that users recognise and
+abide by the legal requirements associated with these rights.
+Takedown policy
+If you believe that this document breaches copyright please refer to the University of Manchester’s Takedown
+Procedures [http://man.ac.uk/04Y6Bo] or contact openresearch@manchester.ac.uk providing relevant details, so
+we can investigate your claim.
+Download date:04. Nov. 2026
+[PDF PAGE 2]
+ 1 
+Complex verbs, simple alternations: 
+valency and verb classes in Jaminjung 
+Eva Schultze-Berndt, University of Manchester 
+ 
+To appear in: B. Comrie and A. Malchukov (eds.), Valency Classes: A 
+comparative handbook. Berlin: Mouton de Gruyter. (Publication expected 2012) 
+ 
+  
+1. Introduction 
+This chapter investigates valency patterns in Jaminjung, a name used here for 
+two named varieties, Jaminjung and Ngaliwurru, which are mutually 
+intelligible and exhibit mainly lexical differences. They belong to the small 
+Jaminjungan (or Western Mirndi) subgroup of the geographically 
+discontinuous Mirndi family (Chadwick 1997; Harvey 2008), one of the non-
+Pama-Nyungan families of northern Australia. The traditional country of 
+Jaminjung and Ngaliwurru speakers is located north and south of the Victoria 
+River around the present-day township of Timber Creek in the Northern 
+Territory. Jaminjung is no longer acquired by children; only a few dozen 
+elderly speakers are alive today. The discussion in this chapter is based on 
+both elicited and naturalistic speech recorded during multiple field trips 
+undertaken by the author between 1993 and 2008. All examples were offered 
+by speakers either unprompted or prompted by translation equivalents or 
+visual stimuli; no examples were merely constructed by the linguist and 
+submitted to grammaticality judgments.  
+ 
+  
+2. Basics of morphosyntax of Jaminjung 
+Jaminjung shares many of its main characteristics with other Australian 
+languages, in particular other non-Pama-Nyungan languages (for a brief 
+overview, see Gaby 2008). It has “free word order” in the sense that word 
+order is not used to distinguish the grammatical roles of arguments, but is 
+rather conditioned by information structure on a discourse pragmatic level. It 
+is a double-marking language in the sense of Nichols (1986), i.e. the role of 
+core arguments is indicated both by bound pronominals on verbs and by case 
+marking on noun phrases (see further Section 3.1). Noun phrases can be freely 
+[PDF PAGE 3]
+ 2 
+omitted if understood from context (zero anaphora). There is no clearcut 
+distinction between nouns and adjectives, in that property expressions can 
+function as heads of noun phrases in their own right. 
+For case-marked noun phrases, alignment follows an ergative-absolutive 
+pattern, with optional ergativity, but no clearcut split (see Section 4.1). As in 
+many other Australian languages, the instrumental case is identical to the 
+ergative; both can be subsumed under the general role of ‘effector’ (Van Valin 
+& Wilkins 1996). Other case markers include the dative, locative, allative, 
+ablative, and origin case, and a number of possessive markers found on 
+adnominal modifiers and on nominal predicates. Case may be marked on one 
+(as in (1)) or more elements of a noun phrase. 
+(1) Gurrany  ya-wun-dum  [ngarrgina-bina yagbali]! 
+NEG IRR-2DU.S-come 1SG:POSS-ALL  place  
+‘Don't come here to my place, you two!’ 
+The fact that case only has to be marked once can be used as evidence for a 
+configurational rather than flat structure, i.e. the phrasal status of noun 
+phrases. If the syntactic structure were completely flat, the grammatical 
+function of each individual nominal would have to be flagged, that is, one 
+would expect consistent case marking on each and every one of the nominal 
+constituents. And while the word order within a noun phrase is relatively free, 
+there are certain restrictions which likewise suggest a phrasal rather than flat 
+status. Discontinuous noun phrases are attested, but are relatively rare 
+(approximately 8% of all multi-word NPs), and restricted to very specific 
+information structure configurations such as contrastive focus with “given” 
+entity nomina (for details, see Schultze-Berndt 2000: Ch. 2; Schultze-Berndt & 
+Simard to appear).  
+Simple clauses can be divided into nonverbal and verbal clauses. The 
+predicate in nonverbal clauses – with the subtypes of equative, ascriptive and 
+possessive clauses – can be an absolutive noun phrase1 or a possessive noun 
+phrase marked with dative case or one of the possessive suffixes. Clauses with 
+locative predicate always contain a locative verb gagba ‘be’ and thus do not fall 
+under the nonverbal type. A peculiarity of ascriptive clauses is cross-
+referencing of the absolutive subject (predication base) with an oblique 
+(dative) enclitic pronominal for speech act participants; compare the 
+nonverbal clauses in (2) (3rd person) and (3) (2nd person). 
+                                                
+1  Since the absolutive is formally unmarked, it is not glossed in examples. 
+ 
+[PDF PAGE 4]
+ 3 
+(2) Majani yinthu jarlag 
+maybe PROX  good 
+‘Maybe this one is good.’ 
+(3) Jamang  gujugu=ngunggu nami! 
+ENOUGH   big=2SG.DAT  2SG  
+‘You are big enough (to fight for yourself)!’ 
+A pervasive feature of Jaminjung lexicon and grammar, which proves to be 
+highly relevant for the discussion of verb classes and alternations, is a division 
+of the “verbal” lexicon into two distinct parts of speech. This is an areal 
+phenomenon found in a number of unrelated languages in Northern Australia 
+(for overview discussions see e.g. Capell 1979; Dixon 2001; McGregor 2002; 
+Schultze-Berndt 2003). Inflecting verbs (IVs), i.e. those taking obligatory 
+pronominal prefixes and tense and mood marking, form a closed class with 
+only about 30 members (with some variation depending on the dialect 
+affiliation and also the age of individual speakers). The morphological 
+structure of IVs is shown in (4).2 
+ 
+(4) (IMP/IRR-)A-(POT-)P-Verb_root(-RFL/REC)(-TAM) 
+ 
+The predicate of an independent verbal clause may be an IV on its own, i.e. as 
+a simple predicate, or a complex predicate. In complex predicates, IVs 
+combine with members of a distinct part of speech, variously labelled 
+“coverb”, “preverb”, “verbal particle”, and “uninflecting verb” (UV) in the 
+literature. UVs can be distinguished from IVs by the fact that they cannot take 
+verbal inflections, and from nominals in that they do not co-occur with 
+determiners such as demonstratives, and only take a subset of case markers in 
+subordinating function. UVs form an open class which can be expanded by 
+lexical borrowings. They cover, by and large, the semantic area covered by 
+members of the verb class in European languages. In addition, they also 
+express notions of property (e.g. colour) and state, and of spatial configuration 
+(thus corresponding also to adverbs, verbal particles and adpositions in other 
+languages).  
+Not surprisingly given the closed-class nature of IVs, the Jaminjung 
+translation equivalents of most verbs in a language like English are complex 
+                                                
+2 Since there is no infinitive form of the inflecting verb in Jaminjung and roots are not 
+produced in isolation by speakers, the 3rd person singular subject (+ 3rd person 
+singular object for transitive verbs) past perfective form of inflecting verbs is used as 
+citation form throughout, as this is one of the most frequent forms. 
+[PDF PAGE 5]
+ 4 
+predicates, consisting of an IV and a UV. These combinations meet the widely 
+accepted definition (see e.g. Butt 1997: 108) of Complex Predicates as 
+monoclausal constructions (confined to a single intonation unit) where two or 
+more predicative constituents jointly contribute to the argument structure of 
+the clause, share at least one argument, and share values for tense, aspect, 
+modality and polarity; for details on these points, see Schultze-Berndt (2000: 
+Ch. 3). While IV and UV are clearly distinct phonological words, they 
+constitute a close-knit formal unit: they are usually immediately contiguous, 
+with the UV preceding the IV, although the reverse order is also possible. In 
+terms of both their lexical semantics and their argument structure they form 
+nuclear junctures (or “merger” constructions, in the terminology of Baker and 
+Harvey (2010)). While IV and UV can have different argument structures, 
+there is a requirement for all available arguments of the two components to be 
+fused, in other words, neither of the components can introduce an additional 
+participant that would duplicate a grammatical function already contributed 
+by the other, as would be the case e.g. for two bivalent predicates each taking 
+different objects. Usually, the valency of the IV includes or equals that of the 
+UV; the reverse case will be discussed in Section 3.2.3 (see Schultze-Berndt 
+2000: Ch. 4 for details). As is also to be expected in the case of a closed class, 
+IVs tend to have generic, schematic meanings, and in fact can be regarded as 
+classificatory (McGregor 2002; Schultze-Berndt 2000: Ch. 5; Silverstein 1986): 
+they specify the general type of event that the complex predicate encodes, 
+irrespective of the more specific semantic relationship between UV and IV, 
+which is variable. 
+Examples (5), (6) and (7) illustrate verbal clauses with simple and complex 
+predicates, respectively. The generic verb of caused locative relation ganarrany 
+‘put’ is illustrated in (5) as a simple predicate and in (6) in a complex predicate 
+encoding a specific type of placement, i.e. covering. The IV ganangu, with a 
+generic meaning of manipulation and contact, can simply be translated as ‘get’ 
+in (5) and in (7) categorises a specific type of impact involving continuous 
+contact, i.e. digging. 
+(5) Janggagu gan-arra-ny 
+above  3SG.A>3SG.P-IV.put-PST  
+jalig-di  gurrany  yana-ngu. 
+child-ERG  NEG  IRR:3SG>3SG-IV.get/handle 
+‘She put it on top so the child would not get it.’ 
+(6)  Nami-ni ngayiny bard-bard  ngantha-rra-m 
+2SG-ERG meat  RDP-UV.cover 2SG.A>3SG.P-IV.put-PRS  
+larriny-ni. 
+[PDF PAGE 6]
+ 5 
+paperbark-ERG/INST 
+‘You cover the meat with paperbark.’ 
+(7)  gurr yirra-ngu        (gugu),  
+UV.dig 1PL.EXCL.A>3SG.P-IV.get/handle.PST (water)    
+‘We dug [up water].’ 
+In non-finite subordinate clauses, but not in independent clauses, UVs can 
+function as the main predicate without an IV. This is illustrated with the 
+purposive clause in (8). 
+(8) nga-b-arrga   ngiyina babiny-guluwa [yirrgbi-wu]. 
+1SG>3SG-POT-IV.approach DIST  elder.sister-KIN2 [UV.talking-DAT] 
+‘I’m going up to your older sister there for talking.’ (i.e. for a chat, or 
+an elicitation session) 
+Apart from non-finite subordinate clauses, Jaminjung has a general finite 
+subordinate clause type which can function both as a temporal or conditional 
+adverbial clause and as a relative clause. 
+ 
+  
+3. Valency patterns 
+The lexicalisation of inherently predicative parts of speech in two distinct 
+classes raises the question of what should be considered “verbs” for the 
+purposes of the comparative investigation of valency. Coding frames, by 
+definition, can only be established for independent predicates, i.e. either IVs 
+on their own or complex predicates, because only they appear with actual 
+argument encoding expressions (both case-marked NPs and indexing 
+morphology). This section and the following Section 4, therefore, describe 
+valency patterns and alternations, respectively, for independent predicates 
+involving IVs. However, as we will see in more detail in Section 5, covert 
+predicate classes based on valency alternations are best investigated for the 
+open lexical class of predicates (UVs), for which alternations are mainly 
+achieved by changes in the IV combining with the same UV.  
+ 
+3.1. Default encoding with intransitive, transitive and ditransitive predicates 
+From the point of view of indexing morphology, inflecting verbs (IVs) fall into 
+two non-overlapping classes. Morphologically transitive verbs in their non-
+reflexive/reciprocal form occur with a set of pronominal prefixes which 
+[PDF PAGE 7]
+ 6 
+always index the most agentive argument (A) and in addition the patient-like 
+(P) argument. They represent macro-roles in the sense of Foley and Van 
+Valin’s (1984) Actor and Undergoer, or Dowty’s (1991) Proto-Agent and Proto-
+Patient. The order of prefixes is usually A followed by P, although in some 
+cases a portmanteau prefix is used. The 3rd person singular object (P) is not 
+overtly expressed except with a 3rd person singular subject.  
+Morphologically intransitive verbs indicate their single argument (S) by a 
+pronominal prefix which in most cells of the paradigm (except 2nd person 
+singular) is identical to the A prefix. Thus, indexing, not unexpectedly, more 
+or less follows a nominative-accusative pattern. Typical transitive and 
+intransitive predicates are shown in (9) and (10), respectively.  
+(9) Gugu=biyang burrb burru-minda-ny  jalig-ni. 
+water=SEQ  finish 3PL.A>3SG.P-eat-PST child-ERG 
+‘Then the children finished / drank up all the water.’ 
+(10) Thanthu=biya ngayiny  bunburr  burr-angga. 
+DEM=SEQ animal  many.take.off 3PL.S-go.PRS 
+‘Those animals all take off.’ 
+An additional indexing phenomenon is the cross-referencing of dative, 
+locative and allative arguments or adjuncts by an enclitic oblique (dative) 
+pronoun. This “clitic doubling” is mainly restricted to animate referents. 
+(11) Gan-anyjam=nu   buru  jalig-gu. 
+3SG>3SG-bring.PRS=3SG.DAT return child-DAT  
+‘She brings it (food) back for the child. 
+As examples (9) and (10) also show, case marking follows ergative-absolutive 
+alignment (with optional ergativity; see Section 4.1). As a general rule, the case 
+frame used with a particular predicate, whether simple or complex, follows 
+from the morphological transitivity of the IV. That is, a single absolutive 
+argument occurs with intransitive IVs, and an ergative-absolutive case frame 
+(or double absolutive if ergative marking is omitted) can be used with 
+morphologically transitive IVs.  
+In one case, that of the polyfunctional IV ganiyu ‘say/do’, which functions as 
+framing verb with quotations, the quotation takes the position of the 
+absolutive P argument, as illustrated in (20) below. Optionally, the addressee 
+can be represented by a dative-marked NP and/or by the dative pronominal 
+clitic; however, since on formal grounds addressees or recipients encoded in 
+this way cannot be distinguished from benefactive adjuncts (as in (11)), they 
+are not considered as core arguments for the purpose of this paper. Further 
+[PDF PAGE 8]
+ 7 
+divergences from the ergative-absolutive case frame with morphologically 
+transitive IVs, i.e. mismatches between the case frame and indexing 
+morphology, will be discussed in Section 3.2.  
+Ditransitive predicates involve morphologically transitive IVs but license an 
+additional absolutive argument, i.e. they take two absolutive objects 
+corresponding to the theme-like (T) and the recipient-like (R) participant. 
+Indexing typically follows a “secondary object” (Dryer 1986) or “secundative” 
+alignment (Haspelmath 2005; Malchukov et al. 2010), that is, the recipient-like 
+participant (R) rather than the theme-like participant (T) is indexed by the P 
+prefix of the inflecting verb (exceptions are discussed in Section 4.2). An 
+example of a ditransitive predicate is the complex verb burlug ganingarnany 
+‘give to drink’, illustrated in (12) with its two absolutive objects. 
+(12) Ngayug=biya ti=binji  ba-wun-ngarna  burlug. 
+1SG=SEQ   tea=only  IMP-2DU.A>1SG.P-give drink 
+‘Me, give me only tea to drink, you two.’ 
+Reflexive-reciprocal forms are productively formed from morphologically 
+transitive IVs which consequently become morphologically and syntactically 
+intransitive, i.e. they take the intransitive pronominal prefix, and the A=P is 
+encoded by an absolutive noun phrase (see Section 5.1). 
+ 
+3.2. Divergent encoding frames 
+While generally (with the exception of ditransitive predicates) the 
+morphological transitivity of a given IV corresponds to the syntactic 
+transitivity in a clause involving this IV as simple predicate or part of a 
+complex predicate, some mismatches do occur; these are the topic of this 
+section.  
+ 
+3.2.1 Ergative marking with an intransitive inflecting verb 
+The first mismatch concerns one of the five morphologically intransitive IVs, 
+garna ‘burn, be affected by heat’. As example (13) shows, the heat source can 
+be encoded by an NP marked with ergative/instrumental case which is not 
+indexed on the verb. 
+(13) ya-nj-irna buna-ni! 
+IRR-2SG.S-burn ashes-ERG/INST 
+‘The hot ashes might burn you! / You might get burnt by the hot 
+ashes!’ 
+[PDF PAGE 9]
+ 8 
+This IV has a transitive counterpart, ganirriga ‘cook, burn’, which in contrast to 
+garna ‘burn’ usually takes an animate agent, although the sun is also attested 
+as agent with this verb. It is argued in Schultze-Berndt (2000: 167, 75-77) that 
+the ergative/instrumental case encodes the role of ‘effector’ in the sense of 
+Van Valin and Wilkins (1996), subsuming instruments, natural forces, and 
+agents, while the A prefix on transitive verbs encodes the ‘ultimate cause’ or 
+‘first cause’ of an event (see e.g. DeLancey 1991; Van Valin & LaPolla 1997: 
+146). Thus, the situation of an inanimate natural force as an agent, as in (13), 
+does not warrant the encoding as ultimate cause, and therefore does not 
+license the use of a transitive verb with its A prefix.  
+ 
+3.2.2 Morphologically transitive inflecting verbs in semantically 
+monovalent complex predicates 
+Other mismatches are related to the fact that IVs can take on secondary 
+meanings or become semantically “bleached” in some types of complex 
+predicate. For example, the morphologically transitive IV ganimangu ‘hit’ 
+occurs in syntactically intransitive complex predicates encoding a type of 
+appearance or emerging, as illustrated in (14). In these cases, the P prefix of the 
+IV invariably takes the third person singular form. 
+(14) Julag=biyang bul  gani-mangu=nu. 
+bird=SEQ   emerge 3SG.A(>3SG.P)-hit.PST=3SG.DAT  
+‘A bird now came out on/for him.’ 
+Similarly, the multifunctional verb ganiyu ‘say/do’ forms syntactically 
+intransitive complex predicates with some UVs of manner of motion as in (15), 
+as well as with UVs of internal motion, emotional condition, and internally 
+caused change of state. This IV is used more generally as a verb indicating 
+internal causation, and can be regarded as less than fully transitive, since it 
+does not allow reflexive/reciprocal marking. 
+(15) Jalig=biyang yugung gani-yu. 
+child=SEQ  run  3SG.A(>3SG.P)-say/do.PST 
+‘The child ran off.’ 
+ 
+3.2.3 Syntactically transitive activity expressions with morphologically 
+intransitive inflecting verbs 
+The final type of mismatch between morphological and syntactic transitivity 
+to be discussed here is the converse of the former: semantically transitive 
+[PDF PAGE 10]
+ 9 
+complex predicates are formed with the morphologically intransitive verbs 
+gagba ‘be’ or gajgany ‘go’ in their secondary function of marking atelicity, as in 
+(16). 
+(16) En janyungbari burlug-mayan ga-yu   gugu. 
+and another(ABS) drink-ITER  3SG.S-be.PRS water(ABS) 
+‘And the other one (animal) is drinking water.’ 
+Such complex predicates often, but not always, have an alternant with a 
+morphologically transitive IV (see Section 5.3). Unlike with true transitive 
+complex predicates, however, the A in combinations with these two 
+intransitive verbs is never ergative-marked, i.e. these predicates only occur 
+with a double absolutive frame. 
+ 
+3.2.4 External possessor constructions 
+Jaminjung exhibits the phenomenon of external possession with body parts, 
+that is, if a body part is involved as the single participant or the patient of an 
+event, the possessor is the core argument in terms of indexing morphology, 
+and the body part itself is added as an additional absolutive argument, as 
+shown in (17). While this phenomenon also results in an impression of 
+mismatch between morphological transitivity and the number of syntactic 
+arguments, it is not considered an alternation here. 
+(17) ngamayag-di gan-birri-m   burru 
+diarrhoea-ERG 3SG.A>1SG.P-bite-PRS belly 
+‘My belly hurts because of diarrhoea’; lit. ‘The diarrhoea is biting me 
+(with respect to the) belly.’ 
+ 
+  
+4. Uncoded Alternations 
+Jaminjung exhibits only few types of uncoded alternation, i.e. alternations 
+manifested only in the choice of argument marking. The first one concerns 
+different options of marking agents as ergative, absolutive (zero-marking), or 
+ablative (Section 4.1). The second one is a marginal alternation in encoding of 
+theme and recipient with ditransitive predicates (Section 4.2). A further type of 
+alternation, a choice between allative-marked and locative-marked goals with 
+certain predicates subcategorising for a Location, can also be analysed as an 
+uncoded alternation, but is not further considered here because it does not 
+involve a core argument. Since noun phrase arguments can generally be 
+[PDF PAGE 11]
+ 10 
+omitted when reconstructable from discourse, there are no grounds for 
+identifying any “omission” alternation of the type eat X vs. eat.  
+ 
+4.1 Alternations involving agent marking 
+In Jaminjung, there is a three-way alternation in agent marking with 
+syntactically transitive (and ditransitive) predicates: since the language 
+exhibits optional ergativity, agents can be ergative-marked or unmarked (i.e. 
+in the absolutive). Moreover, the ablative case also functions as an agent 
+marker in certain cases. Both possibilities are discussed here in turn. 
+Optional ergativity is a phenomenon now widely attested in the languages of 
+the world, including Australian languages (for an overview, see McGregor 
+2010). Unlike in split ergative systems, there is no clear grammatical factor 
+responsible for the absence or presence of ergative marking, although the 
+factors identified for split systems account for some of the alternations 
+observed. Thus, in Jaminjung, absence of ergative marking can be related to 
+the animacy of A (with pronominal Agents, in particular, less likely to be 
+ergative-marked) as well as to verb class, with less “effective” verbs in the 
+sense of Tsunoda (1981) (e.g. ‘have’, ‘see’, ‘say/do’ + quotation) less likely to 
+appear with ergative-marked NPs. Moreover, focal rather than topical Agents 
+tend to be ergative-marked, and discourse pragmatic factors come into play as 
+well, in that absence of ergative-marking can be employed by speakers to 
+downplay the agentivity of A or the effect of an event, in a similar way to that 
+identified for Gooniyandi by McGregor (see also McGregor 1992; McGregor 
+1998). This is illustrated in (18) and (19). The absence vs. presence of ergative 
+marking with predicates using the same IV in the two examples is most likely 
+explained with the difference in impact between a pet frog leaving its ‘owner’ 
+(18) and a mother leaving her child (19). In a text count (Schultze-Berndt 2006), 
+it was found that more than 30% of overt A noun phrases are not marked for 
+ergative. 
+(18) Malara=biya dibard ganuny-ngunga-m,  ba-ngawu. 
+frog=SEQ   jump  3SG.A>3DU.P-leave-PRS IMP-see 
+‘The frog now is leaving the two jumping away, look.’ (from a Frog 
+Story) 
+(19) Majani gujarding-ni waj   gan-unga-m. 
+maybe mother-ERG leave .behind 3SG.A>3SG.P-leave-PRS  
+ ‘Maybe the mother leaves her (a child).’ 
+[PDF PAGE 12]
+ 11 
+A second complicating factor regarding the marking of Agents in Jaminjung is 
+the existence of a second ergative case, formally identical to the ablative case. 
+Ablative agent marking is very infrequent and is mainly used to indicate 
+unexpected or contrastive agents, similar to the focal ergative marker in 
+Warrwa (McGregor 2006). A good example of unexpectedness, from a 
+narrative, is the case of a kangaroo which starts to speak to the men hunting it, 
+in (20). 
+(20) “nanggayan guny-bi-yarluga?”  
+who   2DU.A>3SG.P-POT-poke   
+ gani-yu=bunyag,     yangarra-ngunyi=marlang. 
+3SG.A>3SG.P-say/do.PST=3DU.DAT kangaroo-ABL=GIVEN 
+‘“Who do you want to spear?” it said to the two, the kangaroo did.’ 
+ 
+4.2 Alternations involving ditransitive predicates 
+The clearest case of an uncoded alternation, though marginal in terms of its 
+frequency, is the indexing of either the recipient or the theme of ditransitive 
+predicates on the verb. This phenomenon is discussed in more detail in 
+Schultze-Berndt (2010) and only briefly outlined here.  
+Ditransitive inflecting verbs like ganingarnany ‘give’ as well as certain complex 
+predicates are syntactically ditransitive in that they allow for two absolutive 
+objects (see Section 3.1). However, the inflecting verbs occurring in these 
+expressions are morphologically transitive in that they take the A>P 
+pronominal prefix. Therefore, only one of the objects can also be indexed on 
+the verb. Usually, the Recipient of ditransitive predicates is the primary object 
+in terms of indexing, as shown in (21). Only in the rare case of animate themes 
+(e.g. in the context of ‘giving’ in marriage, or conversely, robbing someone of a 
+spouse, as in (22)) or otherwise highly salient themes (e.g. traditional country 
+as in (24)) the theme may be (but is not necessarily) indexed instead. (Due to 
+the scarcity of examples it is not clear whether the recipient takes dative or 
+absolutive case). 
+(21) Majani bun-bu-ngarna   buru  ngayiny, majani gara. 
+maybe 3PL.A>1SG.P-POT-give return meat maybe nothing 
+ ‘Maybe they are going to give me back some meat, maybe not.’ 
+(22) gurrany ganu-buny-ngarna-nyi  nuwina jalig  
+NEG 3SG.A-POT:3DU.P-give-IMPF 3SG:POSS child  
+ ‘He wouldn’t give (him) the two, his children’ (it is clear from the 
+context that a potential father-in-law refuses to give his two 
+[PDF PAGE 13]
+ 12 
+daughters to a specific man; in isolation this sentence could also mean 
+‘he wouldn’t give the two (men) his child’. 
+Examples (23) and (24) show the ditransitive alternation with a complex 
+predicate, yurrg ganarrany ‘show’. 
+(23) Yurrg  gan-garra-ny    ngayug. 
+show  3SG.A:1SG.P-put-PST  1SG 
+‘She showed (it) to me.’ (Lit. ‘She showed me’; referring to yam root) 
+(24) Yurrg  nga-rra-m=ngunggu    yagbali Ngaliwurru. 
+show  1SG.A:3SG.P-put-PRS=2SG.DAT place  Ngaliwurru 
+‘I'm showing you the Ngaliwurru country.’ 
+ 
+   
+5. Verb‐coded alternations (Voice alternations and valency change) 
+As already indicated above, the division of predicative lexical items into two 
+distinct parts of speech – inflecting verbs (IVs) and uninflecting verbs (UVs) or 
+coverbs – has important ramifications for the grammatical structure, including 
+argument structure of Jaminjung. As we have already seen in Section 4, 
+uncoded alternations only play a marginal role in this language. Verb-class 
+sensitive alternations mainly manifest themselves in the choice of different 
+inflecting verbs with the same UV, to be discussed in Section 5.2. Other 
+valency-changing inflectional markers (e.g. passive or antipassive) or 
+derivational mechanisms (e.g. causative, applicative, middle forms) are 
+completely absent from the grammar of Jaminjung. The only case of an 
+alternation which is morphologically encoded on the inflecting verb is the 
+reflexive-reciprocal alternation, discussed in Section 5.1.  
+ 
+5.1. Reflexive‐reciprocal marking with transitive verb roots 
+All morphologically transitive IVs except for ganiyu ‘say/do’ can take a suffix 
+-ji~-ja which encodes both the reflexive and reciprocal function in the narrow 
+sense. That is, its use is restricted to agents acting upon themselves, or 
+multiple agents acting upon each other. It thus has no additional functions 
+such as middle or inchoative marking. In complex predicates, the productivity 
+of reflexive/reciprocal marking is only constrained by considerations of 
+semantic compatibility. 
+[PDF PAGE 14]
+ 13 
+Formally, reflexive/reciprocal marking results in both morphological and 
+syntactic intransitivity of the IV, i.e. the verb takes the intransitive paradigm of 
+pronominal prefixes, and a single absolutive argument in the function of A=P. 
+The reflexive of a transitive complex predicate is illustrated in (25) (see 
+example (6) for the underived counterpart); an example in reciprocal 
+interpretation is (26) (compare this with (28)e). 
+(25) Bard-bard ga-rra-ja=burrinyi,  bagarli-ni. 
+RDP-cover  3SG.S-put-REFL.PST=3DU paperbark-ERG/INST 
+‘He covered himself (with negative effect) on the two, with 
+paperbark.’ (Referring to a (mythical) man going into hiding to be 
+able to surprise and assault two women.) 
+(26) Marlayi gurdurru-ni   burru-ma-ja. 
+woman fighting.stick-ERG/INST 3PL.S-hit-REFL.PST 
+‘The women fought (lit. ‘hit each other’) with fighting sticks.’ 
+ 
+5.2. Alternations by change of inflecting verb 
+In this section, we will consider verb-class sensitive alternations which operate 
+at the level of the complex predicate, but identify semantically based predicate 
+classes within the open-class lexical predicate type of Uninflecting Verb (UV).  
+This is because the alternations are brought about by the opposition of 
+different inflecting verbs (IVs) with the same UV; they are thus unavailable to 
+IVs themselves. 3 This type of alternation is treated here as “coded alternation” 
+since it is marked – albeit not by morphological means – within the verbal 
+complex. There is no “basic” alternant in the sense that it has no coding – the 
+alternants are simply coded differently, by the choice of a different IV (this 
+does not mean that the UV itself does not have a basic valency; on this issue 
+see further below).  
+The semantic effect of a change of IV with the same UV is not restricted to 
+valency change. Rather, different IVs can also be employed to indicate 
+differences in lexical aspect (aktionsart), differences in deictic direction in the 
+case of some predicates of motion, and differences in the types of instrument 
+employed with certain predicates of activity or accomplishment. The choice of 
+                                                
+3 Simple verbs may have formally unrelated (or only diachronicaly related) lexical 
+alternants (comparable to the causative-inchoative pair kill-die in English), usually in 
+an equivalent opposition to that at the basis of the telicity alternation described in 
+Section 5.3. An example is the pair ganimindany ‘eat’ (transitive IV) vs. thawaya gagba 
+‘be eating’ (with intransitive IV ‘be’ used with a general meaning of atelicity). 
+[PDF PAGE 15]
+ 14 
+IV could even be responsible for more subtle differences in predicate 
+semantics and event structure between the resulting complex predicates, 
+which may or may not affect the valency of the resulting complex predicate. 
+Example (27) illustrates a difference in aktionsart, but not in argument 
+structure, brought about by the choice of one of two different IVs. The UV in 
+this example is wurlurlu ‘enter/go inside, of multiple entities’; the complex 
+predicate formed with gajgany ‘go’ is interpreted as an accomplishment 
+(locomotion preceding the entering), while the equivalent formed with 
+gardbany ‘fall’ is interpreted as an achievement (this IV, despite its gloss, does 
+not entail downward motion). The pattern illustrated here is available to a 
+number of other UVs expressing either a position or a change of position or 
+location, e.g. walthub  ‘be inside’, bagurr ‘be inside an open container’, malang 
+‘cross, go across’. In other words, the combinatorial possibilities of UVs with 
+IVs serve to define semantically coherent predicate classes (of UVs), in this 
+case the class of UVs of ‘boundary crossing’. 
+(27) a. Wurlurlu yurra-ngga    intit   jarriny-gi 
+enter(PL)  1PL.INCL.S-go.PRS  TAG   cave/house-LOC 
+‘Let's go inside the house, right?’ 
+b. Jarlig wurlurlu  burr-irda-m (gurrurrij-gi). 
+child   enter(PL)  3PL.S-fall-PRS car-LOC 
+‘The children are getting in (the car).’ 
+Of the many alternations involving regular collocational patterns of IVs with 
+the same semantically coherent subsets of UVs we will only consider here 
+those resulting in a change of valency, and of those only the most salient ones 
+(either in terms of productivity or in terms of typological interest). More detail 
+on classes of UVs and full justification of the classification can be found in 
+(Schultze-Berndt 2000: Ch. 6).  
+Before discussing the individual cases of alternations, it is worth making 
+explicit the criteria for establishing the valency and aktionsart of IVs. This is 
+not a trivial question, since UVs do not occur in a full coding frame on their 
+own (only with IVs). The main evidence for the basic valency of UVs is 
+therefore their combinatorial potential with IVs. This approach is based on the 
+assumption of monosemy and monotonicity (i.e. the assumption that 
+compositional operations do not remove meaning components). Taking the 
+UV wurlurlu in (27) as an example, it can be considered monovalent rather 
+than bivalent since it allows a combination with intransitive IVs. However, 
+unlike its near-equivalent walthub ‘be inside, of single entity’, it is not stative, 
+but dynamic, since it does not allow the combination with the stative 
+[PDF PAGE 16]
+ 15 
+intransitive IV gagba ‘be’. Based on the evidence in (27) and similar 
+attestations, we can further conclude that wurlurlu is an achievement 
+predicate, i.e. only encodes a change of location. The IV gardbany ‘fall’ thus 
+does not add any semantic component to the complex predicate, it merely 
+serves as IV compatible with the UV in an complex predicate expressing 
+achievement. The IV gajgany ‘go’ on the other hand adds the semantic 
+component of locomotion and thus turns the resulting complex predicate into 
+an accomplishment.  
+The first main set of alternations to be discussed below (Sections 5.2.1 to 5.2.5) 
+all exhibit a causative-inchoative(-stative) pattern (S = P), the second set 
+(Sections 5.2.6 to 5.2.8) a non-causative transitivity alternation pattern (S = A), 
+and the remaining sections (5.2.9 to 5.2.11) are devoted to various other 
+alternations. 
+ 
+5.2.1 Causative-inchoative alternation with predicates of externally 
+caused change of state 
+One of the most productive alternations is the equivalent of the causative-
+inchoative alternation, restricted to externally caused change of state 
+predicates (in the sense of Levin & Rappaport Hovav (1995)) such as bag 
+‘break’. Formally, UVs of externally caused change of state are defined by the 
+property, unique to members of this class, of forming inchoative complex 
+predicates with the intransitive verb gajgany ‘go’ in a secondary sense of ‘state 
+change’, but not with other locomotion verbs. Interestingly, all UVs that meet 
+this formal criterion encode a change of state which leads to some kind of 
+abnormal result state, usually irreversible and undesirable, i.e. destruction or 
+destabilisation. With these UVs, a causing event can be specified; this can be 
+encoded by an intransitive IV (e.g. gardbany ‘fall’ to express a change of state 
+arising from contact with a location, or garna ‘burn’ to express change of state 
+resulting from heat), or, in the transitive causative alternants, by one of several 
+transitive IVs expressing contact and force with different types of instruments 
+or trajectories of impact. The full range of possibilities is illustrated in (28) for 
+bag ‘break’. 
+(28) a. A:, bag ga-jga-ny=ni  bottle. 
+ah break 3SG.S-go-PST=SFOC bottle 
+‘Ah, the bottle broke.’ (Frog Story)  
+        b. Miri  bag buny-b-irdbaj. 
+upper.leg break 3DU.S-POT-fall  
+[PDF PAGE 17]
+ 16 
+‘The two are going to fall so that they break a leg.’ 
+        c. Wurlug=gung ga-rna-ya  bag 
+alone=RESTR 3SG.S-burn-PRS break 
+‘It breaks by itself through burning.’ (log in fire) 
+        d. Nawij bag burr-angga-m. 
+ neck break 3PL.A>3SG.P-get/handle-PRS 
+‘They break its neck (by strangling it).’ (bird) 
+       e. Miri bag burra-ma-nyi  gurrubardu-ni. 
+upper.leg break 3PL.A>3SG.P-hit-IMPF boomerang-ERG/INST 
+‘They used to break their legs with a boomerang.’ (kangaroo) 
+        f. Majani bag yanth-ina   thanthu mali. 
+maybe break IRR:2SG.A>3SG.P-chop DEM  thing 
+‘(Don’t throw a stone), maybe you will break that thing (with an 
+edge).’ (tape recorder) 
+        g. Nga-w-inama     bag,  bijjingman.  
+1SG.A>3SG.P-POT-kick/step.IMPF break moist 
+‘I wanted to break it with my foot, (but it was still) fresh (and 
+therefore too strong).’ (firewood) 
+        h. Jurruny-ni  bag gan-ijja-ny. 
+hand-ERG/INST  break 3SG.A>3SG.P-poke-PST 
+‘He broke it by poking with his finger.’  
+         i. Bag gan-ardgiya-ny  langiny-bina.  
+break 3SG.A>3SG.P-throw-PST wood-ALL  
+‘She broke it by hitting it against another branch.’ (firewood) 
+        j. Bag gan-uga    barrigi. 
+break 3SG.A>3SG.P-take.PST fence 
+‘It (the bull) broke (out of) the fence.’ (at a rodeo)  
+        k. Guyuwarn bag  nga-rra-ji. 
+bone   break 1SG.S-put-REFL 
+‘I broke a bone.’ 
+UVs of externally caused state change such as bag are analysed here as 
+monovalent and telic – the former, because they may occur with intransitive 
+UVs, the latter, because they cannot combine with the stative IV gagba ‘be’. 
+Thus, bag means ‘break’, not ‘be broken’. Under this analysis, the causative 
+[PDF PAGE 18]
+ 17 
+alternants are ‘derived’, in comparison with the inchoative alternants, in that 
+the second argument in the causative alternants is added by the IV, and not 
+inherent to the UV. A subset of those monovalent UVs of externally caused 
+state change showing the same patterns of alternations as bag ‘break’ is shown 
+in Table 1. 
+Table 1. Monovalent Uninflecting Verbs (UVs) of externally caused 
+change of state 
+bag break (into pieces) 
+garl break 
+ning 1. break (in two parts), break off 
+ 2. stop, finish, die 
+lag split, crack 
+bily burst open, bust 
+gad cut, get cut  
+jibug get a hole 
+lum swell up 
+jinku go down (e.g. swelling, fire) 
+digirrij 1. die 
+  2. really suffer, get badly severed  
+burrb finish, run out 
+ 
+ 
+5.2.2 Causative-inchoative alternation patterns with predicates of 
+change of location and motion 
+In contrast to “pure” change of state predicates (discussed in the previous 
+Section), predicates of change of location and motion are compatible with 
+verbs of locomotion (i.e. both gajgany ‘go’ and garumany ‘come’), as well as 
+with gardbany ‘fall’, in the inchoative alternant. The causative alternants are 
+mainly formed with the transitive IVs ganangu ‘get, handle, manipulate’, 
+expressing removal from a location, and ganarrany ‘put’ expressing placement 
+in a location (i.e. this IV semantically entails that an endpoint is reached), but 
+also with specific IVs encoding a manner and trajectory of impact, depending 
+on the specific semantics of the UV. 
+One of the subclasses undergoing this type of alternation are predicates of 
+severance, listed in Table 2 and illustrated with jab ‘detach attached point of 
+long flexible entity e.g. feather, hair or grass’ in (29). 
+(29) a. Wirra  jab   ga-ram. 
+hair  detach  3SG.S-come.PRS 
+[PDF PAGE 19]
+ 18 
+‘Her hair is coming out.’ 
+b. Warnda=biyang jab-jab burra-mila    (mayi-ni) 
+grass=SEQ   RDP-detach 3PL.A>3SG.P-get/handle.IMPF man-ERG 
+ ‘Then the men used to pull out grass.’ 
+Table 2. Monovalent UVs of severance 
+larara separate, go separate ways (of multiple animates) 
+bawu open up, go into the open, get out 
+gub  come out, come off (general) 
+jab get detached, of long entity attached with its end point (e.g. hair, grass) 
+dirawu peel off 
+ 
+UVs of path and direction motion, likewise, form their inchoative alternant 
+with any intransitive verb of motion, and their causative alternant (mostly) 
+with ganarrany ‘put’. The alternation is illustrated in (30) with burduj ‘move 
+upwards’; a representative list of UVs from this class is in Table 3.  
+(30) a. Burduj ga-jga-ny  langiny-bina jayiny  ngarrgina. 
+go.up 3SG.S-go-PST tree-ALL  MoMo/DaCh 1SG:POSS 
+‘My grandchild climbed up a tree.’ 
+b. (Jalig-di) burduj gan-arra-m   thanthu C. 
+child-ERG go.up 3SG.A>3SG.P-put-PRS DEM  <proper.name>  
+ ‘(The child) is lifting that C up (into the car).’ 
+Table 3. Monovalent UVs of path / direction of motion  
+burduj climb up, move upwards 
+jid, jag move downwards 
+buru return, go back 
+walig move in a circle-shaped path, move around 
+yirrbag move over, shift place 
+wurlurlu enter (of multiple participants) 
+ 
+Finally, UVs of ballistic motion (listed in Table 4) mainly form their inchoative 
+alternant with gardbany ‘fall’ and their causative alternant with ganardgiyany 
+‘throw’ or ganiyu ‘say/do’, but sometimes also other transitive verbs. For 
+example, the UV lawu ‘spill, pour’ in combination with ganiyu ‘say/do’ simply 
+expresses caused dispersal of a liquid, but in combination with ganarrany ‘put’ 
+a goal-oriented transfer, i.e. the pouring of a substance into a container. 
+[PDF PAGE 20]
+ 19 
+(31) a. Lawu  ga-rda-m  gugu. 
+spill/pour   3SG.S-fall-PRS  water 
+‘The water pours/spills.’ 
+ b. Lawu gani-yu     ngabulu janju-ni  jalig-ni. 
+spill/pour 3SG.A>3SG.P-say/do.PST milk DEM-ERG child-ERG 
+‘The child spilled the milk.’ 
+ c.  [Nalija] lawu  nga-w-arra=gunyag,    birrigud-gi. 
+ [tea] spill/pour 1SG.A>3SG.P-POT-put=2DU.DAT tin-LOC  
+‘I will pour it [the tea] for you two, in the tin.’ 
+Table 4. Monovalent UVs of ballistic motion  
+didid roll 
+diny lie down, fall over 
+jarndang get down 
+buwu enter water 
+dulb fall of multiple entities (e.g. of dust, leaves) 
+burrurrug scatter, get scattered 
+lawu spill, pour 
+ 
+5.2.3 Causative-inchoative alternation with predicates of application of 
+heat 
+An good illustration of how valency alternations are interwoven with the 
+specific semantics of IVs comes from a class of monovalent predicates 
+encoding conventionalised, culture-specific ways of applying heat. This 
+includes not only manner of cooking, but also drying, applying heat or smoke 
+for medicinal purposes and ritual cleansing, and the (usually deliberate) 
+lighting of bush fires. For example, the UV murl ‘heat with hot ground or 
+stones’ can describe both roasting of food in a ground oven (with stones), and 
+heating parts of the human body by means of hot ground for medicinal 
+purposes. None of these UVs entails that a state of change results from the 
+application of heat (e.g. consumption by fire), although a number of them may 
+convey, by implicature, the interpretation that the cooked, edible state of food 
+is reached. UVs from this class combine with IVs garna ‘burn’ as well as with 
+one of a number of transitive verbs. Usually, this is ganirriga ‘cook’, the 
+transitive equivalent of garna ‘burn’ (see also Section 3.2.1). Both verbs are 
+illustrated in (32) with the coverb bum ‘apply smoke’; in addition a second 
+transitive IV ganima ‘hit’ in its secondary sense of ‘totally affect’ is shown in 
+combination with the same UV. 
+[PDF PAGE 21]
+ 20 
+(32) a. julany-ni   bum  burr-irna 
+smoke-ERG/INST apply.smoke  3SG.S-burn.PST 
+‘They cleaned themselves with smoke.’ (cleansing ceremony after the 
+death of a relative) 
+b. bum  burru-rriga   burrb gurrurrij 
+apply.smoke 3PL.A>3SG.P-cook.PST finish car 
+‘They finished smoking the car.’ (cleansing ceremony) 
+c. bum  yirri-ma    motika, bula 
+apply.smoke 1PL.EXCL.A>3SG.P-hit.PST car  track 
+‘We smoked the car, the traces (of the deceased).’ 
+Table 5. Monovalent UVs of application of heat 
+murl ‘roast’, heat by means of hot ground or stones, usually in ground oven  
+bud cook on coals or in hot ashes 
+bum apply smoke (e.g. in ritual cleansing), surround with smoke 
+marl apply s.th. hot (e.g. stones for cooking, or hot bandage) 
+gumarl burn (of country), burn as a bushfire 
+ 
+5.2.4 Causative-inchoative alternation with predicates of internal 
+causation 
+In Jaminjung, predicates of internal causation have the characteristic property 
+of being formed with the IV ganiyu ‘say, do’ in a monovalent reading (see 
+Section 3.2.2). This category includes predicates of sound emisson, speech act, 
+internal motion, and bodily or emotional condition, as well as predicates of 
+internally caused state change such as luba ganiyu ‘grow’, lit. ‘become big’. 
+Most of the UVs involved do not undergo any valency alternations, but some 
+of them (listed in Table 6), notably those of bodily or emotional condition, 
+occur in causative complex predicates formed either with the IV ganangu ‘get, 
+handle’ in a reading of non-physical manipulation, as in (33), or with the IV 
+ganimiliny ‘make’ which otherwise is rarely used as a causative verb. 
+(33) a. Ngayug=gayi bujarl nga-yunggu-m,   Nangari-wu. 
+1SG=ALSO  sad/sorry 1SG.A(>3SG.P)-say/do-PRS subs.name-DAT 
+‘I too am worried for  / sad about Nangari.’ 
+ b. Bujarl guny-ngangga-m. 
+sad/sorry 2DU.A>3SG.P-get/handle-PRS 
+‘You two make her sad.’ 
+[PDF PAGE 22]
+ 21 
+Table 6. UVs of internal causation which occur in a causative-inchoative 
+alternation 
+bujarl ‘be(come) / make someone sad, sorry’ 
+wangarr ‘be(come) / make someone mad, silly, out of one’s mind’ 
+birdinyiny  ‘rotate, spin, turn round and round’ (intr./tr.) 
+jili  ‘stir, move’ (intr.), ‘wake someone up’ (tr.) 
+ 
+5.2.5 Causative-inchoative-stative alternation with predicates of spatial 
+configuration 
+A very productive pattern of alternations is found with stative UVs expressing 
+a position, posture, location, or configuration. These regularly occur with four 
+IVs: gayu ‘be’ (stative intransitive alternant), ganimuwa ‘have’ (stative transitive 
+alternant), gardbany ‘fall, change locative relation’ (inchoative alternant, not 
+entailing downward motion), and ganarrany ‘put, cause to change locative 
+relation’ (causative alternant). Thus, expressions of stative position, of entering 
+a position and of induced position are in an equipollent relationship in 
+Jaminjung, that is, none of them is formally derived from the other (although 
+they are all based on a positional UV which is itself monovalent and stative). 
+The pattern is illustrated in (34) for the UV nang ‘be in a sticking position,  
+adhere’.  
+(34) a.  nang  ga-yu   larriny-gi 
+stick 3SG.S-be.PRS paperbark-LOC 
+‘It is sticking on the paper.’ (stamp)  
+      b. nang-nang=biya burr-irda-m=nu. 
+RDP-stick=SEQ  3PL.S-fall-PRS=3SG.DAT 
+‘They (ants) get stuck on it then.’ (on echidna tongue) 
+     c. nang burr-arra-m. 
+stick 3PL.A>3SG.P-put-PRS 
+‘They stick it on.’ (stamp) 
+d. nang gana-ma-ya   jurruny-gi 
+stick 3SG.A>3SG.P-have-PRS hand-LOC 
+‘He has it stuck in his hand.’ (a lolly) 
+UVs of spatial configuration undergoing the above alternation form a rather 
+large set, due to the propensity of Jaminjung to lexically encode specific types 
+of configurations. The most frequent monovalent UVs of spatial configuration 
+are listed in Table 7. Bivalent UVs of spatial configuration such as warrgi ‘hold 
+[PDF PAGE 23]
+ 22 
+in front’ also undergo an alternation between caused state and causative 
+inchoative, which however does not affect the valency of the resulting 
+complex predicates. 
+Table 7. UVs of spatial configuration  
+waga sit, stay in a place 
+jalu squat, crouch, sit on haunches 
+jardarda kneel, sit/stand on knees 
+mugurn lie, sleep 
+lula lie (multiple entities) 
+yirrb be together, gather around s.o./s.th. 
+ngamang ride, be astride, sit on s.o.’s back or shoulders  
+balbba be side by side, be flat on something, be close together (of two entities) 
+darl lined up, be in a line side by side (of multiple entities) 
+yarr be in one line side by side 
+mundalung back to front, head to toe 
+warrb be together 
+murruny heaped up, in a heap 
+linkid sidewards, on the side 
+bilwa belly up, on the back 
+mun belly down, upside down, bent over 
+walthub be inside, enclosed 
+bagurr be in a flat container with open top (e.g. nest) 
+jardi be full (in a container), be filling out a container 
+bardbard be covered with a layer (e.g. leaves, clothes) 
+thawu be immersed in a liquid, soak 
+gurdij stand (still) 
+bayirr be on top of s.th., be supported 
+thuward lie across, be stretched out across 
+ngardurdug folded (also of clothes), collapsed, crossed (of arms, legs), curled up 
+dibird be wound around s.th., be tied up, be entangled 
+nang stick, adhere to a surface 
+narrng be stuck on/in s.th. 
+bardag joint, be in tight fit 
+thabba be pierced with s.th. such that it protrudes 
+ 
+ 
+5.2.6 Transitivity alternation with stative UVs (S = A) 
+A number of stative UVs participate in a transitivity alternation with non-
+causative semantics where the S in the intransitive alternant corresponds to 
+the A in the transitive alternant. The UV malangayij ‘hear, listen’ is of this type. 
+A class of UVs of direction of gaze, listed in Table 8, also exhibits this 
+alternation. In this case, the intransitive alternant is formed with the IV gagba 
+[PDF PAGE 24]
+ 23 
+‘be’ and a transitive alternant with ganingawu ‘see’. The most frequent and 
+semantically general member of the set is mung ‘look at, watch’, illustrated in 
+(35). In the (a) example, it is also combined with a second, more specific 
+member of this class, mirrang ‘look up’. 
+(35) a. Wirib mirrang mung ga-yu,  ba-ngawu! 
+dog look.up  look.at 3SG.S-be.PRS IMP-see 
+‘The dog is looking (at something) looking up, look!’ (Frog Story, dog 
+looking at beehive) 
+        b. S.-ni =biya mung ganurra-ngayi-na=ngarndi 
+name-ERG=SEQ look.at 3SG.A>3PL.P-see-IMPF=SFOC 
+(yalumburrma). 
+saltwater.crocodile 
+‘S. then was watching the saltwater crocodiles.’ (eating cattle) 
+Table 8. UVs of direction of gaze 
+mung look at s.th., watch 
+mirrang look up 
+wib look back over one’s shoulder 
+ngayirr peep in/out, look into/out of a location 
+riyi be alert, look out from somewhere 
+wiyama look out at night (e.g. of owl) 
+ 
+ 
+5.2.7 Transitivity alternation with UVs of motion (S = A) 
+Another well-defined class of UVs participating in a transitivity alternation 
+with non-causative semantics involves UVs of manner or direction (path) of 
+motion, listed in Tables 9 and 10. These may all occur with both intransitive 
+and transitive IVs of locomotion, as illustrated in (36) for yugung ‘run’, and in 
+these expressions characterise the manner/direction of motion of either S or A, 
+respectively. 
+(36) a. Jayiny ngarrgina yugung ga-ram. 
+MoMo 1SG:POSS run  3SG.S-come.PRS  
+‘My grandchild comes running.’ 
+b. Jalig-di=malang  yugung gan-anja=nu (...) 
+child-ERG=GIVEN run  3SG.A>3SG.P-take.PRS=3SG.DAT 
+‘The child takes it (food) for her, running.’ (... and gives it to the 
+grandmother) 
+[PDF PAGE 25]
+ 24 
+c. Yugung gan-jib-unga-nyi, (...)   
+run  3SG.A>1SG.P-POT-leave-IMPF  
+‘He was going to run away from me (but I held him back).’ 
+ 
+Table 9. UVs of manner of motion 
+warlnginy, galu(wirrb) walk, be on foot, walk around 
+warrng move by moving legs or wings, walk, fly 
+yugung run, race, speed 
+yawal run (of multiple animates) 
+burdurdub race, rush, gallop 
+dibard jump 
+mingib crawl 
+ngarrang stagger 
+digurrgba limp 
+jaburrb wade 
+liwu, lilaj swim 
+rayib sneak 
+lalama rustle 
+ 
+Table 10. UVs of path and direction of motion 
+burduj climb up, move upwards 
+jid, jag move downwards 
+buru return, go back 
+yirrbag move over, shift place 
+malang go across, cross 
+wurlurlu enter (of multiple participants) 
+jarubaj go back and forth 
+laginy take a turnoff 
+marraj go past (point), go through (volume) 
+walig go round, around (in circle- or semi-circle-shaped path) 
+jurdug go in a straight path 
+buyi continue, keep going in same direction 
+ 
+ 
+5.2.8 Transitivity alternation with UVs of activity (S = A) 
+A small class of UVs encoding an activity (see also Section 5.4) also participate 
+in a transitivity alternation with non-causative semantics. In this case the 
+transitive alternant invariably expresses the affectedness of a second 
+participant by the activity. Inflecting verbs used in this context tend to be 
+restricted to ganima ‘hit’ in a secondary sense of ‘affect completely’, and 
+[PDF PAGE 26]
+ 25 
+ganingawu ‘see’ in a secondary sense of ‘direct aggression at someone’. The 
+examples in (37) and (38) illustrate the alternation for the UVs ngarlma ‘be 
+barking’ and gambaja ‘be laughing’, respectively. 
+(37) a.  Ngarlma=biyang  ga-yu..   wirib 
+barking=SEQ  3SG.S-be.PRS dog 
+‘He is barking now, the dog.’ 
+b. Wirib-di ngarlma gani-ngayi-m  marlajagu 
+dog-ERG barking 3SG.A>3SG.P-see-PRS goanna 
+‘The dog is barking at the goanna.’ 
+(38) a. Mayi gambaja ga-yu. 
+man laugh  3SG.S-be.PRS 
+‘The man is laughing.’ 
+ b. Mayi-ni gambaja gani-ma    (janyungbari). 
+man laugh  3SG.A>3SG.P-hit.PST another 
+‘The man is laughing at another one.’ 
+ 
+5.2.9 Transitive-ditransitive (locative-recipient) alternation (L = R) 
+While some trivalent UVs only occur in complex predicates with a ditransitive 
+coding frame (see Section 3.1), a small class of UVs participate in an 
+alternation between a transitive coding frame (with a dative noun phrase 
+encoding a recipient, addressee or beneficiary) and a ditransitive coding frame 
+where this recipient, addressee or beneficiary is promoted to primary object 
+role in terms of indexing on the verb, and is encoded by an absolutive noun 
+phrase (see also Schultze-Berndt 2010). This alternation occurs with UVs 
+semantically selecting for a locative argument, which in the transitive 
+alternant is flagged by one of the spatial cases. In the ditransitive alternant the 
+location is equated with the recipient and is encoded as R indexed on the verb 
+and absolutive object. Consider the case of lawu ‘pour, spill’, already 
+illustrated in (31) above. In (39), this UV is combined with the IV of spatial 
+transfer, ganarrany ‘put’. In this case, the recipient/beneficiary is expressed by 
+a dative noun phrase and an oblique pronominal clitic; in addition, a spatial 
+goal is specified by a locative-marked NP. The ditransitive alternant is formed 
+with the IV ganingarna ‘give’; in this case the R participant is indexed by a 
+verbal prefix rather than an enclitic, and consequently, the overall event is 
+construed as one of transfer of possession, rather than as mere spatial transfer; 
+[PDF PAGE 27]
+ 26 
+a locationis not specified separately. Apart from lawu ‘spill, pour’, wurlmaj 
+‘splash with water’ also occurs in this alternation. 
+(39) a. (Nalija) lawu  nga-w-arra=gunyag   birrigud-gi . 
+tea pour/spill 1SG.A>3SG.P-POT-put=2DU.OBL tin-LOC   
+ ‘I will pour (tea) for you two, in the tin.’ 
+ b. (Nalija)    ngabuny-ngarna=biya  na: lawu .  
+tea 1SG.A>POT:2DU.P-give=SEQ now pour/spill  
+ ‘I will pour you two (tea).’ 
+A second example is the alternating use of the syntactically transitive IV 
+ganangu ‘get/handle’ and the syntactically ditransitive IV ganiyunggany ‘rob, 
+take away from’ with the UV bunug ‘steal’, illustrated in (40). The first 
+expression is used when T (the stolen entity) is not removed from the direct 
+possession of R. If T is physically taken away from R (i.e. out of R’s hands), the 
+ditransitive alternant is used. 
+(40) a. chukchuk=biya thanthu bunug gan-angu  
+chicken=SEQ DEM steal  3SG.A>3SG.P-get/handle.PST  
+wanang-ngunyi=warra 
+where-ABL=DOUBT 
+‘She stole that chicken from I don’t know where.’ (in a film) 
+ b. Majani bunug bun-jungga-ny   
+maybe  steal  3DU.A>1SG.P-take.away-PST   
+ ‘Maybe they robbed me.’ (off a bank card, the implication being that it 
+was near the body of the speaker when stolen) 
+ 
+5.2.10 Ambitransitive alternation (S = P) 
+In this alternation, the same UV is used both with an intransitive verb and a 
+transitive verb. S in the intransitive version corresponds to P in the transitive 
+version; however, the semantics is not causative/inchoative. This alternation is 
+marginal in terms of the UVs involved. It is illustrated here for ngabuj ‘smell’. 
+(41) a. Ngabuj  ga-yu  guyug   
+chicken=SEQ 3SG.S-be.PRS fire 
+‘The fire smells.’ 
+ b. Wirib-ni ngabuj ganuny-ngangu   
+dog-ERG  smell  3SG.A>3DU.P-get/handle.PST    
+ ‘The dog smelled the two.’  
+[PDF PAGE 28]
+ 27 
+ 
+5.2.11 Locative-object (applicative) alternation (L = P) 
+This alternation is attested for two UVs, the path UV walig ‘move in a circle-
+shaped path, move around’, and the positional dibird ‘be wound around 
+something’, the latter illustrated in (42). Both have in common that they 
+semantically select for a location as well as a theme participant, and that, 
+depending on the situation, the location can simultaneously be conceived of as 
+a patient affected by the encirclement. In the locative alternant, the UVs 
+combine with an intransitive IV, with L flagged by one of the spatial cases. In 
+the “object” alternant, the UV combines with the transitive IVs ganangu 
+‘get/handle’ or ganima ‘hit’ (the latter in a secondary sense of “completely 
+affect”, already illustrated in (38)). The operation is similar to an applicative, in 
+that the locative is promoted to direct object status and encoded as P indexed 
+on the verb and as absolutive object; compare the uses of dibird ‘be wound 
+around something’ with the German near-equivalents sich wickeln (um L) and P 
+umwickeln. 
+(42) a. Dibird ga-yu   langiny-gi (mununggu) 
+wound 3SG.S-be.PRS tree-LOC   (rope) 
+‘(A rope) is wound around a tree.’ 
+b. Dibird ngantha-ngga-m   thanthiya mawud 
+wound 2SG.A>3SG.P-get/handle-PRS DEM  glass 
+‘You wound (something) around that bottle.’ 
+c. Langin thudbung dibird burri-ma,    rope-mij \ 
+tree short  wound 3PL.A>3SG.P-hit.PST rope-COM 
+‘They wound the short tree with a rope.’ 
+d. dibird=biji=wung yan-iny-mangu  garridan-ni 
+wind=only=RESTR IRR-3SG.A>2SG.P-hit yellow.tree.snake-ERG 
+‘(It will not bite you,) it will only wind itself around you, the yellow 
+tree snake.’ 
+Interestingly, this alternation does not apply to translation equivalents of 
+many predicates for which one might expect a locative alternation on semantic 
+grounds, e.g. bardag ‘be covered’, yurr ‘rub’, and jardi ‘be full’, for which the 
+“location” is always encoded as a theme.  
+ 
+[PDF PAGE 29]
+ 28 
+5.3. Telicity alternation 
+The telicity alternation has a special status because, unlike the alternations 
+discussed in Section 5.2, it is not only coded by a change of inflecting verb (IV), 
+but also by morphological marking (of iterative lexical aspect) on the 
+uninflecting verb (UV). This makes it more productive and less verb-class 
+specific than any of the other alternations. It is illustrated in (43) to (45). 
+(43) a. en janyungbari burlug-mayan ga-yu  gugu. 
+and another  drink-ITER 3SG.S-be.PRS water 
+‘And the other one is drinking water.’ 
+ b. majani gugu burlug gani-bida     ngayin-ni thanthu-ni. 
+maybe water drink  3SG.A>3SG.P-POT:eat   animal-ERG DEM-ERG 
+‘Maybe it wants to drink water, that animal.’ 
+(44) a. wirib du-mayan ga-yinyji. 
+dog shoot-ITER 3SG.S-go.IMPF 
+‘He was (going around) shooting dogs.’ 
+b. (Mayi)  dirrg-dirrg burrurr-arra-na, 
+person RDP-tied 3PL.A>3PL.P-put-IMPF   
+burrurr-ijja-na   du. 
+3PL.A>3PL.P-poke-IMPF shoot 
+‘They used to tie them (Aboriginal people) up and shoot them.’ 
+(45) a. langiny=biya dirrg-dirrg-mayan  ga-yu=ni  nawurlu-ngguluwa 
+tree=SEQ RDP-tied-ITER 3SG.S-be.PRS=SFOC daughter-KIN2  
+‘She is tying up a tree (while building a shed), your daughter.’  
+    b. langiny-gi dirrg   ga-yu 
+tree-LOC   tied   3SG.S-be.PRS 
+‘It is tied up on a tree.’ (stative; compare also the causative alternant 
+in (44)b). 
+As the examples show, one of the alternants involves a telic complex predicate 
+(in the case of (45), the telic counterpart is actually shown in (44)b). In the 
+atelic alternant, the UV is followed by the productive iterative marker -mayan; 
+alternatively, it has one of a number of non-productive endings such as ja, ya, 
+or b. The IV in the atelic combinations is invariably the intransitive 
+stative/durative verb gagba ‘be’ or, less frequently, the verb gajgany ‘go’ which 
+adds a durative or habitual component to the expression. The whole 
+construction is reminiscent of a progressive in some ways, in that they are 
+used in discourse to present an event as ongoing with respect to a reference 
+[PDF PAGE 30]
+ 29 
+time or, in the case of gajgany ‘go’, as ongoing not relative to a single point in 
+time but relative to a larger time interval (Bertinetto et al. 2000: 523-27). 
+Moreover, both locative and motion verbs are cross-linguistically common as 
+sources of progressive meaning (Bybee & Dahl 1989: 79; Bybee et al. 1994: 133). 
+However, the construction behaves just like other complex predicates in all 
+respects, and can be shown to express (iterative) lexical aspect rather than 
+(progressive) grammatical aspect in that it is restricted to events which can be 
+conceived of as either semelfactive or iterative (see Schultze-Berndt 
+forthcoming for details). For example, both burlug ‘drink’ and du ‘shoot’ can be 
+conceived of as single or repeated instances. However, example (45), 
+demonstrates that the alternation is also available to monovalent stative UV 
+like dirrg ‘be tied’ (which form intransitive stative complex predicates with the 
+same IV gagba ‘be’); the combination with the suffix -mayan coerces a dynamic 
+bivalent interpretation, i.e. multiple acts of tying up, corresponding to the 
+transitive telic complex predicate shown in (44)b). 
+A second special characteristics of this alternation is that it affects the coding 
+frame, but not the numerical valency of the alternants. As the examples also 
+show, the Agent in the (transitive) telic alternant is encoded by an ergative 
+marked NP and the A prefix on the IV, as one would expect; in the atelic 
+alternant the Agent is encoded by the S argument on the IV and as an 
+absolutive noun phrase (in this case, this does not reflect optional ergativity; 
+rather, ergative marking is excluded). The Patient argument is likewise 
+encoded as a second absolutive noun phrase, otherwise impossible with 
+intransitive IVs (see also Section 3.2.3). 
+ 
+5.4. Predicate classes not participating in alternations 
+In addition to the UVs discussed in the previous subsections, there exist a 
+large number of UVs which do not participate in valency alternations except 
+(possibly) for the telicity alternation which is also encoded on the UV. 
+However, they will often combine with more than one IV encoding specific 
+features of the event. Three major classes of UVs not participating in valency 
+alternations are discussed below. 
+The first class is composed of monovalent UVs expressing internally caused 
+events including events of sound emisson, speech act, internal motion, and 
+bodily or emotional condition; a representative list is provided in Table 11. 
+These all combine with the polyfunctional IV ganiyu ‘say, do’ in its 
+syntactically intransitive reading (see Section 3.2.2, and also Section 5.2.4 for 
+some exceptions). A typical example is winy ‘whistle’, illustrated in (46) 
+[PDF PAGE 31]
+ 30 
+(46) winy nganth-unggu-m, 
+whistle 2SG.A>3SG.P-say/do-PRS  
+nganthan jalag   nanthi-ngawu? 
+what  good  2SG.A>3SG.P-see.PST 
+‘you are whistling, what kind of good thing have you found?’ 
+ 
+Table 11. UVs expressing internally caused events 
+bawa call out, shout 
+winy whistle 
+ngujul cough 
+ngajirr sneeze 
+daggarrag burp, hiccough 
+dirrng fart 
+yirrirrib rustle, make a noise 
+jilag report, tell an experience 
+jaj  say/warn in vain 
+gumbulung tell the truth 
+mirrung tell a lie, deceive, pretend 
+dalala shiver, shake 
+burrurrd shake in fright, shudder 
+duwaj, nunaj nod (with the head) 
+mangan wave  
+mangmang move knees in and out (in women’s dance) 
+yimij blink (with the eye)  
+wuburr be turbulent (of water) 
+burrngburrng  bubble, boil up 
+nyam float up (of fish after being poisoned)  
+yarl be itchy 
+jalug be lively, excited 
+ 
+A second large class of UVs not undergoing alternations are UVs of 
+continuous activity, with members from a variety of semantic fields. This class 
+does not exhaust the class of activity predicates, in Vendler’s sense of 
+‘activity’, which includes, for example, also UVs of manner of motion. Rather, 
+the class of UVs of continuous activity is defined formally in that its members 
+combine almost exclusively with the IVs gayu ‘be’ and gajgany ‘go’ which with 
+these UVs function as mere markers of atelicity. This class includes 
+conventionalised activities consisting of multiple sub-events such as thawaya 
+‘eating’, wajama ‘fishing’ and wirrigaja ‘cooking’; as (47) shows, these may be 
+bivalent and allow two absolutive noun phrases (see Section 3.2.3). A few 
+alternating members of the class are discussed in Section 5.2.8.  
+[PDF PAGE 32]
+ 31 
+(47) Guruwuny thawaya  ga-yu   jalig  wuju. 
+boab   eat   3SG.S-be.PRS  child  small 
+‘The small child is eating boab nuts.’ 
+The final type of UVs which does not allow a change of UV bringing about a 
+valency change consists of bivalent UVs with a manner component, e.g. 
+manner of touch, manipulation, or impact. Some frequent UVs of this type are 
+listed in Table 12. Notably, UVs like wunyu ‘wipe out’, wirrb ‘wipe’ and yurr 
+‘rub’ only occur in a pattern where the ground affected by the wiping, not the 
+substance wiped, is encoded as P (direct object). The lexical aspectual 
+distinction between activity and accomplishment can still be expressed by the 
+choice of the IVs ganangu ‘get/handle’ and ganima ‘hit; completely affect’, 
+respectively, as illustrated in (48).  
+(48) a. gidbi-ni   yurr nga-bili    guruwuny 
+red.ochre-ERG/INST rub  1SG.A>3SG.P-POT:get/handle boab 
+‘I’m going to rub the boab nut with red ochre.’ 
+b. yurr nga-ba-ji   yathang, mangurrbbari-ni 
+rub 1SG.A-POT:hit-REFL  allright  black-ERG/INST 
+‘I will die my hair all right, with black die.’ (lit. ‘I will rub myself, with 
+black’) 
+ 
+Table 12. Bivalent UVs with a manner component not undergoing valency 
+alternations 
+mard touch 
+lurrb seize, grab 
+durd hold or pick up a single entity 
+garrb hold or pick up multiple entities or mass; gather 
+laburru scoop up water 
+nyittiny pinch 
+buny kiss 
+ngalyag lick 
+gulyu wash, rinse 
+warr scratch 
+wunyu wipe (out) 
+yurr rub 
+wij scrape 
+gurr dig 
+ngarrg strangle 
+durl push 
+wanywany beat, belt 
+[PDF PAGE 33]
+ 32 
+burrg hit with hands, clap 
+durrg sweep 
+jang chew 
+  
+  
+6. Discussion/conclusion 
+The existence of two distinct “verbal” parts of speech has far-reaching 
+consequences for the grammatical manifestations of valency in Jaminjung (and 
+in a comparable fashion in other languages in a linguistic area in Northern 
+Australia with a similar part of speech division). As already pointed out at the 
+beginning of Section 3 above, it also raises the question of what should be 
+considered as “verbs” for the purposes of investigating valency and verb 
+classes. Translation equivalents of the meaning labels forming the basis for 
+this investigation, for example, can be simple IVs (semantically generic 
+inflecting verbs from a closed class, e.g. gardbany ‘fall’) or complex predicates 
+(e.g. waga gardbany ‘sit down’), or in fact nominal predicates or N + V 
+collocations, e.g. gugu gardbany ‘water + fall’ = ‘rain’, not further discussed in 
+this paper. Predicate classes based on coding frames can be established only 
+for IVs and complex predicates, as shown in Section 4. However, as shown in 
+Section 5, the main strategy of achieving valency change – in the absence of 
+derivational mechanisms – is a change of IV in complex predicates, with an 
+accompanying change in coding frame, while leaving the UV (uninflecting, 
+open class predicative part of speech) constant. As a result, predicate classes 
+based on alternations (or absence of alternations) can be established mainly for 
+UVs. Indeed, the classes of UVs established by this diagnostics partly 
+correspond to predicate classes attested cross-linguistically. Examples 
+discussed here are predicates of externally caused change of state, 
+participating in a causative-inchoative alternation (Section 5.2.1), predicates of 
+internal causation (rarely alternating; see Section 5.4), predicates of manner of 
+motion (exhibiting an S = A alternation, see Section 5.2.7), predicates of 
+posture / position (participating in a causative-inchoative-stative alternation; 
+see Section 5.2.5), and predicates of manner of manipulation or impact (non-
+alternating except possibly for the telicity alternation; see Section 5.4). In 
+addition, the same method also revealed predicate classes corresponding to 
+rather language-specific (possibly culture-specific) lexical fields, such as that of 
+manner of application of heat (participating in a causative-inchoative pattern, 
+see Section 5.2.3) or direction of gaze (participating in an S=A alternation, see 
+Section 5.2.6). 
+[PDF PAGE 34]
+ 33 
+The particular partition of the verbal lexicon in Jaminjung into an open class of 
+UVs and a closed class of IVs also brings about a particular division of labour 
+between the two classes, which in turn leads to a skewed distribution of the 
+major valency classes between the two parts of speech: Overall, there are 
+many more monovalent than bivalent or trivalent UVs, owed to the existence 
+of large classes of UVs of position/configuration, externally caused change of 
+state, change of location, manner of motion, and internal causation, which are 
+all monovalent. Conversely, there are many more transitive (20+) than 
+intransitive (5) or ditransitive (2) IVs. In complex predicates, while the valency 
+of UV and IV can of course also be identical, it is often the IV that contributes 
+an additional A (in causative combinations) or P argument. This can be seen as 
+a manifestation of Economy, since it greatly increases the combinatorial 
+potential of UVs, which after all are the open class of predicates in the 
+language. Thus, caution needs to be exerted when determining a position on a 
+“transitivity hierarchy” for Jaminjung since the position will be radically 
+different depending on whether UVs, IVs, or complex predicates are taken as 
+“verb” equivalents. 
+ 
+References 
+Baker, Brett & Mark Harvey. 2010. Complex predicate formation. In  M. Amberber, B. Baker 
+& M. Harvey (eds), Complex predicates. Cross-linguistic perspectives on event 
+structure, 13-47. Cambridge: Cambridge University Press. 
+Bertinetto, Pier Marco , Karen H. Ebert & Casper de Groot. 2000. The progressive in Europe. 
+In  Ö. Dahl (ed.) Tense and Aspect in the Languages of Europe, 517-58. Berlin: 
+Mouton de Gruyter. 
+Butt, Miriam. 1997. Complex predicates in Urdu. In  A. Alsina, J. Bresnan & P. Sells (eds), 
+Complex Predicates, 107-49. Stanford CA: CSLI Publications. 
+Bybee, Joan L.  & Östen Dahl. 1989. The creation of tense and aspect systems in the 
+languages of the world. Studies in Language 13: 51-103. 
+Bybee, Joan, Revere Perkins & William Pagliuca. 1994. The Evolution of Grammar: Tense, 
+Aspect and Modality in the Languages of the World Chicago: Chicago University 
+Press. 
+Capell, Arthur. 1979. Classification of verbs in Australian languages. In  S.A. Wurm (ed.) 
+Australian Linguistic Studies, 229-322. Canberra: Pacific Linguistics. 
+Chadwick, Neil. 1997. The Barkly and Jaminjung languages: a non-contiguous genetic 
+grouping. In  T. Darrell T. & M. Walsh (eds), Boundary rider: STudies in the lexicology 
+and comparative linguistics of Australian languages. Canberra: Pacific Linguistics. 
+DeLancey, Scott. 1991. Event Construal and case role assignment. Berkeley Linguistic 
+Society 17: 338-53. 
+Dixon, R. M. W. 2001. The Australian linguistic area. In  A.Y. Aikhenvald & R.M.W. Dixon 
+(eds), Areal Diffusion and Genetic inheritance. Problems in comparative linguistics, 
+64-104. Oxford: Oxford University Press. 
+Dowty, D.R. 1991. Thematic proto-roles and argument selection. Language 67: 547-619. 
+Dryer, Matthew S. 1986. Primary objects, secondary objects, and antidative. Language 62: 
+808-45. 
+Foley, William A. & Robert D. Van Valin. 1984. Functional syntax and universal grammar 
+Cambridge: Cambridge University Press. 
+[PDF PAGE 35]
+ 34 
+Gaby, Alice. 2008. Rebuilding Australia's linguistic profile: Recent developments in research 
+on Australian aboriginal languages. Language and Linguistics Compass 2: 211-33. 
+Harvey, Mark. 2008. Proto Mirndi. A discontinuous language family in northern Australia. 
+Canberra: Pacific Linguistics. 
+Haspelmath, Martin. 2005. Argument marking in ditransitive alignment types. Linguistic 
+Discovery 3: 1-21. 
+Levin, Beth  & Malka Rappaport Hovav. 1995. Unaccusativity at the syntax-lexical semantics 
+interface Cambridge, MA: MIT Press. 
+Malchukov, Andrej, Martin Haspelmath & Bernard Comrie. 2010. Ditransitive constructions: a 
+typological overview. In  A. Malchukov, M. Haspelmath & B. Comrie (eds), Ditransitive 
+constructions: a comparative Handbook. Berlin: Mouton de Gruyter. 
+McGregor, William B. 1992. The semantics of ergative marking in Gooniyandi. Linguistics 30: 
+275-318. 
+—. 1998. Optional ergative marking in Gooniyandi revisited: implications for the theory of 
+marking. Leuvense Bijdragen 87: 491-534. 
+—. 2002. Verb classification in Australian languages Berlin: Mouton de Gruyter. 
+—. 2006. Focal and optional ergative marking in Warrwa (Kimberley, Western Australia). 
+Lingua 116: 393-423. 
+—. 2010. Optional ergative case marking systems in a typological-semiotic perspective. 
+Lingua 120: 1610-36. 
+Nichols, Johanna. 1986. Head-marking and dependent-marking grammar. Language 62: 56-
+119. 
+Schultze-Berndt, Eva. 2000. Simple and complex verbs in Jaminjung: A study of event 
+categorisation in an Australian language. Nijmegen: University of Nijmegen. 
+—. 2003. Preverbs as an open word class in Northern Australian languages: synchronic and 
+diachronic correlates. In  G. Booij & J.v. Marle (eds), Yearbook of Morphology 2003, 
+145-77. Dordrecht: Kluwer. 
+—. 2006. Towards a semanto-pragmatic account of optional ergativity in 
+Jaminjung/Ngaliwurru. Paper presented at the Second European Workshop on 
+Australian Languages, 23rd-25th April 2006, Somlószöllös, Hungary. 
+—. 2010. Grammatical properties and classification of three-participant predicates in 
+Jaminjung. In  A. Malchukov, M. Haspelmath & B. Comrie (eds), Studies in 
+Ditransitive Constructions, 510-28. Berlin: Mouton de Gruyter. 
+Schultze-Berndt, Eva & Candide Simard. to appear. Constraints on noun phrase discontinuity 
+in an Australian language: the role of prosody and information structure. Linguistics. 
+Silverstein, Michael. 1986. Classifiers, verb classifiers, and verbal categories. BLS 12: 497-
+514. 
+Tsunoda, Tasaku. 1981. Split case-marking patterns. Linguistics 19: 389-438. 
+Van Valin, Robert D. & Randy J. LaPolla. 1997. Syntax: Structure, meaning and function 
+Cambridge: Cambridge University Press. 
+Van Valin, Robert D. & David Wilkins. 1996. The case for 'effector': case roles, agents, and 
+agency revisited. In  M. Shibatani & S.A. Thomas (eds), Grammatical constructions: 
+their form and meaning, 289-322. Oxford: Clarendon Press. 
+ 
+ 

@@ -1,0 +1,3330 @@
+[
+  {
+    "id": "https://openalex.org/W7166723249",
+    "doi": "https://doi.org/10.15507/2076-2577.26182.159-169",
+    "title": "The Properties of Visual Perception Verbs in the Erzya Language in the Aspect of A. Viberg’s Typological Model",
+    "display_name": "The Properties of Visual Perception Verbs in the Erzya Language in the Aspect of A. Viberg’s Typological Model",
+    "relevance_score": 112.33897,
+    "publication_year": 2026,
+    "publication_date": "2026-06-29",
+    "ids": {
+      "openalex": "https://openalex.org/W7166723249",
+      "doi": "https://doi.org/10.15507/2076-2577.26182.159-169"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.15507/2076-2577.26182.159-169",
+      "doi": "https://doi.org/10.15507/2076-2577.26182.159-169",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.15507/2076-2577.26182.159-169",
+      "pdf_url": "https://journals.rcsi.science/2076-2577/article/download/407401/697226",
+      "source": {
+        "id": "https://openalex.org/S4306540544",
+        "display_name": "Финно-угорский мир",
+        "issn_l": "2076-2577",
+        "issn": [
+          "2076-2577",
+          "2541-982X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "listed_in": [
+          "doaj",
+          "erih-plus",
+          "russia-white-list-2"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Finno-Ugric world",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://journals.rcsi.science/2076-2577/article/download/407401/697226",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5083723247",
+          "display_name": "Natalya Mikhaylovna Mosina",
+          "orcid": "https://orcid.org/0000-0003-1742-5438",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1742-5438"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I294094635",
+            "display_name": "National Research Mordovia State University",
+            "ror": "https://ror.org/0262qgk29",
+            "country_code": "RU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I294094635"
+            ]
+          }
+        ],
+        "countries": [
+          "RU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Natalya M. Mosina",
+        "raw_affiliation_strings": [
+          "National Research Mordovia State University"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1742-5438",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Research Mordovia State University",
+            "institution_ids": [
+              "https://openalex.org/I294094635"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5139677789",
+          "display_name": "Grigoriy M. Komissarov",
+          "orcid": "https://orcid.org/0009-0008-6077-2455",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-6077-2455"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I294094635",
+            "display_name": "National Research Mordovia State University",
+            "ror": "https://ror.org/0262qgk29",
+            "country_code": "RU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I294094635"
+            ]
+          }
+        ],
+        "countries": [
+          "RU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Grigoriy M. Komissarov",
+        "raw_affiliation_strings": [
+          "National Research Mordovia State University"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-6077-2455",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Research Mordovia State University",
+            "institution_ids": [
+              "https://openalex.org/I294094635"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I294094635"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.45906854,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "18",
+      "issue": "2",
+      "first_page": "159",
+      "last_page": "169"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.7753999829292297,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.7753999829292297,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.06019999831914902,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13122",
+        "display_name": "Turkic and Altaic Linguistics",
+        "score": 0.052000001072883606,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/erzya-language",
+        "display_name": "Erzya language",
+        "score": 0.9399999976158142
+      },
+      {
+        "id": "https://openalex.org/keywords/visual-perception-verbs",
+        "display_name": "visual perception verbs",
+        "score": 0.8949999809265137
+      },
+      {
+        "id": "https://openalex.org/keywords/lexico-semantic-field",
+        "display_name": "lexical-semantic field",
+        "score": 0.7129999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/thematic-roles",
+        "display_name": "thematic roles",
+        "score": 0.37400001287460327
+      },
+      {
+        "id": "https://openalex.org/keywords/linguistic-worldview",
+        "display_name": "linguistic worldview",
+        "score": 0.5249999761581421
+      },
+      {
+        "id": "https://openalex.org/keywords/lexico-semantic-groups",
+        "display_name": "lexical-semantic groups",
+        "score": 0.621999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/finno-ugric-languages",
+        "display_name": "Finno-Ugric languages",
+        "score": 0.6399999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/word-meaning",
+        "display_name": "word meaning",
+        "score": 0.36399999260902405
+      },
+      {
+        "id": "https://openalex.org/keywords/componential-analysis",
+        "display_name": "componential analysis",
+        "score": 0.5590000152587891
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.6607999801635742
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.545799970626831
+      },
+      {
+        "id": "https://openalex.org/C48314727",
+        "wikidata": "https://www.wikidata.org/wiki/Q560570",
+        "display_name": "Modal verb",
+        "level": 3,
+        "score": 0.5220000147819519
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4542999863624573
+      },
+      {
+        "id": "https://openalex.org/C94124525",
+        "wikidata": "https://www.wikidata.org/wiki/Q912550",
+        "display_name": "Categorization",
+        "level": 2,
+        "score": 0.4521999955177307
+      },
+      {
+        "id": "https://openalex.org/C204321447",
+        "wikidata": "https://www.wikidata.org/wiki/Q30642",
+        "display_name": "Natural language processing",
+        "level": 1,
+        "score": 0.4397999942302704
+      },
+      {
+        "id": "https://openalex.org/C178253425",
+        "wikidata": "https://www.wikidata.org/wiki/Q162668",
+        "display_name": "Visual perception",
+        "level": 3,
+        "score": 0.43459999561309814
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.38370001316070557
+      },
+      {
+        "id": "https://openalex.org/C24457497",
+        "wikidata": "https://www.wikidata.org/wiki/Q176377",
+        "display_name": "Semantic field",
+        "level": 2,
+        "score": 0.38350000977516174
+      },
+      {
+        "id": "https://openalex.org/C2780878386",
+        "wikidata": "https://www.wikidata.org/wiki/Q1659648",
+        "display_name": "Visual language",
+        "level": 2,
+        "score": 0.38350000977516174
+      },
+      {
+        "id": "https://openalex.org/C98954769",
+        "wikidata": "https://www.wikidata.org/wiki/Q1759657",
+        "display_name": "Lexical semantics",
+        "level": 3,
+        "score": 0.38109999895095825
+      },
+      {
+        "id": "https://openalex.org/C158154518",
+        "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+        "display_name": "Relevance (law)",
+        "level": 2,
+        "score": 0.375
+      },
+      {
+        "id": "https://openalex.org/C184337299",
+        "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+        "display_name": "Semantics (computer science)",
+        "level": 2,
+        "score": 0.34290000796318054
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.3370000123977661
+      },
+      {
+        "id": "https://openalex.org/C198942812",
+        "wikidata": "https://www.wikidata.org/wiki/Q496618",
+        "display_name": "Semantic property",
+        "level": 2,
+        "score": 0.3215000033378601
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.3163999915122986
+      },
+      {
+        "id": "https://openalex.org/C2777946921",
+        "wikidata": "https://www.wikidata.org/wiki/Q7449044",
+        "display_name": "Semantic analysis (machine learning)",
+        "level": 2,
+        "score": 0.3091999888420105
+      },
+      {
+        "id": "https://openalex.org/C9652623",
+        "wikidata": "https://www.wikidata.org/wiki/Q190109",
+        "display_name": "Field (mathematics)",
+        "level": 2,
+        "score": 0.287200003862381
+      },
+      {
+        "id": "https://openalex.org/C75291252",
+        "wikidata": "https://www.wikidata.org/wiki/Q1315756",
+        "display_name": "TRACE (psycholinguistics)",
+        "level": 2,
+        "score": 0.2854999899864197
+      },
+      {
+        "id": "https://openalex.org/C33640556",
+        "wikidata": "https://www.wikidata.org/wiki/Q2459671",
+        "display_name": "Categorical perception",
+        "level": 4,
+        "score": 0.27570000290870667
+      },
+      {
+        "id": "https://openalex.org/C59985594",
+        "wikidata": "https://www.wikidata.org/wiki/Q1758140",
+        "display_name": "Contrastive linguistics",
+        "level": 3,
+        "score": 0.272599995136261
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.26030001044273376
+      },
+      {
+        "id": "https://openalex.org/C136197465",
+        "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+        "display_name": "Variety (cybernetics)",
+        "level": 2,
+        "score": 0.25839999318122864
+      },
+      {
+        "id": "https://openalex.org/C126706616",
+        "wikidata": "https://www.wikidata.org/wiki/Q2944660",
+        "display_name": "Lexical item",
+        "level": 2,
+        "score": 0.25380000472068787
+      },
+      {
+        "id": "https://openalex.org/C120936955",
+        "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+        "display_name": "Empirical research",
+        "level": 2,
+        "score": 0.25220000743865967
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.15507/2076-2577.26182.159-169",
+        "doi": "https://doi.org/10.15507/2076-2577.26182.159-169",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15507/2076-2577.26182.159-169",
+        "pdf_url": "https://journals.rcsi.science/2076-2577/article/download/407401/697226",
+        "source": {
+          "id": "https://openalex.org/S4306540544",
+          "display_name": "Финно-угорский мир",
+          "issn_l": "2076-2577",
+          "issn": [
+            "2076-2577",
+            "2541-982X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "listed_in": [
+            "doaj",
+            "erih-plus",
+            "russia-white-list-2"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Finno-Ugric world",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:https://cyberleninka.ru/article/n/svoystva-glagolov-zritelnogo-vospriyatiya-v-erzyanskom-yazyke-v-aspekte-tipologicheskoy-modeli-a-viberga",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://cyberleninka.ru/article/n/svoystva-glagolov-zritelnogo-vospriyatiya-v-erzyanskom-yazyke-v-aspekte-tipologicheskoy-modeli-a-viberga",
+        "pdf_url": "https://cyberleninka.ru/article/n/svoystva-glagolov-zritelnogo-vospriyatiya-v-erzyanskom-yazyke-v-aspekte-tipologicheskoy-modeli-a-viberga/pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401404",
+          "display_name": "CyberLeninK (CyberLeninka)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:4cb7bcc732f446cdaaec8b92bca06be1",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/4cb7bcc732f446cdaaec8b92bca06be1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Финно-угорский мир, Vol 18, Iss 2, Pp 159-169 (2026)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.15507/2076-2577.26182.159-169",
+      "doi": "https://doi.org/10.15507/2076-2577.26182.159-169",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.15507/2076-2577.26182.159-169",
+      "pdf_url": "https://journals.rcsi.science/2076-2577/article/download/407401/697226",
+      "source": {
+        "id": "https://openalex.org/S4306540544",
+        "display_name": "Финно-угорский мир",
+        "issn_l": "2076-2577",
+        "issn": [
+          "2076-2577",
+          "2541-982X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "listed_in": [
+          "doaj",
+          "erih-plus",
+          "russia-white-list-2"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Finno-Ugric world",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7166723249.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7166723249.grobid-xml"
+    },
+    "referenced_works_count": 7,
+    "referenced_works": [
+      "https://openalex.org/W1981573681",
+      "https://openalex.org/W2988768988",
+      "https://openalex.org/W3005032533",
+      "https://openalex.org/W3016448255",
+      "https://openalex.org/W3033313419",
+      "https://openalex.org/W3114277139",
+      "https://openalex.org/W3163501518"
+    ],
+    "related_works": [
+      "https://openalex.org/W3163501518",
+      "https://openalex.org/W7166907494",
+      "https://openalex.org/W7162954215",
+      "https://openalex.org/W4313641899",
+      "https://openalex.org/W4392768539",
+      "https://openalex.org/W4381295820",
+      "https://openalex.org/W7165634175",
+      "https://openalex.org/W7215897509",
+      "https://openalex.org/W3136498895",
+      "https://openalex.org/W4403108214"
+    ],
+    "abstract_inverted_index": {
+      "Introduction.": [
+        0
+      ],
+      "Verbs": [
+        1
+      ],
+      "of": [
+        2,
+        13,
+        30,
+        34,
+        47,
+        57,
+        59,
+        68,
+        79,
+        81,
+        91,
+        97,
+        104,
+        111,
+        130,
+        140,
+        180,
+        220,
+        226,
+        240,
+        248,
+        253,
+        279,
+        295,
+        298,
+        318,
+        338,
+        353,
+        372,
+        396,
+        427,
+        438
+      ],
+      "visual": [
+        3,
+        28,
+        82,
+        131,
+        181,
+        249,
+        254,
+        319,
+        400
+      ],
+      "perception": [
+        4,
+        83,
+        132,
+        182,
+        221,
+        255,
+        320,
+        387,
+        401
+      ],
+      "occupy": [
+        5
+      ],
+      "a": [
+        6,
+        48,
+        63,
+        105,
+        148,
+        153,
+        315
+      ],
+      "special": [
+        7
+      ],
+      "place": [
+        8
+      ],
+      "in": [
+        9,
+        84,
+        115,
+        151,
+        183,
+        257,
+        301,
+        341,
+        393,
+        403
+      ],
+      "the": [
+        10,
+        19,
+        23,
+        27,
+        44,
+        55,
+        76,
+        85,
+        89,
+        98,
+        102,
+        127,
+        138,
+        141,
+        159,
+        168,
+        184,
+        217,
+        224,
+        237,
+        245,
+        258,
+        276,
+        280,
+        292,
+        302,
+        312,
+        329,
+        335,
+        342,
+        349,
+        363,
+        369,
+        373,
+        389,
+        394,
+        397,
+        409,
+        425
+      ],
+      "lexical": [
+        11,
+        113
+      ],
+      "system": [
+        12
+      ],
+      "any": [
+        14
+      ],
+      "language,": [
+        15,
+        186
+      ],
+      "as": [
+        16,
+        156,
+        380,
+        382
+      ],
+      "they": [
+        17
+      ],
+      "reflect": [
+        18
+      ],
+      "way": [
+        20
+      ],
+      "people": [
+        21
+      ],
+      "conceptualize": [
+        22
+      ],
+      "surrounding": [
+        24
+      ],
+      "world": [
+        25,
+        169
+      ],
+      "through": [
+        26,
+        162,
+        188
+      ],
+      "channel": [
+        29,
+        161
+      ],
+      "perception.": [
+        31
+      ],
+      "The": [
+        32,
+        66,
+        95,
+        198,
+        234,
+        270,
+        366,
+        421
+      ],
+      "study": [
+        33,
+        70,
+        176,
+        305,
+        313,
+        347
+      ],
+      "such": [
+        35
+      ],
+      "verbs": [
+        36,
+        80,
+        133,
+        146,
+        179,
+        222,
+        242,
+        256,
+        271,
+        340,
+        402
+      ],
+      "makes": [
+        37,
+        120
+      ],
+      "it": [
+        38,
+        121
+      ],
+      "possible": [
+        39,
+        122
+      ],
+      "not": [
+        40,
+        123
+      ],
+      "only": [
+        41,
+        124
+      ],
+      "to": [
+        42,
+        53,
+        72,
+        125,
+        136,
+        215,
+        275,
+        424
+      ],
+      "identify": [
+        43,
+        73
+      ],
+      "specific": [
+        45
+      ],
+      "features": [
+        46
+      ],
+      "language’s": [
+        49,
+        154
+      ],
+      "worldview": [
+        50
+      ],
+      "but": [
+        51,
+        134
+      ],
+      "also": [
+        52,
+        135
+      ],
+      "trace": [
+        54
+      ],
+      "patterns": [
+        56
+      ],
+      "development": [
+        58
+      ],
+      "lexical-semantic": [
+        60,
+        128,
+        336
+      ],
+      "groups": [
+        61
+      ],
+      "within": [
+        62,
+        88,
+        223,
+        418
+      ],
+      "particular": [
+        64
+      ],
+      "language.": [
+        65,
+        344,
+        365
+      ],
+      "aim": [
+        67
+      ],
+      "this": [
+        69,
+        112
+      ],
+      "is": [
+        71,
+        158
+      ],
+      "and": [
+        74,
+        108,
+        173,
+        195,
+        212,
+        232,
+        267,
+        283,
+        285,
+        327,
+        334,
+        377,
+        385,
+        430,
+        441
+      ],
+      "systematize": [
+        75
+      ],
+      "semantic": [
+        77,
+        107,
+        218,
+        238,
+        277,
+        325,
+        416
+      ],
+      "characteristics": [
+        78,
+        239
+      ],
+      "Erzya": [
+        86,
+        185,
+        192,
+        241,
+        259,
+        343,
+        364,
+        404
+      ],
+      "language": [
+        87,
+        260,
+        303
+      ],
+      "framework": [
+        90,
+        225
+      ],
+      "А.": [
+        92
+      ],
+      "Viberg’s": [
+        93,
+        228,
+        355
+      ],
+      "model.": [
+        94,
+        143,
+        230
+      ],
+      "relevance": [
+        96
+      ],
+      "research": [
+        99,
+        199
+      ],
+      "stems": [
+        100
+      ],
+      "from": [
+        101,
+        191,
+        265,
+        362
+      ],
+      "lack": [
+        103
+      ],
+      "systematic": [
+        106,
+        351
+      ],
+      "typological": [
+        109,
+        229,
+        357
+      ],
+      "analysis": [
+        110,
+        119
+      ],
+      "group": [
+        114,
+        297
+      ],
+      "Erzya.": [
+        116
+      ],
+      "Such": [
+        117
+      ],
+      "an": [
+        118
+      ],
+      "describe": [
+        126
+      ],
+      "field": [
+        129,
+        247
+      ],
+      "test": [
+        137
+      ],
+      "universality": [
+        139
+      ],
+      "proposed": [
+        142,
+        281
+      ],
+      "Furthermore,": [
+        144
+      ],
+      "these": [
+        145,
+        310,
+        339
+      ],
+      "play": [
+        147
+      ],
+      "crucial": [
+        149
+      ],
+      "role": [
+        150
+      ],
+      "shaping": [
+        152
+      ],
+      "worldview,": [
+        155
+      ],
+      "vision": [
+        157
+      ],
+      "dominant": [
+        160
+      ],
+      "which": [
+        163
+      ],
+      "humans": [
+        164
+      ],
+      "acquire": [
+        165
+      ],
+      "information": [
+        166
+      ],
+      "about": [
+        167
+      ],
+      "around": [
+        170
+      ],
+      "them.": [
+        171
+      ],
+      "Materials": [
+        172
+      ],
+      "Methods.": [
+        174
+      ],
+      "This": [
+        175,
+        346
+      ],
+      "focuses": [
+        177
+      ],
+      "on": [
+        178,
+        360
+      ],
+      "identified": [
+        187,
+        322
+      ],
+      "exhaustive": [
+        189
+      ],
+      "sampling": [
+        190
+      ],
+      "lexicographic": [
+        193
+      ],
+      "sources": [
+        194
+      ],
+      "national": [
+        196,
+        268
+      ],
+      "corpora.": [
+        197,
+        269
+      ],
+      "combines": [
+        200
+      ],
+      "general": [
+        201
+      ],
+      "scientific": [
+        202
+      ],
+      "methods": [
+        203
+      ],
+      "with": [
+        204,
+        414
+      ],
+      "specialized": [
+        205
+      ],
+      "linguistic": [
+        206
+      ],
+      "approaches,": [
+        207
+      ],
+      "including": [
+        208
+      ],
+      "structural-semantic,": [
+        209
+      ],
+      "componential,": [
+        210
+      ],
+      "contextual,": [
+        211
+      ],
+      "comparative": [
+        213,
+        436
+      ],
+      "analyses,": [
+        214
+      ],
+      "analyze": [
+        216
+      ],
+      "properties": [
+        219,
+        337
+      ],
+      "A.": [
+        227,
+        354
+      ],
+      "Results": [
+        231
+      ],
+      "Discussion.": [
+        233
+      ],
+      "article": [
+        235
+      ],
+      "analyzes": [
+        236
+      ],
+      "that": [
+        243
+      ],
+      "constitute": [
+        244
+      ],
+      "lexico-semantic": [
+        246,
+        390
+      ],
+      "modality.": [
+        250
+      ],
+      "A": [
+        251
+      ],
+      "corpus": [
+        252
+      ],
+      "was": [
+        261,
+        306
+      ],
+      "compiled": [
+        262
+      ],
+      "using": [
+        263
+      ],
+      "data": [
+        264,
+        361
+      ],
+      "dictionaries": [
+        266
+      ],
+      "were": [
+        272,
+        288
+      ],
+      "classified": [
+        273
+      ],
+      "according": [
+        274
+      ],
+      "types": [
+        278
+      ],
+      "model,": [
+        282
+      ],
+      "subject-oriented": [
+        284,
+        376
+      ],
+      "object-oriented": [
+        286,
+        378
+      ],
+      "lexemes": [
+        287
+      ],
+      "identified.": [
+        289
+      ],
+      "In": [
+        290
+      ],
+      "addition,": [
+        291
+      ],
+      "focus": [
+        293,
+        332,
+        412
+      ],
+      "type": [
+        294,
+        333
+      ],
+      "each": [
+        296,
+        419
+      ],
+      "verbal": [
+        299
+      ],
+      "units": [
+        300
+      ],
+      "under": [
+        304
+      ],
+      "determined.": [
+        307
+      ],
+      "To": [
+        308
+      ],
+      "achieve": [
+        309
+      ],
+      "objectives,": [
+        311
+      ],
+      "employed": [
+        314
+      ],
+      "three-part": [
+        316,
+        356
+      ],
+      "classification": [
+        317
+      ],
+      "verbs,": [
+        321
+      ],
+      "their": [
+        323
+      ],
+      "fundamental": [
+        324
+      ],
+      "roles,": [
+        326
+      ],
+      "examined": [
+        328
+      ],
+      "correlations": [
+        330
+      ],
+      "between": [
+        331,
+        375,
+        383
+      ],
+      "Conclusion.": [
+        345
+      ],
+      "provides": [
+        348
+      ],
+      "first": [
+        350
+      ],
+      "verification": [
+        352
+      ],
+      "model": [
+        358
+      ],
+      "based": [
+        359
+      ],
+      "results": [
+        367
+      ],
+      "confirm": [
+        368
+      ],
+      "cross-linguistic": [
+        370
+      ],
+      "validity": [
+        371
+      ],
+      "distinction": [
+        374
+      ],
+      "focus,": [
+        379
+      ],
+      "well": [
+        381
+      ],
+      "controlled": [
+        384
+      ],
+      "uncontrolled": [
+        386
+      ],
+      "at": [
+        388
+      ],
+      "level.": [
+        391
+      ],
+      "As": [
+        392
+      ],
+      "majority": [
+        395
+      ],
+      "world’s": [
+        398
+      ],
+      "languages,": [
+        399
+      ],
+      "are": [
+        405
+      ],
+      "clearly": [
+        406
+      ],
+      "divided": [
+        407
+      ],
+      "into": [
+        408
+      ],
+      "two": [
+        410
+      ],
+      "main": [
+        411
+      ],
+      "types,": [
+        413
+      ],
+      "further": [
+        415
+      ],
+      "differentiation": [
+        417
+      ],
+      "group.": [
+        420
+      ],
+      "findings": [
+        422
+      ],
+      "contribute": [
+        423
+      ],
+      "typology": [
+        426
+      ],
+      "perceptual": [
+        428
+      ],
+      "lexicon": [
+        429
+      ],
+      "offer": [
+        431
+      ],
+      "promising": [
+        432
+      ],
+      "directions": [
+        433
+      ],
+      "for": [
+        434
+      ],
+      "future": [
+        435
+      ],
+      "studies": [
+        437
+      ],
+      "both": [
+        439
+      ],
+      "Finno-Ugric": [
+        440
+      ],
+      "Indo-European": [
+        442
+      ],
+      "languages.": [
+        443
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-11-04T10:54:05.112534",
+    "created_date": "2026-07-01T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4392768539",
+    "doi": "https://doi.org/10.1353/lan.2024.a922000",
+    "title": "Verbs of Perception: A Quantitative Typological Study",
+    "display_name": "Verbs of Perception: A Quantitative Typological Study",
+    "relevance_score": 44.218304,
+    "publication_year": 2024,
+    "publication_date": "2024-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4392768539",
+      "doi": "https://doi.org/10.1353/lan.2024.a922000"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1353/lan.2024.a922000",
+      "doi": "https://doi.org/10.1353/lan.2024.a922000",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1353/lan.2024.a922000",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S176347361",
+        "display_name": "Language",
+        "issn_l": "0097-8507",
+        "issn": [
+          "0097-8507",
+          "1535-0665"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316359",
+        "host_organization_name": "Linguistic Society of America",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316359"
+        ],
+        "host_organization_lineage_names": [
+          "Linguistic Society of America"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Language",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5077980734",
+          "display_name": "Elisabeth Norcliffe",
+          "orcid": "https://orcid.org/0000-0001-8646-6474",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8646-6474"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Elisabeth Norcliffe",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021652762",
+          "display_name": "Asifa Majid",
+          "orcid": "https://orcid.org/0000-0003-0132-216X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0132-216X"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Asifa Majid",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 7.2231,
+    "has_fulltext": true,
+    "cited_by_count": 23,
+    "citation_normalized_percentile": {
+      "value": 0.97864266,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "100",
+      "issue": "1",
+      "first_page": "81",
+      "last_page": "123"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.9916999936103821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.9916999936103821,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.006099999882280827,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12881",
+        "display_name": "linguistics and terminology studies",
+        "score": 0.0006000000284984708,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/perception-verbs",
+        "display_name": "perception verbs",
+        "score": 0.9819999933242798
+      },
+      {
+        "id": "https://openalex.org/keywords/lexicalization",
+        "display_name": "lexicalization",
+        "score": 0.8069999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/vision",
+        "display_name": "vision",
+        "score": 0.6039999723434448
+      },
+      {
+        "id": "https://openalex.org/keywords/colexification",
+        "display_name": "colexification",
+        "score": 0.8420000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/conceptual-similarity",
+        "display_name": "concept similarity",
+        "score": 0.8100000023841858
+      },
+      {
+        "id": "https://openalex.org/keywords/communication-requirements",
+        "display_name": "communication needs",
+        "score": 0.9750000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-linguistic-typology",
+        "display_name": "cross-linguistic typology",
+        "score": 0.7720000147819519
+      },
+      {
+        "id": "https://openalex.org/keywords/verb-lexicon",
+        "display_name": "verb lexicon",
+        "score": 0.6470000147819519
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.691798746585846
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.5746915340423584
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5280386209487915
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.4128093719482422
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.08888211846351624
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1353/lan.2024.a922000",
+        "doi": "https://doi.org/10.1353/lan.2024.a922000",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1353/lan.2024.a922000",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S176347361",
+          "display_name": "Language",
+          "issn_l": "0097-8507",
+          "issn": [
+            "0097-8507",
+            "1535-0665"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316359",
+          "host_organization_name": "Linguistic Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316359"
+          ],
+          "host_organization_lineage_names": [
+            "Linguistic Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Language",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Symplectic Elements",
+        "raw_type": "Journal article"
+      },
+      {
+        "id": "pmh:oai:muse.jhu.edu:/article/922000",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://muse.jhu.edu/pub/24/article/922000/pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196299",
+          "display_name": "Project Muse (Johns Hopkins University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I145311948",
+          "host_organization_name": "Johns Hopkins University",
+          "host_organization_lineage": [
+            "https://openalex.org/I145311948"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "text"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:ora.ox.ac.uk:uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+      "pdf_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+      "source": {
+        "id": "https://openalex.org/S4306402636",
+        "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I40120149",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/I40120149"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Symplectic Elements",
+      "raw_type": "Journal article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G5395055984",
+        "display_name": "The Lexicalisation of Perceptual Experience",
+        "funder_award_id": "836921",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320320300",
+        "display_name": "European Commission",
+        "ror": "https://ror.org/00k4n6c32"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4392768539.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4392768539.grobid-xml"
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4401278343",
+      "https://openalex.org/W7001996396",
+      "https://openalex.org/W2266884515",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W2302707509",
+      "https://openalex.org/W2462115631",
+      "https://openalex.org/W7223129855",
+      "https://openalex.org/W2810040508",
+      "https://openalex.org/W6925014379",
+      "https://openalex.org/W7097151961"
+    ],
+    "abstract_inverted_index": {
+      "Previous": [
+        0
+      ],
+      "studies": [
+        1
+      ],
+      "have": [
+        2
+      ],
+      "proposed": [
+        3
+      ],
+      "that": [
+        4,
+        43,
+        54,
+        87
+      ],
+      "the": [
+        5,
+        18,
+        61,
+        64,
+        83
+      ],
+      "lexicalization": [
+        6,
+        97
+      ],
+      "of": [
+        7,
+        17,
+        34,
+        63,
+        82
+      ],
+      "perception": [
+        8,
+        35
+      ],
+      "verbs": [
+        9
+      ],
+      "is": [
+        10
+      ],
+      "constrained": [
+        11
+      ],
+      "by": [
+        12
+      ],
+      "a": [
+        13,
+        31,
+        50,
+        79
+      ],
+      "biologically": [
+        14
+      ],
+      "grounded": [
+        15
+      ],
+      "hierarchy": [
+        16,
+        81
+      ],
+      "senses.": [
+        19
+      ],
+      "Other": [
+        20
+      ],
+      "research": [
+        21
+      ],
+      "traditions": [
+        22
+      ],
+      "emphasize": [
+        23
+      ],
+      "conceptual": [
+        24
+      ],
+      "and": [
+        25,
+        92
+      ],
+      "communicative": [
+        26,
+        93
+      ],
+      "factors": [
+        27
+      ],
+      "instead.": [
+        28
+      ],
+      "Drawing": [
+        29
+      ],
+      "on": [
+        30
+      ],
+      "balanced": [
+        32
+      ],
+      "sample": [
+        33
+      ],
+      "verb": [
+        36
+      ],
+      "lexicons": [
+        37
+      ],
+      "in": [
+        38,
+        72
+      ],
+      "100": [
+        39
+      ],
+      "languages,": [
+        40
+      ],
+      "we": [
+        41,
+        85
+      ],
+      "found": [
+        42,
+        69
+      ],
+      "vision": [
+        44
+      ],
+      "tends": [
+        45
+      ],
+      "to": [
+        46,
+        60,
+        95
+      ],
+      "be": [
+        47
+      ],
+      "lexicalized": [
+        48
+      ],
+      "with": [
+        49
+      ],
+      "dedicated": [
+        51
+      ],
+      "verb,": [
+        52
+      ],
+      "but": [
+        53
+      ],
+      "nonvisual": [
+        55
+      ],
+      "modalities": [
+        56
+      ],
+      "do": [
+        57
+      ],
+      "not": [
+        58
+      ],
+      "conform": [
+        59
+      ],
+      "predictions": [
+        62
+      ],
+      "sense-modality": [
+        65
+      ],
+      "hierarchy.": [
+        66
+      ],
+      "We": [
+        67
+      ],
+      "also": [
+        68
+      ],
+      "strong": [
+        70
+      ],
+      "asymmetries": [
+        71
+      ],
+      "which": [
+        73
+      ],
+      "sensory": [
+        74
+      ],
+      "meanings": [
+        75
+      ],
+      "colexify.": [
+        76
+      ],
+      "Rather": [
+        77
+      ],
+      "than": [
+        78
+      ],
+      "universal": [
+        80
+      ],
+      "senses,": [
+        84
+      ],
+      "suggest": [
+        86
+      ],
+      "two": [
+        88
+      ],
+      "domain-general": [
+        89
+      ],
+      "constraints—conceptual": [
+        90
+      ],
+      "similarity": [
+        91
+      ],
+      "need—interact": [
+        94
+      ],
+      "shape": [
+        96
+      ],
+      "patterns.": [
+        98
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-11-06T12:05:46.655746",
+    "created_date": "2024-03-14T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W7223129855",
+    "doi": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+    "title": "Typological Hierarchy and Cognitive Motivation: English and Hausa Perception Verbs in Romance Fiction",
+    "display_name": "Typological Hierarchy and Cognitive Motivation: English and Hausa Perception Verbs in Romance Fiction",
+    "relevance_score": 40.4755,
+    "publication_year": 2026,
+    "publication_date": "2026-10-21",
+    "ids": {
+      "openalex": "https://openalex.org/W7223129855",
+      "doi": "https://doi.org/10.57233/tjllc.2026.v05i03.009"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.57233/tjllc.2026.v05i03.009",
+      "doi": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4387284527",
+        "display_name": "TASAMBO JOURNAL OF LANGUAGE LITERATURE AND CULTURE",
+        "issn_l": "2782-8182",
+        "issn": [
+          "2782-8182",
+          "2757-6730"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "listed_in": [
+          "doaj"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Tasambo Journal of Language, Literature, and Culture",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5018171202",
+          "display_name": "Mohammed Sani Ya’u",
+          "orcid": "https://orcid.org/0009-0002-8453-5573",
+          "observed_orcids": [
+            "https://orcid.org/0009-0002-8453-5573"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210109391",
+            "display_name": "Sa'adu Zungur University",
+            "ror": "https://ror.org/02mg7se45",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohammed Sani Ya'u",
+        "raw_affiliation_strings": [
+          "Sa'adu Zungur University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sa'adu Zungur University",
+            "institution_ids": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5159222161",
+          "display_name": "Abdullahi Adamu Gidiya",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210109391",
+            "display_name": "Sa'adu Zungur University",
+            "ror": "https://ror.org/02mg7se45",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Abdullahi Adamu Gidiya",
+        "raw_affiliation_strings": [
+          "Sa'adu Zungur University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Sa'adu Zungur University",
+            "institution_ids": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5159182006",
+          "display_name": "Abdulrashid Saminu",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405252547",
+            "display_name": "Federal University of Health Sciences Azare",
+            "ror": "https://ror.org/0005yy970",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405252547"
+            ]
+          }
+        ],
+        "countries": [
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Abdulrashid Saminu",
+        "raw_affiliation_strings": [
+          "Federal University of Health Sciences Azare"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Federal University of Health Sciences Azare",
+            "institution_ids": [
+              "https://openalex.org/I4405252547"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.87212661,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "5",
+      "issue": "3",
+      "first_page": "106",
+      "last_page": "106"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.9688000082969666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11148",
+        "display_name": "Language, Metaphor, and Cognition",
+        "score": 0.9688000082969666,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3310",
+          "display_name": "Linguistics and Language"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.025499999523162842,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.003000000026077032,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/perception-verbs",
+        "display_name": "perception verbs",
+        "score": 0.8849999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-motivation",
+        "display_name": "cognitive motivation",
+        "score": 0.8069999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/metaphor",
+        "display_name": "metaphor",
+        "score": 0.5070000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/semantic-extension",
+        "display_name": "semantic extension",
+        "score": 0.5460000038146973
+      },
+      {
+        "id": "https://openalex.org/keywords/lexical-polysemy",
+        "display_name": "lexical polysemy",
+        "score": 0.8980000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/embodied-cognition",
+        "display_name": "embodied cognition",
+        "score": 0.781000018119812
+      },
+      {
+        "id": "https://openalex.org/keywords/romance-fiction",
+        "display_name": "romance fiction",
+        "score": 0.5370000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-linguistic-comparison",
+        "display_name": "cross-linguistic comparison",
+        "score": 0.75
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C153924320",
+        "wikidata": "https://www.wikidata.org/wiki/Q56475",
+        "display_name": "Hausa",
+        "level": 2,
+        "score": 0.9174000024795532
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.6834999918937683
+      },
+      {
+        "id": "https://openalex.org/C31170391",
+        "wikidata": "https://www.wikidata.org/wiki/Q188619",
+        "display_name": "Hierarchy",
+        "level": 2,
+        "score": 0.5803999900817871
+      },
+      {
+        "id": "https://openalex.org/C2778311575",
+        "wikidata": "https://www.wikidata.org/wiki/Q18534",
+        "display_name": "Metaphor",
+        "level": 2,
+        "score": 0.5065000057220459
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5056999921798706
+      },
+      {
+        "id": "https://openalex.org/C518914266",
+        "wikidata": "https://www.wikidata.org/wiki/Q1054574",
+        "display_name": "Romance",
+        "level": 2,
+        "score": 0.4966999888420105
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.4837000072002411
+      },
+      {
+        "id": "https://openalex.org/C100609095",
+        "wikidata": "https://www.wikidata.org/wiki/Q1335050",
+        "display_name": "Embodied cognition",
+        "level": 2,
+        "score": 0.45100000500679016
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.4341000020503998
+      },
+      {
+        "id": "https://openalex.org/C66332616",
+        "wikidata": "https://www.wikidata.org/wiki/Q871801",
+        "display_name": "Cognitive semantics",
+        "level": 3,
+        "score": 0.3522999882698059
+      },
+      {
+        "id": "https://openalex.org/C169105985",
+        "wikidata": "https://www.wikidata.org/wiki/Q36395",
+        "display_name": "Middle English",
+        "level": 2,
+        "score": 0.34040001034736633
+      },
+      {
+        "id": "https://openalex.org/C2776402256",
+        "wikidata": "https://www.wikidata.org/wiki/Q2633818",
+        "display_name": "Conceptual metaphor",
+        "level": 3,
+        "score": 0.3212999999523163
+      },
+      {
+        "id": "https://openalex.org/C207551092",
+        "wikidata": "https://www.wikidata.org/wiki/Q508969",
+        "display_name": "Cognitive linguistics",
+        "level": 3,
+        "score": 0.3095000088214874
+      },
+      {
+        "id": "https://openalex.org/C98954769",
+        "wikidata": "https://www.wikidata.org/wiki/Q1759657",
+        "display_name": "Lexical semantics",
+        "level": 3,
+        "score": 0.3028999865055084
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.29339998960494995
+      },
+      {
+        "id": "https://openalex.org/C184337299",
+        "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+        "display_name": "Semantics (computer science)",
+        "level": 2,
+        "score": 0.28940001130104065
+      },
+      {
+        "id": "https://openalex.org/C2780460740",
+        "wikidata": "https://www.wikidata.org/wiki/Q125525",
+        "display_name": "Jackal",
+        "level": 2,
+        "score": 0.2806999981403351
+      },
+      {
+        "id": "https://openalex.org/C116834253",
+        "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+        "display_name": "Identification (biology)",
+        "level": 2,
+        "score": 0.27230000495910645
+      },
+      {
+        "id": "https://openalex.org/C81917197",
+        "wikidata": "https://www.wikidata.org/wiki/Q628760",
+        "display_name": "Selection (genetic algorithm)",
+        "level": 2,
+        "score": 0.2628999948501587
+      },
+      {
+        "id": "https://openalex.org/C96199812",
+        "wikidata": "https://www.wikidata.org/wiki/Q2145290",
+        "display_name": "Mental representation",
+        "level": 3,
+        "score": 0.25529998540878296
+      },
+      {
+        "id": "https://openalex.org/C95457728",
+        "wikidata": "https://www.wikidata.org/wiki/Q309",
+        "display_name": "History",
+        "level": 0,
+        "score": 0.2522999942302704
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.57233/tjllc.2026.v05i03.009",
+        "doi": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4387284527",
+          "display_name": "TASAMBO JOURNAL OF LANGUAGE LITERATURE AND CULTURE",
+          "issn_l": "2782-8182",
+          "issn": [
+            "2782-8182",
+            "2757-6730"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "listed_in": [
+            "doaj"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Tasambo Journal of Language, Literature, and Culture",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.57233/tjllc.2026.v05i03.009",
+      "doi": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.57233/tjllc.2026.v05i03.009",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4387284527",
+        "display_name": "TASAMBO JOURNAL OF LANGUAGE LITERATURE AND CULTURE",
+        "issn_l": "2782-8182",
+        "issn": [
+          "2782-8182",
+          "2757-6730"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": false,
+        "listed_in": [
+          "doaj"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Tasambo Journal of Language, Literature, and Culture",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 28,
+    "referenced_works": [
+      "https://openalex.org/W173802895",
+      "https://openalex.org/W1489690587",
+      "https://openalex.org/W1561412240",
+      "https://openalex.org/W1822227588",
+      "https://openalex.org/W1857502716",
+      "https://openalex.org/W1970789955",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W2035327778",
+      "https://openalex.org/W2052417512",
+      "https://openalex.org/W2095436077",
+      "https://openalex.org/W2155243985",
+      "https://openalex.org/W2266884515",
+      "https://openalex.org/W2330813134",
+      "https://openalex.org/W2487411291",
+      "https://openalex.org/W2885565116",
+      "https://openalex.org/W2914066009",
+      "https://openalex.org/W3001362559",
+      "https://openalex.org/W3015997681",
+      "https://openalex.org/W3088701383",
+      "https://openalex.org/W3168604502",
+      "https://openalex.org/W4206293602",
+      "https://openalex.org/W4243572183",
+      "https://openalex.org/W4363674729",
+      "https://openalex.org/W4389147944",
+      "https://openalex.org/W4390418222",
+      "https://openalex.org/W4392768539",
+      "https://openalex.org/W4401278343",
+      "https://openalex.org/W6889900471"
+    ],
+    "related_works": [
+      "https://openalex.org/W4390418222",
+      "https://openalex.org/W4392768539",
+      "https://openalex.org/W6925014379",
+      "https://openalex.org/W6968383044",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W7134692961",
+      "https://openalex.org/W3170455920",
+      "https://openalex.org/W570602907",
+      "https://openalex.org/W2341094013",
+      "https://openalex.org/W7132346894"
+    ],
+    "abstract_inverted_index": {
+      "Viberg’s": [
+        0
+      ],
+      "(1983)": [
+        1
+      ],
+      "hierarchy": [
+        2,
+        110
+      ],
+      "describes": [
+        3
+      ],
+      "recurrent": [
+        4
+      ],
+      "cross-linguistic": [
+        5
+      ],
+      "patterns": [
+        6,
+        159
+      ],
+      "in": [
+        7,
+        160
+      ],
+      "the": [
+        8,
+        62,
+        73,
+        117,
+        122,
+        144,
+        154,
+        161,
+        189
+      ],
+      "lexicalisation": [
+        9
+      ],
+      "of": [
+        10,
+        30,
+        49,
+        119,
+        124,
+        152,
+        171,
+        188
+      ],
+      "perception,": [
+        11
+      ],
+      "but": [
+        12
+      ],
+      "it": [
+        13
+      ],
+      "does": [
+        14
+      ],
+      "not": [
+        15,
+        94,
+        166
+      ],
+      "by": [
+        16,
+        69
+      ],
+      "itself": [
+        17
+      ],
+      "predict": [
+        18
+      ],
+      "which": [
+        19
+      ],
+      "sensory": [
+        20,
+        126
+      ],
+      "verbs": [
+        21
+      ],
+      "develop": [
+        22
+      ],
+      "cognitive": [
+        23,
+        195
+      ],
+      "meanings.": [
+        24
+      ],
+      "This": [
+        25
+      ],
+      "study": [
+        26
+      ],
+      "examines": [
+        27
+      ],
+      "non-literal": [
+        28,
+        84
+      ],
+      "extensions": [
+        29
+      ],
+      "English": [
+        31,
+        51,
+        81,
+        97,
+        172
+      ],
+      "see": [
+        32,
+        82
+      ],
+      "and": [
+        33,
+        35,
+        39,
+        52,
+        67,
+        87,
+        116,
+        140,
+        148,
+        173,
+        194
+      ],
+      "hear": [
+        34,
+        98
+      ],
+      "Hausa": [
+        36,
+        54,
+        88,
+        100
+      ],
+      "gani": [
+        37
+      ],
+      "‘see’": [
+        38
+      ],
+      "ji": [
+        40,
+        89
+      ],
+      "‘hear/feel/taste/smell’.": [
+        41
+      ],
+      "The": [
+        42,
+        102,
+        175
+      ],
+      "data": [
+        43
+      ],
+      "come": [
+        44
+      ],
+      "from": [
+        45,
+        180
+      ],
+      "a": [
+        46,
+        106,
+        125,
+        185
+      ],
+      "specialised": [
+        47
+      ],
+      "corpus": [
+        48
+      ],
+      "four": [
+        50
+      ],
+      "twelve": [
+        53
+      ],
+      "romance": [
+        55
+      ],
+      "novels.": [
+        56
+      ],
+      "Concordance": [
+        57
+      ],
+      "lines": [
+        58
+      ],
+      "were": [
+        59
+      ],
+      "screened": [
+        60
+      ],
+      "with": [
+        61,
+        80,
+        96
+      ],
+      "Pragglejaz": [
+        63
+      ],
+      "Metaphor": [
+        64
+      ],
+      "Identification": [
+        65
+      ],
+      "Procedure": [
+        66
+      ],
+      "classified": [
+        68
+      ],
+      "semantic": [
+        70
+      ],
+      "extension.": [
+        71
+      ],
+      "In": [
+        72
+      ],
+      "reported": [
+        74
+      ],
+      "data,": [
+        75
+      ],
+      "understanding": [
+        76
+      ],
+      "is": [
+        77,
+        93
+      ],
+      "associated": [
+        78,
+        95
+      ],
+      "mainly": [
+        79
+      ],
+      "(127/260": [
+        83
+      ],
+      "tokens,": [
+        85
+      ],
+      "48.8%)": [
+        86
+      ],
+      "(33/102,": [
+        90
+      ],
+      "32.4%).": [
+        91
+      ],
+      "It": [
+        92
+      ],
+      "or": [
+        99
+      ],
+      "gani.": [
+        101
+      ],
+      "comparison": [
+        103
+      ],
+      "therefore": [
+        104
+      ],
+      "supports": [
+        105
+      ],
+      "qualified": [
+        107
+      ],
+      "account.": [
+        108
+      ],
+      "Typological": [
+        109
+      ],
+      "remains": [
+        111
+      ],
+      "useful": [
+        112
+      ],
+      "for": [
+        113,
+        128
+      ],
+      "lexical": [
+        114,
+        134
+      ],
+      "organisation": [
+        115
+      ],
+      "range": [
+        118
+      ],
+      "extensions,": [
+        120
+      ],
+      "whereas": [
+        121
+      ],
+      "selection": [
+        123
+      ],
+      "source": [
+        127
+      ],
+      "cognition": [
+        129
+      ],
+      "also": [
+        130
+      ],
+      "requires": [
+        131
+      ],
+      "attention": [
+        132
+      ],
+      "to": [
+        133
+      ],
+      "polysemy,": [
+        135
+      ],
+      "embodied": [
+        136
+      ],
+      "properties,": [
+        137
+      ],
+      "discourse": [
+        138
+      ],
+      "practice": [
+        139
+      ],
+      "cultural": [
+        141
+      ],
+      "context.": [
+        142
+      ],
+      "Because": [
+        143
+      ],
+      "corpora": [
+        145
+      ],
+      "are": [
+        146,
+        156,
+        165
+      ],
+      "genre-specific": [
+        147
+      ],
+      "contain": [
+        149
+      ],
+      "unequal": [
+        150
+      ],
+      "numbers": [
+        151
+      ],
+      "texts,": [
+        153
+      ],
+      "findings": [
+        155
+      ],
+      "interpreted": [
+        157
+      ],
+      "as": [
+        158,
+        168,
+        184
+      ],
+      "sampled": [
+        162
+      ],
+      "fiction.": [
+        163
+      ],
+      "They": [
+        164
+      ],
+      "presented": [
+        167
+      ],
+      "population-level": [
+        169
+      ],
+      "properties": [
+        170
+      ],
+      "Hausa.": [
+        174
+      ],
+      "article": [
+        176
+      ],
+      "reframes": [
+        177
+      ],
+      "earlier": [
+        178
+      ],
+      "results": [
+        179
+      ],
+      "this": [
+        181
+      ],
+      "research": [
+        182
+      ],
+      "programme": [
+        183
+      ],
+      "focused": [
+        186
+      ],
+      "test": [
+        187
+      ],
+      "relationship": [
+        190
+      ],
+      "between": [
+        191
+      ],
+      "typological": [
+        192
+      ],
+      "description": [
+        193
+      ],
+      "motivation.": [
+        196
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-10-28T10:33:24.094632",
+    "created_date": "2026-10-22T00:00:00"
+  }
+]

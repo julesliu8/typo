@@ -1,0 +1,798 @@
+[PDF PAGE 1]
+Sergey Say
+serjozhka@yahoo.com
+University of Potsdam
+Linguistische Werkstatt
+Otto-Friedrich-Universität Bamberg
+May 31, 2023
+Understanding argument roles 
+through the prism of BivalTyp
+(a typological database of bivalent verbs and their encoding frames)
+[PDF PAGE 2]
+Introductory examples
+(1) Karl wartet auf Marie NOM; auf+ACC
+‘Karl is waiting for Marie.’
+(2) Mir fehlt ein Euro DAT; NOM
+‘I am one Euro short.’
+– What semantic roles are assigned to Marie and mir in 
+(1) and (2)?
+– What other verbs have similar semantic roles?
+– Do these roles trigger argument encoding?
+– Are these encoding patterns typologically predictable?
+2
+[PDF PAGE 3]
+Structure of the talk
+ Valency research: an overview
+ The database: BivalTyp
+ Discrete semantic roles: a phantom
+ Results
+- transitivity prominence
+- semantic role clusters
+- predictability
+ Conclusions and implications
+3
+[PDF PAGE 4]
+Typology is mainly focused on major clause types
+ monovalent: ‘sleep’, ‘run’, ...
+ transitive: ‘kill’, ‘break’, ...
+ ditransitive: ‘give’, ...
+4
+Valency research: an overview
+[PDF PAGE 5]
+The semantic basis of transitivity is relatively well 
+understood
+5
+Valency research: an overview
+Hopper, Thompson (1980: 252), see also (Tsunoda 1985, Dowty
+1991, Lehmann 1991, Lazard 1994, Malchukov 2005)
+[PDF PAGE 6]
+ All (?) languages have minor 
+(a.k.a. non-canonical) valency patterns
+ (Until recently) underrepresented in typological 
+research
+«The selection principles apparently only govern argument selection 
+for two-place predicates having a subject and a true direct object» 
+(Dowty 1991: 576)
+ Goal: to fill this gap for bivalent verbs
+6
+Valency research: an overview
+[PDF PAGE 7]
+ Why bivalent verbs?
+• they are especially prone to show deviant valency
+behaviour (Bickel et al. 2014)
+(3) The boy looked at the clouds
+(4) Das Heu duftet nach Pferd
+Estonian
+(5) Peetri-le meeldi-b see särk
+PN-ALL     appeal_to-PRS.3SG  this shirt.SG.NOM
+‘Peter likes this shirt.’  
+• they often form relatively large classes, unlike non-
+canonical trivalent verbs 7
+Valency research: an overview
+[PDF PAGE 8]
+Valency research: an overview
+• The valency of a verb = “the list of its 
+arguments with their coding properties”
+• Coding properties
+– flagging (cases & adpositions)
+– indexing (agreement, cross-referencing)
+– word order (rarely)
+8Malchukov and the Leipzig Valency Classes Project team, 2015: 30
+
+[PDF PAGE 9]
+Valency research: an overview
+• Immediate problem for typology: coding properties 
+are language-specific
+• If notions such as “Instrumental case” or 
+“Agreement slot #3” are language-specific, then 
+where can we find a tertium comparationis?
+9
+[PDF PAGE 10]
+Valency research: an overview
+ The usual answer: compare with other 
+predicates in the same language
+• Classical alignment typology: is S aligned with (≈ 
+encoded similarly to) A or P?
+• Ditransitive alignment: is P aligned with T (theme) or R 
+(recipient)?
+• Predicative possession (e.g. in Stassen’s work)
+• etc.
+ All of these questions produce relatively 
+simple categorical variables 10
+[PDF PAGE 11]
+Predicative possession (Stassen, WALS)
+11
+
+[PDF PAGE 12]
+Valency research: an overview
+ For such data, we need sets of pre-
+established gross values
+ It mostly works for “big” construction types, 
+such as predicative possessive constructions 
+or ditransitive constructions with ‘give’ 
+ Not all constructions are like that =>
+wordlist-based typology
+12
+[PDF PAGE 13]
+Valency research: an overview
+■ Wordlist-based typological studies into valency
+patterns
+o experiential predicates in European languages 
+(Bossong 1998); 10 predicates: ‘see’, ‘forget’, 
+‘remember’, ‘be cold’, ‘be hungry’, ‘be thirsty’, ‘have 
+a headache’, ‘be glad’, ‘be sorry’, ‘like’
+o Split-S: A-like vs. P-like vs. G-like (Nichols 2008)
+o Causative~Inchoative alternation and valence 
+orientation (Nedjalkov 1969; Haspelmath 1993; 
+Nichols et al. 2004; WATP)
+o “a posteriori” wordlist-based approach in (Bickel et 
+al. 2014)
+13
+[PDF PAGE 14]
+Valency research: an overview
+■ Bivalent reflexive and passive-like emotion 
+predicates in SAE (and related) languages:
+“The preposition or oblique case governed by the 
+reflexive or resultative verb is not predictable” 
+(Haspelmath 2001: 65)
+14
+[PDF PAGE 15]
+Valency research: an overview
+15
+
+[PDF PAGE 16]
+Valency research: an overview
+■ Valency Patterns Leipzig Online Database 
+(ValPaL project) [http://www.valpal.info/]
+■ all numeric valency types
+■ 80 verb meanings
+■ 36 languages
+16
+
+[PDF PAGE 17]
+Valency research: an overview
+■ Typical problems in valency research
+– short wordlists (4-70 verbs) ≈ only major 
+patterns
+– sets of values are often pre-established
+17
+[PDF PAGE 18]
+BivalTyp: goals
+ Which factors determine valency class 
+assignment in individual languages?
+ To what extent are valency classes similar 
+across languages? To what extent are they 
+variable?
+ What is the role of genealogical and areal 
+factors?
+18
+[PDF PAGE 19]
+BivalTyp: major design features
+Say, Sergey (ed.). 2020--... BivalTyp: Typological database 
+of bivalent verbs and their encoding frames. (Available 
+online at https://www.bivaltyp.info)*
+*All credit for building the web-page goes to Dmitry Nikolaev
+19
+[PDF PAGE 20]
+20
+
+[PDF PAGE 21]
+BivalTyp: major design features
+ First-hand data provided by language experts
+• St. Petersburg-style typology
+ Questionnaire with 130 verbs given in context
+=> “probes” in the infinite semantic space
+21
+[PDF PAGE 22]
+BivalTyp: major design features
+#21 (Peter was crossing the river in a boat) 
+‘Peter reached the bank’
+X Y
+#22 (The wall was covered with fresh paint)
+‘Peter touched the wall’ (and got dirty)
+X Y
+=> Two pre-defined arguments (X, Y) for each predicate
+22
+[PDF PAGE 23]
+BivalTyp: major design features
+Abaza (< Northwest Caucasian)
+(6) fatíma murád jə-z-qá-l-c̣-əj-ṭ
+PN PN [3SG.M.IO-BEN]-LOC-[3SG.F.ERG]-believe-PRS-DCL 
+Y                            X
+‘Fatima trusts Murad.’ 
+Valency pattern = [ERG; BEN]
+23
+[PDF PAGE 24]
+BivalTyp: major design features
+24
+ The pattern is considered transitive iff its X and Y 
+arguments are coded like the two arguments of the 
+sentence with ‘kill’, see also (Haspelmath 2015: 136)
+[PDF PAGE 25]
+BivalTyp: major design features
+ The sample: currently 97 languages, mainly spoken in 
+Northern Eurasia
+25
+
+[PDF PAGE 26]
+BivalTyp: major design features
+ A big THANK YOU to language experts
+Anna Alexandrova, Daria Alfimova, Ekaterina Aplonova, Peter Arkadiev, David Avellan-
+Hultman, Aleksandra Azargaeva, Mislav Benić, Sandra Birzer, Alena Blinova, Nadezhda
+Bulatova, Denis Creissels, Michael Daniel, Varvara Diveeva, Sergey Dmitrenko, 
+Vladimir Fedorov, Timothy Feist, Dmitry Gerasimov, Wakweya Gobena, Elena Gorbova, 
+Olga Gorickaja, Ingunn Hreinberg Indriðadóttir, Ildar Ibragimov, Emil Ingelsten, Vasilisa
+Kagirova, Maxim Kloczenko, Maria Khazhomia, Maria Kholodilova, Mikhail Knyazev, 
+Elena Kolpachkova, Daria (Suetina) Konior, Yukari Konuma, Elena Kordi, Richard 
+Kowalik, Kirill Kozhanov, Irina Külmoja, Olga Kuznecova, Timur Maisak, Anastasia 
+(Borisovna) Makarova, Anastasia (Leonidovna) Makarova, Ramazan Mamedshaxov, 
+Solmaz Merdanova, Stepan Mikhajlov, Daria Mischenko, Zarina Molochieva, George 
+Moroz, Rasul Mutalov, Galina Nekrasova, Johanna Nichols, Dmitry Nikolaev, Ajtalina
+Nogovitsyna, Sofia Oskolskaya, Maria Ovsjannikova, Anastasia Panova, Elena 
+Perekhvalskaja, Natalia Perkova, Krasimira Petrova, Inna Popova, Maria Pupynina, 
+Tatiana Repnina, Neige Rochant, Alexander Rostovtsev-Popiel, Daria Ryzhova, Sergey 
+Say, Ekaterina Sergeeva, Ksenia Shagal, Mayya Shlyakhter, Natalia Stoynova, Ksenia
+Studenikina, Evgenija Teplukhina, Mladen Uhlik, Anastasia Vasilisina, Arseniy Vydrin, 
+Valentin Vydrin, Elizaveta Zabelina, Natalia Zaika, Andreja Žele, Ekaterina Zheltova, 
+Vasilisa Zhigulskaja, Daria Zhornik, Anastasia Zhuk
+26
+[PDF PAGE 27]
+BivalTyp: major design features
+ 11402 entries (130 predicates in 97 lgs – 1208 gaps):
+– language ID
+– predicate ID
+– verb lemma
+– valency pattern: encoding of X and Y + locus of 
+intransitivity
+– (for 40 languages: interlinearized examples)
+ The database is searchable, sortable and mappable by 
+predicates, languages, valency patterns, etc.
+ Further contributions are very welcome!
+27
+[PDF PAGE 28]
+BivalTyp: major design features
+28
+ Transitivity prominence
+
+[PDF PAGE 29]
+BivalTyp: major design features
+29
+ (In)transitivity of ‘wait’
+
+[PDF PAGE 30]
+BivalTyp: major design features
+30
+ (In)transitivity of ‘wait’
+
+[PDF PAGE 31]
+BivalTyp: major design features
+31
+ ‘be afraid’ in the same class as ‘avoid’?
+
+[PDF PAGE 32]
+Discrete semantic roles: a phantom
+32
+ An old idea: semantic roles are linked to argument 
+positions
+ Variations on this theme (Fillmore 1968, Dowty 1991, 
+Levin & Rappaport Hovav 2005)
+ Possible semantic (thematic) roles
+- Agent
+- Patient 
+- Experiencer
+- Stimulus
+- Instrument
+- Recipient
+- ...
+[PDF PAGE 33]
+Discrete semantic roles: a phantom
+33
+ Possible layered classification
+(Van Valin 1999: 374)
+[PDF PAGE 34]
+34
+ Possible linking rules:
+- Agent => Nominative
+- Patient => Accusative
+- Recipient => Dative
+- ...
+Discrete semantic roles: a phantom
+[PDF PAGE 35]
+35
+ Problem: can we really identify discrete 
+semantic roles for every verb?
+ Semantic roles are typically
+- abstract
+- arbitrary
+- based on cherry-picked verbs
+Discrete semantic roles: a phantom
+[PDF PAGE 36]
+36
+ Theoretical studies mainly focus on salient  
+cases, such as
+- ‘kill’: Agent & Patient
+- ‘see’: Experiencer & Stimulus
+- ...
+ By contrast, empirical studies based on large 
+wordlists arrive at fuzzy roles (Bickel et al. 
+2014, Hartmann et al. 2014, Widmer et al. 
+2019)
+Discrete semantic roles: a phantom
+[PDF PAGE 37]
+ Interim summary
+Discrete semantic roles defined on a priori 
+grounds are not suitable for the empirical 
+typological study of argument encoding
+ An alternative:
+Use empirically defined valency classes in 
+individual languages as proxies for roles
+37
+Discrete semantic roles: a phantom
+[PDF PAGE 38]
+Results
+ Transitivity prominence
+ Semantic role clusters
+ Predictability
+38
+[PDF PAGE 39]
+Transitivity prominence
+= the ratio of languages where the meaning is 
+coded by a transitive clause (among those languages 
+for which relevant data have been obtained)
+E.g. ‘be afraid’ 
+– is transitive in 12 languages of the sample
+– is intransitive in 84 languages of the sample
+– (data are missing for 1 language);
+=> Transitivity prominence (‘be afraid’) = 
+12 / (12 + 84) = 0.125
+39
+[PDF PAGE 40]
+40
+
+[PDF PAGE 41]
+Transitivity prominence
+■ Tsunoda’s implicational hierarchy
+«1a) direct effect (kill, break subtype) > 
+1b) direct effect (hit, shoot subtype) > 
+2a) perception (see subtype) > 
+2b) perception (look subtype) > 
+3) pursuit (search, wait) > 
+4) knowledge (know, understand, remember, forget) > 
+5) feeling (love, like, fant, need) > 
+6) possession (have)» 
+(Tsunoda 1981, modified and shortened in 1985)
+41
+[PDF PAGE 42]
+42
+1a) direct effect break 0.99
+1b) direct effect hit 0.79
+shoot at 0.29
+2a) perception see 0.89
+hear 0.88
+2b) perception look 0.31
+listen 0.68
+3) pursuit search 0.81
+wait 0.67
+4) knowledge know 0.89
+understand 0.84
+remember 0.73
+forget 0.41
+5) feeling love 0.79
+like 0.23
+need 0.25
+6) possession have 0.41
+[PDF PAGE 43]
+Transitivity prominence
+■ The data do not fully support Tsunoda’s
+hierarchy (except for the first direct effect 
+subtype: ‘kill’ & ‘break’)
+■ High intra-group heterogeneity
+=> a priori defined groups are doubtful
+=> finer distinctions are necessary (see 
+below)
+43
+[PDF PAGE 44]
+Results
+ Transitivity prominence
+ Semantic role clusters
+ Predictability
+44
+[PDF PAGE 45]
+Semantic role clusters
+ The rationale
+argument roles associated with two notional 
+predicates are similar iff the equivalents of 
+these predicates often fall in the same 
+language-specific valency classes
+ Operationalized through Hamming distance 
+= the number of languages in which the 
+equivalents of the two predicates belong to 
+different valency classes
+45
+[PDF PAGE 46]
+Semantic role clusters
+ Toy example
+'be_afraid‘  r l a g m a l f a t d g j
+'avoid‘      r t ? g ? a n f t ? d g f…
+Same?        0 1 0   0 1 0 1 0 0 1
+Letters are arbitrary codes for valency classes 
+in individual languages (columns)
+=> D (‘be afraid’, ‘avoid’) = 4/10 = 0.4
+46
+[PDF PAGE 47]
+Semantic role clusters
+ Real data: a distance matrix (130x130)
+47
+
+[PDF PAGE 48]
+Semantic role clusters
+ Standard methods of visualization and 
+dimensionality reduction
+• Multidimensional Scaling (MDS), 
+implemented in R (R Core Team 2021) using 
+smacof package (de Leeuw, Mair 2009 )
+• NeighborNet, implemented using SplitsTree
+software (Huson, Bryant 2006)
+48
+[PDF PAGE 49]
+49
+core transitives
+very high
+concentration
+[PDF PAGE 50]
+50
+
+[PDF PAGE 51]
+51
+no single 
+(in)transitivity
+hierarchy
+[PDF PAGE 52]
+52
+
+[PDF PAGE 53]
+53
+
+[PDF PAGE 54]
+54
+
+[PDF PAGE 55]
+Semantic role clusters
+ MDS plots are great for inspecting 
+individual languages...
+ but different algorithms are needed for 
+discerning clusters of argument roles => 
+NeighborNet
+55
+[PDF PAGE 56]
+56
+A NeighborNet network of 130 predicates based on their valency properties
+in 97 languages
+[PDF PAGE 57]
+57
+Transitive pole: 
+homogeneity
+Intransitive pole: 
+heterogeneity
+A NeighborNet network of 130 predicates based on their valency properties
+in 97 languages
+[PDF PAGE 58]
+Semantic role clusters
+ Focus on intransitive patterns:
+• remove verbs with transitivity ratio > 0.5
+• consider remaining transitive patterns as NAs 
+In a nutshell: verbs are considered similar iff
+they belong to the same intransitive class
+58
+[PDF PAGE 59]
+59
+71 not quite transitive predicates;
+intransitive patterns only;
+97 languages
+[PDF PAGE 60]
+60
+Motion from
+Possession
+Comitative
+Instrument/Cause
+Attained goal
+Interaction
+Some emotions
+Motion towards?
+[PDF PAGE 61]
+Semantic role clusters
+ Arguably, these (fuzzy) clusters are 
+indicative of cognitive / spatial 
+schemas rather than traditional 
+semantic roles (“meso-roles”)
+61
+[PDF PAGE 62]
+62
+Some “Experiencer 
++ Stimulus” verbs
+[PDF PAGE 63]
+Results
+ Transitivity prominence
+ Semantic role clusters
+ Predictability
+63
+[PDF PAGE 64]
+Predictability: introducing π
+ How to measure predictability of 
+argument encoding?
+– In terms of semantic roles
+– Use other languages as predictors, that is, 
+as proxies for the meaning of arguments
+64
+[PDF PAGE 65]
+■ Assume there are only 4 verbs that belong to a certain 
+class A in a given L1:
+L1
+Vi A
+Vj A
+Vk A
+Vl A
+…
+65
+Predictability: introducing π
+[PDF PAGE 66]
+■ Explore the encoding of the corresponding verbs in L2:
+L1 L2
+Vi A W
+Vj A W
+Vk A W
+Vl A W
+…
+■ The valency patterns of these 4 verbs in L2 seem to be 
+predictable given the system of L1
+66
+Predictability: introducing π
+[PDF PAGE 67]
+■ Explore the encoding of the corresponding verbs in L2:
+L1 L2
+Vi A X
+Vj A Y
+Vk A Z
+Vl A W
+…
+■ The valency patterns of these 4 verbs in L2 seem to be 
+totally unpredictable given the system of L1
+67
+Predictability: introducing π
+[PDF PAGE 68]
+■ Real-data example
+Russian Kalmyk
+‘be afraid’ NOM_GEN NOM_ABL
+‘reach’ NOM_GEN NOM_DAT
+‘avoid’ NOM_GEN NOM_ACC
+‘forfeit’ NOM_GEN NOM_ABL
+‘be ashamed’ NOM_GEN NOM_ABL
+■ From the perspective of Russian, the encoding of the 
+Kalmyk equivalents of ‘be afraid’, ‘forfeit’ and ‘be 
+ashamed’ is more predictable than that of the other 
+two verbs (‘reach’, ‘avoid’)
+68
+Predictability: introducing π
+[PDF PAGE 69]
+■ Individual predicate, two languages:
+e.g.
+69
+Predictability: introducing π
+[PDF PAGE 70]
+■ Individual predicate, one language: explore its 
+behaviour from the perspective of as many other 
+languages as there are available
+e.g. π (‘be_afraid’) (Kalmyk) = 0.53
+70
+Predictability: introducing π
+[PDF PAGE 71]
+■ Individual predicate, many languages: average 
+predictability
+e.g. π (‘be_afraid’) = 0.42
+71
+Predictability: introducing π
+[PDF PAGE 72]
+Predictability: results
+(1) Karl wartet auf Marie NOM; auf+ACC
+‘Karl is waiting for Marie.’
+π = 0.12
+(2) Mir fehlt ein Euro DAT; NOM
+‘I am one Euro short.’
+π = 0.46
+72
+[PDF PAGE 73]
+Predictability: results
+73
+■ Example: Finnish verbs with the NOM_ILL pattern
+
+[PDF PAGE 74]
+Predictability: results
+■ As expected, highly transitive predicates display high 
+predictability scores
+■ E.g. the list of predicates with π > 0.80: all these verbs 
+are invariably transitive in the data set
+74
+
+[PDF PAGE 75]
+75
+
+[PDF PAGE 76]
+76
+predictable, 
+transitive
+(not very interesting)
+[PDF PAGE 77]
+77
+
+[PDF PAGE 78]
+78
+predictable, 
+intransitive
+[PDF PAGE 79]
+79
+symmetrical predicates
+often one dedicated (comitative) 
+pattern for all symmetrical verbs
+[PDF PAGE 80]
+Predictability: results
+80
+■ Shughni (< Iranian; Tajikistan)
+
+[PDF PAGE 81]
+81
+concrete predicates
+often transparent spatial schemas
+[PDF PAGE 82]
+82
+possessive relations
+often a dedicated scheme 
+covering a few verbs
+[PDF PAGE 83]
+Predictability: results
+83
+■ Turkish: the GEN_NOM pattern – 5 verbs in the data set
+
+[PDF PAGE 84]
+84
+‘be called’: often an idiosyncratic 
+pattern (e.g. NOM_NOM)
+[PDF PAGE 85]
+85
+“unpredictable” verbs
+[PDF PAGE 86]
+Predictability: results
+86
+■ The least predictable verbs are mainly psychological 
+verbs
+■ Top 13 verbs with the lowest π-value (< 0.395):
+
+[PDF PAGE 87]
+Predictability: results
+87
+■ Some psychological verbs in Aghul:
+- various patterns
+- no obvious motivation
+
+[PDF PAGE 88]
+88
+mid-range verbs
+[PDF PAGE 89]
+89
+verbs with mixed properties
+halfway between concrete and abstract
+many verbs of contact and interaction
+[PDF PAGE 90]
+Conclusions and implications
+■ All transitive verbs are alike, each intransitive 
+verb is intransitive in its own way
+■ No empirical support for a universal transitivity 
+hierarchy of verbs; semantic domains are not 
+homogeneous wrt individual verbs’ transitivity 
+prominence
+90
+[PDF PAGE 91]
+Conclusions and implications
+■ Highly transitive verbs do form a robust cluster
+■ Non-transitive clusters exist, but they are fuzzy 
+and do not always correspond to traditional 
+semantic roles
+■ Rather, they are based on common patterns in 
+metaphorization and construal, e.g. in terms of 
+motion schemas
+91
+[PDF PAGE 92]
+Conclusions and implications
+■ Valency patterns are neither fully predictable, 
+nor fully idiosyncratic
+■ Verbs with concrete meanings are cross-
+linguistically more stable than verbs with 
+abstract meanings
+92
+[PDF PAGE 93]
+Conclusions and implications
+■ Low transitivity, high predictability:
+– symmetric predicates: ‘fight’, ‘speak’, ‘get mixed’, 
+‘agree’
+– some motion-related verbs: ‘go out’, ‘dismount’, 
+‘enter’, drown’
+– some verbs related to possession: ‘be short’, ‘have 
+enough’, ‘remain’ + ‘feel pain’
+■ Low transitivity, low predictability:
+– most verbs of emotions and other psychological 
+verbs: ‘rejoice’, ‘be surprised’, ‘trust’, ‘fall in love’, 
+‘enjoy’...
+93
+[PDF PAGE 94]
+THANK YOU!
+[PDF PAGE 95]
+References
+■ Bickel, Balthasar, Taras Zakharko, Lennart Bierkandt & Alena Witzlack-Makarevich, 2014. Semantic 
+role clustering: An empirical assessment of semantic role types in non-default case assignment. 
+Studies in language, 38 (3). Advances in research in semantic roles. 485–511.
+■ Bossong, Georg. 1998. Le marquage de l’expérient dans les langues d’Europe. In:  Feuillet (ed.). 
+Actance et valence dans les langues de l’Europe. Berlin: Mouton de Gruyter. 259–94.
+■ de Leeuw, J. & P. Mair. 2009. Multidimensional Scaling Using Majorization: SMACOF in R. Journal of 
+Statistical Software 31, 3, 1–30. [on-line]. <http://www.jstatsoft.org/v31/i03/> [cit. 03–01–2020].
+■ Dowty, David. 1991. Thematic proto-roles and argument selection. Language 67, 547–619. 
+■ Fillmore, Charles. 1968. The case for case. In: E. Bach & R. Harms (eds), Universals in Linguistic 
+Theory. Holt, Rinehard and Winston, New York. 1–88.
+■ Hartman, Iren, Martin Haspelmath & Michael Cysouw. 2014. Identifying semantic role clusters and 
+alignment types via microrole coexpression tendencies. Studies in language 38(3). 463-484.
+■ Haspelmath, Martin. 1993. More on the typology of inchoative / causative verb alternations. In: 
+Comrie, Bernard & Maria Polinsky (eds.) Causatives and Transitivity. Amsterdam: Benjamins. 87–
+120.
+■ Haspelmath, Martin. 2001. Non-canonical marking of core arguments in European languages. In: 
+Aikhenvald, Alexandra Y., Robert M. W. Dixon, and Masayuki Onishi. (eds.). 2001. Non-canonical 
+marking of Subjects and Objects. [=Typological studies in language, 46]. Amsterdam: John 
+Benjamins. 53-83.
+95
+[PDF PAGE 96]
+References
+■ Haspelmath, Martin. 2015. Transitivity prominence. In: Malchukov, Andrej & Comrie, Bernard (eds.). 
+2015. Valency classes in the world’s languages. Vol. 1-2. Berlin, Boston: De Gruyter Mouton. Proch. 
+P. 131–147. 
+■ Hopper, P.J., Thompson, S.A. 1980. Transitivity in grammar and discourse. Language, 56. 2. 251–
+350. 
+■ Huson, Daniel H. and David Bryant. 2006. Application of phylogenetic networks in evolutionary 
+studies. Molecular Biology and Evolution 23: 254–267.
+■ Lehmann, Ch. 1991, Predicate classes and PARTICIPATION. H. Seiler & W. Premper, Partizipation. 
+Das sprachliche Erfassen von Sachverhalten. Tübingen: G. Narr (LUS, 6). 183–239.
+■ Lazard, Gilbert. 1994. L’actance. Paris: Presses Universitaire de France. 
+■ Levin, Beth & Malka Rappaport Hovav. 2005. Argument realization. Cambridge: Cambridge 
+University Press.
+■ Malchukov, A. L. 2005. Case pattern splits, verb types and construction competition. In M.Amberber
+and H. de Hoop, H. (eds), Competition and Variation in Natural Languages:  the Case for Case. 
+Oxford: Elsevier, 73-117. 96
+[PDF PAGE 97]
+References
+■ Malchukov, A. & B. Comrie (eds.). 2015. Valency classes in the world’s languages. Berlin: Mouton de 
+Gruyter.
+■ Malchukov, Andrej and Leipzig Valency Classes Project team. 2015. Leipzig Questionnaire on 
+valency classes. In: Malchukov, A. & B. Comrie (eds.). Valency classes in the world’s languages. Vol. 
+I. Berlin: Mouton de Gruyter. 27-40.
+■ Nedjalkov, V.P. 1969. Nekotorye verojatnostnye universalii v glagolnom slovoobrazovanii. In: F. 
+Vardul’ (ed.). Jazykovye universalii i lingvisticheskaja tipologija. Moscow: Nauka. 106-114.
+■ Nichols, Johanna. 2008. Why are stative-active languages rare in Eurasia? Typological perspective 
+on split subject marking. In Mark Donohue and Søren Wichmann (eds). The Typology of Semantic 
+Alignment Systems, 121-139. Oxford: Oxford University Press.
+■ Nichols, Johanna, David A. Peterson & Jonathan Barnes. 2004. Transitivizingand detransitivizing
+languages. Linguistic Typology 8: 149–211.
+■ R Core Team (2021). R: A language and environment for statistical computing. R Foundation for 
+Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+■ Say, Sergey (ed.). 2020—... BivalTyp: Typological database of bivalent verbs and their encoding 
+frames. (Available online at https://www.bivaltyp.info)*
+97
+[PDF PAGE 98]
+References
+■ Tsunoda, T. 1981. Split case-marking patterns in verb-types and tense / aspect / mood // 
+Linguistics. Vol. 19. P. 389–438.
+■ Tsunoda, Tasaku. 1985. Remarks on transitivity. Journal of Linguistics 21. 385–396.
+■ Van Valin, Robert D., Jr. 1999. Generalized Semantic Roles and the Syntax-Semantics Interface. In: 
+Corblin, Dobrovie-Sorin, and Marandin (Eds.) Empirical Issues in Formal Syntax and Semantics 2. 
+The Hague: Thesus. 373–389.
+■ WATP — The World Atlas of Transitivity Pairs. 2014. Tokyo: National Institute for Japanese Language 
+and Linguistics. (Available online at: http://verbpairmap.ninjal.ac.jp).
+■ Widmer, Paul, Stefan Dedio, Lea Gafner, Barbara Sonnenhauser. 2019. Comparing the multi-faceted 
+morphosyntax of microrole selection. Paper presented at the 13th ALT conference, Pavia. 
+06.09.2019.
+98

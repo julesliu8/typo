@@ -1,0 +1,5 @@
+('emotion_map2022', '202 ', [])
+('emotion_map2022_repo', "HTTPSConnectionPool(host='orbi.uliege.be', port=443): Max retries exceeded with url: /bitstream/2268/291967/1/Georgakopoulos%26Polis_2022_SemanticMaps_Emotions.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")
+('emotion_hubs2023', 'PDF saved, 8 pages')
+('perception_phenomenon2019', '403 Client Error: Forbidden for url: https://shs.cairn.info/revue-syntaxe-et-semantique-2019-1-page-17?lang=en')
+('perception_cognition2021', '202 ', [])

@@ -1,0 +1,3101 @@
+BivalTyp
+BivalTyp
+Home
+Project ↓
+Project description
+Questionnaire
+Instructions for contributors
+Team
+Publications
+How to read the data
+Languages ↓
+List view
+Map view
+Predicates
+Data overview ↓
+Patterns overview
+Data in one spreadsheet
+Maps
+Download
+Predicates
+Click on the name of a predicate if you want to see all patterns and glossed examples associated with the predicate.
+Show Russian meta:
+1.
+feel pain
+Argument frame:
+X
+(have)
+Y
+ache
+Stimulus sentence:
+P.
+has a
+head
+ache.
+Predicate label Ru:
+болеть#часть тела#
+Argument frame Ru:
+у
+X
+-а (болеть)
+Y
+Stimulus sentence Ru:
+У
+П.
+болит
+голова
+.
+2.
+have (illness)
+Argument frame:
+X
+(have)
+Y
+Stimulus sentence:
+P.
+has
+the flu
+.
+Predicate label Ru:
+болеть#болезнью#
+Argument frame Ru:
+X
+(болеть)
+Y
+-ом
+Stimulus sentence Ru:
+П.
+болеет
+гриппом
+.
+3.
+be afraid
+Argument frame:
+X
+(be afraid) of
+Y
+Stimulus sentence:
+(P. has to go out of the house, but there is a dog barking in the yard).
+P.
+is afraid of
+the dog
+.
+Predicate label Ru:
+бояться
+Argument frame Ru:
+X
+(бояться)
+Y
+-а
+Stimulus sentence Ru:
+(П. нужно выйти из дома, но во дворе лает собака).
+П.
+боится
+собаки
+.
+4.
+throw
+Argument frame:
+X
+(throw)
+Y
+Stimulus sentence:
+(Two boys are competing to see who can throw a stone the farthest.)
+P.
+threw
+a stone
+(first).
+Predicate label Ru:
+бросить
+Argument frame Ru:
+X
+(бросить)
+Y
+(-а)
+Stimulus sentence Ru:
+(Мальчики соревнуются, кто дальше кинет камень. Сначала)
+П.
+бросил
+камень
+.
+5.
+have enough
+Argument frame:
+X
+(have enough)
+Y
+Stimulus sentence:
+(P. has found a new job.) Now
+P.
+has enough
+money
+.
+Predicate label Ru:
+быть достаточно
+Argument frame Ru:
+X
+-у (хватать)
+Y
+-а
+Stimulus sentence Ru:
+(
+П.
+нашел новую работу. Теперь)
+П.
+хватает
+денег
+.
+6.
+resemble
+Argument frame:
+X
+(resemble)
+Y
+Stimulus sentence:
+(M. is P.'s grandfather)
+P.
+resembles
+M
+.
+Predicate label Ru:
+быть похожим
+Argument frame Ru:
+X
+(быть похожим) на
+Y
+(-а)
+Stimulus sentence Ru:
+(М. — дедушка П.)
+П.
+похож на
+М
+.
+7.
+believe
+Argument frame:
+X
+(believe)
+Y
+Stimulus sentence:
+P.
+believes
+M
+.
+Predicate label Ru:
+верить
+Argument frame Ru:
+X
+(верить)
+Y
+-у
+Stimulus sentence Ru:
+П.
+верит
+М
+.
+8.
+take
+Argument frame:
+X
+(take)
+Y
+Stimulus sentence:
+P.
+took
+a book
+(from the shelf).
+Predicate label Ru:
+взять
+Argument frame Ru:
+X
+(брать)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+взял
+книгу
+(с полки).
+9.
+see
+Argument frame:
+X
+(see)
+Y
+Stimulus sentence:
+P.
+sees
+a house
+_y.
+Predicate label Ru:
+видеть
+Argument frame Ru:
+X
+(видеть)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+видит
+дом
+.
+10.
+influence
+Argument frame:
+X
+(influence)
+Y
+Stimulus sentence:
+Age
+influences
+memory
+.
+Predicate label Ru:
+влиять
+Argument frame Ru:
+X
+(влиять) на
+Y
+(-а)
+Stimulus sentence Ru:
+Возраст] влияет на [память
+.
+11.
+encounter
+Argument frame:
+X
+(encounter)
+Y
+Stimulus sentence:
+P.
+encountered
+M.
+(accidentally, on the street). =
+P.
+_x ran into
+M
+.
+Predicate label Ru:
+встречаться
+Argument frame Ru:
+X
+(встречаться) с
+Y
+-ом
+Stimulus sentence Ru:
+П.
+встретился с
+М.
+(случайно, на улице).
+12.
+enter
+Argument frame:
+X
+(enter)
+Y
+Stimulus sentence:
+P.
+entered
+the house
+.
+Predicate label Ru:
+входить
+Argument frame Ru:
+X
+(входить) в
+Y
+(дом)
+Stimulus sentence Ru:
+П.
+вошел в
+дом
+.
+13.
+win
+Argument frame:
+X
+(beat)
+Y
+Stimulus sentence:
+(P. and M. played chess.)
+P.
+beat
+M
+.
+Predicate label Ru:
+выиграть
+Argument frame Ru:
+X
+(выигрывать) у
+Y
+-а
+Stimulus sentence Ru:
+(П. играл с М. в шахматы).
+П.
+выиграл у
+М
+.
+14.
+go out
+Argument frame:
+X
+(go out) of
+Y
+Stimulus sentence:
+P.
+went out of
+the house
+.
+Predicate label Ru:
+выходить
+Argument frame Ru:
+X
+(выходить) из
+Y
+-а
+Stimulus sentence Ru:
+П.
+вышел из
+дома
+.
+15.
+drive
+Argument frame:
+X
+(drive)
+Y
+Stimulus sentence:
+P.
+is driving
+the cow
+(to the pasture).
+Predicate label Ru:
+гнать
+Argument frame Ru:
+X
+(гнать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+гонит
+корову
+(на пастбище).
+16.
+bend
+Argument frame:
+X
+(bend)
+Y
+Stimulus sentence:
+P.
+bent
+the branch
+.
+Predicate label Ru:
+гнуть
+Argument frame Ru:
+X
+(гнуть)
+Y
+Stimulus sentence Ru:
+П.
+согнул
+ветку
+.
+17.
+tell
+Argument frame:
+X
+(tell)
+Y
+Stimulus sentence:
+P.
+told
+M.
+: (‘Call me this evening.’)
+Predicate label Ru:
+говорить
+Argument frame Ru:
+X
+(говорить)
+Y
+-у
+Stimulus sentence Ru:
+П.
+сказал
+М.
+: ("Приходи ко мне в гости").
+18.
+hold
+Argument frame:
+X
+(hold)
+Y
+Stimulus sentence:
+P.
+is holding
+a book
+(in his hands).
+Predicate label Ru:
+держать
+Argument frame Ru:
+X
+(держать)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+держит
+книгу
+(в руках).
+19.
+catch up
+Argument frame:
+X
+(catch up) with
+Y
+Stimulus sentence:
+(P. had an argument with M., M. went away, P. went after her.)
+P.
+caught up with
+M
+.
+Predicate label Ru:
+догнать
+Argument frame Ru:
+X
+(догонять)
+Y
+(-а)
+Stimulus sentence Ru:
+(П. поссорился с М., и М. ушла. П. пошел за ней).
+П.
+догнал
+М
+.
+20.
+milk
+Argument frame:
+X
+(milk)
+Y
+Stimulus sentence:
+P.
+milked
+the cow
+.
+Predicate label Ru:
+доить
+Argument frame Ru:
+X
+(доить)
+Y
+-а
+Stimulus sentence Ru:
+П.
+подоил
+корову
+.
+21.
+reach
+Argument frame:
+X
+(reach)
+Y
+Stimulus sentence:
+(P. was crossing the river in a boat.)
+P.
+reached
+the bank
+.
+Predicate label Ru:
+достичь
+Argument frame Ru:
+X
+(достичь)
+Y
+-а (берега)
+Stimulus sentence Ru:
+(П. плыл на лодке через речку).
+П.
+достиг
+берега
+.
+22.
+touch
+Argument frame:
+X
+(touch)
+Y
+Stimulus sentence:
+(The wall was covered with fresh paint.)
+P.
+touched
+the wall
+(and got dirty).
+Predicate label Ru:
+дотронуться
+Argument frame Ru:
+X
+(дотрагиваться) до
+Y
+-а
+Stimulus sentence Ru:
+(Стена недавно была покрашена).
+П.
+дотронулся до
+стены
+(и испачкался).
+23.
+fight
+Argument frame:
+X
+(fight) with
+Y
+Stimulus sentence:
+(‘Look out of the window!’ ‘What’s happening?’) ‘
+P.
+is fighting with
+M.
+’
+Predicate label Ru:
+драться
+Argument frame Ru:
+X
+(драться) с
+Y
+-ом
+Stimulus sentence Ru:
+(— Посмотри во двор. — А что там?).
+П.
+дерется с
+М
+.
+24.
+be friends
+Argument frame:
+X
+(be friends) with
+Y
+Stimulus sentence:
+P.
+is friends with
+M
+.
+Predicate label Ru:
+дружить
+Argument frame Ru:
+X
+(дружить) с
+Y
+-ом
+Stimulus sentence Ru:
+П.
+дружит с
+М
+.
+25.
+think
+Argument frame:
+X
+(think) about
+Y
+Stimulus sentence:
+(P. has a thoughtful look.)
+P.
+is thinking about
+M
+.
+Predicate label Ru:
+думать
+Argument frame Ru:
+X
+(думать) об
+Y
+-е (об отце)
+Stimulus sentence Ru:
+(У П. задумчивый вид).
+П.
+думает о
+М
+.
+26.
+eat
+Argument frame:
+X
+(eat)
+Y
+Stimulus sentence:
+P.
+ate
+an apple
+.
+Predicate label Ru:
+есть
+Argument frame Ru:
+X
+(есть)
+Y
+Stimulus sentence Ru:
+П.
+съел
+яблоко
+.
+27.
+fry
+Argument frame:
+X
+(fry)
+Y
+Stimulus sentence:
+P.
+fried
+the fish
+.
+Predicate label Ru:
+жарить
+Argument frame Ru:
+X
+(жарить)
+Y
+Stimulus sentence Ru:
+П.
+пожарил
+рыбу
+.
+28.
+wait
+Argument frame:
+X
+(wait) for
+Y
+Stimulus sentence:
+(P. and M. have arranged to meet at 2 p.m. at the post office.)
+P.
+is waiting for
+M
+.
+Predicate label Ru:
+ждать
+Argument frame Ru:
+X
+(ждать)
+Y
+-а (сына)
+Stimulus sentence Ru:
+(П. и М. договорились встретиться в два часа на почте).
+П.
+ждет
+М
+.
+29.
+forget
+Argument frame:
+X
+(forget) (about)
+Y
+Stimulus sentence:
+(P. had already visited this town and knew that there is a shorter road. When he went there once again this time, however, he chose the longer road.)
+P.
+forgot (about)
+the other road
+.
+Predicate label Ru:
+забывать
+Argument frame Ru:
+X
+(забывать) об
+Y
+-е
+Stimulus sentence Ru:
+(П. однажды уже ездил в этот город и знал, что туда есть более короткая дорога. Но сейчас он поехал туда снова и выбрал более длинную).
+П.
+забыл о
+другой дороге
+.
+30.
+depend
+Argument frame:
+X
+(depend) on
+Y
+Stimulus sentence:
+Memory
+depends on
+age
+.
+Predicate label Ru:
+зависеть
+Argument frame Ru:
+X
+(зависеть) от
+Y
+-а
+Stimulus sentence Ru:
+Память
+зависит от
+возраста
+.
+31.
+call
+Argument frame:
+X
+(call)
+Y
+Stimulus sentence:
+(P. tried to open the door himself, but he didn’t manage. Then)
+P.
+called
+M
+.
+Predicate label Ru:
+звать
+Argument frame Ru:
+X
+(звать)
+Y
+-а
+Stimulus sentence Ru:
+(П. пытался сам открыть дверь, но не смог. Тогда)
+П.
+позвал
+М
+.
+32.
+get to know
+Argument frame:
+X
+(get to know)
+Y
+Stimulus sentence:
+P.
+got to know
+M.
+a year ago.
+Predicate label Ru:
+знакомиться
+Argument frame Ru:
+X
+(знакомиться) с
+Y
+-ом
+Stimulus sentence Ru:
+П.
+познакомился с
+М.
+год тому назад.
+33.
+know
+Argument frame:
+X
+(know)
+Y
+Stimulus sentence:
+P.
+knows
+M
+.
+Predicate label Ru:
+знать
+Argument frame Ru:
+X
+(знать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+знает
+М
+.
+34.
+play (instrument)
+Argument frame:
+X
+(play)
+Y
+Stimulus sentence:
+(What is P. doing?)
+P.
+is playing
+the guitar
+.
+Predicate label Ru:
+играть
+Argument frame Ru:
+X
+(играть) на
+Y
+-е
+Stimulus sentence Ru:
+(Что сейчас делает П.?)
+П.
+играет на
+гитаре
+.
+35.
+avoid
+Argument frame:
+X
+(avoid)
+Y
+Stimulus sentence:
+(P. owes M. a huge sum of money, which he cannot return. Instead of this)
+P.
+avoids
+M
+.
+Predicate label Ru:
+избегать
+Argument frame Ru:
+X
+(избегать)
+Y
+-а
+Stimulus sentence Ru:
+(П. должен М. крупную сумму денег, которую не может вернуть. Поэтому)
+П.
+избегает
+М
+.
+36.
+make
+Argument frame:
+X
+(make)
+Y
+Stimulus sentence:
+P.
+made
+a mousetrap
+.
+Predicate label Ru:
+изготовить
+Argument frame Ru:
+X
+(изготовить)
+Y
+Stimulus sentence Ru:
+П.
+изготовил
+мышеловку
+.
+37.
+make fun
+Argument frame:
+X
+(make fun) of
+Y
+Stimulus sentence:
+(M. did something very stupid. Now,)
+P.
+is making fun of
+M
+.
+Predicate label Ru:
+издеваться
+Argument frame Ru:
+X
+(издеваться) над
+Y
+-ом
+Stimulus sentence Ru:
+(М. сделал(а) что-то очень глупое. Теперь)
+П.
+издевается над
+М
+.
+38.
+have
+Argument frame:
+X
+(have)
+Y
+Stimulus sentence:
+P.
+has
+a car
+.
+Predicate label Ru:
+иметь
+Argument frame Ru:
+X
+(иметь)
+Y
+Stimulus sentence Ru:
+У
+П.
+есть
+машина
+.
+39.
+look for
+Argument frame:
+X
+(look for)
+Y
+Stimulus sentence:
+P.
+is looking for
+his keys
+.
+Predicate label Ru:
+искать
+Argument frame Ru:
+X
+(искать)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+ищет
+ключи
+.
+40.
+paint
+Argument frame:
+X
+(paint)
+Y
+Stimulus sentence:
+P.
+painted
+the fence
+.
+Predicate label Ru:
+красить
+Argument frame Ru:
+X
+(красить)
+Y
+Stimulus sentence Ru:
+П.
+покрасил
+забор
+.
+41.
+bite
+Argument frame:
+X
+(bite)
+Y
+Stimulus sentence:
+A dog
+bit
+P.
+.
+Predicate label Ru:
+кусать
+Argument frame Ru:
+X
+(кусать)
+Y
+-а
+Stimulus sentence Ru:
+Собака
+укусила
+П
+.
+42.
+forfeit
+Argument frame:
+X
+(lose)
+Y
+Stimulus sentence:
+(There was a fire in the village. As a result)
+P.
+lost
+his house
+.
+Predicate label Ru:
+лишаться
+Argument frame Ru:
+X
+(лишаться)
+Y
+-а
+Stimulus sentence Ru:
+(В деревне был пожар. В результате)
+П.
+лишился
+дома
+.
+43.
+try to catch
+Argument frame:
+X
+(try to catch)
+Y
+Stimulus sentence:
+(The cat sprang out of the house.)
+P.
+is trying to catch
+the cat
+.
+Predicate label Ru:
+ловить
+Argument frame Ru:
+X
+(ловить)
+Y
+(-а)
+Stimulus sentence Ru:
+(Кошка выскочила из дома).
+П.
+ловит
+кошку
+.
+44.
+break
+Argument frame:
+X
+(break)
+Y
+Stimulus sentence:
+P.
+broke
+a stick
+.
+Predicate label Ru:
+ломать
+Argument frame Ru:
+X
+(ломать)
+Y
+Stimulus sentence Ru:
+П.
+сломал
+палку
+.
+45.
+flatter
+Argument frame:
+X
+(flatter)
+Y
+Stimulus sentence:
+(
+P.
+tells M. that she is very beautiful.)
+P.
+is flattering
+M
+.
+Predicate label Ru:
+льстить
+Argument frame Ru:
+X
+(льстить)
+Y
+-у
+Stimulus sentence Ru:
+(П. говорит М., что она очень красивая).
+П.
+льстит
+М
+.
+46.
+love (person)
+Argument frame:
+X
+(love)
+Y
+Stimulus sentence:
+P.
+loves
+M
+.
+Predicate label Ru:
+любить#человека#
+Argument frame Ru:
+X
+(любить)
+Y
+-а (сына)
+Stimulus sentence Ru:
+П.
+любит
+М
+.
+47.
+wave
+Argument frame:
+X
+(wave)
+Y
+Stimulus sentence:
+(Look, there’s P. on the other side of the river.)
+P.
+is waving
+a handkerchief
+.
+Predicate label Ru:
+махать
+Argument frame Ru:
+X
+(махать)
+Y
+-ом
+Stimulus sentence Ru:
+(Смотрите, на другом берегу реки стоит П.).
+П.
+машет
+платком
+.
+48.
+dream
+Argument frame:
+X
+(dream) of
+Y
+Stimulus sentence:
+P.
+is dreaming of
+a new car
+.
+Predicate label Ru:
+мечтать
+Argument frame Ru:
+X
+(мечтать) об
+Y
+-е
+Stimulus sentence Ru:
+П.
+мечтает о
+(новой) машине
+.
+49.
+wash
+Argument frame:
+X
+(wash)
+Y
+Stimulus sentence:
+P.
+washed
+the cup
+.
+Predicate label Ru:
+мыть
+Argument frame Ru:
+X
+(мыть)
+Y
+Stimulus sentence Ru:
+П.
+вымыл
+чашку
+.
+50.
+put on
+Argument frame:
+X
+(put_on)
+Y
+Stimulus sentence:
+P.
+put on
+his trousers
+.
+Predicate label Ru:
+надевать
+Argument frame Ru:
+X
+(надевать)
+Y
+Stimulus sentence Ru:
+П.
+надел
+штаны
+.
+51.
+be called
+Argument frame:
+X
+(be_called)
+Y
+Stimulus sentence:
+(A boy saw his father’s compass and asked what this was. The father answered him:) ‘
+This tool
+is called
+a compass
+.’
+Predicate label Ru:
+называться
+Argument frame Ru:
+X
+(называться)
+Y
+Stimulus sentence Ru:
+(Мальчик увидел у отца компас и спросил, что это такое. Отец отвечает ему:)
+Этот предмет / инструмент] называется [компас / компасом
+."
+52.
+punish
+Argument frame:
+X
+(punish)
+Y
+Stimulus sentence:
+(P.’s son was misbehaving.)
+P.
+punished
+his son
+.
+Predicate label Ru:
+наказывать
+Argument frame Ru:
+X
+(наказывать)
+Y
+-а
+Stimulus sentence Ru:
+(Сын П. плохо себя вел)
+П.
+наказал
+своего сына
+.
+53.
+attack
+Argument frame:
+X
+(attack)
+Y
+Stimulus sentence:
+A bear
+attacked
+a fisherman
+.
+Predicate label Ru:
+напасть
+Argument frame Ru:
+X
+(нападать) на
+Y
+-а
+Stimulus sentence Ru:
+Медведь
+напал на
+рыбака
+.
+54.
+fill (intr)
+Argument frame:
+X
+(fill) with
+Y
+Stimulus sentence:
+(There was a bucket near the house during the rain.)
+The bucket] filled with [water
+.
+Predicate label Ru:
+наполняться
+Argument frame Ru:
+X
+(наполняться)
+Y
+-ом
+Stimulus sentence Ru:
+(Во время дождя ведро стояло на улице)
+Ведро
+наполнилось
+водой
+.
+55.
+find
+Argument frame:
+X
+(find)
+Y
+Stimulus sentence:
+P.
+found
+his keys
+.
+Predicate label Ru:
+находить
+Argument frame Ru:
+X
+(находить)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+нашел
+ключи
+.
+56.
+be short
+Argument frame:
+X
+(be short)
+Y
+Stimulus sentence:
+(P. wants to buy a ticket. He counts his money and finds out that)
+P.
+is short / lacks
+one euro
+.
+Predicate label Ru:
+недоставать
+Argument frame Ru:
+X
+-у (недоставать)
+Y
+-a
+Stimulus sentence Ru:
+(П. хочет купить билет. Он посчитал деньги и выяснилось, что)
+П.
+недостает
+одного доллара
+.
+57.
+hate
+Argument frame:
+X
+(hate)
+Y
+Stimulus sentence:
+P.
+hates
+M
+.
+Predicate label Ru:
+ненавидеть
+Argument frame Ru:
+X
+(ненавидеть)
+Y
+-а
+Stimulus sentence Ru:
+П.
+ненавидит
+М
+.
+58.
+like
+Argument frame:
+X
+(like)
+Y
+Stimulus sentence:
+P.
+likes
+this shirt
+.
+Predicate label Ru:
+нравиться
+Argument frame Ru:
+X
+-у (нравиться)
+Y
+Stimulus sentence Ru:
+П.
+нравится
+эта рубашка
+.
+59.
+need
+Argument frame:
+X
+(need)
+Y
+Stimulus sentence:
+(P.’s house was burglarised with all the valuables taken. As a consequence,)
+P.
+needs
+money
+.
+Predicate label Ru:
+нуждаться
+Argument frame Ru:
+X
+(нуждаться) в
+Y
+-е
+Stimulus sentence Ru:
+(Дом П. ограбили и унесли все, что там было. Теперь)
+П.
+нуждается в
+деньгах
+/
+П.
+нужны
+деньги
+.
+60.
+surround
+Argument frame:
+X
+(surround)
+Y
+Stimulus sentence:
+Walls
+surround
+the city
+.
+Predicate label Ru:
+окружать
+Argument frame Ru:
+X
+(окружать)
+Y
+(стена город)
+Stimulus sentence Ru:
+Стены
+окружают
+город
+.
+61.
+remain
+Argument frame:
+X
+(have)
+Y
+left
+Stimulus sentence:
+(P. had 100 euro, but he bought a TV, so now)
+P.
+has
+10 euros
+left.
+Predicate label Ru:
+оставаться
+Argument frame Ru:
+у
+X
+-а (оставаться)
+Y
+Stimulus sentence Ru:
+(У П. было 100 долларов, но он купил телевизор и теперь) у
+П.
+осталось
+10 долларов
+.
+62.
+answer
+Argument frame:
+X
+(answer)
+Y
+Stimulus sentence:
+(The teacher asked P. what his parents’ names are.)
+P.
+answered
+the teacher
+.
+Predicate label Ru:
+отвечать
+Argument frame Ru:
+X
+(отвечать)
+Y
+-у
+Stimulus sentence Ru:
+(Учитель спросил у П., как зовут его родителей).
+П.
+ответил
+учителю
+.
+63.
+open
+Argument frame:
+X
+(open)
+Y
+Stimulus sentence:
+P.
+opened
+a can
+.
+Predicate label Ru:
+открывать
+Argument frame Ru:
+X
+(открывать)
+Y
+Stimulus sentence Ru:
+П.
+открыл
+банку
+.
+64.
+be different
+Argument frame:
+X
+(be different) from
+Y
+Stimulus sentence:
+(M. told P. that they have identical shirts. P. answered her,) ‘No,
+my shirt
+is different from
+yours
+(, it is darker).’
+Predicate label Ru:
+отличаться
+Argument frame Ru:
+X
+(отличаться) от
+Y
+-а
+Stimulus sentence Ru:
+(М. сказал П., что у них одинаковые рубашки. П. отвечает ему: «Нет,)
+моя рубашка
+отличается от
+твоей
+(она более темная").
+65.
+fall behind
+Argument frame:
+X
+(fall behind)
+Y
+Stimulus sentence:
+(P. and M. started out to school together, but)
+P.
+fell behind
+M
+.
+Predicate label Ru:
+отстать
+Argument frame Ru:
+X
+(отставать) от
+Y
+-а
+Stimulus sentence Ru:
+(П. и М. вместе пошли в школу, но)
+П.
+отстал от
+М
+.
+66.
+plough
+Argument frame:
+X
+(plough)
+Y
+Stimulus sentence:
+P.
+is ploughing
+the field
+.
+Predicate label Ru:
+пахать
+Argument frame Ru:
+X
+(пахать)
+Y
+Stimulus sentence Ru:
+П.
+пашет
+поле
+.
+67.
+smell
+Argument frame:
+X
+(smell) like / of
+Y
+Stimulus sentence:
+(I was mending my car.)
+My hands
+smell like / smell of
+gasoline
+.
+Predicate label Ru:
+пахнуть
+Argument frame Ru:
+X
+(пахнуть)
+Y
+-ом
+Stimulus sentence Ru:
+(Я чинил машину).
+Мои руки] пахнут [бензином
+.
+68.
+cross
+Argument frame:
+X
+(cross)
+Y
+Stimulus sentence:
+(P. saw that the shop is on the other side of the road.)
+P.
+crossed
+the road
+(and entered the shop).
+Predicate label Ru:
+пересечь
+Argument frame Ru:
+X
+(пересекать)
+Y
+(улицу)
+Stimulus sentence Ru:
+(П. увидел, что магазин на другой стороне дороги. Тогда).
+П.
+пересек
+дорогу
+(и вошел в магазин).
+69.
+sing
+Argument frame:
+X
+(sing)
+Y
+Stimulus sentence:
+P.
+sang
+a beautiful song
+.
+Predicate label Ru:
+петь
+Argument frame Ru:
+X
+(петь)
+Y
+Stimulus sentence Ru:
+П.
+спел
+красивую песню
+.
+70.
+write
+Argument frame:
+X
+(write)
+Y
+Stimulus sentence:
+P.
+wrote
+a letter
+.
+Predicate label Ru:
+писать
+Argument frame Ru:
+X
+(писать)
+Y
+Stimulus sentence Ru:
+П.
+написал письмо
+.
+71.
+drink
+Argument frame:
+X
+(drink)
+Y
+Stimulus sentence:
+(P. was given a glass of milk by his mother.)
+P.
+drank
+the milk
+.
+Predicate label Ru:
+пить
+Argument frame Ru:
+X
+(пить)
+Y
+Stimulus sentence Ru:
+(Мама налила П. стакан молока)
+П.
+выпил
+молоко
+.
+72.
+melt
+Argument frame:
+X
+(melt)
+Y
+Stimulus sentence:
+P.
+melted
+a piece of lead
+.
+Predicate label Ru:
+плавить
+Argument frame Ru:
+X
+(плавить)
+Y
+Stimulus sentence Ru:
+П.
+расплавил
+кусок свинца
+.
+73.
+match
+Argument frame:
+X
+(match)
+Y
+Stimulus sentence:
+(A girl tries a belt in the shop and says, ‘Great,)
+this belt
+goes well with / matches
+my dress
+.’
+Predicate label Ru:
+подходить
+Argument frame Ru:
+X
+(подходить) к
+Y
+-у (пояс к платью)
+Stimulus sentence Ru:
+(Девушка меряет в магазине пояс и говорит: «Отлично,)
+этот пояс
+подходит к
+моему платью
+».
+74.
+leave
+Argument frame:
+X
+(leave)
+Y
+Stimulus sentence:
+P.
+left
+his native city
+.
+Predicate label Ru:
+покидать
+Argument frame Ru:
+X
+(покидать)
+Y
+(-а)
+Stimulus sentence Ru:
+П.
+покинул
+родной город
+.
+75.
+cover
+Argument frame:
+X
+(cover)
+Y
+Stimulus sentence:
+The carpet
+covers
+the whole floor
+.
+Predicate label Ru:
+покрывать
+Argument frame Ru:
+X
+(покрывать)
+Y
+Stimulus sentence Ru:
+Ковер
+покрывает
+весь пол
+.
+76.
+remember
+Argument frame:
+X
+(remember)
+Y
+Stimulus sentence:
+P.
+remembers
+the house (where he grew up)
+well.
+Predicate label Ru:
+помнить
+Argument frame Ru:
+X
+(помнить)
+Y
+-а
+Stimulus sentence Ru:
+П.
+хорошо помнит
+дом (в котором вырос)
+.
+77.
+help
+Argument frame:
+X
+(help)
+Y
+Stimulus sentence:
+(M. didn’t manage to do her homework by herself.)
+P.
+helped
+M
+.
+Predicate label Ru:
+помочь
+Argument frame Ru:
+X
+(помогать)
+Y
+-у
+Stimulus sentence Ru:
+(М. не могла сама сделать домашнее задание).
+П.
+помог
+М
+.
+78.
+understand (language)
+Argument frame:
+X
+(understand)
+Y
+Stimulus sentence:
+P.
+understands
+French
+.
+Predicate label Ru:
+понимать#язык#
+Argument frame Ru:
+X
+(понимать)
+Y
+Stimulus sentence Ru:
+П.
+понимает
+французский язык
+.
+79.
+hit (target)
+Argument frame:
+X
+(hit)
+Y
+Stimulus sentence:
+Lightning
+hit / struck
+the house
+.
+Predicate label Ru:
+попасть
+Argument frame Ru:
+X
+(попадать) в
+Y
+(молния в дом)
+Stimulus sentence Ru:
+Молния] попала в [дом
+.
+80.
+cut oneself
+Argument frame:
+X
+(cut oneself) with
+Y
+Stimulus sentence:
+P.
+cut himself with
+a razor
+.
+Predicate label Ru:
+порезаться
+Argument frame Ru:
+X
+(резаться)
+Y
+-ом
+Stimulus sentence Ru:
+П.
+порезался
+бритвой
+.
+81.
+get stuck
+Argument frame:
+X
+(get stuck) to
+Y
+Stimulus sentence:
+(The table was recently covered with paint. P. didn’t know this and placed his glass on it.)
+The glass] got stuck to [the table
+.
+Predicate label Ru:
+прилипать
+Argument frame Ru:
+X
+(прилипать) к
+Y
+-у
+Stimulus sentence Ru:
+(Стол недавно покрасили, а П. не знал этого и поставил на него стакан).
+Стакан] прилип к [столу
+.
+82.
+lose (game)
+Argument frame:
+X
+(lose) to
+Y
+Stimulus sentence:
+(P. played chess with M.)
+P.
+lost to
+M
+.
+Predicate label Ru:
+проиграть
+Argument frame Ru:
+X
+(проиграть)
+Y
+-у
+Stimulus sentence Ru:
+(П. играл с М. в шахматы).
+П.
+проиграл
+М
+.
+83.
+be glad
+Argument frame:
+X
+(be glad) about
+Y
+Stimulus sentence:
+(P. received a letter from M.)
+P.
+was glad about
+the letter
+.
+Predicate label Ru:
+радоваться
+Argument frame Ru:
+X
+(радоваться)
+Y
+-у
+Stimulus sentence Ru:
+(П. получил письмо от М.).
+П.
+обрадовался
+письму
+.
+84.
+speak
+Argument frame:
+X
+(speak) with
+Y
+Stimulus sentence:
+(I am looking for P. When I enter the room I see that)
+P.
+is speaking with
+M
+.
+Predicate label Ru:
+разговаривать
+Argument frame Ru:
+X
+(разговаривать) с
+Y
+-ом
+Stimulus sentence Ru:
+(Я искал П. Когда я вошел в комнату, я увидел, что)
+П.
+разговаривает с
+М
+.
+85.
+give birth
+Argument frame:
+X
+(give birth) to
+Y
+Stimulus sentence:
+M.
+gave birth to
+a son
+.
+Predicate label Ru:
+рожать
+Argument frame Ru:
+X
+(рожать)
+Y
+-а
+Stimulus sentence Ru:
+М.
+родила
+сына
+.
+86.
+drop
+Argument frame:
+X
+(drop)
+Y
+Stimulus sentence:
+P.
+dropped
+the glass
+.
+Predicate label Ru:
+ронять
+Argument frame Ru:
+X
+(ронять)
+Y
+Stimulus sentence Ru:
+П.
+уронил
+стакан
+.
+87.
+govern
+Argument frame:
+X
+(govern)
+Y
+Stimulus sentence:
+P.
+runs
+our town
+.
+Predicate label Ru:
+руководить
+Argument frame Ru:
+X
+(руководить)
+Y
+Stimulus sentence Ru:
+П.
+руководит
+нашим поселком
+.
+88.
+miss
+Argument frame:
+X
+(miss)
+Y
+Stimulus sentence:
+P.
+misses
+M
+.
+Predicate label Ru:
+скучать
+Argument frame Ru:
+X
+(скучать) по
+Y
+-у
+Stimulus sentence Ru:
+П.
+скучает по
+М
+.
+89.
+follow
+Argument frame:
+X
+(follow)
+Y
+Stimulus sentence:
+P.
+follows
+M
+.
+Predicate label Ru:
+следовать
+Argument frame Ru:
+X
+(следовать) за
+Y
+-ом
+Stimulus sentence Ru:
+П.
+следует за
+М
+.
+90.
+dismount
+Argument frame:
+X
+(get down) from
+Y
+Stimulus sentence:
+P.
+got down from
+the horse
+.
+Predicate label Ru:
+слезать
+Argument frame Ru:
+X
+(слезать) с
+Y
+-a (с лошади)
+Stimulus sentence Ru:
+П.
+слез с
+лошади
+.
+91.
+listen
+Argument frame:
+X
+(listen) to
+Y
+Stimulus sentence:
+(What is P. doing?)
+P.
+is listening to
+radio
+.
+Predicate label Ru:
+слушать
+Argument frame Ru:
+X
+(слушать)
+Y
+Stimulus sentence Ru:
+(Что делает П._x?)
+П.
+слушает
+радио
+.
+92.
+obey
+Argument frame:
+X
+(obey)
+Y
+Stimulus sentence:
+(M. is a mischievous boy, but)
+P.
+always listens to / obeys
+his mother
+.
+Predicate label Ru:
+слушаться
+Argument frame Ru:
+X
+(слушаться)
+Y
+-a
+Stimulus sentence Ru:
+(М. хулиган, плохо себя ведет, а)
+П.
+слушается
+маму
+.
+93.
+hear
+Argument frame:
+X
+(hear)
+Y
+Stimulus sentence:
+P.
+hears
+the music
+.
+Predicate label Ru:
+слышать
+Argument frame Ru:
+X
+(слышать)
+Y
+Stimulus sentence Ru:
+П.
+слышит
+музыку
+.
+94.
+mix
+Argument frame:
+X
+(get mixed) with
+Y
+Stimulus sentence:
+(Some honey was put in a jar of milk and stirred.)
+The honey
+got mixed with
+the milk
+.
+Predicate label Ru:
+смешаться
+Argument frame Ru:
+X
+(смешаться) с
+Y
+-ом
+Stimulus sentence Ru:
+(В сосуд с молоком положили мед и размешали).
+Мед
+смешался с
+молоком
+.
+95.
+look
+Argument frame:
+X
+(look) at
+Y
+Stimulus sentence:
+P.
+is looking at
+the clouds
+(trying to determine if it will rain).
+Predicate label Ru:
+смотреть
+Argument frame Ru:
+X
+(смотреть) на
+Y
+Stimulus sentence Ru:
+П.
+смотрит на
+тучи
+(он хочет понять, будет ли дождь).
+96.
+take off
+Argument frame:
+X
+(take off)
+Y
+Stimulus sentence:
+P.
+took off
+his shirt
+.
+Predicate label Ru:
+снимать
+Argument frame Ru:
+X
+(снимать)
+Y
+(рубашку)
+Stimulus sentence Ru:
+П.
+снял
+рубашку
+.
+97.
+dream (sleeping)
+Argument frame:
+X
+(dream) about
+Y
+Stimulus sentence:
+(P. sleeps)
+P.
+dreams about
+M
+.
+Predicate label Ru:
+сниться
+Argument frame Ru:
+X
+-у (сниться)
+Y
+Stimulus sentence Ru:
+П.
+снится
+М
+.
+98.
+agree
+Argument frame:
+X
+(agree) with
+Y
+Stimulus sentence:
+(M. told P. that their son should learn Irish.)
+P.
+agreed with
+M
+.
+Predicate label Ru:
+соглашаться
+Argument frame Ru:
+X
+(соглашаться) с
+Y
+-ом
+Stimulus sentence Ru:
+(М. сказала П., что их сыну надо выучить английский язык).
+П.
+согласился с
+М
+.
+99.
+have a quarrel
+Argument frame:
+X
+(have a quarrel) with
+Y
+Stimulus sentence:
+P.
+had a quarrel with
+M
+.
+Predicate label Ru:
+ссориться
+Argument frame Ru:
+X
+(ссориться) с кем
+Y
+Stimulus sentence Ru:
+П.
+поссорился с
+М
+.
+100.
+cost
+Argument frame:
+X
+(cost)
+Y
+Stimulus sentence:
+This cup
+costs
+1 euro
+.
+Predicate label Ru:
+стоить
+Argument frame Ru:
+X
+(стоить)
+Y
+(один доллар)
+Stimulus sentence Ru:
+Эта чашка] стоит [один доллар
+.
+101.
+shoot at
+Argument frame:
+X
+(shoot) at
+Y
+Stimulus sentence:
+P.
+shot at
+the bird
+. (He missed.)
+Predicate label Ru:
+стрелять
+Argument frame Ru:
+X
+(стрелять) в
+Y
+-а
+Stimulus sentence Ru:
+П.
+выстрелил в
+птицу
+(Он не попал).
+102.
+pour
+Argument frame:
+X
+(pour)
+Y
+Stimulus sentence:
+P.
+poured
+the sugar
+(into the cup).
+Predicate label Ru:
+сыпать
+Argument frame Ru:
+X
+(сыпать)
+Y
+Stimulus sentence Ru:
+П.
+насыпал
+сахар
+(в чашку).
+103.
+lose
+Argument frame:
+X
+(lose)
+Y
+Stimulus sentence:
+P.
+lost
+his keys
+.
+Predicate label Ru:
+терять
+Argument frame Ru:
+X
+(терять)
+Y
+Stimulus sentence Ru:
+П.
+потерял
+ключи
+.
+104.
+sink
+Argument frame:
+X
+(sink) in
+Y
+Stimulus sentence:
+(This tree has very heavy wood. I threw a log in the river.)
+The log
+sank in
+the water
+.
+Predicate label Ru:
+тонуть
+Argument frame Ru:
+X
+(тонуть) в
+Y
+-е
+Stimulus sentence Ru:
+(У этого дерева очень тяжелая древесина. Однажды я кинул полено в речку).
+Полено] утонуло в [воде
+.
+105.
+kill
+Argument frame:
+X
+(kill)
+Y
+Stimulus sentence:
+P.
+killed
+M
+.
+Predicate label Ru:
+убивать
+Argument frame Ru:
+X
+(убивать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+убил
+М
+.
+106.
+hit
+Argument frame:
+X
+(hit)
+Y
+Stimulus sentence:
+P.
+hit
+M
+.
+Predicate label Ru:
+ударить
+Argument frame Ru:
+X
+(ударять)
+Y
+-а
+Stimulus sentence Ru:
+П.
+ударил
+М
+.
+107.
+kiss
+Argument frame:
+X
+(kiss)
+Y
+Stimulus sentence:
+P.
+kissed
+M
+.
+Predicate label Ru:
+целовать
+Argument frame Ru:
+X
+(целовать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+поцеловал
+М
+.
+108.
+read
+Argument frame:
+X
+(read)
+Y
+Stimulus sentence:
+P.
+read
+an interesting book
+.
+Predicate label Ru:
+читать
+Argument frame Ru:
+X
+(читать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+прочитал
+интересную книгу
+.
+109.
+move (bodypart)
+Argument frame:
+X
+(move)
+Y
+Stimulus sentence:
+P.
+moved
+his finger
+.
+Predicate label Ru:
+шевелить
+Argument frame Ru:
+X
+(шевелить)
+Y
+-ом
+Stimulus sentence Ru:
+П.
+пошевелил
+пальцем
+.
+110.
+respect
+Argument frame:
+X
+(respect)
+Y
+Stimulus sentence:
+P.
+respects
+M
+.
+Predicate label Ru:
+уважать
+Argument frame Ru:
+X
+(уважать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+уважает
+М
+.
+111.
+be squeamish
+Argument frame:
+X
+(be squeamish) about
+Y
+Stimulus sentence:
+P.
+is squeamish about
+dirty dishes
+.
+Predicate label Ru:
+брезговать
+Argument frame Ru:
+X
+(брезговать)
+Y
+-ом
+Stimulus sentence Ru:
+П.
+брезгует
+грязной посудой
+.
+112.
+be content
+Argument frame:
+X
+(be content) wit
+Y
+X (be content) with
+Stimulus sentence:
+(P.’s son does well at school.)
+P.
+is OK/content/satisfied with
+his son
+.
+Predicate label Ru:
+быть довольным
+Argument frame Ru:
+X
+(быть довольным)
+Y
+-ом
+Stimulus sentence Ru:
+(Сын П. хорошо учится в школе).
+П.
+доволен
+своим сыном
+.
+113.
+fall in love
+Argument frame:
+X
+(fall in love) with
+Y
+Stimulus sentence:
+P.
+fell in love with
+M
+.
+Predicate label Ru:
+влюбляться
+Argument frame Ru:
+X
+(влюбляться) в
+Y
+-a
+Stimulus sentence Ru:
+П.
+влюбился в
+М
+.
+114.
+trust
+Argument frame:
+X
+(trust)
+Y
+Stimulus sentence:
+(P. and M. have a happy family. M. never deceives P.)
+P.
+trusts
+M
+.
+Predicate label Ru:
+доверять
+Argument frame Ru:
+X
+(доверять)
+Y
+-у
+Stimulus sentence Ru:
+(У П. и М. дружная семья, М. никогда не обманывает П.)
+П.
+доверяет
+М
+.
+115.
+sympathise
+Argument frame:
+X
+(sympathise) with
+Y
+Stimulus sentence:
+(P.’s mother is very ill.)
+P.
+sympathises with
+his mother
+.
+Predicate label Ru:
+жалеть
+Argument frame Ru:
+X
+(жалеть)
+Y
+-а
+Stimulus sentence Ru:
+(Мать П. очень больна).
+П.
+жалеет
+свою мать
+.
+116.
+envy
+Argument frame:
+X
+(envy)
+Y
+Stimulus sentence:
+(M. has a car, and P. doesn't).
+P.
+envies
+M
+.
+Predicate label Ru:
+завидовать
+Argument frame Ru:
+X
+(завидовать)
+Y
+-у
+Stimulus sentence Ru:
+(У М. есть машина, а у П. — нет)
+П.
+завидует
+М
+.
+117.
+be angry
+Argument frame:
+X
+(be angry) with
+Y
+Stimulus sentence:
+P.
+is angry with
+M
+.
+Predicate label Ru:
+злиться
+Argument frame Ru:
+X
+(злиться) на
+Y
+-а
+Stimulus sentence Ru:
+П.
+злится на
+М
+.
+118.
+be surprised
+Argument frame:
+X
+(be surprised) at
+Y
+Stimulus sentence:
+(M. made P. an expensive gift.)
+P.
+was surprised at
+this gift
+.
+Predicate label Ru:
+удивляться
+Argument frame Ru:
+X
+(удивляться)
+Y
+-у
+Stimulus sentence Ru:
+(М. сделала П. дорогой подарок).
+П.
+удивился
+этому подарку
+.
+119.
+love (tea)
+Argument frame:
+X
+(love)
+Y
+Stimulus sentence:
+P.
+loves
+tea
+.
+Predicate label Ru:
+любить#чай#
+Argument frame Ru:
+X
+(любить)
+Y
+(чай/яблоки)
+Stimulus sentence Ru:
+П.
+любит
+чай
+.
+120.
+enjoy
+Argument frame:
+X
+(enjoy)
+Y
+Stimulus sentence:
+(After being in cold water)
+P.
+enjoys
+hot tea
+.
+Predicate label Ru:
+наслаждаться
+Argument frame Ru:
+X
+(наслаждаться)
+Y
+-ом
+Stimulus sentence Ru:
+(После холодной воды)
+П.
+наслаждается
+горячим чаем
+.
+121.
+want
+Argument frame:
+X
+(want)
+Y
+Stimulus sentence:
+P.
+wants
+a new mobile phone
+.
+Predicate label Ru:
+хотеть
+Argument frame Ru:
+X
+(хотеть)
+Y
+-а
+Stimulus sentence Ru:
+П.
+хочет
+новый мобильник
+.
+122.
+have a grudge
+Argument frame:
+X
+(have a grudge) against
+Y
+Stimulus sentence:
+(Why doesn’t P. speak with M.?)
+P.
+has a grudge against
+M
+.
+Predicate label Ru:
+сердиться
+Argument frame Ru:
+X
+(сердиться) на
+Y
+-а
+Stimulus sentence Ru:
+(Почему П. не разговаривает с М.?)
+П.
+сердится на
+М
+.
+123.
+take offence
+Argument frame:
+X
+(take_offence) at
+Y
+Stimulus sentence:
+(M. called P. an idiot.)
+P.
+took offence at
+M
+.  =
+P.
+got cross with
+M
+.
+Predicate label Ru:
+обижаться
+Argument frame Ru:
+X
+(обижаться) на
+Y
+-а
+Stimulus sentence Ru:
+(М. назвала П. дураком).
+П.
+обиделся на
+М
+.
+124.
+upset
+Argument frame:
+X
+(upset)
+Y
+Stimulus sentence:
+P.
+greatly upset
+M
+. (He told her that he had spent all the money.)
+Predicate label Ru:
+огорчать
+Argument frame Ru:
+X
+(огорчать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+очень огорчил
+М
+. (Он сказал, что потратил все деньги).
+125.
+marvel
+Argument frame:
+X
+(marvel) at
+Y
+Stimulus sentence:
+(P. arrived in the capital.)
+P.
+marvelled at / was struck by / was impressed by
+this town
+.
+Predicate label Ru:
+поражаться
+Argument frame Ru:
+X
+(поражаться)
+Y
+-у
+Stimulus sentence Ru:
+(П. приехал в столицу).
+П.
+поразился
+этому городу
+.
+126.
+despise
+Argument frame:
+X
+(despise)
+Y
+Stimulus sentence:
+P.
+despises
+M
+.
+Predicate label Ru:
+презирать
+Argument frame Ru:
+X
+(презирать)
+Y
+-а
+Stimulus sentence Ru:
+П.
+презирает
+М
+.
+127.
+get upset
+Argument frame:
+X
+(get upset) with
+Y
+Stimulus sentence:
+(P.’s son got bad marks in school once again.)
+P.
+got upset with
+his son
+. =
+P.
+got upset because of
+his son
+.
+Predicate label Ru:
+огорчаться
+Argument frame Ru:
+X
+(огорчаться) из-за
+Y
+-а
+Stimulus sentence Ru:
+(Сын П. опять получил плохие оценки в школе).
+П.
+огорчился из-за
+своего сына
+.
+128.
+get irritated
+Argument frame:
+X
+(get irritated) with
+Y
+Stimulus sentence:
+(P. has a very bad disposition. Look, once again)
+P.
+is getting irritated with
+his daughter
+.
+Predicate label Ru:
+раздражаться
+Argument frame Ru:
+X
+(раздражаться) на
+Y
+-а
+Stimulus sentence Ru:
+(— У П. очень скверный характер. Смотрите, снова) –
+П.
+раздражается на
+свою дочь
+.
+129.
+be fond
+Argument frame:
+X
+(be fond) of
+Y
+Stimulus sentence:
+P.
+is fond of
+M
+.
+Predicate label Ru:
+симпатизировать
+Argument frame Ru:
+X
+(симпатизировать)
+Y
+-у
+Stimulus sentence Ru:
+П.
+симпатизирует
+М
+.
+130.
+be shy
+Argument frame:
+X
+(be shy) about
+Y
+Stimulus sentence:
+(P. is the smallest in his class.)
+P.
+is shy / embarrassed about
+his height
+.
+Predicate label Ru:
+стесняться
+Argument frame Ru:
+X
+(стесняться)
+Y
+-а
+Stimulus sentence Ru:
+(П. самый маленький по росту в своем классе).
+П.
+стесняется
+своего роста
+.

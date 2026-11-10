@@ -1,0 +1,795 @@
+[PDF PAGE 1]
+(Anti)Causativization of psych verbs in Spanish and Japanese
+Ayumi Shimoyoshi
+Department of Translation, Interpreting and East Asian Studies, Universitat Autònoma de Barcelona, Edi ﬁci K, Plaça del Coneixement,
+Campus de la UAB, Bellaterra (Cerdanyola del Vallès), 08193, Barcelona, Spain
+article info
+Article history:
+Received 28 August 2023
+Received in revised form 16 July 2024
+Accepted 4 August 2024
+Available online xxx
+Keywords:
+(Reﬂexive) psych verbs
+(anti)causativization
+Linguistic typology
+Semantic variation
+abstract
+There is a notable typological contrast between psych verbs in Japanese and Spanish.
+Japanese derives Experiencer-Object verbs (e.g. yorokob-ase-ru ‘to please ’) from speci ﬁc
+Experiencer-Subject verbs (e.g. yorokobu ‘to become pleased ’) via a morphological causa-
+tivization. Spanish, on the other hand, presents so-called re ﬂexive psych verbs (e.g. ale-
+grarse ‘to feel happy ’), most of which can be analyzed as outputs of an anticausativization
+from certain Experiencer-Accusative verbs (e.g. alegrar ‘to make happy ’). Simply put, these
+languages derive psych verbs with procedures that reversely mirror each other. This paper
+will elucidate the characteristics of the causativization used to produce Japanese
+Experiencer-Object causatives and the anticausativization associated with Spanish Re-
+ﬂexive Psych Verbs and demonstrate that the typological contrast between Japanese and
+Spanish psych verbs results in semantic variation, e.g. differences in the entailment rela-
+tion, absence/presence of ambiguity in negation, aspectual diversity. Semantic differences
+between psych verbs in these languages are ascribed to speci ﬁc features of the (anti)
+causative operations employed to generate the predicates.
+/C211 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC
+BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1. Introduction
+1.1. The causative-anticausative contrast in psych verbs
+Psychological verbs, also known as psych verbs, are predicates that denote a mental state or a change of mental states, e.g.
+fear, like, frighten, and please in English. These predicates are associated with two thematic roles: Experiencer and Stimulus (or
+Theme)1. According to the grammatical conﬁgurations of these thematic roles, psych predicates are divided into Experiencer-
+Subject verbs (henceforth, ‘ExpSubj verbs’), as shown in (1a), and Experiencer-Object verbs ( ‘ExpObj verbs’), as in (1b).
+E-mail address: ayumi.shimoyoshi@uab.cat.
+1 Thematic roles are relations between predicates and their arguments in sentences, or relations between an event described by a verb and a participant
+in that event ( Carlson 1984). ‘Experiencer ‘is “a participant who is characterized as aware of something ” (action or state) but who is not in control of it
+(Andrews 1985:8, Dowty 1989), and ‘Stimulus is’ a participant that “causes some emotional reactions or cognitive judgments in the Experiencer ” (Dowty
+1991:579, following Talmy 1985). ‘Theme,’ with psych verbs, refers to the content or object of the described mental state, although the traditional de ﬁnition
+of this role is “a participant which is characterized as changing its position or condition, or as being in a state or position ” (Andrews 1985 :8). Some
+landmark works favored the label ‘Theme’ for the non-Experiencer argument of psych verbs (e.g. Belletti and Rizzi 1988 ; Grimshaw 1990, among others).
+Contents lists available at ScienceDirect
+Language Sciences
+journal homepage: www.els evier.com/locate/langsci
+https://doi.org/10.1016/j.langsci.2024.101673
+0388-0001//C211 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+Language Sciences 106 (2024) 101673
+[PDF PAGE 2]
+The grammatical conﬁgurations of the thematic roles vary intralinguistically and crosslinguistically. In Spanish, in addition
+to those whose Experiencer appears as the nominative subject ( ‘ExpNOM verb ’), as in (2a), there are predicates whose
+Experiencer is expressed in the dative case ( ‘ExpDAT verbs’), as in (2b), and others whose Experiencer is encoded in the
+accusative case ( ‘ExpACC verbs’), as in (2c) 2. ExpACC verbs include those that show the accusative-dative case alternation.
+Moreover, Spanish presents several types of re ﬂexive psych verbs, many of which are re ﬂexive variants of ExpACC verbs, as
+shown in (3) 3.
+In Japanese, psych predicates are typically ExpSubj verbs 4. However, there are subclasses depending on the grammatical
+conﬁgurations of their Stimulus (or Theme) objects. Some ExpSubj verbs mark their object by the particle - o (‘ExpSubj-O
+verbs’), as in (4a), and others, by the particle - ni (‘ExpSubj-NI verbs’), as in (4b)5. Some verbs can mark their object by - o or -ni,
+as shown in (4c). As for ExpObj verbs, Japanese displays the causative variants of ExpSubj- NI verbs, as in (5) 6.
+2 This study uses the terms ‘ExpNOM verbs,’‘ ExpDAT verbs,’ and ‘ExpACC verbs’ for Spanish psych verbs, following Belletti and Rizzi ’s (1988) tradition for
+Italian that has been applied to Spanish psych verbs in the literature.
+3 Here is the list of some Spanish psych verbs (collected from Cano Aguilar 1999 , Gutiérrez, 1999; De Miguel 1999 , Vanhoe 2002 , Romero, 2008; RAE
+2009, Marín 201 1, 2015, Marín and McNally 201 1):
+a. ExpNOM verbs (e.g. odiar ‘to hate’): admirar ‘to admire, ’ adorar ‘to adore,’ amar ‘to love,’ apreciar ‘to appreciate,’ detestar ‘to detest, ’ lamentar ‘to be
+sorry for,’ querer ‘to like, ’ temer ‘to fear,’ etc.
+b. ExpDAT verbs (e.g. gustar ‘to please’): agradar ‘to please,’ apetecer ‘to feel like, ’ desagradar ‘to annoy,’ importar ‘to matter,’ placer ‘to please, to enjoy, ’
+repugnar ‘to disgust, ’ etc.
+c. ExpACC verbs (e.g. asustar ‘to frighten’): aburrir ‘to bore,’ agobiar ‘to overwhelm,’ alegrar ‘to make happy, ’ angustiar ‘to upset,’ asombrar ‘to astonish,’
+aterrorizar ‘to terrorize,’ cabrear ‘to piss off, ’ complacer ‘to please, ’ contentar ‘to satisfy,’ deprimir ‘to depress,’ desesperar ‘to exasperate,’ disgustar ‘to upset,’
+distraer ‘to distract,’ divertir ‘to amuse,’ encantar ‘to please,’ enfadar ‘to make angry,’ enojar ‘to anger,’ entretener ‘to distract,’ entristecer ‘to sadden,’ espantar
+‘to scare, ’ excitar ‘to excite, ’ extrañar ‘to puzzle, ’ entusiasmar ‘to excite, ’ fascinar ‘to fascinate, ’ fastidiar ‘to disgust, ’ horrorizar ‘to horrify, ’ humillar ‘to hu-
+miliate,’ ilusionar ‘to inspire to hope, ’ impresionar ‘to impress,’ interesar ‘to interest,’ inquietar ‘to worry,’ irritar ‘to irritate, ’ molestar ‘to bother,’ ofender ‘to
+offend,’ satisfacer ‘to satisfy,’ preocupar ‘to worry,’ sorprender ‘to surprise, ’ etc.
+4 In Japanese, subjects can be marked by the nominative case marker - ga or a topic marker - wa.
+5 The particle - ni can mark many different types of elements: e.g. indirect objects (dative case or ‘to’), location ( ‘at, in’), direction ( ‘to’), purpose ( ‘to, for’),
+passive agent ( ‘by’), etc. For convenience, we gloss the particle - ni as NI in this study, unless its use is easily identi ﬁable.
+6 Here is the list of some Japanese psych verbs (collected from Teramura 1982 , Bando 1996 , Bando and Matsumura, 2001, Endo and Zushi 1993 ,
+Matsumura 1996, Yamakawa 2004, Shimizu 2007, Yoshinaga 2008 ; Isse 2008 , among others):
+a. ExpSubj- O verbs (e.g. nikumu ‘to hate ’): aisuru ‘to love, ’ ayasimu ‘to suspect, ’ awaremu ‘to feel pity for, ’ hajiru ‘to be ashamed, ’ higamu ‘to take a
+jaundiced view of, ’ hossuru ‘to want, ’ itamu ‘to lament, ’ itsukusimu ‘to cherish, ’ itoosimu ‘to love, ’ kirau ‘to dislike, ’ konomu ‘to like, ’ kuyamu ‘to repent, ’
+natukasimu ‘to miss,’ netamu ‘to envy,’ nozomu ‘to wish, to desire’ osimu ‘to regret, to spare,’ osoreru ‘to fear,’ sitau ‘to adore,’ suku to ‘like,’ tanosimu ‘to enjoy,’
+toutobu ‘to respect, ’ utagau ‘to doubt, ’ uramu ‘to have a grudge against, ’ urayamu ‘to envy,’ etc.
+b. ExpSubj-NI verbs (e.g. odoroku ‘to get surprised ’): akiru ‘to get bored, ’ ikaru ‘to get mad, ’ iradatu ‘to get impatient, ’ komaru ‘to be troubled, ’ koriru ‘to
+learn one ’s lesson, ’ kurusimu ‘to suffer,’ mairu ‘to feel beaten, ’ mayou ‘to waver,’ megeru ‘to lose hope, ’ meiru ‘to get depressed, ’ nayamu ‘to be bothered, ’
+obieru ‘to be scared, ’ okoru ‘to get angry, ’ ononoku ‘to tremble, ’ otituku ‘to calm down, ’’ syogeru ‘to get depressed, ’ tereru ‘to be bashful, ’ tomadou ‘to be
+confused,’ ukareru ‘to be in high spirits, ’ urotaeru ‘to be upset, ’ kanasimu ‘to be sad, ’ yorokobu ‘to get pleased, ’ etc.
+A. Shimoyoshi / Language Sciences 106 (2024) 1016732
+[PDF PAGE 3]
+Psych predicates have received linguists ’ great attention because of the variation in their argument realizations.
+To preserve the theories of argument realization that assume a uniform and universal mapping between semantic relations
+and syntactic realizations, such as the Universal Alignment Hypothesis ( Perlmutter and Postal 1984 ) and the Uniformity of
+Theta Assignment Hypothesis ( Baker 1988)7, there have been many attempts to account for this psych verbs puzzle (Belletti
+and Rizzi 1988 ; Grimshaw 1990; Croft 1993 ; Pesetsky 1995 ; Arad 1998 ; Pylkkänen 2000 , and many others) 8. This paper,
+nevertheless, focuses on the causativization and anticausativization observed in the predicates in question.
+As mentioned above, Japanese shows ExpObj causatives (e.g. odorok-ase-ru ‘to surprise’) that are morphologically derived
+from speciﬁc ExpSubj verbs (e.g. odoroku ‘to get surprised ’). On the other hand, Spanish displays Re ﬂexive Psych Verbs (e.g.
+asustarse ‘to get frightened ’), most of which are the se variants of ExpACC verbs (e.g. asustar ‘to frighten ’). In other words,
+Spanish and Japanese psych verbs show a typological contrast regarding the directionality of the derivation. Japanese ExpObj
+verbs are derived from ExpSubj verbs via a causativization, as shown in (6), while Spanish Re ﬂexive Psych Verbs can be
+analyzed as results of an operation called anticausativization, as in (7).
+This is not a phenomenon limited to psych verbs but also part of a more general trend that could characterize these two
+languages as a typologically opposing pair.
+1.2. Typological contrast between Japanese and Spanish
+According to Talmy (1985), languages may differ in the lexicalization patterns of certain domains of meaning. For instance,
+‘posture’ notions are generally lexicalized in the ‘being-in-a-state’ type of verbs in English (e.g. lie, sit, stand ), whereas they
+tend to be lexicalized in the ‘putting-into-a-state’ type in Spanish (e.g. acostar ‘to lay someone down’) and in the ‘getting-into-
+a-state’ type in Japanese (e.g. tatu ‘to stand up,’ suwaru ‘to sit down’). In Talmy’s (1985) terms, ‘being-in-a-state,’‘ getting-in-a-
+7 According to the Universal Alignment Hypothesis (‘UAH’), “there exist principles of universal grammar which predict the initial relation borne by each
+nominal in a given clause from the meaning of the clause ” (Perlmutter and Postal 1984:97). Similarly, the Uniformity of Theta Assignment Hypothesis (‘UTAH’)
+states that “identical thematic relationships between items are represented by identical structural relationships between those items at the level of D-
+structure” (Baker 1988 :46) (in the Chomskyan tradition, d(eep)-structure is the underlying syntactic structure of a sentence from which the s(urface)-
+structure is derived).
+8 For a summary of landmark works and our discussion about the psych verbs puzzle , see the author ’s previous article, Author (2023).
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 3
+[PDF PAGE 4]
+state’ and ‘putting-into-a-state’ are stative, inchoative, and agentive types of lexicalizations, respectively. Once lexicalized in a
+particular type, the other types are derived from it by different grammatical strategies.
+Applying Talmy’s( 1 9 8 5 )generalization to psych predicates, mental states tend to be lexicalized in the ‘getting-into-a-state’
+type of verbs in Japanese, while the corresponding notions are lexicalized in the‘putting-into-a-state’ type in Spanish. Japanese
+lexicalizes mental states in inchoative type verbs, from which stative and agentive/causative types of verbs are derived, while
+Spanish lexicalizes mental states in agentive/causative type of verbs, from which stative and inchoative types of verbs.
+This typological contrast between Spanish and Japanese also relates to Ikegami’s (1981) “do” languages/ “become” lan-
+guages distinction. Languages differ in the type of expression they use to describe a particular situation. Some languages
+preferably use a ‘someone does (causes someone to do) something’ type of expression to describe an actual situation (i.e. “do”
+languages), while others show a tendency to describe the same situation in a ‘something becomes so (by itself) ’ type of
+construction (i.e. “become” languages). Languages describe a situation from different perspectives, focusing on the doing/
+causing part of the event or only on its result portion. In this respect, Spanish and Japanese represent “do” languages and
+“become” languages, respectively ( Deguchi 1982; Fukushima 1990).
+Nevertheless, it does not mean that all verbs in a language are lexicalized in a single pattern (Noda 1997). Concerning psych
+predicate, Spanish uses not only agentive/causative expressions (i.e. ExpACC verbs) to express a change of psychological state or
+mental reaction but also displays inchoative type expressions (i.e. Reﬂexive Psych Verbs). Japanese employs not only inchoative
+expressions (i.e. ExpSubj verbs) but also presents causative expressions (i.e. ExpObj causatives). Since both Spanish and Japanese
+have verbs whose Experiencer appears as the (nominative) subject and verbs whose Experiencer appears as an (accusative or
+dative) object, what interests us here is whether the corresponding expressions in these languages are semantically equal.
+1.3. Structure of the work
+In this study, we will examine some Japanese and Spanish psych verbs from a typological point of view in a (formal) semantic
+framework. Spanish and Japanese derive some psych verbs in a reverse procedure. Therefore, the corresponding expressions in
+these languages differ in the derivational status: Spanish ExpACC verbs are lexical verbs, while Japanese ExpObj causatives are
+derived predicates; and Japanese ExpSubj-NI verbs are lexical verbs, while Spanish Reﬂexive Psych Verbs are derived predicates.
+Nevertheless, ExpObj verbs have been treated similarly across various languages despite the apparent lexical/derived distinc-
+tion. In this paper, we will demonstrate that the typological contrast observed between Spanish and Japanese psych predicates
+results in some semantic differences between the corresponding expressions in these languages.
+In Section 2, we will examine the nature of the causative formation present in Japanese ExpObj causatives and tackle
+whether Japanese ExpObj causatives are like ExpObj lexical verbs of other languages in grammatical terms. Section 3 will
+show the details of the anticausative operation and apply it to Spanish Re ﬂexive Psych Verbs. In Section 4, we will discuss the
+semantic differences between ExpObj verbs and between ExpSubj verbs of Spanish and Japanese and demonstrate how the
+derivational diversity can be re ﬂected in the semantic variation of the predicates in question.
+2. Causativization in Japanese psych verbs
+2.1. Experiencer-Object causatives
+In Japanese, ExpObj verbs (e.g. odorok-ase-ru ‘to surprise,’ kanasim-ase-ru ‘to sadden,’ yorokob-ase-ru ‘to please,’ tanosim-
+ase-ru ‘to amuse ’) are morphologically derived from speci ﬁc ExpSubj verbs by attaching a causative morpheme -(s)ase.I n
+other words, Japanese ExpObj causatives are morphologically overt causatives, in contrast to ExpObj lexical verbs of other
+languages like English and Spanish (e.g. frighten, please, asustar ‘to frighten,’ alegrar ‘to make happy ’).
+Not all ExpSubj verbs can form ExpObj counterparts. ExpSubj- NI verbs (ExpSubj verbs whose object is marked by the
+particle - ni) mostly can form ExpObj causatives, as shown in (9), whereas ExpSubj- O verbs (ExpSubj verbs whose object is
+marked by the accusative case marker - o) generally cannot, as in (10).
+A. Shimoyoshi / Language Sciences 106 (2024) 1016734
+[PDF PAGE 5]
+The distribution of ExpObj causatives relates to the ‘Cause of Emotion ’/ ‘Object of Emotion ’ distinction between the
+objects of ExpSubj- NI verbs and ExpSubj- O verbs. A signi ﬁcant difference between ExpSubj- NI verbs and ExpSubj- O verbs
+is that the object of the former is interpreted as ‘Cause of Emotion ’ while that of the latter is considered as ‘Object of
+Emotion’ (Teramura, 1984, Endo and Zushi 1993 ; Bando 1996 , and other related works) 9. Since ExpObj causatives seem
+only possible for speci ﬁcE x p S u b j -NI verbs, ExpObj causatives are formed from ExpSubj verbs whose object is ‘Cause of
+Emotion.’ For instance, some ExpSubj verbs allow both - o and -ni case markers for their objects, and the o-marked object is
+‘Object of Emotion ’ while the ni-marked element is ‘Cause of Emotion. ’ For such verbs, ExpObj counterparts are possible
+without problem.
+Moreover, there are some ExpSubj verbs whose object is instead ‘Object of Emotion ’ even though it is marked by - ni, and
+such verbs sound unnatural in the ExpObj counterparts, as shown below.
+Furthermore, the verb tanosimu ‘enjoy’ can form an ExpObj causative even though it is an ExpSubj- O verb. The o-
+marked objects are normally considered as ‘Object of Emotion, ’ but the o-marked object of this verb may not be an ‘Object
+of Emotion. ’ That is, the eiga ‘the movie ’ in (13a) is not a target of emotional evaluation, i.e. it is not necessarily that Taro
+evaluated the movie as enjoyable, but rather Taro just enjoyed watching it. If so, the watching movie is a mere cause of
+Taro’s enjoyment.
+9 Notice that this ‘Object of Emotion ’/‘Cause of Emotion ’ distinction looks similar to Pesetsky’s (1995) ‘Target or Subject Matter (T/SM) ’/‘Causer’
+distinction. Pesetsky actually states that ‘Target of Emotion ’ and ‘Subject Matter of Emotion ’ are generally lumped together under the term ‘Object of
+Emotion.’ Note, however, that in Japanese both ‘Object of Emotion ’ and ‘Cause of Emotion ’ appear as object elements of ExpSubj verbs, while Pesetsky ’s ‘T/
+SM’ and ‘Causer’ are coined to distinguish between the objects of ExpSubj verbs and the subjects of ExpObj verbs. ’
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 5
+[PDF PAGE 6]
+Therefore, ExpObj causatives are possible for the ExpSubj verbs whose objects, whether marked by - ni or - o, can be
+interpreted as ‘Cause of Emotion, ’ i.e. the element that can only be the ‘Object of Emotion ’ cannot be the subject of ExpObj
+causatives.
+2.2. Causative construction
+A causative construction in Japanese is formed by attaching a morpheme -(s)ase to the verb root (for landmark works
+about Japanese causativization, see Kuroda 1965; Shibatani 1973, 1976; Kitagawa, 1974; Nakamura 1999, among many others).
+The subject of the base verb changes its case marking from nominative to other cases. For instance, the subject of transitive
+and ditransitive verbs becomes a causee marked by a dative case marker - ni.
+Regarding intransitive verbs, the causee is typically marked by the accusative - o, as shown in (16b). However, there are
+instances where the causee can be marked by the dative - ni, as in (16c). When the causee is marked by the dative - ni, it would
+be interpreted as having some volition towards the denoted action. For instance, in (16b), kanjya ‘the patient’ marked by - ni
+can be regarded as not being forced to walk by the doctor, but as walking on her (his) own will.
+Not all intransitive verbs can form causative constructions with a - ni marked causee. The intransitive verbs whose only
+argument tends to be a non-volitional participant, such as saku ‘to bloom, ’ can form causative constructions with an - o
+marked causee but cannot with a - ni marked causee, as shown in (17b).
+A. Shimoyoshi / Language Sciences 106 (2024) 1016736
+[PDF PAGE 7]
+Some intransitive verbs are not compatible with the - sase causative constructions, regardless of case marking, as shown in
+(18b). These verbs have lexical causative counterparts, as in (18c). In other words (18a) and (18c) are unaccusative-causative
+lexical pairs.
+The verb saku ‘to bloom’ in (17a) and the verb kowareru ‘to become broken ’ in (18a) are both unaccusative verbs. Unac-
+cusative verbs have only one argument, which is a THEME that undergoes a change of state. However, saku ‘to bloom ’ is
+considered an internally caused change-of-state verb, while kowareru ‘to become broken’ is regarded as an externally caused
+change-of-state verb ( Levin and Rappaport Hovav 1995 ; Alexiadou 2014; Kageyama 1993; Sugimura 2007 :102, and many
+others)10. In (17a), the ﬂower bloomed due to its inherent ability to bloom, with or without external support such as watering,
+applying fertilizer, or growing it in a greenhouse. On the other hand, in (18a), the vase broke due to an external cause, such as
+someone’s action, a natural force, or a causal event.
+So far, we have described the main features of the - sase causative construction. Transitive and ditransitive verbs can create
+a causative construction where the causee (i.e. the original agent of the denoted action) is marked by the dative marker - ni,a s
+shown in (19b) and (19a), respectively. Intransitive verbs can also form a causative construction where the causee is marked
+by the accusative marker -o, as in (19c), although in some cases the causee can be marked by -ni. Among intransitive verbs,
+internally caused change-of-state verbs (e.g. saku ‘to bloom’) can form a -sase causative construction, while externally caused
+change-of-state verbs (e.g. kowareru ‘to become broken ’) cannot.
+The formation of ExpObj verbs, which we have seen previously in section 2.1, appears distinct from the regular - sase
+causative construction that we have summarized in this section. While the regular causative constructions add an external
+argument as the causer subject, ExpObj causatives appear to have the same number of arguments as their ExpSubj variants,
+only in a reverse con ﬁguration.
+ExpSubj verbs are generally incompatible with the regular causative construction, as shown in (20c). However, among the
+ExpSubj verbs that cannot form ExpObj causatives, a few cases sound relatively ﬁne in the regular causative construction, as in
+(21c).
+10 “Intuitively, an internally caused change of state is a change of state for which the means of bringing about the change-of-state event is conceptualiz ed
+as residing in the entity undergoing the change, ” while “externally caused change of state is conceptualized as coming about because of something external
+to the entity that undergoes the change of state ” (McKoon 2000 : 833).
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 7
+[PDF PAGE 8]
+Suppose the regular causative construction requires the caus ee to be a volitional argument, as noted above. In that case,
+ExpSubj verbs generally cannot appear in the regular causative construction because an Experiencer is a less volitional participant.
+That is to say, the Experiencer subject of odoroku ‘to get surprised’ in (20c) does not have control over his/her feeling surprised.
+Similarly, we could explain that the example (21c) is relativelyﬁne because the Experiencer subject ofnikumu ‘to hate’ has some
+control over her/his feeling hatred towards the object, or at least some control regarding the direction of aiming such emotion.
+So far, we have seen the essential characteristics of the formation of ExpObj verbs and the causative construction in
+Japanese. The following section will discuss whether the causativization in ExpObj causatives differs from “regular”
+causativization.
+2.3. Discussion about the causativization in ExpObj causatives
+2.3.1. Valence-increasing or valence-unchanging
+ExpObj causatives look different from the regular causative construction concerning the number of arguments. While the
+regular causative construction adds an extra argument as the causer subject, as described in (22), ExpObj causatives seem-
+ingly exchanges the syntactic roles of a stimulus and experiencer arguments, as in (23).
+In other words, a single language seems to have two types of causativization: valence-increasing and valence-
+unchanging.
+A. Shimoyoshi / Language Sciences 106 (2024) 1016738
+[PDF PAGE 9]
+Some languages have different types of causativization. For instance, in Finnish, there are stative ExpSubj verbs and
+nonstative ExpSubj verbs, and both classes have ExpObj causative counterparts (see Pylkkänen 2000 ). The interesting point
+here is that there is an important difference between stative and nonstative pairs concerning causativization. In the stative
+pairs, the selectional restriction of the object of ExpSubj verbs applies to the subject of the ExpObj causatives. For example,
+just like the object of a stative ExpSubj verb sääli ‘pity’ cannot be inanimate, the subject of its causative ExpObj variant cannot
+be inanimate.
+In the nonstative pairs, conversely, the selectional restriction of the object of ExpSubj verbs does not apply to the subject of
+the ExpObj causatives. For example, while a nonstative ExpSubj verb viha-stu ‘become angry’ precludes an animate object, its
+causative ExpObj counterpart admits an animate subject.
+The causativization in the stative pairs can differ from that in the nonstative pairs. The causativization in the stative pairs
+can be a ‘valence-unchanging (switching)’-type of operation since the object of an ExpSubj verb and the subject of its ExpObj
+counterpart share the same selectional restriction.
+Now, consider Japanese ExpObj causatives. Although limited to a few instances, the ExpSubj- NI verbs’ selectional re-
+striction disappears in their ExpObj causative variants. For example, an ExpSubj- NI verb meiru ‘to get depressed’ disallows an
+animate object, but its ExpObj causative variant allows an animate subject.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 9
+[PDF PAGE 10]
+Therefore, despite the appearance, causativization in Japanese ExpObj causatives is not a valence-unchanging (switching)
+type of operation. Instead, it is a valence-increasing type of causativization, just like regular causativization. This becomes
+obvious if we accept the idea that the objects of ExpSubj- NI verbs are adjuncts 11. Namely, if ExpSubj- NI verbs are one-place
+predicates that only require an Experiencer argument, the ExpObj variants can be formed by adding an external causer, as
+sketched in (28).
+In the previous section, we observed that ExpSubj- NI verbs can form ExpObj causatives but cannot appear in the regular
+causative construction. If the ni-marked ‘Cause of Emotion ’ is an adjunct, no difference exists between its ExpObj causative
+and its regular causative construction. Then (29c( ¼20c)) is not grammatical because two ‘Causes of Emotion’ exist in a single
+sentence.
+ExpSubj-O verbs cannot form ExpObj causatives, as in (30b( ¼21b)), but are relatively ﬁne in the regular causative con-
+struction (30c(¼21c)). Again, this is because the o-marked objects are verb-selected arguments, and the causativization is a
+valence-increasing operation, not a valence-switching type.
+In summary, ExpObj causatives formed from ExpSubj- NI verbs in Japanese are the results of a valence-increasing type of
+causativization since ExpSubj-NI verbs are one-place predicates to which an external ‘Cause of Emotion’ can be added. ExpObj
+causatives are not different from regular causatives because both are constructed via a causativization that adds an external
+causer. It is not surprising that causativization is an operation that adds a causer argument. However, our point is that even
+ExpObj causatives, which look like outputs of a valence-switching type operation, are formed by a valence-increasing type
+causativization. Moreover, as we will demonstrate below, the -(s)ase causativization is not adding an external causer to create
+lexically formed causative verbs but embedding the whole base predicate just like syntactic causative constructions.
+2.3.2. Lexical or syntactic
+Suppose Japanese ExpObj causatives are formed via a valence-increasing type of causativization. In that case, these ex-
+pressions are more like periphrastic causative constructions, e.g. They {made/let} her cry (cf. Katada 1995, 1997; Kuroda 1965).
+In this section, we will demonstrate that the causativization in Japanese ExpObj causatives is indeed a syntactic operation,
+which makes them differ from lexically formed expressions in the causativity they denote.
+Causativization is not a uniform operation across languages or even in a single language if it has more than one type of
+causative operation, as mentioned for Finnish in the previous section. According to Horvath and Siloni (201 1a), causatives in
+Hungarian are productively constructed by attaching a causative morpheme to the verb roots, just like Japanese - (s)ase
+11 In the author ’s previous work, Author (2023), the grammatical nature of the ni-marked elements of psych verbs is examined in terms of Miyagawa’s
+(1989a, 1989b) ﬂoated numeral quanti ﬁer test and a few more other tests, and it is concluded that the ni-marked elements of psych verbs are instead
+adjuncts than verb-selected arguments.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167310
+[PDF PAGE 11]
+causatives. However, some different behaviors between them indicate that Japanese causative constructions consist of two
+predicates, a cause predicate and an embedded predicate, while Hungarian ones involve only one predicate (see Horvath and
+Siloni 201 1afor the details of Hungarian causativization).
+For instance, in Japanese causatives, negation can either follow the causative morpheme -(s)ase to negate the causative
+predicate, as in (31a), or intervene between the base verb and the causative morpheme to negate the base verb, as in (31b).
+This is a characteristic of the -(s)ase causative construction since lexical causative transitive verbs do not allow negation to
+intervene between the base verb and the transitive morpheme (e.g. kowasu ‘(x) breaks (y)’ vs. kowareru ‘(y) breaks’), as below.
+Whether or not negation can intervene between the base verb and the causative morpheme relates to whether the
+causative expressions involve two separable predicates. The following diagnostics indicate two agents in Japanese productive
+causatives. For instance, in Japanese productive causatives, agent-oriented adverbials can modify either the causer or the
+causee, as shown in (33).
+Similarly, the VP-ellipsis construction (i.e. do so substitution) can also detect two agents in Japanese causatives. Tthe do so
+substitution is possible either for the causer ’s VP or the causee ’s VP, as shown in (34).
+Now, we apply this analysis to Japanese ExpObj causatives. In the previous section, we proposed that ExpObj causatives are
+apparently different from regular causative constructions, but both are actually made of a uniform causativization. Do ExpObj
+causatives also comprise two separable predicates? Firstly, the negation test can successfully detect two predicates in ExpObj
+causatives. Namely, just like productive causatives we have seen above, ExpObj verbs can be intervened by the negation, and
+the negation can scope over either the causative predicate or the base verb, as shown in the following examples.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 11
+[PDF PAGE 12]
+Other tests like agent-oriented adverbials and do so substitution have little use here since the causee of ExpObj causatives
+is not an agent but an experiencer. Naturally, agent-oriented adverbials and do so substitution only apply to the causer ’s
+portion.
+Is there any adverb that is oriented to both agent and Experiencer? For instance, zonbunni ‘sufﬁciently, to one ’s heart ’s
+content’ can modify both the causer ’s triggering an emotion part and the causee ’s experiencing the emotion part.
+Moreover, temporal adverbials also show a similar result. For instance, - kan ‘for’ adverbials can modify either the causer ’s
+triggering the denoted emotion or the causee ’s (i.e. Experiencer ’s) being in such emotional state, as shown below.
+Some ExpObj causatives with these adverbials are only possible in the ﬁrst interpretation, and this tends to be an iterative
+reading, as shown in (41).
+Notice that their ExpSubj variants behave just like them. This suggests that ExpObj causatives embed the whole ExpSubj
+predicates, and the temporal adverbials modify both the causing and embedded parts of the described event.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167312
+[PDF PAGE 13]
+Summarizing Section 2, we have outlined the essential characteristics of the regular causative construction and ExpObj
+causatives. ExpObj causatives are mostly derived from ExpSubj verbs whose objects are ‘Cause of Emotion. ’ Then, we
+demonstrated that ExpObj causatives are, despite their appearance, results of valence-increasing type causativization.
+Moreover, we showed how causativization in both regular causatives and ExpObj causatives in Japanese is a single uniform
+operation that embeds the whole base predicate just like syntactically constructed causative constructions.
+Causativity can vary depending on the derivational procedures the expressions undergo. ExpObj verbs in some languages
+are lexical verbs, while in others, they are derived verbs. For instance, annoy in English and asustar ‘to frighten’ in Spanish are
+lexical verbs, while Japanese ExpObj verbs are produced from ExpSubj verbs by overt causativization. Nevertheless, ExpObj
+verbs have been considered causative across languages, independently of the apparent lexical/derived distinction. For
+instance, Pesetsky (1995) proposes that ExpObj verbs such as annoy and depress are bimorphemic words containing a bound
+root and a phonologically null causative morpheme (e.g. depress:[ [ Odepressv]CAUS v]). This proposal is based on
+the assumption that similar verbs in other languages like Japanese are indeed morphologically causative (e.g. kanasim-ase-ru
+‘to sadden’).
+However, suppose Japanese ExpObj causatives are formed by a syntactic causative operation that makes them differ from
+lexically formed causative expressions, as we have just demonstrated. In that case, they can also be distinguished from ExpObj
+lexical verbs. Horvath and Siloni (201 1a)divide causative expressions into three types: causatives formed in the lexicon (e.g.
+Hungarian -(t)at/-(t)et causativization), causatives formed in the syntax (e.g. Japanese - (s)ase causativization), and causative
+transitive verbs which are subject to decausativization (a.k.a. anticausativization). The last type refers to those typi-
+cally appearing in the transitive-unaccusative (or causative-anticausative) alternation (e.g. John broke the window/ The
+window broke).
+As we see below, Spanish ExpACC verbs resemble lexical causative transitive verbs. Japanese ExpObj causatives would be
+crucially different from Spanish ExpACC verbs. In the following sections, we will deal with Spanish Re ﬂexive Psych Verbs
+formed from ExpACC verbs (e.g. asustar(se) ‘to get frightened ’), which are analyzed as results of anticausativization.
+3. Anticausativization in Spanish psych verbs
+3.1. Spanish re ﬂexive psych verbs
+There are several types of re ﬂexive psych verbs in Spanish. This study will mainly deal with the following type of verbs,
+which are seemingly derived from ExpACC verbs (e.g. asustar(se) ‘to get frightened, ’ preocupar(se) ‘to get worried ’)12.
+Spanish se is used in grammatically manifold ways. For instance, using Mendikoetxea ’s (2012:477) terminology, there are
+“anaphoric uses” of the clitic se, e.g. reciprocal ( Los hermanos se miraron ‘The brothers looked at each other ’) (true) re ﬂexive
+(Los niños se lavaron ‘The kids washed themselves’), pseudo-reﬂexive (Ana se desmayó ‘Ana fainted’), unaccusative (El cristal se
+rompió ‘The glass broke’); “arbitrary uses,” e.g. impersonal or passive (Se observan cambios de economía ‘They observe changes
+12 The other types of re ﬂexive psych verbs are: inherently re ﬂexive ones (e.g. arrepentirse ‘to regret,’ jactarse ‘to boast ’), as in (a); and others seemingly
+derived from ExpNOM verbs (e.g. compadecer(se) ‘to feel pity, ’ lamentar(se) ‘to feel sorry ’), as in (b).
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 13
+[PDF PAGE 14]
+of the economy ’), middle ( Las casas prefabricadas se construyen fácilmente ‘Prefabricated houses are easy to construct ’); and
+additionally, an “aspectual use” (Juan se comió las manzanas ‘Juan ate up the apples). Basically, in the anaphoric use, the clitic
+se agrees with the expressed argument in person and number, i.e. me/nos ‘1SG/1 PL, ’ te/os ‘2SG/2 PL, ’ se ‘3(SG or PL). ’ The
+arbitrary se, on the other hand, is used exclusively in the third person. The aspectual se is called so because the variants with se
+and without se only differ in a shade of meaning related to the aspectual interpretation (see Sanz 1995; Sanz and Laka 2002
+for the details of the aspectual se).
+Spanish reﬂexive psych verbs are associated with the anaphoric use of se rather than with the others because the clitic se
+that appears with them agrees with the Experiencer argument in person and number. It is not the aspectual se either because
+it is not grammatical without se. Among anaphoric se constructions, Re ﬂexive Psych Verbs are close to unaccusatives.
+Unaccusatives are traditionally distinguished from “true” reﬂexives (and reciprocals), the former being known as ‘quasi-
+reﬂexives’ or ‘Romance reﬂexives’ in contrast to the ‘regular reﬂexives’ (see García 1975). In brief, the subject acts on itself in
+true reﬂexives, while it does not in unaccusatives. This intuitive difference can be observed in the (in)compatibility with as í
+mismo ‘oneself.’ True reﬂexives are compatible with this expression , while unaccusatives are not, as shown in (44). Re ﬂexive
+Psych Verbs pattern like unaccusatives in this respect , as in (45).
+This study analyzes Re ﬂexive Psych Verbs, such as asustar(se), as anticausatives. ‘Anticausative’ refers to the output of an
+anticausativization or detransitivizing operation, such as unaccusative variants of the transitive-unaccusative (or causative-
+inchoative) alternation that is typical of many change-of-state verbs (the details of the alternation will be discussed in the
+next section). The derivation from ExpACC verbs to reﬂexive variants resembles the transitive-unaccusative alternation. Some
+studies group both unaccusatives and re ﬂexive psych verbs under the same category ( Mendikoetxea 1999b, 2012), whereas
+others see a difference between them with respect to the acceptance of a prepositional phrase: namely, re ﬂexive psych verbs
+accept a prepositional phrase, but unaccusatives do not ( Masullo 1992). However, consider the examples (46b) and (47b).
+Unaccusatives are incompatible with a de phrase, unlike Re ﬂexive Psych Verbs. Nevertheless, both unaccusatives and Re-
+ﬂexive Psych Verbs can appear with a por phrase if it does not refer to an agent but a cause: i.e. por el viento in (46b) and por el
+trueno in (47b) are causes of the described events; Juan can be agentive or nonagentive, but the por phrase is only accepted in
+a nonagentive reading.
+Summarizing the points so far, Re ﬂexive Psych Verbs (e.g. asustar(se) ‘to get frightened ’) share with true re ﬂexives (e.g.
+lavar(se) ‘to wash themselves ’) and unaccusatives (e.g. romper(se) ‘to break (int.) ’) the anaphoric use of the clitic se, and
+especially they are close to unaccusatives. As unaccusatives are analyzed as anticausatives, we would like to apply an anti-
+causative analysis to Spanish Re ﬂexives Psych Verbs. In the following sections, we will ﬁrst describe the basic idea of
+anticausativization.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167314
+[PDF PAGE 15]
+3.2. Anticausative operation
+The anticausative operation is typically mentioned in studies of so-called change-of-state verbs. Verbs of change of state
+such as break, open, close, and melt are characterized by the transitive-unaccusative (or causative-inchoative) alternation, e.g.
+J. broke the toy/The toy broke. This phenomenon has been accounted for in various ways: the transitive variants are formed
+from the unaccusative variants by causativization ( Pesetsky 1995; Pylkkänen 2008); the unaccusatives are derived from the
+transitives by anticausativization ( Grimshaw 1982, Chierchia, 1989[2004], Levin and Rappaport Hovav 1995 ; Reinhart 2002;
+Reinhart and Siloni 2004 , 2005; Koontz-Garboden 2009 ); both unaccusative and transitive variants come from a single ab-
+stract root (Doron 2003; Alexiadou et al., 2006 ); or languages may differ in which strategy they use ( Haspelmath 1990, 1993;
+Piñón 2001).
+Among these different approaches to change-of-state verbs, the anticausativization approach is the best account for
+Romance languages such as Italian and Spanish. That is, si/se unaccusatives in Italian/Spanish are derived from the
+causative transitives by reducing or deleting the causative portion of meaning. For instance, Grimshaw’s( 1 9 8 2 )‘incho-
+ativization rule ’ clearly shows how the causative meaning is removed from the causative variants to produce the inchoative
+variants.
+Chierchia (1989[2004]), in turn, considering the fact th at these languages use the same morphology for both unac-
+cusatives and re ﬂexives, proposes that si/se unaccusatives are a special type of re ﬂexives formed by a lexical reduction
+operation, and the clitic se is regarded as a trace of the reduction operation that took place. In his proposal, therefore, si/se
+constructions in Italian/Spanish could be accounted for uniformly by a single reduction operation, only these constructions
+differ in which argument is reduced: i.e. in true re ﬂexives, the object argument; and in unaccusatives, the subject
+argument.
+There is a controversy about whether the anticausativization deletes or retains the causative portion of meaning 13.
+From Levin and Rappaport Hovav ’s (1995) description, for instance, we could assume that not only the transitive variants
+but also the unaccusative ones imply the existence of an external cause in the denoted events. According to Levin and
+Rappaport Hovav (1995:92 –93), only verbs that denote ‘externally caused ’ eventualities participate in the transitive-
+unaccusative alternation, and such ‘externally caused ’ verbs imply the existence of an external cause (e.g. agent, instru-
+ment, natural force, or circumstance), even when used as intransitives (i.e. unaccusatives) without the expression of an
+external cause.
+Koontz-Garboden (2009) claims that anticausativization is a re ﬂexivization that does not involve any deletion of the
+CAUSE portion of meaning (see also Koontz-Garboden 2012 ; Beavers and Koontz-Garboden 2013a , 2013b; Beavers and
+Zubair 2013 ). This idea is based on the Monotonicity Hypothesis, which states that “word formation operations do not
+remove operators from lexical semantic representations ” (Koontz-Garbode, 2007 :43, 2009:80, and 2012; also Kiparsky
+1982). Anticausativization is an operation that “takes a relation as an argument, setting both arguments of the relation
+to be the same ” (Koontz-Garboden 2009 :83, supporting Chierchia, 1989[2004]:29), as represented in (49). The
+advantage of this proposal is that both true re ﬂexives and se unaccusatives in Spanish can be accounted for by this single
+operation.
+For instance, there are some transitive verbs, such as asesinar ‘to assassinate,’ whose se variants can be true re ﬂexives but
+not unaccusatives, as shown in (50b), and other transitive verbs, such as romper ‘to break, ’ whose se constructions can be
+unaccusatives but not true re ﬂexives, as in (51b).
+13 Reinhart (2002) proposes a clear reduction operation. According to her system, only transitive verbs that involve an external cause role ([ þc]) are
+subject to the reduction operation that produces unaccusatives. Other verbs with an agent role ([ þc þ m], where ‘m’ stands for ‘mental state’) are subject to
+another operation that produces re ﬂexives. Re ﬂexives are the results of a reduction of an internal theme argument ([-c-m]), while unaccusatives are
+outputs of a reduction of an external cause argument ([ þc]). This works mainly for languages whose true re ﬂexives and unaccusatives can be separated (see
+also Reinhart and Siloni 2004 , 2005; Horvath and Siloni 201 1b, 2013).
+For instance, the verb shave requires an agent role ([þc þ m]), and it is only subject to re ﬂexivization that reduces the internal theme argument ([-c-m]).
+The verb open, on the other hand, has an external cause role ([ þc]), which is not required to be an agent, and this verb is subject to the external reduction
+operation that produces unaccusatives.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 15
+[PDF PAGE 16]
+One of the grammatical differences between these transitive verbs is that the verb asesinar requires an agent to be the
+subject, while the verb romper allows other elements than the agent (e.g. instrument, natural force, and causing event) to be
+the subject.
+Therefore, the lexical representations of these verbs are different in which thematic relations are present. Koontz-
+Garboden (2009) states that the verb asesinar entails AGENT and PATIENT in its denotation, while the verb romper,
+EFFECTOR and THEME. ‘EFFECTOR’ (Van Valin and Wilkins 1996 ) is used for the arguments of the verbs that can take agents,
+instruments, natural forces, etc 14.
+These verbs will produce se variants via the anticausativization operation described in (49) above. Then, the only argument
+of asesinarse bears a role that is a combination of AGENT and PATIENT roles, as described in (54a), while that of romperse is
+interpreted as EFFECTOR and THEME simultaneously, as in (54b).
+Mendikoetxea (1999a) takes a similar view regarding the interpretation of the single arguments of se constructions. “[E]n
+las oraciones reﬂexivas, el sujeto se interpreta a la vez como agente (o experimentante) y tema. Una similar interpretación se puede
+aplicar a las oraciones inacusativas con el sujeto como causa y tema ([i]n reﬂexives, the subject is interpreted at the same time as
+agent (or Experiencer) and theme. A similar interpretation applies to the unaccusatives with the subject as cause and theme) ”
+(Mendikoetxea 1999a :1590, translation mine). The true re ﬂexive reading can be identi ﬁed with the AGENT ¼ PATIENT
+interpretation of the single argument, and the unaccusative reading, with the EFFECTOR ¼ THEME interpretation. A single
+operation can produce both true re ﬂexives and unaccusatives since the difference between them lies in which thematic
+relations the predicate manifests.
+The anticausativization that does not involve any meaning reduction and that can account for both true re ﬂexives and
+unaccusatives seems more suitable for Spanish se constructions because this language uses the same morphology for both
+true re ﬂexives and unaccusatives, and there are some cases where a se construction can have both true re ﬂexive and
+14 Koontz-Garboden’s (2009) analysis is developed in the context of Parsons’ (1990) Neo-Davidsonian event semantics, where eventualities v come in two
+different sorts, events e and states s (cf. Bach 1981, 1986).
+A. Shimoyoshi / Language Sciences 106 (2024) 10167316
+[PDF PAGE 17]
+unaccusative readings. For instance, the se variant of matar ‘to kill’ can be both true re ﬂexive and unaccusative depending on
+the context or other elements in the sentence, as in (55) and (56).
+The verb matar can take agents and nonagentive causers, as shown in (57). The verb matar could be represented as in (58a).
+The proposed anticausativization constructs its se variant as described in (58b). The only argument of the se construction will
+be EFFECTOR ¼ THEME, a characteristic of the unaccusative reading. As for the re ﬂexive reading of matarse, recall that
+EFFECTOR includes both agentive and nonagentive causers. The only argument of matarse, which is EFFECTOR ¼ THEME, has a
+possibility of a re ﬂexive reading because the EFFECTOR can be an agent. Interestingly, this reasoning is only possible if we
+adopt Koontz-Garboden’s proposal because his anticausativization does not reduce the causative portion of meaning, and the
+EFFECTOR remains in the denotation of the se variants.
+So far, we have outlined the basic ideas of anticausativization and demonstrated how efﬁciently an anticausativization that
+does not reduce the causative meaning from the base verbs accounts for se unaccusatives in Spanish. In the following section,
+we will apply the anticausative analysis to Spanish Re ﬂexive Psych Verbs, such as asustar(se) ‘to be frightened. ’
+3.3. An anticausative analysis of re ﬂexive psych verbs
+The derivation from ExpACC verbs to Re ﬂexive Psych Verbs resembles the transitive-unaccusative alternation of change-
+of-state verbs. For instance, the transitive variants of psych verbs can take nonagentive causers as their subjects.2
+Therefore, ExpACC verbs have an EFFECTOR role and an EXPERIENCER role in the lexical representation. After anti-
+causativization, we expect a re ﬂexive variant whose only argument combines the EFFECTOR and EXPERIENCER roles, as
+described below.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 17
+[PDF PAGE 18]
+Now, how can we verify whether the CAUSE is present in the denotation of the Re ﬂexive Psych Verbs? According to
+Koontz-Garboden (2009), se unaccusatives retain the CAUSE in their lexical representations. Se unaccusatives such as abrirse
+‘to open’ and romperse ‘to break’ are compatible with por sí solo ‘by itself’ (Chierchia, 1989[2004]). Given that this adverbial
+means ‘without outside help, ’ it presupposes the presence of ‘outside help’ (i.e. external causation) in the denotation of the
+verbs. In other words, the compatibility/incompatibility with the adverbial por sí solo indicates the presence/absence of the
+causative portion of meaning in the denotation of the verb 15.
+Reﬂexive Psych Verbs are compatible with por sí solo, as shown in (62a), and they bear an interpretation such as: “the
+subject got angry (frightened, surprised, etc.) arbitrarily and without a proper reason, from the speaker ’s point of view. ” The
+causative meaning is present in the denotation of such re ﬂexive psych verbs. However, the degree of acceptability may
+depend on the predicates. For example, natives would judge that some verbs like aburrirse ‘to get bored’ with por sí solo sound
+more forced or redundant, as in (62b) 16.
+The interpretation of negation also indicates whether the CAUSE portion of meaning is present/absent in the denotation of
+the predicates. Negation with se unaccusatives is ambiguous between the two readings, as shown in (63). However, such
+ambiguity does not occur with other intransitives such as empeorar in (64). If the CAUSE is present, the negation can scope
+either over the CAUSE part or the rest; therefore, the interpretation is ambiguous.
+15 Therefore, other intransitives, such as empeorar ‘to worsen,’ hervir ‘to boil’ and crecer ‘to grow,’ show incompatibility with por sí solo because these verbs
+do not imply external causation but internal causation, i.e. “some property inherent to the argument of the verb is responsible for bringing about the
+eventuality” (Levin and Rappaport Hovav, 1995:91), as mentioned in Mendikoetxea (1999a:1598).
+16 For a native speaker, the verbs, such as empeorar ‘to worsen, ’ hervir ‘to boil ’ and crecer ‘to grow, ’ would be compatible with por sí solo only when
+presupposed that the subject cannot crecer, empeorar,o r hervir without outside help. In other words, even events described by the verbs of internal
+causation “occasionally . can be [brought about by an external cause], and in such instances, causative uses of these verbs are found ” (Levin and Rappaport
+Hovav, 1995:97).
+A. Shimoyoshi / Language Sciences 106 (2024) 10167318
+[PDF PAGE 19]
+In this respect, Re ﬂexive Psych Verbs hold the CAUSE portion in the lexical representation. The interpretation of negation
+can be ambiguous with Re ﬂexive Psych Verbs, and therefore, the following examples are consistent (although some of the
+examples sound forced without speci ﬁc contexts).
+Koontz-Garboden (2009) notes that this is not a case of metalinguistic negation. Metalinguistic negation does not license
+Negative Polarity Items (NPIs), e.g. English any as in (66a) or Spanish ningún as in (66b). The negation with se unaccusatives is
+not metalinguistic because it does license NPIs, as shown in (66c).
+This is not a case of metalinguistic negation for Re ﬂexive Psych Verbs either because it does license NPIs , as shown below.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 19
+[PDF PAGE 20]
+Finally, we add a mention about the compatibility with prepositional causer phrases. Unaccusatives do not license‘by-agent’
+phrases cross-linguistically but do license other prepositional phrases that refer to a causer, as in (68). This indicates that the
+licensing of a causer phrase re ﬂects the presence of an “implicit causer ” in the denotation, as stated in Schäfer (2008 :125).
+Spanish se unaccusatives allow a prepositional phrase if it refers to a causer and not an agent, as in (69) (as noted in 46).
+Therefore, we could assume that se unaccusatives involve an implicit causer in the denotation 17.
+Reﬂexive Psych Verbs are compatible with por phrases if they refer to a cause, not an agent. This indicates that these verbs
+involve implicit causer in the denotation. (Reﬂexive psych verbs also allow prepositions such as de ‘of/from,’ en ‘in,’ con ‘with,’
+etc. A possible explanation is that these prepositional phrases re ﬂect different implicit meanings of these predicates, just like
+the compatibility with causer phrases re ﬂects the presence of an implicit causer.)
+In summary, the compatibility with por sí solo ‘by itself,’ the ambiguity in the interpretation of negation, and the compat-
+ibility with por ‘by’ causer phrases indicate that Spanish re ﬂexive verbs retain the CAUSE component in their denotations.
+However, some verbs ’ results are not precise unless speci ﬁc contexts are provided. For instance, por sí solo is possible with
+enfadar(se) type verbs, while it does not sound natural with aburrir(se) type verbs. This relates to the aspectual difference
+between them. As proposed by Marín and McNally (201 1), the enfadar(se) class is truly punctual inchoative, while the abur-
+rir(se) class is stative inchoative. Suppose aburrirse verbs involve a CAUSE but are incompatible withpor sí solo. In that case, the
+compatibility with por sí solo does not only reﬂect the presence of a CAUSE but also eventivity. Taking the aspectual differences
+17 The other intransitives like empeorar, hervir, and crecer also accept causer por phrases, not agent por phrases. This is because these predicates can
+occasionally be associated with an external cause. These verbs can involve an implicit causer; thus, they are compatible with causer por phrases.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167320
+[PDF PAGE 21]
+between the enfadar(se) class and aburrir(se) class verbs into account, the denotations of these verbs can be represented as
+below (based on Marín and McNally’s (201 1)notation, which supports Piñón’s( 1 9 9 7 )idea of Beginning and Ending).
+These representations show that Spanish re ﬂexive psych verbs are derived from their transitive variants via an anti-
+causativization that does not reduce the CAUSE. Therefore, their meaning has a CAUSE component, just like their transitive
+variants.
+Summarizing Section 3, we have analyzed Spanish Re ﬂexive Psych Verbs as outputs of anticausativization. The CAUSE is
+present in the lexical representation of se unaccusatives, according to the compatibility with por sí solo ‘by itself ’ and the
+ambiguity of negation, for instance. Then, We applied anticausativization to Spanish Re ﬂexive Psych Verbs and demonstrated
+that the causative meaning is present in the denotation of these verbs 18.
+4. Typological contrast and semantic variation
+4.1. The corresponding expressions
+So far, we have examined the causativization of ExpObj causatives in Japanese, such as odorok-ase-ru ‘to surprise,’ and the
+anticausativization of Reﬂexive Psych Verbs, such asasustarse ‘to get frightened.’ We proposed that the causativization in ExpObj
+causatives in Japanese is a ‘valence-increasing’ type of causativization that is a syntactic formation. The causativization adds an
+external causer argument to ExpSubj-NI verbs that are one-place predicates and embeds the whole base predicates. On the other
+hand, Reﬂexive Psych Verbs in Spanish could be analyzed as anticausatives. We adopted the idea that anticausativization does
+not eliminate CAUSE and demonstrated that the causative meaning is present in Re ﬂexive Psych Verbs.
+Spanish and Japanese show a clear typological contrast in the lexicalization patterns of certain psych verbs. Japanese forms
+ExpObj causatives from ExpSubj- NI verbs by causativization, while Spanish forms Re ﬂexive Psych Verbs (i.e. re ﬂexive psych
+verbs) from ExpACC verbs by anticausativization. ExpObj verbs of these languages differ in derivation status, i.e. lexical or
+derived, as do ExpSubj verbs. Namely, Japanese ExpObj causatives are derived expressions, while Spanish ExpACC verbs are
+lexical verbs. Likewise, Spanish Re ﬂexive Psych Verbs are derived verbs, while Japanese ExpSubj verbs are lexical verbs.
+18 There is an alternative account for other re ﬂexive psych verbs, such as compadecer(se) ‘to feel pity’ and lamentar(se) ‘to feel sorry,’ which are not derived
+from ExpACC verbs but from ExpNOM verbs. Masullo (1992) analyzes them as ‘antipassives.’ Antipassives are detransitivized constructions whose
+otherwise object is realized as an oblique complement or suppressed. In this study, we did not adopt Masullo’s (1992) antipassive account of reﬂexive psych
+verbs. Nevertheless, we acknowledge the whole idea since his antipassive approach is adequate to account for the compadecer(se) type of re ﬂexive psych
+verbs, which are not explained by the anticausative analysis in our study.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 21
+[PDF PAGE 22]
+In this ﬁnal section of this study, we want to demonstrate semantic differences between Spanish ExpACC verbs and
+Japanese ExpObj causatives and between Japanese ExpSubj -NI verbs and Spanish Re ﬂexive Psych Verbs. The semantic di-
+versity can be ascribed to the different derivational status of these expressions.
+4.2. The entailment relation
+Firstly, the entailment relation between ExpObj verbs and Re ﬂexive Psych Verbs in Spanish differs from that between
+ExpObj causatives and ExpSubj verbs in Japanese. An entailment relation is characterized as follows: in example (75), (a)
+entails (b); (c) cannot be said because the entailment is not cancelable; (d) is not acceptable because the negation of (b) must
+entail the negation of (a).
+The transitive variants of the transitive-unaccusative alternation are usually regarded as entailing the unaccusative var-
+iants, as shown in (76).
+This is indeed the case for Japanese transitive-unaccusative pairs, as in (77). However, it is not entirely true for the Spanish
+pairs, as shown in (77). That is to say (78a) does not entail (78b) because (78d) can be said.
+Regarding psych verbs, there is an entailment relation between ExpObj causatives and ExpSubj verbs in Japanese, as in
+(79). In contrast, no such entailment exists between ExpACC verbs and Re ﬂexive Psych Verbs in Spanish, as shown in (80),
+because (80d) is possible.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167322
+[PDF PAGE 23]
+4.3. Semantic differences
+The observation about the entailment relation relates to the semantic difference concerning the ambiguity in negation
+between Spanish Reﬂexive Psych Verbs and Japanese ExpSubj- NI verbs. As we saw in the previous section, Spanish Re ﬂexive
+Psych Verbs are ambiguous with negation because they retain the CAUSE component in the denotation, and the negation can
+scope over either the CAUSE part or the rest. The following examples are possible because the negation scopes over such a
+CAUSE part.
+Japanese ExpSubj-NI verbs, on the other hand, do not show this ambiguity in negation because they are lexical verbs made
+of a single predicate. Naturally, the following examples sound contradictory.
+There is a semantic difference between Spanish ExpACC verbs and Japanese ExpObj causatives as well. They are aspec-
+tually not the same.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 23
+[PDF PAGE 24]
+According to Marín and McNally (201 1) , Spanish Re ﬂexive Psych Verbs consist of two classes, aburrirse ‘to be/become
+bored’ class and enfadarse ‘to become angry ’ class19. Both classes are inchoative predicates, but the former is stative, and the
+latter is genuinely punctual. Moreover, Fábregas et al. (2012) claim that psych predicates, whether with se or without se,
+mostly maintain the lexical aspects: i.e. aburrir(se)-class is stative and enfadar(se)-class is nonstative. For instance, Spanish
+Reﬂexive Psych Verbs (aburrirse-class and enfadarse-class) and their corresponding ExpACC verbs are atelic according to their
+incompatibility with en adverbials (for the details of an aspectual analysis of ExpACC verbs and their re ﬂexive variants in
+Spanish, see Marín and McNally 201 1; Fábregas et al., 2012 ; Marín 201 1, 2015, Author, 2016: Section 3.2.2).
+Regarding Japanese psych verbs, ExpSubj- NI verbs are mostly atelic (except some, such as akiru ‘to get bored ’), although
+their ExpObj causatives can be telic. For instance, -de ‘in’ adverbial becomes tolerable with the causative variants (for the
+details of an aspectual analysis of Japanese psych verbs, see Author, 2016: Section 3.3 and Author, 2023).
+19 Spanish Re ﬂexive Psych Verbs divided into two classes ( Marín and McNally 201 1):
+a. aburrirse ‘to be/become bored ’ class: e.g. agobiarse ‘to get/feel overwhelmed, ’ angustiarse ‘to get/be distressed, ’ avergonzarse ‘to get/feel ashamed, ’
+confundirse ‘to get/be confused,’ distraerse ‘to get/be distracted,’ entretenerse ‘to get/be entertained,’ interesarse ‘to get/be interested in, ’ molestarse ‘to get/be
+bothered,’ obsesionarse ‘to get/be obsessed, ’ preocuparse ‘to get/be worried ’)
+b. enfadarse‘to become angry’ class: e.g.asombrarse‘to be amazed,’ asustarse‘to get frightened,’ cabrearse‘to get really mad,’ enfurecerse‘to get furious,’ enojarse
+‘to get annoyed,’ excitarse‘to get excited,’ indignarse‘to become indignant,’ mosquearse‘to get irritated,’ ofenderse‘to get offended,’ sorprenderse‘to be surprised’.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167324
+[PDF PAGE 25]
+Spanish ExpACC verbs are lexical causative verbs subject to anticausativization, while Japanese ExpObj causatives are
+syntactically formed overt causatives. That is to say, the anticausativization from ExpACC verbs to Re ﬂexive Psych Verbs in
+Spanish does not cause aspectual change (regarding telicity, at least), while the causativization from ExpSubj- NI verbs to
+ExpObj causatives in Japanese does. The anticausative derivation from ExpACC verbs to Re ﬂexive Psych Verbs in Spanish is a
+lexical operation, while the causative derivation from ExpSubj- NI verbs to ExpObj causatives in Japanese is a syntactic for-
+mation. From these observations, we could assume that syntactic causativization alters the aspectual nature of the base
+predicate, while lexical anticausativization does not.
+To sum up, the derivational differences relate to semantic differences. Japanese ExpObj causatives and Spanish ExpObj
+verbs are not semantically identical because the former are derived verbs resulting from syntactic causativization while the
+latter are lexical verbs. Spanish Re ﬂexive Psych Verbs and Japanese ExpSubj -NI verbs are not semantically identical because
+the former are derived verbs resulting from anticausativization that retain the CAUSE meaning in the denotation, whereas the
+latter are lexical verbs that naturally do not involve any causative meaning.
+5. Conclusion
+Certain types of psych verbs in some languages are morphologically derived from other types. In Japanese, ExpObj verbs
+are formed from speci ﬁc ExpSubj verbs by causativization. In Spanish, Re ﬂexive Psych Verbs are morphologically related to
+ExpACC verbs, and we analyzed such re ﬂexive psych verbs as the result of anticausativization. In other words, these two
+languages contrast in the morphological derivation of psych verbs. In this study, we found that such a contrast produces
+semantic differences between ExpObj verbs in Spanish and Japanese (i.e. ExpACC verbs in Spanish and ExpObj causatives in
+Japanese) and between ExpSubj verbs of these languages (i.e. Re ﬂexive Psych Verbs in Spanish and ExpSubj- NI verbs in
+Japanese).
+Causativization in Japanese ExpObj causatives is an operation that embeds the whole base predicate just like syntactically
+constructed causative constructions. ExpObj verbs have often been treated as causatives in a uniform sense despite the
+apparent lexical/derived distinction. However, suppose Japanese ExpObj causatives are formed by a syntactic causative
+operation that differentiates them from lexically formed causative expressions. In that case, they can be distinguished from
+ExpObj lexical verbs, such as annoy in English and asustar ‘to frighten ’ in Spanish. In contrast, Spanish ExpACC verbs are
+subject to a lexical anticausative operation. The anticausativization found in Spanish Re ﬂexive Psych Verbs is an operation
+that does not involve eliminating the CAUSE. Such re ﬂexive verbs maintain the CAUSE portion of meaning just like their
+ExpACC variants.
+Spanish and Japanese derive ExpObj verbs and ExpSubj verbs in opposing ways. Therefore, the corresponding expressions
+in these languages differ in lexical/derived status. Interestingly, there are semantic differences between ExpObj expressions
+and between ExpSubj expressions in these languages. We ascribed such semantic differences to the derivational distinction
+between the expressions. For instance, ExpACC verbs in Spanish and ExpObj causatives in Japanese vary in the aspectual
+properties of telicity and durativity because the latter are produced by syntactic causativization, while the former are lexical
+verbs. ExpSubj- NI verbs in Japanese and Re ﬂexive Psych Verbs in Spanish, on the other hand, vary in entailment since the
+latter are formed by the anticausativization that retains the causative meaning in the denotation of the verbs, while the
+former are lexical verbs that are naturally not causative.
+This contrastive analysis of psych verbs between Spanish and Japanese revealed that the semantics of words re ﬂect the
+derivational status of the words and the nature of the morphological operations employed in forming them. We believe that
+this is not a language-speci ﬁc phenomenon, nor is it limited to the two languages analyzed in this paper. Psych verbs are
+cross-linguistically recognized predicates, and typological contrasts regarding (anti-)causativization can be observed in
+different language pairs. Furthermore, typological diversity can lead to semantic variation in a broader sense.
+Funding
+This work was supported by the Spanish Ministry of Science and Innovation [PID2019-107861 GB-I00] (2020 –2022)
+[HUM2007-60599/FFI2010-15006] (201 1–2013) and [BES-201 1-048,355] (201 1–2015).
+Declaration of competing interest
+None.
+CRediT authorship contribution statement
+Ayumi Shimoyoshi: Writing – review & editing, Writing – original draft, Methodology, Investigation, Formal analysis, Data
+curation, Conceptualization.
+Data availability
+No data was used for the research described in the article.
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 25
+[PDF PAGE 26]
+Acknowledgements
+I want to thank Professor Louise McNally for her guidance throughout my predoctoral time at the Universitat Pompeu
+Fabra. She accepted me as an FPI-MICINN fellow [BES-201 1-048355] in her research project “Natural language ontology and
+the semantic representation of abstract objects ” [HUM2007-60599/FFI2010-15006] and made possible the research stay
+under the supervision of Professor Koontz-Garboden at the University of Manchester. I am also grateful to my present col-
+leagues, Professor Joaquín Beltrán Antolín and Professor Amelia Sáiz López, who welcomed me to their research group
+InterAsia at the Universitat Autònoma de Barcelona and let me join the project “New socio-cultural, political and economic
+developments in East Asia in the global context (NSPD-EAGC)" [PID2019-107861 GB-I00]. Lastly, I thank my husband and two
+daughters for their love and support.
+References
+Andrews, Avery, 1985. The major functions of the noun phrase. In: Shopen, T. (Ed.), Language typology and syntactic description, vol. 1: Clause struc-
+ture Cambridge University Press, Cambridge, pp. 62 –154.
+Alexiadou, Artemis, Anagnostopoulou, Elena, Schäfer, Florian, 2006. The properties of anticausatives crosslinguistically. In: Frascarelli, Ma ra (Ed.), Phases of
+Interpretation. Mouton de Gruyter, Berlin, pp. 187 –211.
+Alexiadou, Artemis, 2014. The problem with internally caused change-of-state verbs. Linguistics 52 (4), 879 –909.
+Arad, Maya, 1998. Psych-notes. UCL Working Papers in Linguistics 10, 203 –223, 1-22, in the version: www.phon.ucl.ac.uk/publications/WPL/98papers/arad.
+pdf.
+Bach, Emmon, 1981. On time, tense, and aspect: an essay in English metaphysics. In: Cole, P. (Ed.), Radical Pragmatics. Academic Press, New York, pp. 6 2–81.
+Bach, Emmon, 1986. The algebra of events. Linguistics and Philosophy .
+Baker, Mark C., 1988. Incorporation: A Theory of Grammatical Function Changing. The University of Chicago Press, Chicago .
+Bando, Michiko, 1996. Semantic properties of - Ni NP and - O NP of Japanese psych-verbs. Oosaka daigaku gengobunkagaku 5, 165 –177.
+Beavers, John, Koontz-Garboden, Andrew, 2013a. In defense of the re ﬂexivization analysis of anticausativization. Lingua 131, 191 –216.
+Beavers, John, Koontz-Garboden, Andrew, 2013b. Complication in diagnosing lexical meaning: a rejoinder to Horvath and Siloni (2013). Lingua 134, 2 10–
+218.
+Beavers, John, Zubair, Cala, 2013. Anticausatives in Sinhala: involitivity and causer suppression. Nat. Lang. Ling. Theor. 31, 1 –46.
+Belletti, Adriana, Rizzi, Luigi, 1988. Psych verbs and q-theory. Nat. Lang. Ling. Theor. 6, 291 –352.
+Cano Aguilar, Rafael, 1999. Los complementos de régimen verbal. In: Bosque, Ignacio, Demonte, Violeta (Eds.), Gramática descriptiva de la lengua es pañola.
+Espasa Calpe, Madrid, pp. 1807 –1857.
+Carlson, Gregory N., 1984. On the role of thematic roles in linguistic theory. Linguistics 22, 259 –279.
+Croft, William, 1993. Case marking and the semantics of mental verbs. In: Pustejovsky, J. (Ed.), Semantics and the Lexicon. Kluwer, Dordrecht, pp. 55 –72.
+Deguchi, Atsumi, 1982. Supeingo: saiki keishiki o megutte (Spanish: on re ﬂexive forms). In: Teramura, H., et al. (Eds.), Kouza nihongo 10: Gaikokugo To No
+Taishou I (Lecture on Japanese 10: Contrast with Other Languages I). Meiji-Shoin, Tokyo, pp. 305 –318.
+De Miguel, Elena, 1999. El aspecto léxico. In: Bosque, Ignacio, Demonte, Violeta (Eds.), Gramática descriptiva de la lengua española. Espasa Calpe, Madrid,
+pp. 2977 –3060.
+Doron, Edit, 2003. Agency and voice: the semantics of semitic templates. Nat. Lang. Semant. 1 1, 1 –67.
+Dowty, David, 1989. On the semantic content of the notion of ‘thematic role.’”. In: Chierchia, G., Partee, B.H., Turner, R. (Eds.), Properties, Types and Meaning.
+Kluwer, Dordrecht, pp. 69 –130.
+Dowty, David, 1991. Thematic proto-roles and argument selection. Language 67 (3), 547 –619.
+Endo, Yoshio, Zushi, Mihoko, 1993. Stage/Individual-level psychological predicates. In: Nakajima, H., Otsu, Y. (Eds.), Argument Structure: Its S yntax and
+Acquisition. Kaitakusya, Tokyo, pp. 17 –34.
+Fábregas, Antonio, Marín, Rafael, McNally, Louise, 2012. From psych verbs to nouns. In: Demonte, Violeta, McNally, Louise (Eds.), Telicity, Change , and State:
+A Cross-Categorial View of Event Structure. Oxford University Press, Oxford, pp. 162 –184.
+Fukushima, Noritaka, 1990. Supeingo to nihongo: kansetsu-eikyou-hyougen no taisyou (Spanish and Japanese: a contrast between indirect passive ex -
+pressions). In: Miyaji, Y., Kondo, T. (Eds.), Kouza Nihongo to Nihongo Kyouiku (Lecture on Japanese and Japanese Pedagogy). Meiji-Shoin, Tokyo, pp. 197 –
+218.
+García, Erica C., 1975. The Role of Theory in Linguistic Analysis: The Spanish Pronoun System. North-Holland Publishing Company, Amsterdam .
+Grimshaw, Jane, 1982. On the lexical representation of Romance re ﬂexive clitics. In: Bresnan, J. (Ed.), The Mental Representation of Grammatical Relations.
+MIT Press, Cambridge, MA, pp. 87 –148.
+Grimshaw, Jane B., 1990. Argument Structure. MIT Press, Cambridge, MA .
+Haspelmath, Martin, 1990. The grammaticization of passive morphology. Stud. Lang. 14, 25 –72.
+Haspelmath, Martin, 1993. More on the typology of inchoative/causative verb alternations. In: Comrie, B., Polinsky, M. (Eds.), Causatives and Tran sitivity.
+John Benjamins, Amsterdam, pp. 87 –120.
+Horvath, Julia, Siloni, Tal, 201 1a. Causatives across components. Nat. Lang. Ling. Theor. 29, 657 –704.
+Horvath, Julia, Siloni, Tal, 201 1b. Anticausatives: against re ﬂexivization. Lingua 121, 2176–2186.
+Horvath, Julia, Siloni, Tal, 2013. Anticausatives have no Cause(r): a rejoinder to Beavers and Koontz-Garboden. Lingua 131, 217 –230.
+Ikegami, Yoshihiko, 1981. Suru To Naru No Gengogaku (Linguistics of Suru ‘do’ and Naru ‘become’). Taishukan, Tokyo .
+Isse, Yoko, 2008. On psych verbs in English and Japanese. Fukuoka daigaku jinbun ronsou 39 (4), 967 –984.
+Kageyama, Taro, 1993. Bunpo To Gokeisei (Grammer and Word Formation). Hitsuji-shobo, Tokyo .
+Katada, Fusa, 1995. Weak transitivity: another view of psych-predicates. ASJU 38, 81 –91.
+Katada, Fusa, 1997. Experiencer versus non-experiencer asymmetries in the causative system. In: Black, J.R., Motapanyane, V. (Eds.), Clitics, Pro nouns and
+Movement. John Benjamins, Amsterdam, pp. 133 –150.
+Kiparsky, Paul, 1982. Word-formation and the lexicon. In: Ingeman, F.A. (Ed.), Proceedings of the 1982 Mid-America Linguistic Conference, pp. 3 –29.
+Kitagawa, Chisato, 1974. Case marking and causativization. Journal of Japanese Linguistics 3 (1 –2), 45 –60.
+Koontz-Garbode, Andrew, 2007. States, Changes of State, and the Monotonicity Hypothesis. Stanford University. PhD thesis .
+Koontz-Garboden, Andrew, 2009. Anticausativization. Nat. Lang. Ling. Theor. 27, 77 –138.
+Koontz-Garboden, Andrew, 2012. The monotonicity hypothesis. In: McNally, L., Demonte, V. (Eds.), Telicity, Change, and State: A Cross-Categorial View of
+Event Structure. Oxford University Press, Oxford, pp. 139 –161.
+Kuroda, Sigeyuki, 1965. Causative forms in Japanese. Found. Lang. 1, 30 –50.
+Levin, Beth, Hovav, Rappaport, Malka, 1995. Unaccusativity. MIT Press, Cambridge, MA .
+Marín, Rafael, 201 1. Casi todos los predicados psicológicos son estativos. Sobre Estodos Y Estatividad. Lincom, Munich, pp. 26 –44.
+Marín, Rafael, 2015. Los Predicados psicológicos. Madrid : Visor Libros .
+Marín, Rafael, McNally, Louise, 201 1. Inchoativity, change of state, and telicity: evidence from Spanish re ﬂexive psychological verbs. Nat. Lang. Ling. Theor.
+29, 467 –502.
+A. Shimoyoshi / Language Sciences 106 (2024) 10167326
+[PDF PAGE 27]
+Masullo, Pascual, 1992. Antipassive constructions in Spanish. In: Hirschbühler, P., Koerner, K. (Eds.), Romance Languages and Modern Linguistic T heory:
+Selected Papers from the XX Linguistics Symposium on Romance Languages. University of Ottawa, pp. 10 –14. April 1990. Amsterdam: John Benjamins.
+175-194.
+Matsumura, Hiromi, 1996. On psych verbs in Japanese. Toronto Working Papers in Linguistics 15, 123 –140.
+McKoon, Gail, Macfarland, Talke, 2000. Externally and internally caused change of state verbs. Language 76 (4), 833 –858.
+Mendikoetxea, Amaya, 1999a. Construcciones inacusativas y pasivas. In: Bosque, I., Demonte, V. (Eds.), Gramática descriptiva de la lengua español a. Espasa
+Calpe, Madrid, pp. 1575 –1629.
+Mendikoetxea, Amaya, 1999b. Construcciones con se. In: Bosque, I., Demonte, V. (Eds.), Gramática descriptiva de la lengua española. Espasa Calpe, Madrid,
+pp. 1631–1722.
+Mendikoetxea, Amaya, 2012. Passives and se constructions. In: Hualde, J.I., Olarrea, A., O ’Rourke, E. (Eds.), The Handbook of Hispanic Linguistics. Willy-
+Blackwell, West Sussex, UK, pp. 477 –502.
+Miyagawa, Shigeru, 1989a. Structure and case marking in Japanese, vol. 22. Academic Press. Syntax and Semantics, New York .
+Miyagawa, Shigeru, 1989b. Light verbs and the ergative hypothesis. Ling. Inq. 20, 659 –668.
+Nakamura, Wataru, 1999. Unergative verbs and causativization in Japanese. Gengo Kenkyu 1 16, 23 –58.
+Noda, Hisashi, 1997. Nihongo to supeingo no boisu (Voice in Japanese and Spanish). Niohongo to supeingo (Japanese and Spanish), vol. 2. National Institute
+for Japanese Language and Linguistics, pp. 83 –113.
+Parsons, Terence, 1990. Events in the Semantics of English: A Study in Subatomic Semantics. MIT Press, Cambridge, MA .
+Perlmutter, David M., Postal, Paul M., 1984. The 1-advancement exclusiveness law. In: Perlmutter, D.M., Rosen, C. (Eds.), Studies in Relational Gra mmar, vol.
+2. Chicago University Press, Chicago, pp. 81 –125.
+Pesetsky, David, 1995. Zero Syntax: Experiencers And Cascades. MIT Press, Cambridge, MA .
+Piñón, Christopher, 1997. Achievements in an event semantics. In: Lawson, A., Cho, E. (Eds.), Proceedings of Semantics and Linguistic Theory VII. CL C
+Publications, Ithaca, NY, pp. 273 –296.
+Piñón, Christopher, 2001. A ﬁner look at the causative-inchoative alternation. In: Hastings, R., Jackson, B., Zvolenszky, Z. (Eds.), Proceedings of Semantics and
+Linguistic Theory XI. CLC Publications, Ithaca, NY, pp. 346 –364.
+Pylkkänen, Liina, 2000. On stativity and causation. In: Tenny, C., Pustejovsky, J. (Eds.), Events as Grammatical Objects. CSLI Publications, pp. 41 7–445.
+Pylkkänen, Liina, 2008. Introducing Arguments. MIT Press, Cambridge, MA .
+Real Academia Española, 2009. Nueva gramática de la lengua española. Espasa Libros, Madrid .
+Reinhart, Tanya, 2002. The theta system: an overview. Theor. Ling. 28, 229 –290.
+Reinhart, Tanya, Siloni, Tal, 2004. (written 1999). Against the unaccusative analysis of re ﬂexives. In: Alexiadou, A., Anagnostopoulou, E., Everaert, M. (Eds.),
+The Unaccusativity Puzzle: Explorations of the Syntax-Lexicon Interface. Oxford University Press, Oxford, pp. 288 –331.
+Reinhart, Tanya, Siloni, Tal, 2005. The lexicon-syntax parameter: re ﬂexivization and other arity operations. Ling. Inq. 36, 389 –436.
+Sanz, Montserrat, 1995. Telic Clitics in Spanish. University of Rochester, Ms .
+Sanz, Montserrat, Laka, Itziar, 2002. Oraciones transitivas con se: el modo de acción en la sintaxis. In: Sánchez López, C. (Ed.), Las construcciones con se
+(Madrid: Visor) .
+Schäfer, Florian, 2008. The Syntax of (Anti-)causatives. John Benjamins, Amsterdam .
+Shibatani, Masayoshi, 1973. Semantics of Japanese causativization. Found. Lang. 9 (3), 327 –373.
+Shibatani, Masayoshi, 1976. The grammar of causative constructions: a conspectus. In: Syntax and Semantics. Brill, Leiden, The Netherlands .
+Shimizu, Yasuyuki, 2007. Shinridousi no kaku to imiyakuwari no taiou-zure ((Dis)Agreement between cases and semantic roles of psych verbs). Nihon
+bungei kenkyu 58 (4), A23 –A39.
+Sugimura, Yasushi, 2007. Fukugo-doshi - tsukareru no zenko-doshi no tokucho ni tsuite (On the aspects of the main verbs in the compound verbs with
+-tsukareru). Kotoba no kagaku 20, 101 –115.
+Talmy, Leonard, 1985. Lexicalization patterns: semantic structure in lexical forms. In: Shopen, T. (Ed.), Language Typology and Syntactic Descrip tion III:
+Grammatical Categories and the Lexicon. Cambridge University Press, Cambridge, pp. 57 –149.
+Teramura, Hideo, 1982. Nihongo no Syntax to Imi (Japanese Syntax and Semantics), I. Tokyo: Kuroshio .
+Vanhoe, Henk, 2002. Aspectos de la sintaxis de los verbos psicológicos en español: un análisis léxico funcional. PhD dissertation. University of Gent .
+Van Valin, Robert D., Wilkins, David P., 1996. The case for “effector”: case roles, agents and agency revisited. In: Shibatani, Masayoshi, Thompson, Sandra A.
+(Eds.), Grammatical Constructions: Their Form and Meaning. Oxford University Press, Oxford, pp. 289 –322.
+Yamakawa, Futoshi, 2004. On case marking by psych verbs in Japanese. Nihongo-Nihonbunka 30, 1 –20.
+Yoshinaga, Nao, 2008. Shinridoushi To Dousadaushi No Intaafeisu (Interface between Psych Verbs and Activity Verbs). Izumishoin, Osaka .
+A. Shimoyoshi / Language Sciences 106 (2024) 101673 27

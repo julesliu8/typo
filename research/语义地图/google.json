@@ -1,0 +1,18 @@
+[
+  [
+    "\"perception\" \"semantic map\" verbs",
+    "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22perception%22+%22semantic+map%22+verbs&udm=14 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  ],
+  [
+    "\"want\" \"like\" \"semantic map\"",
+    "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22want%22+%22like%22+%22semantic+map%22&udm=14 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  ],
+  [
+    "\"love\" \"semantic map\"",
+    "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22love%22+%22semantic+map%22&udm=14 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  ],
+  [
+    "\"causative\" \"perception\" \"semantic map\"",
+    "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22causative%22+%22perception%22+%22semantic+map%22&udm=14 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  ]
+]

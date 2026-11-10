@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://bivaltyp.info/js/data/full.js"></script>
+        <script src="https://bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <!-- A place for a permanent-sponsor logo. -->
+        <!-- <a href="https://iling.spb.ru/departements/typology/about.html.ru"><img src="https://bivaltyp.info/images/LTIJa.png"
+                alt="ÐÐ°Ð±Ð¾ÑÐ°ÑÐ¾ÑÐ¸Ñ ÑÐ¸Ð¿Ð¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð¸Ð·ÑÑÐµÐ½Ð¸Ñ ÑÐ·ÑÐºÐ¾Ð²"></a>
+        &nbsp;&nbsp;
+        -->
+        <!-- <a href="https://iling.spb.ru/index.html.ru"><img src="https://bivaltyp.info/images/ili.png"
+                alt="ÐÐ½ÑÑÐ¸ÑÑÑ Ð»Ð¸Ð½Ð³Ð²Ð¸ÑÑÐ¸ÑÐµÑÐºÐ¸Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹ Ð ÐÐ"></a> -->
+    </div>
+    <!-- <div>
+    </div> -->
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://bivaltyp.info">
+            <div class="menu-button">Home</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project â</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://bivaltyp.info/project/description/">
+                <div class="menu-button">Project description</div>
+            </a>
+            <a href="https://bivaltyp.info/project/questionnaire/">
+                <div class="menu-button">Questionnaire</div>
+            </a>
+            <a href="https://bivaltyp.info/project/instructions/">
+                <div class="menu-button">Instructions for&nbsp;contributors</div>
+            </a>
+            <a href="https://bivaltyp.info/project/team/">
+                <div class="menu-button">Team</div>
+            </a>
+            <a href="https://bivaltyp.info/project/publications/">
+                <div class="menu-button">Publications</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/howtoreadthedata/">
+            <div class="menu-button">How to read the data</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages â</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://bivaltyp.info/languages/listview/">
+                <div class="menu-button">List view</div>
+            </a>
+            <a href="https://bivaltyp.info/languages/mapview/">
+                <div class="menu-button">Map view</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/predicates/">
+            <div class="menu-button">Predicates</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview â</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://bivaltyp.info/data/patterns/">
+                <div class="menu-button">Patterns overview</div>
+            </a>
+            <a href="https://bivaltyp.info/data/all/">
+                <div class="menu-button">Data in one spreadsheet</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/data/maps/">
+            <div class="menu-button">Maps</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/download/">
+            <div class="menu-button">Download</div>
+        </a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><h2>Questionnaire</h2>
+
+<h3>General</h3>
+
+<p>Each entry in the questionnaire consists of a number (1â130), an English name of the predicate (referred to as âPredicateâ, e.g., âbe afraidâ, âthrowâ, etc.), and a stimulus sentence used in elicitation.
+Some stimulus sentences are accompanied by context information provided in parentheses. These pieces of information are intended as semantic cues that make the described situations more specific. For example, in 101, the sentence âP. shot at the birdâ is accompanied by the comment â(He missed.)â. This means that the translation equivalent of âshootâ should be compatible with the idea that the shot went wide, but âhe missedâ should not necessarily be translated into the target language.
+âP.â and âM.â stand for person names (or else other human noun phrases) that the contributor might choose in accordance with the cultural context of the investigated language. Each stimulus sentence contains two nominal arguments, labeled X and Y (see <a href="https://bivaltyp.info/predicates/">Predicates</a> for details).</p>
+
+<h3>How to cite</h3>
+
+<p>If you use this questionnaire, please cite as follows.</p>
+
+<blockquote>
+  <p>Say, Sergey, Sergey Dmitrenko, Dmitry Gerasimov, Viktor Khrakovskij, &amp; Natalia Zaika. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, Accessed on <span id="today"></span>)</p>
+</blockquote>
+
+<h3>Non-English versions</h3>
+
+<p>The original Russian version of the questionnaire can be found <a href="#russian-questionnaire">below</a>. The original published version can be accessed <a href="https://bivaltyp.info/docs/questionnaire_russian.pdf">here</a>. <div id="russian-citation" style="display: none; max-width: 800px; padding: 3px;"> Ð¡Ð°Ð¹, Ð¡. Ð¡., Ð. Ð. ÐÐµÑÐ°ÑÐ¸Ð¼Ð¾Ð², Ð¡. Ð®. ÐÐ¼Ð¸ÑÑÐµÐ½ÐºÐ¾, Ð. Ð. ÐÐ°Ð¸ÐºÐ°, Ð. Ð¡. Ð¥ÑÐ°ÐºÐ¾Ð²ÑÐºÐ¸Ð¹. 2018. ÐÐ°Ð»ÐµÐ½ÑÐ½Ð¾ÑÑÐ½ÑÐµ ÐºÐ»Ð°ÑÑÑ Ð´Ð²ÑÑÐ¼ÐµÑÑÐ½ÑÑ Ð¿ÑÐµÐ´Ð¸ÐºÐ°ÑÐ¾Ð²: ÑÐ¸Ð¿Ð¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ°Ñ Ð°Ð½ÐºÐµÑÐ° Ð¸ Ð¸Ð½ÑÑÑÑÐºÑÐ¸Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°ÑÐµÐ»Ñ // Ð¡. Ð¡. Ð¡Ð°Ð¹ (Ð¾ÑÐ². ÑÐµÐ´.). ÐÐ°Ð»ÐµÐ½ÑÐ½Ð¾ÑÑÐ½ÑÐµ ÐºÐ»Ð°ÑÑÑ Ð´Ð²ÑÑÐ¼ÐµÑÑÐ½ÑÑ Ð¿ÑÐµÐ´Ð¸ÐºÐ°ÑÐ¾Ð² Ð² ÑÐ°Ð·Ð½Ð¾ÑÑÑÑÐºÑÑÑÐ½ÑÑ ÑÐ·ÑÐºÐ°Ñ. Ð¡ÐÐ±.: ÐÐÐ Ð ÐÐ. Ð¡. 25â46.</div><input type="button" value="Show Russian citation" onclick="toggleRussianCitation(this);" style="display: block;"> </p>
+
+<p>The French version of the questionnaire is available as a .pdf file <a href="https://bivaltyp.info/docs/Questionnaire_FR_delta_2023_08.pdf">here</a>.</p>
+
+<p>The German version of the questionnaire is available as a .pdf file <a href="https://bivaltyp.info/docs/Questionnaire_DE_alpha_2023_05.pdf">here</a>.</p>
+
+<h3>Questionnaire</h3>
+
+<ol>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/feel_pain.html">feel pain</a></p>
+
+<p>P. has a headache.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/haveillness.html">have (illness)</a></p>
+
+<p>P. has the flu.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_afraid.html">be afraid</a></p>
+
+<p>(P. has to go out of the house, but there is a dog barking in the yard.). P. is afraid of the dog.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/throw.html">throw</a></p>
+
+<p>(Two boys are competing to see who can throw a stone the farthest.) P. threw a stone (first).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_enough.html">have enough</a></p>
+
+<p>(P. has found a new job.) Now P. has enough money.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/resemble.html">resemble</a></p>
+
+<p>(M. is P.'s grandfather.) P. resembles M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/believe.html">believe</a></p>
+
+<p>P. believes M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take.html">take</a></p>
+
+<p>P. took a book (from the shelf).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/see.html">see</a></p>
+
+<p>P. sees a house.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/influence.html">influence</a></p>
+
+<p>Age influences memory.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/encounter.html">encounter</a></p>
+
+<p>P. encountered M. (accidentally, on the street). = P ran into M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/enter.html">enter</a></p>
+
+<p>P. entered the house.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/win.html">win</a></p>
+
+<p>(P. and M. played chess.) P. beat M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/go_out.html">go out</a></p>
+
+<p>P. went out of the house.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drive.html">drive</a></p>
+
+<p>P. is driving the cow (to the pasture).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/bend.html">bend</a></p>
+
+<p>P. bent the branch.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/tell.html">tell</a></p>
+
+<p>P. told M.: (âCall me this evening.â)</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hold.html">hold</a></p>
+
+<p>P. is holding a book (in his hands).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/catch_up.html">catch up</a></p>
+
+<p>(P. had an argument with M., M. went away, P. went after her.) P. caught up with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/milk.html">milk</a></p>
+
+<p>P. milked the cow.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/reach.html">reach</a></p>
+
+<p>(P. was crossing the river in a boat.) P. reached the bank.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/touch.html">touch</a></p>
+
+<p>(The wall was covered with fresh paint.) P. touched the wall (and got dirty).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fight.html">fight</a></p>
+
+<p>(âLook out of the window!â âWhatâs happening?â) âP. is fighting with M.â</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_friends.html">be friends</a></p>
+
+<p>P. is friends with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/think.html">think</a></p>
+
+<p>(P. has a thoughtful look.) P. is thinking about M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/eat.html">eat</a></p>
+
+<p>P. ate an apple.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fry.html">fry</a></p>
+
+<p>P. fried the fish.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wait.html">wait</a></p>
+
+<p>(P. and M. have arranged to meet at 2 p.m. at the post office.) P. is waiting for M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/forget.html">forget</a></p>
+
+<p>(P. had already visited this town and knew that there is a shorter road. When he went there once again this time, however, he chose the longer road.) P. forgot (about) the other road.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/depend.html">depend</a></p>
+
+<p>Memory depends on age.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/call.html">call</a></p>
+
+<p>(P. tried to open the door himself, but he didnât manage. Then) P. called M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_to_know.html">get to know</a></p>
+
+<p>P. got to know M. a year ago.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/know.html">know</a></p>
+
+<p>P. knows M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/playinstrument.html">play (instrument)</a></p>
+
+<p>(What is P. doing?) P. is playing the guitar.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/avoid.html">avoid</a></p>
+
+<p>(P. owes M. a huge sum of money, which he cannot return. Instead of this) P. avoids M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/make.html">make</a></p>
+
+<p>P. made a mousetrap.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/make_fun.html">make fun</a></p>
+
+<p>(M. did something very stupid. Now,) P. is making fun of M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have.html">have</a></p>
+
+<p>P. has a car.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/look_for.html">look for</a></p>
+
+<p>P. is looking for his keys.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/paint.html">paint</a></p>
+
+<p>P. painted the fence.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/bite.html">bite</a></p>
+
+<p>A dog bit P.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/forfeit.html">forfeit</a></p>
+
+<p>(There was a fire in the village. As a result) P. lost his house.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/try_to_catch.html">try to catch</a></p>
+
+<p>(The cat sprang out of the house.) P. is trying to catch the cat.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/break.html">break</a></p>
+
+<p>P. broke a stick.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/flatter.html">flatter</a></p>
+
+<p>(P. tells M. that she is very beautiful.) P. is flattering M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/loveperson.html">love (person)</a></p>
+
+<p>P. loves M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wave.html">wave</a></p>
+
+<p>(Look, thereâs P. on the other side of the river.) P. is waving a handkerchief.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dream.html">dream</a></p>
+
+<p>P. is dreaming of a new car.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wash.html">wash</a></p>
+
+<p>P. washed the cup.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/put_on.html">put on</a></p>
+
+<p>P. put on his trousers.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_called.html">be called</a></p>
+
+<p>(A boy saw his fatherâs compass and asked what this was. The father answered him:) âThis tool is called a compass.â</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/punish.html">punish</a></p>
+
+<p>(P.âs son was misbehaving.) P. punished his son.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/attack.html">attack</a></p>
+
+<p>A bear attacked a fisherman.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fillintr.html">fill (intr)</a></p>
+
+<p>(There was a bucket near the house during the rain.) The bucket filled with water.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/find.html">find</a></p>
+
+<p>P. found his keys.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_short.html">be short</a></p>
+
+<p>(P. wants to buy a ticket. He counts his money and finds out that) P. is short / lacks one euro.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hate.html">hate</a></p>
+
+<p>P. hates M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/like.html">like</a></p>
+
+<p>P. likes this shirt.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/need.html">need</a></p>
+
+<p>(P.âs house was burglarised with all the valuables taken. As a consequence,) P. needs money.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/surround.html">surround</a></p>
+
+<p>Walls surround the city.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/remain.html">remain</a></p>
+
+<p>(P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/answer.html">answer</a></p>
+
+<p>(The teacher asked P. what his parentsâ names are.) P. answered the teacher.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/open.html">open</a></p>
+
+<p>P. opened a can.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_different.html">be different</a></p>
+
+<p>(M. told P. that they have identical shirts. P. answered her,) âNo, my shirt is different from yours (, it is darker).â</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fall_behind.html">fall behind</a></p>
+
+<p>(P. and M. started out to school together, but) P. fell behind M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/plough.html">plough</a></p>
+
+<p>P. is ploughing the field.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/smell.html">smell</a></p>
+
+<p>(I was mending my car.) My hands smell like / smell of gasoline.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cross.html">cross</a></p>
+
+<p>(P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sing.html">sing</a></p>
+
+<p>P. sang a beautiful song.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/write.html">write</a></p>
+
+<p>P. wrote a letter.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drink.html">drink</a></p>
+
+<p>(P. was given a glass of milk by his mother.) P. drank the milk.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/melt.html">melt</a></p>
+
+<p>P. melted a piece of lead.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/match.html">match</a></p>
+
+<p>(A girl tries a belt in the shop and says, âGreat,) this belt goes well with / matches my dress.â</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/leave.html">leave</a></p>
+
+<p>P. left his native city.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cover.html">cover</a></p>
+
+<p>The carpet covers the whole floor.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/remember.html">remember</a></p>
+
+<p>P. remembers the house (where he grew up) well.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/help.html">help</a></p>
+
+<p>(M. didnât manage to do her homework by herself.) P. helped M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/understandlanguage.html">understand (language)</a></p>
+
+<p>P. understands French.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hittarget.html">hit (target)</a></p>
+
+<p>Lightning hit / struck the house.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cut_oneself.html">cut oneself</a></p>
+
+<p>P. cut himself with a razor.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_stuck.html">get stuck</a></p>
+
+<p>(The table was recently covered with paint. P. didnât know this and placed his glass on it.) The glass got stuck to the table.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/losegame.html">lose (game)</a></p>
+
+<p>(P. played chess with M.) P. lost to M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_glad.html">be glad</a></p>
+
+<p>(P. received a letter from M.) P. was glad about the letter.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/speak.html">speak</a></p>
+
+<p>(I am looking for P. When I enter the room I see that) P. is speaking with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/give_birth.html">give birth</a></p>
+
+<p>M. gave birth to a son.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drop.html">drop</a></p>
+
+<p>P. dropped the glass.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/govern.html">govern</a></p>
+
+<p>P. runs our town.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/miss.html">miss</a></p>
+
+<p>P. misses M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/follow.html">follow</a></p>
+
+<p>P. follows M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dismount.html">dismount</a></p>
+
+<p>P. got down from the horse.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/listen.html">listen</a></p>
+
+<p>(What is P. doing?) P. is listening to the radio.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/obey.html">obey</a></p>
+
+<p>(M. is a mischievous boy, but) P. always listens to / obeys his mother.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hear.html">hear</a></p>
+
+<p>P. hears the music.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/mix.html">mix</a></p>
+
+<p>(Some honey was put in a jar of milk and stirred.) The honey got mixed with the milk.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/look.html">look</a></p>
+
+<p>P. is looking at the clouds (trying to determine if it will rain).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take_off.html">take off</a></p>
+
+<p>P. took off his shirt.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dreamsleeping.html">dream (sleeping)</a></p>
+
+<p>(P. sleeps) P. dreams about M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/agree.html">agree</a></p>
+
+<p>(M. told P. that their son should learn Irish.) P. agreed with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_a_quarrel.html">have a quarrel</a></p>
+
+<p>P. had a quarrel with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cost.html">cost</a></p>
+
+<p>This cup costs 1 euro.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/shoot_at.html">shoot at</a></p>
+
+<p>P. shot at the bird. (He missed.)</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/pour.html">pour</a></p>
+
+<p>P. poured the sugar (into the cup).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/lose.html">lose</a></p>
+
+<p>P. lost his keys.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sink.html">sink</a></p>
+
+<p>(This tree has very heavy wood. I threw a log in the river.) The log sank in the water.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/kill.html">kill</a></p>
+
+<p>P. killed M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hit.html">hit</a></p>
+
+<p>P. hit M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/kiss.html">kiss</a></p>
+
+<p>P. kissed M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/read.html">read</a></p>
+
+<p>P. read an interesting book.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/movebodypart.html">move (bodypart)</a></p>
+
+<p>P. moved his finger.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/respect.html">respect</a></p>
+
+<p>P. respects M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_squeamish.html">be squeamish</a></p>
+
+<p>P. is squeamish about dirty dishes.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_content.html">be content</a></p>
+
+<p>(P.âs son does well at school.) P. is OK/content/satisfied with his son.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fall_in_love.html">fall in love</a></p>
+
+<p>P. fell in love with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/trust.html">trust</a></p>
+
+<p>(P. and M. have a happy family. M. never deceives P.) P. trusts M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sympathise.html">sympathise</a></p>
+
+<p>(P.âs mother is very ill.) P. sympathises with his mother.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/envy.html">envy</a></p>
+
+<p>(M. has a car, and P. doesn't). P. envies M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_angry.html">be angry</a></p>
+
+<p>P. is angry with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_surprised.html">be surprised</a></p>
+
+<p>(M. made P. an expensive gift.) P. was surprised at this gift.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/lovetea.html">love (tea)</a></p>
+
+<p>P. loves tea.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/enjoy.html">enjoy</a></p>
+
+<p>(After being in cold water) P. enjoys hot tea.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/want.html">want</a></p>
+
+<p>P. wants a new mobile phone.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_a_grudge.html">have a grudge</a></p>
+
+<p>(Why doesnât P. speak with M.?) P. has a grudge against M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take_offence.html">take offence</a></p>
+
+<p>(M. called P. an idiot.) P. took offence at M.  = P got cross with M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/upset.html">upset</a></p>
+
+<p>P. greatly upset M. (He told her that he had spent all the money.)</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/marvel.html">marvel</a></p>
+
+<p>(P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/despise.html">despise</a></p>
+
+<p>P. despises M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_upset.html">get upset</a></p>
+
+<p>(P.âs son got bad marks in school once again.) P. got upset with his son. = P. got upset because of his son.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_irritated.html">get irritated</a></p>
+
+<p>(P. has a very bad disposition. Look, once again) P. is getting irritated with his daughter.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_fond.html">be fond</a></p>
+
+<p>P. is fond of M.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_shy.html">be shy</a></p>
+
+<p>(P. is the smallest in his class.) P. is shy / embarrassed about his height.</p></li>
+</ol>
+
+<h2 id="russian-questionnaire">Russian questionnaire</h2>
+
+<ol>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/feel_pain.html">Ð±Ð¾Ð»ÐµÑÑ#ÑÐ°ÑÑÑ ÑÐµÐ»Ð°#</a></p>
+
+<p>Ð£ Ð. Ð±Ð¾Ð»Ð¸Ñ Ð³Ð¾Ð»Ð¾Ð²Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/haveillness.html">Ð±Ð¾Ð»ÐµÑÑ#Ð±Ð¾Ð»ÐµÐ·Ð½ÑÑ#</a></p>
+
+<p>Ð. Ð±Ð¾Ð»ÐµÐµÑ Ð³ÑÐ¸Ð¿Ð¿Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_afraid.html">Ð±Ð¾ÑÑÑÑÑ</a></p>
+
+<p>(Ð. Ð½ÑÐ¶Ð½Ð¾ Ð²ÑÐ¹ÑÐ¸ Ð¸Ð· Ð´Ð¾Ð¼Ð°, Ð½Ð¾ Ð²Ð¾ Ð´Ð²Ð¾ÑÐµ Ð»Ð°ÐµÑ ÑÐ¾Ð±Ð°ÐºÐ°). Ð. Ð±Ð¾Ð¸ÑÑÑ ÑÐ¾Ð±Ð°ÐºÐ¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/throw.html">Ð±ÑÐ¾ÑÐ¸ÑÑ</a></p>
+
+<p>(ÐÐ°Ð»ÑÑÐ¸ÐºÐ¸ ÑÐ¾ÑÐµÐ²Ð½ÑÑÑÑÑ, ÐºÑÐ¾ Ð´Ð°Ð»ÑÑÐµ ÐºÐ¸Ð½ÐµÑ ÐºÐ°Ð¼ÐµÐ½Ñ. Ð¡Ð½Ð°ÑÐ°Ð»Ð°) Ð. Ð±ÑÐ¾ÑÐ¸Ð» ÐºÐ°Ð¼ÐµÐ½Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_enough.html">Ð±ÑÑÑ Ð´Ð¾ÑÑÐ°ÑÐ¾ÑÐ½Ð¾</a></p>
+
+<p>(Ð. Ð½Ð°ÑÐµÐ» Ð½Ð¾Ð²ÑÑ ÑÐ°Ð±Ð¾ÑÑ. Ð¢ÐµÐ¿ÐµÑÑ) Ð. ÑÐ²Ð°ÑÐ°ÐµÑ Ð´ÐµÐ½ÐµÐ³.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/resemble.html">Ð±ÑÑÑ Ð¿Ð¾ÑÐ¾Ð¶Ð¸Ð¼</a></p>
+
+<p>(Ð. - Ð´ÐµÐ´ÑÑÐºÐ° Ð.). Ð. Ð¿Ð¾ÑÐ¾Ð¶ Ð½Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/believe.html">Ð²ÐµÑÐ¸ÑÑ</a></p>
+
+<p>Ð. Ð²ÐµÑÐ¸Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take.html">Ð²Ð·ÑÑÑ</a></p>
+
+<p>Ð. Ð²Ð·ÑÐ» ÐºÐ½Ð¸Ð³Ñ (Ñ Ð¿Ð¾Ð»ÐºÐ¸).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/see.html">Ð²Ð¸Ð´ÐµÑÑ</a></p>
+
+<p>Ð. Ð²Ð¸Ð´Ð¸Ñ Ð´Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/influence.html">Ð²Ð»Ð¸ÑÑÑ</a></p>
+
+<p>ÐÐ¾Ð·ÑÐ°ÑÑ Ð²Ð»Ð¸ÑÐµÑ Ð½Ð° Ð¿Ð°Ð¼ÑÑÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/encounter.html">Ð²ÑÑÑÐµÑÐ°ÑÑÑÑ</a></p>
+
+<p>Ð. Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ Ñ Ð. (ÑÐ»ÑÑÐ°Ð¹Ð½Ð¾, Ð½Ð° ÑÐ»Ð¸ÑÐµ)</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/enter.html">Ð²ÑÐ¾Ð´Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð²Ð¾ÑÐµÐ» Ð² Ð´Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/win.html">Ð²ÑÐ¸Ð³ÑÐ°ÑÑ</a></p>
+
+<p>(Ð. Ð¸Ð³ÑÐ°Ð» Ñ Ð. Ð² ÑÐ°ÑÐ¼Ð°ÑÑ). Ð. Ð²ÑÐ¸Ð³ÑÐ°Ð» Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/go_out.html">Ð²ÑÑÐ¾Ð´Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð²ÑÑÐµÐ» Ð¸Ð· Ð´Ð¾Ð¼Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drive.html">Ð³Ð½Ð°ÑÑ</a></p>
+
+<p>Ð. Ð³Ð¾Ð½Ð¸Ñ ÐºÐ¾ÑÐ¾Ð²Ñ (Ð½Ð° Ð¿Ð°ÑÑÐ±Ð¸ÑÐµ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/bend.html">Ð³Ð½ÑÑÑ</a></p>
+
+<p>Ð. ÑÐ¾Ð³Ð½ÑÐ» Ð²ÐµÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/tell.html">Ð³Ð¾Ð²Ð¾ÑÐ¸ÑÑ</a></p>
+
+<p>Ð. ÑÐºÐ°Ð·Ð°Ð» Ð.: (Â«ÐÑÐ¸ÑÐ¾Ð´Ð¸ ÐºÐ¾ Ð¼Ð½Ðµ Ð² Ð³Ð¾ÑÑÐ¸Â»).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hold.html">Ð´ÐµÑÐ¶Ð°ÑÑ</a></p>
+
+<p>Ð. Ð´ÐµÑÐ¶Ð¸Ñ ÐºÐ½Ð¸Ð³Ñ (Ð² ÑÑÐºÐ°Ñ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/catch_up.html">Ð´Ð¾Ð³Ð½Ð°ÑÑ</a></p>
+
+<p>(Ð. Ð¿Ð¾ÑÑÐ¾ÑÐ¸Ð»ÑÑ Ñ Ð., Ð¸ Ð. ÑÑÐ»Ð°. Ð. Ð¿Ð¾ÑÐµÐ» Ð·Ð° Ð½ÐµÐ¹). Ð. Ð´Ð¾Ð³Ð½Ð°Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/milk.html">Ð´Ð¾Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾Ð´Ð¾Ð¸Ð» ÐºÐ¾ÑÐ¾Ð²Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/reach.html">Ð´Ð¾ÑÑÐ¸ÑÑ</a></p>
+
+<p>(Ð. Ð¿Ð»ÑÐ» Ð½Ð° Ð»Ð¾Ð´ÐºÐµ ÑÐµÑÐµÐ· ÑÐµÑÐºÑ). Ð. Ð´Ð¾ÑÑÐ¸Ð³ Ð±ÐµÑÐµÐ³Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/touch.html">Ð´Ð¾ÑÑÐ¾Ð½ÑÑÑÑÑ</a></p>
+
+<p>(Ð¡ÑÐµÐ½Ð° Ð½ÐµÐ´Ð°Ð²Ð½Ð¾ Ð±ÑÐ»Ð° Ð¿Ð¾ÐºÑÐ°ÑÐµÐ½Ð°). Ð. Ð´Ð¾ÑÑÐ¾Ð½ÑÐ»ÑÑ Ð´Ð¾ ÑÑÐµÐ½Ñ (Ð¸ Ð¸ÑÐ¿Ð°ÑÐºÐ°Ð»ÑÑ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fight.html">Ð´ÑÐ°ÑÑÑÑ</a></p>
+
+<p>(- ÐÐ¾ÑÐ¼Ð¾ÑÑÐ¸ Ð²Ð¾ Ð´Ð²Ð¾Ñ. - Ð ÑÑÐ¾ ÑÐ°Ð¼?). - Ð. Ð´ÐµÑÐµÑÑÑ Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_friends.html">Ð´ÑÑÐ¶Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð´ÑÑÐ¶Ð¸Ñ Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/think.html">Ð´ÑÐ¼Ð°ÑÑ</a></p>
+
+<p>(Ð£ Ð. Ð·Ð°Ð´ÑÐ¼ÑÐ¸Ð²ÑÐ¹ Ð²Ð¸Ð´). Ð. Ð´ÑÐ¼Ð°ÐµÑ Ð¾ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/eat.html">ÐµÑÑÑ</a></p>
+
+<p>Ð. ÑÑÐµÐ» ÑÐ±Ð»Ð¾ÐºÐ¾.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fry.html">Ð¶Ð°ÑÐ¸ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾Ð¶Ð°ÑÐ¸Ð» ÑÑÐ±Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wait.html">Ð¶Ð´Ð°ÑÑ</a></p>
+
+<p>(Ð. Ð¸ Ð. Ð´Ð¾Ð³Ð¾Ð²Ð¾ÑÐ¸Ð»Ð¸ÑÑ Ð²ÑÑÑÐµÑÐ¸ÑÑÑÑ Ð² Ð´Ð²Ð° ÑÐ°ÑÐ° Ð½Ð° Ð¿Ð¾ÑÑÐµ). Ð. Ð¶Ð´ÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/forget.html">Ð·Ð°Ð±ÑÐ²Ð°ÑÑ</a></p>
+
+<p>(Ð. Ð¾Ð´Ð½Ð°Ð¶Ð´Ñ ÑÐ¶Ðµ ÐµÐ·Ð´Ð¸Ð» Ð² ÑÑÐ¾Ñ Ð³Ð¾ÑÐ¾Ð´ Ð¸ Ð·Ð½Ð°Ð», ÑÑÐ¾ ÑÑÐ´Ð° ÐµÑÑÑ Ð±Ð¾Ð»ÐµÐµ ÐºÐ¾ÑÐ¾ÑÐºÐ°Ñ Ð´Ð¾ÑÐ¾Ð³Ð°. ÐÐ¾ ÑÐµÐ¹ÑÐ°Ñ Ð¾Ð½ Ð¿Ð¾ÐµÑÐ°Ð» ÑÑÐ´Ð° ÑÐ½Ð¾Ð²Ð° Ð¸ Ð²ÑÐ±ÑÐ°Ð» Ð±Ð¾Ð»ÐµÐµ Ð´Ð»Ð¸Ð½Ð½ÑÑ). Ð. Ð·Ð°Ð±ÑÐ» Ð¾ Ð´ÑÑÐ³Ð¾Ð¹ Ð´Ð¾ÑÐ¾Ð³Ðµ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/depend.html">Ð·Ð°Ð²Ð¸ÑÐµÑÑ</a></p>
+
+<p>ÐÐ°Ð¼ÑÑÑ Ð·Ð°Ð²Ð¸ÑÐ¸Ñ Ð¾Ñ Ð²Ð¾Ð·ÑÐ°ÑÑÐ°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/call.html">Ð·Ð²Ð°ÑÑ</a></p>
+
+<p>(Ð. Ð¿ÑÑÐ°Ð»ÑÑ ÑÐ°Ð¼ Ð¾ÑÐºÑÑÑÑ Ð´Ð²ÐµÑÑ, Ð½Ð¾ Ð½Ðµ ÑÐ¼Ð¾Ð³. Ð¢Ð¾Ð³Ð´Ð°) Ð. Ð¿Ð¾Ð·Ð²Ð°Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_to_know.html">Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸ÑÑÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸Ð»ÑÑ Ñ Ð. Ð³Ð¾Ð´ ÑÐ¾Ð¼Ñ Ð½Ð°Ð·Ð°Ð´.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/know.html">Ð·Ð½Ð°ÑÑ</a></p>
+
+<p>Ð. Ð·Ð½Ð°ÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/playinstrument.html">Ð¸Ð³ÑÐ°ÑÑ</a></p>
+
+<p>(Ð§ÑÐ¾ ÑÐµÐ¹ÑÐ°Ñ Ð´ÐµÐ»Ð°ÐµÑ Ð.?) Ð. Ð¸Ð³ÑÐ°ÐµÑ Ð½Ð° Ð³Ð¸ÑÐ°ÑÐµ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/avoid.html">Ð¸Ð·Ð±ÐµÐ³Ð°ÑÑ</a></p>
+
+<p>(Ð. Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð. ÐºÑÑÐ¿Ð½ÑÑ ÑÑÐ¼Ð¼Ñ Ð´ÐµÐ½ÐµÐ³, ÐºÐ¾ÑÐ¾ÑÑÑ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ Ð²ÐµÑÐ½ÑÑÑ. ÐÐ¾ÑÑÐ¾Ð¼Ñ) Ð. Ð¸Ð·Ð±ÐµÐ³Ð°ÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/make.html">Ð¸Ð·Ð³Ð¾ÑÐ¾Ð²Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð¸Ð·Ð³Ð¾ÑÐ¾Ð²Ð¸Ð» Ð¼ÑÑÐµÐ»Ð¾Ð²ÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/make_fun.html">Ð¸Ð·Ð´ÐµÐ²Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐ´ÐµÐ»Ð°Ð»(Ð°) ÑÑÐ¾-ÑÐ¾ Ð¾ÑÐµÐ½Ñ Ð³Ð»ÑÐ¿Ð¾Ðµ. Ð¢ÐµÐ¿ÐµÑÑ) Ð. Ð¸Ð·Ð´ÐµÐ²Ð°ÐµÑÑÑ Ð½Ð°Ð´ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have.html">Ð¸Ð¼ÐµÑÑ</a></p>
+
+<p>Ð£ Ð. ÐµÑÑÑ Ð¼Ð°ÑÐ¸Ð½Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/look_for.html">Ð¸ÑÐºÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¸ÑÐµÑ ÐºÐ»ÑÑÐ¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/paint.html">ÐºÑÐ°ÑÐ¸ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÐºÑÐ°ÑÐ¸Ð» Ð·Ð°Ð±Ð¾Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/bite.html">ÐºÑÑÐ°ÑÑ</a></p>
+
+<p>Ð¡Ð¾Ð±Ð°ÐºÐ° ÑÐºÑÑÐ¸Ð»Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/forfeit.html">Ð»Ð¸ÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð Ð´ÐµÑÐµÐ²Ð½Ðµ Ð±ÑÐ» Ð¿Ð¾Ð¶Ð°Ñ. Ð ÑÐµÐ·ÑÐ»ÑÑÐ°ÑÐµ) Ð. Ð»Ð¸ÑÐ¸Ð»ÑÑ Ð´Ð¾Ð¼Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/try_to_catch.html">Ð»Ð¾Ð²Ð¸ÑÑ</a></p>
+
+<p>(ÐÐ¾ÑÐºÐ° Ð²ÑÑÐºÐ¾ÑÐ¸Ð»Ð° Ð¸Ð· Ð´Ð¾Ð¼Ð°). Ð. Ð»Ð¾Ð²Ð¸Ñ ÐºÐ¾ÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/break.html">Ð»Ð¾Ð¼Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ»Ð¾Ð¼Ð°Ð» Ð¿Ð°Ð»ÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/flatter.html">Ð»ÑÑÑÐ¸ÑÑ</a></p>
+
+<p>(Ð. Ð³Ð¾Ð²Ð¾ÑÐ¸Ñ Ð., ÑÑÐ¾ Ð¾Ð½Ð° Ð¾ÑÐµÐ½Ñ ÐºÑÐ°ÑÐ¸Ð²Ð°Ñ). Ð. Ð»ÑÑÑÐ¸Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/loveperson.html">Ð»ÑÐ±Ð¸ÑÑ#ÑÐµÐ»Ð¾Ð²ÐµÐºÐ°#</a></p>
+
+<p>Ð. Ð»ÑÐ±Ð¸Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wave.html">Ð¼Ð°ÑÐ°ÑÑ</a></p>
+
+<p>(Ð¡Ð¼Ð¾ÑÑÐ¸ÑÐµ, Ð½Ð° Ð´ÑÑÐ³Ð¾Ð¼ Ð±ÐµÑÐµÐ³Ñ ÑÐµÐºÐ¸ ÑÑÐ¾Ð¸Ñ Ð.). Ð. Ð¼Ð°ÑÐµÑ Ð¿Ð»Ð°ÑÐºÐ¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dream.html">Ð¼ÐµÑÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¼ÐµÑÑÐ°ÐµÑ Ð¾ (Ð½Ð¾Ð²Ð¾Ð¹) Ð¼Ð°ÑÐ¸Ð½Ðµ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/wash.html">Ð¼ÑÑÑ</a></p>
+
+<p>Ð. Ð²ÑÐ¼ÑÐ» ÑÐ°ÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/put_on.html">Ð½Ð°Ð´ÐµÐ²Ð°ÑÑ</a></p>
+
+<p>Ð. Ð½Ð°Ð´ÐµÐ» ÑÑÐ°Ð½Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_called.html">Ð½Ð°Ð·ÑÐ²Ð°ÑÑÑÑ</a></p>
+
+<p>(ÐÐ°Ð»ÑÑÐ¸Ðº ÑÐ²Ð¸Ð´ÐµÐ» Ñ Ð¾ÑÑÐ° ÐºÐ¾Ð¼Ð¿Ð°Ñ Ð¸ ÑÐ¿ÑÐ¾ÑÐ¸Ð», ÑÑÐ¾ ÑÑÐ¾ ÑÐ°ÐºÐ¾Ðµ. ÐÑÐµÑ Ð¾ÑÐ²ÐµÑÐ°ÐµÑ ÐµÐ¼Ñ:) Â«Ð­ÑÐ¾Ñ Ð¿ÑÐµÐ´Ð¼ÐµÑ / Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½Ñ Ð½Ð°Ð·ÑÐ²Ð°ÐµÑÑÑ ÐºÐ¾Ð¼Ð¿Ð°Ñ / ÐºÐ¾Ð¼Ð¿Ð°ÑÐ¾Ð¼Â».</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/punish.html">Ð½Ð°ÐºÐ°Ð·ÑÐ²Ð°ÑÑ</a></p>
+
+<p>(Ð¡ÑÐ½ Ð. Ð¿Ð»Ð¾ÑÐ¾ ÑÐµÐ±Ñ Ð²ÐµÐ»). Ð. Ð½Ð°ÐºÐ°Ð·Ð°Ð» ÑÐ²Ð¾ÐµÐ³Ð¾ ÑÑÐ½Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/attack.html">Ð½Ð°Ð¿Ð°ÑÑÑ</a></p>
+
+<p>ÐÐµÐ´Ð²ÐµÐ´Ñ Ð½Ð°Ð¿Ð°Ð» Ð½Ð° ÑÑÐ±Ð°ÐºÐ°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fillintr.html">Ð½Ð°Ð¿Ð¾Ð»Ð½ÑÑÑÑÑ</a></p>
+
+<p>(ÐÐ¾ Ð²ÑÐµÐ¼Ñ Ð´Ð¾Ð¶Ð´Ñ Ð²ÐµÐ´ÑÐ¾ ÑÑÐ¾ÑÐ»Ð¾ Ð½Ð° ÑÐ»Ð¸ÑÐµ). ÐÐµÐ´ÑÐ¾ Ð½Ð°Ð¿Ð¾Ð»Ð½Ð¸Ð»Ð¾ÑÑ Ð²Ð¾Ð´Ð¾Ð¹.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/find.html">Ð½Ð°ÑÐ¾Ð´Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð½Ð°ÑÐµÐ» ÐºÐ»ÑÑÐ¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_short.html">Ð½ÐµÐ´Ð¾ÑÑÐ°Ð²Ð°ÑÑ</a></p>
+
+<p>(Ð. ÑÐ¾ÑÐµÑ ÐºÑÐ¿Ð¸ÑÑ Ð±Ð¸Ð»ÐµÑ. ÐÐ½ Ð¿Ð¾ÑÑÐ¸ÑÐ°Ð» Ð´ÐµÐ½ÑÐ³Ð¸ Ð¸ Ð²ÑÑÑÐ½Ð¸Ð»Ð¾ÑÑ, ÑÑÐ¾) Ð. Ð½ÐµÐ´Ð¾ÑÑÐ°ÐµÑ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð´Ð¾Ð»Ð»Ð°ÑÐ°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hate.html">Ð½ÐµÐ½Ð°Ð²Ð¸Ð´ÐµÑÑ</a></p>
+
+<p>Ð. Ð½ÐµÐ½Ð°Ð²Ð¸Ð´Ð¸Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/like.html">Ð½ÑÐ°Ð²Ð¸ÑÑÑÑ</a></p>
+
+<p>Ð. Ð½ÑÐ°Ð²Ð¸ÑÑÑ ÑÑÐ° ÑÑÐ±Ð°ÑÐºÐ°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/need.html">Ð½ÑÐ¶Ð´Ð°ÑÑÑÑ</a></p>
+
+<p>(ÐÐ¾Ð¼ Ð. Ð¾Ð³ÑÐ°Ð±Ð¸Ð»Ð¸ Ð¸ ÑÐ½ÐµÑÐ»Ð¸ Ð²ÑÐµ, ÑÑÐ¾ ÑÐ°Ð¼ Ð±ÑÐ»Ð¾. Ð¢ÐµÐ¿ÐµÑÑ) Ð. Ð½ÑÐ¶Ð´Ð°ÐµÑÑÑ Ð² Ð´ÐµÐ½ÑÐ³Ð°Ñ / Ð. Ð½ÑÐ¶Ð½Ñ Ð´ÐµÐ½ÑÐ³Ð¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/surround.html">Ð¾ÐºÑÑÐ¶Ð°ÑÑ</a></p>
+
+<p>Ð¡ÑÐµÐ½Ñ Ð¾ÐºÑÑÐ¶Ð°ÑÑ Ð³Ð¾ÑÐ¾Ð´.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/remain.html">Ð¾ÑÑÐ°Ð²Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð£ Ð. Ð±ÑÐ»Ð¾ 100 Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð², Ð½Ð¾ Ð¾Ð½ ÐºÑÐ¿Ð¸Ð» ÑÐµÐ»ÐµÐ²Ð¸Ð·Ð¾Ñ Ð¸ ÑÐµÐ¿ÐµÑÑ) Ñ Ð. Ð¾ÑÑÐ°Ð»Ð¾ÑÑ 10 Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð².</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/answer.html">Ð¾ÑÐ²ÐµÑÐ°ÑÑ</a></p>
+
+<p>(Ð£ÑÐ¸ÑÐµÐ»Ñ ÑÐ¿ÑÐ¾ÑÐ¸Ð» Ñ Ð., ÐºÐ°Ðº Ð·Ð¾Ð²ÑÑ ÐµÐ³Ð¾ ÑÐ¾Ð´Ð¸ÑÐµÐ»ÐµÐ¹). Ð. Ð¾ÑÐ²ÐµÑÐ¸Ð» ÑÑÐ¸ÑÐµÐ»Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/open.html">Ð¾ÑÐºÑÑÐ²Ð°ÑÑ</a></p>
+
+<p>Ð. Ð¾ÑÐºÑÑÐ» Ð±Ð°Ð½ÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_different.html">Ð¾ÑÐ»Ð¸ÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐºÐ°Ð·Ð°Ð» Ð., ÑÑÐ¾ Ñ Ð½Ð¸Ñ Ð¾Ð´Ð¸Ð½Ð°ÐºÐ¾Ð²ÑÐµ ÑÑÐ±Ð°ÑÐºÐ¸. Ð. Ð¾ÑÐ²ÐµÑÐ°ÐµÑ ÐµÐ¼Ñ: Â«ÐÐµÑ,) Ð¼Ð¾Ñ ÑÑÐ±Ð°ÑÐºÐ° Ð¾ÑÐ»Ð¸ÑÐ°ÐµÑÑÑ Ð¾Ñ ÑÐ²Ð¾ÐµÐ¹ (Ð¾Ð½Ð° Ð±Ð¾Ð»ÐµÐµ ÑÐµÐ¼Ð½Ð°Ñ)Â».</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fall_behind.html">Ð¾ÑÑÑÐ°ÑÑ</a></p>
+
+<p>(Ð. Ð¸ Ð. Ð²Ð¼ÐµÑÑÐµ Ð¿Ð¾ÑÐ»Ð¸ Ð² ÑÐºÐ¾Ð»Ñ, Ð½Ð¾) Ð. Ð¾ÑÑÑÐ°Ð» Ð¾Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/plough.html">Ð¿Ð°ÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð°ÑÐµÑ Ð¿Ð¾Ð»Ðµ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/smell.html">Ð¿Ð°ÑÐ½ÑÑÑ</a></p>
+
+<p>(Ð¯ ÑÐ¸Ð½Ð¸Ð» Ð¼Ð°ÑÐ¸Ð½Ñ). ÐÐ¾Ð¸ ÑÑÐºÐ¸ Ð¿Ð°ÑÐ½ÑÑ Ð±ÐµÐ½Ð·Ð¸Ð½Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cross.html">Ð¿ÐµÑÐµÑÐµÑÑ</a></p>
+
+<p>(Ð. ÑÐ²Ð¸Ð´ÐµÐ», ÑÑÐ¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð½Ð° Ð´ÑÑÐ³Ð¾Ð¹ ÑÑÐ¾ÑÐ¾Ð½Ðµ Ð´Ð¾ÑÐ¾Ð³Ð¸. Ð¢Ð¾Ð³Ð´Ð°). Ð. Ð¿ÐµÑÐµÑÐµÐº Ð´Ð¾ÑÐ¾Ð³Ñ (Ð¸ Ð²Ð¾ÑÐµÐ» Ð² Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sing.html">Ð¿ÐµÑÑ</a></p>
+
+<p>Ð. ÑÐ¿ÐµÐ» ÐºÑÐ°ÑÐ¸Ð²ÑÑ Ð¿ÐµÑÐ½Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/write.html">Ð¿Ð¸ÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð½Ð°Ð¿Ð¸ÑÐ°Ð» Ð¿Ð¸ÑÑÐ¼Ð¾.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drink.html">Ð¿Ð¸ÑÑ</a></p>
+
+<p>(ÐÐ°Ð¼Ð° Ð½Ð°Ð»Ð¸Ð»Ð° Ð. ÑÑÐ°ÐºÐ°Ð½ Ð¼Ð¾Ð»Ð¾ÐºÐ°). Ð. Ð²ÑÐ¿Ð¸Ð» Ð¼Ð¾Ð»Ð¾ÐºÐ¾.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/melt.html">Ð¿Ð»Ð°Ð²Ð¸ÑÑ</a></p>
+
+<p>Ð. ÑÐ°ÑÐ¿Ð»Ð°Ð²Ð¸Ð» ÐºÑÑÐ¾Ðº ÑÐ²Ð¸Ð½ÑÐ°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/match.html">Ð¿Ð¾Ð´ÑÐ¾Ð´Ð¸ÑÑ</a></p>
+
+<p>(ÐÐµÐ²ÑÑÐºÐ° Ð¼ÐµÑÑÐµÑ Ð² Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ðµ Ð¿Ð¾ÑÑ Ð¸ Ð³Ð¾Ð²Ð¾ÑÐ¸Ñ: Â«ÐÑÐ»Ð¸ÑÐ½Ð¾,) ÑÑÐ¾Ñ Ð¿Ð¾ÑÑ Ð¿Ð¾Ð´ÑÐ¾Ð´Ð¸Ñ Ðº Ð¼Ð¾ÐµÐ¼Ñ Ð¿Ð»Ð°ÑÑÑÂ».</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/leave.html">Ð¿Ð¾ÐºÐ¸Ð´Ð°ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÐºÐ¸Ð½ÑÐ» ÑÐ¾Ð´Ð½Ð¾Ð¹ Ð³Ð¾ÑÐ¾Ð´.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cover.html">Ð¿Ð¾ÐºÑÑÐ²Ð°ÑÑ</a></p>
+
+<p>ÐÐ¾Ð²ÐµÑ Ð¿Ð¾ÐºÑÑÐ²Ð°ÐµÑ Ð²ÐµÑÑ Ð¿Ð¾Ð».</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/remember.html">Ð¿Ð¾Ð¼Ð½Ð¸ÑÑ</a></p>
+
+<p>Ð. ÑÐ¾ÑÐ¾ÑÐ¾ Ð¿Ð¾Ð¼Ð½Ð¸Ñ Ð´Ð¾Ð¼ (Ð² ÐºÐ¾ÑÐ¾ÑÐ¾Ð¼ Ð²ÑÑÐ¾Ñ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/help.html">Ð¿Ð¾Ð¼Ð¾ÑÑ</a></p>
+
+<p>(Ð. Ð½Ðµ Ð¼Ð¾Ð³Ð»Ð° ÑÐ°Ð¼Ð° ÑÐ´ÐµÐ»Ð°ÑÑ Ð´Ð¾Ð¼Ð°ÑÐ½ÐµÐµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ). Ð. Ð¿Ð¾Ð¼Ð¾Ð³ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/understandlanguage.html">Ð¿Ð¾Ð½Ð¸Ð¼Ð°ÑÑ#ÑÐ·ÑÐº#</a></p>
+
+<p>Ð. Ð¿Ð¾Ð½Ð¸Ð¼Ð°ÐµÑ ÑÑÐ°Ð½ÑÑÐ·ÑÐºÐ¸Ð¹ ÑÐ·ÑÐº.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hittarget.html">Ð¿Ð¾Ð¿Ð°ÑÑÑ</a></p>
+
+<p>ÐÐ¾Ð»Ð½Ð¸Ñ Ð¿Ð¾Ð¿Ð°Ð»Ð° Ð² Ð´Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cut_oneself.html">Ð¿Ð¾ÑÐµÐ·Ð°ÑÑÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÑÐµÐ·Ð°Ð»ÑÑ Ð±ÑÐ¸ÑÐ²Ð¾Ð¹.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_stuck.html">Ð¿ÑÐ¸Ð»Ð¸Ð¿Ð°ÑÑ</a></p>
+
+<p>(Ð¡ÑÐ¾Ð» Ð½ÐµÐ´Ð°Ð²Ð½Ð¾ Ð¿Ð¾ÐºÑÐ°ÑÐ¸Ð»Ð¸, Ð° Ð. Ð½Ðµ Ð·Ð½Ð°Ð» ÑÑÐ¾Ð³Ð¾ Ð¸ Ð¿Ð¾ÑÑÐ°Ð²Ð¸Ð» Ð½Ð° Ð½ÐµÐ³Ð¾ ÑÑÐ°ÐºÐ°Ð½). Ð¡ÑÐ°ÐºÐ°Ð½ Ð¿ÑÐ¸Ð»Ð¸Ð¿ Ðº ÑÑÐ¾Ð»Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/losegame.html">Ð¿ÑÐ¾Ð¸Ð³ÑÐ°ÑÑ</a></p>
+
+<p>(Ð. Ð¸Ð³ÑÐ°Ð» Ñ Ð. Ð² ÑÐ°ÑÐ¼Ð°ÑÑ). Ð. Ð¿ÑÐ¾Ð¸Ð³ÑÐ°Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_glad.html">ÑÐ°Ð´Ð¾Ð²Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð. Ð¿Ð¾Ð»ÑÑÐ¸Ð» Ð¿Ð¸ÑÑÐ¼Ð¾ Ð¾Ñ Ð.). Ð. Ð¾Ð±ÑÐ°Ð´Ð¾Ð²Ð°Ð»ÑÑ Ð¿Ð¸ÑÑÐ¼Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/speak.html">ÑÐ°Ð·Ð³Ð¾Ð²Ð°ÑÐ¸Ð²Ð°ÑÑ</a></p>
+
+<p>(Ð¯ Ð¸ÑÐºÐ°Ð» Ð. ÐÐ¾Ð³Ð´Ð° Ñ Ð²Ð¾ÑÐµÐ» Ð² ÐºÐ¾Ð¼Ð½Ð°ÑÑ, Ñ ÑÐ²Ð¸Ð´ÐµÐ», ÑÑÐ¾) Ð. ÑÐ°Ð·Ð³Ð¾Ð²Ð°ÑÐ¸Ð²Ð°ÐµÑ Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/give_birth.html">ÑÐ¾Ð¶Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ¾Ð´Ð¸Ð»Ð° ÑÑÐ½Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/drop.html">ÑÐ¾Ð½ÑÑÑ</a></p>
+
+<p>Ð. ÑÑÐ¾Ð½Ð¸Ð» ÑÑÐ°ÐºÐ°Ð½.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/govern.html">ÑÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÑ</a></p>
+
+<p>Ð. ÑÑÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ Ð½Ð°ÑÐ¸Ð¼ Ð¿Ð¾ÑÐµÐ»ÐºÐ¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/miss.html">ÑÐºÑÑÐ°ÑÑ</a></p>
+
+<p>Ð. ÑÐºÑÑÐ°ÐµÑ Ð¿Ð¾ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/follow.html">ÑÐ»ÐµÐ´Ð¾Ð²Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ»ÐµÐ´ÑÐµÑ Ð·Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dismount.html">ÑÐ»ÐµÐ·Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ»ÐµÐ· Ñ Ð»Ð¾ÑÐ°Ð´Ð¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/listen.html">ÑÐ»ÑÑÐ°ÑÑ</a></p>
+
+<p>(- Ð§ÑÐ¾ Ð´ÐµÐ»Ð°ÐµÑ Ð.?) - Ð. ÑÐ»ÑÑÐ°ÐµÑ ÑÐ°Ð´Ð¸Ð¾.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/obey.html">ÑÐ»ÑÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÑÐ»Ð¸Ð³Ð°Ð½, Ð¿Ð»Ð¾ÑÐ¾ ÑÐµÐ±Ñ Ð²ÐµÐ´ÐµÑ, Ð°) Ð. ÑÐ»ÑÑÐ°ÐµÑÑÑ Ð¼Ð°Ð¼Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hear.html">ÑÐ»ÑÑÐ°ÑÑ</a></p>
+
+<p>Ð. ÑÐ»ÑÑÐ¸Ñ Ð¼ÑÐ·ÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/mix.html">ÑÐ¼ÐµÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð ÑÐ¾ÑÑÐ´ Ñ Ð¼Ð¾Ð»Ð¾ÐºÐ¾Ð¼ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ð»Ð¸ Ð¼ÐµÐ´ Ð¸ ÑÐ°Ð·Ð¼ÐµÑÐ°Ð»Ð¸). ÐÐµÐ´ ÑÐ¼ÐµÑÐ°Ð»ÑÑ Ñ Ð¼Ð¾Ð»Ð¾ÐºÐ¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/look.html">ÑÐ¼Ð¾ÑÑÐµÑÑ</a></p>
+
+<p>Ð. ÑÐ¼Ð¾ÑÑÐ¸Ñ Ð½Ð° ÑÑÑÐ¸ (Ð¾Ð½ ÑÐ¾ÑÐµÑ Ð¿Ð¾Ð½ÑÑÑ, Ð±ÑÐ´ÐµÑ Ð»Ð¸ Ð´Ð¾Ð¶Ð´Ñ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take_off.html">ÑÐ½Ð¸Ð¼Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ½ÑÐ» ÑÑÐ±Ð°ÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/dreamsleeping.html">ÑÐ½Ð¸ÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐ¿Ð¸Ñ). Ð. ÑÐ½Ð¸ÑÑÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/agree.html">ÑÐ¾Ð³Ð»Ð°ÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐºÐ°Ð·Ð°Ð»Ð° Ð., ÑÑÐ¾ Ð¸Ñ ÑÑÐ½Ñ Ð½Ð°Ð´Ð¾ Ð²ÑÑÑÐ¸ÑÑ Ð°Ð½Ð³Ð»Ð¸Ð¹ÑÐºÐ¸Ð¹ ÑÐ·ÑÐº). Ð. ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ð»ÑÑ Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_a_quarrel.html">ÑÑÐ¾ÑÐ¸ÑÑÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÑÑÐ¾ÑÐ¸Ð»ÑÑ Ñ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/cost.html">ÑÑÐ¾Ð¸ÑÑ</a></p>
+
+<p>Ð­ÑÐ° ÑÐ°ÑÐºÐ° ÑÑÐ¾Ð¸Ñ Ð¾Ð´Ð¸Ð½ Ð´Ð¾Ð»Ð»Ð°Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/shoot_at.html">ÑÑÑÐµÐ»ÑÑÑ</a></p>
+
+<p>Ð. Ð²ÑÑÑÑÐµÐ»Ð¸Ð» Ð² Ð¿ÑÐ¸ÑÑ. (ÐÐ½ Ð½Ðµ Ð¿Ð¾Ð¿Ð°Ð»).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/pour.html">ÑÑÐ¿Ð°ÑÑ</a></p>
+
+<p>Ð. Ð½Ð°ÑÑÐ¿Ð°Ð» ÑÐ°ÑÐ°Ñ (Ð² ÑÐ°ÑÐºÑ).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/lose.html">ÑÐµÑÑÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÑÐµÑÑÐ» ÐºÐ»ÑÑÐ¸.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sink.html">ÑÐ¾Ð½ÑÑÑ</a></p>
+
+<p>(Ð£ ÑÑÐ¾Ð³Ð¾ Ð´ÐµÑÐµÐ²Ð° Ð¾ÑÐµÐ½Ñ ÑÑÐ¶ÐµÐ»Ð°Ñ Ð´ÑÐµÐ²ÐµÑÐ¸Ð½Ð°. ÐÐ´Ð½Ð°Ð¶Ð´Ñ Ñ ÐºÐ¸Ð½ÑÐ» Ð¿Ð¾Ð»ÐµÐ½Ð¾ Ð² ÑÐµÑÐºÑ). ÐÐ¾Ð»ÐµÐ½Ð¾ ÑÑÐ¾Ð½ÑÐ»Ð¾ Ð² Ð²Ð¾Ð´Ðµ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/kill.html">ÑÐ±Ð¸Ð²Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ±Ð¸Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/hit.html">ÑÐ´Ð°ÑÐ¸ÑÑ</a></p>
+
+<p>Ð. ÑÐ´Ð°ÑÐ¸Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/kiss.html">ÑÐµÐ»Ð¾Ð²Ð°ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÑÐµÐ»Ð¾Ð²Ð°Ð» Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/read.html">ÑÐ¸ÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¿ÑÐ¾ÑÐ¸ÑÐ°Ð» Ð¸Ð½ÑÐµÑÐµÑÐ½ÑÑ ÐºÐ½Ð¸Ð³Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/movebodypart.html">ÑÐµÐ²ÐµÐ»Ð¸ÑÑ</a></p>
+
+<p>Ð. Ð¿Ð¾ÑÐµÐ²ÐµÐ»Ð¸Ð» Ð¿Ð°Ð»ÑÑÐµÐ¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/respect.html">ÑÐ²Ð°Ð¶Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ²Ð°Ð¶Ð°ÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_squeamish.html">Ð±ÑÐµÐ·Ð³Ð¾Ð²Ð°ÑÑ</a></p>
+
+<p>Ð. Ð±ÑÐµÐ·Ð³ÑÐµÑ Ð³ÑÑÐ·Ð½Ð¾Ð¹ Ð¿Ð¾ÑÑÐ´Ð¾Ð¹.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_content.html">Ð±ÑÑÑ Ð´Ð¾Ð²Ð¾Ð»ÑÐ½ÑÐ¼</a></p>
+
+<p>(Ð¡ÑÐ½ Ð. ÑÐ¾ÑÐ¾ÑÐ¾ ÑÑÐ¸ÑÑÑ Ð² ÑÐºÐ¾Ð»Ðµ). Ð. Ð´Ð¾Ð²Ð¾Ð»ÐµÐ½ ÑÐ²Ð¾Ð¸Ð¼ ÑÑÐ½Ð¾Ð¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/fall_in_love.html">Ð²Ð»ÑÐ±Ð»ÑÑÑÑÑ</a></p>
+
+<p>Ð. Ð²Ð»ÑÐ±Ð¸Ð»ÑÑ Ð² Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/trust.html">Ð´Ð¾Ð²ÐµÑÑÑÑ</a></p>
+
+<p>(Ð£ Ð. Ð¸ Ð. Ð´ÑÑÐ¶Ð½Ð°Ñ ÑÐµÐ¼ÑÑ, Ð. Ð½Ð¸ÐºÐ¾Ð³Ð´Ð° Ð½Ðµ Ð¾Ð±Ð¼Ð°Ð½ÑÐ²Ð°ÐµÑ Ð.) Ð. Ð´Ð¾Ð²ÐµÑÑÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/sympathise.html">Ð¶Ð°Ð»ÐµÑÑ</a></p>
+
+<p>(ÐÐ°ÑÑ Ð. Ð¾ÑÐµÐ½Ñ Ð±Ð¾Ð»ÑÐ½Ð°). Ð. Ð¶Ð°Ð»ÐµÐµÑ ÑÐ²Ð¾Ñ Ð¼Ð°ÑÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/envy.html">Ð·Ð°Ð²Ð¸Ð´Ð¾Ð²Ð°ÑÑ</a></p>
+
+<p>(Ð£ Ð. ÐµÑÑÑ Ð¼Ð°ÑÐ¸Ð½Ð°, Ð° Ñ Ð. â Ð½ÐµÑ). Ð. Ð·Ð°Ð²Ð¸Ð´ÑÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_angry.html">Ð·Ð»Ð¸ÑÑÑÑ</a></p>
+
+<p>Ð. Ð·Ð»Ð¸ÑÑÑ Ð½Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_surprised.html">ÑÐ´Ð¸Ð²Ð»ÑÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐ´ÐµÐ»Ð°Ð»Ð° Ð. Ð´Ð¾ÑÐ¾Ð³Ð¾Ð¹ Ð¿Ð¾Ð´Ð°ÑÐ¾Ðº). Ð. ÑÐ´Ð¸Ð²Ð¸Ð»ÑÑ ÑÑÐ¾Ð¼Ñ Ð¿Ð¾Ð´Ð°ÑÐºÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/lovetea.html">Ð»ÑÐ±Ð¸ÑÑ#ÑÐ°Ð¹#</a></p>
+
+<p>Ð. Ð»ÑÐ±Ð¸Ñ ÑÐ°Ð¹.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/enjoy.html">Ð½Ð°ÑÐ»Ð°Ð¶Ð´Ð°ÑÑÑÑ</a></p>
+
+<p>(ÐÐ¾ÑÐ»Ðµ ÑÐ¾Ð»Ð¾Ð´Ð½Ð¾Ð¹ Ð²Ð¾Ð´Ñ) Ð. Ð½Ð°ÑÐ»Ð°Ð¶Ð´Ð°ÐµÑÑÑ Ð³Ð¾ÑÑÑÐ¸Ð¼ ÑÐ°ÐµÐ¼.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/want.html">ÑÐ¾ÑÐµÑÑ</a></p>
+
+<p>Ð. ÑÐ¾ÑÐµÑ Ð½Ð¾Ð²ÑÐ¹ Ð¼Ð¾Ð±Ð¸Ð»ÑÐ½Ð¸Ðº.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/have_a_grudge.html">ÑÐµÑÐ´Ð¸ÑÑÑÑ</a></p>
+
+<p>(- ÐÐ¾ÑÐµÐ¼Ñ Ð. Ð½Ðµ ÑÐ°Ð·Ð³Ð¾Ð²Ð°ÑÐ¸Ð²Ð°ÐµÑ Ñ Ð.?) - Ð. ÑÐµÑÐ´Ð¸ÑÑÑ Ð½Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/take_offence.html">Ð¾Ð±Ð¸Ð¶Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð. Ð½Ð°Ð·Ð²Ð°Ð»Ð° Ð. Ð´ÑÑÐ°ÐºÐ¾Ð¼). Ð. Ð¾Ð±Ð¸Ð´ÐµÐ»ÑÑ Ð½Ð° Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/upset.html">Ð¾Ð³Ð¾ÑÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¾ÑÐµÐ½Ñ Ð¾Ð³Ð¾ÑÑÐ¸Ð» Ð. (ÐÐ½ ÑÐºÐ°Ð·Ð°Ð», ÑÑÐ¾ Ð¿Ð¾ÑÑÐ°ÑÐ¸Ð» Ð²ÑÐµ Ð´ÐµÐ½ÑÐ³Ð¸).</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/marvel.html">Ð¿Ð¾ÑÐ°Ð¶Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð. Ð¿ÑÐ¸ÐµÑÐ°Ð» Ð² ÑÑÐ¾Ð»Ð¸ÑÑ). Ð. Ð¿Ð¾ÑÐ°Ð·Ð¸Ð»ÑÑ ÑÑÐ¾Ð¼Ñ Ð³Ð¾ÑÐ¾Ð´Ñ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/despise.html">Ð¿ÑÐµÐ·Ð¸ÑÐ°ÑÑ</a></p>
+
+<p>Ð. Ð¿ÑÐµÐ·Ð¸ÑÐ°ÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_upset.html">Ð¾Ð³Ð¾ÑÑÐ°ÑÑÑÑ</a></p>
+
+<p>(Ð¡ÑÐ½ Ð. Ð¾Ð¿ÑÑÑ Ð¿Ð¾Ð»ÑÑÐ¸Ð» Ð¿Ð»Ð¾ÑÐ¸Ðµ Ð¾ÑÐµÐ½ÐºÐ¸ Ð² ÑÐºÐ¾Ð»Ðµ). Ð. Ð¾Ð³Ð¾ÑÑÐ¸Ð»ÑÑ Ð¸Ð·-Ð·Ð° ÑÐ²Ð¾ÐµÐ³Ð¾ ÑÑÐ½Ð°.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/get_irritated.html">ÑÐ°Ð·Ð´ÑÐ°Ð¶Ð°ÑÑÑÑ</a></p>
+
+<p>(Ð£ Ð. Ð¾ÑÐµÐ½Ñ ÑÐºÐ²ÐµÑÐ½ÑÐ¹ ÑÐ°ÑÐ°ÐºÑÐµÑ. Ð¡Ð¼Ð¾ÑÑÐ¸ÑÐµ, ÑÐ½Ð¾Ð²Ð°) Ð. ÑÐ°Ð·Ð´ÑÐ°Ð¶Ð°ÐµÑÑÑ Ð½Ð° ÑÐ²Ð¾Ñ Ð´Ð¾ÑÑ.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_fond.html">ÑÐ¸Ð¼Ð¿Ð°ÑÐ¸Ð·Ð¸ÑÐ¾Ð²Ð°ÑÑ</a></p>
+
+<p>Ð. ÑÐ¸Ð¼Ð¿Ð°ÑÐ¸Ð·Ð¸ÑÑÐµÑ Ð.</p></li>
+<li><p><a class="data-link" href="https://bivaltyp.info/predicates/pred/be_shy.html">ÑÑÐµÑÐ½ÑÑÑÑÑ</a></p>
+
+<p>(Ð. ÑÐ°Ð¼ÑÐ¹ Ð¼Ð°Ð»ÐµÐ½ÑÐºÐ¸Ð¹ Ð¿Ð¾ ÑÐ¾ÑÑÑ Ð² ÑÐ²Ð¾ÐµÐ¼ ÐºÐ»Ð°ÑÑÐµ). Ð. ÑÑÐµÑÐ½ÑÐµÑÑÑ ÑÐ²Ð¾ÐµÐ³Ð¾ ÑÐ¾ÑÑÐ°.</p></li>
+</ol>
+
+<script>
+function toggleRussianCitation(element) {
+    if (element.value === 'Show Russian citation') {
+        element.value = 'Hide Russian citation';
+        document.getElementById('russian-citation').style.display = 'inline-block';
+    } else {
+        element.value = 'Show Russian citation';
+        document.getElementById('russian-citation').style.display = 'none';
+    }
+}
+</script>
+
+</div>
+
+
+</body>
+</html>
+

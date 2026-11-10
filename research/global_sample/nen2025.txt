@@ -1,0 +1,1198 @@
+[PDF PAGE 1]
+21
+1
+Experiencer object 
+constructions in Nen  
+(Yam, Papuan)
+Nicholas Evans
+Introduction
+T o begin with an example of the construction that this chapter will be 
+about: Zeinende ylsmne weiweiyäm wramte: I am moved and sorry that Jane 
+is retiring.
+Since I first began reading Jane’s work in the early 1980s, then met her in 
+person from the mid-1980s, then, more recently and intensively, had the 
+privilege of having her as a treasured colleague at The Australian National 
+University (ANU) and at the ARC Centre of Excellence for the Dynamics 
+of Language (CoEDL), my respect for her combination of analytic and 
+moral clarity with inexhaustible generosity and concern for others has been 
+a constant source of inspiration.
+From early in her career, Jane has been interested in questions of verb valence 
+and of how the verbal lexicon connects up to argument structure and syntax 
+more generally, beginning with her pioneering Lexical Functional Grammar 
+(LFG) treatment of Warlpiri syntax (Simpson 1983). I would therefore like 
+to connect this tribute to that part of her interests by looking in detail at 
+another language of Sahul, but on the other side of the T orres Strait (just): 
+Nen, a Papuan language of the Yam family (Evans 2014, 2015a, b; Evans 
+et al. 2018) which has a large and interesting class of ‘experiencer object’ 
+[PDF PAGE 2]
+PROJECTING VOICES
+22
+verbs. These are verbs where the experiencer is indexed on the verb as an 
+object (predominantly in the ‘undergoer’ prefix slot of the verb and flagged 
+by the absolutive case), and the ‘stimulus’, here weiwei ‘sorrowful emotion’ is 
+encoded as an ergative NP , and indexed by the ‘actor’ suffix slot of the verb. 
+Unpacking and glossing our initial example:1
+(1) Zein-ende yls-mne weiwei-yäm w-ram-t-e
+Jane-gen go.inf-sou sorrow-erg 1sg.u:α-do-b.ipf.nd-3sg.a
+‘I am sorry that Jane is retiring.’ 
+lit. ‘Sorry of Jane’s going does me.’
+A few remarks on Nen morphosyntax will aid in the understanding of 
+examples. Nen has absolutive/ergative organisation of case-marking (in both 
+nouns and pronouns, except that the ergative vs absolutive distinction is 
+neutralised in the 1st and 2nd singular), a rich system of verbal morphology 
+that indexes ‘undergoers’ (objects or indirect objects, and the subjects of 
+static intransitives) by prefix and ‘actors’ (transitive subjects, and the subjects 
+of dynamic intransitives) by suffix. Its verbal morphology is characterised 
+by ‘distributed exponence’ (Carroll 2016), with many-to-many mappings 
+between recurring formal elements at different points of the verb, which 
+then need to be integrated before the actual inflectional values can be 
+worked out in full.
+For example, the tense of the verb wramte (‘non-prehodiernal’ – any time 
+after yesterday – earlier today, now, or in the future) is determined by 
+integrating the ‘ α’ form of the undergoer prefix with the suffix sequence 
+-t-e; to shift it to the yesterday past the prefix would shift into its β-form, 
+1  The following non-standard abbreviations are used in this chapter. | is used to separate disjunctive 
+person/number values (e.g. 2|3 ‘2nd or 3rd person’), though for ease of reading I have often chosen 
+one of several values for glossing where the existence of a disjunction is irrelevant to the argument at 
+hand. α, β, γ are form-series of prefixes, which unify with suffixes to give TAM values, but which cannot 
+themselves be assigned clear semantic values. When combining with the basic imperfective, the α-series 
+denotes time from today’s dawn onwards into the future (‘non-prehodiernal’), while the β-series is a 
+recent past (usually yesterday); the γ-series is used for remote pasts in the imperfective. As far as more 
+standard interlinear glosses: 1 first person, 2 second person, 3 third person, A actor, ABS absolutive, 
+ACC accusative, B basic, DAT dative, DEM demonstrative, DS different subject (from following verb), 
+DU dual, DUR durative, ERG ergative, FEM feminine, FUT future, GEN genitive, IMM immediate, 
+IMP imperative, INF infinitive, IPF imperfective, LOC locative, M middle, MASC masculine, MU 
+multal, ND non-dual, NEG negative, NEUT neuter, NFUT non-future, NOM nominative, NSG non-
+singular, O object, OBL oblique, P past, PF perfect, PFV perfective, NPREH non-prehodiernal, POKE 
+classifier, POSS possessive, PPF past perfective, PRES present, PRIOR prior or proceeding (the event 
+denoted by the following verb), S subject, SG singular, STAT stative, U undergoer. 
+[PDF PAGE 3]
+23
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+q,2 thus qramte ‘it did to me (yesterday)’. With a different undergoer – 
+say 3sg – the verb forms would respectively be yramte (today) and tramte 
+(yesterday). Effectively, the verb inflections form what we might call a 
+‘circumfixal paradigm’ – information from both prefixes and suffixes needs 
+to be integrated, in complex ways – though this will not be the focus of the 
+present chapter.
+Likewise, ‘distributed exponence’ characterises the way that grammatical 
+relations are encoded: information from the case system (ergative/absolutive) 
+and from the indexing system (actor/undergoer), along with knowledge of 
+the verb’s valency and Aktionsart category (static vs dynamic) needs to be 
+integrated to work out the relations of subject, object and indirect object, 
+which though they can be defined clearly do not wear their heart on their 
+sleeve.3 One final point about Nen morphosyntax: the normal phrase order 
+is Subject-Object-Verb, as in (2):
+(2) Yndbem kae ombte nu y-z-wa-m
+1nsg.erg ±1day hot water(abs) 3sg.u:α-cook-ppf:du-1nsg.a
+‘We two boiled the hot water yesterday (from scratch).’
+However, particularly when the object is higher on the Silverstein (1976) 
+hierarchy than the subject, it may precede the subject, with argument roles 
+shown by case flagging and verbal indexing:
+(3) Ynd ymam w-lm-t-e.
+1sg.abs 3sg.erg 1sg.u:α-lead-b.ipf:nd-3sg.a
+‘He is leading me.’
+Through this chapter we will take it as a prima facie  assumption that 
+examples like (1) assign the stimulus to subject role (marking it ergative, 
+and indexing it by the actor suffix on the verb) and the experiencer to the 
+object role (marking it absolutive, and indexing it by the undergoer prefix 
+on the verb). Phrase order here is non-canonical for a transitive clause, in 
+that the subject is not initial, but this lies within the range of permissible 
+orders for transitive clauses, given the operation of person/number factors 
+2  See Evans and Miller (2016) on Nen phonology and orthography. <q> represents a coarticulated 
+/kp/, < ḡ> its voiced equivalent, and <ng> a prenasalised voiced velar stop / ŋg/. In the vowel space, 
+<ä> is a high front vowel, and é is a slightly retracted short vowel (close to the vowel in English bit). 
+The trickiest orthographic issue is that it does not show epenthetic vowels: the word wlmte ‘he leads me’ 
+in (3), for example, is [wələmte].
+3  See Evans (2015a,b) for details of Nen inflection and valence respectively.
+[PDF PAGE 4]
+PROJECTING VOICES
+24
+on the ordering of arguments, illustrated in (3). Later in this chapter, 
+we return to further discussion of what evidence can be brought to bear 
+on the grammatical relations of such constructions, but our main focus 
+in this chapter is to set the Nen constructions in typological perspective, 
+with regard to other ways of encoding experiencers (in the next section), 
+and to explore some interesting subtypes of the Nen construction (in the 
+following section). After this, we examine the semantic domain they encode. 
+We conclude by raising their relevance to a more general linguistic question: 
+the purported asymmetry of noun-verb idioms, according to which 
+(e.g. Marantz 1984) verbs may form idioms with their objects, but not with 
+their (transitive) subjects, a feature argued for both verb-object idioms and 
+for noun incorporation (e.g. by Baker 1988) to reflect universal properties 
+of syntactic structure (namely the definition of objects as direct sisters of 
+verbs in underlying phrase structure) but for which a characteristically 
+perceptive review by Simpson (1989) suggested the reader should look 
+to the footnotes for the crucial data. Experiencer object constructions in 
+Nen, I will conclude, offer a solid example of idiom formation where the 
+idiomatised noun is in transitive subject, rather than object, function.
+What are experiencer object constructions?
+I will define experiencer object constructions as those in which a semantic 
+experiencer (e.g. of sensation or emotion) is encoded as an object (O) in 
+argument structure. Typically, there is also a ‘stimulus’ NP , exhibiting, 
+to varying degrees, the characteristics of a transitive subject (A):
+(4) NPO: experiencer NPA: stimulus Vtr: sensative/emotion
+Experiencer object constructions are widespread in Sahul (the combined 
+ancient continent of Australia and New Guinea, which were joined during 
+80 per cent of the time since humans arrived here), though also attested 
+elsewhere in the world, such as in Chadic languages (Frajzyngier 2018). 
+In  Australia, they have been most widely reported among non-Pama-
+Nyungan languages, such as Murrinhpatha (Walsh 1987, who calls them 
+‘impersonal verbs’), Iwaidja (Evans 2004) and, within Pama-Nyungan, 
+among the Lama-Lamic languages. Among Papuan languages, they have 
+been reported in such languages as Kalam (Pawley et al. 2000), Idi (Lindsey, 
+Schokkin & Wu 2022) and Yagaria (Windschuttel 2012). I give examples 
+of some of these later in the chapter, but first discuss their cross-linguistic 
+counterparts, which employ a range of constructional strategies.
+[PDF PAGE 5]
+25
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+In many parts of Eurasia, for example, ‘dative subject’ constructions are 
+employed, as in Russian (5), where the sensation is a neuter adjective 
+(or adverb, identical in form to neuter adjectives), and Tamil (6), where the 
+accusative is used for the body part sourcing the sensation, and the verb an 
+impersonal third singular neuter agreement.
+(5) Mne xolodno / skuchno
+1sg.dat cold / boring 
+‘I am cold / bored.’ (Russian) 
+(6) Kumaar-ukku.t talaiy-ai vali-kkir-atu
+Kumar-dat head-acc pain-pres-3sg.neut
+‘Kumar has a headache.’ (Tamil; Lehmann 1993, 185)
+In other languages, such as English (7) or the Australian language Kayardild 
+(8) (Tangkic; non-Pama-Nyungan), adjectival predicates with intransitive 
+experiencer subjects are used.
+(7) I am cold / hungry.
+(8) Ngada rika-a / bardakawarri
+1sg.nom cold-nom / hungry (nom).4
+‘I am cold / hungry.’ (Kayardild)
+Let us now back up and look in a bit more about how experiencer object 
+constructions work on both the Australian and Papuan sides of Sahul.
+First, consider the Australian language Ilgar, closely related to Iwaidja and 
+Mawng as members of the Iwaidjan family (Evans 2000; see also Singer 
+2016, 130–36 for a discussion of the rich Mawng system, and Verstraete 
+2011 on comparable constructions in Umpithamu). Ilgar indexes subjects 
+and objects by verbal agreement (person, number and 2-way gender contrast 
+between masculine and feminine), has generally free word order, but lacks 
+case-marking. In all of its experiencer object constructions, the experiencer 
+is indexed in the object slot, the subject is fixed at 3sg masculine, and 
+the ‘stimulus’ directly follows the verb. However, there are differences in 
+whether the stimulus element independently occurs as a synchronic noun 
+(which is the case for wurwiɲ ‘shame’ in (9)), has been frozen as a ‘frozen 
+etymological noun’ not otherwise attested outside the construction (which 
+4  bardaka-warri is, etymologically, the privative form of bardaka ‘stomach’, thus ‘without stomach’. 
+[PDF PAGE 6]
+PROJECTING VOICES
+26
+is the case for ŋuk in (10)),5 or does not have any stimulus noun at all, as in 
+(11), where the experiencer is the object, there is a 3sg masculine transitive 
+subject, but no nominal is possible.
+(9) ŋanimiɲ wurwiɲ
+ŋan-ni-mi-ɲ wurwiɲ
+1sg.o-3sg.masc.s-do-ppf shame
+‘I got ashamed.’ (lit. ‘Shame did me.’) – (Ilgar) 
+Subcategorised nominal subject (wurwiɲ occurs outside this construction)
+(10) ŋanimiɲ ŋuk
+ŋan-ni-mi-ɲ ŋuk
+1sg.o-3sg.masc.s-do-ppf ?
+‘I’m full.’ (Ilgar)
+(11) ŋani-ŋaʈpanpu-n 
+ŋan-ni-ŋaʈpanpu-n
+1sg.o-3sg.masc.s-give.headache-pres
+‘I have a headache.’ (no nominal possible with this meaning) (Ilgar)
+Similar ranges of variability, with respect to nominal inclusion, are found 
+in Murrinhpatha (Walsh 1987, who calls these ‘impersonal verbs’), with the 
+twist that in at least some of these constructions the noun is overtly inflected 
+with the ergative. Thus in (12), 6 the ergative inanimate subject can be 
+omitted, though the meaning remains; here we could almost analyse this as 
+a straightforward transitive construction with an omissible but semantically 
+fixed subject. In (13), by contrast, there would normally be no NP , but it 
+would be possible to insert ṱuŋku ‘fire’ to mean ‘The fire makes my back 
+feel hot.’ Finally, in (14), no overt subject nominal is possible, though the 
+experiencer is, again, indexed in the object slot.
+5  E.g. Jawoyn ŋan-ŋuk ‘guts, excrement’, Ngandi ŋuk ‘guts, bowels, excrement’. 
+6  These three examples employ different ‘verbal classifier’ prefixes, not glossed as different in Walsh’s 
+original paper. I have altered the glosses slightly to reflect the currently accepted analysis in terms of 
+verbal classifier prefixes – my thanks to Rachel Nordlinger for explaining these intricacies to me and 
+proposing these glosses. 
+[PDF PAGE 7]
+27
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+(12) (laliŋkin-te) dam-ŋi-wiṋimaɖapaɭ
+sea/tide-erg 3sg.s.poke.nfut-1o-oppose
+‘I went against the tide; the sea opposed me.’ (Murrinhpatha)
+(13) dem-ŋi-dari-lerkperk
+3sg.s.poke:rr.nfut-1o-back-heat
+‘My back feels hot; something heats my back.’ (Murrinhpatha)
+(14) pa-ŋi-ɭuŋ-nu
+3sg.s.poke.fut-1o-cause.to.shiver-fut
+‘I will shiver.’ (Murrinhpatha)
+Passing to Papuan languages, experiencer object constructions have been 
+reported for a number of languages – in the T rans-New Guinea family, for 
+Kalam (Pawley et al. 2000) and for a rather different system, for Yagaria 
+(Windschuttel 2012), and in the Sepik, for the isolate Tayap (Kulick and 
+T errill 2019, 114). The Tayap construction is rather similar to the Nen 
+structure we will be examining: the experiencer is in the absolutive, the 
+stimulus is in the ergative but comes after the experiencer in defiance of 
+the normal SOV word order, and the verb indexes both the experiencer 
+(as object) and the stimulus (as transitive subject):
+(15) ŋa kandaw=i ni-tin
+1sg illness=erg.fem do-3sg.fem.s>1sg.o 
+‘I’m sick’ (lit. ‘illness is affecting me’) 
+Whereas Tayap has ergative flagging, like Nen and Murrinhpatha, Kalam 
+is a nominative/accusative language. This means that any free noun or 
+pronoun representing the experiencer is in the accusative, and the stimulus 
+is in the nominative; consistently with its subject status, the stimulus noun 
+governs subject agreement (16).
+(16) yp sb yow-p
+1sg.acc excrement fall-pf.3sg
+‘I need to defecate/I feel like defecating.’ (Pawley et al. 2000, 168)
+Additional evidence that the stimulus is in fact the subject in these Kalam 
+constructions comes from the switch-reference system: the switch-reference 
+system employs switch-reference forms if the stimulus passes from object to 
+[PDF PAGE 8]
+PROJECTING VOICES
+28
+(stimulus) subject (17, where the stimulus is [implicitly] the [taste of] the 
+food), or, as in (18), if the experiencer passes from (experiencer) object to 
+(intransitive) subject:
+(17) ñb-e-n yp tep g-p
+eat-ds.prior-1sg 1sg.acc good act-pf.3sg 
+‘It tastes good.’ (Kalam; Pawley et al. 2000, 172)
+(18) toytk nup mñak g-e-k
+yesterday 3sg.acc sick do-ds.prior-p.3sg 
+kum md-e-k
+indisposed stay-dur.3sg-p
+‘Yesterday sickness affected him and he wasn’t able to do anything.’
+(Kalam; Pawley et al. 2000, 173)
+Thus, experiencer object constructions are just one of many constructional 
+means for encoding the scenario where a human emotion, sensation or 
+physical state is caused by some external or internal stimulus. While we lack 
+the space here to go into a global survey of constructional preferences for 
+dealing with this scenario, it does seem to be the case that the experiencer 
+object construction is something of a Sahul specialty: see also Merlan and 
+Rumsey (1991, 337–34) and Rumsey (2002) for a further parallel in the 
+T rans-New Guinea language Ku Waru. As always in typology, however, it 
+is vital to pass from essentialised, handpicked examples to more detailed 
+descriptions of the phenomenon, and in the next two sections, we examine 
+in detail how this construction, and its congeners, work in Nen.
+Nen experiencer object constructions in the 
+context of other argument structure types
+We already saw one example of Nen experiencer object constructions 
+in (1); (19)–(21) give three more, expressing the physical states of thirst 
+(19, literally ‘thirst does the dog’ for ‘the dog is thirsty’), hunger (20, lit. 
+‘hunger did me’ for ‘I was hungry’) and sexual arousal / randiness (21, lit. 
+‘lust seizes the horse’). In each case the stimulus noun appears in the 
+ergative, after the ‘experiencer’ noun in the absolutive; the stimulus is 
+indexed as transitive subject (3rd singular) and the experiencer as object. 
+The verb is räms ‘to do, make’ with ‘hunger’ and ‘thirst’, as with the vast 
+[PDF PAGE 9]
+29
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+majority of experiencer object constructions, but other verbs do occur, such 
+as wñäms ‘seize’ in (21). In referring to experiencer object constructions, 
+here and in the Nen dictionary (Evans 2019a), I write them as a sequence 
+of stimulus noun, in the ergative, then the infinitive of the verb, e.g. akäm 
+räms ‘be thirsty’ or waläm wñäms ‘be sexually aroused’.
+(19) zän ak-äm y-ram-t-e
+dog(abs) thirst-erg 3sg.u:α-do-b.ipf:nd-3sg.a 
+‘The dog is thirsty.’
+(20) ynd kae gers-äm q-ram-t-e,
+1abs ±1day hunger-erg 1sg.u:β-do-b.ipf:nd-3sg.a
+totr nne tba y-ne-ta-n.
+today food(abs) just.now 3sg.u:α-eat-b.ipf:nd-1sg.a
+‘I was hungry yesterday, but today I’ve eaten.’
+(21) hos wal-ӓm geӓ d-ñӓm-ga, 
+horse lust-erg if 3sg.u:γ-seize-b.ipf:nd-3sg.fut.pfv
+wal-ӓm yande ker dowako-ӓm bӓ
+lust-erg 3sg.poss penis erection-erg fut
+d-ñӓm-ga.
+3sg.u:γ-seize-b.ipf:nd-3sg.fut.pfv
+‘When a horse feels randy, it gets an erection.’
+For all intents and purposes, these are standard transitive constructions, with 
+the peculiarity that their transitive subject is fixed apart from their ordering 
+of O A V , instead of the normal A O V , but this deviation is found in other 
+cases where the transitive subject is lower than the object on the Silverstein 
+hierarchy. Before going on, let’s briefly survey the main argument structure 
+types found in Nen. Standard transitive constructions have already been 
+exemplified, with their two orders AOV (2) and OAV (3). Looking now 
+at monovalent constructions, Nen exhibits a consistent split between two 
+types of verb, those indexing their sole argument with the undergoer prefix 
+(otherwise associated with objects), and those which employ the actor suffix 
+(otherwise associated with transitive subjects), filling in the undergoer slot 
+with a ‘middle’ prefix, which is invariant for person/number,7 though like all 
+7  Well, almost. See Evans (2019b) for a complicated exception.
+[PDF PAGE 10]
+PROJECTING VOICES
+30
+prefixes in this slot it participates in the three-way opposition which feeds 
+into TAM categories. The first category, which I will call ‘prefixing verbs’, 
+is primarily associated with the verb ‘be’ plus around 45 ‘positionals’ (Evans 
+2014) like ‘be immersed’ (22) or ‘be in a tree fork’. The second category, 
+which I will call ‘middle verbs’, is found with dynamic predicates (whether 
+they are volitionally controlled or not), and forms the most populous part 
+of the Nen verb lexicon; owabs ‘to talk’ in (23) is an example.
+(22) wagib nu-wan y-éser-ngr
+fish(abs) water-loc 3sg.u:α-be.immersed-npreh.ipf:nd:stat
+‘The fish is in the water.’
+(23) bä / togetoge n-owab-t-at
+3abs/ children(abs) m:α-talk-b.ipf:nd-3sg.a
+‘They/the children (>2) are talking.’
+T wo other less common argument structure types will also be mentioned 
+here:
+a. semi-transitive verbs, which, like transitives, index their two arguments 
+on the verb by the undergoer prefix and actor suffix, but unlike 
+transitives, assign the oblique case to their second argument, as with 
+‘help’ in (24);
+b. ditransitive verbs, like ‘give’, which have three arguments: a subject in 
+the ergative, an object (theme) in the accusative, and an indirect object 
+in the oblique; the verb agrees with its subject (actor suffix) and its 
+indirect object (undergoer prefix) but not with its object (25).
+(24) buder, ta q-ete-na!
+friend 1sg.obl 1sgU:α-help-ipf:nd-2sg.a.ipf.imp
+‘Friend, help me!’ 
+(25) ymam wagib ta w-arama-nd-a.
+3sg.erg fish(abs) 1sg.obl 1sg.u:α-give-ppf:nd-3sg.a
+‘She gave me a fish.’
+Common to both of these is that the undergoer prefix indexes the indirect 
+object, rather than the direct object, with the indirect object in the oblique 
+case in both types. As argued in Evans (2015b), grammatical relations 
+in Nen are encoded by the same mechanism of distributed exponence as 
+[PDF PAGE 11]
+31
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+other categories (number, TAM etc.), integrating information from various 
+morphological positions on the verb, as well as from the case chosen to 
+flag their arguments. Indirect objects, then, are defined as arguments 
+which are indexed by the undergoer prefix, but flagged by the oblique case, 
+whereas direct objects are defined as arguments which are indexed by the 
+undergoer prefix, are flagged by the absolutive case, and which occur in 
+clauses with a further argument indexed by the actor suffix and flagged by 
+the ergative case.
+Armed with this distinction, from more standard clause types, we can see 
+that the ‘experiencer objects’ in (1) and in (19)–(21) are indeed objects 
+rather than indirect objects, because they take the absolutive case. This 
+distinguishes them from dative-experiencer constructions in Russian, Tamil 
+and many other languages.
+Before going on to a more detailed consideration of the semantics of 
+experiencer object constructions, I briefly treat two less canonical types.
+One type is exemplified by (26), which regularly lacks any overt subject NP; 
+the ergative stimulus NP enzne-wäm [disease-erg] could be inserted, but is 
+normally omitted. Such ‘elided-stimulus experiencer objects’, comparable 
+to the Murrinhpatha example given in (14), are perhaps favoured by the 
+absence of any other experiencer object constructions using the same verb, 
+making the stimulus argument more predictable and hence recoverable.
+(26) sombes är e-zang̅ -ø-ng.
+two man.abs 3nsg.u:α-kill-b.ipf:du-2|3sg.a>du.o
+‘T wo men are dying.’
+The other type is exemplified by (27). Here, there are two overt arguments, 
+both as case-marked NPs and in the system of verbal indexing, the experiencer 
+is indexed on the verb, and the actor is indexed by a third singular suffix 
+on the verb: all normal properties of experiencer object constructions. But, 
+exceptionally, the stimulus noun (‘head’) is in the absolutive rather than the 
+ergative.
+(27) ynd mrkp w-kr-n-e
+1abs head.abs 1sg.u:α-crack-b.ipf:nd-3sg.a
+‘I have a splitting headache.’
+[PDF PAGE 12]
+PROJECTING VOICES
+32
+While this latter construction could perhaps be analysed as an ‘external 
+possession’ construction, this is not a general strategy in Nen; moreover, it 
+has a few parallel exemplars with other verbs where the external possession 
+construction analysis wouldn’t be appropriate. For example, the verbs ‘forget’ 
+(28) and ‘leave (a relationship)’ each take two absolutive arguments, with 
+the undergoer prefix indexing the person from whose mind the memory 
+has slipped. We currently have no explanation, however, for why it should 
+be this particular predicate which takes an absolutive/absolutive case frame.
+(28) bä ya-nde ws y-aorer-nd-a.
+3abs 3sg-poss bottle(abs) 3sg.u:α-forget|escape-ppf:nd-3sg.a
+‘He forgot his water bottle.’ (‘I forgot’, lit. ‘it escaped me’, would change 
+the undergoer prefix to 1sg w-, so waorernda).
+The semantics of experiencer object idioms 
+in Nen
+Experiencer object constructions form a substantial part of the Nen lexicon. 
+In the Leipzig Valency Database sample, experiencer objects comprise 7/87 
+predicates (Evans 2015b), and the provisional Nen dictionary (far from 
+complete) in Evans (2019a), which has around 3,700 senses, contains 
+44 canonical examples as well as the less standard ones discussed in (26) and 
+(27). In Table 1.1 in the Appendix, I give a close-to-comprehensive listing 
+of the experiencer object idioms we have so far. Note that there is an issue 
+of how best to characterise the meaning of the verbs – do we use their most 
+natural English translation (e.g. ‘feel itchy’) or do we use a translation that 
+captures the literal argument projection (e.g. ‘itchiness does me’). Here I use 
+the first strategy in the first column and the second strategy in the right 
+column, using a first singular object but bearing in mind that any person/
+number combination would be acceptable.
+Looking at the phrases in this list, the following question arises: are these 
+transitive-subject + verb idioms, or regular transitive constructions which 
+happen to have inanimate subjects? In other words, is there a principled 
+way of drawing the line between experiencer object constructions and 
+straightforward transitive constructions which happen to have an inanimate 
+subject and an animate object, such as (29):
+[PDF PAGE 13]
+33
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+(29) ynd nu bdr-äm w-parn-d-e 
+1abs water wetness-erg 1sg.u:α-leak-b.ipf.nd-3sg.a 
+‘The water made me wet.’ (lit. ‘the wetness leaked onto me’) (< parngs 
+‘leak onto, make wet’)
+As is usual when discussing the boundaries of idiom formation (cf. Nunberg, 
+Sag and Wasow 1994; O’Grady 1998), a number of criteria can be invoked.
+T wo factors suggest that at least some Nen experiencer object constructions 
+are more compositional than fixed:
+a. For some at least, the stimulus nominal can be expanded into a more 
+elaborate expression.8 For example, ‘hunger’ can be modified by the 
+name of the object hungered for, e.g. Yna toge geym modowa gersäm 
+yramte for ‘that child is hungry for bandicoot’ contains modowa 
+gers ‘bandicoot hunger’ in the ergative. Likewise, krbr ‘cold’ can be 
+modified by kitong ‘large’, as in mleg toge krbr kitongäm yramte ‘the girl 
+got really cold, really froze’. An even more expanded stimulus example, 
+this time with a postposed infinitivised clause, is ynd totr zér ḡénäm 
+engs awasengsn wñämda ‘I am totally fed up with waiting and waiting’, 
+where the (complex) stimulus NP is zérḡén-äm eng-s awasengs-n 
+[exasperation-erg wait.for.too.long-inf wait-inf-loc].
+b. For many of the expressions, each component can occur independently 
+elsewhere, with comparable meaning. For example, the element ak 
+‘thirst’ in akäm räms ‘to be thirsty’ can occur as the head of the NP 
+tande ak ‘my thirst’ in (30):
+(30) tande ak kitong n-ämte-t-e
+1sg.poss thirst(abs) big m:α-become-b.ipf.nd-3sg.a 
+‘My thirst is becoming really big; I’m getting really thirsty.’
+On the other hand, there are others that exhibit one or another form of 
+idiomatisation:
+i. The stimulus N may not be found outside the construction. For 
+example, the first word of the construction kmbrämäm räms  ‘be 
+hungry for meat’ looks like the ergative of a hypothetical noun kmbräm 
+8  See Döhler (2018: 299–300) for comparable examples of the head noun being modified in 
+another Yam language, Komnzo, e.g. [people killing desire]-erg it.finishes.him ‘the bloodlust for people 
+overcomes him’.
+[PDF PAGE 14]
+PROJECTING VOICES
+34
+‘hunger for meat’, but has not been attested outside this particular 
+construction, though it does combine with nouns denoting the type of 
+meat, e.g. awia kmbrämäm wramte ‘I’m hungry for cassowary meat’ or 
+modowa kmbrämäm yramte ‘he’s hungry for bandicoot meat’. A variant 
+of this is when the root occurs most commonly in the experiencer 
+object construction, but occasionally turns up elsewhere. Earlier in my 
+analysis of Nen I had recorded the construction bdräm räms ‘get wet’, 
+suggesting an as-yet unattested noun root √ bdr ‘wetness’, inflected 
+with the ergative suffix -äm. Only some years later did I record an 
+example of bdr outside this construction, with the meaning ‘moisture’, 
+e.g. kelän bdr! ‘wipe the moisture!’
+ii. Likewise, the V may not be found outside the experiencer object 
+construction, e.g. pams in nuwäm pams  ‘rain on’. In this case, there 
+exists a related middle form,9 apams, meaning to ‘fall (of rain)’, but the 
+transitive form pams is not otherwise attested.
+iii. The choice of verb is not always predictable – for example, it is not 
+clear why the more specific verbs wñäms ‘seize’ and tnengs ‘shake off 
+dust’ occur in some combinations but not others. So the fact that 
+not all ‘stimulus’ Ns allow all relevant Vs suggests some degree of 
+idiomatisation.
+iv. One of the component words may undergo some semantic modification 
+in the collocation. For example, the verb tnengs normally means ‘shake 
+off dust’, most commonly in the context of discussing tawny frogmouth 
+birds, said to shake off dust from their feathers as they fly. But in 
+the experiencer object expression gersäm tnengs  ‘be really ravenous’ 
+(gers-äm [hunger-erg]), its literal meaning has been subordinated to 
+the phrasal sense of the whole body being shaken up by hunger.
+Beyond these occasional questions of idiomatisation, what is striking about 
+Nen is how regularly these experiencer object constructions are composed. 
+There is a reasonably productive template allowing stimulus nouns, inflected 
+for the ergative, to combine with transitive verbs – most commonly räms 
+‘do’ (20 examples) or wñäms ‘seize’ (five examples) – to form expressions 
+meaning ‘[stimulus:erg]subj act upon [experiencer:abs]obj. More expressions 
+of this type are likely to crop up as our documentation of Nen advances: 
+after just nine months’ cumulative fieldwork we still just have a fraction 
+9  Nen regularly uses ‘diathetic’ prefixes to change valency, adding vowels to the stem to reduce 
+valency (e.g. to derive middles, reflexives, reciprocals and decausatives) and the consonant w- to vowel-
+initial stems to increase valency (e.g. causatives, benefactives). See Evans (2015b). 
+[PDF PAGE 15]
+35
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+of its lexicographic riches recorded, and we are only a short way down 
+the long path that is needed to produce a dictionary of the order of the 
+Warlpiri dictionary that took Jane and her many Warlpirist colleagues over 
+six decades to complete (Laughren et al. 2022).
+A closer look at the syntax of experiencer 
+object constructions
+So far we have been assuming that the grammatical relations in these 
+constructions array a stimulus NP , in (transitive) subject relation, and an 
+‘experiencer’ NP , in object relation. As discussed already, this prima facie 
+analysis is supported both by the case-marking (flagging) – an ergative 
+stimulus NP and an absolutive experiencer, aligning with and indexed by 
+an undergoer prefix and an actor suffix, as befits transitive subjects and 
+objects respectively. The only fly in the ointment, namely the word order 
+– the fact that the experiencer object is placed before the stimulus NP , 
+against the commonest SOV constituent order – is disposed of by appealing 
+to a second general principle shaping constituent order, namely that the 
+order of constituents reflects the Silverstein hierarchy, so that experiencers 
+(usually humans, sometimes animals) precede the stimulus NP . There is a 
+subtle difference – in that, at least on the basis of our data so far, the OSV 
+order for experiencer objects appears to be fixed rather than optional as 
+it is for other transitive constructions with animate objects and inanimate 
+subjects, but without a larger corpus it would be premature to pin too much 
+on what could simply be an artefact of small sample size for the relevant 
+constructions.
+Here I briefly examine four pieces of further evidence regarding the syntactic 
+status of experiencer-stimulus constructions: evidence from the ‘multal’ 
+object prefix, evidence from perception complements, evidence from the 
+transfer of argument-indexing to finite ‘phasal verbs’ in phasal complements, 
+and behaviour in future imperatives. The first two align directly with the 
+prima facie analysis; the third is intriguingly neutral. The fourth may at first 
+glance seem to present a departure: the experiencer object can be the person 
+to whom the imperative is directed, a property typically associated with 
+subjects, but closer examination of this particular type of imperative reveals 
+that here, too, though the situation is less clearcut it is still compatible with 
+the syntactic analysis we have been advancing so far.
+[PDF PAGE 16]
+PROJECTING VOICES
+36
+a. Nen possesses a ‘multal’ prefix, ng- (etymologically derived from 
+the ‘away’ prefix), which in combination with a singular value of the 
+undergoer prefix tracks large number in grammatical objects (Evans 
+2017). When employed with experiencer object constructions, the 
+multal prefix tracks plurality of experiencer objects, as expected:
+(31) yna terber är gernger-äm y-ng-ram-t-e.10
+dem many person shiver-erg 3sg.u:α-mu-do-b.ipf.nd-3sg.a 
+‘Lots of people are shivering.’
+b. Whereas subjects of perception complements are available to be the 
+pivots in a special infinitivised construction, this option is unavailable 
+to objects. This is shown with standard verbs in the complement 
+clause: In such complements, the subjects (whether intransitive as in 
+(32) or transitive as in (33)) are omitted from the complement clause, 
+which employs an infinitive inflected for the locative case.
+(32) yndbem togetoge erne-s-n wrng-n
+1nsg.erg children(abs) hide-inf-loc forest-loc
+i-winḡ-nd-m.
+3nsg.u-find- ppf.nd-1nsg.a
+‘We found the children hiding in the forest.’
+(33) modowa zän-äm y-ze-n-e.
+bandicoot(abs) dog-erg 3sg.u:α-bite-b.ipf.nd-3sg.a 
+yndbem y-aka-ta-m tbende skop-ngama
+1nsg.erg 3sg.u:α-see-b.ipf.nd-1nsg.a our eye-abl
+zer-s-n
+bite-inf-loc
+‘The dog bit the bandicoot, we saw it biting it with our own eyes.’
+So what happens to experiencer object constructions here? T o the extent 
+that the experiencer has any subject properties, we should expect it to be 
+available as a pivot in such complements, whereas if it behaves like an 
+ordinary object this option should not be available. And in fact we find that 
+it cannot serve as pivot in this construction: (34) is unacceptable and needs, 
+instead, to be expressed as a combination of two finite clauses (35).
+10  An alternative here would be to use the plural object form, yärämte, without the multal prefix. 
+The combination of the multal prefix with the third singular undergoer prefix suggests a larger group of 
+objects than the plural object form.
+[PDF PAGE 17]
+37
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+(34) *ynd bä ø-inḡ-nd-n gernger-äm räm-s-n
+1sg.erg 3abs 3sg.u:α-see-ppf.nd-1sg.a shiver-erg do-inf-loc
+‘I saw him shivering.’ (intended meaning) 
+(35) ynd bä ø-inḡ-nd-n gernger-äm aba
+1sg.erg 3abs 3sg.u:α-see-ppf.nd-1sg.A shiver-erg imm.p 
+y-ram-t-e
+3sg.u:α-do-b.ipf.nd-1sg.a
+‘I saw him shivering.’ 
+c. Nen possesses a set of ‘phasal verbs’ with meanings like ‘begin to’, 
+‘finish’, ‘stop’ and so forth. To express meanings like ‘begin to rain’, 
+‘finish cultivating the garden’ and so forth, the phasal verb is combined 
+with an infinitive of the lexical verb (‘rain’, ‘cultivate’ etc.), which bears 
+an appropriate case inflection (allative after ‘begin to’, ablative after 
+‘finish’ and so forth). All inflectional affixes are realised on the phasal 
+verb: subject, object (if the lexical verb is transitive), TAM, and any 
+directionals that may be present (n- ‘towards’, ng- ‘away from’); in order 
+to create the correct form to host them, applicative prefixes are used to 
+adjust the valency of the phasal verb – cf. opaps ‘begin (intransitive)’, 
+wapaps ‘begin (transitive)’, with transitivising prefix wa- replacing the 
+base (middle) prefix o-. This is illustrated, for the phasal ‘to begin’, 
+with the intransitive verb nne ‘to eat’ in (36) and the transitive verb lsas 
+‘to warm (something)’ in (37).
+(36) ynd nne-t n-opap-nd-n
+1sg.abs eat(inf)-al m:α-begin-ppf.nd-1sg.a
+‘I’m beginning to eat.’ 
+(37) ynd lsa-s-t y-a-pap-nd-n
+1sg.erg warm-inf-al 3sg.u:α-tr-begin-ppf.nd-1sg.a
+‘I’m beginning to warm it.’ 
+Now, what happens with experiencer objects in such constructions? What 
+we find is that the stimulus gets indexed by the agent prefix on a phasal verb, 
+exactly as other subjects do – this is illustrated with the verb gersäm räms 
+‘to get hungry’ in (38), and the verb waorers ‘to forget’ in (39). Here, then, 
+as well, the stimulus NP appears to behave exactly like any other subject, 
+[PDF PAGE 18]
+PROJECTING VOICES
+38
+although the fact that the experiencer also gets cross-referenced means that 
+it is not out of the game if one wanted to push for an exceptional indexing 
+of the subject by the undergoer prefix in this case.
+(38) ynd gers-äm räm-s-t w-a-pap-nd-a
+1sg.abs hunger-erg do-inf-al `1sg.u:α-tr-begin-ppf.nd-3sg.a
+‘I’m beginning to get hungry.’11
+(39) ynd korkorp korkorp ge ḡnzron, 
+1sg.abs small small subor be: 1sg.u.p.ipf.rem
+zi gbres waorer-s gte äte
+language(abs) all forget-inf dem already
+w-a-pam-we
+1sg.u:α-tr- begin-pret.nd3sg.a
+‘When I was a little girl, I already began to forget (the Nen) language.’
+d. Future imperatives are an interesting case which may at first glance 
+appear to associate some subject properties to the experiencer: the 
+experiencer can be the subject of future imperatives under situations 
+in which the experiencer is the addressee. An example is (40):
+(40) yao berber-äm n-ang-ram-t-a-ø!
+neg fear-erg 2sg.u:α-fut.imp-do-b.ipf.nd-ipf.imp-2|3sg.a
+‘Don’t be afraid!’ 
+One analysis of these would be to say that here the subject-like property 
+of being the addressee asked to bring about a command is associated with 
+the experiencer argument. That line of attack would work fine with direct 
+imperatives, which are restricted to second person subjects. However, these 
+‘future imperatives’ have a number of unusual properties. Semantically, 
+they impute a wish that the action be carried out sometime later, or that 
+a state come into effect sometime later. Unlike direct imperatives, which 
+require that the designated eventuality be dynamic (so that execution can 
+begin immediately), future imperatives allow the designated eventuality 
+to be stative, e.g. copula-plus-adjective combinations or positionals, since 
+the stipulation is that the eventuality be in place at a later point, rather 
+than necessarily being brought about now. More tellingly, whereas direct 
+11  Jimmy Nébni, pers. comm. to author, 26 August 2023, while waiting for lunch.
+[PDF PAGE 19]
+39
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+imperatives are restricted to second person subjects, future imperatives allow 
+subjects of any person: with second person subjects they have the obvious 
+command reading, albeit displaced in time; with first person subjects they 
+are a sort of self-command (‘I should do X, I must do X’); and with third 
+person subjects they are like a jussive (‘Let Subj do X’). We can thus return 
+to constructions like (36) and treat them as jussives with a meaning along 
+the lines of ‘Let it be the case, later, that fear does not “do” you!’. This 
+analysis has the advantage of aligning completely with both the flagging 
+(‘fear’ remains in the ergative) and the indexing (the object is second 
+person singular, and the (transitive) subject, though formally compatible 
+with either second or third person, is more simply treated as third person, 
+indexing berber ‘fear’).
+Summarising this section, we have sought to tighten up our syntactic 
+analysis of experiencer object constructions by examining four further 
+types of evidence. The scope of ‘multal’ prefixes, which emphasise the large 
+number of objects in experiencer object constructions, just like in regular 
+transitives, is simply compatible with our prima facie analysis. Likewise, the 
+unavailability of experiencer objects as pivots in perception complements is 
+parallel to what is found with other types of objects in the subordinate clause 
+of perception complements, and their behaviour with phasal complements 
+parallels that found with other transitive verbs. Finally, while the possibility 
+of forming future imperatives where the addressee is the experiencer may 
+at first blush run against the analysis advanced elsewhere in this chapter, 
+a fuller consideration of the semantics and syntax of future imperatives in 
+Nen shows that we can analyse these as a type of jussive expressing the desire 
+that a state be brought about, a construction independently attested in Nen 
+with third person subjects.
+The analysis, which we proposed heuristically at the start of this chapter, 
+according to which the stimulus is a (transitive) subject and the experiencer 
+an object, thus survives the additional syntactic data brought to bear in 
+this section.12
+12  In this sense the Nen data does not require us to retreat to the more ‘Bickelian’ approach to 
+grammatical relations (Bickel 2010), in which different constructions trace different networks of 
+grammatical relations – an approach applied to experiencer object constructions in the Australian 
+language Mawng by Singer (2016) to account for the disconnect between the morphosyntax of 
+agreement (more or less like Nen, but adding in a rich gender system) and the syntax of interclausal 
+control, where the (Mawng) experiencer object exhibits subject properties.
+[PDF PAGE 20]
+PROJECTING VOICES
+40
+Conclusions
+One of the many interests that has run through Jane’s multifaceted career 
+as a linguist has been the interface between the lexicon and morphology, 
+developed with great precision in her influential monograph (Simpson 
+1991) on Warlpiri morphosyntax, and pursued and tested against all the 
+verbs and verbal expressions, culminating in the great Warlpiri Encyclopaedic 
+Dictionary of which she is a co-author (Laughren et al. 2022). As she put it in 
+her 1991 book (all quotes from p. 2), ‘more information must be contained 
+in the lexical entries of words, than has been customary’, ‘[w]ords may be 
+functionally complex; they need not be single lexical packages, but may 
+carry information about different “logical relations”’, and ‘lexical entries for 
+words must contain a substantial amount of information about grammatical 
+functions which is not overtly expressed, as well as the information overtly 
+expressed by morphological markers such as case’. All of these observations 
+apply as well to Nen as they did to her trailblazing lexicalist treatment of 
+Warlpiri morphosyntax.
+But even though both Warlpiri and Nen have ergative case systems, there is 
+a vital difference between them: as I hope to have shown, the ‘functionally 
+complex’ Nen expressions for talking about experiences of physical 
+sensations, drives and emotions have the cross-linguistically unusual 
+property that the lexically fixed part of the expression combines a transitive 
+verb with its subject, leaving the object open, to be filled in by whatever NP 
+appropriately designates the experiencer. This contradicts widespread claims 
+that have been summed up as ‘there are no fixed-agent, flexible-object 
+idioms’ (T ruswell 2016, summing up arguments by Anagnostopoulou and 
+Samioti 2013 and Harley and Stone 2013). Like so many bold claims based 
+on a small subset of the world’s languages, this turns out to be a putative 
+universal that has not travelled far enough to find its counter-example.
+The Nen phenomena examined here make it quite clear that there are at 
+least some languages13 where the most straightforward analysis is to posit a 
+constructional template in which expressions for a number of physical and 
+emotional states are encoded by combining an ergative subject (whose head 
+noun is fixed) denoting the experiencer with a transitive verb (idiomatically 
+keyed to the combination) but leaving the object slot open. Although there 
+are varying degrees of idiomaticity, as discussed previously in the chapter, 
+13  The related language Komnzo (Döhler 2018) is similar in its essentials.
+[PDF PAGE 21]
+41
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+the class of experiencer object constructions in Nen certainly includes 
+many in which both the verb and transitive subject element are lexically 
+fixed as a way of expressing the desired meaning. As such, they provide 
+a straightforward case of a language permitting ‘fixed-agent, flexible-object 
+idioms’.
+In general, theorising about what is possible and what is impossible in 
+languages gradually results in a downgrading from absolute universals to 
+statistical ones (cf. Evans and Levinson 2009) as wider sampling finds that 
+what was believed impossible was simply rare. This progression does not 
+remove the interest of the now-demolished universals. As Cysouw and 
+Wohlgemuth (2010, 1) put it: 
+rara and rarissima, features and properties found in very few 
+languages, can tell us as much about the capacities and limits 
+of human language(s) as do universals. Explaining the existence of 
+cross-linguistically rare phenomena on the one hand, and the 
+fact of  their rareness or uniqueness on the other, should prove a 
+reasonable and interesting challenge to any theory of how human 
+language works.
+In particular, when something occurs despite claims that it wouldn’t, there 
+is a special imperative to find the particular affordances that allow it to 
+develop. My suspicion is that in the case of Nen this has to do with a 
+general tendency, widespread across Sahul, to permit event lexicalisations 
+which are at ease with humans being placed in the object role and non-
+humans – be they natural events or physiological stimuli – being placed in 
+transitive subject role. Add to this the great morphological explicitness of 
+Nen, whose coordinated double-signalling of argument roles by flagging 
+(case) and indexing (undergoer prefixes and actor suffixes). And stir in an 
+organisation of grammatical relations that gives far fewer ‘morphosyntactic 
+privileges’ to subjects than is the case in most languages: passives aren’t used 
+to promote non-subjects to subjects, and the morphologically unmarked 
+role is absolutives (intransitive subjects but also objects) rather than subjects. 
+Finally, the tightest linkage between two clauses, ‘phasal verb constructions’ 
+(Evans 2015b, 1077) discussed previously, involves the raising of both 
+subject and object onto the phasal auxiliary, not just the subject. We can 
+speculate that these features of Nen have produced an organisation in which 
+the so-called subject-object asymmetries, attributed by Marantz (1984) to 
+universal principles of syntactic architecture and which have shaped claims 
+about the structure of idioms ever since, play a role in Nen syntax, which 
+is marginal at best. This, in turn, allows constructions where there are 
+[PDF PAGE 22]
+PROJECTING VOICES
+42
+recurrent collocations of ergative stimulus subjects with particular transitive 
+verbs to evolve into the idiomatised experiencer object constructions we 
+have examined here.
+Acknowledgements
+I thank Alan Rumsey and two anonymous reviewers for their helpful 
+comments on an earlier version of this chapter, and Carmel O’Shannessy, 
+James Gray and Denise Angelo for offering me this opportunity to honour 
+Jane for many decades of friendship, shared goals and ideas bounced around. 
+Many analytic ideas about Nen were sharpened by discussions with Wayan 
+Arka, Matt Carroll, Christian Döhler and Jeff Siegel, each of whom I thank 
+for their intellectual input. For financial support of my PNG fieldwork 
+I  thank The Australian National University (Professorial Setup Grant), 
+the Australian Research Council (Discovery Projects ‘Language and Social 
+Cognition’, ‘Languages of Southern New Guinea’, Laureate Fellowship 
+‘The Wellsprings of Linguistic Diversity’, ARC Centre of Excellence for 
+the Dynamics of Language) and the Volkswagenstiftung’s DoBeS program 
+(Nen and T onda: T wo Languages of Southern New Guinea). My thanks 
+also to Keira Mullan for her assistance in cross-checking the manuscript. 
+Most importantly, I thank my Nen Zi teachers, particularly Jimmy Nébni, 
+Michael Binzawa, Goe Dibod and Mary Dibod, for their sensitive and 
+intense involvement in explaining their language’s intricacies to me, as well 
+as to the whole village of Bimadbn for its hospitality and friendship.
+Appendix
+Table 1.1: Nen experiencer object constructions.
+Meaning Phrase Syntax N meaning V meaning Compositional 
+meaning14
+be fed up, 
+be sick of
+zérgnäm 
+wñäms
+NPabs 
+NPerg Vtr
+exasperation seize, 
+overpower
+‘exasperation 
+seizes me’
+die (enznewäm) 
+zanḡs
+NPabs 
+(NPerg) Vtr
+(disease) ? ‘(disease) *kills 
+me’
+14  Where no synchronically attested word for one of the parts exists, * denotes a postulated meaning 
+for the part.
+[PDF PAGE 23]
+43
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+Meaning Phrase Syntax N meaning V meaning Compositional 
+meaning14
+be really 
+hungry, be 
+ravenous
+gersäm 
+tnengs
+NPabs 
+NPerg Vtr
+hunger shake off 
+dust
+‘hunger give 
+me a good 
+shake’
+be hungry gersäm 
+wñäms 
+NPabs 
+NPerg Vtr
+hunger seize ‘hunger seizes 
+me’
+feel afraid brbräm räms NPabs 
+NPerg Vtr
+fear do, make ‘fear does me’
+feel cold kérbéräm 
+räms
+NPabs 
+NPerg Vtr
+cold do, make ‘cold does me’
+feel hot pip omtewäm 
+räms
+NPabs 
+NPerg Vtr
+body hot do, make ‘hot body does 
+me’
+feel hot warwaräm 
+räms
+NPabs 
+NPerg Vtr
+sweat do, make ‘sweat does 
+me’
+feel 
+hungry
+gersäm räms NPabs 
+NPerg Vtr
+hunger do, make ‘hunger does 
+me’
+feel 
+hungry
+kraräm räms NPabs 
+NPerg Vtr
+hunger do, make ‘hunger does 
+me’
+feel itchy essäm räms NPabs 
+NPerg Vtr
+itchiness15 do, make ‘itchiness does 
+me’
+feel moved weiweiyäm 
+räms
+NPabs 
+NPerg Vtr
+pity, empathy do, make ‘pity does me’
+feel 
+nauseous
+srsr ermrs NPabs 
+NPabs Vm
+stomach ? ‘I? (my) 
+stomach’
+feel 
+nauseous, 
+feel 
+stomach 
+pains
+srsr nps NPabs 
+NPabs Vtr
+stomach cut ‘stomach cuts 
+me’
+feel pain tkretewäm 
+räms
+NPabs 
+NPerg Vtr
+pain do, make ‘pain does me’
+feel sad, 
+feel sorry 
+for (OBL)
+weiweiyäm 
+räms
+NPabs 
+(NPobl) 
+NPerg Vtr
+pity, empathy do, make ‘pity does me’
+feel 
+sexually 
+aroused
+waläm wñäms NPabs 
+NPerg Vtr
+lust seize, 
+overpower
+‘lust seizes me’
+feel sick enznewäm 
+räms
+NPabs 
+NPerg Vtr
+sickness do, make ‘sickness does 
+me’
+feel sick enznewäm 
+wñäms
+NPabs 
+NPerg Vtr
+sickness seize, 
+overpower
+‘sickness 
+seizes me’
+15  This is one of the few cases where the stimulus noun is an infinitive, used as a regular noun: the 
+middle verb ess means ‘to itch’. 
+[PDF PAGE 24]
+PROJECTING VOICES
+44
+Meaning Phrase Syntax N meaning V meaning Compositional 
+meaning14
+feel thirsty akäm räms NPabs 
+NPerg Vtr
+thirst do, make ‘thirst does me’
+get an 
+erection
+dowakoäm 
+wñäms
+NPabs 
+NPerg Vtr
+erection seize, 
+overpower
+‘(an) erection 
+seizes me’
+get angry néqäm räms NPabs 
+NPerg Vtr
+anger do, make ‘anger does 
+me’
+get wet bdräm räms NPabs 
+NPerg Vtr
+(none)16 do, make ‘wetness does 
+me’
+get wet 
+from rain
+nuwäm pams NPabs 
+NPerg Vtr
+water, rain ? ‘water?s me’
+have a 
+splitting 
+headache 
+(esp. 
+malarial)
+mrkp krärs NPabs 
+NPabs Vtr
+head bite, crack ‘head cracks 
+me’
+have 
+diarrhoea
+nä 
+sosänewäm 
+räms
+NPabs 
+NPerg Vtr
+diarrhoea do, make ‘diarrhoea 
+does me’
+have 
+diarrhoea
+nä qrqräm 
+räms
+NPabs 
+NPerg Vtr
+diarrhoea do, make ‘diarrhoea 
+does me’
+have 
+leprosy (to 
+the point 
+of losing a 
+body part)
+gangläm 
+mämä wets
+NPabs 
+NPerg Adj 
+Vtr
+leprosy finish ‘leprosy bad(ly) 
+finishes me’
+have the 
+flu, have a 
+bad cold
+momae 
+séqräm räms
+NPabs 
+NPerg Vtr
+mucus do, make ‘mucus does 
+me’
+have a 
+toothache
+sn selm nne NPabs 
+NPerg Vtr
+toothache consume, 
+eat
+‘toothache 
+consumes me’
+shiver gerngeräm 
+räms
+NPabs 
+NPerg Vtr
+shivering do, make ‘shivering does 
+me’
+shiver dmbrdmbräm 
+räms
+NPabs 
+NPerg Vtr
+shivering do, make ‘shivering does 
+me’
+want to eat 
+meat
+kmbrämäm 
+räms
+NPabs 
+NPerg Vtr
+(none) do, make ‘*meat.desire 
+does me’
+want to eat 
+something 
+sweet (like 
+sugarcane)
+mñtewäm 
+räms
+NPabs 
+NPerg Vtr
+sweetness do, make ‘sweetness 
+does me’
+16  Though bdrete means ‘wet’.
+[PDF PAGE 25]
+45
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+References
+Anagnostopoulou, Elena and Yota Samioti. 2013. ‘Allosemy, Idioms, and Their 
+Domains’. In Syntax and Its Limits, edited by Raffaella Folli, Christina Sevdali and 
+Robert T ruswell, 218–50. Oxford: Oxford University Press. doi.org/ 10.1093/ 
+acprof:oso/9780199683239.003.0012.
+Baker, Mark. 1988. Incorporation: A Theory of Grammatical Function Changing . 
+Chicago: University of Chicago Press.
+Baker, Mark. 1993. ‘Noun Incorporation and the Nature of Linguistic 
+Representation’. In The Role of Theory in Language Description, edited by 
+William A. Foley, 13–44, Berlin: De Gruyter Mouton. doi.org/10.1515/9783 
+11087 2835.13.
+Bickel, Balthasar. 2010. ‘Grammatical Relations Typology’. In The Oxford Handbook 
+of Linguistic Typology , edited by Jae Jung Song, 399–444. Oxford: Oxford 
+University Press.
+Carroll, Matthew. 2016. ‘The Ngkolmpu Language with Special Reference to 
+Distributed Exponence’.  PhD diss., The Australian National University. 
+openresearch-repository.anu.edu.au/handle/1885/116801.
+Cysouw, Michael and Jan Wohlgemuth. 2010. ‘The Other End of Universals: 
+Theory and Typology of Rara’. In Rethinking Universals: How Rarities Affect 
+Linguistic Theory , edited by Jan Wohlgemuth and Michael Cysouw, 1–10. 
+Berlin: De Gruyter Mouton. doi.org/10.1515/9783110220933.1.
+Döhler, Christian. 2018. A Grammar of Komnzo. Berlin: Language Sciences Press. 
+langsci-press.org/catalog/book/212.
+Evans, Nicholas. 2000. ‘Iwaidjan, a Very Un-Australian Language Family’. Linguistic 
+Typology 4, no. 2: 91–142.
+Evans, Nicholas. 2004. ‘Experiencer Objects in Iwaidjan Languages (Australia)’. 
+In Non-nominative Subjects, Vol. 1, edited by Peri Bhaskararao and Karumuri 
+Venkata Subbarao, 169–92. Amsterdam: John Benjamins. doi.org/10.1075/tsl. 
+60.10eva.
+Evans, Nicholas. 2014. ‘Positional Verbs in Nen’. Oceanic Linguistics 53, no. 2: 
+225–55.
+Evans, Nicholas. 2015a. ‘Valency in Nen’. In Valency Classes in the World’s Languages. 
+Vol. 2: Case Studies from Austronesia, the Pacific, the Americas, and Theoretical 
+Outlook, edited by  Andrej Malchukov and Bernard Comrie, 1069–1116. 
+Berlin: De Gruyter Mouton. doi.org/10.1515/9783110429343-006.
+[PDF PAGE 26]
+PROJECTING VOICES
+46
+Evans, Nicholas. 2015b. ‘Inflection in Nen’. In The Oxford Handbook of Inflection 
+edited by Matthew Baerman, 543–75. Oxford: Oxford University Press. doi.org/ 
+10.1093/oxfordhb/9780199591428.013.23.
+Evans, Nicholas. 2017. ‘Quantification in Nen’. In Handbook of Quantifiers in 
+Natural Language: Vol. II, edited by Edward Keenan and Denis Paperno, 573–
+607. Cham: Springer. doi.org/10.1007/978-3-319-44330-0_11.
+Evans, Nicholas. 2019a. ‘Nen Dictionary’ . Dictionaria 8. (Available online at 
+dictionaria.clld.org/contributions/nen.)
+Evans, Nicholas. 2019b. ‘Waiting for the Word: Distributed Deponency and the 
+Semantic Interpretation of Number in the Nen Verb’. In Morphological Perspectives: 
+Papers in Honour of Greville G. Corbett , edited by Matthew Baerman, Andrew 
+Hippisley and Oliver Bond, 100–23. Edinburgh: Edinburgh University Press.
+Evans, Nicholas, Wayan Arka, Matthew Carroll, Yun Jung Choi, Christian 
+Döhler, Volker Gast, Eri Kashima, Emil Mittag, Bruno Olsson, Kyla Quinn, 
+Dineke Schokkin, Philip Tama, Charlotte van T ongeren and Jeff Siegel. 2018. 
+‘The Languages of Southern New Guinea’. In The Languages and Linguistics 
+of New Guinea Area: A Comprehensive Guide , edited by Bill Palmer, 641–774. 
+Berlin: De Gruyter Mouton. doi.org/10.1515/9783110295252-006.
+Evans, Nicholas and Steven Levinson. 2009. ‘The Myth of Language Universals: 
+Language Diversity and Its Importance for Cognitive Science’. Behavioral and 
+Brain Sciences 32, no. 5: 429–48, 472–92. doi.org/10.1017/S0140525 X0999 
+094X.
+Evans, Nicholas and Julia Colleen Miller. 2016. ‘Nen’. Journal of the International 
+Phonetic Association 46, no. 3: 331–49. doi.org/10.1017/S0025100315000365.
+Frajzyngier, Zygmunt. 2018. ‘Experiencer Predication in Chadic’. In The Routledge 
+Handbook of African Linguistics , edited by Augustine Agwuele and Adams 
+Bodomo, 297–321. Abingdon: Routledge. doi.org/10.4324/9781315392981.
+Harley, Heidi and Megan Stone. 2013. ‘The “no Agent Idioms” Hypothesis’. 
+In  Syntax and Its Limits, edited by Raffaella Folli, Christina Sevdali and 
+Robert T ruswell, 251–76. Oxford: Oxford University Press. doi.org/10.1093/
+acprof:oso/ 9780199 683239. 003.0013.
+Kulick, Don and Angela T errill. 2019. A Grammar and Dictionary of T ayap. Berlin: 
+De Gruyter Mouton. doi.org/10.1515/9781501512209.
+Laughren, Mary with Kenneth Hale, Jeannie Egan Nungarrayi, Marlurrku Paddy 
+Patrick Jangala, Robert Hoogenraad, David Nash and Jane Simpson. 2022. 
+Warlpiri Encyclopaedic Dictionary. Canberra: Aboriginal Studies Press.
+[PDF PAGE 27]
+47
+1. EXPERIENCER OBJECT CONSTRUCTIONS IN NEN (YAM, PAPUAN)
+Lehmann, Thomas. 1993. A Grammar of Modern T amil. Pondicherry: Pondicherry 
+Institute of Language and Culture.
+Lindsey, Kate L., Dineke Schokkin and Nairan Wu. 2022. ‘The Pahoturi River 
+Language Family, with Special Reference to its Verbal Puzzles’, Linguistic Typology 
+27, no. 3: 667–731. doi.org/10.1515/lingty-2022-2096
+Marantz, Alex. 1984. On the Nature of Grammatical Relations . Cambridge: MIT 
+Press.
+Merlan, Francesca and Alan Rumsey. 1991. Ku Waru: Language and Segmentary 
+Politics in the Western Nebilyer Valley, Papua New Guinea. Cambridge: Cambridge 
+University Press. doi.org/10.1017/CBO9780511518218.
+Nunberg, Geoffrey, Ivan Sag and Thomas Wasow. 1994. ‘Idioms’. Language 70, 
+no. 3: 491–538. doi.org/10.1353/lan.1994.0007.
+O’Grady, William. 1998. ‘The Syntax of Idioms’. Natural Language & Linguistic 
+Theory 16, no. 2: 279–312. doi.org/10.1023/A:1005932710202.
+Pawley, A., S. P . Gi, I. Majnep and J. Kias. 2000. ‘Hunger Acts on Me: The 
+Grammar and Semantics of Bodily and Mental Process Expressions in Kalam’. 
+In Grammatical Analysis: Morphology, Syntax and Semantics: Studies in Honor 
+of Stanley Starosta , edited by Videa de Guzman and Byron Bender, 153–85. 
+Honolulu: University of Hawai‘i Press. www.jstor.org/stable/20000147.
+Rumsey, Alan. 2002. ‘Men Stand, Women Sit: On the Grammaticalization of Posture 
+Verbs in Papuan Languages, Its Bodily Basis and Cultural Correlates’. In  The 
+Linguistics of Standing, Sitting and Lying , edited by John Newman, 179–211. 
+Amsterdam: John Benjamins. doi.org/10.1075/tsl.51.09rum.
+Silverstein, Michael. 1976. ‘Hierarchy of Features and Ergativity’. In Grammatical 
+Categories in Australian Languages , edited by R. M. W . Dixon, 112–71. 
+Canberra: Australian Institute of Aboriginal Studies.
+Simpson, Jane. 1983. ‘Aspects of Warlpiri Morphology and Syntax’. PhD diss., 
+Massachusetts Institute of T echnology.
+Simpson, Jane. 1989. ‘Review of: Baker, Mark. 1988. Incorporation: A Theory Of 
+Grammatical Function Changing ’. Australian Journal of Linguistics 9, no. 2: 
+339–46.
+Simpson, Jane. 1991. Warlpiri Morpho-Syntax: A Lexicalist Approach . Dordrecht: 
+Kluwer.
+[PDF PAGE 28]
+PROJECTING VOICES
+48
+Singer, Ruth. 2016. The Dynamics of Nominal Classification: Productive and Lexicalised 
+Uses of Gender Agreement in Mawng . Berlin: De Gruyter Mouton. doi.org/ 
+10.1515/ 9781614513698.
+T ruswell, Robert. 2016. ‘Verb Meaning and the “No Agent Idioms” Effect’. 
+Unpublished conference paper. robtruswell.com/assets/pdfs/Potsdam_write 
+up.pdf.
+Walsh, Michael. 1987. ‘The Impersonal Verb Construction in Australian Languages’. 
+In Language T opics: Essays in Honour of Michael Halliday, edited by Ross Steele 
+and T erry Threadgold, 1:425–38. Amsterdam: John Benjamins. doi.org/ 10.1075/ 
+z.lt1.39wal.
+Verstraete, Jean-Christophe. 2011. ‘Impersonal Constructions in Umpithamu and the 
+Lamalamic Languages’, in Impersonal Constructions: A Cross-Linguistic Perspective, 
+edited by Andrej Malchukov and Anna Siewierska, 607–25. Amsterdam: John 
+Benjamins. doi.org/10.1075/slcs.124.21ver.
+Windschuttel, Glenn. 2012. ‘The Impersonals of Yagaria, a T rans-New Guinean 
+Language of the Eastern Highlands. Or: How “Itchiness Hits Me” Became 
+“Me Itchy-Hits”’. Honours thesis, University of Sydney.
+[PDF PAGE 29]
+This text is taken from Projecting Voices: Studies in Language and Linguistics 
+in Honour of Jane Simpson, edited by Carmel O’Shannessy, James Gray and 
+Denise Angelo, published 2025 by ANU Press, The Australian National 
+University, Canberra, Australia.
+doi.org/10.22459/PV .2025.01

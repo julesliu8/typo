@@ -1,0 +1,1638 @@
+[PDF PAGE 1]
+William B. McGregor*
+On the expression of mistaken beliefs in
+Australian languages
+https://doi.org/10.1515/lingty-2022-0023
+Received May 19, 2022; accepted February 6, 2023; published online March 31, 2023
+Abstract: This paper explores the expression of mistaken beliefs– as in for example
+the boy mistakenly believes that the turtle is dead (whereas in fact it is alive) – in the
+Indigenous languages of Australia. It is shown that some mode of expressing this
+meaning is attested in around 40% of the languages in a selection of 149 language
+varieties. In over 90% of the languages showing some mode of expressing the target
+meaning, it is – or can be – achieved through grammatical morphemes or construc-
+tions more or less dedicated to the expression of mistaken beliefs. These include
+particles, enclitics and various types of complement construction involving verbs of
+thinking, that frequently also convey meanings of saying, doing and hearing, rarely
+that specify the thought as mistaken. In just four or ﬁve languages, however, the
+meaning is attested only as a pragmatic implicature of a general statement of belief. To
+the extent possible given the limitations of the sources, the paper examines the range
+of meanings and uses of the morphemes/constructions expressing mistaken beliefs.
+Keywords: Australian languages; counterfactuals; mistaken beliefs; modal particles/
+clitics; semblatives/similatives; thought complements
+1 Introduction
+Even children as young as ﬁve (indeed, much younger according to some in-
+vestigators) are capable of understanding that someone else can hold a belief that
+conﬂicts with reality as the child knows it (e.g. Tomasello 2018). It seems likely that
+people everywhere will have occasion to communicate about such mismatches.
+Correspondingly, it seems reasonable to hypothesise that all languages provide their
+speakers with some means of asserting that such a mismatch obtains between a
+belief and understood reality. However, grammarians have paid scant attention to
+ways of expressing this notion, that is, that someone ’s belief at some point in time
+conﬂicts with the speaker ’s knowledge or beliefs.
+*Corresponding author: William B. McGregor [ ˈwɪɫjm̩biːməˈɡɹɛɡə], Department of Linguistics,
+Cognitive Science and Semiotics, The School of Communication and Culture, Aarhus University, Jens Chr.
+Skous Vej 2, O ﬃce 1485-617, DK-8000 Aarhus C, Denmark, E-mail: linwmg@cc.au.dk
+Linguistic Typology 2024; 28(1): 101 –145
+Open Access. © 2023 the author(s), published by De Gruyter. This work is licensed under the
+Creative Commons Attribution 4.0 International License.
+[PDF PAGE 2]
+The present paper addresses this lacuna by undertaking a broad-based typo-
+logical investigation of the means available in Indigenous Australian languages of
+expressing the meaning that someone ’s belief is mistaken. In some languages this
+meaning can be coded in a special morpheme or construction type dedicated to the
+expression of mistaken beliefs. This is the case, for instance, in Gooniyandi (Bunu-
+ban): the particle thaarri in (1) speciﬁcally marks the thought ( ‘I took it sneakingly ’)
+attributed to the third person ‘he’ as mistaken according to the speaker’s knowledge,
+and hence the gloss MB. To the best of my knowledge the mistaken belief meaning is
+inherent in such examples. No con ﬂicting interpretation is possible, and the
+mistaken belief sense is not defeasible. Moreover, consistent with this, the propo-
+sition asserted as mistakenly believed can never be in the future with respect to the
+time of utterance: it must belong to the realm of past or present time.
+Gooniyandi
+(1) niyi miga-mi thaarri yiganyi ward-la
+that say-3SG.NOM.CL MB uncertain go-1SG.NOM.3SG.ACC.CL
+‘He thought mistakenly “I took it sneakingly”’,o r ‘He mistakenly thought he’d
+taken it sneakingly. ’ (McGregor 1990: 421)
+By contrast, example (2) is neutral with respect to the truth or falsity of the thought
+(that the two men had been killed in retribution for their killing someone else).
+Although it turns out to be true, this is not the only possible interpretation. Example
+(2) could have been followed by a statement to the contrary (e.g. that they had been
+speared), and the mistaken belief meaning would then arise from context or by
+pragmatic implicature. Example (1), however, could never be followed by yiganyi
+ward-nga (sneakingly go-3SG.NOM.3SG.ACC.CL) ‘he took it sneakingly ’.
+Gooniyandi
+(2) briyandi-yah/ miga-winmi yaabja/ briyandi-ya
+retribution-LOC say-3PL.NOM.CL some retribution-LOC
+yood-binbidi-yi/
+put-3PL.ACC.3PL.NOM-DU
+‘The others thought that the two of them had been put down (killed by
+magical means) in retribution. ’ (from the author ’s narrative corpus)
+The aim of this paper is to typologise these expression types in Australian languages,
+addressing three main questions: (a) What means are available in the languages for
+making the mistaken belief meaning: what is the range of expression types? (b) What
+range of construction types are dedicated to coding mistaken beliefs, i.e. which
+expression types are grammatical signs coding this meaning? And (c) how are
+mistaken belief expressions used by speakers, and what meanings can they express
+102 McGregor
+[PDF PAGE 3]
+in discourse? The paper also touches brieﬂy on theoretical questions concerning the
+analysis of the expression types and the relation between their forms and their
+meanings.
+The main empirical claims of the paper are as follows. First, a number of
+Australian languages have a distinct cons truction type or types dedicated to the
+expression of mistaken beliefs. This ca n involve a morpheme such as a particle or
+enclitic that modalises the clause, codin g its status as a mistaken belief. Such a
+morpheme can sometimes also occur in a complement construction. Second, some
+languages exclusively use a complement construction. This may be a distinct
+mistaken belief complement, or a general thought construction type that in
+certain contexts admits interpretation – by pragmatic implicature – as a mistaken
+belief.
+This paper builds on an earlier paper on thought complements in Australian
+languages, McGregor (2021). That paper discussed various complement construc-
+tions, including reported thought constructions (as in e.g.he thinks the turtle is dead),
+a particular type of desiderative complement in which the desired event is repre-
+sented as though a thought (as in he thinks/says “I will climb the tree”), and mistaken
+belief complements. The present paper elaborates and extends on the third of these
+topics, though it is not restricted to complement constructions; it includes all other
+attested modes of expression as well. It is also based on a considerably larger set of
+languages, just over twice as many as the earlier study, which was based on 73
+languages. Otherwise, little has been published on mistaken belief constructions –
+except in descriptions of particular languages – and I am aware of no previous
+publication on their typology. As far as I am aware, just two conference presentations
+deal with the typology of mistaken belief constructions: Spronck (2017) which focuses
+on Australian languages, and Spronck and Vuillermet (2019) on Australian and South
+American languages.
+The exposition is organised as follows. I begin in Section 2 by describing the
+selection of languages for the study. Following this, in Section 3, which comprises the
+bulk of the paper, we overview the range of modes of expressing mistaken beliefs in
+the chosen languages. Section 4 explores the semantics and pragmatics of mistaken
+belief expressions, to the extent possible given the inadequacies of the data. The
+paper concludes in Section 5 with an overview, some remarks on the limitations of
+the present investigation and suggestions for future research.
+2 The language sample
+The present investigation is based on a sample of 149 Indigenous Australian language
+varieties, selected from some 250 –400 languages depending on one ’s criteria for
+Mistaken beliefs in Australian languages 103
+[PDF PAGE 4]
+languagehood (e.g. Dixon 2002: 4–7; McGregor 2004: 1).1 Thus, the sample represents
+between 37 and 60% of the languages. It is largely a convenience sample, selected
+with a few considerations in mind.
+First, the language is ideally described in a modern grammar. Generally, only
+“comprehensive” grammars provide much relevant information, and a number of
+languages for which only sketch grammars were available were excluded from the
+sample.
+Second, I aimed as far as possible to provide a reasonable genetic and
+geographical coverage. Twenty-three genetic lineages were represented from the
+28–30 generally recognised families. How ever, to provide reasonably compre-
+hensive geographical coverage it was necessary to include languages for which
+only pre-1960 grammars exist, many of wh ich are sketch grammars. Even so, the
+sample remains unbalanced in favour of languages spoken in the northern part of
+the continent. These are currently the most viable languages, and most compre-
+hensive modern grammars describe northe rn languages. This is also the region of
+greatest genetic diversity.
+The approximate locations of the chosen languages are shown in Figure 1 below,
+which also indicates whether expression of mistaken belief is attested in the lan-
+guage, probable (though not entirely certain from the available information) or not
+attested. A full listing of the languages, organised genetically, together with a list of
+the sources consulted, is provided in the online Appendix. The Appendix also pro-
+vides basic information on the mode of expression of mistaken belief (MB) in each
+language in which it is attested.
+A few remarks are in order concerning the distribution of attestations of
+expressions of mistaken belief. To begin with, very few languages from the eastern
+states attest mistaken belief expressions. Those that do are mostly spoken in the far
+north, in the region of Cape York Peninsula. There are also a few languages located in
+the western parts of the eastern states. Thus Ngiyambaa (Pama-Nyungan), spoken in
+the central west of present New South Wales, is the only language of this state in
+which an expression is de ﬁnitely attested. The southern part of the continent also
+shows a dearth of languages with attested mistaken belief expressions. These are
+regions that have had the most signiﬁcant contact with Europeans, and the languages
+spoken in these regions were either already in very precarious states by the time they
+were ﬁrst documented, or were documented in the nineteenth or early twentieth
+centuries. In fact, only in languages spoken in regions remote from major European
+settlement are expressions of mistaken belief attested – and even among these
+languages there are many that lack attestations of mistaken belief expressions (see
+1 See also https://anggarrgoon.wordpress.com/2011/12/23/how-many-languages-were-spoken-in-
+australia/.
+104 McGregor
+[PDF PAGE 5]
+next section). These observations are not inconsistent with the hypothesised uni-
+versality of the mistaken belief meaning, and absence of evidence of mistaken belief
+expressions in descriptions of languages should not be interpreted as evidence of
+their absence.
+As indicated above, one of the main criteria for inclusion of a language in the
+database was the existence of a“comprehensive” modern grammar. Grammars were
+the main source of information for the present investigation. Other sources were also
+consulted when available, including dictionaries, wordlists and books and theses
+that focussed on aspects of the targeted language, especially if the comprehensive
+grammar was silent on mistaken beliefs. For example, for Murrinh-Patha (Southern
+Daly) I included Blythe ’s (2009) account of referring acts and Mujkic ’s (2013)
+description of the NP and clause since the grammar of Walsh (1976) provided no
+information. (Neither did the additional sources.) In most cases I did not search
+further into articles, the major exception being Breen (1984), an article speci ﬁcally
+on mistaken belief constructions in Yandruwandha and Pitta-Pitta (both Pama-
+Nyungan).
+Figure 1: Map showing approximate locations of the languages in the sample and basic information
+concerning expressions of mistaken belief.
+Mistaken beliefs in Australian languages 105
+[PDF PAGE 6]
+3 Mistaken belief expressions: the range of
+possibilities
+We have seen that a fair number of Australian languages have some means of
+expressing mistaken beliefs. They have some way of indicating the status of a prop-
+osition as the belief of some individual at some point of time – that in that person ’s
+opinion (at the time) the proposition was true – while at the same time maintaining
+that this proposition is in fact false (at least according to present speaker’s knowledge).
+Such expressions provide a dual modal perspective on a proposition: they represent it
+as someone’s belief whilst simultaneously asserting its falsity (Representand assert are
+crucial in this formulation: see further Sections 4.4–4.6 below).
+Often a single word represents the content presented as the mistaken belief,
+which concerns the categorisation of some entity at the centre of attention, as in the
+Mparntwe Arrernte (Pama-Nyungan) example (3). This mistaken categorisation
+sense is in fact the only one attested in some languages, e.g. Na-Kara (Maningrida)
+(Eather 1990: 343) and Ndj´ebbana (also Maningrida) (McKay 2000: 300). I would argue
+however that it is a full proposition that falls in the scope of the mistaken belief, a
+proposition concerning the categorisation of some entity, not just a nominal (or NP).
+To be precise, the nominal or NP that falls within the scope of the mistaken belief in
+such examples belongs to a verbless categorising clause in which the NP referring to
+the entity categorised has been omitted being given. Example (4) is one of the very
+few examples showing a non-elliptical categorising clause, yarro jojarra ‘this is
+urine’, comprising the de ﬁnite NP yarro ‘this’ and a separate NP jojarra ‘urine’.
+Mparntwe Arrernte
+(3) arlenge-nge aherre- kathene ayenge itirre-ke
+far-ABL kangaroo- MB 1SG:NOM think-PC
+arleye-rle
+emu-FOC
+‘Hey! From afar I thought it was a kangaroo, but it turns out that it’s an emu.’
+(Wilkins 1989: 421)
+Warrongo (Pama-Nyungan)
+(4) yarro ngalnga-gaji jojarra
+this MB-MB urine
+‘I mistakenly thought this was urine (but it was my semen)’ (Tsunoda 2011: 677)
+Mistaken belief expressions are attested in ﬁfty-six languages; an additional six lan-
+guages show expressions that can, with some degree of plausibility, be interpreted as
+106 McGregor
+[PDF PAGE 7]
+conveying mistaken beliefs. These languagesbelong to ten genetic lineages, as shown in
+Table 1. In all, some mode of expressing a mistaken belief is attested in 38–42% of the
+language selection, and just over a third of the genetic lineages.
+The most common way for uncertainties to arise is through imprecisions in
+translation or contextualisation. Consider the Bunuba (Bunuban) example (5). This
+seems a highly likely candidate for the mistaken belief interpretation, though this is
+not stipulated in the free translation. Given the free translation, it is not implausible
+that the speakers mistook the person for a tree. Furthermore, the mode of expression
+resembles a construction for expressing mistaken beliefs in the neighbouring,
+though genetically unrelated, languages Warrwa (Nyulnyulan) and Ngarinyin
+(Worrorran) – see Section 3.2.4 below.
+Bunuba
+(5) lundu-yarra wara ’ra yiyirrmiynhingi
+tree-PHP stand.up.3SG.NOM.CL.PRS 1EXC.NOM.say.PST.3SG.OBL
+‘We thought maybe he was a tree standing up there. ’ (Rumsey 2000: 104)
+S o m e t i m e st h eg l o s sp r o v i d e df o ram o r p h e m es u g g e s t si tc o u l db eu s e di ne x p r e s s i n ga
+mistaken belief, though this meaning is not mentioned or exempliﬁed. Thus Ngalakgan
+(Arnhem) has particles warwar ‘supposedly’ and yuwʔwe ‘supposedly’ (Merlan 1983:
+147), which one would expect to be employable in expressing a mistaken belief, though
+this sense is not mentioned. And indeed, the gloss ‘supposedly’ is used in some
+descriptions for a morpheme that clearly marks mistaken beliefs – including the
+descriptions of Burarra (Maningrida): Glasgow and Garner (1980) and Glasgow (1988).
+Two major modes of encoding mistaken beliefs are attested in the languages of the
+sample: (1) a more or less dedicated morpheme, either bound or free; and (2) a
+Table : Numbers of languages showing some mode of expression of mistaken beliefs.
+Family Number of languages with attestations of mistaken beliefs
+Pama-Nyungan  of  languages +  uncertainties
+Gunwinjguan  of  languages
+Maningrida  of  languages
+Nyulnyulan  of  languages
+Arnhem  of  languages +  uncertainty
+Worrorran  of  languages
+Bunuban  of  languages +  uncertainty
+Iwaidjan  of  languages
+Tangkic  of  languages +  uncertainty
+Isolate  of  language
+Mistaken beliefs in Australian languages 107
+[PDF PAGE 8]
+complement construction, usually in combination with a special marker. The mistaken
+belief meaning may also emerge as (3) a pragmatic implicature of a complement
+construction; occasionally this is the only attested mode of expressing the meaning.
+These three modes of expression are discussed in order in the following subsections.
+3.1 Marked by a morpheme or collocation of morphemes
+A fair number of languages possess a morpheme that either by itself or in a particular
+construction marks a proposition as a mistaken belief. This morpheme is usually a
+clitic or free particle (henceforth particle); rarely it is a suﬃx, and occasionally it is a
+collocation of morphemes. In the following subsections we discuss these possibilities
+in order, assuming the categorisation of the source; few grammars, however,
+mention or explicitly discuss the criteria for identiﬁcation of the morpheme types. A
+language may employ more than one of these modes of marking mistaken beliefs;
+unfortunately, information does not permit postulation of meaning di ﬀerences
+among the modes of expression.
+3.1.1 A clitic marking ‘mistakenly believe’
+This is attested in 11 –18 languages (about a ﬁfth to a third of the languages attesting
+some mode of expression) belonging to three or four genetic families. The languages
+are widely scattered over the continent, as shown in Figure 2. Examples (6) and (7)
+are illustrative.
+Enindhilyakwa (Gunwinjguan)
+(6) nuw-angkarree-ka erribaja-bu … wa, naree-ka amiyerra- bu
+N-run.PST-EMP away-EMP … XTD NEG-EMP further- MB
+‘It ran further away, I thought it was going to keep going on, but no. ’ (van
+Egmond 2013: 373)
+Kaytetye (Pama-Nyungan)
+(7) re areynengew- athene wenherre
+3SG euro- MB shot
+‘He thought it was a euro that he shot (but it wasn ’t).’ (Turpin 2000: 114)
+Examples in most of the languages reveal that the morpheme is a clitic that attaches
+to units of various types. Few descriptions, however, say anything about which unit
+actually hosts the enclitic. In the above examples it seems to be the focus of the
+mistaken belief. In (6) the distance travelled is the focus of the mistaken belief, and
+the clitic is attached to the adverbial amiyerra ‘further’; in (7) it is the category of the
+108 McGregor
+[PDF PAGE 9]
+thing that was shot that is at issue, not the shooting event itself which is evidently
+presumed to have occurred. However, a focus for the MB is sometimes lacking. For
+example, in (8) the MB does not focus contrastively on the speaker, but rather
+concerns the entire issue of their having gone for water. In this instance, the MB clitic
+appears in Wackernagel ’s position in the ﬁrst clause.
+Nyulnyul (Nyulnyulan)
+(8) ŋai-elbe ŋan-djed wol-o ŋ, are
+ngay-ilbi nga-ny-jid wul-ung arri
+1MIN.CRD-MB 1MIN.NOM-PST-go water-ALL not
+ŋale-djedan
+nga-li-jid-an
+1MIN.NOM-IRR-go-IMP
+‘You mistakenly thought I went for water, but I did not. ’ (Nekes and Worms
+1953: 519–520)
+Figure 2: Location of languages with a possible enclitic marking mistaken belief.
+Mistaken beliefs in Australian languages 109
+[PDF PAGE 10]
+In some languages the clitic seems to be a dedicated marker of mistaken belief, at
+least in certain circumstances. This is the case, for instance, in Nyulnyul, Warrwa,
+Kaytetye, Mparntwe Arrernte, Yankunytjatjara (Pama-Nyungan) and Ngaanyatjarra
+(Pama-Nyungan), where the clitic seems to be used in no other sense and the
+mistaken belief sense appears not to be defeasible. Example (7) could not be followed
+by ‘and it was’, and nor could theﬁnal clause of (8) be replaced by the positivenga-ny-
+jid (1MIN.NOM-PST-go) ‘I went’.
+This is likely also the case in various other languages where it is accorded a
+diﬀerent gloss, often modal in nature. For example, Kalkatungu (Pama-Nyungan)
+has what Blake (1979: 48–49) calls a prolocative su ﬃx of uncertain meaning, though
+the examples he gives suggest it is an MB clitic. In Kugu Nganhcara (Pama-Nyun-
+gan) there is a clitic glossed ‘supposedly ’, which suggests the MB interpretation,
+though no clear examples are given in Smith and Johnson (2000: 441). For Karajarri
+(Pama-Nyungan), Nekes and Worms (1953: 603, 2006: 292) identify a bound form
+that they refer to as a conjunction ‘that’; examples given are consistent with its
+having MB as its only meaning, though it is attested only in complement con-
+structions (see Section 3.2.1 below). And Warrongo shows what Tsunoda (2011: 682)
+refers to as a “counterfactual ” clitic that usually has the MB sense; the exceptions
+warrant further investigation.
+In four Pama-Nyungan languages – Arabana-Wangkangurru, Pitta-Pitta, 2
+Yalarnnga and Yandruwandha– the clitic is either the semblative (i.e. similative,‘like
+a’) marker (Breen 1984), or is homophonous with such a marker. (We return to this
+issue in Section 4.4 below.) In Pitta-Pitta the semblative clitic takes the form - widi,a s
+in yurathiyaka-widi (shameless-SEM) ‘as if (they had) no shame, shamelessly’ (Breen
+1984: 3). Examples (9) and (10) illustrate use of a clitic with the same phonological
+form in the expression of mistaken beliefs. (There are examples of - widi with other
+modal senses, though information is too scant for anything to be said with certainty.)
+Pitta-Pitta
+(9) karnta-ya-widi inpa
+go-now-MB you
+‘I thought you were going. (But you aren ’t.)’ (Breen 1984: 5)
+Pitta-Pitta
+(10) kimpa-layi itji-ka- widi
+alive-EMP die-did- MB
+‘He’s still alive! We thought he ’d died.’ (Breen 1984: 6)
+2 Blake and Breen (1973) consistently write the morpheme in Pitta-Pitta as a free word, though in
+Breen (1984) it is said to be a clitic.
+110 McGregor
+[PDF PAGE 11]
+The MB construction marked by the clitic does not specify the identity of the holder of
+the mistaken belief. In (6) and (9) it is the speaker, in (7) it is the third person, the
+shooter; in (8) the addressee; and in (10) a ﬁrst person non-singular group. Context
+must be taken into account to determine (or guess) who the mistaken believer is.
+However, few descriptions discuss the issue, and for many languages it remains
+unclear whether or not there are genuine restrictions on who the mistaken believer
+can be. At least in some languages it is possible to specify the holder of the mistaken
+belief in a complement construction – see Section 3.2.1.
+3.1.2 A (free) particle marking ‘mistakenly believe’
+This is the best attested expression type, showing up in 23 –27 languages (around a
+half of the languages attesting an expression), as shown in the map in Figure 3.
+Figure 3: Location of languages showing a particle expressing mistaken belief.
+Mistaken beliefs in Australian languages 111
+[PDF PAGE 12]
+Belonging to 6 –7 families, the languages are again quite widely distributed
+geographically, though they tend to be more concentrated in the northern half of
+the continent.
+Examples (11) and (12) illustrate this mode of expression.
+Rembarrnga (Arnhem)
+(11) guyala yarra-many gurrah guyala jeny yarr-ma-ng œ-gan
+MB 1AUG-went that:way MB ﬁsh 1AUG>3-get-INF-DAT
+‘We went over there, we thought we were going to catch some ﬁsh (but we
+didn’t).’ (Saulwick 2003: 52)
+Warrongo
+(12) ngalnga gogo goman
+MB language di ﬀerent
+‘I thought it was a di ﬀe r e n tl a n g u a g e( b u ti nf a c ti tw a sn o t ) .’ (Tsunoda
+2011: 677)
+The position of the particle is rarely discussed in grammars, though as in the above
+examples it commonly occurs initially in the clause representing the mistaken
+belief.3 This is the case also in Gooniyandi, where thaarri ‘MB’ normally precedes the
+unit it holds in its scope. However, the unit immediately following the particle can be
+the focus of the mistaken belief, as in (13), where there is contrastive focus is on the
+speaker and it is presupposed that someone hit someone.
+Gooniyandi
+(13) thaarri nganyi-ngga gard-looni ngoorroo-ngga
+MB I-ERG hit-3SG.ACC.1SG.NOM.CL that-ERG
+yaanya-ngga gard-bini
+other-ERG hit-3SG.ACC.3SG.NOM.CL
+‘I thought I ’d hit him, but really it was that other man who hit him. ’
+(McGregor 1990: 425)
+Rarely MB particles occur in some other position in the clause. In (14) it occurs
+between the initial NP (the Undergoer) and the verb; in (15) it occurs clause ﬁnally.
+3 Example (11) is unusual in having another instance of the MB particle initially in the previous
+clause, which is not included in the scope of the MB particle. No explanation for this puzzling
+situation is provided in Saulwick (2003). Assuming it is not an error, it is reminiscent of what
+Haviland (1979: 154) has referred to as “ergative hopping ”, where an ergative marker sometimes
+occurs on the subject of an intransitive clause when it precedes a transitive clause.
+112 McGregor
+[PDF PAGE 13]
+Warray (Gunwinjguan)
+(14) wek kunj kat-tirim-pu-n pin amala
+ﬁrewood MB 1SG.NOM.POT-light-AUX-IRR but not
+a-kutjkutj amala kan-nu
+CL-wet not POT-burn
+‘I mistakenly thought I could light the ﬁrewood, but no, it was wet and
+wouldn’t burn.’ (Harvey 1986: 269) 4
+Kunwinjku (Gunwinjguan)
+(15) dja ngokko ø-bal-h-ka-ni na-wu mayh
+and already 3PST-away-IMM-carry-IMP MA-DEM animal
+berrewoneng-ni yimankek-ni
+them.two.OBL-IMP MB-IMP
+‘But already Echidna was bringing back food which she thought was for both
+of them.’ (Evans 2003: 121)
+Possibly in ﬁnal position the particle serves as a type of afterthought. This inter-
+pretation is consistent with the second free translation given for the Warlpiri (Pama-
+Nyungan) example in (16).
+Warlpiri
+(16) yuntardi nganta
+beautiful MB
+‘She thinks she’s beautiful (but).’ Or ‘She’s beautiful, supposedly.’ (Laughren
+1982: 141; both free translations Laughren ’s)
+Examination of the examples available reveals that the holder of the mistaken belief is
+most often the speaker (as in examples (12)–(14)). However, it can also be aﬁrst person
+group (example (11)) or someone else (examples (15) and (16)). I am unaware of any
+clear examples where it is the hearer, though this is almost certainly an accidental gap
+(examples are available for the clitic). Some descriptions state explicitly that context
+has to be taken into account to determine who the holder of the mistaken belief is, e.g.
+Evans (1995: 380) on Kayardild (Tangkic) and Laughren (1982: 149) on Warlpiri. Addi-
+tionally, in some languages the holder of the mistaken belief may be speciﬁed by use of
+a complement construction – we return to this in Section 3.2.2.
+In some languages the particle marking a belief as mistaken is dedicated to this
+use, which may be assumed coded by the particle. This seems to be the situation, for
+4 Harvey gives a diﬀerent free translation, but the one provided here is more consistent with what
+he says about the example in the ensuing text.
+Mistaken beliefs in Australian languages 113
+[PDF PAGE 14]
+instance, in Gooniyandi, Mangarrayi (Arnhe m), Jaru (Pama-Nyungan), Pitjantjat-
+jara (Pama-Nyungan) and Djinang (Pama-Nyungan), where no other sense is
+attested for the relevant particle. Nor, to the best of my knowledge, is the mistaken
+sense defeasible in these languages.
+Sometimes, however, the particle has other documented modal meanings and/or
+uses, typically in the domain of the counterfactual (which label is employed in some
+descriptions instead of mistaken belief). For instance, Gurr-Goni (Maningrida) has a
+modal particle mundjarra with two main senses in complementary distribution:
+(i) unrealised intention or expectation when the verb is in the irrealis; (ii) mistaken
+belief when the verb is in realis, or the clause is verbless (yielding the misclassi ﬁ-
+cation sense) (Green 1995: 337). Similarly, Na-Kara has a particlengamarramung with
+meanings unfulﬁlled potential in the irrealis, and mistaken belief when preceding an
+NP (Eather 1990: 342); there is no mention of what happens with realis verbs. For
+Bininj Gun-Wok (Gunwinjguan) Evans (2003: 610 –611) identi ﬁes a range of coun-
+terfactual meanings, which he says are associated with di ﬀerent constructions.
+Kayardild appears to be similar (Evans 1995: 378 –379). In circumstances such as
+these, where the senses are in complementary distribution, there is presumably a
+single multifunctional modal particle and di ﬀerent constructions.
+The diﬀerent modal senses are not necessarily in complementary distribution in
+languages such as Ndj ´ebbana (McKay 2000: 300), Kunbarlang (Gunwinjguan)
+(Kapitonov 2021; Kapitonov and Gentens 2018), and the Pama-Nyungan languages
+Marra (Heath 1981: 305), Kuku Yalanji (Hershberger and Hershberger 1982; Patz 2002:
+113, 198, 220) and Martuthunira (Dench 1994: 168). It is not clear whether or not these
+are diﬀerent senses of a single particle, or whether they are associated with diﬀerent
+grammatical constructions.
+In a few languages it seems that there may be, in addition to the MB particle, a
+homophonous particle with a modal meaning. Kuku Yalanji, according to Hersh-
+berger and Hershberger (1982), has two homophonous particles balu, one an MB
+particle (with various meanings, as per the previous paragraph), the other a negative
+particle ‘not want’. In Tsunoda (2011: 677) identi ﬁes two distinct but homophonous
+particles ngalnga, one an MB particle, the other a prohibitive; interestingly, the MB
+particle almost always hosts the MB clitic, as in (4) above.
+Like MB clitics, MB particles also encroach on the semblative domain, as dis-
+cussed in more detail in Section 4.4 below. In a few languages, mistaken belief is
+marked by particles dubbed semblative markers. This is the case in Kuuk Thaayorre
+(Pama-Nyungan): examples (17) and (18) illustrate, respectively, the use of the free
+particle kar ‘like’ (as Gaby 2017 analyses it) in expressions of similarity and mistaken
+belief. Similarly, Kunbarlang has the particleyimarne, which Kapitonov and Gentens
+(2018) consistently gloss as a semblative, and which is also used in expressions of
+mistaken belief.
+114 McGregor
+[PDF PAGE 15]
+Kuuk Thaayorre
+(17) nhul koo.miing kar pam nhangnip nhangn
+3SG.NOM face like man father 3SG.GEN
+‘He looks like his father. ’ (literally, ‘he is like his father in the face ’) (Gaby
+2017: 328)
+Kuuk Thaayorre
+(18) ngul nganip yik-r pul nganam-u kar parr_r
+then father say-P.PFV 3DU mother-ERG MB child
+nhurr thaa-munthi-rr
+2PL mouth-sink-P.PFV
+‘Then dad and mum said“(we thought) you kids had drowned.”’ (Gaby 2017: 449)
+3.1.3 A su ﬃx marking ‘mistakenly believe’
+There are a few languages with a mistaken belief suﬃx rather than an enclitic, though
+grammars do not always draw a clear distinction between the two. Ngaanyatjarra has
+in addition to an MB clitic also what Glass (1983: 40, 55) describes as a su ﬃx that can
+occur on a nominalised form of a verb, on the ‘relator’ palunya ‘that’ and on a lexical
+nominal, as in (19). Indeed, the clitic - lkanyu MB may be simultaneously employed,
+attached to the initial word of the clause, as shown by (20), where it is hosted by the
+locative NP, while the suﬃx- kukantja MB attaches to a nominalised form of a verb.5 It
+is not clear whether, and if so how, the su ﬃx and enclitic contrast in meaning.
+Ngaanyatjarra
+(19) wanti-ngu papa maru- kukantja-lu
+leave-PST dog black- MB-ERG
+‘He rejected it mistaking it for a black dog. ’ (Glass and Hackett 1970: 90)
+Ngaanyatjarra
+(20) nyangka-rna ngurlu-ra wana-rnu pirti-ngka- lkanyu
+and-1SG.NOM frighten-P.PTC follow-PST hole-LOC- MB
+mapitja-ngu tjarrpa-nytja- kukantja-lu
+go-PST enter-NOM- MB-ERG
+‘And I chased it mistakenly thinking that it had gone in and entered a hole. ’
+(Glass 1983: 40)
+5 Observe that the suﬃx precedes the case marker in (19), whereas the clitic follows the case marker
+in (20).
+Mistaken beliefs in Australian languages 115
+[PDF PAGE 16]
+Another Western Desert variety, Pintupi (Pama-Nyungan), has an identical morpheme
+glossed ‘mistakenly’ in Hansen and Hansen (1978: 63), and is apparently also a suﬃx( i t
+c a nb ef o l l o w e db yc a s em a r k i n gs uﬃxes). The example provided is consistent with a
+mistaken belief interpretation. Marsh (1992: 101, 128) and Burgman (2009: 16, 21) also
+identify, but treat only cursorily, what might be mistaken belief su ﬃxes in Martu
+Wangka (Pama-Nyungan), which could be cognate with the Ngaanyatjarra suﬃxes.
+Another language that uses a suﬃx to mark mistaken beliefs is Ngiyambaa. This
+language employs the “circumstantive” suﬃx- dji CIRC, which otherwise marks
+certain types of ablative meanings such as prior existence, the standard of com-
+parison (in comparatives) 6 and so on (Donaldson 1980: 96).
+3.1.4 A collocation of morphemes
+Mistaken beliefs are not always marked e xclusively by a single morpheme. In some
+languages they are marked by a particular morpheme in a construction, which might be
+deﬁned by the morpheme and a particular choice of verbal mood, as in Gurr-Goni and
+Na-Kara. Warrongo and Gurindji (Pama-Nyungan) have MB particles (see Section 3.1.2)
+that are normally accompanied by an enclitic:a counterfactual in Warrongo (according
+to Tsunoda 2011: 677) and a dubitive in Gurindji (Meakins and McConvell 2021: 550).
+Two languages employ a combination of particles in the expression of mistaken
+belief. Wubuy ∼ Nunggubuyu (Arnhem) uses the collocation yingga muga , where
+yingga is a particle meaning ‘suddenly, imminent, nearly, almost ’ and muga a par-
+ticle that Heath (1984: 438) says is “diﬃcult to gloss, possibly some sort of mirative
+indicating surprise, sometimes doubt ”. Unfortunately, this pairing is very poorly
+represented in the source.
+Kunjen ∼ Oykangand (Pama-Nyungan) also uses two particles, the negative
+particle and another glossed ‘suppose’ (Sommer 1970: 239–240). In contrast with the
+situation in Wubuy, however, these occur discontinuously, apparently enveloping
+the focus of the mistaken belief, as shown by (21).
+Kunjen ∼ Oykangand
+(21) ar uw errmenham oɣong il, abmanhdh amb
+not again ﬁnish.PST.PTC suppose she still PR
+errgerrg il
+speak.RED.PRS she
+‘I supposed she was ﬁnished, but she ’s still talking. ’ (Sommer 1970: 240)
+6 As Jean-Christophe Verstraete (pers.comm.) has remarked, there is a possible link to the semblative
+sense remarked on above.
+116 McGregor
+[PDF PAGE 17]
+3.2 Realised by a complement construction
+The second mode of expression of mistaken beliefs involves a complement con-
+struction. In some languages a marker (such as described in Section 3.1) may be
+optionally accompanied by a complement clause; in a few languages a complement
+clause is obligatory. McGregor (2021: 9 –14) discusses the expression of mistaken
+beliefs in complement constructions; this section is an update.
+The following types of matrix clause of thought are attested in mistaken belief
+complement constructions:
+(a) with the vague (or polysemous) verb ‘say, do, think ’;
+(b) with the vague (or polysemous) verb ‘hear, think’;
+(c) with a verb meaning ‘think’;
+(d) with a verb meaning ‘mistakenly think’;
+(e) with a nominal meaning ‘mistaken belief’.
+Mistaken beliefs are opinions about things, and as such are not (normally) addressed
+to anyone; the matrix clause never contains an NP specifying an addressee. Corre-
+spondingly, a second person category in the complement clause can only be inter-
+preted as a second person in the utterance itself, as illustrated by example (22): the
+person who might have gone outside must be the addressee of the entire utterance.
+(See also examples (23) and (24).) The second person category is never according to
+the person origo of the mistaken thought.
+Gooniyandi
+(22) miga-limi-nganggi thaarri banyangi ward-ginggi
+think-1SG.NOM.CL-2SG.OBL MB outside go-2SG.NOM.CL
+‘I mistakenly thought you ’d gone outside. ’ (McGregor 1990: 421)
+In many languages, however, the matrix clause can include an NP specifying the
+entity that the mistaken belief is about. This NP is often marked by the dative case,
+and in some languages is simultaneously c ross-referenced by an oblique bound
+pronominal. The second person bound pro nominal enclitic on the matrix verb in
+(22) cross-references such a participant, though the NP representing it has been
+ellipsed.
+This section begins with a discussion of clitics, particles and su ﬃxes in
+complement constructions (Sections 3.2.1 –3.2.3); collocations of free particles
+are not attested in complement constructions. It then turns to a range of
+mistaken belief constructions obligatorily expressed by complement construc-
+tions (Sections 3.2.4 –3.2.6).
+Mistaken beliefs in Australian languages 117
+[PDF PAGE 18]
+3.2.1 A clitic with an optional matrix clause of thought
+Almost all languages that attest an MB clitic admit the clitic in the complement of a
+matrix clause of thought. The only known exceptions are Warrongo and, if it has an MB
+clitic, Yukulta (Tangkic). On the other hand, the matrix clause of thought seems to be
+obligatory in Karajarri, given the examples presented in Nekes and Worms (1953, 2006).
+The MB clitic is usually hosted by a unit in the complement clause, as shown by
+(23) and (24).
+Nyulnyul
+(23) min-djed wol-o ŋ djo-elbe
+mi-ny-jid wul-ung juy- ilbi
+2MIN.NOM-PFV-go water-ALL 2MIN.CRD- MB
+ŋan-d dje
+nga-n-d-jii
+1MIN.NOM-CM-say-2MIN.OBL
+‘I thought you went for water, but you did not.’ (Nekes and Worms 1953: 519–520)
+Yankunytjatjara
+(24) ngayulu kuli-nu nyuntu kutju- palku nyina-nyi
+1SG.NOM think-PST 2SG.NOM one- MB sit-PRS
+‘I thought, being under a misapprehension, that you were alone. ’ (Goddard
+1985: 146)
+This holds true also in the languages that employ a semblative clitic – or a homoph-
+onous morpheme – to mark the mistaken belief:
+Pitta-Pitta
+(25) thartikanha-widi ngalilu wangamaka
+water:hen-MB 1DU.EXC know.PST
+‘“We thought they were water hens. ”’ (Given in answer to a question as to
+why they had killed the birds, which were in fact chickens.) (Breen 1984: 4)
+Examples like these suggest that the clitic is hosted by the same unit it would have
+been hosted by in the absence of a complement clause (see Section 3.1.1).
+In Warrwa, the MB clitic with a complement construction constitutes a distinct
+construction type from an ordinary thought complement. Brie ﬂy, the evidence is as
+follows (McGregor 2022a: Section 13.4.2.1). First, only the generic inﬂecting verb (IV) -JI
+‘say, do, think’ can occur in the matrix clause; other verbs are permitted in ordinary
+118 McGregor
+[PDF PAGE 19]
+thought constructions. Second, the IV of thought invariably follows the mistakenly
+believed clause, as in (26) and (27); both orders are possible in ordinary thought
+constructions. Third, the IV of thought always appears on the same tone unit as the
+mistakenly believed clause, as shown by (26); in ordinary thought complements the
+two clauses often appear in separate tone units. Fourth, the matrix clause of thought is
+normally reduced, and typically comprises just the IV -JI‘say, do, think’,w i t hn oo v e r t
+NPs; if there is another unit in the matrix clause, it may be discontinuous with the IV, as
+in (27). In ordinary thought complements it is more common to ﬁnd other NPs in the
+matrix clause, which is never discontinuous. Fifth, the complement clause invariably
+represents deictic categories of person, space and time in terms of the present speech
+situation; in no instance are they calculated from the origo of the actual thought event.
+For example, in (26) the past perfective and completive marking by kaliya ‘ﬁnish,
+already’ of the complement clause is in the past with respect to the thought event; they
+cannot be interpreted as past with respect to the time of the speech event and after the
+time of the thought. In the case of ordinary thought complements, both choices of origo
+are attested (with certain restrictions – see McGregor 2021: 6–7).
+Warrwa
+(26) marlu kurd wi-la-rnda-na/ kaliya- mirrimba kurd
+not dead 3NOM.IRR-IRR-go-PST ﬁnish-MB dead
+ngi-rnda-ny ø-ji-ny-jina/
+3MIN.NOM-go-PFV 3MIN.NOM- say-PFV-3MIN.OBL
+‘It’s not dead. He mistakenly thought it was already dead.’ (McGregor 2022a:
+481)
+Warrwa
+(27) ngayi-na yila- mirrimba nga-n-di-ny-jina
+1MIN.CRD-ERG dog- MB 1MIN.NOM-CM-say-PFV-3MIN.OBL
+minyawu yi-ngani-ny
+cat 3MIN.NOM-sit-PFV
+‘I thought it was a dog, but really it was a cat. ’ (McGregor 2022a: 481)
+Whether or not the corresponding expression type in other languages also repre-
+sents a separate mistaken belief construction type is uncertain; I am aware of no
+sources that discuss the issue. However, it does seem that theﬁfth observation above
+holds for other languages: the deictic categories of the complement clause are
+invariably represented in terms of an origo in the present speech situation. In other
+words, the complement clause seems never to be directly reported. Given that direct
+representation of ordinary thought complements is usually possible, this suggests
+that mistaken thought complements are distinct constructions.
+Mistaken beliefs in Australian languages 119
+[PDF PAGE 20]
+3.2.2 A particle with an optional matrix clause of thought
+Although expression by a particle is the most frequent option for non-complement
+expressions, only a small fraction of languages attest a particle in combination with a
+complement construction: Gooniyandi, Bininj Gun-wok, Kunbarlang, Burarra, Martu-
+thunira, Yanyuwa (Pama-Nyungan), Kuuk Thaayorre and Worrorra (Worrorran) (in
+which language all examples given in Clendon 2014 show a matrix clause). In all but one
+of these languages the matrix clause employs the verb of thought ordinarily used in
+complement constructions. The exception is Yanyuwa, which uses a verb‘mistakenly
+believe’ in the matrix clause together with the MB particle (see example (39) below).
+Sources rarely discuss the placement of the particle. However, in most examples
+it occurs at the boundary between the matrix and complement clauses, as in (1)
+above, and (28) and (29) below. Occasional exceptions exist, such as (30), where the
+particle occurs initially in the matrix clause.
+Djambarrpuyngu (Pama-Nyungan)
+(28) ga nganapurr-nydja nguli birrka’yu-n
+and 1PL-PROM HAB think-1
+yanbi nguli m ārr galki, w ānga/ yan barrku warray
+MB HAB somewhat near place EMP far in:fact
+‘We thought wrongly that the place was quite close but it was far o ﬀ.’
+(Wilkinson 1991: 686)
+Worrorra
+(29) ma-niya-ma ngaali kungenga
+3M-good-3M MB VCOMP.1.say.PST
+‘I mistakenly thought this was a good place. ’ (Clendon 2014: 246)
+Gooniyandi
+(30) thaarri miga -limi-nganggi manyi-yoo
+MB think -1SG.NOM.CL-2SG.OBL food-DAT
+moow-ya wajanginyji grog-joo
+look-2SG.NOM.3SG.ACC.CL.PST but:really grog-DAT
+moow-ya
+look-2SG.NOM.3SG.ACC.CL.PST
+‘I thought you were looking for food, but it was really grog you were looking
+for.’ (McGregor 1990: 508)
+It will be recalled from Section 3.1.2 that Kunbarlang and Kuuk Thaayorre employ
+(morphemes homophonous with) semblative particles in the marking of mistaken
+beliefs. These particles can occur in complement constructions, as in (31) and (32).
+120 McGregor
+[PDF PAGE 21]
+Kunbarlang
+(31) yimarne kadda-ngunda-barr na-bareng, but nukka ngorro
+MB 3PL.NF-do.PST-open I-dangerous but he DEM.MED.IV
+karlu
+NEG.PRED
+‘They thought he was dangerous, but he wasn ’t.’ (Kapitonov 2021: 52)
+Kuuk Thaayorre
+(32) ngay kar ngeey -m kar nhunt sixteen-nhurr-p
+1SG.NOM MB hear -PST.IMP MB 2SG.NOM sixteen-only-PRAG
+‘I thought you were only sixteen! ’ (Gaby 2017: 449)
+Whereas use of the speech situation origo seems to be the norm for complement con-
+structions involving clitics, things are not so clearcut in the case of complement con-
+structions involving particles. Some languages, including Worrorra, Ngarinyin, Warray
+and Gooniyandi, admit at least some deicticcategories in the complement clause to be
+represented according to the origo of the thought event. Example (1) demonstrates this for
+Gooniyandi, example (33) for Worrorra. In (33) the person categories of the complement
+clause have been shifted to the origo of the situation of the thought; the addressee of the
+entire utterance is represented in the second person in the matrix clause but in the third
+person in the complement. In this circum stance in Gooniyandi the addressee of the
+utterance is never represented from the person origo of the situation of thought, as shown
+by (22). This is as usual in reporting speech and thoughts in the language (McGregor 1990).
+Worrorra
+(33) karle kenga ngaali kunyaju -ng-a-nu
+now 3MA.go.TNS MB VCOMP.1PL.EXC.say-PST-EP-2DAT
+‘We thought you ’d gone (but you haven ’t).’ More literally, ‘We mistakenly
+thought about you 1 “he/she1 has gone now ”.’ (Clendon 2014: 350)
+3.2.3 A su ﬃx with an optional matrix clause of thought
+Complement constructions are also found with MB su ﬃxes (see Section 3.1.3); as
+expected, the su ﬃx appears in the complement clause. Example (34) provides
+illustration.
+Ngiyambaa
+(34) dhibiny-dji-dju-na winanga-nhi
+bird-CIRC-1NOM-3ABS think-PST
+‘I thought he was a bird. ’ (Donaldson 1980: 96)
+Mistaken beliefs in Australian languages 121
+[PDF PAGE 22]
+Possibly also in Ngaanyatjarra, the MB suﬃx can occur within the complement of the
+‘hear, think’ verb. This seems to be the case in (35), which shows both the MB su ﬃx
+and the clitic. It is not entirely certain, however, whether the complement clause
+includes the ﬁnal four words or just the ﬁrst one, palya-palya-lkanyu ‘mistakenly
+believed for fun ’. (Unfortunately, examples of the su ﬃx in other Western Desert
+varieties are unavailable.)
+Ngaanyatjarra
+(35) tjilku pirni-lu-ya tjiinya kuli-ra palya-palya- lkanyu
+child many-ERG-3PL.NOM you.know think-PRS fun-fun- MB
+pitul-pa ngarri-rra- nytjakukantja-lu kapi- kukantja-lu
+petrol-ABS lie-PRS- MB-ERG water- MB-ERG
+‘All the children, you know, are mistakenly thinking that petrol is lying
+about for fun, they mistakenly think it is (as harmless as) water. ’ (Glass
+1983: 40)
+3.2.4 An epistemic modal marker with an obligatory matrix clause of thought
+Perhaps ﬁve languages of the sample show an MB construction involving an
+obligatory complement clause together with a morpheme that otherwise marks
+an epistemic modal category of uncertainty. 7 Three of these languages are
+geographically proximal: Ngarinyin, Warrwa (where it coexists with a construction
+employing an MB clitic – see Section 3.1.1) and probably Bunuba. Two more
+northern languages may employ this type o f construction: almost certainly Dala-
+bon (Gunwinjguan), though just a couple of examples are given in the sources; and
+Kuuk Thaayorre, where it is attested in a few examples, but not discussed in the
+grammars, and coexists with constructions involving (a homophone of) the sem-
+blative morpheme.
+The construction involves two essential components: (a) a particle or enclitic
+that, in independent occurrence, marks an epistemic mood; and (b) a matrix clause
+with the generic in ﬂecting verb ‘say, think, do ’. In contrast with the construction
+types discussed so far, the matrix clause is central to the construction, and in its
+absence the modal particle or enclitic expresses an epistemic meaning, as shown by
+(36). Examples of this construction type expressing mistaken belief are (5) (probable)
+and (37).
+7 Recall also that in Wubuy (Nunggubuyu) there is a poorly attested expression involving two
+particles, one of which is either an epistemic (doubt) or a mirative (surprise) mood marker and that in
+Gurindji a dubitive clitic is often employed in collocation with the MB particle.
+122 McGregor
+[PDF PAGE 23]
+Bunuba
+(36) thurranda muway- yarra nyirra-yuwa baga-yiyirray
+two place- PHP that.one-LOC camp-1PL.EXC.CL.PST
+‘We camped there for perhaps two days (literally, two places, i.e. two camps,
+thus two days). ’ (Rumsey 2000: 104)
+Warrwa
+(37) kaliya-ngundany kurd ngi-rnda-ny ø-ji-n-jina/
+ﬁnish-PHP die 3MIN.NOM-go-PFV 3MIN.NOM-say-PRS-3MIN.OBL
+nyinka/
+this
+‘He (the boy) still thinks it (the turtle) died. ’ (McGregor 2022a: 777)
+McGregor (2021, 2022a) argues that this mode of expression in Warrwa represents a
+separate construction type, distinct from ordinary thought complements. The reasons
+are as outlined in Section 3.2.1 for the distinct status of the complement construction
+employing the MB clitic, and they are not repeated here. The same likely holds true for
+the other four languages; see also McGregor (2021: 11–12) on Ngarinyin. It is important
+to note that it is the construction as a whole that expresses the MB meaning. The
+mistaken belief meaning cannot be derived compositionally from the meaning of the
+components, the modal clitic and the thought complement.
+In Dalabon an additional component is present in all putative examples of the
+mistaken belief construction in Ponsonnet (2013), the semblative particledjehneng ‘as
+if’, as in (38). Unfortunately, the source does not discuss this mode of expression, and it
+is unclear whether it actually codes mistaken belief. That interpretation –‘ they
+mistakenly believe we are drinking alcohol’– is however plausible, and seems more
+apt than the compositional meaning expressed in Ponsonnet’s free translation.
+Dalabon
+(38) kardu ngorr bula-h-kurlhkurhka-wurd. yow, bah
+maybe 1PL.INC 3PL>1-R-visit.RED.PRS-DIM INTJ but
+ngorr bula-h-na-ng. kardu bula-h-men-yin djehneng
+1PL.INC 3PL>1-R-see-P.PFV maybe 3PL-R-ideas-say:PRS as.if
+kardu ngungurru-kolh-ngu-n wah .
+maybe APPR.1PL.INC>3-liquid-eat-PRS water
+‘It seems that they [the police patrol] are coming a little towards us. Yeah,
+and they saw us. Perhaps they believe we might be drinking alcohol. ’
+(Ponsonnet 2013: 114)
+Mistaken beliefs in Australian languages 123
+[PDF PAGE 24]
+3.2.5 Complement clauses with a dedicated ‘mistaken belief’ verb
+Five languages appear to show a speci ﬁc verb – either a simple in ﬂecting verb or a
+compound comprising an unin ﬂecting preverbal element and an in ﬂecting verb –
+glossed ‘mistakenly believe’ or something similar in the source: Mawng (Iwaidjan),
+Wagiman (isolate), Wakaya (Pama-Nyungan), Yalarnnga and Yanyuwa. The only
+clear examples, however, are found in Yanyuwa, which employs a verb glossed
+‘erroneously thinking, mistakenly thinking ’ (elsewhere glossed ‘shake shoulders
+tremulously’– Bradley and Kirton 1992: 326). As in example (39), this verb seems to be
+invariably accompanied by the MB particle.
+Yanyuwa
+(39) janda-yudirri-nji kath-anda marrwuarra kurdardi
+she-mistakenly.believe-PRS MB-she cousin no
+wundarrba-ntha-wu ma-kijululu
+name-PTC-DAT FD-money
+‘(The shop assistant) mistakenly thinks that (your female) cousin does not
+recognise the right change. ’ (Kirton and Charlie 1996: 205)
+3.2.6 Complement clauses with a dedicated ‘mistaken belief’ nominal
+In just one language, Yidiny (Pama-Nyungan), it seems that mistaken beliefs are
+expressed by complement clauses involving a nominal rather than a verbal predi-
+cate. The nominal is bina, which shows the polysemies ‘ear’, ‘gill of ﬁsh’ and
+‘mistaken belief ’.8 That bina in its ‘mistaken belief ’ sense remains a nominal is
+supported by example (40), which shows its use as the predicate in a verbless clause
+attributing the mistaken belief to some person. This verbless clause serves as the
+matrix clause in the mistaken belief complement construction, in the same way as
+the verbal clauses discussed in previous sections.
+Yidiny
+(40) ngayu bina nganyji gadaany yingu bama-gimbalnguri/
+IM B we came here man-PRV
+‘When we came here I thought there ’d be no (Yidiny) people here. ’ (Dixon
+1991: 118)
+8 A polysemy between ‘ear’ and ‘knowledge’ is not unusual in Australian languages – see Evans and
+Wilkins (2000). The connection between knowledge and mistaken belief emerges via pragmatic
+implicature, as discussed below.
+124 McGregor
+[PDF PAGE 25]
+According to Dixon (1977: 137) bina ‘mistaken belief’“ is used like a particle with the
+meaning ‘I thought something was the case but it was not ’”.T h eq u a l iﬁcation “like a
+particle” is crucial: the word remains a nominal. On the other hand, as shown by (41), it
+may be someone other than the speaker who held the mistaken belief. (This example also
+employs a semblative morpheme in the mistaken belief clause; this is optional, however.)
+Yidiny
+(41) bina ngayu-nguri mundu-uy nyuni-ingu
+MB I-SEM spirit-COM you-PURP
+‘(He) thought I was in love with you (but I ’m not).’ (Dixon 1977: 137)
+One other language, Nyulnyul, uses a similar construction in the expression of
+mistaken beliefs. However this sense is a defeasible pragmatic implicature (see
+Section 3.3 below).
+3.2.7 Concluding remarks
+To wind up the discussion of mistaken belief complements, a few observations are in
+order. To begin with, as already mentioned, one reason for using a complement
+construction is to specify the holder of the mistaken belief, by coding them as the
+thinker in the matrix clause using cross-referencing pronominals and/or NPs iden-
+tifying the thinker, as in (24), (32) and (35).
+Complement constructions, in some languages at least, also permit ﬁner tem-
+poral distinctions than are possible with a particle alone. In an expression involving
+just a particle, the deictic categories are always represented from the perspective of
+the present speech situation. In languages like Gooniyandi and Warray complement
+constructions can represent deictic categories in the mistaken belief clause from the
+origo deﬁned by the thought itself. Thus in (42) the cloud’s disappearance is set in the
+future with respect to the thinking event. Using the particle alone, the mistaken belief
+is necessarily represented temporally from the perspective of the current speech
+situation, in this instance past time. But that clause could potentially refer to an event
+in the past with respect to both the thinking event and the present. The relative times
+of the thought event and the event thought about can be neatly distinguished by tense
+choice in the complement construction.
+Gooniyandi
+(42) miga-limi thaarri ngoomoorroo ran- boondirni
+think-1SG.NOM.CL MB cloud leave- FUT.3SG.NOM.CL.POT
+‘I thought the cloud would go (but it hasn ’t yet).’ (McGregor 1990: 498)
+Mistaken beliefs in Australian languages 125
+[PDF PAGE 26]
+Admittedly, little is known about the representational possibilities for deictic cate-
+gories in complement constructions, and few descriptions say anything. As remarked
+already, in mistaken belief constructions marked by a clitic in the complement clause
+deictic categories of the complement clause seem always to be represented from the
+origo of the speech situation. On the other hand, Ngarinyin and Worrorra, which use
+only special complement constructions, always choose the origo of the reported
+situation – as they also do in the reporting of speech (Rumsey 1982: 158; Spronck 2015:
+1). In languages that can employ a particle together with a complement clause, things
+are less clear. In some languages (e.g. Gooniyandi and Warray) direct reporting is
+attested. There seems, however, to be a strong dispreference in Gooniyandi for
+representing the addressee of the utterance as a third person in the complement
+clause. It is not entirely clear whether the other deictic categories are also necessarily
+represented from the origo of the speech situation. Furthermore, it remains uncer-
+tain whether or not direct and indirect reporting of the mistaken belief actually
+contrast in any language.
+3.3 Mistaken belief as a pragmatic implicature
+A few languages express mistaken belief exclusively (in the available examples) in
+ordinary thought complements using the usual‘thought’ verb. These include the four
+Pama-Nyungan languages Walmajarri, Yindjibarndi, Yingkarta and Wangkumara.
+Only a few examples are provided in the sources, and all of them are previous
+thoughts of the speaker, as in (43) and (44). In (43) the thought is speciﬁed as mistaken
+by the following clause. In (44) that it is mistaken is clear from the context: it is the
+ﬁnal utterance in an exchange concerning the ownership of the meat, where the
+other party has successfully made a claim on it.
+Yindjibarndi
+(43) ngayi kurkanytya-rna pawa-yi. ngunhaa wuyut
+I think-PST water-ACC it nothing
+‘I thought it [a mirage in the middle of a plain] was water. But it ’s nothing.’
+(Wordick 1982: 210)
+Wangkumara
+(44) nganyja-warra ngathu ngalka-nga nhanha nguthi-anha
+my-POS I.ERG think-PST 3SG.ACC meat-ACC
+‘I thought this meat here was mine (though it isn ’t).’ (McDonald and Wurm
+1979: 75)
+126 McGregor
+[PDF PAGE 27]
+I would argue that the mistaken belief sense emerges as a pragmatic implicature
+(McGregor 2021). This implicature can be derived in various ways, none of which are
+language particular. If we compare a plain clause with that same clause as complement in
+a thought construction, the latter is a more marked expression, so invokes a more marked
+interpretation by Levinson’s M principle (Levinson 2000). Thus, if we take‘it was water’
+and contrast it with‘I thought it was water’ (as in (43)), the latter expresses a more marked
+meaning than the former. One possible construal is that the proposition was believed (or
+thought) as stated, but is in fact not true: had it been true, why qualify it as a thought?
+Another take on the same example is that ‘it was water’ is a stronger statement
+on a Horn scale than ‘I thought it was water ’. The weaker statement implicates, by
+Levinson’s Q principle, that the view is no longer held by the speaker. Yet another is
+that ‘I think it is water ’ is stronger than ‘I thought it was water ’, and the weaker
+statement implicates that the view is no longer held.
+Example (44) further illustrates the operation of implicatures. Saying that the
+meat was the speaker’s would have been inappropriate, and contrary to the previous
+sentence in which the speaker has acknowledged that the meat is the addressee’s and
+that they will return it to them. By employing the more marked thought complement
+the speaker acknowledges that they now realise that the meat is not theirs. Framing
+the proposition as a thought accounts for speaker’s having taken the meat in the ﬁrst
+place. They don ’t just say ‘it is not mine ’, which, though true, explains nothing.
+The same implicature can arise in languages that have a means of specifying a
+belief as mistaken, including English and various other languages (McGregor 2022b).
+On the Australian continent this is attested in Martuthunira (Dench 1994: 125), which
+has an MB particle, and Enindhilyakwa, with an MB enclitic, as shown by (45).
+Enindhilyakwa
+(45) ningi-lyengki-yema ngayuwa akina env-kv-dhaki-yadha
+1-head-say.PST 1 N.that N-NSR-cook-PURP
+dampa
+damper
+‘I thought it was to cook damper. [But it turns out that it is to cook stingray.]’
+(van Egmond 2013: 392)
+Precisely what di ﬀerent nuances of meaning are conveyed by the choice of the
+dedicated mode of expression and the implicature are uncertain.
+Nyulnyul is interesting in this regard. Recall that it has an MB enclitic according
+to Nekes and Worms (1953, 2006). By the time of my ﬁeldwork in the 1980s, however,
+there was no memory of the enclitic. Instead, a construction was consistently used
+with the bound nominal - mungk ‘belief, knowledge ’, which takes the same person
+preﬁxes as some inalienable body part terms (see McGregor 1995). The nominal
+status of this word is supported by the fact that it can be used as an attribute in an
+attributing clause, as in (46); this usage is impossible for a particle. (The
+Mistaken beliefs in Australian languages 127
+[PDF PAGE 28]
+morphological potential of the word marks it as a nominal, and distinguishes it from
+an inﬂecting verb or preverb.) Such an attributing clause may serve as the matrix
+clause in a complement construction, as in (47).
+Nyulnyul
+(46) kinyingk nga-mungk kad arri ningarr
+DEF 1MIN-belief still not true
+‘That’s what I thought, but it wasn ’t true.’ (McGregor 2012: 126)
+Nyulnyul
+(47) arri nga-mungk angk-in i-n-nyu
+not 1MIN-belief what-ERG 3NOM-CM-get
+‘I don’t know who took it. ’ (McGregor 2012: 138)
+In the speech of the few remaining speakers of the late twentieth century, the only
+mode of expressing mistaken beliefs was a complement construction with a verbless
+attributing matrix clause with this in ﬂecting nominal, as in (48). 9
+Nyulnyul
+(48) warli-in irr- mungk juy-in mi-n-dam
+everyone-ERG 3AUG- belief 2MIN.CRD-ERG 2MIN.NOM-CM-hit
+ngay-in arriyangk
+1MIN.CRD-ERG nothing
+‘They all think you hit him, but I don ’t.’ (McGregor 2012: 355)
+The mistaken belief implicature arises in such examples in the same way as sug-
+gested above for verbal matrix clauses with ‘think, believe’. Representing a propo-
+sition as a thought implicates a meaning that is more marked than if it had been
+represented by a simple clause. This may (as per the discussion above) implicate that
+the proposition is in fact false. This seems to have become a generalised conversa-
+tional implicature of the complement construction, which by the late twentieth
+century became entrenched, and a new mistaken belief construction type was
+emergent. This was not restricted to a ﬁrst-person thinker and the past tense, as
+shown by (48). The similar Yidiny construction (Section 3.2.6) appears to have gone a
+step further in entrenchment, and the nominal has taken on the semantics of
+mistaken belief: it now codes (in the construction) mistaken belief, which may
+formerly have been an implicature, as is the case in Nyulnyul.
+9 It is perhaps worth remarking that the second clause in this example is not an attributing clause
+with arriyangk ‘nothing’ as predicate – which latter could only mean ‘I am/was nothing’. Rather, the
+predicate nga-mungk ‘1MIN-belief’ has been omitted, being given.
+128 McGregor
+[PDF PAGE 29]
+4 Semantics, usage and pragmatics of mistaken
+belief expressions
+Few descriptions of Australian languag es say much about the range of meanings
+and uses of the MB construction beyond the trivial observation that it marks
+someone ’s belief as false or mistaken (in the op inion of the present speaker at the
+present time). In this section I draw together what little is known or can be
+inferred about the meanings that may be expressed or implicated by MB
+constructions.
+We begin in Section 4.1 by returning to an issue that has been mentioned in a
+couple of places in the preceding text: the identity of the holder of the mistaken
+belief. Next, Section 4.2 discusses one way a mistaken belief expression can be
+followed up by the speaker. Then in Section 4.3 we discuss discourse uses of ex-
+pressions of mistaken belief. Following this, Section 4.4 makes some suggestions
+regarding the meanings enco ded in dedicated mistaken belief constructions, and
+S e c t i o n4 . 5r a i s e ss o m ep u z z l e s .T h eﬁnal subsection, Section 4.6, winds things up by
+brieﬂy discussing mistaken belief as a modal category.
+4.1 The identity of the mistaken believer
+Complement constructions expressing mistaken beliefs typically provide speci ﬁca-
+tion of the individual who held the belief speci ﬁed as mistaken: it is typically the
+“subject” of the matrix clause.
+By contrast, the purely morphological expressions (discussed in Section 3.1) do
+not admit speci ﬁcation of a believer. We have seen that examples from various
+languages show a range of possibilities: the speaker of the clause, the addressee, a
+third person, a group including the speaker ( ‘we’). Examination of the database
+reveals that the speaker is by far the most common mistaken believer across all
+languages of the sample, to the extent this can be inferred from the free translations
+provided in the sources. That is to say, mistaken belief expressions are most
+commonly used as corrections to the speaker ’s own beliefs.
+Some descriptions (as mentioned already) explicitly state that the interpretation
+is contextually engendered; most are silent on this matter. For the bulk of Australian
+languages, it is not known whether there are any restrictions on who the mistaken
+thinker can be.
+What is encoded by the non-complement expressions is no more than that in
+some situation someone believed a proposition which turns out to be false (in the
+speaker’s opinion). Thus, more literal and decontextualised English translations of
+Mistaken beliefs in Australian languages 129
+[PDF PAGE 30]
+the examples in Section 3.1 would involve matrix expressions like ‘someone
+mistakenly believed’, with no speci ﬁcation of the identity of the believer (let alone
+when or where they held the belief).
+In fact, even this component of meaning is too speci ﬁc. In some instances there
+is no speci ﬁc individual in mind, and the mistak en belief is attributed to a generic
+person in a generic situation: the mistaken belief is attributed, that is, to the
+average person, to any (normal) member of the society. This interpretation is
+attested in half a dozen or so languages, including: Gooniyandi ((13) admits the
+interpretation ‘it was/is thought I’d hit him, but really it was that other man who hit
+him’); Jaru (as indicated by Tsunoda ’s ﬁrst free translation of example (49), which
+suggests that in the context anyone might have thought he was dead); Warlpiri (the
+second free translation of (16) above su ggests that the woman is widely believed to
+be beautiful); Warrongo (Tsunoda 2011: 683); Kayardild (Evans 1995: 381); and
+Bininj Gun-wok (Evans 2003: 610). This meaning comes close to a semblative one
+(see further Section 4.4 below).
+Jaru
+(49) kulanga kurnka nyinang-an-i
+MB dead sit-CNT-PST
+‘It looked as if it was dead. ’ Or ‘I thought it was dead. ’ (Tsunoda 1981: 206)
+4.2 Speaker ’s uptake
+Expressions of mistaken belief are frequently – though not always – followed by
+a clause stating what (in the speaker ’s opinion) the reality actually is or was.
+This is illustrated in (50), where the second clause speci ﬁes what actually made
+the noise. Signi ﬁcantly, the following clause never asserts the proposition: the
+MB meaning is not defeasible, and is a part of the encoded meaning of the
+construction.
+Warrwa
+(50) jurru-mirrimba nga-n-di-ny-jina wila
+snake-MB 1MIN.NOM-CM-say-PFV-3MIN.OBL water
+kurdiyi ø-na-ndi-ny
+run 3MIN.NOM-CM-get-PFV
+‘I thought it was a snake; but it was just water running. ’ (McGregor 2022a:
+653)
+130 McGregor
+[PDF PAGE 31]
+In instances such as this, the speaker’s uptake conveys signiﬁcant and unpredictable
+information that adds to what is known about the referent world; the same holds also
+for examples (13), (23) and (30). In the case of mistaken categorisations, the uptake
+often speciﬁes the real category of the entity, as in examples (3), (27) and (43). In these
+instances the uptake serves as a replacement of the mistaken belief. In some cases,
+however, it conveys little in the way of news, merely restating the obvious (examples
+(8), (28) and (48)).
+In some languages a speci ﬁc morpheme may occur at the beginning of the
+uptake clause, as shown by (51); occasionally, as in Djambarrpuyngu, it can also occur
+at the end of that clause (Wilkinson 1991: 686). This morpheme expresses a
+contrastive meaning which is variously translated‘but’, ‘but really’, ‘(but) in fact’. The
+classiﬁcation of this morpheme diﬀers from language to language. In some sources it
+is referred to as a conjunction or connective (e.g. Eather 1990; Richards and Hudson
+1990: 154). In Kunbarlang the English conjunction but is regularly employed (Kapi-
+tonov 2021: 52; see example (31)). In other languages it seems to be a type of modal
+particle – e.g. Jaru (Tsunoda 1981: 206), Gooniyandi (McGregor 1990: 508), Gurindji
+(Meakins and McConvell 2021: 552), and Ngardi (Pama-Nyungan) (Ennever 2021: 605).
+In no description are either the meanings or the uses of the morpheme discussed in
+detail.
+Jaru
+(51) karaj kulanga-rna lan-i ngandu kanyji
+body MB-1SG.NOM stab-PST in.fact leg
+‘I thought I was stabbing the body, but in fact I was stabbing the leg. ’
+(Tsunoda 1981: 206)
+Such a morpheme is attested in just 21 –23 languages – i.e., a little over a third of the
+languages attesting a mode of expressing MB. This includes languages like Walma-
+jarri (Richards and Hudson 1990: 154) that have no dedicated mistaken belief con-
+struction. The presence of this morpheme makes explicit that the thought is
+mistaken. These languages are shown in Figure 4. (Of course, absence of evidence for
+such a morpheme is not evidence of absence.)
+In Mparntwe Arrernte the focus clitic can occur on an NP representing the
+correct categorisation (no other marker attested), as in (3) above; and in Martu-
+thunira it may be that the emphatic clitic is used in this way.
+In Jabirrjabirr (Nyulnyulan), according to Nekes and Worms (1953: 531),
+alongside - gabad MB are also - gabad … -gal and -ga … -delba. Unfortunately, they
+provide almost no discussion or exempli ﬁcation. The one example they do give,
+(52), suggests that the second component marks what really happened. (The
+“though” in the gloss line is theirs.)
+Mistaken beliefs in Australian languages 131
+[PDF PAGE 32]
+Jabirrjabirr
+(52) ŋai dj ān-djer gabad ŋan-dj,
+ngayi jaan-jirr kabad nga-n-j
+1MIN.CRD 1MIN.OBL-EMP MB 1MIN.NOM-CM-say
+dje-djer gal djoe
+jii-jirr kal juy
+2MIN.OBL-EMP “though” 2MIN.CRD
+‘I thought it was mine although it is yours. ’ (Nekes and Worms 1953: 531)
+4.3 Discourse uses of MB expressions
+Little is known about the motivation for using MB expressions in discourse, and the
+meanings that might be intended. Perhaps the most common motivation seems to be
+Figure 4: Languages with an attested ‘but really’ morpheme.
+132 McGregor
+[PDF PAGE 33]
+to explain behaviour that is unexpected given the interactional context or the
+referent world and the participants in it.
+A number of examples cited above illustrate this. In (25), the misclassi ﬁcation of
+the birds as water hens is used to explain why the speakers killed the chickens.
+Examples (26) and (37) come from a description of a drawing in the picture book A
+boy, a dog, a frog and a friend(Mayer and Mayer 1971) that depicts the boy continuing
+to dig a hole in which to bury the turtle, which is now clearly alive. The unexpected
+behaviour of the boy is accounted for by attributing to him the belief that the turtle is
+dead. And in (38) the behaviour of the police, surprising given that the speaker and
+cohorts are merely talking together, is accounted for in terms of the belief that they
+were drinking.
+It seems likely that in examples such as (25) the explanation of unexpected
+behaviour might be in turn employed to excuse that behaviour: one expects that (25)
+could be employed by the speaker as an excuse for their killing the chickens, not just
+to explain it. Similarly, the Wangkumara example (44) was clearly used as an excuse
+in the exchange from which it comes (though in this instance the mistaken belief
+sense emerges via implicature). Jabirrjabirr example (52) quite likely could have
+been employed in the same way as an excuse.
+By contrast, (23) could potentially be employed as an accusation: that the
+addressee has failed to perform some action expected of them.
+In at least one language, Mparntwe Arrernte, the MB enclitic is sometimes
+employed in criticisms (Wilkins 1989: 409). This is illustrated by example (53), where
+the speaker is criticising the hearer for not giving them money.
+Mparntwe Arrernte
+(53) tyew-atye-kathene ayenge itirre-ke
+friend-1SG.POS-MB 1SG.NOM think-PC
+‘I thought you were my friend. ’ (But you can ’t be since a friend would give
+me money.) (Wilkins 1989: 409)
+Wilkins (1989: 426) suggests that the sense of criticism arises as a pragmatic impli-
+cature. I agree, though I have a slightly di ﬀerent account of how this meaning is
+implicated (elaborating somewhat on McGregor 2021: 13). To begin with, the speaker
+claims that the proposition P ( ‘you are my friend ’) is mistaken in the face of the fact
+that P is clearly true, and known to be true by both interactants. Their general
+knowledge thus conﬂicts with what is stated, namely that P is not true. The speaker
+ﬂouts the Gricean maxim of quality. This is for a reason. Invoking the counterfactual
+proposition ¬P the speaker e ﬀectively instructs the hearer to infer how it might be
+that they can claim P to be false. The answer is evident from the interactional context,
+the situation that the addressee has refused the speaker money, which by ordinary
+understanding would be the behaviour of people who are not friends. It follows that
+Mistaken beliefs in Australian languages 133
+[PDF PAGE 34]
+you are remiss in not giving me money, and the criticism emerges via pragmatic
+implicature.
+This is clearly an eﬀective strategy for indirect criticism, and one would expect it
+to be widely employed. However, Mparntwe Arrernte is the only Australian language
+in which this pragmatic implicature is actually attested.
+4.4 Mistaken belief and the notion of similarity
+We have seen that in some languages there is an aﬃnity between the senses of mistaken
+belief and similarity. As discussed in Section 4.1, the mistaken belief is sometimes not
+attributed to anyone in particular, in which case the sense of likeness may emerge, as
+shown by (54) and (55). In fact, most examples of the MB particle in non-initial position in
+W a r l p i r ii n v o k et h i ss e n s e ,a n d( a si sc l e a r l yt h ec a s ei n( 5 5 ) )t h ep r e c e d i n gm a t e r i a li sn o t
+included in what is mistakenly believed (see Laughren 1982: 149).
+Bininj Gun-wok
+(54) yimarnek man-bedje la wayarra ka-bardrohrokme
+MB III-spear.grass CON spirit 3-stand.like.spear.grass.NP
+‘It looked like spear grass, but it really was a spirit standing up like spear
+grass.’ (Evans 2003: 610)
+Warlpiri
+(55) kala yakarra-pardija yali kulanganta ngurrju kala nyurnu
+AUX awake-rise.P that MB good but dead
+yalumpu-ji
+that-DEL
+‘That one got up as though he was ﬁne (=alive), but he was dead.’ (Laughren
+1982: 149)
+In these languages the semblative sense can be accounted for as a contextualisation
+of the coded meaning ‘it was mistakenly believed’: that the proposition is something
+that could have been believed by someone in the relevant circumstances suggests
+that what actually happened was like something else (namely what it could have
+been misconstrued as). The semblative sense is thus not emically distinct from the
+mistaken belief sense. Glosses like‘seemingly’– as per for example Waters (1989: 157)
+for Djinang – are thus appropriate, provided that they are understood to simulta-
+neously code ‘but in fact not ’. It is surely signi ﬁcant that in all instances where this
+meaning comes to the fore, just a particle or clitic is found, never a complement
+construction. It can nevertheless be present, albeit backgrounded, in the latter
+134 McGregor
+[PDF PAGE 35]
+constructions: for example in (23), that something happened that looked to the
+addressee like the speaker went for water.
+I am not suggesting that in all languages showing similarities in the expres-
+sion of the mistaken belief and semblative senses the relevant clitic or particle
+codes the MB meaning, with similarity a contextual sense. Recall that in Sections
+3.1.1 and 3.1.2 we mentioned languages in which clitics or particles of mistaken
+belief were (homophonous with) semblative morphemes. I suspect that these
+languages have a single morpheme t hat codes a meaning we might gloss ‘like’.T h e
+mistaken belief sense can be accounted for in two ways. First, as Kapitonov and
+Gentens (2018) observe, it can plausibly arise via a Gricean implicature of the
+coded semblative meaning: what is sim ilar is not identical. Second, as per
+McGregor (2021: 15), the mistaken belie f sense arises when the morpheme holds a
+clause in its scope, modifying it proposit ionally. Correspondingly, the semblative
+sense emerges when the notion of likeness applies not to a proposition but instead
+to some thing or event in the discourse world. It is not propositions but items of
+the world of experience that show resemblances. Put in functional grammar
+terms, for mistaken beliefs the modi ﬁcation is at the interpersonal level; for
+semblatives it is at the experiential or representational level (Halliday 1985;
+Hengeveld and Mackenzie 2008).
+These remarks show that neither meaning, mistaken belief nor semblative, can
+be presumed synchronically more fundamental or diachronically prior. Both are
+equally plausible candidates, and require an evidential basis.
+4.5 Puzzles
+Tsunoda (2011: 677) makes the astute observation that in Warrongo there is no
+instance in which the mistaken belief is a negated proposition: there are no
+instances like ‘I thought he was not going, but in fact he did go ’.A n di n d e e d ,Ih a v e
+come across very few instances of this type in the descriptions. Dixon (1991: 117 –
+119) cites a few examples in Yidiny, though they all involve the privative marker
+on a nominal, rather than clausal negation. A probable instance is example (56)
+from Yir Yoront, though the interpretation is unclear due to lack of glossing in the
+source.
+Yir Yoront (Pama-Nyungan)
+(56) kar-kar ng ’n invnh
+MB-not don ’t:know be:sitting
+‘[Excuse me for intruding,] but I thought you weren ’t here.’ (Alpher 1991)
+Mistaken beliefs in Australian languages 135
+[PDF PAGE 36]
+I suspect that there is a reason for the paucity of examples like (56). As is well
+known, negative clauses are distributionally marked and invoke presupposition of
+the corresponding positive (e.g. Givón 1984: 324; McGregor 1997: 226 –227; Quirk
+et al. 1985: 808 –809). It seems reasonable to hypothesise that the same holds for
+one’s inner speech: one would think a negative proposition only when there was a
+presumption that the positive proposition was true. That is to say, one would think
+‘she is not here ’ in the context that they expected her to be here; otherwise, one
+would expect the person to entertain a positive proposition such as ‘she has gone’ or
+‘she is over there ’. But then the presupposition is precisely what would be asserted
+if the thought was claimed to be false in a mistaken belief construction: saying ‘it
+was mistakenly believed that she is not here ’ asserts that she is here, which is
+precisely the presupposition of the thinker. The normal expectation in these cir-
+cumstances would be that one would simply state the proposition: ‘she is here (just
+as expected) ’. It seems pointless to muddy matters by invoking the thought ‘she is
+not here ’, which turns out to be false.
+The rub is that to do so, to use the mistaken belief construction is possible,
+albeit a more marked expression than the simple statement of the positive clause.
+This must be for a reason. We can account for example (56) as follows. By
+invoking the mistaken thought ‘you are not here ’ the speaker accounts
+for their own presence on the scene, for why they are now in the presence of
+the addressee. The speaker thereby excuses themself for imposing on the
+addressee.
+One additional example is signi ﬁcant, (57), the interpretation of which is far
+from clear. Evans (2003: 611) takes it to be a counterexample to the MB sense of the
+particle yimankek, and avers that‘they reckoned’ (given in the translation by a native
+speaker) is an appropriate free translation. It is common knowledge among the
+Bininj Gun-wok that the Rainbow Serpent will not hear mosquitoes being slapped,
+provided it is done loudly. How then can (57) present this as a mistaken belief? I have
+suggested (McGregor 2021: 13) that an explanation may be possible in terms of a
+weakening of the second component of meaning of the MB construction (see Section
+4.1. above). Speciﬁcally, the belief is false not according to the speaker, but rather in
+relation to general knowledge of the real world – according to which slapping
+mosquitoes hard would result in being heard.
+Bininj Gun-wok
+(57) birndu kum-mirnde-wam, wanjh bene-h-bu-ni
+mosquito 3hither.PST-many-go.P.PFV then 3UAUG>3PST-IMM-hit-IMP
+wernkih ka-mak, yimankek Ngalyod minj benbene-bekka-yinj bu
+hard 3-good MB Rainbow not 3>3DU.PST-hear-IRR SUB
+136 McGregor
+[PDF PAGE 37]
+wernkih bene-h-bu-ni. anjh yerre
+hard 3UAUG>3PST-IMM-hit-IMP then after
+bene-h-yirrm-i nawu birndu wanjh
+3UAUG>3PST-IMM-brush-IMP MA.REL mosquito then
+benmene-bekka-ng wanjh benmene-kuk-nguneng
+3>3DU.PST-hear-P.PFV then 3>3DU.PST-body-eat.P.PFV
+‘Mosquitoes started to swarm around them, and they slapped at them hard, but
+that was OK, they reckoned Ngalyod couldn ’t hear them slapping hard. But
+when they started brushing them o ﬀ gently, he heard them and ate the two of
+them.’ (Evans 2003: 611 –612)
+Another explanation is possible. If a Bini nj Gun-wok speaker had wanted to express
+a mistaken belief in this context, one would have expected them to have said ‘They
+mistakenly believed Ngalyod would hear them if they slapped the mosquitoes
+hard’. But this could hardly be true: why would they have hit the mosquitoes hard if
+they believed the rainbow serpent would hear them – and consequently eat them?
+Perhaps the speaker is negating the entire proposition ‘They mistakenly believed
+that the rainbow serpent would hear them if they slapped the mosquitoes hard ’.
+This would mean that the negative particle holds the entire sentence in its scope,
+not just the proposition mistakenly believed. The problem is that this seems to
+conﬂict with the scopal relations as suggested by the ordering of the two particles.
+This is not necessarily an insuperable problem: ordering of elements does not
+always reﬂect scoping relations – see also example (56), where the negator appears
+to be in the matrix clause rather than the complement clause, as predicted by the
+scoping relation.
+It is impossible to decide among the above analyses. My purpose is simply to
+show that the mistaken belief interpretation need not be ditched out of hand.
+4.6 Concluding remarks: mistaken belief as a modal category
+We have seen that some Indigenous languages of Australia have a morpheme or
+construction that codes mistaken belief: this meaning is invariably present and is
+indefeasible. In such languages, mistaken belief is an epistemic modal category that
+invokes a dual perspective on a proposition. On the one hand, they indicate that the
+proposition was believed by someone at some point in time, or could have been
+believed by someone in the circumstances. On the other hand, they indicate that the
+proposition is in fact false from the perspective of the present speaker in the here and
+now. Examples like (53) do not contradict the second component of meaning. Quite
+the contrary: the implicature relies on the fact that the encoded meaning is contrary
+Mistaken beliefs in Australian languages 137
+[PDF PAGE 38]
+to the facts as understood by the speaker. However, as discussed in Section 4.5., it may
+be that this second requirement also needs to be relaxed somewhat: the proposition
+might instead be evaluated from the perspective of general knowledge of the world.
+As an epistemic modal category mistaken beliefs concern propositions, things that
+can be true or false, not occurrences of events. Thus I have proposed (Section 3) that in
+circumstances in which just the category of some entity is at issue, the marker holds a full
+categorising clause in its scope, not just a nominal. An important fact about mistaken
+belief constructions is that they represent more than mere thoughts. The thinker does
+more than simply entertain the thought: they also believe it. One could easily imagine
+they were living on the moon without mistakenly believing that they were. Hence in
+contrast with ordinary thought complements mistaken beliefs never comprise just an
+interjection, and indeed seem never to contain one. This suggests the distinctiveness of
+expressions coding mistaken belief as constructions separate from reported thoughts,
+extending on the remarks in Sections 3.2.1. and 3.2.4. Fuller arguments are called for.
+The fact that mistaken belief constructions marked by just a morpheme seem
+generally to be non-speci ﬁc as to the person holding the mistaken belief underlines
+their comparability with other modal categories. For instance, both epistemic and
+deontic senses of must in English admit a similar range of possibilities for the source
+of the epistemic or obligative meaning: the speaker, some key third person, a general
+member of the society, even the addressee themself.
+It has emerged in the discussion above that there are sometimes similarities in
+the marking of mistaken belief and other meanings such as similarity (discussed in
+Section 4.4.) and modal categories such as counterfactuals and irrealis. It is beyond
+the scope of this paper to explore the similarities and di ﬀerences among the various
+modal categories. Su ﬃce it to say that while mistaken belief resembles these cate-
+gories in terms of the fact that it marks the proposition as false, it conveys an
+additional meaning not conveyed by either counterfactual or irrealis, namely that
+someone (might have) believed the proposition.
+5 Conclusion
+This paper has surveyed the range of attested modes of expressing mistaken beliefs
+in a largish set of Australian languages. The most serious problem facing any typo-
+logical investigation of this domain is lack of data. Few grammars provide any
+discussion of the modes of expression, and those that do not give very comprehensive
+treatments: issues such as word order, presupposition, scope and focus are rarely
+discussed at all, let alone in depth. We need much broader and deeper treatments of
+the phenomenon in Australian languages.
+138 McGregor
+[PDF PAGE 39]
+I have not discussed the grammatical structures involved in mistaken belief
+constructions, though I have elsewhere made some preliminary suggestions (McGre-
+gor 2021: 15). In short, what I have proposed is that in the constructions involving just
+clitics and particles, this morpheme holds the remainder of the clause within its scope,
+modalising the proposition it expresses. This also holds true when a‘like’ morpheme is
+employed (such morphemes enter into diﬀerent types of grammatical relations when
+used as semblatives). In complement constructions the matrix clause may frame
+the complement clause, specifying its status as a demonstration or depiction of the
+proposition as it might be expressed in words, as per Clark and Gerrig (1990) and Clark
+(2016). Sometimes a particle or clitic simultaneously scopes over the proposition, and
+sometimes the matrix clause may scope over the complement clause. The crucial
+observation here is that in all cases a comparable grammatical relation is involved, a
+relation of the conjugational type (McGregor 1997, 2021).
+Among the many issues demanding further investigation, a few are worth
+highlighting.
+First, the semantics, contextual meanings and pragmatics of mistaken belief
+expressions in all languages are poorly understood. We have little knowledge of what
+meanings are contextually engendered or implicated rather than encoded, and very
+little concerning presuppositions. The discourse uses of mistaken belief expressions
+are also in need of further study.
+Second, the diachrony of mistaken belief expressions has barely been dealt with
+either in the literature or in this paper. However, some of the observations above
+suggest possible grammaticalisation scenarios. For instance, we have already com-
+mented on the possibility that the Yidiny mode of expressing mistaken beliefs derives
+from something like the Nyulnyul one via entrenchment. It is not implausible that a
+mode of expression such as the Yidiny one could give rise to a mistaken belief
+particle. This suggests that we might ﬁnd cognates of MB particles in nominals
+meaning ‘knowledge’– possibly also verbs. Another possibility is that a morpheme
+‘like’ could, by virtue of being employed in a scoping relation with a clause, become
+an MB enclitic if its other uses became obsolete.
+Third, more generally, the entire domain of representation of thought and
+cognition in Australian languages demands more thorough investigation. McGregor
+(2021) is a beginning, and I have started an investigation of the typology of expres-
+sions of knowledge and ignorance in Australian languages. Paucity of data is again a
+problem, though of slightly lesser magnitude than in the case of mistaken beliefs.
+Fourth, it is worth extending the typological investigation of mistaken belief
+expressions beyond Australian languages. Together with Caroline Gentens and Stef
+Spronck, we have recently begun planning such a project, which is again hampered
+by descriptive inadequacies. At present it can only be remarked that there is evi-
+dence of particles/clitics of mistaken belief as well as complement constructions in
+Mistaken beliefs in Australian languages 139
+[PDF PAGE 40]
+some South American languages (Spronck and Vuillermet 2019), and that comple-
+ment constructions predominate in languages of Eurasia (McGregor 2022b).
+Abbreviations and conventions
+The following abbreviations are employed in the representation of examples:
+ABL ablative
+ABS absolutive
+ACC accusative
+ALL allative
+APPR apprehensive
+AUG augmented
+AUX auxiliary
+CIRC circumstantive
+CL classi ﬁer
+CM conjugation marker
+CNT continuous aspect
+COM comitative
+CON conjunction
+CRD cardinal
+DAT dative
+DEF de ﬁnite
+DEL delimiting
+DEM demonstrative
+DIM diminutive
+DU dual
+EXC exclusive
+EMP emphatic
+EP epenthetic
+ERG ergative
+FD food gender
+FOC focal
+FUT future
+GEN genitive
+HAB habitual
+IMM immediate
+IMP imperfective
+INC inclusive
+INF in ﬁnitive
+INTJ interjection
+IRR irrealis
+LOC locative
+M M gender
+MA masculine gender
+MB mistaken belief
+140 McGregor
+[PDF PAGE 41]
+MED medial
+MIN minimal
+N neuter gender
+NEG negative
+NF non-future
+NOM nominative
+NP non-past
+NSR nominaliser
+OBL oblique
+PC past completive
+PFV perfective
+PHP perhaps
+PL plural
+POS possessive
+POT potential
+P.PFV past perfective
+P.PTC past participle
+PR prereferential noun
+PRAG pragmatic enclitic
+PRED predicative
+PROM prominence
+PRS present
+PRV privative
+PST past
+PTC participle
+PURP purposive
+R realis
+RED reduplicated
+SEM semblative
+SG singular
+SUB subordinator
+TNS tense
+UAUG unit augmented
+VCOMP sentential complement index
+XTD extended action
+The ﬁrst three integers indicate person categories, roman numerals I-IV are used
+to indicate gender classes in some languages, and > means ‘acting on ’.I n ﬂecting
+verbs in languages with small classes of verbs are cited in capitals, following a
+convention I have employed elsewhere. It is often impossible to be certain– given the
+information in the sources – of the division of words into morphemes and/or the
+appropriate glosses for the morphemes. I have usually avoided analysing examples
+further than in the sources. Thus in some cases morphologically complex in ﬂecting
+verbs are not divided into morphemes, but treated as portmanteaus and given a
+sequence of glosses separated by periods. Periods are thus used in gloss lines to
+Mistaken beliefs in Australian languages 141
+[PDF PAGE 42]
+separate glosses regardless of whether or not they belong to portmanteau forms. For
+clarity, parts of example sentences relevant to the discussion are bolded.
+Acknowledgements: Earlier versions of this paper were presented at ViGør,
+Linguistics and Cognitive Science, Aarhus University, 18th February 2022 and
+Institute of Linguistics, University of Cologne, 28th April 2022. I am grateful to the
+audiences of these presentations for comments. Thanks also to Jean-Christophe
+Verstraete, Caroline Gentens, three anonymous referees and the editor of this
+journal for useful comments on previous drafts of the paper. My greatest debt is of
+course to the numerous Indigenous Australians who shared their language with me,
+including especially Jack Bohemia, Bigfoot Jakarra, Maudie Lennard, Carmel Charles
+and Freddy Marker.
+References
+Alpher, Barry. 1991. Yir-Yoront lexicon: Sketch and dictionary of an Australian language . Berlin: Mouton de
+Gruyter.
+Blake, Barry J. 1979. A Kalkatungu grammar . Canberra: Paci ﬁc Linguistics.
+Blake, Barry J. & J. Gavan Breen. 1973. The Pitta-Pitta dialects . Melbourne: Monash University.
+Blythe, Joseph. 2009. Doing referring in Murriny Patha conversation . Sydney: University of Sydney PhD
+thesis.
+Bradley, John & Jean F. Kirton. 1992. Yanyuwa wuka: Language from Yanyuwa country (A Yanyuwa
+dictionary and cultural resource). Unpublished manuscript.
+Breen, J. Gavan. 1984. Similarity and mistake in two Australian languages. Language in Central Australia 2.
+1–9.
+Burgman, Albert. 2009. Manyjilyjarra-English dictionary. South Hedland: Wangka Maya Pilbara Aboriginal
+Language Centre.
+Clark, Herbert H. 2016. Depicting as a method of communication. Psychological Review 123(3). 324–347.
+Clark, Herbert H. & Richard J. Gerrig. 1990. Quotations as demonstrations. Language 66. 764–805.
+Clendon, Mark. 2014. Worrorra: A language of the north-west Kimberley coast . Adelaide: University of
+Adelade Press.
+Dench, Alan C. 1994. Martuthunira: A language of the Pilbara region of Western Australia . Canberra: Paciﬁc
+Linguistics.
+Dixon, R. M. W. 1977. A grammar of Yidiny . Cambridge: Cambridge University Press.
+Dixon, R. M. W. 1991. Words of our country: Stories, place names and vocabulary in Yidiny, the Aboriginal
+language of the Cairns-Yarrabah region . St Lucia: University of Queensland Press.
+Dixon, R. M. W. 2002. Australian languages: Their nature and development . Cambridge: Cambridge
+University Press.
+Donaldson, Tamsin. 1980. Ngiyambaa: The language of the Wangaaybuwan . Cambridge: Cambridge
+University Press.
+Eather, Bronwyn. 1990. A grammar of Nakkara (Central Arnhem Land coast) . Canberra: Australian National
+University PhD thesis.
+Ennever, Thomas. 2021. A grammar of Ngardi . Berlin: De Gruyter Mouton.
+142 McGregor
+[PDF PAGE 43]
+Evans, Nicholas D. 1995. A grammar of Kayardild: With historical-comparative notes on Tangkic . Berlin:
+Mouton de Gruyter.
+Evans, Nicholas D. 2003. Bininj Gun-wok: A pan-dialectal grammar of Mayali, Kunwinjku and Kune. Canberra:
+Paciﬁc Linguistics.
+Evans, Nicholas D. & David Wilkins. 2000. In the mind’s ear: The semantic extensions of perception verbs in
+Australian languages. Language 76(3). 546–592.
+Gaby, Alice. 2017. A grammar of Kuuk Thaayorre . Berlin: De Gruyter.
+Givón, Talmy. 1984. Syntax: A functional-typological introduction, vol. 1. Amsterdam and Philadelphia: John
+Benjamins.
+Glasgow, Kathleen. 1988. The structure and system of Burarra sentences. InPapers in Australian linguistics
+no. 17, 205–251. Canberra: Paci ﬁc Linguistics.
+Glasgow, Kathleen & Mark Garner. 1980. Clause-level tagmemes of Burarra. In Papers in Australian
+linguistics, no 12 ,3 7–82. Canberra: Paci ﬁc Linguistics.
+Glass, Amee. 1983. Ngaanyatjarra sentences. Darwin: Summer Institute of Linguistics, Australian
+Aborigines Branch.
+Glass, Amee & Dorothy Hackett. 1970. Pitjantjatjara grammar: A tagmemic view of the Ngaanyatjara
+(Warburton Ranges) dialect. Canberra: Australian Institute of Aboriginal Studies.
+Goddard, Cliﬀ. 1985. A grammar of Yankunytjatjara . Alice Springs: Institute for Aboriginal Development.
+Green, Rebecca. 1995. A grammar of Gurr-Goni (North Central Arnhem Land). Canberra: Australian National
+University PhD thesis.
+Halliday, Michael A. K. 1985. An introduction to functional grammar . London: Edward Arnold.
+Hansen, Kenneth C. & Lesley E. Hansen. 1978. Core of Pintupi grammar . Alice Springs: Institute for
+Aboriginal Development.
+Harvey, Mark. 1986. Ngoni Waray Amungal-yang: The Waray language from Adelaide river . Canberra:
+Australian National University MA thesis.
+Haviland, John B. 1979. Guugu Yimidhirr. In R. M. W. Dixon & Barry Blake (eds.), Handbook of Australian
+languages, vol. 1, 27 –180. Canberra: A.N.U. Press.
+Heath, Jeﬀrey. 1981. Basic materials in Mara: Grammar, texts and dictionary . Canberra: Paci ﬁc Linguistic.
+Heath, Jeﬀrey. 1984. Functional grammar of Nunggubuyu . Canberra: Australian Institute of Aboriginal
+Studies.
+Hengeveld, Kees & J. Lachlan Mackenzie. 2008. Functional discourse grammar: A typologically-based theory
+of language structure . Oxford and New York: Oxford University Press.
+Hershberger, Henry D. & Ruth Hershberger. 1982. Kuku-Yalanji dictionary. Darwin: Summer Institute of
+Linguistics.
+Kapitonov, Ivan. 2021. A grammar of Kunbarlang . Berlin: De Gruyter Mouton.
+Kapitonov, Ivan & Caroline Gentens. 2018.Yimarne in Kunbarlang: From similative to quotative. Presented
+at the Syntax of the World ’s Languages, 8, Institut National des Langues et Civilisations Orientales,
+Paris.
+Kirton, Jean F. & Bella Charlie. 1996. Further aspects of the grammar of Yanyuwa, North Australia . Canberra:
+Paciﬁc Linguistics.
+Laughren, Mary. 1982. A preliminary description of propositional particles in Warlpiri. In Stephen Swartz
+(ed.), Papers in Warlpiri grammar: In memory of Lothar Jagst , 129–163. Darwin: Summer Institute of
+Linguistics, Australian Aborigines Branch.
+Levinson, Stephen C. 2000. Presumptive meanings: The theory of generalized conversational implicature .
+Cambridge, Massachusetts and London: The MIT Press.
+Marsh, James. 1992. Martu Wangka – English dictionary. Darwin: Summer Institute of Linguistics.
+Mistaken beliefs in Australian languages 143
+[PDF PAGE 44]
+Mayer, Mercer & Marianna Mayer. 1971. A boy, a dog, a frog and a friend . New York: Dial Books for Young
+Readers.
+McDonald, M. & Stephen A. Wurm. 1979. Basic materials in Wa ŋkumara (Gaḷali): Grammar sentences and
+vocabulary. Canberra: Paci ﬁc Linguistics.
+McGregor, William B. 1990. A functional grammar of Gooniyandi . Amsterdam: John Benjamins.
+McGregor, William B. 1995. Nominal pre ﬁxing in Nyulnyul. In Hilary Chappell & William McGregor (eds.),
+The grammar of inalienability: A typological perspective on body part terms and the part-whole relation ,
+251–292. Berlin: Mouton de Gruyter.
+McGregor, William B. 1997. Semiotic grammar. Oxford: Clarendon Press.
+McGregor, William B. 2004. The languages of the Kimberley, Western Australia . London: RoutledgeCurzon.
+McGregor, William B. 2012. The Nyulnyul language of Dampier Land, Western Australia . Canberra: Paci ﬁc
+Linguistics.
+McGregor, William B. 2021. Thought complements in Australian languages. Language Sciences 86. 1–18.
+McGregor, William B. 2022a. A grammar of Warrwa, Kimberley, Western Australia. Unpublished.
+McGregor, William B. 2022b. Expressions of mistaken belief: A functional and typological approach. Paper
+presented at the XXXV `emes Journ´ees de Linguistique d ’Asie Orientale, Paris, 9th July 2022.
+McKay, Graham. 2000. Ndj ´ebbana. In R. M. W. Dixon & Barry Blake (eds.), The handbook of Australian
+languages, vol. 5, 154 –354. Melbourne: Oxford University Press Australia.
+Meakins, Felicity & Patrick McConvell. 2021. A grammar of Gurindji . Berlin: De Gruyter Mouton.
+Merlan, Francesca. 1983. Ngalakan grammar, texts, and vocabulary . Canberra: Paci ﬁc Linguistics.
+Mujkic, Elena. 2013. Murrinh-Patha syntax: Clausal structure and the noun phrase . Melbourne: University of
+Melbourne BA (Hons) thesis.
+Nekes, Hermann & Ernest A. Worms. 1953. Australian languages. (Micro-Bibliotheca Anthropos, 10.).
+Fribourg: Anthropos Institut.
+Nekes, Hermann & Ernest A. Worms. 2006.Australian languages. Berlin and New York: Mouton de Gruyter.
+Patz, Elisabeth. 2002. A grammar of the Kuku Yalanji language of North Queensland . Canberra: Paci ﬁc
+Linguistics.
+Ponsonnet, Maïa. 2013. The language of emotions in Dalabon (Northern Australia) . Canberra: Australian
+National University PhD thesis.
+Quirk, Randolph, Sidney Greenbaum, Geoﬀrey Leech & Jan Svartvik. 1985.A comprehensive grammar of the
+English language. London: Longman.
+Richards, Eirlys & Joyce Hudson. 1990. Walmajarri-English dictionary, with English ﬁnder list. Darwin:
+Summer Institute of Linguistics.
+Rumsey, Alan L. 1982. An intra-sentence grammar of Ungarinjin, North-western Australia . Canberra: Paci ﬁc
+Linguistics.
+Rumsey, Alan L. 2000. Bunuba. In R. M. W. Dixon & Barry Blake (eds.), The handbook of Australian
+languages, vol. 5, 34 –152. Melbourne: Oxford University Press Australia.
+Saulwick, Adam. 2003. Aspects of the verb in Rembarrnga: A polysynthetic language of northern Australia.
+Grammatical description, texts and dictionary . Melbourne: University of Melbourne PhD thesis.
+Smith, Ian & Steve Johnson. 2000. Kugu Nganhcara. In R. M. W. Dixon & Barry Blake (eds.),The handbook of
+Australian languages, vol. 5, 355 –489. Melbourne: Oxford University Press Australia.
+Sommer, Bruce A. 1970. Kunjen syntax: A generative view . Honolulu: University of Hawai ’i PhD thesis.
+Spronck, Stef. 2015. Reported speech in Ungarinyin [[“…”] -ma- ]: Grammar and social cognition in a language
+of the Kimberley region, Western Australia . Canberra: Australian National University PhD thesis.
+Spronck, Stef. 2017. Reckoning wrong: Mistaken belief in Australian Aboriginal languages as a window
+onto the syntax of perspective. Paper presented at ALT2017 – 12th Conference of the Association for
+Linguistic Typology, Canberra.
+144 McGregor
+[PDF PAGE 45]
+Spronck, Stef & Marine Vuillermet. 2019. Mistaken-belief constructions across two continents. Presented
+at ALT2019 – 13th Conference of the Association for Linguistic Typology, Pavia.
+Tomasello, Michael. 2018. How children come to understand false beliefs: A shared intentionality account.
+PNAS 115(34). 8491–8498.
+Tsunoda, Tasaku. 1981. The Djaru language of Kimberley, Western Australia . Canberra: Paci ﬁc Linguistics.
+Tsunoda, Tasaku. 2011. A grammar of Warrongo . Berlin/Boston: De Gruyter Mouton.
+Turpin, Myfany M. 2000. A learner’s guide to Kaytetye . Alice Springs: IAD Press.
+van Egmond, Marie-Elaine. 2013. Enindhilyakwa phonology, morphosyntax and genetic position. Sydney: The
+University of Sydney PhD thesis.
+Walsh, Michael. 1976. The Murinypata language of north-west Australia . Canberra: Australian National
+University PhD thesis.
+Waters, Bruce E. 1989. Djinang and Djinba – a grammatical and historical perspective . Canberra: Paci ﬁc
+Linguistics.
+Wilkins, David P. 1989. Mparntwe Arrernte (Aranda): Studies in the structure and semantics of grammar .
+Canberra: Australian National University PhD thesis.
+Wilkinson, Melanie. 1991. Djambarrpuyngu: A Yolngu variety of northern Australia . Sydney: University of
+Sydney PhD thesis.
+Wordick, F J. F. 1982. The Yindjibarndi language . Canberra: Paci ﬁc Linguistics.
+Supplementary Material: This article contains supplementary material (https://doi.org/10.1515/
+lingty-2022-0023).
+Mistaken beliefs in Australian languages 145

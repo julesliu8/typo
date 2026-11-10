@@ -1,0 +1,1691 @@
+[PDF PAGE 1]
+Research Article
+Rik van Gijn* , Justin Case, Martine Bruil, Simon A. Claassen, Karolina Grzech, and
+Nora Julmi
+Lexically driven patterns of contact in
+alignment systems of languages of the
+northern Upper Amazon
+https://doi.org/10.1515/opli-2022-0224
+received January 31, 2022; accepted September 29, 2022
+Abstract: Despite ample attention in the literature for alignment patterns and case frames more generally,
+we know very little about how these elements of grammar spread from one language to another in a contact
+situation. Achieving a better understanding of this will help explain areal patterns in alignment and
+grammatical relation marking. In this contribution, we zoom in on a contact situation in the foothills of
+North-West Amazon, where languages of the Quechuan and Tukanoan families are in contact, and where
+previous authors have suggested that grammatical relation marking shows many potential contact e ﬀects.
+We ﬁnd that, despite the absence of loanwords, abstract lexico -grammatical information associated with
+individual lexical items may spread from one language to another, especially within the class of sensation
+predicates. These can be characterized as lexically driven di ﬀusion patterns, without formal borrowing,
+consistent with an overall characterization of the area ’s sociolinguistics as loanword -avoiding.
+Keywords: north-west Amazon, verb classes, case frames, alignment, Quechuan, Tukanoan, language
+contact
+1 Introduction
+Morphosyntactic alignment can uncontroversially be called one of the classic topics in linguistic typology.
+Possibly because of its development in the early stages of Greenbergian typology in the 1970s (e.g.,
+Anderson 1976, Comrie 1978, Dixon 1979 ), it is traditionally associated with holistic language classi ﬁcation,
+i.e., languages are said to be of a nominative –accusative or absolutive –ergative type. These holistic char -
+acterizations of languages assume that intransitive and transitive verbs behave more or less uniformly with
+respect to the morphosyntactic encoding of their arguments.¹ At the same time, another line of inquiry
+within typology (e.g., Hopper and Thompson 1980, Tsunoda 1981 ) highlighted the fact that case frames are,
+
+* Corresponding author: Rik van Gijn, LUCL, Leiden University, Reuvensplaats 3 -4, Leiden, 2311 BE, Netherlands,
+e-mail: e.van.gijn@hum.leidenuniv.nl
+Justin Case: Department of Linguistics, University of Ottawa, Ottawa, Canada, e -mail: jcase058@uottawa.ca
+Martine Bruil: LUCL, Leiden University, Leiden, Netherlands, e -mail: m.bruil@hum.leidenuniv.nl
+Simon A. Claassen: LUCL, Leiden University, Leiden, Netherlands, e -mail: s.a.claassen@hum.leidenuniv.nl
+Karolina Grzech: Departamento de ﬁlología española, University of Valencia, Valencia, Spain; Department of Linguistics,
+Stockholm University, Stockholm, Sweden, e -mail: karolina.grzech@uv.es
+Nora Julmi: LUCL, Leiden University, Leiden, Netherlands, e -mail: n.julmi@hum.leidenuniv.nl
+
+1 Lexical (and other ) exceptions, if they constitute a large enough group, and/or if the group of exceptions has a systematic
+character, have led to the postulation of the so -called split alignment systems.
+Open Linguistics 2023; 9: 20220224
+Open Access. © 2023 the author(s), published by De Gruyter. This work is licensed under the Creative Commons Attribution 4.0
+International License.
+[PDF PAGE 2]
+to a large extent, lexically determined, though not entirely unpredictable: the further removed a verbal
+concept is from a prototypical transitive event, the more likely it is that it will show nonprototypical
+morphosyntactic behavior.
+Several authors (e.g., Comrie 1978 , Dixon 1979, Hopper and Thompson 1980, Tsunoda 1981, DeLancey
+1981) have proposed functional explanations for systemic and lexical preferences in alignment systems in
+individual languages and cross -linguistically. What has been understudied, however, is the role of indivi -
+dual lexical items in the historical development of alignment systems, and more particularly, the role of
+contact in shaping the patterns of case marking and verbal indexing in languages.
+In this contribution, we explore the extent to which lexical items play a role in the spread of alignment
+(sub)patterns. We do this by moving away from holistic characterizations of languages and toward a more
+nuanced perspective, taking into account the behavior of individual lexical items. We do this by comparing
+the case frames of verbs on the basis of a verbal concept list (Hartmann et al. 2013 , Malchukov 2015) that is
+claimed to be representative of the verbal lexicon and applicable across languages. We have classi ﬁed these
+verbal concepts into diﬀerent semantic classes based on a cross-linguistic framework proposed by Malchukov
+(2005), in which he classiﬁes verb concepts according to the deviation of their arguments from prototypical A
+and P arguments. This has three advantages. First, it allows us to systematically assess which parts of the
+verbal lexicon are most sensitive to contact -induced innovations. Second, it provides a perspective on the
+extent to and manner in which contact -induced innovations spread through the lexicon based on semantic
+commonalities. Third, it allows for the comparison between languages with similar alignment systems, by
+looking at the question where the prototypical accusative marking pattern starts to break down.
+We focus on a particular case study, which involves the contact between Quechuan and Tukanoan
+languages in the western part of the North -West Amazon (NWA), which we will refer to as the NWA -foothill
+area. There are three main reasons for this choice. In the ﬁrst place, the people in this area have a history of
+intense interaction, which included exogamy (e.g., Kohlberger 2020 ,5 7 ), (forced) migrations (e.g., Wise
+2011, 315 ), and language shifts (e.g., Muysken 2021 ). This has led to several patterns of contact -induced
+changes in the languages, as noted by several authors (e.g., Wise 2011, Valenzuela 2015, Kohlberger 2020,
+Muysken 2021 ), including the patterns of marking grammatical relations (see, e.g., Wise 1999, 320 –1).
+Despite considerable advancements in these matters, the extent of these contact -induced e ﬀects in the
+area, however, is still underexplored, and this article seeks to contribute to this line of inquiry. A second
+reason to focus on Tukanoan and Quechuan languages is that the distribution of these languages provides a
+naturally occurring laboratory for the study of areal e ﬀects in the NWA -foothill area because both families
+have members inside and outside the area of interest, as shown in Map 1.
+Map 1: The distribution of Quechuan and Tukanoan languages in the NWA.
+2  Rik van Gijn et al.
+[PDF PAGE 3]
+Third, the results of our study can be embedded in the wider areal context of the NWA, which extends
+much further into the Amazon and which includes many contact situations (see, e.g., Aikhenvald, 2002 ,
+Stenzel 2005, Seifart 2015, Chacon 2017 ).
+This article is structured as follows: in Section 2 , we give a brief introduction of the linguistic ecology of
+the NWA, including a brief discussion of the salient features of the alignment patterns found in the area
+(Section 2.1 ), followed by an overview of the Tukanoan and Quechuan families (Section 2.2 ). Section 3
+introduces our sample and outlines our methodological approach to the question of determining contact -
+induced changes. In Section 4, we discuss our ﬁndings with respect to case frames in the languages of our
+sample. Section 5 discusses our ﬁndings in the context of the sociolinguistic pro ﬁle(s) of the area. Section 6
+concludes this article.
+2 The areal and genealogical contexts
+It is hard to state exact boundaries of the NWA, but the area can be roughly delimited by the Upper Rio
+Negro to the north -northeast, the Marañon River in northern Peru to the south, and the northern Andes to
+the western border. The eastern boundary is more di ﬀuse but can be drawn from about the longitude of the
+Upper Rio Negro to the conﬂuence of the Putumayo River and the Amazon River. In Section 2.1 , we present a
+brief overview of the linguistic ecology of the region (the languages and their a ﬃliations, identiﬁed contact
+situations). Section 2.2 zooms in on the Quechuan and Tukanoan language families and what is known
+about contact between them.
+2.1 The linguistic ecology of the NWA, with special attention to the foothill area
+The NWA is characterized by a high linguistic (genealogical) diversity, comprising a number of small
+language families and (near) isolates, as well as (branches) of larger language families. Map 2 ² indicates
+the genealogical units of the area, with each isolate counted as a separate genealogical unit.
+Three larger families are represented in the area: Tukanoan, Quechuan, and Arawakan. We zoom in on
+the former two languages in the next section and brie ﬂy introduce Arawakan here. Arawakan is one of the
+major language families of the continent, with an enormous geographical spread, spanning almost the
+entire northern part of the continent, with languages spoken between the Caribbean islands and southern
+meso-America to northern Argentina and southern Brazil, and from the Atlantic coast to the foothills of the
+Andes. The branch that is represented in the NWA is the Japura -Colombia branch in the classi ﬁcation of
+Hammarström et al. (2021), based on Aikhenvald (1999), with some 15 known languages. Where contact
+between Tukanoan and Quechuan has been understudied in the literature, there is extensive literature on
+contact between Arawakan and Tukanoan (e.g., Aikhenvald 2002, Stenzel 2015, Chacon 2017 ).
+In addition to these larger families, a number of smaller families and isolates are represented in the
+NWA. The Chicham or Jivaroan family consists of ﬁve languages: Aguaruna, Wampis, Shuar, Achuar, and
+Shiwiar spoken in both Peru and Ecuador. This family has a relatively large number of speakers, with Shuar
+having over 60,000 and Aguaruna over 55,000 speakers (Kohlberger 2020 ,1 5 ). The Zaparoan family (de
+Carvalho 2013 ) is a highly endangered language family with six known members located in Ecuador and
+northeastern Peru, of which three are extinct, and the remaining three nearly extinct (Hammarström et al.
+2021). The Kawapanan (Cahuapanan) family of northeastern Peru (Valenzuela 2011 ) has two known lan -
+guages, both of which are still spoken today, but also endangered to varying degrees. In addition, the area
+
+2 The Map was created with the Glottospace (Norder et al., 2022), a newly created R package for the visualization and analysis of
+languages in space.
+Lexically driven patterns of contact in alignment systems  3
+[PDF PAGE 4]
+harbors a number of isolate languages including Camsá of southern Colombia, A ’ingae (Cofán), spoken in
+Colombia and Ecuador, Urarina of northern Peru, and Wao Tededo (Waorani), an Ecuadorian language.
+This shows a linguistically diverse landscape with various potential contact scenarios in the NWA -foothill
+region. Naduhup, Witotoan, Barbacoan, Peba -Yaguan, and Ticuna -Yuri are small families at the fringes of
+the NWA. Tupian and Cariban are large families with a minor presence at the periphery of the NWA.
+There are various subareas of intense contact within the NWA area that are mentioned in the literature.
+These include the Vaupés area (Aikhenvald 2002 ), the larger Upper Río Negro area, which includes
+the Vaupés area (Epps and Stenzel 2013 ), and the People of the Centre area (Gasché 2009 ). The
+best studied of these subregions is the Vaupés, which houses diverse communities living along the river
+system straddling the central Colombia –Brazil border area. There are roughly a dozen languages repre -
+sented in this subregion, classi ﬁed as belonging to ﬁve separate families: Tukanoan (namely, Eastern
+Tukanoan varieties ), Arawakan, Nadahup, Kakua -Nukak, and a growing Tupí -Guaranían presence with
+the growth of Nheengatú populations (Epps and Michael 2017 ). According to most studies (Aikhenvald
+1999, Epps and Stenzel 2013, among others ), the Vaupés is classi ﬁed as a zone of intense contact and
+cultural-linguistic di ﬀusion across and within these families. This relationship of cultural and linguistic
+exchange in the Vaupés has likely been active for centuries, predating the arrival of the Spanish in the
+region, as sociopolitical shifts caused certain nonriverine communities to migrate to such ﬂuvial zones
+(Chacon 2013 ).
+Another NWA subregion which has received attention is subsumed under the label the People of the
+Centre (Gasché 2009 ). The groups that populate this region along the southern Colombia -northern Peru
+border speak languages belonging to the Witotoan family, the Boran family, and various southern Arawakan
+varieties. Although there are some works on the speciﬁcc o n t a c ts i t u a t i o no ft h i sa r e a(Seifart 2011, 2012, 2015),
+this area is more consistently described as a sociocultural contact area(Echeverri 1997, Gasché 2009).
+Map 2: The languages of the NWA and their linguistic a ﬃliations.
+4  Rik van Gijn et al.
+[PDF PAGE 5]
+The focus of this article is on the NWA -foothill area, which has been mentioned as a possible contact
+area (e.g., Wise 2011, Valenzuela 2015, Kohlberger 2020 ). The languages that have probably been in contact
+since before the colonial documentation in this area include the Western Tukanoan, Chicham, Zaparoan,
+and Kawapanan languages and the isolates A ’ingae (Cofán) and Wao Tededo. Amazonian Kichwa probably
+developed in the colonial period (Muysken 2000). Although there are only a few lexical borrowings in the
+area (see, for instance, Velie 2008, 29 for Quechua borrowings in Máíh ɨ͂̀kì), there are some structurally
+reoccurring similarities observed, such as the habitual construction as exempli ﬁed in (1) and the deontic
+construction as exempli ﬁed in (2):
+(1) a. Shiwiar [CHICHAM], Kohlberger 2020 ,2 9
+t ͡ʃuú ut ͡ʃĩɾi ́hʲãĩ nakúɾiɲ áɾmiaji.
+t ͡ʃuú ut ͡ʃi-ríN = hʲãĩ nakúr-inʲ
+woolly.monkey + GEN child-1PL/2PL/3.P = COM play-AG.NMLZ
+á-r-mia-ji
+COP-PL-DIST.PST-3SG + DECL
+‘They used to play with the woolly monkey babies. ’
+b. Salasaka Kichwa [QUECHUAN], Muysken 2011 , 141 in Kohlberger 2020, 30
+ʃamu-kk a -ni
+come-AG.NMLZ COP -1SG.SBJ
+‘I usually come. ’
+c. Ecuadorian Siona [TUKANOAN], Martine Bruil ﬁeldnotes
+De’wa-ka-i-ko-a-o
+tidy.up-BEN-IPFV-AG.NMLZ-COP-3SG.F.ASSRT
+‘She normally tidies up. ’
+(2) a. Shiwiar [CHICHAM], Kohlberger 2020 ,3 0
+jamáikʲan u ŋɡá puhustí ɲuitʲmɨ tamá nú.
+jamái = kʲan u ŋká puhu -s-tínʲu = itʲ-mɨ
+now = TOP ground + LOC live-PFV-AS.NMLZ = COP-2SG.SBJ + DECL
+t-a-má nú
+say-IPFV-NSBJ > SBJ ANA
+‘Now you have to live on the ground, ’ he said.
+b. Salasaka Kichwa [QUECHUAN]: Muysken 2011 , 143, in Kohlberger 2020, 30
+ri-na ɡa-ni
+go-AS.NMLZ COP -1SG.SBJ
+‘I have to go. ’
+c. Ecuadorian Siona [TUKANOAN], Bruil 2014 , 217
+hã-ɨ-bi zoa -je ba -’i-hi
+DEM.DIST-CLS:ANIM.M-SBJ wash-AS.NMLZ be-IPFV-3SG.M.PRES.ASSRT
+‘He has to wash
+(something).’
+These constructions show possible convergence among Tukanoan, Quechuan, and Chicham languages
+of the NWA.³ Morphosyntactic in ﬂuence on Ecuadorian Quechua from Wao Tededo, Barbacoan and
+Chicham languages has also been suggested (see, e.g., Muysken 2011 , Zúñiga 2015, Floyd 2022 ).
+
+3 It is possible that the existence of these parallel structures (and especially the habitual constructions in example (1)) did not
+come about as a result of language contact but present a case of parallel developments in the three languages. Furthermore, we
+do not want to make a claim about the direction of this possible contact -induced change, and we merely want to show structural
+similarities that are suggestive of potential regional convergence. Both the habitual and the deontic constructions are found
+Lexically driven patterns of contact in alignment systems  5
+[PDF PAGE 6]
+If we take a bird ’s eye view of the alignment patterns found in the NWA -foothill area, we see that the
+area is dominated by nominative –accusative alignment systems (with the exception of Kawapanan
+languages),⁴ expressed in most languages by a combination of ﬂagging and indexing. ⁵ This resembles
+the dominant Andean pattern more than the surrounding Amazonian patterns, where ergativity and/or
+split-intransitivity are commonly found. ⁶ In addition, di ﬀerential argument marking seems to be a feature
+o ft h ea r e a .An u m b e ro fl a n g u a g e s(Western-Tukanoan, Witotoan, Kawapanan, and Zaparoan ) have
+optional subject case markers, and Chicham and Witotoan languages have conditional object case
+marking depending on the person of the subject (Wise 1999 , Overall 2007, Kohlberger 2020 );o b j e c t
+case marking in Tukanoan languages interacts with various factors: speci ﬁcity (Kotiria – Stenzel 2013 )
+and de ﬁniteness (Tukano–Bonﬁm Duarte and de Oliveira Lopes 2020 ). It is also possible that the lack or
+reduction (compared to southern varieties ) of object indexing on the verb in northern Quechuan lan -
+guages is a contact (substrate) eﬀect. These elements, summarized in Table 1, suggest contact -induced
+diﬀusion of elements of alignment patterns in the languages of this area. In Section 2.2, we zoom in on the
+Tukanoan and Quechuan languages.
+2.2 Tukanoan and Quechuan
+One of the larger families that is con ﬁned to the NWA is the Tukanoan family (Tucanoan in the map ),⁷
+consisting of about 29 languages of which about 8 are not spoken anymore (Chacon 2014, 275). There is a
+major split between Eastern and Western Tukanoan languages, Eastern Tukanoan being the larger branch
+and Western Tukanoan being the branch that falls within the NWA -foothill area, the area of focus in this
+study. Eastern Tukanoan is concentrated in the eastern portion of the NWA, roughly between the Apoporis
+and Vaupés Rivers. The Western Tukanoan branch currently consists of Koreguaje, Siona, Sekoya, and
+Máíhɨ͂̀kì and shows its main concentration in the foothill area between the Upper Caquetá and Upper
+Putumayo Rivers, and with geographical outlier Máíh ɨ͂̀kì in northeastern Peru. The branching within the
+family is shown in Figure 1.
+In the previous classi ﬁcations (Mason 1950, Waltz and Wheeler 1972, Barnes 1999, 209 ), Kubeo and, in
+some cases, Retaurã and Tanimuka were analyzed as a separate branch, because they di ﬀer more from
+other Eastern Tukanoan languages. Mason (1950) analyzes Kubeo as forming a middle or central branch,
+because it has communalities with both Eastern and Western Tukanoan languages. However, as Gomez -
+Imbert (2011) points out, the “Middle” languages Kubeo and Retaurã (and Tanimuka) may diﬀer from the
+other Eastern Tukanoan languages, because they have undergone more contact -induced changes due to
+their contact with Arawakan languages. Therefore, the deviation is not due to an earlier language split, but
+due to a speci ﬁc contact situation. Furthermore, as Chacon (2014, 283) points out, previous classi ﬁcations
+based their analysis on both retentions and innovations, whereas only shared innovations should be taken
+into account. When this is done, the central branch languages should be grouped into the Eastern
+Tukanoan branch.
+
+throughout the Quechuan family (see, for instance, Parker 1969, 49, 55 on Ayacucho Quechua ). It is not clear if these con -
+structions are widespread in the Tukanoan and Chicham families.
+4 Kawapanan languages display ergative alignment in their case marking system, but accusative alignment in their verbal
+indexing systems (Rojas-Berscia 2019 , Valenzuela 2011 ).
+5 Some of the Zaparoan languages use word order, which also follows a nominative -accusative pattern (Michael 2009).
+6 Although ergativity (and related patterns such as split ergativity and split intransitivity ) is a minority pattern globally
+speaking (Comrie 2013 , Siewierska 2013 ), it is relatively common in Amazonia (Monrós Marin 2004, Queixalós and Gildea
+2010, Birchall 2014 ). Even in Amazonian areas close to the Andes, pure accusative systems seem to be rarer than in the Andes
+(van Gijn 2014 ).
+7 The categories in Map 1 are based on the labels provided by Glottolog (Hammarström et al. 2021); therefore, the labels used in
+the text can deviate from those labels.
+6  Rik van Gijn et al.
+[PDF PAGE 7]
+Table 1: Distribution of relevant typological features across the NWA -foothill area
+N. Quechuan W. Tukano Chicham Kawapanan Witotoan
+Imbabura Napo Tungurahua Cañar Siona Majîki Koreguaje Aguaruna Shiwiar Wampís Shawi Shiwilu Murui Ocaina
+Accusative alignment (ﬂagging)+ + + +++ + + + + —— + —
+Accusative alignment (indexing)+ + + + + + + + + + + + + +
+A marking —— — — + — + —— — +++ + /−
+DAM (pragmatic) —— — — + — + —— — +++ —
+DAM (coarg sensitivity ) —— — — — — — ++ + + + ——
+Lack of obj agreement +/− +/− +/− ++ + + —— — — — ++
+Lexically driven patterns of contact in alignment systems  7
+[PDF PAGE 8]
+Although there is no clear -cut outcome to the study of the geographical origin of the Tukanoan people,
+it seems that they are from the NWA area. Aikhenvald (2012, 225) suggests that the Tukanoan people came
+originally from the Andes based on the nominative –accusative alignment system found in the Tukanoan
+languages. Chacon (2013, 2014) suggests the homeland of the Tukanoan family to be situated in the center
+of NWA from where they have spread westward and northeastward. This analysis is based on linking
+archeological patterns with common Tukanoan cultural patterns and on linguist reconstruction of voca -
+bulary for basic material cultural elements.
+Another language family that is found in the NWA -foothill area is the Quechuan family. The Quechuan
+family is originally an Andean language family that is predominantly spoken along the mountain range,
+from northern Chile and Argentina in the south to southern Colombia in the north. The more distant
+varieties might be mutually unintelligible, and the overall number of Quechuan dialects is still only
+approximately known (Adelaar and Muysken 2004 , 168 ). The most widely applied classi ﬁcation of Que -
+chuan languages was put forward by Torero (1964). It divides the family into Quechua I (Torero 1964 ),
+spoken in the highlands of central Peru, considered to be ‘the homeland of Proto-Quechua’ (cf. Adelaar and
+Muysken 2004, 180 –1; Mannheim 1991, 9 –12) and Quechua II (Torero 1964 ), including all the remaining
+varieties (Figure 2 ).
+Since Quechuan languages are spoken predominantly in the Andean highlands, Quechua is generally
+regarded as connected to Andean identity (Adelaar and Muysken 2004, 180–3). However, in Peru, Ecuador,
+and southern Colombia, Quechuan languages are also spoken in the Amazonian foothills of the Andes, and
+even well into the lowlands. Uzendoski and Whitten Jr. (2014, 1 ) estimate that there are about 150,000
+speakers of Amazonian Quechuan varieties in Ecuador. Although there is no consensus about how Quechua
+spread into the foothill and lowland areas, Quechua seems to have been used in this area at least since the
+colonial era (Muysken 2000), and since this time, Quechuan varieties have become the identity language of
+various peoples.
+Tukanoan and Quechuan languages are not only found in the same area but also some of the languages
+from these families are in close contact for at least half a century. For instance, the Siona and Sekoya and
+Amazonian Kichwa people live in neighboring villages on the Aguarico River, and there are various inter -
+marriages. These close contacts started at least in the middle of the last century (Ligia Criollo and Jaime
+Tangoy Pers. Comm.). There is also contact between the Quechuan Inga and Colombian Siona communities,
+which are on the same river. There is also some evidence for even older contact. Languages from both
+Figure 1: A simpli ﬁed version of the Tukanoan family classi ﬁcation by Chacon (2014, 282 ).8
+
+8 In addition to the simpli ﬁcation, there is a small change with respect to the proposed classi ﬁcation by Chacon (2014): Siona
+and Sekoya are presented as a dialect continuum based on Bruil (2014, 11 –2). Only languages studied in this article were
+represented in the tree.
+8  Rik van Gijn et al.
+[PDF PAGE 9]
+families were used as general languages of conversion during the Spanish colony. Siona was the general
+language used by the Spanish in the Putumayo, Napo, and Caquetá areas (Triana y Antorveza 1987 , 171–2).
+A variety of Quechua was more generally used as a language of conversion and was used in this capacity in
+the area where Western Tukanoan languages were spoken as well. Some evidence for this is the complaint
+by a Siona leader from the middle of the eighteenth century that the Siona people were taught Quechua to
+be sold into slavery, as reported in Chantre y Herrera (1901, 392 ), cited in Vickers (1976, 43 ). Additional
+evidence can be found in a colonial document, which includes grammatical information on a Western
+Tukanoan (WT) variety, a vocabulary WT -Spanish, and a doctrina cristiana in the WT variety and in Ynga
+(Quechuan), suggesting that both languages were used together in the same area (Cipolletti 1992, Floyd
+et al. 2021 ). So it seems that Western Tukanoan languages and Quechuan varieties have been in contact at
+least since Quechuan entered the NWA -foothill area, which probably happened before the Spanish con -
+quest (Obrem 1980, cited in Muratorio 1998, 72 –5).
+Tukanoan and Quechuan show similar alignment patterns. The languages from both families show a
+nominative–accusative alignment system. As mentioned earlier, this is cross -linguistically the most
+common canonical marking pattern found around the world, but these systems are scarcer in South
+America and are found in the Andes and adjacent areas (Aikhenvald 2012 , 225 ). Tukanoan languages
+show this alignment system in two ways: (1) both S/A are obligatorily cross -referenced on the verb and
+(2) objects can be marked with the object case marker -re. This object marker is not used on all objects,
+Figure 2: An adapted version of the Quechuan family classi ﬁcation by Adelaar and Muysken (2004, 184 ).9
+
+9 The varieties of Quechuan that are used in this study were explicitly added to Adelaar with Muysken ’s classiﬁcation (2004,
+184). Their classi ﬁcation is taken from Torero ’s work (1964).
+Lexically driven patterns of contact in alignment systems  9
+[PDF PAGE 10]
+because these languages show di ﬀerential or optional object marking, speakers can opt for the case marker
+-re or can leave the object unmarked. This same marker is used to ﬂag indirect objects across the board in
+the Tukanoan family. All Western Tukanoan languages, with the exception of Máíhɨ͂̀kì, exhibit an additional
+object marking -ni, in alternation with -re, which is mainly restricted to animate objects.
+Quechuan languages exhibit very similar behavior with respect to marking alignment. Both S and A
+show obligatory agreement on the verb, and the language has an object, or accusative case marker -ta.
+Quechuan languages also show diﬀerential object marking on some levels. In the case of some predicates, it
+is possible to use either the accusative marker -ta or the dative/allative marker -man. An example of these
+predicates is the motion predicates, which can both have an accusative marked goal or a dative marked
+goal. Quechuan languages, in addition, show some type of object indexing on the verb. This marking is in
+most languages restricted to speech act participants; however, in Ecuadorian Kichwa and closely related
+varieties, this marking is reduced to ﬁrst person objects.
+3 Approach
+3.1 Framework
+To consistently compare verbal lexicon across languages, we rely on the framework provided by the
+Valency Patterns Leipzig (ValPaL) project (Hartmann et al. 2013 , Malchukov 2015 ), in combination with a
+cross-linguistically applicable semantic map of verb classes (Malchukov 2005). The ValPaL project identi -
+ﬁed 70 verb meanings that were taken to be representative of the verbal lexicon across languages (Mal-
+chukov 2015, 29 ). For each predicate, a set of the so -called microroles and macroroles is associated with
+each participant that the predicate introduces. Consider the following example of a typical transitive
+predicate concept that introduces two core participants¹ ⁰:
+EAT: A [microrole:eater] eats P [microrole:eaten food]
+In this case, the macroroles are A (referring to the agent -like participant ) and P (the patient -like partici -
+pant). As can be seen in the aforementioned example, microroles are predicate speci ﬁc in recognition of the
+potential for language -particular encoding patterns at the level of the individual predicate, rather than
+simply relying on traditional labels for the roles for each participant. However, by using the original
+terminology from the ValPaL project, traditional role -related labels are elaborated into the set of macro -
+roles, which group microroles together into broader classes and allow for higher level analyses. By separ -
+ating these two levels, the ValPaL approach presents an attractive means of arranging our data to search for
+lexical-level patterns as well as drawing broader conclusions regarding the alignment patterns in the area
+under discussion.
+In the case of our project, we extend the ValPaL paradigm by categorizing each predicate entry a priori
+on the basis of its semantic type, following Malchukov (2005).
+Malchukov proposes a hierarchy of verb types speci ﬁcally for the purposes of cross -linguistic compar-
+ison, which is designed to predict the likelihood that a verb has a case frame that deviates from the
+canonical transitive case frame. At the same time, it aims to group verb types that are likely to show similar
+case frames, based on the semantic comparability of verb arguments. Malchukov ’s proposal in fact contains
+three hierarchies, which all highlight di ﬀerent semantic deviations from the prototypical transitive
+
+10 Note that the ValPaL project also provides fringe microroles per predicate concept – for instance, associated with EAT are
+eating instrument, eat bene ﬁciary, and eat location ; however, these were disregarded for the purposes of the current study.
+10  Rik van Gijn et al.
+[PDF PAGE 11]
+situation type. On the basis of Hopper and Thompson ’s (1980) characterization of transitive events, a
+prototypical transitive event has:¹¹
+1. Prototypical agent: visible, salient, volitional, controlling agent cause, which initiates the event.
+2. Prototypical patient : visible, salient, nonvolitional, noncontrolling patient e ﬀect, which registers the
+bulk of change associated with the event.
+Based on these prototypical A and P arguments, Malchukov initially proposes two dimensions or
+subhierarchies that represent di ﬀerent types of deviations from these prototypes, as shown in Figure 3 .
+At the left end of Figure 3 ,e ﬀective actions (e.g., break, cut ) involve a prototypical (controlling,
+volitional) agent acting on a prototypical (noncontrolling, a ﬀected) patient. The top line of the ﬁgure
+represents degrees of deviations away from the prototypical patient. Contact verbs (e.g., hit, pinch) involve
+a patient that is attained, but not necessarily a ﬀected in the sense that it undergoes a change of state. The
+next step on the top line is pursuit verbs (e.g., look for, aim at ) which involve an even less prototypical
+patient, in that it is not (necessarily) attained. The nonagentive argument is more like a Goal, semantically.
+Motion verbs, ﬁnally, are typically one -place predicates, optionally taking an oblique second argument.
+The bottom line depicts deviations away from the prototypical agent. This hierarchy is more complex
+than the one involving decreased patienthood, since a number of cases not only involve a nonprototypical
+agent but also a nonprototypical patient. A case in point is a verb like to see , which involves not only an
+Experiencer agent but also a nona ﬀected patient. Nevertheless, the main parameter structuring the lower
+hierarchy is decreased agenthood, which we focus on in the remainder of this paragraph. Perception and
+cognition verbs can involve a volitional, controlling agent (e.g., in verbs denoting conscious acts of percep -
+tion or cognition, like to look (for), to listen (for), to actively remember or think ), but often the A -like
+participant is semantically an Experiencer, as in to see, hear, forget, etc. The group of emotion predicates
+represent a step further away from the prototypical agent, in that it is not only a noncontrolling and
+nonvolitional agent but also arguably an (emotionally) aﬀected one. This is also true (perhaps more so )
+for sensation predicates, which tend to be monovalent, but which, unlike motion verbs, are more likely to
+have a noncanonically marked Experiencer.
+Malchukov (2005) makes further suggestions to expand the map, so that it can incorporate a greater
+part of the verbal lexicon. The full map is depicted in Figure 4.
+First, an important addition is a third line, going from e ﬀective actions to re ﬂexives, middles, and
+spontaneous events. The parameter governing this particular route is the relative distinguishability of the
+Agent and Patient participant, following the work of Kemmer (1993) on middle semantics. Kemmer ’s (1993)
+semantic map is more ﬁne-grained, but for the purposes of cross -linguistic comparison, Malchukov recog -
+nized three classes along this dimension: syntactic re ﬂexives (I hit myself), semantic middles, and inherent
+reﬂexives and body actions including verbs of grooming, nontranslational motion, body posture, as well as
+symmetric predicates like ‘meet’. Spontaneous events are those events that occur seemingly without any
+Figure 3: Two-dimensional verb hierarchy (adapted from Malchukov 2005, 81 ).
+
+11 Hopper and Thompson (1980) also mention a number of characteristics relating to the verb (relating to TAM speci ﬁcations),
+but they are irrelevant to Malchukov ’s hierarchies, and so we will ignore them here.
+Lexically driven patterns of contact in alignment systems  11
+[PDF PAGE 12]
+identiﬁable agentive force (e.g., burst, explode ). Two further types were added to the basic, two -dimen-
+sional map that was based on Tsunoda ’s (1981) work: verbs involving aﬀected agents and interaction verbs.
+The former are prototypical transitives in the sense that there is a volitional, controlling agent, and an
+aﬀected patient, but the agent is also a ﬀected by performing the action. This group contains verbs of
+consumption (eat, drink ) as well as other verbs like ‘put on ’ or ‘take’ (Malchukov 2005, 111 ). Finally,
+Malchukov proposes a separate class of interaction verbs, broadly conceived, including verbs of commu -
+nication (speak, converse, shout at ) and social interactions of di ﬀerent kinds (marry, follow, agree ). The
+lines between the diﬀerent verb classes represent a ﬃnities between them. For instance, middle verbs, apart
+from connections on the transitivity scale to re ﬂexives on the one hand and spontaneous events on the
+other, are connected to perception, cognition, and emotion predicates, which are cross -linguistically also
+often part of a group of middle verbs where the agent –patient distinction is collapsed (cf. Kemmer 1993 ),¹²
+and they connect to verbs of interaction, which are, or can often be, symmetrical.
+3.2 Database structure, language sample, and methodology
+For the purpose of tracing the distribution of (non-)canonical case frames on the basis of lexical items, the
+organization of our database was inspired in large part by the ValPaL framework as outlined earlier. We
+adapted the original ValPaL model in two main ways to search for lexical patterns and to implement these
+data in testing whether Malchukov ’s observations regarding semantic verb types and concomitant patterns
+of case frame selection hold for the languages of our sample. First, we expanded the total number of
+predicates from roughly 70 to 112 to have a representative number of predicates for each semantic class
+as per the extended semantic map presented in Malchukov 2005 , replicated in Figure 4. The next and most
+crucial update that we made to the original model was to attribute each predicate to one of Malchukov ’s
+types, independent of our language -particular analysis: for instance, EAT was classi ﬁed as being of the
+“aﬀected agent” type on the basis of the semantics of the verbal concept. A list of verbal concepts and their
+classiﬁcation into the semantic classes, inspired by Malchukov 2005, is given in the appendix of this article.
+Up until this point, the top –down nature of this database is retained, and the modi ﬁed ValPaL model could
+in theory be applied to any set of languages without further manipulation. With this groundwork in place,
+the database skeleton was ready, and we could begin to populate the charts with language -particular
+data sets.
+When the database is populated with language -particular data sets, alignment patterns naturally
+emerge. Where each role is ﬂagged in the expected way for a given predicate, the predicate is deemed to
+Figure 4: Three-dimensional verb hierarchy (Malchukov 2005, 113 ).
+
+12 Kemmer (1993, 202) positions cognition and emotion predicates in between prototypical reﬂexives and prototypical passives,
+both of which are directly adjacent to the middle semantic domain.
+12  Rik van Gijn et al.
+[PDF PAGE 13]
+have a canonical case frame. Deviations from the canonical case frame can arise where any of its core
+participants does not receive the ﬂag (or other relevant morphosyntactic operations ) that it does in the
+context of a canonical frame. As has been explained earlier, the fact that we can pinpoint on which
+participant the deviant pattern arises is indispensable to connect shared patterns of noncanonical ﬂagging
+or indexing to the parameter of the prototypical transitive properties associated with the participant given
+the semantics of the concept.
+Data sets for each relevant language within our sample were developed on the basis of grammars and
+dictionaries and/or elicitation sessions with language consultants. As mentioned earlier, our sample
+focuses on Quechuan and Tukanoan languages of the NWA -foothill area. In addition, we sampled
+Quechuan and Tukanoan languages that fall outside this area as control languages, which help to distin -
+guish genealogical and areal patterns. The selection of languages for our project was constrained in part by
+the availability of solid grammatical materials as well as the specialties of the researchers involved. Where
+possible, we aimed to supplement and reinforce the information available in the literature via elicitation
+with language consultants. These elicitation sessions consisted of translation tasks from Spanish to the
+language of interest. The sentences used in these translation tasks were preconceived using the set of
+stimulus sentences provided by ValPaL, extended with similar sentences for verbs not found in the original
+ValPaL list. We needed to add various concepts to the original list, such as be hungry and be sleepy because
+these were hypothesized to be relevant to alignment patterns in the region. In total, our study considered
+alignment patterns from 15 languages.
+Table 2 enumerates the languages in our sample, classi ﬁed as either falling within our interest area or
+not (i.e., the latter acting as a control in our study ), along with the grammatical materials and dictionaries
+consulted to build up our datasets where applicable. Map 3 plots the geographical distribution of these
+languages.
+Table 2: Language sample for current study
+Language name Language family In interest area? Consulted materials
+Cañar Kichwa Quechuan Yes Fieldwork
+Imbabura
+Kichwa
+Quechuan Yes Fieldwork, Cole 1982
+Upper Napo
+Kichwa
+Quechuan Yes Fieldwork
+Tungurahua
+Kichwa
+Quechuan Yes Fieldwork
+Cuzco Quechua Quechuan No Fieldwork, Cusihuáman 1976
+Bolivian
+Quechua
+Quechuan No Fieldwork, Lastra 1968
+Ecuadorian
+Siona
+Western
+Tukanoan
+Yes Fieldwork, Bruil 2014 , Criollo Quintero 2011
+Koreguaje Western
+Tukanoan
+Yes Cook and Criswell 1993 , Cook and Gralow
+2001, Cook 1999
+Máíhɨ͂̀kì Western
+Tukanoan
+Yes Michael et al. 2012, Michael et al. 2013,
+Farmer 2015
+Kubeo Eastern Tukanoan No Morse and Maxwell 1999 , Morse et al.
+1999, Chacon and Genetti 2019
+Kotiria Eastern Tukanoan No Waltz 2007 , Stenzel 2013
+Desano Eastern Tukanoan No Alemán et al. 2000 , de Lima Silva 2012,
+Miller 1999
+Barasana Eastern Tukanoan No Jones and Jones 1991 , 2013
+Tukano Eastern Tukanoan No Ramirez 1997 , West 1980, Bon ﬁm Duarte
+and de Oliveira Lopes 2020
+Lexically driven patterns of contact in alignment systems  13
+[PDF PAGE 14]
+For each language in our sample, the ﬁrst step was to ﬁnd the relevant lexical item (s) for each of the
+predicates in our database. These forms were entered into a centralized mastersheet so that cognates and
+candidates for lexical borrowing could be identi ﬁed away from the noise associated with language -parti-
+cular ﬂagging/indexing analyses. Once the lexical items had been found and entered into the corre -
+sponding cell in the mastersheet, the next step was to analyze the predicates for each language on an
+individual basis and in a separate analysis workspace. On the basis of pertinent examples or relevant
+descriptions in the pre -existing literature, and/or elicited examples, we identi ﬁed the dependent marking
+pattern (i.e., the case frame) and the verbal indexing pattern associated with each core participant for every
+predicate within a given language ’s analysis workspace. In certain instances where relevant examples
+could not be procured, alignment patterns were inferred as a last resort to level our analysis across the
+entire sample.
+Map 3: The geographical distribution of our language sample.
+14  Rik van Gijn et al.
+[PDF PAGE 15]
+Once all of the data had been collected following the strategy outlined earlier, the goal of our analysis
+was to trace the distribution of noncanonical ﬂagging patterns across the predicates and verb types in our
+data sets. In each language-particular workspace, we grouped predicates on the basis of their verb type and
+identiﬁed the ﬂagging pattern used on A -like participants as well as P -like participants.¹³ In turn, we
+determined the percentage of predicates per type in our data set, which assign a noncanonical ﬂag to
+the A -like participant and/or the P -like participant. In tandem with this type -level analysis, we also
+retained a list of predicates which exhibit deviant alignment behavior to determine whether these represent
+candidates for lexical borrowing.
+4 Results
+Our discussion of the results is shaped by the semantic map in Malchukov 2005 and the tracking of the
+marking patterns of P -like participants, discussed in Section 4.1, and marking of A -like participants, dis -
+cussed in Section 4.2. In the text that follows, we focus our attention on ﬂagging patterns. We do not discuss
+indexing here, since there were essentially no surprising facts regarding indexing patterns beyond what is
+already noted in Section 2. Namely, A/S arguments control verbal agreement across Tukanoan and Que -
+chuan, whereas O indexing is optionally present in Quechuan and unavailable in Tukanoan. In both
+language families, as is cross -linguistically common, impersonal predicates engender default 3SG subject
+indexing.
+4.1 Marking of P - and R -like participants across semantic classes
+Figure 5 exhibits the percentage of accusative ﬂagging found on the P -like argument against the semantic
+classes in Malchukov 2005 for our Tukanoan sample, separated by the languages within and outside of the
+NWA-foothill area (i.e., labeled “interest” and “control,” respectively). Certain concepts also invoke an R
+participant (i.e., Recipient or other indirect argument participant ), and these are considered where relevant
+Figure 5: Accusative marking on P/R participant in Tukanoan per verb type.
+Lexically driven patterns of contact in alignment systems  15
+[PDF PAGE 16]
+to our discussion. Interestingly, across both families ﬁguring in our core discussion, these participants tend
+to pattern together as regards their ﬂagging patterns. We discuss certain deviations from this generalization
+in what follows. In the following ﬁgure, and the others like it to follow, we have replicated the general
+conﬁguration Malchukov ’s tables, where the degree of shading indicates the extent to which we ﬁnd
+deviancy from the expected ﬂagging pattern. The percentage ﬁgures are presented separately for those
+languages within the putative contact area, namely, “interest” languages from the NWA -foothill region,
+and for those located outside of this area, namely, the “control” languages for our study. Table 2 presents a
+list of “interest” and “control” languages for both Tukanoan and Quechuan in our sample.
+As can be seen, accusative marking is the clear majority pattern in all classes except those at the fringes
+of Malchukov ’s map (motion, spontaneous, and sensation concepts ), which are overwhelmingly intransi -
+tive cross -linguistically. In the case of sensation concepts, there is an exceptional concept, namely, hurt,
+which we analyze as taking an Experiencer A and a Stimulus P underlyingly. These concepts are considered
+in detail in Section 4.2, where we discuss the ﬂagging patterns associated with Experiencer A arguments.
+The di ﬀerences between the languages under investigation and the control languages are generally
+small. In our discussion of the di ﬀerences between foothill Tukanoan languages and the control languages,
+we focus on the top line of the semantic map. Nonetheless, we begin by noting a few marginal instances
+of nonaccusative case marking on the P/R participant with the interaction predicates from various Tukanoan
+control languages. The examples in (3) demonstrate the ﬂagging patterns found with talk in Desano and
+Kotiria, where the person spoken to is encoded with the comitative marker (i.e., roughly “with” in English).
+(3) a. Desano [TUKANOAN], Alemán et al. 2000 ,6 4 - wereniguiri (talk)
+pa-gʉ-sʉma-rã-pʉ po-rã-mera
+parent-CLS.M-vagina-PL.ANIM-CONTR oﬀspring-PL.ANIM-COM
+were-nigui-ma
+tell-stand-3PL.IPFV
+‘The parents are talking with their children. ’
+b. Kotiria [TUKANOAN], Waltz 2007 , 106 - durucu (talk)
+pahi-mehne du-rucu-ro ni -na
+priest-COM talk-stand-3SG.IRR be-3SG.VIS.IPFV
+‘He’s talking with the priest. ’
+Besides these marginal instances in the control languages, the P and/or R argument occurs with
+accusative ﬂagging as predicted with all other verb classes where they are associated with prototypical
+transitive participants – for instance, with e ﬀective action, a ﬀected agent, perception, and cognition pre -
+dicates. This pattern is pervasive across both the interest and the Tukanoan control languages in our data.
+Before discussing the variation that takes place at the top line of the semantic map, we compare the
+distribution of accusative ﬂagging with P/R participants in Quechuan in Figure 6 . The picture in Quechuan
+is largely similar, with slightly more instances of nonaccusative marking.
+As is the case with Tukanoan, the majority of transitive predicates belonging to classes that are not
+along the top line in Malchukov ’s semantic map select for a nominative –accusative case frame. So, the
+languages of both families generally follow the patterns predicted by the Malchukov model. Despite this
+general tendency to select a canonical nominative–accusative case frame on transitive predicates, we note a
+few discrepancies in the case of Quechuan. First, on par with Desano and Kotiria, we observe an instance of
+the interactive concept talk choosing a slightly di ﬀerent frame where the individual spoken to is encoded
+with comitative marker in Cuzco Quechua.
+
+13 Note that we did not dedicate our elicitations to the subtleties of di ﬀerential argument marking patterns for the sake of this
+project, as these details exceed the scope of this investigation. Rather we focused on predicate -level alignment patterns,
+accepting the fact that there may be surface variation with respect to the surface manifestation of the case forms involved.
+16  Rik van Gijn et al.
+[PDF PAGE 17]
+(4) Cuzco Quechua [QUECHUAN], ﬁeldnotes - rimay (talk)¹⁴
+chay pasñacha maqt’acha-wan allqon-manta rima -ri-n
+DEM.PROX girl boy -COM dog-ABL talk-PST-3SG.SBJ
+‘The girl talked with the boy about her dog. ’
+In the case of Quechuan, it is also relevant to note that, although the accusative marker -ta can extend
+to indirect objects in most cases (particularly where the referent is animate ), just like the pattern which is
+noted for Tukanoan earlier, it is also possible in some varieties to mark the R participant with the dative/
+allative marker -man (or its cognate ). This fact marks a stark contrast with Tukanoan where only the
+accusative marker -re can be used with the R participant, even in languages with a dedicated “goal” marker
+such as Siona and Koreguaje.
+Another marginal instance of a nominative –oblique case frame arises in Upper Napo Kichwa. In fact,
+just as in the interaction predicates discussed earlier, there appear to be two case frames that can be
+selected for the concept think (about) – one where the entity or concept which is thought about is encoded
+typically with the accusative marker -ta, and another where it receives the ablative marker -manta. The
+sentences in (5) exemplify these two case frames.
+(5) a. Upper Napo Kichwa [QUECHUAN], ﬁeldnotes - iyana (think)
+pay-guna iya -ria-nushka ñuka-ra
+3-PL think-PROG-3PL.ANT 1SG-ACC
+‘They had been thinking about me. ’
+b. Upper Napo Kichwa [QUECHUAN], ﬁeldnotes - iyana (think)
+ñukanchi wawa-guna-manda iya-ri-sha tarba -shun
+1PL child-PL-ABL think-ANTIC-COR work-2PL.HORT
+‘Thinking of our children, let ’s work! ’
+Figure 6: Accusative/dative marking on P/R participant in Quechuan per verb type.
+
+14 This particular example was elicited, and there is possible in ﬂuence from Spanish in this instance. Other such instances are
+found elsewhere in the literature, so we have included this in our analysis as is.
+Lexically driven patterns of contact in alignment systems  17
+[PDF PAGE 18]
+Besides these instances of deviation from the canonical nominative–accusative case frame in Quechuan,
+just as is the case with Tukanoan, the majority of concepts found in the lower portions of Malchukov’sm o d e l
+select for the canonical frame as predicted by their prototypical transitive semantics.
+We now shift our discussion to the semantic classes, which are less prototypically transitive and thus
+more naturally select for noncanonical case frames, namely, contact, pursuit, and motion predicates. It is
+not always clear whether a given concept is better classi ﬁed as a contact or a pursuit predicate based on
+Malchukov 2005 (and others discussed in Section 3.1 ), so we discuss particular lexical entries in turn before
+returning to a general discussion of the patterns. Turning ﬁrst to the Tukanoan languages, both foothill and
+control languages have verbs that were classi ﬁed as contact verbs that take a nominative –oblique pattern;
+note that we have tracked the behavior of R participants in ditransitive verbs in Figure 6. These concern the
+same verb types across all languages in our sample: lean on, load, throw at, and stick to. These verbs do not
+necessarily pattern in the same way in each language within the sample, e.g., lean on takes the instrumental
+case in Kubeo, exempli ﬁed in (6a), but the locative case in Desano as in (6b). Stick to takes its goal -like
+argument in the locative case in Kotiria as in (6c), whereas it takes the goal marker in Siona as in (6d). Note
+that the case su ﬃxes in (6a-b) are quite likely cognates. Although it might be because of this cognacy that
+these two languages feature di ﬀerent case patterns for this verb, this is beyond the scope of this article, and
+this claim is therefore neither made nor explored further here.
+(6) a. Kubeo [TUKANOAN], Morse et al. 1999 , 282 - tutute (lean)
+abodo-que tutute-bi b ʉcʉcʉ
+stick-INST/COM lean-3SG.M.EXPER.REC.PST elderly.man
+‘The elderly man leaned on a stick. ’
+b. Desano [TUKANOAN], Alemán et al. 2000 ,5 7 - tua (lean)
+yʉhʉ tiarica-gue tua-doa-a
+1SG wall-LOC lean-sit-PRF
+‘I’m sitting, leaning against the wall. ’
+c. Kotiria [TUKANOAN], Waltz 2007 ,5 9 - wahã (stick (to))
+to mas ʉ na-ri p ũ wahã-na sohõ-i
+ANA picture take -NMLZ sheet.of.paper stick -3SG.VIS.IPFV DEM .DIST-LOC
+tiharica-i
+wall-LOC
+‘The photograph sticks to the wall there. ’
+d. Siona [TUKANOAN], Bruil 2014 , 170 - sɨ‘a (stick (to))
+(...) hãɨ̃-dɨ sɨ‘a-ɨ-jã
+(...) hammock-CLS:HAMMOCK stick-2/3SG.M.PST.NASSRT-REP
+ĩ-ɨ hehte-na
+DEM.PROX-CLS:ANIM.M back-GOAL
+‘(...) the hammock stuck onto his back. ’
+A particularly interesting case of divergent case frames on the same predicate in Tukanoan is found
+with throw (at). Contrast the instance in Kotiria in (7a), where the thrown object is encoded with an
+accusative ﬂag and the goal of the throwing action takes the locative marker, and the frame in Tukano
+in (7b), where the thrown object takes an instrumental ﬂag and the target of the throwing action is ﬂagged
+with the accusative marker.
+(7) a. Kotiria [TUKANOAN], Waltz 2007 ,5 9 - cohã (throw)
+pjaa pohcari -re cohã -jihna sopaca-pʉ
+form.PL trash.PL-ACC throw-HORT door-LOC
+‘Let’s throw the trash out of the door (lit: at the door )!’
+b. Tukano [TUKANOAN], Ramirez 1997 ,4 0 - doke (throw)
+ɨ̃tâ-ga-me’ra diâyɨ-re doke-mí
+stone-CLS:ROUND-INST dog-ACC throw-3SG.M
+‘He throws (with) a stone at the dog. ’
+18  Rik van Gijn et al.
+[PDF PAGE 19]
+With regard to Quechuan languages, for contact verbs, the same verbs deviate from the nominative –ac-
+cusative pattern as in the Tukanoan languages. This is across the board: in both the foothill languages and
+the control languages. In most Quechuan languages, either the locative or allative/dative case marker is
+used to mark the P/R participant. This is illustrated in (8) for Tungurahua Kichwa – note that this variety
+aligns its case frame selection for the predicate throw (at) with Kotiria (with accusative marking on the
+thrown object rather than the goal like in (7a)), as compared with the strategy shown for Tukano in (7b). For
+the sake of comparison, however, (9) demonstrates an instance from Upper Napo Kichwa with stick (to)
+where the animate goal -like P receives the accusative ﬂag.
+(8) Tungurahua Kichwa [QUECHUAN], ﬁeldnotes
+a. chi pirka -pi kimiri-rka-ni (ñuka)
+DEM.DIST wall-LOC lean.on-PST-1SG.SBJ 1SG
+‘I leaned on that wall. ’
+b. chi hari antawa-pi apari-rka
+DEM.DIST man car -LOC load-PST
+‘The man loaded the truck. ’
+c. ñuka sobrino shu rumpa -ta ñuka-mu shita-rka
+1SG nephew one ball -ACC 1SG-DAT throw-PST
+‘My nephew threw the ball at/to me. ’
+(9) Upper Napo Kichwa [QUECHUAN], ﬁeldnotes
+angu llaki lluta -ri-shka apama-ra
+type.of.insect much stick -ANTIC-ANT woman-ACC
+‘The insect (s) stuck onto (that) woman.’
+As suggested earlier, it is not always clear how to best classify these verbal concepts. For this reason, we have
+expanded what we found for each language across the four verbs that fed the variation discussed in the preceding
+examples with explicit role-marking correspondences for reference in Table 3.I nt h ei n t e r e s to fu n i f y i n gt h e
+Table 3: P/R ﬂagging for “load onto, ”“ stick to, ”“ lean on, ”“ throw at ” per language
+Load onto (the man loaded
+the hay onto the truck )
+Throw at (the man threw the
+ball at the boy )
+Stick to (the
+gum stuck to
+the chair )
+Lean on (the
+man leaned
+on the stick )
+P (hay) R (truck) P (ball) R (boy) P (chair) P (stick)
+Cañar ACC (-ta) LOC (-pi) ACC (-ta) ALL (-ma) LOC (-pi) INST (-wan)
+Imbabura ACC (-ta) LOC (-pi) ACC (-ta) ALL (-man) LOC (-pi) LOC (-pi)
+Tungurahua ACC (-ta) LOC (-pi) ACC (-ta) ALL (-mu) LOC (-pi) LOC (-pi)
+Upper Napo ACC (-ta) ALL (-ma) ACC (-ta) ALL (-ma) LOC (-pi) LOC/ACC
+(-pi/-ta)
+Bolivian Q ACC (-ta) ALL (-man) ACC (-ta) ALL (-man) LOC (-pi) LOC (-pi)
+Cuzco Q ACC (-ta) ALL (-man) ACC (-ta) ALL (-man) — LOC (-pi)
+Siona ACC (-re) ALL (-na) —— ALL (-na) —
+Koreguaje ACC (-re) ALL (-na) ACC (-re) ALL/ACC
+(-na/-re)
+ALL (-na) —
+Máíhɨ͂̀kì ACC (-re) ALL (∅/-re) ACC (-re) ALL/
+ACC (∅/-re)
+ALL (∅/-re) —
+Kubeo ACC (-re) INST (-ke) ACC (-re) LOC (-i) INST (-ke) INST (-ke)
+Kotiria ACC (-re) — ACC (-re) LOC (-i/-pu) LOC (-i/-pu) LOC (-i/-pu)
+Desano ACC (-re) — ACC (-re) ACC (-re) LOC (-ge) LOC (-ge)
+Barasana ACC (-re) — ACC (-re) ACC (-re) ACC (-re) ACC (-re)
+Tukano ACC (-re) — INST
+(-me’ra)
+ACC (-re) LOC (-pɨ) LOC (-pɨ)
+Lexically driven patterns of contact in alignment systems  19
+[PDF PAGE 20]
+terminology for our discussion of these predicates, we chose to collapse some sets of related markers under a single
+label where syncretism was observed, namely, ALL(‘allative’) subsumes dative, goal, and allative or directional
+marking, whereas INST(‘instrumental’) subsumes both instrumental and comitative marking.
+To conclude our discussion of case -marking patterns associated with the P -like element, we shift to
+consider motion predicates. As per Malchukov ’s semantic map, motion predicates are the least prototypi -
+cally transitive semantic class as regards the prototypicality of their goal -like P argument, and this is where
+we ought to expect to ﬁnd the highest proportion of noncanonical case frames. As Figures 5 and 6 demon -
+strate for the Tukanoan and Quechuan families, respectively, this fact is borne out in our data. Although
+motion predicates tend to select for noncanonical case frames in both families as predicted, there are
+notable di ﬀerences between these families with regard to ﬂagging patterns for these concepts. This fact
+is immediately clear when considering the distribution of accusative marking with motion predicates in
+Tukanoan (27% of instances in the foothill languages, and 44% of instances in the control languages ) and
+those in Quechuan (50% for all varieties ). Further details regarding the crucial di ﬀerences across these
+language families are discussed later in this article.
+To begin with the languages of interest in the Tukanoan family, the Western Tukanoan languages Siona
+and Koreguaje have a dedicated goal (or allative) marker -na. As discussed in Section 2 , this marker is used
+diﬀerentially along the lines of di ﬀerential subject/object marking in these languages, as well as used with
+all predicates that take a goal -like P, such as go. In addition, these languages also have a dedicated source
+(or ablative) marker -bi,¹⁵ which is used with motion predicates like leave. The same rich case system and
+marking patterns are found in the closely related Western Tukanoan language Sekoya (Johnson and
+Levinsohn 1990, 45 –9). In the case of Máíh ɨ͂̀kì, which has a reduced case inventory compared with the
+other Western Tukanoan languages, such goals are typically left unmarked altogether. The accusative
+marker arises where the goal is animate. However, it is not clear whether there is additional semantics
+associated with this role and whether it should therefore be treated separately, as in “I am going to (see and
+speak with) X” (Neveu 2012). For this reason, we included duplicate entries for these predicates to represent
+both patterns in our sample. Taken together, typical destination goal -like Ps with motion predicates do not
+straightforwardly receive the canonical ﬂagging pattern associated with prototypical P -like arguments in
+any of the Tukanoan languages within the interest area.
+Some of the control languages from our Tukanoan sample exhibit a comparable pattern with motion
+predicates to that discussed earlier for foothill varieties. Each of the Eastern Tukanoan languages studied
+presented a dedicated locative marker (or one of several such markers ) on the P -like argument of motion
+predicates like go. These markers do not exhibit the same di ﬀerential distribution as noted in the case of
+Siona and Koreguaje. Interestingly, Kotiria, Tukano, and Barasana optionally permit the speci ﬁcity marker
+(identical in shape to the accusative maker -re, or perhaps the object marker itself ) to appear stacked after
+the locative marker in such instances. Miller (1999,6 1 –2) also discusses a more restricted set of locative -
+accusative stacking in Desano. Such a stacking pattern is not noted in any of the Western Tukanoan
+varieties considered here. Stenzel (2014, 140 ) suggests that the particular con ﬁguration of the locative, in
+Kotiria -pʉ, and the optional -re marker might best be treated as encoding the allative case, and not as
+accusative marking as is found with more prototypical transitive verb classes. We encoded all languages
+with such patterns as selecting for a nominative–oblique frame with these predicates. In the case of Desano,
+most goal-like P arguments are ﬂagged with the locative marker, as in (10a), whereas in certain marginal
+instances, this P is ﬂagged with the accusative, as in (10b).
+
+15 Interestingly, this is presumably the same marker that is used in both languages to overtly mark subjects in the context of
+diﬀerential subject marking discussed brieﬂy in Section 2. For the purposes of this article, this fact is presumed to be a historical
+accident, and these should be treated as two separate functions of this marker.
+20  Rik van Gijn et al.
+[PDF PAGE 21]
+(10) a. Desano [TUKANOAN], Miller 1999 ,5 9
+iri conferencia-re Jaime eha -bĩ
+DEM.PROX conference-ACC J arrive -3SG.M
+‘Jim arrived at this conference. ’
+b. Desano [TUKANOAN], Miller 1999 ,6 0
+(...) pɨʔrɨ buʔa-bɨ pare ﬁnka-ge
+after go.down-N3.PST ﬁnally farm -LOC
+‘(...) after [this] we went down to a farm (our ﬁnal destination ).’
+With respect to motion verbs, the picture is slightly di ﬀerent in Quechuan languages than in Tukanoan
+languages. The P -like argument associated with motion predicates can be encoded in two ways. As men -
+tioned in Section 2.2 , either the goal -like P receives the canonical accusative marker -ta as found with more
+prototypically transitive verb types or it can be marked with an oblique, namely, the dative/allative marker
+-man. The extension of accusative marking to goal -like Ps is common to all varieties of Quechuan (Adelaar
+2017). As Adelaar (2017, 654) explains “characteristically[o fQ u e c h a na n dA y m a r a ng e n e r a l l y], a verb selects
+an accusative case for the object or goal that is typical for its meaning, regardless of whether the latter is a
+direct object, an indirect object or a geographical goal.” In other words, the accusative case marking pattern
+in Quechuan extends into the class of motion verbs, which is unusual from a cross -linguistic perspective,
+although languages like English marginally allow for this pattern as well(as in to enter or to leave). Given that
+both a nominative –accusative and a nominative –oblique frame can be chosen in the Quechuan varieties
+ﬁguring in this study, each relevant predicate received two entries; hence, the percentage representing the
+proportion of canonical ﬂagging patterns with Quechuan motion predicates ends up as notably higher than
+those noted for the Tukanoan languages (comparing Figures 5 and 6, respectively ).
+4.2 Marking of A -like participants across semantic classes
+When we zoom in on the ﬂagging on the A -like participant, the languages in our sample very consistently
+mark A-like participants with a nominative marking pattern. This is true for both Tukanoan and Quechuan
+languages. Focusing ﬁrst on the Tukanoan languages, Figure 7 neatly displays how they attribute structural
+Figure 7: Nominative marking on A participant in Tukanoan sample per verb type.
+Lexically driven patterns of contact in alignment systems  21
+[PDF PAGE 22]
+nominative ﬂagging to the A -like participant across all verb types, with the notable exception of sensation
+predicates, which are discussed at length later in this section. This pattern holds for languages within the
+putative contact area, namely, the Western Tukanoan varieties collapsed under the label “interest” in
+Figure 7, as well as for the Eastern Tukanoan languages considered as “controls.”
+The only nonsensation predicate where a noncanonicalﬂag was found on the A participant in our Tukanoan
+sample is noted for a spontaneous predicatefall asleepin the control language Kotiria. This is an example of what
+we will later call a “suﬀer”-type predicate, also found in sensation predicates(see the following table).
+(11) Kotiria [TUKANOAN], Waltz 2007 , 309¹ ⁶
+yoa-ri pja to yahu -chʉ wʉjo pur ĩ-yʉhdʉ-a-re
+be.long-NMLZ time ANA explain-DS sleep hurt -INTS-AFFT-3SG.VIS.PFV
+yʉhʉ-re
+1SG-ACC
+‘When he was explaining for so long, I fell asleep. ’
+For the sake of comparison, Figure 8 demonstrates the distribution of nominative marking patterns
+across the Quechuan varieties in our sample. Just as in the case of P -like participants discussed in Section
+4.1, the pattern is more or less the same as in the case of Tukanoan, save for a few outlier predicates. Again,
+it appears that Quechuan has more, albeit only slightly more, outliers than does Tukanoan.
+There are marginal patterns of noncanonical A marking with emotion and cognition predicates in Cañar
+and Upper Napo Kichwa, where the A -like participant is ﬂagged with the accusative marker. First, consider
+the construction used in Upper Napo Kichwa as a natural translation for the cognition predicate remember.
+Figure 8: Nominative marking on A participant in Quechuan sample per verb type.
+
+16 Note that Waltz 2007 provides multiple Spanish equivalents for the construction “wʉjo pur ĩna” in his Kotiria -Spanish
+dictionary: adormecerse (fall asleep ), tener sueño , estar somnoliento , and somnolienta (be tired ). This ﬁrst translation is not
+explicitly recognized or exempliﬁed in the other Kotiria text consulted, namely, Stenzel 2013, who only recognizes the sensation
+semantics. The glossing is our own since the original did not provide glossed examples.
+22  Rik van Gijn et al.
+[PDF PAGE 23]
+(12) Upper Napo Kichwa [QUECHUAN], ﬁeldnotes - iyay tiana/iyay charina (∼remember)
+shina asha -ra ñuka-ra mana iya -y tia -wa-n
+like.this COP-COR-ACC 1SG-ACC NEG think-OBJ.NMLZ exist-PROG-1OBJ-3
+‘With things as they are, I don ’t remember. ’
+Next, we turn to the case of the emotion predicate gushtana (like) as found in both Cañar and Imbabura
+Kichwa. In the case of Cañar Kichwa, it is possible to mark the A -like Experiencer with accusative -ta as
+shown in (13a), and this is the preferred strategy. In this case, both the lexical item and the case frame are
+borrowed from Spanish. However, it is also possible to mark the P -like stimulus argument with accusative
+marking using the canonical case frame (see 13b ). This is the exclusive means of encoding the cognate
+predicate in the case of Imbabura Kichwa as shown in (14).
+(13) a. Cañar Kichwa [QUECHUAN], ﬁeldnotes
+kay ayllullakta ñuka-ta gushta-n-mi
+this community 1 SG-ACC like-3-EVID
+‘I like this community. ’
+b. Cañar Kichwa [QUECHUAN], ﬁeldnotes
+chay longo gushta-shka mushuk pugllana -ta
+this boy like -PFV new toy -ACC
+‘This boy likes the new toy. ’
+(14) Imbabura Kichwa [QUECHUAN], Cole 1982 ,7 9
+ñuka(-pash) kamlla-ta gushta -ni; (y) ñuka pani (-pash)
+1S-ADD toasted.corn-ACC like-1SG.SBJ and 1s G sister-ADD
+kamlla-ta gushta -n; (y) ñuka wawki (-pash)
+toasted.corn-ACC like-3SG.SBJ and 1 SG brother-ADD
+kamlla-ta gushta -n
+toasted.corn-ACC like-3SBJ
+‘I like toasted corn, my sister likes toasted corn, and my brother likes toasted corn. ’
+Returning to Cañar and Upper Napo Kichwa varieties, the same two languages present instances of
+noncanonical marking on the A -like participants of spontaneous events:
+(15) a. Cañar Kichwa [QUECHUAN], ﬁeldnotes - rupana (burn)
+wasi-ta rupa-rka
+house-ACC burn-PST
+‘The house caught ﬁre.’
+b. Cañar Kichwa [QUECHUAN], ﬁeldnotes - kimllana (blink)
+(ñuka-ta) kimlla-ku-n ñawi
+1SG-ACC blink-PROG-3 eye
+‘I am blinking. ’
+c. Upper Napo Kichwa [QUECHUAN], ﬁeldnotes - rapiyana (blink)¹⁷
+ñuka ushi -ta ashkata rapiya -n
+1SG daughter-ACC a.lot blink -3
+‘My daughter blinks a lot. ’
+Conversely, it is relevant to acknowledge that Figure 8 shows no instances of nonnominative marking
+on A participants with nonsensation predicates in the control languages in the Quechuan sample of our
+
+17 Note that a direct equivalent for blinking with “eye” overtly expressed is found in Napo Quechua: nuka-ra ñawi rapiya-(wa-)
+n (1S-ACC eye blink-PROG-3) ‘I am blinking ’.
+Lexically driven patterns of contact in alignment systems  23
+[PDF PAGE 24]
+study. On a general level, Quechuan languages, like Tukanoan and Chicham languages in the area, opt for
+the structural case marking strategy on the A -like participant.
+In clear contrast to the other verb types, sensation predicates show the most deviant patterns with
+respect to noncanonical marking of A -like participants. This is again in line with Malchukov ’s (2005)
+observation that sensation predicates are the most likely candidates for deviant encoding on the A -like
+participant (see also Section 3.1 ). This fact is borne out in our data in the case of all Tukanoan and
+Quechuan varieties found within our interest area and, although with less consistency, in our control
+languages.
+To begin with, we consider the case frame associated with the exceptional sensation concept hurt. The
+valency of this predicate is unique when compared with the other sensation concepts in our study, since it
+presents both an Experiencer A and a Stimulus P. The remainder of the sensation predicates are intransi -
+tive, following the transitive -intransitive continuum in Malchukov 2005 (see Sections 3 and 5 for a brief
+discussion). We observed a split in encoding strategies of these predicates across our sample. Tukanoan
+languages are unanimous in ﬂagging the A participant with the accusative marker, leaving the P argument
+unmarked, whereas all Quechuan varieties in our sample extend accusative marking to both the A and the P
+arguments. These observations are illustrated in the examples in (16).
+(16) a. Koreguaje [TUKANOAN], Cook and Criswell 1993 ,5 5 - asi (hurt)
+sĩho-pɨ asi-khɨ aso-mɨ repa-ɨ-re
+head-CLS:ROUND hurt-SIM.SG.M say-SG.M DEM .DIST-SG.M-ACC
+‘He said that his head hurt. ’
+b. Barasana [TUKANOAN], Jones and Jones 2013 , 111 - wʉa (hurt)
+yʉʉ gʉdajoa b ʉto w ʉ̃a-ja yʉ-re
+1SG stomach much hurt -3SG.INAN 1SG-ACC
+‘My stomach hurts (me) very much. ’
+c. Imbabura Kichwa [QUECHUAN], ﬁeldnotes - nanana (hurt)¹⁸
+(ñuka-ta-ka) washa-ta-mi nana -ju-n
+1SG-ACC-TOP back-ACC-EVID hurt-PROG-3SG
+‘My back hurts. ’
+d. Cañar Kichwa [QUECHUAN], ﬁeldnotes - nanana (hurt)
+lomito-ta (ñuka-ta) nana-n
+back-ACC 1SG-ACC hurt-3SG
+‘My back hurts. ’
+We now shift our attention to the remainder of the sensation concepts, where we ﬁnd the highest degree
+of variation across the languages studied. In our data, we note three competing strategies that dominate the
+formation of sensation predicates in our sample: the underived predicate strategy, the desiderative experi -
+encer strategy, and the “suﬀer”-type experiencer strategy. It is important to note that none of these stra -
+tegies require a noncanonical case frame in all cases. In addition, it is worth recognizing the fact that a
+language may exhibit more than one strategy, even for lexicalizing the same verbal concept, thereby
+forming (near) synonymous lexical pairs. This fact is explored in detail later in this subsection.
+The ﬁrst strategy refers to certain sensation predicates, which are best analyzed as having their own
+dedicated lexical items just like most predicates of other verb types. The lexical item associated with these
+
+18 There is more variation in case frame structures especially in Ecuadorian Highland Quechuan varieties than we discuss here.
+As Floyd (2022,2 7–31) points out, the experiencer verbs in some of these varieties show an egophoric pattern in which similar
+constructions are used in ﬁrst person declarative and in second person interrogative sentences. These patterns seem to be recent
+innovations and are not found across all persons and sentence types. Therefore, in this article, we only take into consideration
+the ﬂagging patterns that are found across most persons and sentence types across the Quechuan languages to uncover
+similarities with Tukanoan languages in the general marking patterns, which are most likely representative of earlier stages
+of the Quechuan family. A comparison of more speci ﬁc patterning would be an interesting endeavor for future research.
+24  Rik van Gijn et al.
+[PDF PAGE 25]
+predicates does not recruit any additional derivational morphology or straightforwardly combine with
+a light verb to represent the verbal concept. We simply refer to this as the underived predicate strategy.
+A handful of illustrative examples with accusative -marked experiencer A participants are presented in (17a)
+and (17b) and then with nominative experiencers in (16c).
+(17) a. Kubeo [TUKANOAN], Morse et al. 1999 ,9 7 - cũiñó (thirsty)
+cũiñó-i-vʉ yʉ-re
+be.thirsty-STAT-3SG.INAN.EXPER.PRES.CONT 1SG-ACC
+‘I am thirsty. ’
+b. Bolivian Quechua [QUECHUAN], Herrero and Sánchez de Lozada 1978, 293 - yarqha (hungry)
+wawa-s-ta yarqha-sa-n (…)
+child-PL-ACC be.hungry-PROG-3SG
+‘The children are hungry (…).’
+c. Koreguaje [TUKANOAN], Cook 1999, 103 - chʉ’rʉ (get.cold)
+chʉ’rʉ-sõ-si’-kʉ-a’-mʉ chʉ’ʉ rʉa
+get.cold-INTS-NMLZ.AG.M.SG-VBLZ-M.SG 1SG much
+‘He was feeling very cold. ’
+Conversely, the desiderative experiencer strategy refers to a derivational operation where a dedicated
+desiderative marker is attached to the verbal (and sometimes nominal ) root. In the case of many sensation
+predicates in the languages of our sample, this strategy is used to provide a natural translation for lexical
+concepts like “to be hungry, ”“ to be thirsty, ”“ to be sleepy, ” etc. Below are examples of the desiderative
+experiencer construction with an accusative -marked Experiencer A participant in Tukanoan (18a) and
+Quechuan (18b), contrasted with a desiderative construct in Kotiria that does not trigger deviant marking
+on the experiencer A in (18c), for the sake of illustration:
+(18) a. Siona [TUKANOAN], Bruil 2014 , 163
+ai-reba ã ĩ-ɨa-hi jɨ’-re
+big-INTS eat-DES-3SG.M.PRES.ASSRT 1SG-ACC
+‘I am very hungry. ’
+b. Upper Napo Kichwa [QUECHUAN], Nilo Licuy Andy, pers. comm.
+ñuka-ra miku-ña-n
+1SG-ACC eat-DES-3
+‘I am hungry. ’
+c. Kotiria [TUKANOAN], Stenzel 2013 , 287 - chʉ (eat)+ desiderative
+yʉ’ʉ´ chʉ-dua-ka
+1SG eat-DES-ASSRT.IPFV
+‘I want to eat (it).’
+The third strategy that is recruited for lexicalizing sensation predicates, which we have labeled the
+“suﬀer”-type experiencer strategy, makes reference to a set of sensation predicates that are lexicalized via
+the combination of a sensation element(sometimes this is clearly a verbal root, whereas in other cases, it may
+also be nominal) and a verbal head with a meaning along the lines of “suﬀer/hurt,”“ be.sick,” and “die/kill,”
+This construction type is commonly found in the Tukanoan languages of our sample. Languages di ﬀer with
+regard to whether these constructions select for (non-)canonical marking on the A -like experiencer partici-
+pant. The following examples demonstrate instances where the experiencer A is ﬂagged with the accusative
+marker, as in (19), and others where it receives the canonical nominative ﬂagging pattern, as in (20):
+(19) a. Kubeo [TUKANOAN], Morse and Maxwell 1999 ,3 0 - ã (hungry)+ ihi (hurt)
+ã-wɨ‘e ihi -wɨ jɨ-re
+be.hungry-NMLZ hurt-N31 SG-ACC
+‘I am hungry. ’
+Lexically driven patterns of contact in alignment systems  25
+[PDF PAGE 26]
+b. Kotiria [TUKANOAN], Waltz 2007 , 119¹⁹– jʉca (hunger)+ purĩ (hurt)
+maha-no-cã y ʉ chʉ-ri baha -ro j ʉca pur ĩ-ca yʉhʉ-re
+be.small-SG-DIM 1SG eat-NMLZ be.after-SG hunger hurt -ASSRT.IPFV 1SG-ACC
+‘Shortly after eating, I am hungry. ’
+(20) a. Aguaruna [CHICHAM], Overall 2007 , 284 - kahĩ (sleep)+ maa (kill)
+kahĩ maa-ma ʃinta-kũ iwa
+sleep:PERT:1PL/3 kill +IPFV-NON.A>S wake+IPFV-SIM+3:SS be.awake
+tɨpa-ĩ
+lie+IPFV:1SG/3-DS
+‘When he got sleepy (lit: when his sleepiness was killing him ), waking up and lying awake. ’²⁰
+b. Tukano [TUKANOAN], Ramírez 2019 [1997]: 192 - ɨhá (hunger)+ boâ (die)
+yɨ’ɨ ɨhá boâ -go’ weé-sa’ tiîta+pu͂rikã wa ’î wehe -gɨ´w a ’â-gɨ-ti’
+1SG hunger die -IPFV-SS AUX -PRES so ﬁsh ﬁsh-M.SG go-M.SG-FUT
+‘I am hungry - so, I will go ﬁshing.’
+As demonstrated in example (20a) from the neighboring Chicham language Aguaruna, the ‘suﬀer’-type
+strategy extends beyond the primary languages considered in this sample. Further research is required to
+determine the extent of the distribution of this strategy in other areas throughout South America and elsewhere.
+It is also worth noting that there may well be a miscellaneous category of nonproductive constructions
+that signal the meanings of the sensation predicates and select a noncanonical frame. Consider the fol -
+lowing instances of clear (near-)synonyms with the aforementioned sensation predicates in our sample, but
+which do not form part of a commonly found pattern across the region. We collapse such constructions
+under the label “other” for the sake of the discussion at hand.
+(21) Koreguaje [TUKANOAN], Gralow and Cook 1984, 23
+ãu cúha -mʉ chʉ’ʉ-re
+hunger alleviate -3SG 1SG-ACC
+‘I am hungry (lit: hunger alleviates me ).’²¹
+Taken together, the points earlier demonstrate the complexity associated with the class of sensation
+predicates. Although it is not always the case that the predicates from this class select for a noncanonical
+case frame, there is certainly a high proportion of predicates which do in fact assign nonnominative
+ﬂagging to the A -like Experiencer participant. Table 4 traces the precise distribution of the strategies
+alluded to in the discussion earlier (and their comitative case frames ) across the languages in our sample.
+In unpacking the variation captured in Table 4,t h eﬁrst striking fact is the sheer variety of constructions across
+and within the language families.²³ There are essentially as many instances of derived predicates as there are
+underived predicates that serve as natural translations to the predicates at issue in the current study. Below, we
+discuss the distribution and details surrounding each of the major derivational strategies found in the area in turn.
+First, regarding the “suﬀer”-type strategy, Table 4 shows that it is not found within our Quechuan
+sample. This type of lexicalization for sensation concepts appears to exhibit varying degrees of productivity
+
+19 Here, Waltz (2007, 119) notes that the subject of the verb always takes the marker that is typically assigned to the object –
+namely, accusative case marking with –re.
+20 Although the A argument is not overtly expressed here, the indexing pattern is suggestive of a canonical case frame with a
+nominative experiencer rather than a deviant ﬂagging/indexing pattern.
+21 The Spanish in the original translation for this sentence reads “tengo hambre (literalmente: comida me alivia a mí ).”
+22 Instances with the symbol +( e.g., D +) refer to causativization alternatives with di ﬀerent case frames.
+23 Table 4 does not capture the full variation found in these languages. Some languages, such as Imbabura Kichwa, may show
+egophoric patterns with respect to these predicates (see Floyd 2022, 27 –31). A second type of variation not captured by the table
+is the fact that Tukanoan languages display di ﬀerential case marking, which strictly speaking leads to two di ﬀerent types of
+construction. However, using the nondefault marking patterns for these predicates is extremely rare. This additional variation
+falls outside the scope of this article.
+26  Rik van Gijn et al.
+[PDF PAGE 27]
+across the languages of the sample. The concept be sick often involves a sensation verb, which selects for an
+accusative-ﬂagged Experiencer. It seems that the bare predicate does not take an accusative A; an exception
+is Kubeo, as shown in (22a). The only other accusative -ﬂagged A found with the natural translation of the
+concept be sick is found in Máíh ɨ͂̀kì, exempliﬁed in (22b). However, this instance combines the sensation of
+feeling sick with another generic sensation predicate. It is likely the case that the generic sensation verb is
+the culprit for triggering noncanonical ﬂagging on the A participant, as discussed later.
+(22) a. Kubeo [TUKANOAN], Chacon and Genetti 2019 , 402
+yɨ-re ihi-wɨ
+1SG-ACC hurt-3SG
+‘I feel sick. ’
+b. Máíh ɨ͂̀kì [TUKANOAN], Farmer 2015 ,3 0
+yì-rè hùì g ɨá-hɨ͂
+1SG-ACC be.sick feel -3SG.M.PRES
+‘I feel ill. ’
+Turning now to the desiderativization strategy, we note several crucial di ﬀerences with respect to the
+“suﬀer”-type strategy. First, the desiderativization strategy is found in both Quechuan and Tukanoan
+languages, although, in the case of the latter family, this pattern appears to be restricted to the foothill
+languages. For the most part, this strategy is only found with the concepts be hungry, be thirsty, be sleepy ,
+and not with the concepts be hot, be cold. A notable exception is found in Máíh ɨ͂̀kì, where the desiderative is
+found with certain body -external concepts like be hot , as exempli ﬁed in (23).
+(23) Máíhɨ͂̀kì [TUKANOAN], Michael et al. 2013, 9² ⁴
+yì-rè kwàrù-gɨá-hɨ͂
+1SG-ACC be.hot-DES-3SG.M.PRES
+‘It is hot to me. ’
+Table 4: Distribution of strategies for expressing sensation predicates; 22U = underived, D = desiderative, S = ‘suﬀer’-type,
+O = other; X* = nonnominative on experiencer
+Hungry Thirsty Sleepy Sick Warm Cold
+Cañar U* D* D/D* O O U
+Imbabura U* D* D* O U* U*
+Tungurahua U*/U + D*/D+ D*/D+ U*
+Upper Napo D*/D + D*/D+ D* U U* U*
+Bolivian U* U
+Cuzco U* U* D* U U*/U U*
+Siona D*/S D*/S — UU * U *
+Koreguaje O* D* D* — U* U*
+Máíhɨ͂̀kì D* D* D* U/D* D* U*
+Kubeo S* O* S* U* U* U*
+Kotiria S* O* S* U U* U*
+Desano S O* O U U U
+Barasana O* O* O* U U* U*
+Tukano O O O U U U
+
+24 Note that Farmer (2015) glosses -gɨá as FEEL, in line with the glossing found in example (21b). Given that this form is cognate
+with the desiderative marker in other Western Tukanoan languages and found in most of the same sensation environments as
+natural translations, we gloss it as DES (desiderative) for the sake of uniformity.
+Lexically driven patterns of contact in alignment systems  27
+[PDF PAGE 28]
+In fact, the strategy of desiderativization goes beyond the sensation concepts discussed here and
+appears to be a productive process in many Tukanoan and Quechuan languages. Consider the following
+cases from two of the foothill Tukanoan languages where the desiderative is used with nonsensation
+concepts, and the A -like participant is marked with the accusative.
+(24) a. Koreguaje [TUKANOAN], Cook and Criswell 1993 ,9 2
+wa-ɨ-re mai ɨa aso -mɨ na’i-kɨ-na
+brother.in.law-CLS:ANIM.M-ACC go.up desire say -3SG.M get.late-3SG.M-DS
+‘As it was getting dark, his brother -in-law wanted to go up (to town).’
+b. Siona [TUKANOAN], ﬁeldnotes
+ñaa-ɨa-hi yɨ’-re ĩ-re
+see-DES-3SG.M.PRS.ASSRT 1SG-ACC DEM .PROX-ACC
+‘I would like to meet him. ’
+c. Imbabura Kichwa [QUECHUAN], Hermon 2001 , 152
+ñuka-ta-ka aycha-ta miku -naya-rka
+1SG-ACC-TOP meat-ACC eat-DES-PST.3SG
+‘I want/desire to eat meat. ’
+d. Huanca Quechua [QUECHUAN], cited in Hermon 2001 , 171
+yaqa-ta tushu-na-ykaa-ma-n
+1SG-ACC dance-DES-PROG-OBJ-3SG
+‘I desire to dance. ’
+For the sake of clarity, we reiterate (18c) in (25) to demonstrate an instance of a productive desiderative
+morpheme in an Eastern Tukanoan control language Kotiria, where the A participant does not receive
+accusative ﬂagging. Similar patterns are found in the other Tukanoan control languages.
+(25) Kotiria [TUKANOAN], Stenzel 2013 , 287
+yʉ’ʉ´ chʉ-dua-ka
+1SG eat-DES-ASSRT.IMPRF
+‘I want to eat (it).’
+Despite the fact that such desiderative morphemes, exempli ﬁed by Kotiria in (25), are not cognate with
+the marker -ɨa found in the Western Tukanoan languages, the story does not end here. In fact, several
+Eastern Tukanoan languages do have a cognate verbal item with the meaning want or desire (i.e., ɨá in
+Tukano per Ramírez 2019 [1997], 92, 96; ɨ in Kubeo per Morse and Maxwell 1999 ,7 1 ), just like Siona has a
+main verb yɨ’yɨ (want), and none of these trigger accusative marking on the A -like participant. This fact is
+suggestive of the desiderative lexeme ɨa itself being a retention from an earlier variety of Tukanoan,
+whereas the desiderativization strategy with noncanonical A ﬂagging, discussed earlier, is likely a more
+recent Western Tukanoan innovation. In light of the fact that this strategy appears to be commonplace
+across all varieties of Quechua, and restricted only to the Western Tukanoan languages within the putative
+foothills contact area, we suggest that the D* strategy found in Siona, Koreguaje, and Máíh ɨ͂̀kì (following
+Table 4) is a plausible candidate for Quechua -Western Tukanoan structural convergence. Siona presents a
+particularly interesting case where this strategy competes with the ‘suﬀer’-type lexicalization strategy that
+is common to all Tukanoan languages in our study, where the same A -like participant is accusative-marked
+in the former case, but canonically nominative -marked in the latter.
+28  Rik van Gijn et al.
+[PDF PAGE 29]
+5 Discussion
+With respect to potential contact -induced signals, the main salient pattern that emerges from our study
+is the propensity to ﬂag experiencers of sensation predicates with an accusative marker. Before zooming
+in on these patterns in more detail, it is worth pointing out that sensation predicates in a way are
+relative outsiders to the transitive –intransitive system. This becomes clear when we take another look at
+Malchukov’s map, this time with transitivity and intransitivity included (the latter is part of the map in the
+original, see Malchukov 2005 , 113 ) at either end of the continuum.
+As shown in Figure 9, the semantic classes are by and large caught in the middle between transitive and
+intransitive. The degree to which languages extend their transitive constructions or intransitive construc -
+tions is subject to cross -linguistic (though constrained ) variation. The arrow that originates from the
+sensation predicates box indicates that, in many languages, sensation predicates present a third way to
+mark arguments, which assimilates neither to the canonical transitive nor to the intransitive pattern.
+On the basis of observations in the contact literature starting with Weinreich (1953), we can hypothesize
+that lexically determined contact eﬀects will most likely be found with verbs that have nonprototypical A or
+P participants. This is because these verbs tend to be less entrenched in the dominant system of alignment
+than more prototypical action verbs. Therefore, they are less likely to a ﬀect it, leaving the main system
+intact. We can term these lexical items fringe vocabulary. In nominative –accusative systems, nonprototy -
+pical P participants will simply be marked with oblique patterns, thus assimilating to the transitive proto -
+type, but nonprototypical A participants may fall outside the system in that they respond to competing
+pressures of having a structurally assigned nominative S argument versus a more semantically informative
+case. One could argue that this makes sensation predicates in nominative –accusative languages more open
+to contact -induced inﬂuence.
+Seifart (2012) discusses a case of massive borrowing into the Arawakan language Resígaro from
+Witotoan Bora (both spoken in the NWA ). He notes that, although Resígaro has many borrowed classi ﬁers,
+other morphosyntactic subsystems in the language are virtually una ﬀected. He explains this by introducing
+the principle of morphosyntactic subsystem integrity: “Borrowing of paradigmatically and syntagmatically
+related grammatical morphemes is easier than borrowing of the same number of isolated grammatical
+morphemes” (ibid.: 475 ). This principle applies to matter (form) borrowing of grammatical morphemes,
+but in this article, we argue that this may also be extended to the borrowing of patterns within a group of
+semantically related concepts, even if this does not involve matter borrowing, but rather borrowing of
+patterns associated with lexical items.
+A cursory look at the forms of sensation predicates across the languages of our sample suggests that,
+although there is considerable family -internal variation, cognate candidates are also abundant, both in
+Tukanoan (Table 5 ), and especially in Quechuan (Table 6 ). Across the Tukanoan and Quechuan tables,
+however, there are no likely candidates for direct borrowing.
+Figure 9: Malchukov’s semantic map and the transitive –intransitive continuum.
+Lexically driven patterns of contact in alignment systems  29
+[PDF PAGE 30]
+We must conclude, then, that if this is indeed a contact-induced pattern, it is diﬀusion of patterns rather
+than matter (Matras and Sakel 2007 ).
+Apart from the general structural similarities between languages regarding the marking of grammatical
+relations discussed in Section 2 and the areal distribution of sensation construction types that both suggest
+pattern borrowing, there is an intriguing (though not entirely straightforwardly interpretable ) pattern of
+potential calques in the lexicon of sensation predicates in the NWA more widely speaking, whereby certain
+semantic connections recur in di ﬀerent languages. This is shown in Table 7.
+Table 7 keeps track of whether a verb root for a particular concept in the class of sensation predicates is
+also used to encode a di ﬀerent concept.² ⁵ As can be seen, these semantic extensions are shared across
+language families in the area, in particular between Tukanoan and Quechuan.² ⁶ Although the extent of
+these phenomena, both within and outside the NWA, requires more research, the Quechuan control
+Table 5: Word forms for sensation predicates (roots) in the Tukanoan sample languages
+Siona Máíh ɨ͂̀kì Koreguaje Kubeo Kotiria Desano
+Be thirsty ohko ’ɨaje ókóg ɨ‘àjɨ‘ oko ʉamʉ cũiñóivʉ ñahma
+yapiora
+Be hungry ã ĩ’ɨaje ãõ g ɨ‘àjɨ‘ ãucuhamʉ ãvʉé ijiv ʉ jʉca pur ĩca oaboari
+Be warm uuje kwàrùg ɨ´ájɨ´ asum ʉ toaijivʉ sira c ũñuri
+Be cold s ɨhsɨje s ɨ´sɨ´jɨ´j ʉˆjʉsʉmʉ jʉjʉvʉ yʉsʉara y ʉsari
+Be sick h ũ'ĩñe jùìyì yaiy ʉ́ Dohatira dorec ʉri
+Be sleepy b ɨógɨajɨ okʉamʉ vʉo ijic ʉ wʉjo pur ĩna w ʉja ã́rĩri
+Hurt ãsije áchíj ɨ/dɨàjɨ/
+bàràyi
+asimʉ ijivʉ Purĩna p ũrĩri
+Table 6: Word forms for sensation predicates (roots) in the Quechuan sample languages
+Cañar
+Kichwa
+Upper Napo
+Kichwa
+Cuzco
+Quechua
+Imbabura
+Kichwa
+Tungurahua
+Kichwa
+Bolivian
+Quechua
+Be thirsty yakuna (ya)na upiñachina/
+upiñana/
+yarkana
+ch’akiy yakunayana yakunayana ch ’akiy
+Be hungry yarkana mikuñana/
+yarka(chi)na
+yarkay yarjana yarikana yarqhay
+Be warm ruparina rupachina kholay rupana ruparina k ’ajay
+Be cold chirina chirichina chiriy chirina chirina chiriy
+Be sick ungushka
+kana
+ungushka
+tiana/sirina
+onqoy irki kana wañukuna unqusqa kay
+Be sleepy suñuna (ya)na puñunayana puñunayay puñunayana puñunayana
+(feel) hurt nanana nanana nanay nanana nanana nanay
+
+25 In some cases, this involves the use of a root in combination with a derivational su ﬃx, in line with the patterns discussed
+earlier.
+26 An example of a recurring semantic extension concerns the lexical items for eat and be hungry in Ecuadorian Siona (ãĩñe vs
+ãĩ’ɨaje) and Pastaza Quichua (miku-na vs miku-naya-na), the latter of which is derived morphologically from the former in both
+languages. In some cases, there is no derivation, and the same term is used for di ﬀerent semantic concepts across languages,
+such as be warm and burn in Ecuadorian Siona (uuje) and Imbabura Kichwa (rupana). An interesting case concerns the items for
+be sick and die in Máíhɨ͂̀kì (jùìyì vs júníjóyí) and Tungurahua Kichwa (wañukuna vs wañuna), which are derived from each other
+in both languages, but in a di ﬀerent direction for each language.
+30  Rik van Gijn et al.
+[PDF PAGE 31]
+languages of our sample do not have most of these patterns, except for the connection between sleepy and
+fall asleep , which, together with the distribution within the NWA, suggests that this pattern may have
+spread from Quechuan to other languages.
+These more abstract contact e ﬀects are consistent with Epps ’s (2020) suggestion that the NWA, and
+possibly Amazonia more generally, may have been characterized by what she calls the ‘Amazonian
+package’: “a system of sharing space and resources with other humans (but also animals, plants etc. ),
+hinging on the notion of alterity, the view that the overall reproduction of society is symbolically dependent
+on relations with the outside and otherness. ” Such a cultural code could arise in an environment of a
+relative power balance between the di ﬀerent groups, combined with an incentive to maintain identity
+markers, in particular language. This incentive could be linguistic exogamy, or cultural exchange, although
+Epps stresses that these are not necessarily the causes of the tendency toward identity preservation, but
+they do support the system.
+A scenario of strong maintenance of linguistic codes, combined with intensive interaction between
+groups speaking diﬀerent languages, is then argued to have led to the recurring situation in Amazonia that
+languages borrow very few forms from each other (as incorporating elements from another language goes
+against the policy of keeping languages apart ), but the more unconscious parts of language, its more
+abstract organizational principles, are less open to conscious maintenance strategies, leading to conver -
+gence of abstract patterns. This is consistent with the ﬁndings in areal studies in Amazonia, where uncon -
+nected areas show similar patterns of structural convergence combined with low levels of borrowing (Epps
+and Michael 2017 ). In addition, a comparative survey of loanwords in hunter –gatherer languages (Bowern
+et al. 2014 ) showed that South American languages borrowed signi ﬁcantly less from their neighbors than
+Table 7: Semantic connections of sensation concepts
+Language Family be thirsty ≈
+drink
+be hungry
+≈ eat
+be warm
+≈ burn
+be sick ≈ die be sleepy ≈
+fall asleep
+Ecuadorian
+Siona
+Tukanoan (W) yes yes yes yes ?
+Máíhɨ͂̀kì Tukanoan (W) yes yes no yes ?
+Koreguaje Tukanoan (W) yes yes no ? no
+Kubeo Tukanoan (E) yes yes no yes no
+Kotiria Tukanoan (E) no no no no yes
+Desano Tukanoan (E) ?n o n o n o n o
+Barasana Tukanoan (E) yes yes no yes yes
+Tukano Tukanoan (E) no no no no yes
+Cañar Kichwa Quechuan no no yes no yes
+Imbabura
+Kichwa
+Quechuan no no yes no yes
+Upper Napo
+Kichwa
+Quechuan yes yes yes no yes
+Tungurahua
+Kichwa
+Quechuan no no yes yes yes
+Pastaza
+Quichua
+Quechuan yes yes ? ? ?
+Shiwilu Kawapanan yes no yes no no
+Shawi Kawapanan no no no no no
+Aguaruna Chicham no no no yes ?
+Shiwiar Chicham no no ? no ?
+Wampís Chicham ? ? ? yes ?
+Ocaina Witotoan ? ? no no yes
+Murui Witotoan ? no no no ?
+Arabela Zaparoan no yes ? yes ?
+Iquito Zaparoan no no ? yes ?
+Lexically driven patterns of contact in alignment systems  31
+[PDF PAGE 32]
+languages in other parts of the world.² ⁷ If we apply this characterization to the NWA -foothill area, it seems
+that languages have followed a strategy of cooptation of existing forms, based on the pattern that exists in
+other languages. This would lead to the similar patterns of construction expansion and semantic exten -
+sions, without there being many formal overlaps across language families.
+Summarizing, the languages of the NWA (foothills) show potential contact e ﬀects in the abstract
+organization of their coding strategies more generally, in the organization of sensation constructions,
+and potentially in the semantic extensions of certain predicates related to sensations. They do not, how -
+ever, show patterns of formal (loanword) diﬀusion, in line with a more general culture of identity preserva -
+tion suggested to have been prevalent in the NWA.
+6 Conclusion
+We started out this article with the question “To what extent do lexical items play a role in the spread of
+alignment (sub)patterns?” We conclude that there is lexical in ﬂuence on the spread of case frames, but it
+seems to be mainly con ﬁned to the subsystem of sensation predicates, and it does not involve lexical
+borrowing of forms. The fact that contact -induced lexical in ﬂuence is mainly con ﬁned to sensation pre -
+dicates can be explained by making reference to fringe vocabulary (i.e., vocabulary that is at the fringes of a
+system, in this case the transitive –intransitive continuum ) and therefore less deeply entrenched in the
+language systems. The fact that the contact -induced patterns involve the di ﬀusion of more abstract infor -
+mation rather than forms can be connected to the prevalence of a policy of identity preservation in the area.
+We have presented evidence that languages inﬂuence each other on the level of lexico-grammatical and
+constructional information associated with the lexeme, rather than the lexeme itself. The main mechanism
+involved seems to be cooptation of existing elements in the language according to a pattern found in the
+other language. This is, in other words, lexical borrowing without the lexeme. This is graphically depicted
+in Figure 10 .
+Figure 10 illustrates the examples in (26), a repetition of (18).
+Figure 10: Contact patterns in the NWA -foothill area.
+
+27 A potential general mechanism underlying these patterns is suggested by Matras (2011, 156 ), who argues that bilingual
+speakers, rather than having two neatly separated language systems to process their speech, have a multifacetted and intrinsic
+repertoire of linguistic structures, ranging from concrete (e.g., word forms) to more abstract elements, Constraints on language
+selection apply more easily to word forms than to more abstract constructional speci ﬁcations. The latter, therefore, have a
+higher chance of being generalized across language systems.
+32  Rik van Gijn et al.
+[PDF PAGE 33]
+(26) a. Siona [TUKANOAN], Bruil 2014 , 163
+ai-reba ã ĩ-ɨa-hi jɨ’-re
+big-INTS eat-DES-3SG.M.PRES.ASSRT 1SG-ACC
+‘I am very hungry. ’
+b. Upper Napo Kichwa [QUECHUAN], Nilo Licuy Andy, pers. comm.
+ñuka-ra miku-ña-n
+1SG-ACC eat-DES-3SG
+‘I am hungry. ’
+c. Kotiria [TUKANOAN], Stenzel 2013 , 287 - chʉ (eat)+ desiderative
+yʉ’ʉ´ chʉ-dua-ka
+1SG eat-DES-ASSRT.IPFV
+‘I want to eat (it).’
+While Siona (West Tukano ) and Upper Napo Kichwa clearly use di ﬀerent forms for the concepts of
+eating (ãĩ- versus miku-), as well as for wanting (-ɨa vs -ña), the constructions converge in that they license
+an accusative-marked experiencer, unlike in East Tukanoan Kotiria. We can translate this into a statement
+that Siona seems to have borrowed the constructional information associated with the combination of the
+word denoting ‘to eat’ and the desiderative that this combination combines with an accusative experiencer,
+without having borrowed any of the actual forms.
+This would explain the spread of case frames associated with particular concepts. It is not clear how the
+systemic level is related to this. The most straightforward explanation is that Tukanoan and Quechuan
+languages inherited a nominative –accusative system from their respective ancestor languages, and the
+clearest contact patterns are found in a niche that is allowed to function relatively independently from the
+transitivity continuum, and where most variation can be found.
+When looking at the area more broadly, however, we see other elements that may have spread through
+similar mechanisms. These include di ﬀerential argument marking, subject ﬂagging, double object con -
+structions, and possibly the lack of object agreement and egophoric patterns. Detailed study of the dis -
+tributions of these more re ﬁned aspects may well reveal more local patterns of contact and in ﬂuence. Our
+goal, however, was to draw attention to a type of “lexical” borrowing without the lexical form and to show
+such a mechanism, schematized in Figure 10 , is relevant to the area. We leave the study for more ﬁne-
+grained patterns for further research.
+Abbreviations
+ABL ablative
+ACC accusative
+ADD additive
+AFFT aﬀected
+AG agent
+ALL allative
+ANA anaphor
+ANIM animate
+ANT anterior
+ANTIC anticausative
+AS action/state
+ASSRT assertive
+AUX auxiliary
+BEN beneﬁciary
+CLS classiﬁer
+Lexically driven patterns of contact in alignment systems  33
+[PDF PAGE 34]
+COM comitative
+CONT continuous
+CONTR contrastive
+COP copula
+COR coreferent
+DAT dative
+DEM demonstrative
+DES desiderative
+DIM diminutive
+DIST distal
+DS diﬀerent subject
+EVID evidential
+EXPER experienced
+F feminine
+FUT future
+GEN genitive
+GOAL goal
+HORT hortatory
+INS instrument
+INTS intensiﬁer
+IPFV imperfective
+IRR irrealis
+LOC locative
+M masculine
+NA>S non-A coreferent with -S
+NASSRT nonassertive
+NMLZ nominalizer
+NSBJ nonsubject
+OBJ object
+P possessive
+PERT pertensive
+PFV perfective
+PL plural
+PRES present
+PROG progressive
+PRF perfect
+PROX proximate
+PST past
+REC recent
+SBJ subject
+SG singular
+SIM simultaneous
+SS same subject
+STAT stative
+TOP topic
+VBLZ verbalizer
+VIS visual
+34  Rik van Gijn et al.
+[PDF PAGE 35]
+Acknowledgments: The authors thank Simeon Floyd, an anonymous reviewer, and the editors for useful
+and detailed comments on this article. Unfortunately, due to reasons of scope, we could not incorporate
+some of their very insightful suggestions. We have indicated these as suggestions for further research at
+several points throughout the article. The remaining errors are our responsibility. We are grateful to all the
+speakers who contributed directly and indirectly to the outcomes of this article. Karolina Grzech would also
+like to thank her friends and collaborators in Ecuador: Nilo Andy, Wilma Aguinda, Jacobo Chimbo, Edwin
+Shiguango, and the entire Napo Runa community of Nuevo Paraíso, Napo, as well as Selena Tisalema Shaca
+and Inti Maldy Chicaiza Pacari from the community Chibuleo in Tungurahua.
+Funding information: The work was supported by the European Research Council who funded Rik van Gijn’s
+ERC Consolidator project ‘South American Population History Revisited ’, under the European Union ’s
+Horizon 2020 research and innovation programme (grant agreement No. 818854 - SAPPHIRE). Karolina
+Grzech gratefully acknowledges the support of the Endangered Languages Documentation Project (ELDP,
+grant numbers IG0166 and IPF0301 ) and Vetenskapsrådet (Grant ID: 2020-01581). Finally, we would like to
+thank the Center for Indigenous America Studies, which funded Martine Bruil ’s elicitation sessions with
+Alma Inkary on Cuzco Quechua.
+Conﬂict of interest: Authors state no con ﬂict of interest.
+Data availability statement: The datasets generated during and/or analysed during the current study are
+available from Justin Case (jcase058@uottawa.ca) on reasonable request.
+References
+Adelaar, Willem F. H. and Pieter C. Muysken. 2004. The languages of the Andes . Cambridge: Cambridge University Press.
+Aikhenvald, Alexandra Y. 1999. “The Arawak language family. ” In The Amazonian languages, edited by Robert M. W. Dixon and
+Alexandra Y. Aikhenvald, p. 65 –106. Cambridge: Cambridge University Press.
+Aikhenvald, Alexandra Y. 2002. Language contact in Amazonia . Oxford/New York: Oxford University Press.
+Aikhenvald, Alexandra Y. 2012. Languages of the Amazon . Oxford/New York: Oxford University Press.
+Alemán, Tulio, Mario Miller, and Reinaldo López. 2000. Wirã ya, peamasa ya wererituri (Desano-Español)( Diccionario bilingüe
+de 896 palabras ). Bogotá: Summer Institute of Linguistics.
+Anderson, Stephen. 1976. “On the notion of subject in ergative languages. ” In Subject and topic , edited by Carol Justus and
+Charles Li, p. 1 –24. New York: Academic Press.
+Barnes, Janet. 1999. “Tucano.” In The Amazonian languages , edited by Robert M. W. Dixon and Alexandra Y. Aikhenvald,
+p. 207 –26. Cambridge: Cambridge University Press.
+Birchall, Joshua. 2014. “Verbal argument marking patterns in South American languages. ” In The native languages of South
+America: Origins, development, typology , edited by Loretta Marie O ’Connor and Pieter Cornelis Muysken, p. 223 –49.
+Cambridge: Cambridge University Press.
+Bonﬁm Duarte, Fábio and Braulio Brandão de Oliveira Lopes. 2020. “Diﬀerential object marking in Tukano. ” Revista Letras
+101, 16 –44.
+Bowern, Claire, Hannah Haynie, Catherine Sheard, Barry Alpher, Patience Epps, Jane Hill, and Patrick McConvell. 2014. “Loan
+and inheritance patterns in hunter -gatherer ethnobiological systems. ” Journal of Ethnobiology 34(2), 195 –227.
+Bruil, Martine. 2014. Clause-typing and evidentiality in ecuadorian siona . PhD thesis, Leiden University.
+Bruil, Martine. 2015. Possible Quechua in ﬂuence on Ecuadorian Siona . Paper presented at REELA Leiden University, September
+7th, 2015.
+de Carvalho, Fernando O. 2013. “On Záparoan as a valid genetic unity: Preliminary correspondences and the status of
+Omurano.” Revista Brasileira de Linguística Antropológica 5, 91 –116.
+Chacon, Thiago. 2013. “On proto -languages and archaeological cultures: Pre -history and material culture in the Tukanoan
+Family.” Revista Brasileira De Linguística Antropológica 5(1), 217 –45.
+Chacon, Thiago. 2014. “A revised proposal of proto -tukanoan consonants and tukanoan family classi ﬁcation.” International
+Journal of American Linguistics 80(3), 275–322.
+Chacon, Thiago. 2017. “Arawakan and Tukanoan contacts in Northwestern Amazonia prehistory. ” PAPIA: Revista Brasileira de
+Estudos Crioulos e Similares 27, 237 –65.
+Lexically driven patterns of contact in alignment systems  35
+[PDF PAGE 36]
+Chacon, Thiago and Carol Genetti. 2019. “Grammatical relations in Cubeo. ” In Argument selectors: new perspectives on
+grammatical relations , edited by Alena Witzlack -Makarevich and Balthasar Bickel, p. 399 –432. Amsterdam: John
+Benjamins.
+Chantre y Herrera, José. 1901. Historia de las misiones de la Compañía de Jesús en el Marañón español 1637 –1767. Madrid:
+Imprenta de Avrial.
+Cipolletti, María S. 1992. “Un manuscrito lucano del siglo XVIII: Ejemplos de continuidad y cambio en una cultura amazónica
+(1753–1990).” Revista de Indias ,5 2(194), 181 –94.
+Cole, Peter. 1982. Imbabura Quechua. [Lingua Descriptive Studies, Volume 5]. Amsterdam: North-Holland Publishing Company.
+Comrie, Bernard S. 1978. “Ergativity.” In Syntactic typology: studies in the phenomenology of language , edited by Winfred
+P. Lehmann, p. 329 –94. Austin: University of Texas Press.
+Comrie, Bernard S. 2013. “Alignment of case marking of full noun phrases. ” In World Atlas of Language Structures , edited by
+Matthew S. Dryer and Martin Haspelmath. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+Cook, Dorothy M. 1999. Textos en Koreguaje . Bogotá: Editorial Alberto Lleras Camargo.
+Cook, Dorothy M. and Frances L. Gralow. 2001. Diccionario bilingüe koreguaje -español, español -koreguaje. Bogotá: Editorial
+Alberto Lleras Camargo.
+Cook, Dorothy and Linda Criswell. 1993. El idioma koreguaje (tucano occidental ). Summer Institute of Linguistics (Bogotá).
+Cusihuáman, Antonio. 1976. Gramática Quechua Cusco -Collao. Lima: Centro de Estudios Andinos ‘Bartolomé de las Casas ’.
+DeLancey, Scott. 1981. “An Interpretation of Split Ergativity and Related Patterns. ” Language 57(3), 626 –57.
+Dixon, Robert M. W. 1979. “Ergativity.” Language 55(1),5 9 –138.
+Echeverri, Juan Alvaro. 1997. The People of the Center of the World: A Study in Culture, History and Orality in the Colombian
+Amazon. PhD thesis, New York School for Social Research, Faculty of Political and Social Science.
+Epps, Patience and Kristine Stenzel. 2013. Upper Rio Negro: Cultural and Linguistic Interaction in Northwestern Amazonia . Rio
+de Janeiro: Museu do Índio -FUNAI.
+Epps, Patience and Lev David Michael. 2017. “The Areal Linguistics of Amazonia. ” In The Cambridge Handbook of Areal
+Linguistics, edited by Raymond Hickey, p. 934 –63. Cambridge: Cambridge University Press.
+Epps, Patience. 2020. “Amazonian linguistic diversity and sociocultural correlates.” In Language Dispersal, Diversiﬁcation, and
+Contact: A Global Perspective , edited by Mily Crevels and Pieter Muysken, p. 275 –90. Oxford: Oxford University Press.
+Faller, Martina. 2002. Semantics and Pragmatics of Evidentials in Cuzco Quechua . PhD thesis, Stanford University.
+Farmer, Stephanie. 2015. Establishing Reference in Máíh ɨ͂̀kì. PhD thesis, University of California, Berkeley.
+Floyd, Simeon, Georgia Ennis, Joshua Homan and Nicholas Q. Emlen. 2021. The lexicon as a window on Quechuan expansion in
+Amazonia. A paper presented at Amazónicas VIII. https://www.youtube.com/watch?v =xBwhhR9dOa8.
+Floyd, Simeon. 2022. “Ecuadorian highland quichua and the lost languages of the Northern Andes. ” International Journal of
+American Linguistics 88(1),1 –52.
+Gasché, Jürg. 2009. “La Sociedad de La ‘Gente Del Centro ’.” In A Multimedia Documentation of the Languages of the People of
+the Center. Online Publication of Transcribed and Translated Bora, Ocaina, Nonuya, Resígaro, and Witoto Audio and Video
+Recordings with Linguistic and Ethnographic Annotations and Descriptions , edited by Frank Seifart, Doris Fagua, Jürg
+Gasché and Juan Alvaro Echeverri, Nijmegen: DOBES -MPI. http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Center/
+Info/WelcomeToCenterPeople.html.
+van Gijn, Rik. 2014. “The Andean foothills and adjacent Amazonian fringe. ” In The Native Languages of South America: Origins,
+Development, Typology, edited by Loretta O ’Connor and Pieter C. Muysken, p. 102 –25. Cambridge: Cambridge University
+Press.
+Gomez-Imbert, Elsa. 2011. “La famille tukano. ” In Dictionnaire des langues , edited by Emilio Bonvini, Joëlle Busuttil, and Alain
+Peyraube, p. 1454 –60. Paris: Presses Universitaires de France.
+Gralow, Frances and Dorothy Cook. 1984. Ko’rehuajʉ chʉ’ore cutuñu (Hablemos coreguaje: Un libro de aprendizaje del idioma
+coreguaje)[ Volume 1 ]. Summer Institute of Linguistics (Bogotá).
+Grzech, Karolina. 2016. Discourse enclitics in Tena Kichwa: A corpus -based account of information structure and epistemic
+meaning. PhD thesis, SOAS: London.
+Hammarström, Harald, Robert Forkel, Martin Haspelmath, and Sebastian Bank. 2021. Glottolog 4.5 . Leipzig: Max Planck
+Institute for Evolutionary Anthropology, http://glottolog.org.
+Hartmann, Iren, Martin Haspelmath and Bradley Taylor (Eds.). Valency Patterns Leipzig . Leipzig: MPI for Evolutionary
+Anthropology, 2013. http://vapal.info.
+Hermon, Gabriella. 2001. “Non-canonically marked A/S in Imbabura Quechua. ” In Non-Canonical Marking of Subjects and
+Objects, edited by Alexandra Aikhenvald, R.M.W. Dixon and Masayuki Onishi, p. 149 –176. Amsterdam: John Benjamins.
+Herrerro, Joaquín and Federico Sánchez de Lozada. 1978. Gramática Quechua: Estructura del Quechua Boliviano
+Contemporáneo. Cochabamba: CEFCO/Editorial Universo.
+Hopper, Paul J. and Sandra A. Thompson. 1980. “Transitivity in grammar and discourse. ” Language 56(2), 251 –99.
+Johnson, Orville E. and Stephen H. Levinsohn. 1990. Gramática secoya . [Cuadernos Etnolingüísticos 11 ]. Quito: Summer
+Institute of Linguistics.
+Jones, Wendell H. and Paula S. Jones. 1999. Barasano Syntax. Arlington, USA: Summer Institute of Linguistics and the University
+of Texas at Arlington Publication in Linguistics.
+36  Rik van Gijn et al.
+[PDF PAGE 37]
+Jones, Wendell H. and Paula S. Jones. 2013. Diccionario bilingüe - Eduria & Barasana -Español, Español-Eduria & Barasana .
+Bogotá: La Fundación para el Desarrollo de Pueblos Marginados.
+Kemmer, Suzanne. 1993. The Middle Voice. Amsterdam: John Benjamins.
+Kohlberger, Martin. 2020. A Grammatical Description of Shiwiar . PhD Thesis, Amsterdam: LOT Publications.
+Lastra, Yolanda. 1968. Cochabamba Quechua Syntax . The Hague/Paris: De Gruyter Mouton.
+de Lima Silva, Wilson. 2012. A Descriptive Grammar of Desano . PhD Thesis, University of Utah.
+Malchukov, Andrej. 2005. “Case pattern splits, verb types, and construction competition. ” In Competition and Variation in
+Natural Languages: the Case for Case, edited by Mengistu Amberber and Helen de Hoop, p. 73 –117. Amsterdam: Elsevier.
+Malchukov, Andrej. 2015. “Valency classes and alternations: parameters of variation. ” In Valency Classes in the World ’s
+Languages - Volume 1: Introducing the Framework, and Case Studies from Africa and Eurasia [Comparative Handbooks of
+Linguistics], edited by Andrej Malchukov and Bernard Sterling Comrie, p. 73 –130. The Hague/New York: De Gruyter
+Mouton.
+Mannheim, Bruce. 1991. The Language of the Inka since the European Invasion . Austin: University of Texas Press.
+Mason, John A. 1950. “The languages of South American Indians. ” In Handbook of South American Indians [Volume 6: Physical
+anthropology, linguistics and cultural geography of South American Indians ], edited by Julian H. Steward, p. 157 –317.
+Washington, DC: Smithsonian Institution Bureau of American Ethnology Bulletin 143.
+Matras, Yaron. 2011. “Explaining convergence and the formation of linguistic areas. ” In Geographical typology and linguistic
+areas, edited by Osamu Hieda, Christa König, and Hirosi Nakagawa, p. 143 –60. Amsterdam/Philadelphia: John Benjamins.
+Matras, Yaron and Jeanette Sakel. 2007. Investigating the mechanisms of pattern replication in language convergence. Studies
+in Language 31(4), 829 –65.
+Michael, Lev. 2009. “Clause linking in Iquito (Zaparoan).” In The Semantics of Clause Linking, edited by Robert M. W. Dixon and
+Alexandra Y. Aikhenvald, p. 145 –66. Oxford/New York: Oxford University Press.
+Michael, Lev, Christine Beier, Stephanie Farmer, Kelsey Neely, Amalia Skilton, Greg Finley, John Sylak, and Grace Neveu. 2012.
+Diccionario Bilingüe máíjìkì -castellano y castellano -máíjìkì. Berkeley, CA: Proyecto Máíjìkì.
+Michael, Lev, Christine Beier, Stephanie Farmer, Kelsey Neely, Amalia Skilton, Greg Finley, John Sylak, and Grace Neveu. 2013.
+Diccionario Bilingüe máíjìkì -castellano y castellano -máíjìkì. Berkeley, CA: Proyecto Máíjìkì.
+Miller, Marion. 1999. Desano Grammar . Arlington, USA: Summer Institute of Linguistics & University of Texas at Arlington.
+Monrós Marin, Eva. 2004. “L’ergativitat a Amèrica. Fitxes bibliogrà ﬁques.” In Ergativity in Amazonia III , edited by Francesc
+Queixalós, p. 189 –278. Paris: CELIA -CNRS.
+Morse, Nancy L. and Michael B. Maxwell. 1999. Gramática del cubeo . Bogotá: Editorial Alberto Lleras Camargo.
+Morse, Nancy L., Neva F. West de Salser, and Jay K. Salser. 1999. Diccionario ilustrado bilingüe: cubeo-español, español-cubeo.
+Bogotá: Editorial Alberto Lleras Camargo.
+Muratorio, Blanca. 1998. Rucuyaya Alonso y la historia social y económica del Alto Napo , p. 1850 –1950. Quito: Abya -Yala.
+Muysken, Pieter C. 2000. “Semantic transparency in Lowland Ecuadorian Quechua morphosyntax.” Linguistics 38(5): 973–988.
+Muysken, Pieter C. 2011. “Relative clauses in Ecuadorian Quechua. ” In Subordination in Native South American Languages ,
+edited by Rik van Gijn, Katharina Haude and Pieter C. Muysken, p. 251 –66. Amsterdam/Philadelphia: John Benjamins.
+Muysken, Pieter C. 2021. “Substrate inﬂuence in Northern Quechua languages.” In Variation Rolls the Dice: A worldwide collage
+in honour of Salikoko S. Mufwene , edited by Enoch O. Aboh and Cécile B. Vogouroux, p. 133 –60. Amsterdam: John
+Benjamins.
+Neveu, Grace. 2012. “Radial Directionals.” In Máíjìkì Project 2012 Modules and Text Sampler , edited by Lev Michael, Stephanie
+Farmer, Amalia Skilton, Kelsey Neely, Grace Neveu and Christine Beier, p. 162 –168 (unpublished). University of California
+Berkeley.
+Norder, Sietze J., Robert Forker, Harald Hammarström, Hedvig Skirgard, Leonardo Arias, Simon Greenhill, Alena Witzlack -
+Makarevich and Rik van Gijn. 2022. glottospace: R package for the geospatial analysis of linguistic and cultural data . URL
+https://github.com/SietzeN/glottospace.
+Obrem, Udo. 1980. Los Quijos. Historia de la transculturación de un grupo indígena en el Oriente Ecuatoriano. Otavalo: Instituto
+Otavaleño de Antropología.
+Overall, Simon. 2007. A grammar of aguaruna . Bundoora, Victoria (Australia): La Trove University Press.
+Queixalós, Francesc and Spike Gildea. 2010. “Manifestations of ergativity in Amazonia. ” In Ergativity in Amazonia , edited by
+Spike Gildea and Francesc Queixalós, p. 1 –28. Amsterdam: John Benjamins.
+Ramirez, Henri. 2019 [1997]. A Fala Tukano dos Ye ’pâ-Masa. [Volume 1: Grammar ]. Manaus (Brazil): Inspetoria Salesiana
+Missionária da Amazônia/CEDEM.
+Rojas-Berscia, Luis Miguel. 2019. From Kawapanan to Shawi: Topics in language variation and change . PhD thesis, Radboud
+University Nijmegen.
+Seifart, Frank. 2011. Bora loans in Resígaro: Massive morphological and little lexical borrowing in a moribund Arawakan
+language [Cuadernos de etnolingüística, séria monogra ﬁas 2 ], http://www.etnolinguistica.org/mono:2.
+Seifart, Frank. 2012. “The principle of morphosyntactic subsystem integrity in language contact: Evidence from morphological
+borrowing in Resígaro (Arawakan).” Diachronica 29, 471 –504.
+Seifart, Frank. 2015. “Direct and indirect a ﬃx borrowing.” Language 91(3), 511 –32.
+Lexically driven patterns of contact in alignment systems  37
+[PDF PAGE 38]
+Siewierska, Anna. 2013. “Verbal person marking.” In World atlas of language structures online , edited by Matthew S. Dryer and
+Martin Haspelmath. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+Stenzel, Kristine. 2005. “Multilingualism in the Northwest Amazon.” Revisited: Memorias del Congreso de Idiomas Indígenas de
+Latinoamérica II . Austin: University of Texas at Austin: 27 -29.
+Stenzel, Kristine. 2013. A reference grammar of Kotiria (Wanano). Lincoln, USA: University of Nebraska Press.
+Stenzel, Kristine. 2014. “Estrutura argumental em duas línguas da família tukano oriental: Kotiria (Wanano) eW a ’ikhana
+(Piratapuyo).” In Sintaxe e semântica do verbo em línguas indígenas do Brasil , edited by Luciana Storto, Bruna Franchetto
+and Suzi Lima, p. 131 –66. Campinas, São Paolo: Mercado de Letras.
+Torero, Alfredo A. 1964. “Los dialectos quechuas. ” Anales Cientí ﬁcos de la Universidad Agraria 2(4), 446 –78.
+Triana y Antorveza, Humberto. 1987. Las lenguas indígenas en la historia social del Nuevo Reino de Granada . Bogotá: Instituto
+Caro y Cuervo.
+Tsunoda, Tasaku. 1981. “Split case-marking patterns in verb -types and tense/aspect/mood. ” Linguistics 19, 389 –438.
+Uzendoski, Michael and Norman E. Whitten Jr. 2014. “From ‘Acculturated Indians’ to ‘Dynamic Amazonian Quichua -Speaking
+Peoples’.” Tipití: Journal of the Anthropology of Lowland South America 12(1),1 –13.
+Valenzuela, Pilar M. 2011. “Argument Encoding and Pragmatic Marking of the Transitive Subject in Shiwilu (Kawapanan).”
+International Journal of American Linguistics 77(1),9 1–120.
+Valenzuela, Pilar M. 2015. “¿Qué tan “amazónicas.” son las lenguas kawapana? Rasgos centro -andinos y evidencia para una
+posible sub -área lingüística. ” Lexis XXXIX(1),5 –56.
+Velie, Daniel. 2008 [1975]. Orejón: Bosquejo de la fonología y gramática . Lima: Summer Institute of Linguistics.
+Vickers, William T. 1976. Cultural adaptation to Amazonian habitats: The Siona -Secoya of Eastern Ecuador . PhD thesis,
+University of Florida.
+Waltz, Nathan and Alva Wheeler. 1972. “Proto Tucanoan.” In Comparative studies in Amerindian Languages [Volume 127 ],
+edited by Esther Matteson, Alva Wheeler, Frances L. Jackson, Nathan E. Waltz, and Diana R. Christian, p. 119 –49. The
+Hague/New York: De Gruyter Mouton.
+Waltz, Nathan. 2007. Diccionario bilingüe: Wanano o Guanano -Español; Español-Wanano o Guanano . Bogotá: Fundación para
+el Desarrollo de los Pueblos Marginados.
+Weinreich, Uriel. 1953. Languages in contact . The Hague: Mouton.
+West, Birdie. 1980. Gramática popular del tucano . Bogotá: Ministerio del Gobierno.
+Wise, Mary Ruth 1999. “Small language families and isolates in Peru. ” In The Amazonian Languages , edited by Robert
+M. W. Dixon and Alexandra Y. Aikhenvald, p. 307 –40. Cambridge: Cambridge University Press.
+Wise, Mary Ruth. 2011. “Rastros desconcertantes de contactos entre idiomas y culturas a lo largo de los contrafuertes
+orientales de los Andes del Perú.” In Estudios sobre lenguas andinas y amazónicas: Homenaje a Rodolfo Cerrón -Palomino,
+edited by Willem F. H. Adelaar, Pilar M. Valenzuela, and Roberto Zariquiey, p. 305 –26. Lima: Fondo Editorial Ponti ﬁcía
+Universidad Católica del Perú.
+Zúñiga, Fernando. 2015. “How strong is the case for contact -induced grammatical restructuring in Quechuan? ” Linguistic
+Discovery 13(2),2 3 –36.
+38  Rik van Gijn et al.
+[PDF PAGE 39]
+APPENDIX – List of predicates and verb types used in this study
+Verbal concept Semantic class Verbal concept Semantic class
+EAT Aﬀected agent GRILL Eﬀective action
+DRINK Aﬀected agent HIT Eﬀective action
+LAUGH Aﬀected agent SHAVE Eﬀective action
+TAKE Aﬀected agent DRESS Eﬀective action
+GET Aﬀected agent BUILD Eﬀective action
+GIVE BIRTH Aﬀected agent CUT Eﬀective action
+PLAY Aﬀected agent TEAR Eﬀective action
+KNOW Cognition TIE Eﬀective action
+UNDERSTAND Cognition FILL Eﬀective action
+THINK (about) Cognition GRIND Eﬀective action
+FORGET Cognition LIKE Emotion
+TOUCH Contact FEAR Emotion
+FEEL Contact BE FOND OF Emotion
+LEAN (on) Contact BE SAD Emotion
+STROKE Contact BE HAPPY Emotion
+STICK (to) Contact HATE/DISLIKE Emotion
+LICK Contact HELP Interaction
+WASH Contact MEET Interaction
+HUG Contact FRIGHTEN Interaction
+BEAT Contact TALK Interaction
+PEEL Contact ASK FOR Interaction
+CARRY Contact SHOUT AT Interaction
+LOAD Contact TELL Interaction
+PUSH Contact SAY Interaction
+WIPE Contact NAME Interaction
+KILL Eﬀective action SHOW Interaction
+COOK Eﬀective action GIVE Interaction
+BREAK Eﬀective action SEND Interaction
+BRING Interaction DIG Pursuit
+STEAL Interaction BE THIRSTY Sensation
+TEACH Interaction BE HUNGRY Sensation
+DEFECATE Middle BE WARM Sensation
+GET UP Middle BE COLD Sensation
+SCREAM Middle BE SICK Sensation
+SING Middle BE SLEEPY Sensation
+JUMP Middle HURT Sensation
+SIT DOWN Middle VOMIT Spontaneous
+HIDE Middle DIE Spontaneous
+LEAVE Motion FALL ASLEEP Spontaneous
+GO Motion FAINT Spontaneous
+ROLL Motion SWEAT Spontaneous
+RUN Motion BURN Spontaneous
+CLIMB Motion FALL/SLIP Spontaneous
+SEE Perception RAIN Spontaneous
+HEAR Perception SINK Spontaneous
+LOOK (at) Perception COUGH Spontaneous
+Lexically driven patterns of contact in alignment systems  39
+[PDF PAGE 40]
+LISTEN (to) Perception BLINK Spontaneous
+SMELL Perception BOIL Spontaneous
+FOLLOW Pursuit POSSESS Static
+SEARCH (for) Pursuit BE SIMILAR (to) Static
+HUNT Pursuit SIT Static
+THROW (at) Pursuit STAND Static
+WAIT (for) Pursuit LIE Static
+PUT Pursuit BE DRY Static
+POUR Pursuit BE A HUNTER Static
+COVER Pursuit LIVE Static
+40  Rik van Gijn et al.

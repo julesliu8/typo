@@ -1,0 +1,1007 @@
+{
+  "id": "https://openalex.org/W3203619869",
+  "doi": "https://doi.org/10.1515/lingty-2021-2088",
+  "title": "Universal and macro-areal patterns in the lexicon",
+  "display_name": "Universal and macro-areal patterns in the lexicon",
+  "publication_year": 2021,
+  "publication_date": "2021-09-28",
+  "ids": {
+    "openalex": "https://openalex.org/W3203619869",
+    "doi": "https://doi.org/10.1515/lingty-2021-2088",
+    "mag": "3203619869"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1515/lingty-2021-2088",
+    "doi": "https://doi.org/10.1515/lingty-2021-2088",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1515/lingty-2021-2088",
+    "pdf_url": "https://www.degruyter.com/document/doi/10.1515/lingty-2021-2088/pdf",
+    "source": {
+      "id": "https://openalex.org/S97247071",
+      "display_name": "Linguistic Typology",
+      "issn_l": "1430-0532",
+      "issn": [
+        "1430-0532",
+        "1613-415X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310313990",
+      "host_organization_name": "De Gruyter",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Linguistic Typology",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.degruyter.com/document/doi/10.1515/lingty-2021-2088/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5087569243",
+        "display_name": "Thanasis Georgakopoulos",
+        "orcid": "https://orcid.org/0000-0002-5632-4202",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5632-4202"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I118501908",
+          "display_name": "National Research University Higher School of Economics",
+          "ror": "https://ror.org/055f7t516",
+          "country_code": "RU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I118501908"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I21370196",
+          "display_name": "Aristotle University of Thessaloniki",
+          "ror": "https://ror.org/02j61yw88",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21370196"
+          ]
+        }
+      ],
+      "countries": [
+        "GR",
+        "RU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thanasis Georgakopoulos",
+      "raw_affiliation_strings": [
+        "[θaˈnasis ʝeorɣaˈkopulos], National Research University, Higher School of Economics , Moscow , Russia ; and Aristotle University of Thessaloniki , Thessaloniki , Greece"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "[θaˈnasis ʝeorɣaˈkopulos], National Research University, Higher School of Economics , Moscow , Russia ; and Aristotle University of Thessaloniki , Thessaloniki , Greece",
+          "institution_ids": [
+            "https://openalex.org/I118501908",
+            "https://openalex.org/I21370196"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020885720",
+        "display_name": "Eitan Grossman",
+        "orcid": "https://orcid.org/0000-0001-7479-7831",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-7479-7831"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197251160",
+          "display_name": "Hebrew University of Jerusalem",
+          "ror": "https://ror.org/03qxff017",
+          "country_code": "IL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eitan Grossman",
+      "raw_affiliation_strings": [
+        "[ˈeɪtɐn ˈgʁosmɐn], Hebrew University of Jerusalem , Jerusalem , Israel"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "[ˈeɪtɐn ˈgʁosmɐn], Hebrew University of Jerusalem , Jerusalem , Israel",
+          "institution_ids": [
+            "https://openalex.org/I197251160"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042580443",
+        "display_name": "Dmitry Nikolaev",
+        "orcid": "https://orcid.org/0000-0002-3034-9794",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3034-9794"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161593684",
+          "display_name": "Stockholm University",
+          "ror": "https://ror.org/05f0yaq80",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Dmitry Nikolaev",
+      "raw_affiliation_strings": [
+        "Stockholm University , Stockholm , Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Stockholm University , Stockholm , Sweden",
+          "institution_ids": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5074985455",
+        "display_name": "Stéphane Polis",
+        "orcid": "https://orcid.org/0000-0003-0350-9753",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0350-9753"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157674565",
+          "display_name": "University of Liège",
+          "ror": "https://ror.org/00afp2z80",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157674565"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stéphane Polis",
+      "raw_affiliation_strings": [
+        "[steˈfan poˈlis], F.R.S.-FNRS/University of Liège , Liège , Belgium"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "[steˈfan poˈlis], F.R.S.-FNRS/University of Liège , Liège , Belgium",
+          "institution_ids": [
+            "https://openalex.org/I157674565"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5042580443"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I161593684"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "EUR",
+    "value_usd": 2366
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "EUR",
+    "value_usd": 2366
+  },
+  "fwci": 3.9489,
+  "has_fulltext": true,
+  "cited_by_count": 30,
+  "citation_normalized_percentile": {
+    "value": 0.93965475,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "26",
+    "issue": "2",
+    "first_page": "439",
+    "last_page": "487"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12694",
+    "display_name": "Categorization, perception, and language",
+    "score": 0.9189000129699707,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.9189000129699707,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Syntax, Semantics, Linguistic Variation",
+      "score": 0.03370000049471855,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12881",
+      "display_name": "linguistics and terminology studies",
+      "score": 0.01679999940097332,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/colexification",
+      "display_name": "colexification",
+      "score": 0.871999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/vocabulary",
+      "display_name": "vocabulary",
+      "score": 0.6439999938011169
+    },
+    {
+      "id": "https://openalex.org/keywords/perception",
+      "display_name": "perception",
+      "score": 0.30399999022483826
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "cognition",
+      "score": 0.9959999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/semantic-field",
+      "display_name": "semantic field",
+      "score": 0.8970000147819519
+    },
+    {
+      "id": "https://openalex.org/keywords/areal-linguistics",
+      "display_name": "areal linguistics",
+      "score": 0.5659999847412109
+    },
+    {
+      "id": "https://openalex.org/keywords/word-meaning",
+      "display_name": "word meaning",
+      "score": 0.503000020980835
+    },
+    {
+      "id": "https://openalex.org/keywords/concept-lattices",
+      "display_name": "concept lattices",
+      "score": 0.7049999833106995
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778121359",
+      "wikidata": "https://www.wikidata.org/wiki/Q8096",
+      "display_name": "Lexicon",
+      "level": 2,
+      "score": 0.9055376052856445
+    },
+    {
+      "id": "https://openalex.org/C2775945657",
+      "wikidata": "https://www.wikidata.org/wiki/Q381442",
+      "display_name": "Structuring",
+      "level": 2,
+      "score": 0.6833462119102478
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.680189847946167
+    },
+    {
+      "id": "https://openalex.org/C166955791",
+      "wikidata": "https://www.wikidata.org/wiki/Q629579",
+      "display_name": "Macro",
+      "level": 2,
+      "score": 0.5610997080802917
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.5574668049812317
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5425323843955994
+    },
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.48904380202293396
+    },
+    {
+      "id": "https://openalex.org/C111030470",
+      "wikidata": "https://www.wikidata.org/wiki/Q1430460",
+      "display_name": "Curse of dimensionality",
+      "level": 2,
+      "score": 0.4874325096607208
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.08032962679862976
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1515/lingty-2021-2088",
+      "doi": "https://doi.org/10.1515/lingty-2021-2088",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1515/lingty-2021-2088",
+      "pdf_url": "https://www.degruyter.com/document/doi/10.1515/lingty-2021-2088/pdf",
+      "source": {
+        "id": "https://openalex.org/S97247071",
+        "display_name": "Linguistic Typology",
+        "issn_l": "1430-0532",
+        "issn": [
+          "1430-0532",
+          "1613-415X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310313990",
+        "host_organization_name": "De Gruyter",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Linguistic Typology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:orbi.ulg.ac.be:2268/247174",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://orbi.uliege.be/handle/2268/247174",
+      "pdf_url": "https://orbi.uliege.be/handle/2268/247174",
+      "source": {
+        "id": "https://openalex.org/S4306401300",
+        "display_name": "ORBi (University of Liège)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I157674565",
+        "host_organization_name": "University of Liège",
+        "host_organization_lineage": [
+          "https://openalex.org/I157674565"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Linguistic Typology (2021)",
+      "raw_type": "http://purl.org/coar/resource_type/c_6501"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1515/lingty-2021-2088",
+    "doi": "https://doi.org/10.1515/lingty-2021-2088",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1515/lingty-2021-2088",
+    "pdf_url": "https://www.degruyter.com/document/doi/10.1515/lingty-2021-2088/pdf",
+    "source": {
+      "id": "https://openalex.org/S97247071",
+      "display_name": "Linguistic Typology",
+      "issn_l": "1430-0532",
+      "issn": [
+        "1430-0532",
+        "1613-415X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310313990",
+      "host_organization_name": "De Gruyter",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Linguistic Typology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2067776530",
+      "display_name": "Be International Post-Doc - Euregio and Greater Region",
+      "funder_award_id": "600405",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320324261",
+      "display_name": "National Research University Higher School of Economics",
+      "ror": "https://ror.org/055f7t516"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3203619869.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3203619869.grobid-xml"
+  },
+  "referenced_works_count": 76,
+  "referenced_works": [
+    "https://openalex.org/W87580586",
+    "https://openalex.org/W173802895",
+    "https://openalex.org/W193130719",
+    "https://openalex.org/W218272076",
+    "https://openalex.org/W288841874",
+    "https://openalex.org/W851340175",
+    "https://openalex.org/W1499500333",
+    "https://openalex.org/W1517744545",
+    "https://openalex.org/W1559010669",
+    "https://openalex.org/W1568546078",
+    "https://openalex.org/W1574047653",
+    "https://openalex.org/W1580863055",
+    "https://openalex.org/W1969168357",
+    "https://openalex.org/W1976599083",
+    "https://openalex.org/W1979022758",
+    "https://openalex.org/W1991274327",
+    "https://openalex.org/W1992305141",
+    "https://openalex.org/W1998306017",
+    "https://openalex.org/W2008885987",
+    "https://openalex.org/W2015953751",
+    "https://openalex.org/W2034356777",
+    "https://openalex.org/W2035327778",
+    "https://openalex.org/W2039544388",
+    "https://openalex.org/W2046830495",
+    "https://openalex.org/W2061295796",
+    "https://openalex.org/W2085313580",
+    "https://openalex.org/W2095436077",
+    "https://openalex.org/W2125910575",
+    "https://openalex.org/W2128057546",
+    "https://openalex.org/W2131681506",
+    "https://openalex.org/W2140452151",
+    "https://openalex.org/W2142885921",
+    "https://openalex.org/W2143838086",
+    "https://openalex.org/W2163544283",
+    "https://openalex.org/W2211938735",
+    "https://openalex.org/W2266884515",
+    "https://openalex.org/W2281589022",
+    "https://openalex.org/W2317624599",
+    "https://openalex.org/W2318554807",
+    "https://openalex.org/W2320145636",
+    "https://openalex.org/W2330813134",
+    "https://openalex.org/W2335719363",
+    "https://openalex.org/W2337762945",
+    "https://openalex.org/W2399378566",
+    "https://openalex.org/W2489054740",
+    "https://openalex.org/W2498170642",
+    "https://openalex.org/W2561682243",
+    "https://openalex.org/W2564387935",
+    "https://openalex.org/W2569138060",
+    "https://openalex.org/W2580177986",
+    "https://openalex.org/W2588178381",
+    "https://openalex.org/W2608040841",
+    "https://openalex.org/W2609319765",
+    "https://openalex.org/W2765515411",
+    "https://openalex.org/W2786672974",
+    "https://openalex.org/W2787132789",
+    "https://openalex.org/W2788143773",
+    "https://openalex.org/W2807650837",
+    "https://openalex.org/W2810040508",
+    "https://openalex.org/W2885565116",
+    "https://openalex.org/W2888474488",
+    "https://openalex.org/W2889326414",
+    "https://openalex.org/W2897968256",
+    "https://openalex.org/W2902064515",
+    "https://openalex.org/W2949772542",
+    "https://openalex.org/W2963099212",
+    "https://openalex.org/W2991993018",
+    "https://openalex.org/W3035852397",
+    "https://openalex.org/W3087782321",
+    "https://openalex.org/W3087812649",
+    "https://openalex.org/W3109091248",
+    "https://openalex.org/W4205375075",
+    "https://openalex.org/W4211177138",
+    "https://openalex.org/W4214770340",
+    "https://openalex.org/W4246985677",
+    "https://openalex.org/W4399636900"
+  ],
+  "related_works": [
+    "https://openalex.org/W7160476660",
+    "https://openalex.org/W2777758885",
+    "https://openalex.org/W2902064515",
+    "https://openalex.org/W6943688374",
+    "https://openalex.org/W3196565904",
+    "https://openalex.org/W3027764784",
+    "https://openalex.org/W288841874",
+    "https://openalex.org/W4377006814",
+    "https://openalex.org/W7084401917",
+    "https://openalex.org/W2732443420"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "This": [
+      1,
+      70
+    ],
+    "paper": [
+      2,
+      71
+    ],
+    "investigates": [
+      3
+    ],
+    "universal": [
+      4
+    ],
+    "and": [
+      5,
+      22,
+      30,
+      45,
+      57,
+      83,
+      90
+    ],
+    "areal": [
+      6,
+      78
+    ],
+    "structures": [
+      7
+    ],
+    "in": [
+      8,
+      16,
+      52,
+      55,
+      80,
+      94
+    ],
+    "the": [
+      9,
+      17,
+      53,
+      59,
+      74,
+      81,
+      95
+    ],
+    "lexicon": [
+      10
+    ],
+    "as": [
+      11
+    ],
+    "manifested": [
+      12
+    ],
+    "by": [
+      13
+    ],
+    "colexification": [
+      14,
+      50
+    ],
+    "patterns": [
+      15,
+      51,
+      64,
+      79
+    ],
+    "semantic": [
+      18,
+      38
+    ],
+    "domains": [
+      19,
+      54
+    ],
+    "of": [
+      20,
+      76,
+      87,
+      91,
+      97
+    ],
+    "perception": [
+      21
+    ],
+    "cognition,": [
+      23
+    ],
+    "based": [
+      24
+    ],
+    "on": [
+      25
+    ],
+    "data": [
+      26
+    ],
+    "from": [
+      27
+    ],
+    "both": [
+      28
+    ],
+    "small": [
+      29
+    ],
+    "large": [
+      31
+    ],
+    "datasets.": [
+      32
+    ],
+    "Using": [
+      33
+    ],
+    "several": [
+      34
+    ],
+    "methods,": [
+      35
+    ],
+    "including": [
+      36
+    ],
+    "weighted": [
+      37
+    ],
+    "maps,": [
+      39
+    ],
+    "formal": [
+      40
+    ],
+    "concept": [
+      41
+    ],
+    "lattices,": [
+      42
+    ],
+    "correlation": [
+      43
+    ],
+    "analysis,": [
+      44
+    ],
+    "dimensionality": [
+      46
+    ],
+    "reduction,": [
+      47
+    ],
+    "we": [
+      48
+    ],
+    "identify": [
+      49
+    ],
+    "question": [
+      56
+    ],
+    "evaluate": [
+      58
+    ],
+    "extent": [
+      60
+    ],
+    "to": [
+      61,
+      67,
+      73
+    ],
+    "which": [
+      62
+    ],
+    "these": [
+      63
+    ],
+    "are": [
+      65
+    ],
+    "specific": [
+      66
+    ],
+    "particular": [
+      68
+    ],
+    "areas.": [
+      69
+    ],
+    "contributes": [
+      72
+    ],
+    "methodology": [
+      75
+    ],
+    "investigating": [
+      77
+    ],
+    "lexicon,": [
+      82
+    ],
+    "identifies": [
+      84
+    ],
+    "a": [
+      85
+    ],
+    "number": [
+      86
+    ],
+    "cross-linguistic": [
+      88
+    ],
+    "regularities": [
+      89
+    ],
+    "area-specific": [
+      92
+    ],
+    "properties": [
+      93
+    ],
+    "structuring": [
+      96
+    ],
+    "lexicons.": [
+      98
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-06T12:05:46.655746",
+  "created_date": "2021-10-11T00:00:00"
+}

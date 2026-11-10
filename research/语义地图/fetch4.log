@@ -1,0 +1,5 @@
+('emotionmap2022brill', '202 ', [])
+('emotionmap2022repo', "HTTPSConnectionPool(host='orbi.uliege.be', port=443): Max retries exceeded with url: /bitstream/2268/291967/1/Georgakopoulos%26Polis_2022_SemanticMaps_Emotions.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")
+('emotionmap2022record', "HTTPSConnectionPool(host='orbi.uliege.be', port=443): Max retries exceeded with url: /handle/2268/291967 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")
+('verbtypes2018', 'PDF saved, 17 pages')
+('want2010', 'PDF saved, 16 pages')

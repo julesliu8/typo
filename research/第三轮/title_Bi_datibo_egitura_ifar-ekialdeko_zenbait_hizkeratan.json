@@ -1,0 +1,103 @@
+[
+  {
+    "title": [
+      "Bi datibo egitura ifar-ekialdeko zenbait hizkeratan"
+    ],
+    "DOI": "10.4000/lapurdum.2049",
+    "author": [
+      {
+        "given": "Ricardo",
+        "family": "Etxepare",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "IKER UMR 5478-CNRS"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bernard",
+        "family": "Oyharçabal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IKER UMR 5478-CNRS"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": [
+      "Lapurdum"
+    ],
+    "publisher": "OpenEdition",
+    "page": "145-158",
+    "link": null
+  },
+  {
+    "title": [
+      "Datibo-markazioa"
+    ],
+    "DOI": "10.1387/asju.9694",
+    "author": [
+      {
+        "given": "Karmele",
+        "family": "Rotaetxe",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          2,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Anuario del Seminario de Filología Vasca \"Julio de Urquijo\""
+    ],
+    "publisher": "EHU Press",
+    "page": "571-582",
+    "link": [
+      {
+        "URL": "https://ojs.ehu.eus/index.php/ASJU/article/download/9694/8932",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://ojs.ehu.eus/index.php/ASJU/article/download/9694/8932",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+]

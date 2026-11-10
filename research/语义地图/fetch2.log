@@ -1,0 +1,31 @@
+Skipping broken line b'01af   01af   1d504': Odd-length string
+Skipping broken line b'01dd   01dd   1d505': Odd-length string
+Skipping broken line b'0339   0339   1d50a': Odd-length string
+Skipping broken line b'0453   0453   1d50e': Odd-length string
+Skipping broken line b'04a8   04a8   1d50f': Odd-length string
+Skipping broken line b'04cb   04cb   1d510': Odd-length string
+Skipping broken line b'04cc   04cc   1d40c': Odd-length string
+Skipping broken line b'05c8   05c8   1d513': Odd-length string
+Skipping broken line b'05d7   05d7   1d514': Odd-length string
+Skipping broken line b'064a   064a   1d516': Odd-length string
+Skipping broken line b'0688   0688   1d517': Odd-length string
+Skipping broken line b'070c   070c   1d519': Odd-length string
+Skipping broken line b'01af   01af   1d504': Odd-length string
+Skipping broken line b'01dd   01dd   1d505': Odd-length string
+Skipping broken line b'0339   0339   1d50a': Odd-length string
+Skipping broken line b'0453   0453   1d50e': Odd-length string
+Skipping broken line b'04a8   04a8   1d50f': Odd-length string
+Skipping broken line b'04cb   04cb   1d510': Odd-length string
+Skipping broken line b'04cc   04cc   1d40c': Odd-length string
+Skipping broken line b'05c8   05c8   1d513': Odd-length string
+Skipping broken line b'05d7   05d7   1d514': Odd-length string
+Skipping broken line b'064a   064a   1d516': Odd-length string
+Skipping broken line b'0688   0688   1d517': Odd-length string
+Skipping broken line b'070c   070c   1d519': Odd-length string
+Advanced encoding [] not implemented yet
+Advanced encoding [] not implemented yet
+('perception2024', 'PDF saved, 44 pages')
+('perception2018_interaction', 'PDF saved, 37 pages')
+('emotion2019', 'PDF saved, 6 pages')
+('map_diachronic2021', "HTTPSConnectionPool(host='orbi.uliege.be', port=443): Max retries exceeded with url: /bitstream/2268/242779/1/Georgakopoulos%26Polis_2019_LexicalDiachronicSemanticMaps_Accepted.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")
+('map_review_record', "HTTPSConnectionPool(host='orbi.uliege.be', port=443): Max retries exceeded with url: /simple-search?query=The+semantic+map+model (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")

@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://bivaltyp.info/js/data/full.js"></script>
+        <script src="https://bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <!-- A place for a permanent-sponsor logo. -->
+        <!-- <a href="https://iling.spb.ru/departements/typology/about.html.ru"><img src="https://bivaltyp.info/images/LTIJa.png"
+                alt="Лаборатория типологического изучения языков"></a>
+        &nbsp;&nbsp;
+        -->
+        <!-- <a href="https://iling.spb.ru/index.html.ru"><img src="https://bivaltyp.info/images/ili.png"
+                alt="Институт лингвистических исследований РАН"></a> -->
+    </div>
+    <!-- <div>
+    </div> -->
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://bivaltyp.info">
+            <div class="menu-button">Home</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://bivaltyp.info/project/description/">
+                <div class="menu-button">Project description</div>
+            </a>
+            <a href="https://bivaltyp.info/project/questionnaire/">
+                <div class="menu-button">Questionnaire</div>
+            </a>
+            <a href="https://bivaltyp.info/project/instructions/">
+                <div class="menu-button">Instructions for&nbsp;contributors</div>
+            </a>
+            <a href="https://bivaltyp.info/project/team/">
+                <div class="menu-button">Team</div>
+            </a>
+            <a href="https://bivaltyp.info/project/publications/">
+                <div class="menu-button">Publications</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/howtoreadthedata/">
+            <div class="menu-button">How to read the data</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://bivaltyp.info/languages/listview/">
+                <div class="menu-button">List view</div>
+            </a>
+            <a href="https://bivaltyp.info/languages/mapview/">
+                <div class="menu-button">Map view</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/predicates/">
+            <div class="menu-button">Predicates</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://bivaltyp.info/data/patterns/">
+                <div class="menu-button">Patterns overview</div>
+            </a>
+            <a href="https://bivaltyp.info/data/all/">
+                <div class="menu-button">Data in one spreadsheet</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/data/maps/">
+            <div class="menu-button">Maps</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/download/">
+            <div class="menu-button">Download</div>
+        </a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><h2>Maps</h2>
+<ul>
+    <li><a href="#transitivity-ratio">Transitivity and locus ratio maps</a>
+        <ul>
+            <li><a href="#tr-ratios">Ratios of transitive predicates</a></li>
+            <li><a href="#x-ratios">Ratios of predicates with the first argument (X) encoded by oblique devices</a></li>
+            <li><a href="#y-ratios">Ratios of predicates with the second argument (Y) encoded by oblique devices</a>
+            </li>
+            <li><a href="#xy-ratios">Ratios of predicates with both arguments (XY) encoded by oblique devices</a></li>
+        </ul>
+    </li>
+    <li><a href="#transitivity">Customizable transitivity and locus map</a></li>
+    <li><a href="#predicatepairs">Customizable predicate-pair map</a></li>
+<!--    <li><a href="#how-to-cite">How to cite</a></li>-->
+</ul>
+
+<h3 id="how-to-cite">How to cite</h3>
+<p>Say, Sergey and Dmitry Nikolaev. 2021. Maps. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames.
+    St. Petersburg: Institute for Linguistic Studies, RAS. (Available online at https://www.bivaltyp.info, Accessed on <span id="today"></span>.)</p>
+
+<h3 id="transitivity-ratio">Transitivity and locus ratio maps</h3>
+<p>These four maps display the ratios of transitive predicates and of three types of intransitive patterns in the
+    languages of the sample.
+    The three types of intransitive patterns are distinguished based on whether the first argument (X), the second
+    argument (Y), or both arguments (X and Y)
+    are encoded by oblique devices; see the section on locus in <a href="https://bivaltyp.info/howtoreadthedata/">How to read the data</a> for
+    more detail.</p>
+<h4 id="tr-ratios">Ratios of transitive predicates</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle very-high-ratio"></div> – 60–81%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle high-ratio"></div> – 53–59%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle moderate-ratio"></div> – 47–52%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle low-ratio"></div> – 40–46%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle very-low-ratio"></div> – 27–39%
+    </li>
+</ul>
+<p>Values above 81% and below 27% have not been observed.</p>
+<div id="transitivity-ratio-map"
+    style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h4 id="x-ratios">Ratios of predicates with the first argument (X) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle very-high-ratio"></div> – 13–23%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle high-ratio"></div> – 7–12%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle moderate-ratio"></div> – 5–6%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle low-ratio"></div> – 3–4%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle very-low-ratio"></div> – below 3%
+    </li>
+</ul>
+<p>Values above 23% have not been observed.</p>
+<div id="X-ratio-map"
+    style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h4 id="y-ratios">Ratios of predicates with the second argument (Y) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle very-high-ratio"></div> – 50–65%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle high-ratio"></div> – 45–49%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle moderate-ratio"></div> – 38–44%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle low-ratio"></div> – 30–37%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle very-low-ratio"></div> – 16–29%
+    </li>
+</ul>
+<p>Values above 65% and below 16% have not been observed.</p>
+<div id="Y-ratio-map"
+    style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h4 id="xy-ratios">Ratios of predicates with both arguments (XY) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle very-high-ratio"></div> – 8–12%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle high-ratio"></div> – 5–7%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle moderate-ratio"></div> – 3–4%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle low-ratio"></div> – 1–2%
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle very-low-ratio"></div> – 0 occurrences
+    </li>
+</ul>
+<div id="XY-ratio-map"
+    style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h3 id="transitivity">Customizable transitivity and locus map</h3>
+<p>This map shows whether translation equivalents of a given predicate (‘attack’, ‘be afraid’, etc.) belong to the
+    transitive class in the languages of the sample.
+    Non-transitive equivalents are further divided into three types based on their locus of intransitivity, i.e.,
+    whether the first argument (X), the second argument (Y),
+    or both arguments are encoded by oblique devices. See <a href="https://bivaltyp.info/howtoreadthedata/">How to read the data</a> for more
+    detail on locus.</p>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle circle-red"></div> – transitive
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-blue"></div> – X-locus (the first argument is encoded by an oblique device)
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-yellow"></div> – Y-locus (the second argument is encoded by an oblique device)
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-black"></div> – XY-locus (both arguments are encoded by oblique devices)
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-grey"></div> – no data
+    </li>
+</ul>
+<!-- <ul>
+    <li>Red: transitive</li>
+    <li>Blue: X-locus (the first argument is encoded by an oblique device)</li>
+    <li>Yellow: Y-locus (the second argument is encoded by an oblique device)</li>
+    <li>Black: XY-locus (both arguments are encoded by oblique devices)</li>
+    <li>Grey: no data</li>
+</ul> -->
+<label for="tr-locus-select">Select a predicate:</label>
+<select name="tr-locus" id="tr-locus-select" onchange="redrawPredicateMap(this.value);" style="width: 300px;">
+    <option value="---" disabled>---</option>
+</select>
+<input type="button" value="Switch to Russian labels" class="language-switch-button" onclick="populateSelectMenus();">
+<div id="transitivity-map"
+    style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h3 id="predicatepairs">Customizable predicate-pair map</h3>
+<p>This map shows whether translation equivalents of two selected predicates (e.g., ‘be afraid’ and ‘avoid’) pattern
+    together in terms of their valency class
+    in individual languages. Note that the equivalents are considered belonging to the same valency class if and only if
+    their first and second arguments are
+    aligned (e.g., the classes tagged “DAT_NOM” and “NOM_DAT” in Russian are considered two different classes for the
+    purposes of the project).
+    See <a href="https://bivaltyp.info/howtoreadthedata/">How to read the data</a> for more detail on how language-specific valency patterns are
+    identified.</p>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;">
+        <div class="circle circle-red"></div> – the two equivalents belong to the same valency class
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-blue"></div> – the two equivalents belong to different valency classes
+    </li>
+    <li style="list-style-type: none;">
+        <div class="circle circle-grey"></div> – no data (for at least one of the predicates)
+    </li>
+</ul>
+<!-- <ul>
+    <li>Red: the two equivalents belong to the same valency class</li>
+    <li>Blue: the two equivalents belong to different valency classes</li>
+    <li>Grey: no data (for at least one of the predicates)</li>
+</ul> -->
+<div style="display: grid; grid-template-columns: 310px 310px;">
+    <div style="grid-column: 1/2;">
+        <label for="predicate1-select">Select first predicate:</label>
+        <select name="predicate1" id="predicate1-select" onchange="redrawPredicatePairMap();" style="width: 300px;">
+            <option value="---" disabled>---</option>
+        </select>
+        <input type="button" value="Switch to Russian labels" class="language-switch-button"
+            onclick="populateSelectMenus();">
+    </div>
+    <div style="grid-column: 2/3;">
+        <label for="predicate2-select">Select second predicate:</label>
+        <select name="predicate1" id="predicate2-select" onchange="redrawPredicatePairMap();" style="width: 300px;">
+            <option value="---" disabled>---</option>
+        </select>
+    </div>
+</div>
+<div id="predicate-pair-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-top: 15px;"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+<script>
+    // Data.
+    let external2internal = {},
+        predicate2schemaEn = {},
+        predicate2schemaRu = {},
+        predicateName2No = {},
+        predicatesRu = {},
+        predicatesEn = {},
+        coords = {},
+        nameIndexDict = {};
+    let map1markers = [], map2markers = [];  // For deleting them.
+    let nextSelectLang = 'en';  // For toggling.
+
+    for (let i = 0; i < languageData[0].length; i++) {
+        nameIndexDict[languageData[0][i]] = i;
+    }
+    for (const row of languageData.slice(1)) {
+        const externalName = row[nameIndexDict['language_external']];
+        external2internal[externalName] = row[nameIndexDict['language']];
+        coords[externalName] = {
+            lat: row[nameIndexDict['latitude']],
+            lon: row[nameIndexDict['longitude']]
+        };
+    }
+    for (const row of predicateData.slice(1)) {
+        predicatesEn[row[0]] = row[1];
+        predicatesRu[row[0]] = row[4];
+        predicate2schemaEn[row[0]] = row[2];
+        predicate2schemaRu[row[0]] = row[5];
+        predicateName2No[row[1]] = row[0];
+    }
+    // Extract active languages for links
+    let activeLanguages = new Set();
+    for (const row of fullData.slice(1)) {
+        activeLanguages.add(row[0]);
+    }
+
+    // Collect loci from full table and structural table
+    let predicateLanguageLocusDict = {};
+    for (const row of fullData.slice(1)) {
+        const languageExternal = row[0],
+            predicate = row[1],
+            predicateNo = predicateName2No[predicate],
+            locus = row[6];
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
+            predicateLanguageLocusDict[predicateNo] = {};
+        predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
+    }
+    for (const row of structuralData.slice(1)) {
+        const languageExternal = row[0],
+            predicate = row[1],
+            predicateNo = predicateName2No[predicate],
+            locus = row[5];
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
+            predicateLanguageLocusDict[predicateNo] = {};
+        predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
+    }
+
+    // The workhorse functions
+    let map1, map2, map3;
+    const colourMap = {
+        'TR': 'red',
+        'X': 'blue',
+        'Y': 'yellow',
+        'XY': 'black'
+    };
+    function get(dict, key, plug) {
+        if (dict.hasOwnProperty(key))
+            return dict[key];
+        else
+            return plug;
+    }
+    function redrawPredicateMap(predicateNo) {
+        for (const marker of map1markers)
+            map1.removeLayer(marker);
+        map1markers.length = 0;
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const id = external2internal[lang],
+                lat = coords[lang].lat,
+                lon = coords[lang].lon;
+
+            let circle = L.divIcon({
+                className: `circle circle-${get(colourMap, predicateLanguageLocusDict[predicateNo][lang], 'grey')}`,
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([lat, lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${id}.html`)
+                });
+            map1markers.push(marker);
+            marker.addTo(map1);
+        }
+    }
+
+    function redrawPredicatePairMap() {
+        let pred1 = document.getElementById('predicate1-select').value,
+            pred2 = document.getElementById('predicate2-select').value;
+        if (pred1 === '---' || pred2 === '---')
+            return;
+
+        pred1 = parseInt(pred1);
+        pred2 = parseInt(pred2);
+
+        for (const marker of map2markers)
+            map2.removeLayer(marker);
+        map2markers.length = 0;
+
+        // Select rows
+        let pred1row, pred2row;
+        for (const row of patternsData) {
+            if (row[0] === pred1) {
+                pred1row = row;
+            }
+            if (row[0] === pred2) {
+                pred2row = row;
+            }
+        }
+        console.assert(pred1row !== undefined && pred2row !== undefined);
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const langIdx = patternsData[0].indexOf(external2internal[lang]),
+                pred1Pattern = pred1row[langIdx],
+                pred2Pattern = pred2row[langIdx];
+            let colour;
+            if (pred1Pattern === '' || pred2Pattern === '')
+                colour = 'grey';
+            else if (pred1Pattern === pred2Pattern)
+                colour = 'red';
+            else
+                colour = 'blue';
+            let circle = L.divIcon({
+                className: `circle circle-${colour}`,
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([coords[lang].lat, coords[lang].lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${external2internal[lang]}.html`)
+                });
+            map2markers.push(marker);
+            marker.addTo(map2);
+        }
+    }
+
+    function getPredicateOption(predicateNo, language) {
+        console.log(predicateNo, language);
+        let option = document.createElement('option');
+        option.value = predicateNo;
+        if (language === 'ru') {
+            option.innerHTML = predicatesRu[predicateNo]
+                .replace(/_/g, ' ')
+                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schemaRu[predicateNo]}</em>]`;
+        } else {
+            option.innerHTML = predicatesEn[predicateNo]
+                .replace(/_/g, ' ')
+                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schemaEn[predicateNo]}</em>]`;
+        }
+        return option;
+    }
+
+    function removeNonFirstChildren(element) {
+        let children = element.children;
+        for (let i = children.length - 1; i > 0; i--)
+            element.removeChild(children[i]);
+    }
+
+    function populateSelectMenus(resetMenus = false) {
+        const language = nextSelectLang;
+        nextSelectLang = nextSelectLang === 'en' ? 'ru' : 'en';
+        // Retrieve current values
+        let curval1, curval2, curval3;
+        if (!resetMenus) {
+            curval1 = document.getElementById('tr-locus-select').value;
+            curval2 = document.getElementById('predicate1-select').value;
+            curval3 = document.getElementById('predicate2-select').value;
+        }
+        // Populate select menus
+        let sortedPredicates = [];
+        for (const key in predicateLanguageLocusDict)
+            if (predicateLanguageLocusDict.hasOwnProperty(key))
+                sortedPredicates.push(key);
+        sortedPredicates.sort((pred1, pred2) => {
+            let key1, key2;
+            if (language === 'ru') {
+                key1 = predicatesRu[pred1];
+                key2 = predicatesRu[pred2];
+            } else {
+                key1 = predicatesEn[pred1];
+                key2 = predicatesEn[pred2];
+            }
+            if (key1 < key2)
+                return -1;
+            else if (key1 > key2)
+                return 1;
+            else
+                return 0;
+        });
+        removeNonFirstChildren(document.getElementById('tr-locus-select'));
+        removeNonFirstChildren(document.getElementById('predicate1-select'));
+        removeNonFirstChildren(document.getElementById('predicate2-select'));
+        for (const key of sortedPredicates) {
+            document.getElementById('tr-locus-select').appendChild(getPredicateOption(key, language));
+            document.getElementById('predicate1-select').appendChild(getPredicateOption(key, language));
+            document.getElementById('predicate2-select').appendChild(getPredicateOption(key, language));
+        }
+        if (resetMenus) {
+            document.getElementById('tr-locus-select').value = '---';
+            document.getElementById('predicate1-select').value = '---';
+            document.getElementById('predicate2-select').value = '---';
+        } else {
+            document.getElementById('tr-locus-select').value = curval1;
+            document.getElementById('predicate1-select').value = curval2;
+            document.getElementById('predicate2-select').value = curval3;
+        }
+
+        // Rename the button
+        let buttons = document.getElementsByClassName('language-switch-button');
+        for (let i = 0; i < buttons.length; i++) {
+            if (language === 'ru')
+                buttons[i].value = buttons[i].value.replace('Russian', 'English');
+            else
+                buttons[i].value = buttons[i].value.replace('English', 'Russian');
+        }
+    }
+
+
+    function drawMap(canvasId) {
+        let map = L.map(canvasId, { zoomControl: false });
+        map.setView([52.483333, 96.085833], 2);
+        L.control.zoom({ position: 'bottomleft' }).addTo(map);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(map);
+        return map;
+    }
+
+    /**
+     * Returns a colour-encoding class name for a given ratio
+     * based on a series of cut-off points.
+     */
+    function getRatioColour(ratio, ratios) {
+        if (ratios.length !== 4) {
+            alert('Wrong number of cut-off points passed to getRatioColours: ' + ratios.length);
+            return;
+        }
+        ratios.sort();
+        const classNames = ['very-low-ratio', 'low-ratio', 'moderate-ratio', 'high-ratio', 'very-high-ratio'];
+        for (let i = 0; i < ratios.length; i++)
+            if (Math.round(ratio * 100) < Math.round(ratios[i] * 100))  // Convert to integer per cents.
+                return classNames[i];
+        return classNames[classNames.length - 1];
+    }
+
+    let getTRRatioColour = ratio => getRatioColour(ratio, [0.4, 0.47, 0.53, 0.6]);
+    let getXRatioColour = ratio => getRatioColour(ratio, [0.03, 0.05, 0.07, 0.13]);
+    let getYRatioColour = ratio => getRatioColour(ratio, [0.3, 0.38, 0.45, 0.5]);
+    let getXYRatioColour = ratio => getRatioColour(ratio, [0.01, 0.03, 0.05, 0.08]);
+
+    /** 
+     * Adds colour-coded ratio markers to the map.
+     * Uses the data from the Patterns table.
+     * @function drawTransitivityRatioMap
+     * @param {DIV} map the DOM div node with a Leaflet map.
+     * @param {string} the pattern to draw the map for.
+     * @param {float -> string} the function to select class names for
+     *                          markers based on the ratio.
+    */
+    function drawRatioMap(map, inputPattern, colouringFunction) {
+        const lo = patternsData[0].indexOf('Abaza'),
+            hi = patternsData[0].length,
+            langIdx = languageData[0].indexOf('language'),
+            langExtIdx = languageData[0].indexOf('language_external'),
+            latIdx = languageData[0].indexOf('latitude'),
+            lonIdx = languageData[0].indexOf('longitude'),
+            XLocusIdx = languageData[0].indexOf('X'),
+            YLocusIdx = languageData[0].indexOf('Y'),
+            XYLocusIdx = languageData[0].indexOf('XY'),
+            overallNIdx = languageData[0].indexOf('overallN');
+
+        for (let i = lo; i < hi; i++) {
+            const lang = patternsData[0][i],
+                patterns = patternsData.slice(1)
+                    .map(row => row[i]);
+
+            // Compute the ratio
+            // Use different datasets depending on the pattern.
+            let TR_ratio;
+            if (inputPattern === 'TR') {
+                let TR = 0,
+                    total = 0;
+                for (const pattern of patterns) {
+                    if (pattern === "")
+                        continue;
+                    total++;
+                    if (pattern === inputPattern)
+                        TR++;
+                }
+                TR_ratio = TR / total;
+            } else {
+                // Use the data from Languages
+                for (const row of languageData.slice(0)) {
+                    if (row[langIdx] === lang) {
+                        overallN = row[overallNIdx];
+                        let otherValue;
+                        switch (inputPattern) {
+                            case 'X':
+                                otherValue = row[XLocusIdx];
+                                break;
+                            case 'Y':
+                                otherValue = row[YLocusIdx];
+                                break;
+                            case 'XY':
+                                otherValue = row[XYLocusIdx];
+                                break;
+                            default:
+                                alert('Wrong encoding locus passed to drawRatioMap: ' + inputPattern);
+                                otherValue = 0;
+                                break;
+                        }
+                        TR_ratio = otherValue / overallN;
+                        // console.log(inputPattern, TR_ratio)
+                        break;
+                    }
+                }
+            }
+
+            // Add a marker
+            for (const row of languageData.slice(0)) {
+                if (row[langIdx] === lang) {
+                    const lat = row[latIdx],
+                        lon = row[lonIdx],
+                        langExternal = row[langExtIdx];
+                    let circle = L.divIcon({
+                        className: `circle ${colouringFunction(TR_ratio)}`,
+                        iconSize: [10, 10]
+                    });
+                    let marker = L.marker([lat, lon], {
+                        icon: circle,
+                        title: langExternal
+                    });
+                    marker.addTo(map);
+                    break;
+                }
+            }
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        populateSelectMenus(true);
+
+        map1 = drawMap('transitivity-map');
+        map2 = drawMap('predicate-pair-map');
+        map3 = drawMap('transitivity-ratio-map');
+        drawRatioMap(map3, 'TR', getTRRatioColour);
+        map4 = drawMap('X-ratio-map');
+        drawRatioMap(map4, 'X', getXRatioColour);
+        map5 = drawMap('Y-ratio-map');
+        drawRatioMap(map5, 'Y', getYRatioColour);
+        map6 = drawMap('XY-ratio-map');
+        drawRatioMap(map6, 'XY', getXYRatioColour);
+    });
+</script>
+</div>
+
+
+</body>
+</html>
+

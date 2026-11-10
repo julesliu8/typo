@@ -1,0 +1,124 @@
+[
+  {
+    "title": [
+      "Le marquage de l'expérient dans les langues d'Europe"
+    ],
+    "DOI": "10.1515/9783110804485.259",
+    "author": [
+      {
+        "given": "Georg",
+        "family": "Bossong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12,
+          31
+        ]
+      ]
+    },
+    "publisher": "DE GRUYTER MOUTON",
+    "container-title": [
+      "Eurotyp 2, Actance et Valence dans les Langues de l'Europe"
+    ],
+    "page": "259-294"
+  },
+  {
+    "title": [
+      "Le marquage différentiel de l'objet dans les langues d'Europe"
+    ],
+    "DOI": "10.1515/9783110804485.193",
+    "author": [
+      {
+        "given": "Georg",
+        "family": "Bossong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12,
+          31
+        ]
+      ]
+    },
+    "publisher": "DE GRUYTER MOUTON",
+    "container-title": [
+      "Eurotyp 2, Actance et Valence dans les Langues de l'Europe"
+    ],
+    "page": "193-258"
+  },
+  {
+    "title": [
+      "Sondes polymères fluorescentes pour le marquage spécifique de protéines"
+    ],
+    "DOI": "10.70675/f857d444z4728z450fzac05zc96900c0fe6f",
+    "author": [
+      {
+        "given": "Laura",
+        "family": "Fabre",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01rk35k63",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Lyon"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": null,
+    "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+    "container-title": null,
+    "page": null
+  },
+  {
+    "title": [
+      "Directives volontaires sur le marquage des engins de pêche"
+    ],
+    "DOI": "10.4060/cc4251fr",
+    "author": null,
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          3
+        ]
+      ]
+    },
+    "publisher": "FAO",
+    "container-title": null,
+    "page": null
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "title": "How do middle voice markers and valency reducing constructions interact? Typological tendencies and diachronic considerations",
+    "doi": "https://doi.org/10.1515/flin-2022-2019",
+    "year": 2022,
+    "authors": [
+      "Guglielmo Inglese"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1515/flin-2022-2019",
+        "https://www.degruyter.com/document/doi/10.1515/flin-2022-2019/pdf"
+      ],
+      [
+        "https://lirias.kuleuven.be/handle/20.500.12942/776532",
+        null
+      ],
+      [
+        "https://hdl.handle.net/2318/1862405",
+        "https://iris.unito.it/bitstream/2318/1862405/1/10.1515_flin-2022-2019.pdf"
+      ]
+    ],
+    "abstract": "Abstract Middle voice markers are highly polyfunctional items that, among other things, also perform a range of valency-changing operations such as anticausativization and reflexivization. Typological research has shown that individual markers display a great deal of variation with respect to their inventory of functions. Explaining this variation remains a key question that a comprehensive typology of middle markers needs to address. We now know that only a sub-set of the possible polyfunctionality patterns is actually attested and that existing patterns often represent the result of specific grammaticalization processes. In this paper, I explore yet another possible factor, that is, the interaction between middle markers and other valency-changing constructions within the same language. Based on a study of 129 middle-marking languages, I single out two recurrent patterns, that is, complementarity and competition, and argue that their study offers crucial insights in explaining the synchronic polyfunctionality of middle markers."
+  },
+  {
+    "title": "A Parametric Implementation of Valence-changing Morphology in the LinGO Grammar Matrix",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Chris Curtis"
+    ],
+    "locations": [
+      [
+        "http://hdl.handle.net/1773/41814",
+        "http://hdl.handle.net/1773/41814"
+      ],
+      [
+        "https://digital.lib.washington.edu:443/researchworks/handle/1773/41814",
+        null
+      ]
+    ],
+    "abstract": "This thesis describes an analysis of valence-changing verbal morphology implemented as a library extending the LinGO Grammar Matrix customization system.This analysis is based on decomposition of these operations into rule components, which in turn are expressed as lexical rule supertypes that implement specific, isolatable constraints.I also show how common variations of these constraints can be abstracted and parameterized by their axes of variation.I then demonstrate how these supertypes can be recomposed in various combinations to provide broad coverage of the typological variation of valence change found in the world's languages.I evaluate the coverage of this library on several world languages that exhibit these phenomena.First and foremost, a most heartfelt thank you to my advisor, Emily M. Bender, not only for bringing me into the DELPH-IN fold, but also for her knowledge, advice, insight, and unflagging support and encouragement.Her commitment to nurturing the whole researcher in habits of mind and spirit is the very model of what an advisor should be."
+  },
+  {
+    "title": "Takanan languages",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Antoine Guillaume"
+    ],
+    "locations": [
+      [
+        "https://hal.science/halshs-02527795v2",
+        "https://shs.hal.science/halshs-02527795v2/document"
+      ]
+    ],
+    "abstract": "This chapter provides the first extensive survey of the linguistic characteristics of the languages of the small Takanan family, composed of five extent languages, Araona, Cavineña, Ese Ejja, Reyesano, and Tacana, spoken in the Amazonian lowlands of northern Bolivia and southeastern Peru. To date, there has been no general and/or detailed comparative work on these languages, apart from old studies based on scanty materials collected around the turn of the 20th century (Rivet & Créqui-Montfort 1921; Schuller 1933), more recent studies restricted to the phonological domain (Key 1968; Girard 1971) and small sketches only listing some noteworthy typological properties (Aikhenvald & Dixon 1999: 364–367; Adelaar 2004: 418–422; Valenzuela & Guillaume 2017: 30–32). Drawing on data from the most recent fieldwork-based studies, which have appeared in the past two decades, this chapter offers a typologically and (when possible) historically informed presentation of their main linguistic features and of their most interesting characteristics. All the major levels of linguistic structure are presented, including phonetics and phonology, the word classes and their morphology, noun phrases, verbal and non-verbal predicates, main and dependent clauses, and discourse."
+  },
+  {
+    "title": "Towards a typology of middle voice systems",
+    "doi": "https://doi.org/10.1515/lingty-2020-0131",
+    "year": 2021,
+    "authors": [
+      "Guglielmo Inglese"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1515/lingty-2020-0131",
+        "https://www.degruyter.com/document/doi/10.1515/lingty-2020-0131/pdf"
+      ],
+      [
+        "https://lirias.kuleuven.be/handle/20.500.12942/776531",
+        null
+      ],
+      [
+        "https://hdl.handle.net/2318/1856490",
+        "https://iris.unito.it/bitstream/2318/1856490/1/2021_Inglese_Towards_a_typology_of_middle_voice_systems_LingTyp.pdf"
+      ]
+    ],
+    "abstract": "Abstract The middle voice is a notoriously controversial typological notion. Building on previous work (e.g. Kemmer, Suzanne. 1993.The middle voice. Amsterdam & Philadelphia: John Benjamins), in this paper I propose a new working definition of middle markers as inherently polyfunctional constructions which are partly associated with valency change in opposition to bivalent (or more) verbs and partly lexically obligatory with monovalent verbs. Based on this definition, the paper undertakes a systematic survey of 149 middle voice constructions in a sample of 129 middle-marking languages. Evidence from the sample shows that middle voice systems display a much richer variation in forms and functions than is reported in the literature. This richer empirical evidence challenges some of the mainstream views on middle marking, especially its purported connection with reflexivity and grooming-type events, and calls for an overall rethinking of the typology of the middle voice."
+  },
+  {
+    "title": "Introduction to Argument-Encoding Systems in Bolivian Amazonian Languages",
+    "doi": "https://doi.org/10.1086/662152",
+    "year": 2011,
+    "authors": [
+      "Antoine Guillaume",
+      "Françoise Rose"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1086/662152",
+        null
+      ],
+      [
+        "https://shs.hal.science/halshs-00724603",
+        "https://shs.hal.science/halshs-00724603/document"
+      ],
+      [
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.398.7347",
+        null
+      ],
+      [
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.648.8134",
+        null
+      ],
+      [
+        "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=563187",
+        null
+      ]
+    ],
+    "abstract": "Here we offer a brief introduction to this special issue on argument-encoding systems of the little-known languages of Bolivian Amazonia, a region extremely rich linguistically. After providing some information on the sociolinguistic settings and the history of linguistic research in this area, we focus on the domain of argument-encoding systems in those languages and show how very diverse types of systems are found in languages spoken in very close proximity, including hierarchical/inverse cross-referencing systems, ergative systems, and split-intransitive systems. We also point to a number of typologically and theoretically interesting phenomena found in these languages, such as fluid transitivity, double-object ditransitive constructions, and rare valency-changing derivations such as multiple applicatives and sociative causatives."
+  },
+  {
+    "title": "Verbal synthesis in the Guaporé-Mamoré linguistic area: a contact feature?",
+    "doi": "https://doi.org/10.1349/ps1.1537-0852.a.464",
+    "year": 2015,
+    "authors": [
+      "Rik van Gijn"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1349/ps1.1537-0852.a.464",
+        "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/1/document/1036"
+      ],
+      [
+        "https://www.zora.uzh.ch/id/eprint/115644/1/Gijn_2015_Verbal.pdf",
+        "https://www.zora.uzh.ch/id/eprint/115644/1/Gijn_2015_Verbal.pdf"
+      ],
+      [
+        "https://scholarlypublications.universiteitleiden.nl/handle/1887/3217476",
+        "https://scholarlypublications.universiteitleiden.nl/download/1887/3217476/1?col=81522199570002711"
+      ],
+      [
+        "https://doaj.org/article/ffd51b5e4e2e406bb2e2068123b2ecde",
+        null
+      ],
+      [
+        "https://hdl.handle.net/1887/3217476",
+        null
+      ],
+      [
+        "https://www.zora.uzh.ch/handle/20.500.14742/112811",
+        null
+      ],
+      [
+        "http://hdl.handle.net/1887/3217476",
+        null
+      ],
+      [
+        "https://doi.org/10.5167/uzh-115644",
+        null
+      ]
+    ],
+    "abstract": "In their discussion of the linguistic area Guaporé-Mamoré (eastern Bolivia and Rondônia) Crevels & Van der Voort (2008) propose 'polysynthetic morphology' as one of the structural features shared by most languages in the area.In their approach the feature is regarded as binary (present versus absent) and it is not entirely clear what the basis for their categorization is.In this paper I try to come to a more precise understanding of the nature of the morphological similarities between the Guaporé-Mamoré languages by looking at a range of formal and semantic factors related to the verbal templates of these languages.In this way we can locate the cross-linguistic morphological similarities more precisely, setting the stage for a deeper understanding of the processes of contact-induced diffusion in the area."
+  }
+]

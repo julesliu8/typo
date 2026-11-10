@@ -1,0 +1,975 @@
+{
+  "id": null,
+  "scope": null,
+  "query": "Transitivity Shipibo",
+  "appliedFilters": null,
+  "sort": null,
+  "configuration": null,
+  "type": "discover",
+  "_links": {
+    "self": {
+      "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo"
+    }
+  },
+  "_embedded": {
+    "searchResult": {
+      "_embedded": {
+        "objects": [
+          {
+            "hitHighlights": null,
+            "type": "discover",
+            "_links": {
+              "indexableObject": {
+                "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd"
+              }
+            },
+            "_embedded": {
+              "indexableObject": {
+                "id": "2745ab5a-7fd7-40a3-9b48-953ac91c88cd",
+                "uuid": "2745ab5a-7fd7-40a3-9b48-953ac91c88cd",
+                "name": "The Corrientes River Case: Indigenous People's Mobilization in Response to Oil Development in the Peruvian Amazon",
+                "handle": "1794/10626",
+                "metadata": {
+                  "dc.contributor.author": [
+                    {
+                      "value": "Lu, Graciela Maria Mercedes",
+                      "language": null,
+                      "authority": "3a4a37b0-8f8b-4d4b-b294-ce40904687ff",
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.accessioned": [
+                    {
+                      "value": "2010-08-23T23:27:32Z",
+                      "language": null,
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.available": [
+                    {
+                      "value": "2010-08-23T23:27:32Z",
+                      "language": null,
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.issued": [
+                    {
+                      "value": "2009-12",
+                      "language": null,
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description": [
+                    {
+                      "value": "xiii, 84 p. : maps.  A print copy of this thesis is available through the UO Libraries. Search the library catalog for the location and call number.",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description.abstract": [
+                    {
+                      "value": "Economic models applied in Latin America tend to prioritize economic growth\r\nheavily based on extractive industries and a power distribution model that affects social\r\nequity and respect for human rights.\r\nThis thesis advances our understanding of the social, political and environmental\r\nconcerns that influenced the formation of a movement among the Achuar people, in\r\nresponse to oil exploitation activities in the Peruvian Amazon. This study is based on a\r\npolitical ecology analysis and a review of existing literature on local and global relations\r\nof environmental issues. The Corrientes River case reveals how Amazonian indigenous\r\npeople gained competence to demand recognition of their collective rights to health and\r\ncitizenship. The Achuar people's mobilization was a result of frustration of sterile\r\ndialogue with the authorities, the oil companies, and the pressure exerted by local people on their leaders. This mobilization resulted in an agreement that otherwise would likely\r\nnot have been reached.",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description.sponsorship": [
+                    {
+                      "value": "Committee in Charge:\r\n\r\nDerrick Hindery, Chair;\r\nAnita M. Weiss;\r\nCarlos Aguirre",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.identifier.uri": [
+                    {
+                      "value": "https://hdl.handle.net/1794/10626",
+                      "language": null,
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.language.iso": [
+                    {
+                      "value": "en_US",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.publisher": [
+                    {
+                      "value": "University of Oregon",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.relation.ispartofseries": [
+                    {
+                      "value": "University of Oregon theses, Dept. of International Studies, M.A., 2009;",
+                      "language": null,
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.subject": [
+                    {
+                      "value": "Achuar Indians",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    },
+                    {
+                      "value": "Petroleum -- Prospecting -- Peru",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 1
+                    },
+                    {
+                      "value": "Oil exploration",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 2
+                    }
+                  ],
+                  "dc.title": [
+                    {
+                      "value": "The Corrientes River Case: Indigenous People's Mobilization in Response to Oil Development in the Peruvian Amazon",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.title.alternative": [
+                    {
+                      "value": "Indigenous People's Mobilization in Response to Oil Development in the Peruvian Amazon",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.type": [
+                    {
+                      "value": "Thesis",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ]
+                },
+                "inArchive": true,
+                "discoverable": true,
+                "withdrawn": false,
+                "lastModified": "2024-09-25T22:08:15.259Z",
+                "entityType": null,
+                "type": "item",
+                "_links": {
+                  "accessStatus": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/accessStatus"
+                  },
+                  "bundles": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/bundles"
+                  },
+                  "identifiers": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/identifiers"
+                  },
+                  "mappedCollections": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/mappedCollections"
+                  },
+                  "owningCollection": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/owningCollection"
+                  },
+                  "relationships": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/relationships"
+                  },
+                  "version": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/version"
+                  },
+                  "templateItemOf": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/templateItemOf"
+                  },
+                  "thumbnail": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/thumbnail"
+                  },
+                  "submitter": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd/submitter"
+                  },
+                  "self": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/2745ab5a-7fd7-40a3-9b48-953ac91c88cd"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "hitHighlights": null,
+            "type": "discover",
+            "_links": {
+              "indexableObject": {
+                "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54"
+              }
+            },
+            "_embedded": {
+              "indexableObject": {
+                "id": "83928a15-b3ac-4cf7-b035-0023ffb7ec54",
+                "uuid": "83928a15-b3ac-4cf7-b035-0023ffb7ec54",
+                "name": "A grammar of Kokama-Kokamilla",
+                "handle": "1794/11051",
+                "metadata": {
+                  "dc.contributor.author": [
+                    {
+                      "value": "Vallejos Yopán, Rosa, 1971-",
+                      "language": "",
+                      "authority": "783905f6-35b7-46cb-a2b4-68fca9cc9425",
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.accessioned": [
+                    {
+                      "value": "2011-04-06T00:30:40Z",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.available": [
+                    {
+                      "value": "2011-04-06T00:30:40Z",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.issued": [
+                    {
+                      "value": "2010-12",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description": [
+                    {
+                      "value": "xxix, 918 p. : ill. (some col.), maps",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description.abstract": [
+                    {
+                      "value": "This dissertation is a comprehensive grammar of Kokama-Kokamilla (KK), as spoken by about 1000 elders in the Peruvian Amazon. It presents detailed documentation of the structures of the language and the functions they serve, with rich exemplification. This study is based on significant fieldwork since 1997, allowing the analysis to be grounded in text data.\r\n\r\nOne of KK's most salient typological features is a morphological distinction between male and female speech in several grammatical categories. Major grammatical categories like person, number, tense, and modality are conveyed by positionally fixed clitics. Five tense clitics encode three degrees of distance into the past and two into the future. There are also six epistemic modal clitics, which interact to create a four-way modal system. None of the twelve suffixes is obligatory, but, in language use, as many as four can occur together on a single verb, followed by up to two clitics.\r\n\r\nSyntactically, KK has intransitive and transitive clauses, but semantically three-place predicates are syntactically encoded by means of transitive clauses. There are six directive constructions that distinguish degrees of pragmatic force. Another noteworthy point is the multiple types of purpose clause which differ in terms of coreference, controlled by the matrix clause absolutive argument rather than the subject. Clause nominalization is a central subordination strategy, particularly in relativization, which is largely achieved via an absolutive nominalizer.\r\n\r\nPragmatically, KK has constructions that explicitly distinguish subtypes of focus according to scope (narrow/broad) and pragmatic information (contrastive/noncontrastive). This bears on theories about whether contrast simply emerges from conversational implicature, versus can be explicitly coded by dedicated grammar. Information structure also explains the distribution of alternating pronominal forms and constituent orders.\r\n\r\nThough long classified as Tupí-Guaraní, recent research claims that KK is the product of a contact language situation and hence has a mixed grammar. Although this claim seems accurate, this study shows the possible Tupí-Guaraní origin of a number of grammatical morphemes. What languages (and families) contributed to the rest of the mix remains to be determined. Thus, this comprehensive description is an important step in advancing comparative studies among the languages of the region.",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description.sponsorship": [
+                    {
+                      "value": "Adviser: Spike Gildea, Chairperson; Committee members: Doris Payne; Scott DeLancey; Francisco Queixalos; Lawrence Sugiyama",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.identifier.uri": [
+                    {
+                      "value": "https://hdl.handle.net/1794/11051",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.language.iso": [
+                    {
+                      "value": "en_US",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.publisher": [
+                    {
+                      "value": "University of Oregon",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.relation.ispartofseries": [
+                    {
+                      "value": "University of Oregon theses, Dept. of Linguistics, Ph. D., 2010;",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.subject": [
+                    {
+                      "value": "Grammar",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    },
+                    {
+                      "value": "Amazonia",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 1
+                    },
+                    {
+                      "value": "Indigenous languages",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 2
+                    },
+                    {
+                      "value": "Kokama language -- Grammar",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 3
+                    },
+                    {
+                      "value": "Kokamilla language -- Grammar",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 4
+                    },
+                    {
+                      "value": "Peru -- Languages",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 5
+                    },
+                    {
+                      "value": "Tupian languages",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 6
+                    },
+                    {
+                      "value": "Linguistics",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 7
+                    },
+                    {
+                      "value": "Cocama language -- Grammar",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 8
+                    }
+                  ],
+                  "dc.title": [
+                    {
+                      "value": "A grammar of Kokama-Kokamilla",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.type": [
+                    {
+                      "value": "Thesis",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ]
+                },
+                "inArchive": true,
+                "discoverable": true,
+                "withdrawn": false,
+                "lastModified": "2024-09-26T17:04:07.402Z",
+                "entityType": null,
+                "type": "item",
+                "_links": {
+                  "accessStatus": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/accessStatus"
+                  },
+                  "bundles": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/bundles"
+                  },
+                  "identifiers": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/identifiers"
+                  },
+                  "mappedCollections": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/mappedCollections"
+                  },
+                  "owningCollection": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/owningCollection"
+                  },
+                  "relationships": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/relationships"
+                  },
+                  "version": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/version"
+                  },
+                  "templateItemOf": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/templateItemOf"
+                  },
+                  "thumbnail": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/thumbnail"
+                  },
+                  "submitter": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54/submitter"
+                  },
+                  "self": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/83928a15-b3ac-4cf7-b035-0023ffb7ec54"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "hitHighlights": null,
+            "type": "discover",
+            "_links": {
+              "indexableObject": {
+                "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820"
+              }
+            },
+            "_embedded": {
+              "indexableObject": {
+                "id": "bde2d99c-fd57-4b9d-8b04-fd04d3ed9820",
+                "uuid": "bde2d99c-fd57-4b9d-8b04-fd04d3ed9820",
+                "name": "Bantu Applicative Construction Types Involving *-ID: Form, Functions, and Diachrony",
+                "handle": "1794/23151",
+                "metadata": {
+                  "dc.contributor.advisor": [
+                    {
+                      "value": "Payne, Doris",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.contributor.author": [
+                    {
+                      "value": "Pacchiarotti, Sara",
+                      "language": "",
+                      "authority": "5228794e-59d9-4bb4-8cfc-c661200d782c",
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.accessioned": [
+                    {
+                      "value": "2018-04-10T15:03:30Z",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.available": [
+                    {
+                      "value": "2018-04-10T15:03:30Z",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.date.issued": [
+                    {
+                      "value": "2018-04-10",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.description.abstract": [
+                    {
+                      "value": "This dissertation first addresses various shortcomings in definitions of “applicative” when compared to what is actually found across languages. It then proposes a four-way distinction among applicative constructions, relevant at least to Bantu, a large family of languages spoken in Sub-Saharan Africa. Because of the gradual nature of historical change, differences among construction types may be somewhat graded. In what are called Type A applicative constructions, the applicative morpheme expands the argument structure of its root by introducing an obligatorily present applied phrase. This expansion might result, but need not, in increased syntactic valence of the derived verb stem. Type A includes cases where the applicative on a lexicalized applicative stem still has the ability to introduce an applied phrase. In Type B applicative constructions, the applicative expands the argument structure of its root by introducing an obligatorily present applied phrase and performs other semantic/pragmatic functions on the applied phrase or on the whole clause (e.g. the applied phrase becomes the narrow-focused constituent in the clause). As in Type A, syntactic valence might be increased, but need not be. In Type C applicative constructions, the applicative does not introduce an applied phrase. Instead, it provides semantic nuances to the lexical meaning of its root (e.g. the action described by the root is performed to completion, repetitively, in excess, etc.). Unlike Type A and Type B, Type C constructions are not fully productive and may undergo lexicalization. Fourthly, in Pseudo-applicative constructions, the applicative morpheme found on a lexicalized stem does not introduce an applied phrase and does not perform semantic and/or pragmatic functions described for Type B and Type C. \r\n\r\nBecause the last type, especially, has not been acknowledged in prior literature, the dissertation presents a historically informed case study of 78 pseudo-applicative forms in Tswana (S31), a southern Bantu language spoken in Botswana and South Africa. \r\n\r\n\tFinally, this study argues that both the synchronic functions of the Bantu applicative suffix *-ɪd and the lexicalization paths emerging from the study of Tswana pseudo-applicative forms support an original Location/Goal function of *-ɪd in Proto-Bantu, rather than an original Beneficiary function.",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.identifier.uri": [
+                    {
+                      "value": "https://hdl.handle.net/1794/23151",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.language.iso": [
+                    {
+                      "value": "en_US",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.publisher": [
+                    {
+                      "value": "University of Oregon",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.rights": [
+                    {
+                      "value": "Creative Commons BY-NC-ND 4.0-US",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.subject": [
+                    {
+                      "value": "Applicative constructions",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    },
+                    {
+                      "value": "Bantu languages",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 1
+                    },
+                    {
+                      "value": "Lexicalizations",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 2
+                    },
+                    {
+                      "value": "Pseudo-applicatives",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 3
+                    },
+                    {
+                      "value": "Tswana",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 4
+                    }
+                  ],
+                  "dc.title": [
+                    {
+                      "value": "Bantu Applicative Construction Types Involving *-ID: Form, Functions, and Diachrony",
+                      "language": "en_US",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "dc.type": [
+                    {
+                      "value": "Electronic Thesis or Dissertation",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "thesis.degree.discipline": [
+                    {
+                      "value": "Department of Linguistics",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "thesis.degree.grantor": [
+                    {
+                      "value": "University of Oregon",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "thesis.degree.level": [
+                    {
+                      "value": "doctoral",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ],
+                  "thesis.degree.name": [
+                    {
+                      "value": "Ph.D.",
+                      "language": "",
+                      "authority": null,
+                      "confidence": -1,
+                      "place": 0
+                    }
+                  ]
+                },
+                "inArchive": true,
+                "discoverable": true,
+                "withdrawn": false,
+                "lastModified": "2025-09-10T20:09:11.188Z",
+                "entityType": null,
+                "type": "item",
+                "_links": {
+                  "accessStatus": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/accessStatus"
+                  },
+                  "bundles": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/bundles"
+                  },
+                  "identifiers": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/identifiers"
+                  },
+                  "mappedCollections": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/mappedCollections"
+                  },
+                  "owningCollection": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/owningCollection"
+                  },
+                  "relationships": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/relationships"
+                  },
+                  "version": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/version"
+                  },
+                  "templateItemOf": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/templateItemOf"
+                  },
+                  "thumbnail": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/thumbnail"
+                  },
+                  "submitter": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820/submitter"
+                  },
+                  "self": {
+                    "href": "https://scholarsbank.uoregon.edu/server/api/core/items/bde2d99c-fd57-4b9d-8b04-fd04d3ed9820"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "page": {
+        "number": 0,
+        "size": 5,
+        "totalPages": 1,
+        "totalElements": 3
+      },
+      "_links": {
+        "self": {
+          "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%20Shipibo&size=5"
+        }
+      }
+    },
+    "facets": [
+      {
+        "name": "author",
+        "facetType": "text",
+        "facetLimit": 5,
+        "minValue": "2.ink Studio",
+        "maxValue": "Zyskind, Karen",
+        "openByDefault": true,
+        "page": {
+          "number": 0,
+          "size": 5
+        },
+        "_links": {
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/author?query=Transitivity%20Shipibo&size=5"
+          }
+        },
+        "_embedded": {
+          "values": [
+            {
+              "label": "Lu, Graciela Maria Mercedes",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.author=Lu,%20Graciela%20Maria%20Mercedes,equals"
+                }
+              }
+            },
+            {
+              "label": "Pacchiarotti, Sara",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.author=Pacchiarotti,%20Sara,equals"
+                }
+              }
+            },
+            {
+              "label": "Vallejos Yopán, Rosa, 1971-",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.author=Vallejos%20Yop%C3%A1n,%20Rosa,%201971-,equals"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "subject",
+        "facetType": "hierarchical",
+        "facetLimit": 5,
+        "openByDefault": false,
+        "page": {
+          "number": 0,
+          "size": 5
+        },
+        "_links": {
+          "next": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=Transitivity%20Shipibo&page=1&size=5"
+          },
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=Transitivity%20Shipibo&size=5"
+          }
+        },
+        "_embedded": {
+          "values": [
+            {
+              "label": "Achuar Indians",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.subject=Achuar%20Indians,equals"
+                }
+              }
+            },
+            {
+              "label": "Amazonia",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.subject=Amazonia,equals"
+                }
+              }
+            },
+            {
+              "label": "Applicative constructions",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.subject=Applicative%20constructions,equals"
+                }
+              }
+            },
+            {
+              "label": "Bantu languages",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.subject=Bantu%20languages,equals"
+                }
+              }
+            },
+            {
+              "label": "Cocama language -- Grammar",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.subject=Cocama%20language%20--%20Grammar,equals"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "dateIssued",
+        "facetType": "date",
+        "facetLimit": 5,
+        "minValue": "0000",
+        "maxValue": "Spring 2026",
+        "openByDefault": false,
+        "page": {
+          "number": 0,
+          "size": 5
+        },
+        "_links": {
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/dateIssued?query=Transitivity%20Shipibo&size=5"
+          }
+        },
+        "_embedded": {
+          "values": [
+            {
+              "label": "1980 - 2009",
+              "count": 1,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.dateIssued=%5B1980%20TO%202009%5D,equals"
+                }
+              }
+            },
+            {
+              "label": "2010 - 2027",
+              "count": 2,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.dateIssued=%5B2010%20TO%202027%5D,equals"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "has_content_in_original_bundle",
+        "facetType": "standard",
+        "facetLimit": 2,
+        "openByDefault": false,
+        "page": {
+          "number": 0,
+          "size": 2
+        },
+        "_links": {
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/has_content_in_original_bundle?query=Transitivity%20Shipibo&size=2"
+          }
+        },
+        "_embedded": {
+          "values": [
+            {
+              "label": "true",
+              "count": 3,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.has_content_in_original_bundle=true,equals"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "entityType",
+        "facetType": "text",
+        "facetLimit": 5,
+        "openByDefault": false,
+        "_links": {
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/entityType?query=Transitivity%20Shipibo"
+          }
+        },
+        "_embedded": {
+          "values": []
+        }
+      },
+      {
+        "name": "access_status",
+        "facetType": "text",
+        "facetLimit": 10,
+        "openByDefault": false,
+        "page": {
+          "number": 0,
+          "size": 10
+        },
+        "_links": {
+          "self": {
+            "href": "https://scholarsbank.uoregon.edu/server/api/discover/facets/access_status?query=Transitivity%20Shipibo&size=10"
+          }
+        },
+        "_embedded": {
+          "values": [
+            {
+              "label": "open.access",
+              "count": 3,
+              "authorityKey": null,
+              "type": "discover",
+              "_links": {
+                "search": {
+                  "href": "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Transitivity%2520Shipibo&f.access_status=open.access,equals"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

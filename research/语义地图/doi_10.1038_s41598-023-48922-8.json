@@ -1,0 +1,1029 @@
+{
+  "id": "https://openalex.org/W4389507229",
+  "doi": "https://doi.org/10.1038/s41598-023-48922-8",
+  "title": "Central emotions and hubs in a colexification network",
+  "display_name": "Central emotions and hubs in a colexification network",
+  "publication_year": 2023,
+  "publication_date": "2023-12-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4389507229",
+    "doi": "https://doi.org/10.1038/s41598-023-48922-8",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38071399",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/10710517"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s41598-023-48922-8",
+    "doi": "https://doi.org/10.1038/s41598-023-48922-8",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.1038/s41598-023-48922-8",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-48922-8.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "dongbi-c",
+        "doyens",
+        "jufo-1",
+        "ki-jl-1",
+        "medline",
+        "norway-1",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-023-48922-8.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5093454026",
+        "display_name": "Mitsuki Fukuya",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161296585",
+          "display_name": "Tokyo University of Science",
+          "ror": "https://ror.org/05sj3n476",
+          "country_code": "JP",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mitsuki Fukuya",
+      "raw_affiliation_strings": [
+        "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan. fukuya@hisenkei.net",
+        "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan. fukuya@hisenkei.net",
+          "institution_ids": [
+            "https://openalex.org/I161296585"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan",
+          "institution_ids": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050458359",
+        "display_name": "Tomoko Matsumoto",
+        "orcid": "https://orcid.org/0000-0002-3705-9140",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3705-9140"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161296585",
+          "display_name": "Tokyo University of Science",
+          "ror": "https://ror.org/05sj3n476",
+          "country_code": "JP",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tomoko Matsumoto",
+      "raw_affiliation_strings": [
+        "Institute of Arts and Sciences, Tokyo University of Science, 1-3 Kagurazaka, Shinjuku-ku, 162-8601, Tokyo, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Arts and Sciences, Tokyo University of Science, 1-3 Kagurazaka, Shinjuku-ku, 162-8601, Tokyo, Japan",
+          "institution_ids": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Yutaka Shimada",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I72253084",
+          "display_name": "Saitama University",
+          "ror": "https://ror.org/02evnh647",
+          "country_code": "JP",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I72253084"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yutaka Shimada",
+      "raw_affiliation_strings": [
+        "Department of Information and Computer Sciences, Saitama University, 255 Shimo-okubo Sakura-ku, Saitama-shi, 338-8570, Saitama, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Information and Computer Sciences, Saitama University, 255 Shimo-okubo Sakura-ku, Saitama-shi, 338-8570, Saitama, Japan",
+          "institution_ids": [
+            "https://openalex.org/I72253084"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069803426",
+        "display_name": "Tohru Ikeguchi",
+        "orcid": "https://orcid.org/0000-0001-9280-9541",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-9280-9541"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161296585",
+          "display_name": "Tokyo University of Science",
+          "ror": "https://ror.org/05sj3n476",
+          "country_code": "JP",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tohru Ikeguchi",
+      "raw_affiliation_strings": [
+        "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Information and Computer Technology, Tokyo University of Science, 6-3-1 Niijuku, Katsushika-ku, 125-8585, Tokyo, Japan",
+          "institution_ids": [
+            "https://openalex.org/I161296585"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5093454026"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I161296585"
+  ],
+  "apc_list": {
+    "value": 2390,
+    "currency": "USD",
+    "value_usd": 2390
+  },
+  "apc_paid": {
+    "value": 2390,
+    "currency": "USD",
+    "value_usd": 2390
+  },
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.19861286,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "13",
+    "issue": "1",
+    "first_page": "21823",
+    "last_page": "21823"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12694",
+    "display_name": "Categorization, perception, and language",
+    "score": 0.7768999934196472,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.7768999934196472,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12881",
+      "display_name": "linguistics and terminology studies",
+      "score": 0.10289999842643738,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.026000000536441803,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/colexification",
+      "display_name": "colexification",
+      "score": 0.9470000267028809
+    },
+    {
+      "id": "https://openalex.org/keywords/emotions",
+      "display_name": "emotions",
+      "score": 0.8579999804496765
+    },
+    {
+      "id": "https://openalex.org/keywords/semantic-similarity",
+      "display_name": "semantic similarity",
+      "score": 0.6510000228881836
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-linguistic-semantics",
+      "display_name": "cross-linguistic semantics",
+      "score": 0.6420000195503235
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-networks",
+      "display_name": "conceptual networks",
+      "score": 0.46799999475479126
+    },
+    {
+      "id": "https://openalex.org/keywords/good",
+      "display_name": "good",
+      "score": 0.32199999690055847
+    },
+    {
+      "id": "https://openalex.org/keywords/want",
+      "display_name": "want",
+      "score": 0.9860000014305115
+    },
+    {
+      "id": "https://openalex.org/keywords/bad",
+      "display_name": "Bad",
+      "score": 0.9990000128746033
+    },
+    {
+      "id": "https://openalex.org/keywords/love",
+      "display_name": "love",
+      "score": 0.9990000128746033
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6215608716011047
+    },
+    {
+      "id": "https://openalex.org/C159423971",
+      "wikidata": "https://www.wikidata.org/wiki/Q177251",
+      "display_name": "Associative property",
+      "level": 2,
+      "score": 0.6185469031333923
+    },
+    {
+      "id": "https://openalex.org/C85407183",
+      "wikidata": "https://www.wikidata.org/wiki/Q1045785",
+      "display_name": "Semantic network",
+      "level": 2,
+      "score": 0.5763659477233887
+    },
+    {
+      "id": "https://openalex.org/C130318100",
+      "wikidata": "https://www.wikidata.org/wiki/Q2268914",
+      "display_name": "Semantic similarity",
+      "level": 2,
+      "score": 0.569568395614624
+    },
+    {
+      "id": "https://openalex.org/C103278499",
+      "wikidata": "https://www.wikidata.org/wiki/Q254465",
+      "display_name": "Similarity (geometry)",
+      "level": 3,
+      "score": 0.5669939517974854
+    },
+    {
+      "id": "https://openalex.org/C162307627",
+      "wikidata": "https://www.wikidata.org/wiki/Q204833",
+      "display_name": "Enhanced Data Rates for GSM Evolution",
+      "level": 2,
+      "score": 0.4838525354862213
+    },
+    {
+      "id": "https://openalex.org/C80899671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1304193",
+      "display_name": "Vertex (graph theory)",
+      "level": 3,
+      "score": 0.45895084738731384
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.37193959951400757
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3157767653465271
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.30630064010620117
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.2868601679801941
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.14935415983200073
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.14359983801841736
+    },
+    {
+      "id": "https://openalex.org/C115961682",
+      "wikidata": "https://www.wikidata.org/wiki/Q860623",
+      "display_name": "Image (mathematics)",
+      "level": 2,
+      "score": 0.06490013003349304
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.06436839699745178
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1038/s41598-023-48922-8",
+      "doi": "https://doi.org/10.1038/s41598-023-48922-8",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.1038/s41598-023-48922-8",
+      "pdf_url": "https://www.nature.com/articles/s41598-023-48922-8.pdf",
+      "source": {
+        "id": "https://openalex.org/S196734849",
+        "display_name": "Scientific Reports",
+        "issn_l": "2045-2322",
+        "issn": [
+          "2045-2322"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "doyens",
+          "jufo-1",
+          "ki-jl-1",
+          "medline",
+          "norway-1",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319908",
+        "host_organization_name": "Nature Portfolio",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319908",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Nature Portfolio",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific Reports",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10710517",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10710517",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10710517/pdf/41598_2023_Article_48922.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sci Rep",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmid:38071399",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38071399",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Scientific reports",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b8c214b4ea5b48bfbd8d7f089cdfa5b9",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/b8c214b4ea5b48bfbd8d7f089cdfa5b9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-8 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s41598-023-48922-8",
+    "doi": "https://doi.org/10.1038/s41598-023-48922-8",
+    "is_oa": true,
+    "landing_page_url": "http://dx.doi.org/10.1038/s41598-023-48922-8",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-48922-8.pdf",
+    "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "issn_l": "2045-2322",
+      "issn": [
+        "2045-2322"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "doaj",
+        "dongbi-c",
+        "doyens",
+        "jufo-1",
+        "ki-jl-1",
+        "medline",
+        "norway-1",
+        "poland-140",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310319908",
+      "host_organization_name": "Nature Portfolio",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319908",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Nature Portfolio",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Scientific Reports",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1485284263",
+      "display_name": null,
+      "funder_award_id": "JP21H03514",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G300541041",
+      "display_name": "Establishing a mathematical linguistic framework by deriving meta-grammar rules",
+      "funder_award_id": "23K21706",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G5962298774",
+      "display_name": "非線形力学系理論に基づく人間行動データ解析基盤の構築",
+      "funder_award_id": "23K21701",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G6025395808",
+      "display_name": "興奮性・抑制性ニューロン比率の最適性原理に基づく精神疾患発症メカニズムの解明",
+      "funder_award_id": "22K18419",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G6090261024",
+      "display_name": "Public Opinion and Redistribution",
+      "funder_award_id": "22K13339",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G6349972512",
+      "display_name": "日本の戦間期～占領期「富裕層」の政治経済史的分析－『人事興信録』30年間の分析",
+      "funder_award_id": "21H04391",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G6350953347",
+      "display_name": null,
+      "funder_award_id": "JP21H03508",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G7690210969",
+      "display_name": "Fundamentals and developments of brainmorphic computing hardware",
+      "funder_award_id": "20H00596",
+      "funder_id": "https://openalex.org/F4320334764",
+      "funder_display_name": "Japan Society for the Promotion of Science"
+    },
+    {
+      "id": "https://openalex.org/G7816106413",
+      "display_name": null,
+      "funder_award_id": "JP22K18419",
+      "funder_id": "https://openalex.org/F4320316689",
+      "funder_display_name": "Japan Society of Physiological Anthropology"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320316689",
+      "display_name": "Japan Society of Physiological Anthropology",
+      "ror": "https://ror.org/02xv7km65"
+    },
+    {
+      "id": "https://openalex.org/F4320334764",
+      "display_name": "Japan Society for the Promotion of Science",
+      "ror": "https://ror.org/00hhkn466"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4389507229.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4389507229.grobid-xml"
+  },
+  "referenced_works_count": 26,
+  "referenced_works": [
+    "https://openalex.org/W288841874",
+    "https://openalex.org/W1567569044",
+    "https://openalex.org/W1966797434",
+    "https://openalex.org/W1974909087",
+    "https://openalex.org/W2009375902",
+    "https://openalex.org/W2018535666",
+    "https://openalex.org/W2045705118",
+    "https://openalex.org/W2060754050",
+    "https://openalex.org/W2076978371",
+    "https://openalex.org/W2109474021",
+    "https://openalex.org/W2149628368",
+    "https://openalex.org/W2153040277",
+    "https://openalex.org/W2154611638",
+    "https://openalex.org/W2582664174",
+    "https://openalex.org/W2612769033",
+    "https://openalex.org/W2738614877",
+    "https://openalex.org/W2799832028",
+    "https://openalex.org/W2913868357",
+    "https://openalex.org/W2950879740",
+    "https://openalex.org/W2970008512",
+    "https://openalex.org/W2995057720",
+    "https://openalex.org/W3179469730",
+    "https://openalex.org/W4250900160",
+    "https://openalex.org/W4251591997",
+    "https://openalex.org/W4290762569",
+    "https://openalex.org/W4323642664"
+  ],
+  "related_works": [
+    "https://openalex.org/W2995057720",
+    "https://openalex.org/W3157168703",
+    "https://openalex.org/W4395464692",
+    "https://openalex.org/W2021417132",
+    "https://openalex.org/W2995591777",
+    "https://openalex.org/W4377140134",
+    "https://openalex.org/W7165086081",
+    "https://openalex.org/W2401641597",
+    "https://openalex.org/W7119594785",
+    "https://openalex.org/W4301372142"
+  ],
+  "abstract_inverted_index": {
+    "By": [
+      0
+    ],
+    "focusing": [
+      1
+    ],
+    "on": [
+      2
+    ],
+    "colexification,": [
+      3
+    ],
+    "we": [
+      4,
+      28
+    ],
+    "detected": [
+      5
+    ],
+    "central": [
+      6,
+      62,
+      70
+    ],
+    "emotions": [
+      7,
+      14,
+      51,
+      63,
+      71
+    ],
+    "sharing": [
+      8
+    ],
+    "semantic": [
+      9,
+      19
+    ],
+    "commonalities": [
+      10
+    ],
+    "with": [
+      11,
+      52
+    ],
+    "many": [
+      12
+    ],
+    "other": [
+      13
+    ],
+    "in": [
+      15,
+      56
+    ],
+    "terms": [
+      16
+    ],
+    "of": [
+      17,
+      21,
+      50
+    ],
+    "a": [
+      18,
+      37,
+      40,
+      53
+    ],
+    "relationship": [
+      20
+    ],
+    "both": [
+      22
+    ],
+    "similarity": [
+      23
+    ],
+    "and": [
+      24,
+      42,
+      60,
+      77
+    ],
+    "associativity.": [
+      25
+    ],
+    "In": [
+      26
+    ],
+    "analysis,": [
+      27
+    ],
+    "created": [
+      29
+    ],
+    "colexification": [
+      30,
+      43,
+      58
+    ],
+    "networks": [
+      31
+    ],
+    "from": [
+      32
+    ],
+    "multiple": [
+      33
+    ],
+    "languages": [
+      34
+    ],
+    "by": [
+      35,
+      64
+    ],
+    "assigning": [
+      36
+    ],
+    "concept": [
+      38
+    ],
+    "to": [
+      39,
+      44
+    ],
+    "vertex": [
+      41
+    ],
+    "an": [
+      45
+    ],
+    "edge.": [
+      46
+    ],
+    "We": [
+      47
+    ],
+    "identify": [
+      48
+    ],
+    "concepts": [
+      49
+    ],
+    "large": [
+      54
+    ],
+    "weight": [
+      55
+    ],
+    "the": [
+      57
+    ],
+    "network": [
+      59
+    ],
+    "specify": [
+      61
+    ],
+    "finding": [
+      65
+    ],
+    "hub": [
+      66
+    ],
+    "emotions.": [
+      67
+    ],
+    "Our": [
+      68
+    ],
+    "resultant": [
+      69
+    ],
+    "are": [
+      72
+    ],
+    "four:": [
+      73
+    ],
+    "\"GOOD,\"": [
+      74
+    ],
+    "\"WANT,\"": [
+      75
+    ],
+    "\"BAD,\"": [
+      76
+    ],
+    "\"LOVE.\"": [
+      78
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-10-29T09:56:32.521200",
+  "created_date": "2023-12-10T00:00:00"
+}

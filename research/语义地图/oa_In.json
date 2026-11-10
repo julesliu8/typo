@@ -1,0 +1,3308 @@
+[
+  {
+    "id": "https://openalex.org/W2885565116",
+    "doi": "https://doi.org/10.1515/cog-2017-0034",
+    "title": "Universal meaning extensions of perception verbs are grounded in interaction",
+    "display_name": "Universal meaning extensions of perception verbs are grounded in interaction",
+    "relevance_score": 60.072815,
+    "publication_year": 2018,
+    "publication_date": "2018-08-10",
+    "ids": {
+      "openalex": "https://openalex.org/W2885565116",
+      "doi": "https://doi.org/10.1515/cog-2017-0034",
+      "mag": "2885565116"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1515/cog-2017-0034",
+      "doi": "https://doi.org/10.1515/cog-2017-0034",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1515/cog-2017-0034",
+      "pdf_url": "https://www.degruyter.com/document/doi/10.1515/cog-2017-0034/pdf",
+      "source": {
+        "id": "https://openalex.org/S207053439",
+        "display_name": "Cognitive Linguistics",
+        "issn_l": "0936-5907",
+        "issn": [
+          "0936-5907",
+          "1613-3641"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310321051",
+        "host_organization_name": "De Gruyter Mouton",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321051",
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter Mouton",
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cognitive Linguistics",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref",
+      "datacite",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.degruyter.com/document/doi/10.1515/cog-2017-0034/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5072609062",
+          "display_name": "Lila San Roque",
+          "orcid": "https://orcid.org/0000-0003-3620-5254",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3620-5254"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145872427",
+            "display_name": "Radboud University Nijmegen",
+            "ror": "https://ror.org/016xsfp80",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145872427"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210089003",
+            "display_name": "Max Planck Institute for Psycholinguistics",
+            "ror": "https://ror.org/00671me87",
+            "country_code": "NL",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210089003"
+            ]
+          }
+        ],
+        "countries": [
+          "NL"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Lila San Roque",
+        "raw_affiliation_strings": [
+          "Radboud University, Nijmegen, The Netherlands; Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands",
+          "Radboud University, Nijmegen, The Netherlands"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Radboud University, Nijmegen, The Netherlands; Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I145872427",
+              "https://openalex.org/I4210089003"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Radboud University, Nijmegen, The Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I145872427"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5036422244",
+          "display_name": "Kobin H. Kendrick",
+          "orcid": "https://orcid.org/0000-0002-6656-1439",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6656-1439"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I52099693",
+            "display_name": "University of York",
+            "ror": "https://ror.org/04m01e293",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52099693"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kobin H. Kendrick",
+        "raw_affiliation_strings": [
+          "University of York , Heslington , UK"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of York , Heslington , UK",
+            "institution_ids": [
+              "https://openalex.org/I52099693"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5077980734",
+          "display_name": "Elisabeth Norcliffe",
+          "orcid": "https://orcid.org/0000-0001-8646-6474",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8646-6474"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I31575130",
+            "display_name": "SOAS University of London",
+            "ror": "https://ror.org/04vrxay34",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I31575130"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210089003",
+            "display_name": "Max Planck Institute for Psycholinguistics",
+            "ror": "https://ror.org/00671me87",
+            "country_code": "NL",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210089003"
+            ]
+          }
+        ],
+        "countries": [
+          "GB",
+          "NL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Elisabeth Norcliffe",
+        "raw_affiliation_strings": [
+          "Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands; SOAS, University of London",
+          "SOAS, University of London"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands; SOAS, University of London",
+            "institution_ids": [
+              "https://openalex.org/I31575130",
+              "https://openalex.org/I4210089003"
+            ]
+          },
+          {
+            "raw_affiliation_string": "SOAS, University of London",
+            "institution_ids": [
+              "https://openalex.org/I31575130"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021652762",
+          "display_name": "Asifa Majid",
+          "orcid": "https://orcid.org/0000-0003-0132-216X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0132-216X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I145872427",
+            "display_name": "Radboud University Nijmegen",
+            "ror": "https://ror.org/016xsfp80",
+            "country_code": "NL",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I145872427"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210089003",
+            "display_name": "Max Planck Institute for Psycholinguistics",
+            "ror": "https://ror.org/00671me87",
+            "country_code": "NL",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I149899117",
+              "https://openalex.org/I4210089003"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I52099693",
+            "display_name": "University of York",
+            "ror": "https://ror.org/04m01e293",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I52099693"
+            ]
+          }
+        ],
+        "countries": [
+          "GB",
+          "NL"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Asifa Majid",
+        "raw_affiliation_strings": [
+          "Radboud University, Nijmegen, The Netherlands; Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands",
+          "University of York , Heslington , UK",
+          "Radboud University, Nijmegen, The Netherlands"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Radboud University, Nijmegen, The Netherlands; Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I145872427",
+              "https://openalex.org/I4210089003"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of York , Heslington , UK",
+            "institution_ids": [
+              "https://openalex.org/I52099693"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Radboud University, Nijmegen, The Netherlands",
+            "institution_ids": [
+              "https://openalex.org/I145872427"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5072609062"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I145872427",
+      "https://openalex.org/I4210089003"
+    ],
+    "apc_list": {
+      "value": 0,
+      "currency": "EUR",
+      "value_usd": 0
+    },
+    "apc_paid": {
+      "value": 0,
+      "currency": "EUR",
+      "value_usd": 0
+    },
+    "fwci": 13.5507,
+    "has_fulltext": true,
+    "cited_by_count": 98,
+    "citation_normalized_percentile": {
+      "value": 0.99358721,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "29",
+      "issue": "3",
+      "first_page": "371",
+      "last_page": "406"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.7085000276565552,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.7085000276565552,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10383",
+        "display_name": "Language, Discourse, Communication Strategies",
+        "score": 0.19449999928474426,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11148",
+        "display_name": "Language, Metaphor, and Cognition",
+        "score": 0.04740000143647194,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3310",
+          "display_name": "Linguistics and Language"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/perception-verbs",
+        "display_name": "perception verbs",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-linguistic-semantics",
+        "display_name": "cross-linguistic semantics",
+        "score": 0.8159999847412109
+      },
+      {
+        "id": "https://openalex.org/keywords/polysemy",
+        "display_name": "polysemy",
+        "score": 0.746999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/everyday-conversation",
+        "display_name": "everyday conversation",
+        "score": 0.48100000619888306
+      },
+      {
+        "id": "https://openalex.org/keywords/discourse-markers",
+        "display_name": "discourse markers",
+        "score": 0.7559999823570251
+      },
+      {
+        "id": "https://openalex.org/keywords/perception-and-cognition",
+        "display_name": "perception and cognition",
+        "score": 0.7649999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/social-interaction",
+        "display_name": "social interaction",
+        "score": 0.6320000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/semantic-universals",
+        "display_name": "semantic universals",
+        "score": 0.6290000081062317
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.7299761772155762
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.6444932222366333
+      },
+      {
+        "id": "https://openalex.org/C2777200299",
+        "wikidata": "https://www.wikidata.org/wiki/Q52943",
+        "display_name": "Conversation",
+        "level": 2,
+        "score": 0.6303176283836365
+      },
+      {
+        "id": "https://openalex.org/C2780876879",
+        "wikidata": "https://www.wikidata.org/wiki/Q3054749",
+        "display_name": "Meaning (existential)",
+        "level": 2,
+        "score": 0.5746038556098938
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5733499526977539
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.48004066944122314
+      },
+      {
+        "id": "https://openalex.org/C184337299",
+        "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+        "display_name": "Semantics (computer science)",
+        "level": 2,
+        "score": 0.47944632172584534
+      },
+      {
+        "id": "https://openalex.org/C2780882242",
+        "wikidata": "https://www.wikidata.org/wiki/Q14235582",
+        "display_name": "Literal (mathematical logic)",
+        "level": 2,
+        "score": 0.4408799111843109
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.3671468496322632
+      },
+      {
+        "id": "https://openalex.org/C46312422",
+        "wikidata": "https://www.wikidata.org/wiki/Q11024",
+        "display_name": "Communication",
+        "level": 1,
+        "score": 0.27918800711631775
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.22676390409469604
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C542102704",
+        "wikidata": "https://www.wikidata.org/wiki/Q183257",
+        "display_name": "Psychotherapist",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 9,
+    "locations": [
+      {
+        "id": "doi:10.1515/cog-2017-0034",
+        "doi": "https://doi.org/10.1515/cog-2017-0034",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1515/cog-2017-0034",
+        "pdf_url": "https://www.degruyter.com/document/doi/10.1515/cog-2017-0034/pdf",
+        "source": {
+          "id": "https://openalex.org/S207053439",
+          "display_name": "Cognitive Linguistics",
+          "issn_l": "0936-5907",
+          "issn": [
+            "0936-5907",
+            "1613-3641"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "jufo-3",
+            "ki-jl-1",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310321051",
+          "host_organization_name": "De Gruyter Mouton",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321051",
+            "https://openalex.org/P4310313990"
+          ],
+          "host_organization_lineage_names": [
+            "De Gruyter Mouton",
+            "De Gruyter"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cognitive Linguistics",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:eprints.whiterose.ac.uk:136350",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://orcid.org/0000-0002-6656-1439>,",
+        "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/136350/1/_Cognitive_Linguistics_Universal_meaning_extensions_of_perception_verbs_are_grounded_in_interaction.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400854",
+          "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I2800616092",
+          "host_organization_name": "White Rose University Consortium",
+          "host_organization_lineage": [
+            "https://openalex.org/I2800616092"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      },
+      {
+        "id": "pmh:ru:oai:repository.ubn.ru.nl:2066/196181",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2066/196181",
+        "pdf_url": "http://hdl.handle.net/2066/196181",
+        "source": {
+          "id": "https://openalex.org/S4306401067",
+          "display_name": "Radboud Repository (Radboud University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I145872427",
+          "host_organization_name": "Radboud University Nijmegen",
+          "host_organization_lineage": [
+            "https://openalex.org/I145872427"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Cognitive Linguistics, 29, 371 - 406",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:escidoc.org:escidoc:2618380",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/21.11116/0000-0001-AB47-F",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407052962",
+          "display_name": "Max Planck Digital Library",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210088280",
+          "host_organization_name": "Max Planck Digital Library",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210088280"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/733797032",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://hdl.handle.net/1885/733797032",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402539",
+          "display_name": "ANU Open Research (Australian National University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I118347636",
+          "host_organization_name": "Australian National University",
+          "host_organization_lineage": [
+            "https://openalex.org/I118347636"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Cognitive Linguistics",
+        "raw_type": "Journal article"
+      },
+      {
+        "id": "pmh:oai:pure.mpg.de:item_2618380",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/21.11116/0000-0001-AB47-F",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400654",
+          "display_name": "MPG.PuRe (Max Planck Society)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I149899117",
+          "host_organization_name": "Max Planck Society",
+          "host_organization_lineage": [
+            "https://openalex.org/I149899117"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Cognitive Linguistics",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:repository.ubn.ru.nl:2066/196181",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://hdl.handle.net/2066/196181",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401067",
+          "display_name": "Radboud Repository (Radboud University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I145872427",
+          "host_organization_name": "Radboud University Nijmegen",
+          "host_organization_lineage": [
+            "https://openalex.org/I145872427"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Article / Letter to editor"
+      },
+      {
+        "id": "doi:10.60692/f5qbj-p6556",
+        "doi": "https://doi.org/10.60692/f5qbj-p6556",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.60692/f5qbj-p6556",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407051682",
+          "display_name": "Greater South Information System",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      {
+        "id": "doi:10.60692/xjkcm-bdp65",
+        "doi": "https://doi.org/10.60692/xjkcm-bdp65",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.60692/xjkcm-bdp65",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407051682",
+          "display_name": "Greater South Information System",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1515/cog-2017-0034",
+      "doi": "https://doi.org/10.1515/cog-2017-0034",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1515/cog-2017-0034",
+      "pdf_url": "https://www.degruyter.com/document/doi/10.1515/cog-2017-0034/pdf",
+      "source": {
+        "id": "https://openalex.org/S207053439",
+        "display_name": "Cognitive Linguistics",
+        "issn_l": "0936-5907",
+        "issn": [
+          "0936-5907",
+          "1613-3641"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310321051",
+        "host_organization_name": "De Gruyter Mouton",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321051",
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter Mouton",
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cognitive Linguistics",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320320934",
+        "display_name": "Koninklijke Nederlandse Akademie van Wetenschappen",
+        "ror": "https://ror.org/043c0p156"
+      },
+      {
+        "id": "https://openalex.org/F4320321800",
+        "display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "ror": "https://ror.org/04jsz6e67"
+      },
+      {
+        "id": "https://openalex.org/F4320332081",
+        "display_name": "Max Planck Instituut voor Psycholinguïstiek",
+        "ror": "https://ror.org/00671me87"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2885565116.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2885565116.grobid-xml"
+    },
+    "referenced_works_count": 89,
+    "referenced_works": [
+      "https://openalex.org/W28015313",
+      "https://openalex.org/W39844132",
+      "https://openalex.org/W119533066",
+      "https://openalex.org/W173802895",
+      "https://openalex.org/W288841874",
+      "https://openalex.org/W438635773",
+      "https://openalex.org/W608412432",
+      "https://openalex.org/W810439339",
+      "https://openalex.org/W1212387563",
+      "https://openalex.org/W1517744545",
+      "https://openalex.org/W1568546078",
+      "https://openalex.org/W1576116650",
+      "https://openalex.org/W1577300086",
+      "https://openalex.org/W1588146002",
+      "https://openalex.org/W1593832660",
+      "https://openalex.org/W1594638422",
+      "https://openalex.org/W1826410210",
+      "https://openalex.org/W1857502716",
+      "https://openalex.org/W1914676026",
+      "https://openalex.org/W1971763678",
+      "https://openalex.org/W1973261249",
+      "https://openalex.org/W1973826788",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W1976729764",
+      "https://openalex.org/W1977699910",
+      "https://openalex.org/W1979022758",
+      "https://openalex.org/W1980298683",
+      "https://openalex.org/W1986627277",
+      "https://openalex.org/W1994715426",
+      "https://openalex.org/W1995134431",
+      "https://openalex.org/W1998306017",
+      "https://openalex.org/W2003326884",
+      "https://openalex.org/W2003542030",
+      "https://openalex.org/W2004729255",
+      "https://openalex.org/W2010222214",
+      "https://openalex.org/W2029315691",
+      "https://openalex.org/W2031508092",
+      "https://openalex.org/W2031522244",
+      "https://openalex.org/W2033488534",
+      "https://openalex.org/W2035327778",
+      "https://openalex.org/W2041532239",
+      "https://openalex.org/W2045208889",
+      "https://openalex.org/W2065002220",
+      "https://openalex.org/W2068524460",
+      "https://openalex.org/W2085313580",
+      "https://openalex.org/W2086217573",
+      "https://openalex.org/W2087380240",
+      "https://openalex.org/W2089313466",
+      "https://openalex.org/W2089398481",
+      "https://openalex.org/W2092183677",
+      "https://openalex.org/W2095436077",
+      "https://openalex.org/W2097205440",
+      "https://openalex.org/W2103448772",
+      "https://openalex.org/W2113445459",
+      "https://openalex.org/W2140452151",
+      "https://openalex.org/W2143436805",
+      "https://openalex.org/W2152719324",
+      "https://openalex.org/W2161029413",
+      "https://openalex.org/W2162840157",
+      "https://openalex.org/W2170886006",
+      "https://openalex.org/W2240814795",
+      "https://openalex.org/W2253671457",
+      "https://openalex.org/W2318554807",
+      "https://openalex.org/W2324608545",
+      "https://openalex.org/W2339609277",
+      "https://openalex.org/W2481856668",
+      "https://openalex.org/W2488426299",
+      "https://openalex.org/W2502018430",
+      "https://openalex.org/W2505005027",
+      "https://openalex.org/W2506739262",
+      "https://openalex.org/W2512286205",
+      "https://openalex.org/W2533951829",
+      "https://openalex.org/W2548199832",
+      "https://openalex.org/W2564494914",
+      "https://openalex.org/W2569138060",
+      "https://openalex.org/W2606495510",
+      "https://openalex.org/W2624018362",
+      "https://openalex.org/W2733729361",
+      "https://openalex.org/W2810040508",
+      "https://openalex.org/W2886639059",
+      "https://openalex.org/W2899989254",
+      "https://openalex.org/W2991321857",
+      "https://openalex.org/W4205375075",
+      "https://openalex.org/W4211177138",
+      "https://openalex.org/W4213013513",
+      "https://openalex.org/W4230964153",
+      "https://openalex.org/W4240409888",
+      "https://openalex.org/W4241550562",
+      "https://openalex.org/W7006633692"
+    ],
+    "related_works": [
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W3170455920",
+      "https://openalex.org/W289354213",
+      "https://openalex.org/W7014783212",
+      "https://openalex.org/W2341094013",
+      "https://openalex.org/W2913603413",
+      "https://openalex.org/W2918494036",
+      "https://openalex.org/W2994592894",
+      "https://openalex.org/W1922552590",
+      "https://openalex.org/W7097151961"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Apart": [
+        1
+      ],
+      "from": [
+        2
+      ],
+      "references": [
+        3
+      ],
+      "to": [
+        4
+      ],
+      "perception,": [
+        5
+      ],
+      "words": [
+        6
+      ],
+      "such": [
+        7
+      ],
+      "asseeandlistenhave": [
+        8
+      ],
+      "shared,": [
+        9
+      ],
+      "non-literal": [
+        10
+      ],
+      "meanings": [
+        11,
+        17,
+        80,
+        136
+      ],
+      "across": [
+        12
+      ],
+      "diverse": [
+        13,
+        53,
+        57
+      ],
+      "languages.": [
+        14,
+        54
+      ],
+      "Such": [
+        15
+      ],
+      "cross-linguistic": [
+        16
+      ],
+      "have": [
+        18,
+        93
+      ],
+      "not": [
+        19,
+        139
+      ],
+      "been": [
+        20,
+        94
+      ],
+      "systematically": [
+        21
+      ],
+      "investigated": [
+        22
+      ],
+      "as": [
+        23,
+        75,
+        77,
+        89
+      ],
+      "they": [
+        24
+      ],
+      "appear": [
+        25
+      ],
+      "in": [
+        26,
+        51,
+        106,
+        134
+      ],
+      "their": [
+        27
+      ],
+      "natural": [
+        28
+      ],
+      "home": [
+        29
+      ],
+      "—": [
+        30,
+        70,
+        74
+      ],
+      "informal": [
+        31,
+        107
+      ],
+      "spoken": [
+        32
+      ],
+      "interaction.": [
+        33,
+        152
+      ],
+      "We": [
+        34
+      ],
+      "present": [
+        35
+      ],
+      "a": [
+        36
+      ],
+      "qualitative": [
+        37
+      ],
+      "examination": [
+        38
+      ],
+      "of": [
+        39,
+        43,
+        67,
+        86,
+        100,
+        115,
+        126,
+        150
+      ],
+      "the": [
+        40,
+        84,
+        122,
+        147
+      ],
+      "semantic": [
+        41
+      ],
+      "associations": [
+        42
+      ],
+      "perception": [
+        44,
+        68,
+        87
+      ],
+      "verbs": [
+        45,
+        69,
+        88
+      ],
+      "based": [
+        46
+      ],
+      "on": [
+        47,
+        141,
+        146
+      ],
+      "recorded": [
+        48
+      ],
+      "everyday": [
+        49
+      ],
+      "conversation": [
+        50,
+        108
+      ],
+      "thirteen": [
+        52
+      ],
+      "Across": [
+        55
+      ],
+      "these": [
+        56,
+        129
+      ],
+      "communities,": [
+        58
+      ],
+      "spontaneous": [
+        59
+      ],
+      "interaction": [
+        60
+      ],
+      "provides": [
+        61
+      ],
+      "evidence": [
+        62
+      ],
+      "for": [
+        63,
+        121
+      ],
+      "two": [
+        64
+      ],
+      "commonly-discussed": [
+        65
+      ],
+      "extensions": [
+        66
+      ],
+      "perception~cognition,": [
+        71
+      ],
+      "hearing~linguistic": [
+        72
+      ],
+      "communication": [
+        73
+      ],
+      "well": [
+        76
+      ],
+      "illustrating": [
+        78
+      ],
+      "other": [
+        79
+      ],
+      "and": [
+        81
+      ],
+      "functions": [
+        82
+      ],
+      "(e.g.,": [
+        83
+      ],
+      "use": [
+        85
+      ],
+      "discourse": [
+        90
+      ],
+      "markers)": [
+        91
+      ],
+      "that": [
+        92,
+        102,
+        112,
+        132
+      ],
+      "less": [
+        95
+      ],
+      "appreciated": [
+        96
+      ],
+      "heretofore.": [
+        97
+      ],
+      "The": [
+        98
+      ],
+      "range": [
+        99
+      ],
+      "usage": [
+        101
+      ],
+      "is": [
+        103
+      ],
+      "readily": [
+        104
+      ],
+      "observable": [
+        105
+      ],
+      "makes": [
+        109
+      ],
+      "it": [
+        110
+      ],
+      "clear": [
+        111
+      ],
+      "this": [
+        113
+      ],
+      "type": [
+        114
+      ],
+      "data": [
+        116,
+        130
+      ],
+      "must": [
+        117
+      ],
+      "take": [
+        118
+      ],
+      "center": [
+        119
+      ],
+      "stage": [
+        120
+      ],
+      "empirically": [
+        123
+      ],
+      "grounded": [
+        124
+      ],
+      "study": [
+        125
+      ],
+      "semantics.": [
+        127
+      ],
+      "Moreover,": [
+        128
+      ],
+      "suggest": [
+        131
+      ],
+      "commonalities": [
+        133
+      ],
+      "polysemous": [
+        135
+      ],
+      "may": [
+        137
+      ],
+      "rely": [
+        138
+      ],
+      "only": [
+        140
+      ],
+      "universal": [
+        142,
+        148
+      ],
+      "cognition,": [
+        143
+      ],
+      "but": [
+        144
+      ],
+      "also": [
+        145
+      ],
+      "exigencies": [
+        149
+      ],
+      "social": [
+        151
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 35
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-04T10:54:05.112534",
+    "created_date": "2018-08-22T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4389147944",
+    "doi": "https://doi.org/10.47836/pjssh.31.4.06",
+    "title": "Semantic Extensions of Hausa Visual and Auditory Perception Verbs gani and ji in Romance Fiction",
+    "display_name": "Semantic Extensions of Hausa Visual and Auditory Perception Verbs gani and ji in Romance Fiction",
+    "relevance_score": 55.313393,
+    "publication_year": 2023,
+    "publication_date": "2023-11-29",
+    "ids": {
+      "openalex": "https://openalex.org/W4389147944",
+      "doi": "https://doi.org/10.47836/pjssh.31.4.06"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.47836/pjssh.31.4.06",
+      "doi": "https://doi.org/10.47836/pjssh.31.4.06",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.47836/pjssh.31.4.06",
+      "pdf_url": "http://www.pertanika.upm.edu.my/resources/files/Pertanika PAPERS/JSSH Vol. 31 (4) Dec. 2023/06 JSSH-8900-2023.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764677807",
+        "display_name": "Pertanika journal of social science & humanities",
+        "issn_l": "0128-7702",
+        "issn": [
+          "0128-7702",
+          "2231-8534"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "norway-1",
+          "poland-20",
+          "russia-white-list-3",
+          "vabb-shw"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pertanika Journal of Social Sciences and Humanities",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "http://www.pertanika.upm.edu.my/resources/files/Pertanika PAPERS/JSSH Vol. 31 (4) Dec. 2023/06 JSSH-8900-2023.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5018171202",
+          "display_name": "Mohammed Sani Ya’u",
+          "orcid": "https://orcid.org/0009-0002-8453-5573",
+          "observed_orcids": [
+            "https://orcid.org/0009-0002-8453-5573"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210109391",
+            "display_name": "Sa'adu Zungur University",
+            "ror": "https://ror.org/02mg7se45",
+            "country_code": "NG",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ],
+        "countries": [
+          "MY",
+          "NG"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohammed Sani Ya’u",
+        "raw_affiliation_strings": [
+          "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia",
+          "Department of English and Literary Studies, Faculty of Arts, Bauchi State University Gadau, P.M.B. 065, Bauchi, Nigeria"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of English and Literary Studies, Faculty of Arts, Bauchi State University Gadau, P.M.B. 065, Bauchi, Nigeria",
+            "institution_ids": [
+              "https://openalex.org/I4210109391"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5022830395",
+          "display_name": "Sabariah Md Rashid",
+          "orcid": "https://orcid.org/0000-0002-3297-0306",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3297-0306"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I55285296",
+            "display_name": "UCSI University",
+            "ror": "https://ror.org/019787q29",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55285296"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sabariah Md Rashid",
+        "raw_affiliation_strings": [
+          "Department of Education, Faculty of Social Science and Liberal Studies, UCSI University, 56000 Cheras, Kuala Lumpur, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Education, Faculty of Social Science and Liberal Studies, UCSI University, 56000 Cheras, Kuala Lumpur, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I55285296"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5006669600",
+          "display_name": "Afida Mohamad Ali",
+          "orcid": "https://orcid.org/0000-0003-1613-5041",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1613-5041"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Afida Mohamad Ali",
+        "raw_affiliation_strings": [
+          "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5025141175",
+          "display_name": "Hardev Kaur",
+          "orcid": "https://orcid.org/0000-0001-6979-8370",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-6979-8370"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I130343225",
+            "display_name": "Universiti Putra Malaysia",
+            "ror": "https://ror.org/02e91jd64",
+            "country_code": "MY",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ],
+        "countries": [
+          "MY"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hardev Kaur Jujar Singh",
+        "raw_affiliation_strings": [
+          "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of English Language, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia",
+            "institution_ids": [
+              "https://openalex.org/I130343225"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.2435,
+    "has_fulltext": true,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.82881877,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 95
+    },
+    "biblio": {
+      "volume": "31",
+      "issue": "4",
+      "first_page": "1441",
+      "last_page": "1464"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11148",
+        "display_name": "Language, Metaphor, and Cognition",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3310",
+          "display_name": "Linguistics and Language"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.0010000000474974513,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12658",
+        "display_name": "Language and Culture",
+        "score": 0.00039999998989515007,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3310",
+          "display_name": "Linguistics and Language"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/hausa",
+        "display_name": "Hausa language",
+        "score": 0.9909999966621399
+      },
+      {
+        "id": "https://openalex.org/keywords/perception-verbs",
+        "display_name": "perception verbs",
+        "score": 0.781000018119812
+      },
+      {
+        "id": "https://openalex.org/keywords/conceptual-metaphor",
+        "display_name": "conceptual metaphor",
+        "score": 0.7699999809265137
+      },
+      {
+        "id": "https://openalex.org/keywords/semantic-extension",
+        "display_name": "semantic extension",
+        "score": 0.9100000262260437
+      },
+      {
+        "id": "https://openalex.org/keywords/visual-perception",
+        "display_name": "visual perception",
+        "score": 0.7670000195503235
+      },
+      {
+        "id": "https://openalex.org/keywords/auditory-perception",
+        "display_name": "auditory perception",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/romance-fiction",
+        "display_name": "romance fiction",
+        "score": 0.7730000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/language-and-culture",
+        "display_name": "language and culture",
+        "score": 0.7120000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/cognitive-semantics",
+        "display_name": "cognitive semantics",
+        "score": 0.7239999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/cultural-beliefs",
+        "display_name": "cultural beliefs",
+        "score": 0.4189999997615814
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C153924320",
+        "wikidata": "https://www.wikidata.org/wiki/Q56475",
+        "display_name": "Hausa",
+        "level": 2,
+        "score": 0.9256596565246582
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.5877966284751892
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5517508387565613
+      },
+      {
+        "id": "https://openalex.org/C518914266",
+        "wikidata": "https://www.wikidata.org/wiki/Q1054574",
+        "display_name": "Romance",
+        "level": 2,
+        "score": 0.5112450122833252
+      },
+      {
+        "id": "https://openalex.org/C2778311575",
+        "wikidata": "https://www.wikidata.org/wiki/Q18534",
+        "display_name": "Metaphor",
+        "level": 2,
+        "score": 0.48710179328918457
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.48309043049812317
+      },
+      {
+        "id": "https://openalex.org/C184337299",
+        "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+        "display_name": "Semantics (computer science)",
+        "level": 2,
+        "score": 0.4251793324947357
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.268452912569046
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.09298616647720337
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C11171543",
+        "wikidata": "https://www.wikidata.org/wiki/Q41630",
+        "display_name": "Psychoanalysis",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.47836/pjssh.31.4.06",
+        "doi": "https://doi.org/10.47836/pjssh.31.4.06",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.47836/pjssh.31.4.06",
+        "pdf_url": "http://www.pertanika.upm.edu.my/resources/files/Pertanika PAPERS/JSSH Vol. 31 (4) Dec. 2023/06 JSSH-8900-2023.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764677807",
+          "display_name": "Pertanika journal of social science & humanities",
+          "issn_l": "0128-7702",
+          "issn": [
+            "0128-7702",
+            "2231-8534"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [
+            "norway-1",
+            "poland-20",
+            "russia-white-list-3",
+            "vabb-shw"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Pertanika Journal of Social Sciences and Humanities",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.47836/pjssh.31.4.06",
+      "doi": "https://doi.org/10.47836/pjssh.31.4.06",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.47836/pjssh.31.4.06",
+      "pdf_url": "http://www.pertanika.upm.edu.my/resources/files/Pertanika PAPERS/JSSH Vol. 31 (4) Dec. 2023/06 JSSH-8900-2023.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764677807",
+        "display_name": "Pertanika journal of social science & humanities",
+        "issn_l": "0128-7702",
+        "issn": [
+          "0128-7702",
+          "2231-8534"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "norway-1",
+          "poland-20",
+          "russia-white-list-3",
+          "vabb-shw"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Pertanika Journal of Social Sciences and Humanities",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320322714",
+        "display_name": "Universiti Putra Malaysia",
+        "ror": "https://ror.org/02e91jd64"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4389147944.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4389147944.grobid-xml"
+    },
+    "referenced_works_count": 41,
+    "referenced_works": [
+      "https://openalex.org/W97821057",
+      "https://openalex.org/W173802895",
+      "https://openalex.org/W570602907",
+      "https://openalex.org/W634380253",
+      "https://openalex.org/W652694419",
+      "https://openalex.org/W1459714757",
+      "https://openalex.org/W1552030227",
+      "https://openalex.org/W1561412240",
+      "https://openalex.org/W1576289563",
+      "https://openalex.org/W1803016668",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W2003663460",
+      "https://openalex.org/W2035327778",
+      "https://openalex.org/W2052417512",
+      "https://openalex.org/W2095436077",
+      "https://openalex.org/W2097205440",
+      "https://openalex.org/W2135255848",
+      "https://openalex.org/W2151514925",
+      "https://openalex.org/W2152214461",
+      "https://openalex.org/W2160523772",
+      "https://openalex.org/W2245145664",
+      "https://openalex.org/W2266884515",
+      "https://openalex.org/W2330813134",
+      "https://openalex.org/W2485429569",
+      "https://openalex.org/W2487411291",
+      "https://openalex.org/W2521711156",
+      "https://openalex.org/W2624861603",
+      "https://openalex.org/W2737776738",
+      "https://openalex.org/W2885565116",
+      "https://openalex.org/W2907675476",
+      "https://openalex.org/W2914066009",
+      "https://openalex.org/W3015997681",
+      "https://openalex.org/W3041550485",
+      "https://openalex.org/W3088701383",
+      "https://openalex.org/W4233000347",
+      "https://openalex.org/W4242133653",
+      "https://openalex.org/W4246331603",
+      "https://openalex.org/W4249354154",
+      "https://openalex.org/W4367158891",
+      "https://openalex.org/W4377005618",
+      "https://openalex.org/W4399974594"
+    ],
+    "related_works": [
+      "https://openalex.org/W4390418222",
+      "https://openalex.org/W6968383044",
+      "https://openalex.org/W7223129855",
+      "https://openalex.org/W3080231447",
+      "https://openalex.org/W7220058197",
+      "https://openalex.org/W4405747672",
+      "https://openalex.org/W3088701383",
+      "https://openalex.org/W3205136176",
+      "https://openalex.org/W7165562411",
+      "https://openalex.org/W7115191500"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0,
+        172
+      ],
+      "study": [
+        1,
+        44,
+        71
+      ],
+      "focuses": [
+        2
+      ],
+      "on": [
+        3,
+        65,
+        80
+      ],
+      "the": [
+        4,
+        39,
+        66,
+        81,
+        87,
+        104,
+        114,
+        162,
+        193
+      ],
+      "metaphorical": [
+        5,
+        88,
+        151,
+        197
+      ],
+      "semantic": [
+        6
+      ],
+      "extension": [
+        7
+      ],
+      "of": [
+        8,
+        38,
+        60,
+        75,
+        83,
+        135,
+        164,
+        195
+      ],
+      "Hausa": [
+        9,
+        20,
+        76,
+        187
+      ],
+      "visual": [
+        10,
+        165
+      ],
+      "and": [
+        11,
+        55,
+        62,
+        86,
+        98,
+        117,
+        141,
+        147,
+        159,
+        166,
+        179,
+        191,
+        202
+      ],
+      "auditory": [
+        12,
+        167
+      ],
+      "perception": [
+        13,
+        84,
+        184
+      ],
+      "verbs": [
+        14,
+        85,
+        134,
+        185
+      ],
+      "as": [
+        15,
+        53,
+        103,
+        139
+      ],
+      "portrayed": [
+        16
+      ],
+      "in": [
+        17,
+        169,
+        182,
+        186,
+        199
+      ],
+      "romance": [
+        18,
+        77,
+        188
+      ],
+      "fiction.": [
+        19
+      ],
+      "language,": [
+        21,
+        26
+      ],
+      "just": [
+        22
+      ],
+      "like": [
+        23
+      ],
+      "any": [
+        24
+      ],
+      "other": [
+        25
+      ],
+      "provides": [
+        27,
+        174
+      ],
+      "a": [
+        28,
+        73,
+        124
+      ],
+      "window": [
+        29
+      ],
+      "into": [
+        30,
+        176
+      ],
+      "how": [
+        31,
+        46,
+        177
+      ],
+      "speakers": [
+        32
+      ],
+      "use": [
+        33,
+        82
+      ],
+      "language": [
+        34,
+        47,
+        178,
+        201
+      ],
+      "to": [
+        35,
+        57,
+        156
+      ],
+      "make": [
+        36
+      ],
+      "sense": [
+        37
+      ],
+      "world": [
+        40
+      ],
+      "around": [
+        41
+      ],
+      "them.": [
+        42
+      ],
+      "The": [
+        43,
+        70,
+        108,
+        129
+      ],
+      "examines": [
+        45
+      ],
+      "users": [
+        48
+      ],
+      "attribute": [
+        49
+      ],
+      "abstract": [
+        50
+      ],
+      "concepts,": [
+        51
+      ],
+      "such": [
+        52,
+        118,
+        138
+      ],
+      "thinking": [
+        54
+      ],
+      "understanding,": [
+        56
+      ],
+      "sensory": [
+        58
+      ],
+      "experiences": [
+        59
+      ],
+      "seeing": [
+        61
+      ],
+      "hearing,": [
+        63
+      ],
+      "drawing": [
+        64
+      ],
+      "conceptual": [
+        67
+      ],
+      "metaphor": [
+        68
+      ],
+      "theory.": [
+        69
+      ],
+      "analysed": [
+        72,
+        122
+      ],
+      "corpus": [
+        74
+      ],
+      "fiction,": [
+        78
+      ],
+      "focusing": [
+        79
+      ],
+      "extensions": [
+        89,
+        152,
+        198
+      ],
+      "they": [
+        90
+      ],
+      "evoke.": [
+        91
+      ],
+      "A": [
+        92
+      ],
+      "qualitative": [
+        93
+      ],
+      "research": [
+        94
+      ],
+      "approach": [
+        95
+      ],
+      "was": [
+        96
+      ],
+      "employed,": [
+        97
+      ],
+      "literary": [
+        99
+      ],
+      "texts": [
+        100,
+        190
+      ],
+      "were": [
+        101,
+        111,
+        120
+      ],
+      "selected": [
+        102
+      ],
+      "primary": [
+        105
+      ],
+      "data": [
+        106,
+        110,
+        119
+      ],
+      "source.": [
+        107
+      ],
+      "text": [
+        109
+      ],
+      "extracted": [
+        112
+      ],
+      "using": [
+        113,
+        123,
+        183
+      ],
+      "AntConc": [
+        115
+      ],
+      "programme,": [
+        116
+      ],
+      "then": [
+        121
+      ],
+      "cognitive": [
+        125
+      ],
+      "semantics": [
+        126
+      ],
+      "analytical": [
+        127
+      ],
+      "framework.": [
+        128
+      ],
+      "study’s": [
+        130
+      ],
+      "findings": [
+        131
+      ],
+      "indicated": [
+        132
+      ],
+      "that": [
+        133
+      ],
+      "higher": [
+        136
+      ],
+      "intellect,": [
+        137
+      ],
+      "“understand”": [
+        140
+      ],
+      "“think”,": [
+        142
+      ],
+      "are": [
+        143,
+        153
+      ],
+      "derived": [
+        144
+      ],
+      "from": [
+        145
+      ],
+      "hearing": [
+        146
+      ],
+      "vision,": [
+        148
+      ],
+      "respectively.": [
+        149
+      ],
+      "These": [
+        150
+      ],
+      "closely": [
+        154
+      ],
+      "related": [
+        155
+      ],
+      "cultural": [
+        157
+      ],
+      "beliefs": [
+        158
+      ],
+      "norms,": [
+        160
+      ],
+      "emphasising": [
+        161
+      ],
+      "importance": [
+        163,
+        194
+      ],
+      "cues": [
+        168
+      ],
+      "human": [
+        170
+      ],
+      "relationships.": [
+        171
+      ],
+      "article": [
+        173
+      ],
+      "insights": [
+        175
+      ],
+      "culture": [
+        180
+      ],
+      "intersect": [
+        181
+      ],
+      "fiction": [
+        189
+      ],
+      "demonstrates": [
+        192
+      ],
+      "understanding": [
+        196
+      ],
+      "studying": [
+        200
+      ],
+      "culture.": [
+        203
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-30T12:39:25.321706",
+    "created_date": "2023-11-30T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4392768539",
+    "doi": "https://doi.org/10.1353/lan.2024.a922000",
+    "title": "Verbs of Perception: A Quantitative Typological Study",
+    "display_name": "Verbs of Perception: A Quantitative Typological Study",
+    "relevance_score": 43.196278,
+    "publication_year": 2024,
+    "publication_date": "2024-03-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4392768539",
+      "doi": "https://doi.org/10.1353/lan.2024.a922000"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1353/lan.2024.a922000",
+      "doi": "https://doi.org/10.1353/lan.2024.a922000",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1353/lan.2024.a922000",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S176347361",
+        "display_name": "Language",
+        "issn_l": "0097-8507",
+        "issn": [
+          "0097-8507",
+          "1535-0665"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316359",
+        "host_organization_name": "Linguistic Society of America",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316359"
+        ],
+        "host_organization_lineage_names": [
+          "Linguistic Society of America"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Language",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5077980734",
+          "display_name": "Elisabeth Norcliffe",
+          "orcid": "https://orcid.org/0000-0001-8646-6474",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-8646-6474"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Elisabeth Norcliffe",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5021652762",
+          "display_name": "Asifa Majid",
+          "orcid": "https://orcid.org/0000-0003-0132-216X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0132-216X"
+          ]
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Asifa Majid",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 7.2231,
+    "has_fulltext": true,
+    "cited_by_count": 23,
+    "citation_normalized_percentile": {
+      "value": 0.97864266,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "100",
+      "issue": "1",
+      "first_page": "81",
+      "last_page": "123"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.9916999936103821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.9916999936103821,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.006099999882280827,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12881",
+        "display_name": "linguistics and terminology studies",
+        "score": 0.0006000000284984708,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/perception-verbs",
+        "display_name": "perception verbs",
+        "score": 0.9819999933242798
+      },
+      {
+        "id": "https://openalex.org/keywords/lexicalization",
+        "display_name": "lexicalization",
+        "score": 0.8069999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/vision",
+        "display_name": "vision",
+        "score": 0.6039999723434448
+      },
+      {
+        "id": "https://openalex.org/keywords/colexification",
+        "display_name": "colexification",
+        "score": 0.8420000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/conceptual-similarity",
+        "display_name": "concept similarity",
+        "score": 0.8100000023841858
+      },
+      {
+        "id": "https://openalex.org/keywords/communication-requirements",
+        "display_name": "communication needs",
+        "score": 0.9750000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-linguistic-typology",
+        "display_name": "cross-linguistic typology",
+        "score": 0.7720000147819519
+      },
+      {
+        "id": "https://openalex.org/keywords/verb-lexicon",
+        "display_name": "verb lexicon",
+        "score": 0.6470000147819519
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.691798746585846
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.5746915340423584
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5280386209487915
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.4128093719482422
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.08888211846351624
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1353/lan.2024.a922000",
+        "doi": "https://doi.org/10.1353/lan.2024.a922000",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1353/lan.2024.a922000",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S176347361",
+          "display_name": "Language",
+          "issn_l": "0097-8507",
+          "issn": [
+            "0097-8507",
+            "1535-0665"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316359",
+          "host_organization_name": "Linguistic Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316359"
+          ],
+          "host_organization_lineage_names": [
+            "Linguistic Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Language",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Symplectic Elements",
+        "raw_type": "Journal article"
+      },
+      {
+        "id": "pmh:oai:muse.jhu.edu:/article/922000",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://muse.jhu.edu/pub/24/article/922000/pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196299",
+          "display_name": "Project Muse (Johns Hopkins University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I145311948",
+          "host_organization_name": "Johns Hopkins University",
+          "host_organization_lineage": [
+            "https://openalex.org/I145311948"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "text"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:ora.ox.ac.uk:uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a",
+      "pdf_url": "https://ora.ox.ac.uk/objects/uuid:15d5d68d-f3b6-429c-83bf-d46ef951b34a/files/sq237ht84d",
+      "source": {
+        "id": "https://openalex.org/S4306402636",
+        "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I40120149",
+        "host_organization_name": "University of Oxford",
+        "host_organization_lineage": [
+          "https://openalex.org/I40120149"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Symplectic Elements",
+      "raw_type": "Journal article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G5395055984",
+        "display_name": "The Lexicalisation of Perceptual Experience",
+        "funder_award_id": "836921",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320320300",
+        "display_name": "European Commission",
+        "ror": "https://ror.org/00k4n6c32"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4392768539.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4392768539.grobid-xml"
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4401278343",
+      "https://openalex.org/W7001996396",
+      "https://openalex.org/W2266884515",
+      "https://openalex.org/W1976599083",
+      "https://openalex.org/W2302707509",
+      "https://openalex.org/W2462115631",
+      "https://openalex.org/W7223129855",
+      "https://openalex.org/W2810040508",
+      "https://openalex.org/W6925014379",
+      "https://openalex.org/W7097151961"
+    ],
+    "abstract_inverted_index": {
+      "Previous": [
+        0
+      ],
+      "studies": [
+        1
+      ],
+      "have": [
+        2
+      ],
+      "proposed": [
+        3
+      ],
+      "that": [
+        4,
+        43,
+        54,
+        87
+      ],
+      "the": [
+        5,
+        18,
+        61,
+        64,
+        83
+      ],
+      "lexicalization": [
+        6,
+        97
+      ],
+      "of": [
+        7,
+        17,
+        34,
+        63,
+        82
+      ],
+      "perception": [
+        8,
+        35
+      ],
+      "verbs": [
+        9
+      ],
+      "is": [
+        10
+      ],
+      "constrained": [
+        11
+      ],
+      "by": [
+        12
+      ],
+      "a": [
+        13,
+        31,
+        50,
+        79
+      ],
+      "biologically": [
+        14
+      ],
+      "grounded": [
+        15
+      ],
+      "hierarchy": [
+        16,
+        81
+      ],
+      "senses.": [
+        19
+      ],
+      "Other": [
+        20
+      ],
+      "research": [
+        21
+      ],
+      "traditions": [
+        22
+      ],
+      "emphasize": [
+        23
+      ],
+      "conceptual": [
+        24
+      ],
+      "and": [
+        25,
+        92
+      ],
+      "communicative": [
+        26,
+        93
+      ],
+      "factors": [
+        27
+      ],
+      "instead.": [
+        28
+      ],
+      "Drawing": [
+        29
+      ],
+      "on": [
+        30
+      ],
+      "balanced": [
+        32
+      ],
+      "sample": [
+        33
+      ],
+      "verb": [
+        36
+      ],
+      "lexicons": [
+        37
+      ],
+      "in": [
+        38,
+        72
+      ],
+      "100": [
+        39
+      ],
+      "languages,": [
+        40
+      ],
+      "we": [
+        41,
+        85
+      ],
+      "found": [
+        42,
+        69
+      ],
+      "vision": [
+        44
+      ],
+      "tends": [
+        45
+      ],
+      "to": [
+        46,
+        60,
+        95
+      ],
+      "be": [
+        47
+      ],
+      "lexicalized": [
+        48
+      ],
+      "with": [
+        49
+      ],
+      "dedicated": [
+        51
+      ],
+      "verb,": [
+        52
+      ],
+      "but": [
+        53
+      ],
+      "nonvisual": [
+        55
+      ],
+      "modalities": [
+        56
+      ],
+      "do": [
+        57
+      ],
+      "not": [
+        58
+      ],
+      "conform": [
+        59
+      ],
+      "predictions": [
+        62
+      ],
+      "sense-modality": [
+        65
+      ],
+      "hierarchy.": [
+        66
+      ],
+      "We": [
+        67
+      ],
+      "also": [
+        68
+      ],
+      "strong": [
+        70
+      ],
+      "asymmetries": [
+        71
+      ],
+      "which": [
+        73
+      ],
+      "sensory": [
+        74
+      ],
+      "meanings": [
+        75
+      ],
+      "colexify.": [
+        76
+      ],
+      "Rather": [
+        77
+      ],
+      "than": [
+        78
+      ],
+      "universal": [
+        80
+      ],
+      "senses,": [
+        84
+      ],
+      "suggest": [
+        86
+      ],
+      "two": [
+        88
+      ],
+      "domain-general": [
+        89
+      ],
+      "constraints—conceptual": [
+        90
+      ],
+      "similarity": [
+        91
+      ],
+      "need—interact": [
+        94
+      ],
+      "shape": [
+        96
+      ],
+      "patterns.": [
+        98
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-11-06T12:05:46.655746",
+    "created_date": "2024-03-14T00:00:00"
+  }
+]

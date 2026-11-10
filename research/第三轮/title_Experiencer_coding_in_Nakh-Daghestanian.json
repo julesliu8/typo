@@ -1,0 +1,84 @@
+[
+  {
+    "title": [
+      "Experiencer coding in Nakh-Daghestanian"
+    ],
+    "DOI": "10.1075/slcs.77.12gan",
+    "author": [
+      {
+        "given": "Dmitry",
+        "family": "Ganenkov",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Studies in Language Companion Series",
+      "Case, Valency and Transitivity"
+    ],
+    "publisher": "John Benjamins Publishing Company",
+    "page": "179-202",
+    "link": null
+  },
+  {
+    "title": [
+      "Ergativity in Nakh–Daghestanian"
+    ],
+    "DOI": "10.1093/oxfordhb/9780198739371.013.35",
+    "author": [
+      {
+        "given": "Diana",
+        "family": "Forker",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Linguistics, University of Bamberg"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "The Oxford Handbook of Ergativity"
+    ],
+    "publisher": "Oxford University Press",
+    "page": "851-872",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/edited-volume/37094/chapter/323336444",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+]

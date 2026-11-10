@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://www.bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://www.bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://www.bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://www.bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://www.bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://www.bivaltyp.info/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info"><div class="menu-button">Home</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://www.bivaltyp.info/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://www.bivaltyp.info/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://www.bivaltyp.info/project/instructions/"><div class="menu-button">Instructions for&nbsp;contributors</div></a>
+            <a href="https://www.bivaltyp.info/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://www.bivaltyp.info/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://www.bivaltyp.info/languages/listview/"><div class="menu-button">List view</div></a>
+            <a href="https://www.bivaltyp.info/languages/mapview/"><div class="menu-button">Map view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://www.bivaltyp.info/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://www.bivaltyp.info/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/data/maps/"><div class="menu-button">Maps</div></a>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
+<div>
+    <h2>‘understand’</h2>
+    <div class="predicate-info-div">
+        <table class="">
+            <tr>
+                <td class="sc predicate-prop">Argument frame: </td>
+                <td class="stimulus-sentence">
+                    <span class="bg"/>
+                    <span class="red bg">X</span>
+                    <span class="bg"> (understand) </span>
+                    <span class="blue bg">Y</span>
+                    <span class="bg"/>
+                </td>
+            </tr>
+        </table>
+        <table class="">
+            <tr>
+                <td class="sc predicate-prop">Stimulus sentence: </td>
+                <td class="stimulus-sentence">
+                    <span class="red bg">P. </span>
+                    <span class="bg"> understands </span>
+                    <span class="blue bg">French</span>
+                    <span class="bg">.</span>
+                </td>
+            </tr>
+        </table>
+        <table class=" ru">
+            <tr>
+                <td class="sc predicate-prop">Predicate label Ru: </td>
+                <td class="stimulus-sentence">
+                    <span class="bg">понимать#язык#</span>
+                </td>
+            </tr>
+        </table>
+        <table class=" ru">
+            <tr>
+                <td class="sc predicate-prop">Argument frame Ru: </td>
+                <td class="stimulus-sentence">
+                    <span class="bg"/>
+                    <span class="red bg">X</span>
+                    <span class="bg"> (понимать) </span>
+                    <span class="blue bg">Y</span>
+                    <span class="bg"/>
+                </td>
+            </tr>
+        </table>
+        <table class=" ru">
+            <tr>
+                <td class="sc predicate-prop">Stimulus sentence Ru: </td>
+                <td class="stimulus-sentence">
+                    <span class="red bg">П. </span>
+                    <span class="bg"> понимает </span>
+                    <span class="blue bg">французский язык</span>
+                    <span class="bg">.</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div data-valpal="LOCgwene_ABS">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Abaza.html">Abaza</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>LOCgwene_ABS</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: LOCgwene</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ABS</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: X</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">fatíma</td>
+                        <td class="example-word">francúz–bəzŝá</td>
+                        <td class="example-word">ʕá-l-gʷə.n-ʕʷ-əj-d</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench–language</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">cisl</span>
+                            <span>-3</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">f</span>
+                            <span>.</span>
+                            <span class="gloss">io</span>
+                            <span>-</span>
+                            <span class="gloss">loc</span>
+                            <span>-understand-</span>
+                            <span class="gloss">prs</span>
+                            <span>-</span>
+                            <span class="gloss">dcl</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="3">‘Fatima understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Aghul.html">Aghul</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NA</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: *</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: *</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: *</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">aslan</td>
+                        <td class="example-word">ʡurus</td>
+                        <td class="example-word">č’al.a-n</td>
+                        <td class="example-word">ʁawur.di</td>
+                        <td class="example-word">arx.a-a</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>russian</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>speech-</span>
+                            <span class="gloss">gen</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understanding(</span>
+                            <span class="gloss">in</span>
+                            <span>)</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>{</span>
+                            <span class="gloss">in</span>
+                            <span>}get.</span>
+                            <span class="gloss">ipf</span>
+                            <span>-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="5">‘Aslan understands Russian.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Assyrian_Neo_Aramaic.html">Assyrian Neo-Aramaic</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: SBJ</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: DO</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">brun-i</td>
+                        <td class="example-word">+ṗarmuy=əl</td>
+                        <td class="example-word">lišana=ət</td>
+                        <td class="example-word">suray</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span>son(</span>
+                            <span class="gloss">m</span>
+                            <span>)-</span>
+                            <span class="gloss">p</span>
+                            <span>.1</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand.</span>
+                            <span class="gloss">prog</span>
+                            <span>=3</span>
+                            <span class="gloss">m</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language(</span>
+                            <span class="gloss">m</span>
+                            <span>)=</span>
+                            <span class="gloss">rel</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">a</span>
+                            <span>ssyrian.</span>
+                            <span class="gloss">pl</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘My son understands the Assyrian language.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Enets_Forest.html">Forest Enets</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: OBL</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">modʲi</td>
+                        <td class="example-word">kasa-jʔ</td>
+                        <td class="example-word">dʲurak</td>
+                        <td class="example-word">baza</td>
+                        <td class="example-word">kamekuɔ-za</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">i</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>man-</span>
+                            <span class="gloss">nom</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>.1</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">n</span>
+                            <span>enets</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand(</span>
+                            <span class="gloss">ipfv</span>
+                            <span>)-3</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">so</span>
+                            <span>sg</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="5">‘My friend understands the Nenets language’.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Hebrew_Modern.html">Modern Hebrew</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: SBJ</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: DO</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Pinχas</td>
+                        <td class="example-word">mevin</td>
+                        <td class="example-word">tsarfatit</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand[</span>
+                            <span class="gloss">ptcp</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">m</span>
+                            <span>]</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="3">‘Pinchas understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Norwegian_Bokmal.html">Norwegian Bokmål</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: SBJ</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: DO</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Per</td>
+                        <td class="example-word">forstå-r</td>
+                        <td class="example-word">fransk</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="3">‘Per understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Russian.html">Russian</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ACC</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Pet-ja</td>
+                        <td class="example-word">ponima-et</td>
+                        <td class="example-word">francuzsk-ij</td>
+                        <td class="example-word">jazyk</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                            <span>(</span>
+                            <span class="gloss">m</span>
+                            <span>)-</span>
+                            <span class="gloss">nom</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand(</span>
+                            <span class="gloss">ipfv</span>
+                            <span>)-</span>
+                            <span class="gloss">prs</span>
+                            <span>.3</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench-</span>
+                            <span class="gloss">m</span>
+                            <span>.</span>
+                            <span class="gloss">acc</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language(</span>
+                            <span class="gloss">m</span>
+                            <span>)[</span>
+                            <span class="gloss">acc</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>]</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Petja understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="NOM_SUB">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Rutul.html">Rutul</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NOM_SUB</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: SUB</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">rasul</td>
+                        <td class="example-word">francuskij</td>
+                        <td class="example-word">č’ilɨ-χda</td>
+                        <td class="example-word">gi-jirq’a-r=a</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                            <span>(</span>
+                            <span class="gloss">nom</span>
+                            <span>)</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>french</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language.</span>
+                            <span class="gloss">obl</span>
+                            <span>-</span>
+                            <span class="gloss">sub</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">pv</span>
+                            <span>-1.understand.</span>
+                            <span class="gloss">ipfv</span>
+                            <span>-</span>
+                            <span class="gloss">cvb</span>
+                            <span>=be</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Rasul understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Saami_Skolt.html">Skolt Saami</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ACC</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Peâtt</td>
+                        <td class="example-word">fiʹttai</td>
+                        <td class="example-word">franskk-ǩiõl.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">nom</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand.</span>
+                            <span class="gloss">prs</span>
+                            <span>.3</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench-language.</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">acc</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="3">‘P. understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Slovenian.html">Slovenian</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ACC</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Peter</td>
+                        <td class="example-word">razume</td>
+                        <td class="example-word">francosk-i</td>
+                        <td class="example-word">jezik</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                            <span>[</span>
+                            <span class="gloss">nom</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>]</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand:</span>
+                            <span class="gloss">ipfv</span>
+                            <span>.</span>
+                            <span class="gloss">prs</span>
+                            <span>.3</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench-</span>
+                            <span class="gloss">acc</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">m</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language[</span>
+                            <span class="gloss">acc</span>
+                            <span>.</span>
+                            <span class="gloss">sg</span>
+                            <span>]</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Peter understands French.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="TR">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>TR</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ACC</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: TR</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Mehmet</td>
+                        <td class="example-word">Fransız</td>
+                        <td class="example-word">dil-i-ni</td>
+                        <td class="example-word"> anlı-yor</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">f</span>
+                            <span>rench</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>language-</span>
+                            <span class="gloss">p</span>
+                            <span>.3-</span>
+                            <span class="gloss">acc</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>understand-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Mehmet understands the French language.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="AFF_NOM">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Andi_Zilo.html">Zilo Andi</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>AFF_NOM</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: AFF</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: X</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">he-ge-ʃːu-&lt;b&gt;o</td>
+                        <td class="example-word">b-atʃ’ː.u-mado</td>
+                        <td class="example-word">hin-gi-b-ul</td>
+                        <td class="example-word">roʃol</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">dem</span>
+                            <span>-</span>
+                            <span class="gloss">ll</span>
+                            <span>-</span>
+                            <span class="gloss">obl</span>
+                            <span>-</span>
+                            <span class="gloss">aff</span>
+                            <span>&lt;</span>
+                            <span class="gloss">inan</span>
+                            <span>1&gt;</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">inan</span>
+                            <span>1-</span>
+                            <span class="gloss">pl</span>
+                            <span>\understand.</span>
+                            <span class="gloss">pst</span>
+                            <span>-</span>
+                            <span class="gloss">prog</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">dem</span>
+                            <span>-</span>
+                            <span class="gloss">ll</span>
+                            <span>-</span>
+                            <span class="gloss">inan</span>
+                            <span>1-</span>
+                            <span class="gloss">pl</span>
+                            <span>[</span>
+                            <span class="gloss">nom</span>
+                            <span>]</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>word[</span>
+                            <span class="gloss">inan</span>
+                            <span>1].</span>
+                            <span class="gloss">pl</span>
+                            <span>[</span>
+                            <span class="gloss">nom</span>
+                            <span>]</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘He understands these words.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+<div id="error-link-div">Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform" target="_blank">here</a>.
+<script>
+function redraw() {
+    const showRussianMeta = document.getElementById('russian_meta').checked;
+    for (const el of document.querySelectorAll('.ru'))
+        el.style.display = showRussianMeta ? 'block' : 'none';
+}
+</script>
+
+</body>
+</html>
+

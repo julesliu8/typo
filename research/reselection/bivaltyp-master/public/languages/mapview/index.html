@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://bivaltyp.info/js/data/full.js"></script>
+        <script src="https://bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <!-- A place for a permanent-sponsor logo. -->
+        <!-- <a href="https://iling.spb.ru/departements/typology/about.html.ru"><img src="https://bivaltyp.info/images/LTIJa.png"
+                alt="Лаборатория типологического изучения языков"></a>
+        &nbsp;&nbsp;
+        -->
+        <!-- <a href="https://iling.spb.ru/index.html.ru"><img src="https://bivaltyp.info/images/ili.png"
+                alt="Институт лингвистических исследований РАН"></a> -->
+    </div>
+    <!-- <div>
+    </div> -->
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://bivaltyp.info">
+            <div class="menu-button">Home</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://bivaltyp.info/project/description/">
+                <div class="menu-button">Project description</div>
+            </a>
+            <a href="https://bivaltyp.info/project/questionnaire/">
+                <div class="menu-button">Questionnaire</div>
+            </a>
+            <a href="https://bivaltyp.info/project/instructions/">
+                <div class="menu-button">Instructions for&nbsp;contributors</div>
+            </a>
+            <a href="https://bivaltyp.info/project/team/">
+                <div class="menu-button">Team</div>
+            </a>
+            <a href="https://bivaltyp.info/project/publications/">
+                <div class="menu-button">Publications</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/howtoreadthedata/">
+            <div class="menu-button">How to read the data</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://bivaltyp.info/languages/listview/">
+                <div class="menu-button">List view</div>
+            </a>
+            <a href="https://bivaltyp.info/languages/mapview/">
+                <div class="menu-button">Map view</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/predicates/">
+            <div class="menu-button">Predicates</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://bivaltyp.info/data/patterns/">
+                <div class="menu-button">Patterns overview</div>
+            </a>
+            <a href="https://bivaltyp.info/data/all/">
+                <div class="menu-button">Data in one spreadsheet</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/data/maps/">
+            <div class="menu-button">Maps</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <a href="https://bivaltyp.info/download/">
+            <div class="menu-button">Download</div>
+        </a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+<h2>Map view</h2>
+<p>Click on a green circle to open the description in a new window. Summary data for grey circles can be found in the ‘<a href="../../data/patterns/">Patterns overview</a>’ section</p>
+<div id="map"></div>
+<script>
+    const siteURL = 'https://bivaltyp.info';
+    document.addEventListener('DOMContentLoaded', () => {
+        let mymap = L.map('map', { zoomControl: false });
+        mymap.setView([52.483333, 96.085833], 2);
+        L.control.zoom({ position: 'bottomleft' }).addTo(mymap);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(mymap);
+
+        // Extract all languages.
+        let allLanguages = new Set(),
+            external2internal = {},
+            coords = {};
+
+        let nameIndexDict = {};
+        for (let i = 0; i < languageData[0].length; i++) {
+            nameIndexDict[languageData[0][i]] = i;
+        }
+
+        for (const row of languageData.slice(1)) {
+            const externalName = row[nameIndexDict['language_external']],
+                internalName = row[nameIndexDict['language']];
+            allLanguages.add(externalName);
+            external2internal[externalName] = internalName;
+            coords[externalName] = {
+                lat: row[nameIndexDict['latitude']],
+                lon: row[nameIndexDict['longitude']]
+            };
+        }
+
+        // Extract active languages.
+        let activeLanguages = new Set();
+        for (const row of fullData.slice(1)) {
+            activeLanguages.add(row[0]);
+        }
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const id = external2internal[lang],
+                lat = coords[lang].lat,
+                lon = coords[lang].lon;
+            let circle = L.divIcon({
+                className: activeLanguages.has(lang) ?
+                    'circle circle-active' :
+                    'circle circle-inactive',
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([lat, lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${id}.html`)
+                });
+            marker.addTo(mymap);
+        }
+    });
+</script>
+</div>
+
+
+</body>
+</html>
+

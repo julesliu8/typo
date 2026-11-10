@@ -1,0 +1,575 @@
+[
+  [
+    "The semantic map model State of the art and future avenues for linguistic research",
+    [
+      {
+        "title": [
+          "The semantic map model: State of the art and future avenues for linguistic research"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-5632-4202",
+            "authenticated-orcid": false,
+            "given": "Thanasis",
+            "family": "Georgakopoulos",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Service d'Égyptologie, Département des sciences de l'Antiquité Université de Liège"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0350-9753",
+            "authenticated-orcid": false,
+            "given": "Stéphane",
+            "family": "Polis",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Service d'Égyptologie, Département des sciences de l'Antiquité Université de Liège/F.R.S.‐FNRS"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1111/lnc3.12270",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "Language and Linguistics Compass"
+        ],
+        "page": null,
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The semantic map model is relatively new in linguistic research, but it has been intensively used during the past three decades for studying both cross‐linguistic and language‐specific questions. The goal of the present contribution is to give a comprehensive overview of the model. After introducing the different types of semantic maps, we present the steps involved for building the maps and discuss in more detail the different types of maps and their respective advantages and disadvantages, focusing on the kinds of linguistic generalizations captured. Finally, we provide a thorough survey of the literature on the topic, and we sketch future avenues for research in the field.</jats:p>",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Flnc3.12270",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://compass.onlinelibrary.wiley.com/doi/pdf/10.1111/lnc3.12270",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Bank Performance Determinants: State of the Art and Future Research Avenues"
+        ],
+        "author": [
+          {
+            "given": "Anas",
+            "family": "Azzabi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The Higher Institute of Commerce and Business Administration (Groupe ISCAE), Casablanca, Morocco"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Younes",
+            "family": "Lahrichi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Higher Institute of Commerce and Business Administration (Groupe ISCAE), Casablanca, Morocco"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.32038/ncaf.2023.09.03",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "New Challenges in Accounting and Finance"
+        ],
+        "page": "26-41",
+        "abstract": "<jats:p>Banks' performance is an important topic for both professionals and researchers. Given the important literature on this subject, this paper aims to bring an up-to-date and organized review of literature on the determinants of banks performance. This paper discusses the main approaches that molded the debate on banks’ performance and their main determinants. An in-depth understanding of these latter may allow on the one hand, bank managers and regulators to improve the sectors’ efficiency and to deal with the new trends shaping the future of their industry and on the other hand, academicians to enrich research and knowledge on this field. Through the analysis of 54 studies published in 42 peer-reviewed journals, we show that despite the importance of the existent literature, the subject of bank performance factors did not reveal all its secrets and still constitute a fertile field for critical debates, especially since the COVID-19 and the increasingly pressing rise in power of digital transformation and artificial intelligence in general and FinTechs in particular. The study concludes by suggesting new promising research avenues.</jats:p>",
+        "link": [
+          {
+            "URL": "https://api.eurokd.com/Uploads/Article/704/NCAF.2023.09.03.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Artificial intelligence in hospitality and tourism. State of the art and future research avenues"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2342-0051",
+            "authenticated-orcid": false,
+            "given": "Martina",
+            "family": "Nannelli",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2000-3033",
+            "authenticated-orcid": false,
+            "given": "Francesco",
+            "family": "Capone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9759-2289",
+            "authenticated-orcid": false,
+            "given": "Luciana",
+            "family": "Lazzeretti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.4324/9781003515999-3",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Artificial Intelligence, Big Data, Algorithms and Industry 4.0 in Firms and Clusters"
+        ],
+        "page": "29-48",
+        "abstract": null,
+        "link": null
+      }
+    ]
+  ],
+  [
+    "Semantic maps and the typology of colexification Intertwining polysemous networks across languages",
+    [
+      {
+        "title": [
+          "Semantic maps and the typology of colexification: Intertwining polysemous networks across languages"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1947-0806",
+            "authenticated-orcid": true,
+            "given": "Alexandre",
+            "family": "François",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Lacito (CNRS), Fédération TUL"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1075/slcs.106.09fra",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              11,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "From Polysemy to Semantic Change"
+        ],
+        "page": "163-215",
+        "abstract": "<jats:p>Building upon the model of Semantic Maps (Haspelmath 2003), which typologists have designed mainly for grammatical semantics, this chapter discusses methodological issues for a model in lexical typology. By breaking up polysemous lexemes of various languages into their semantic “atoms” or senses, one defines an etic grid against which cross-linguistic comparison can be undertaken. Languages differ as to which senses they<jats:italic>colexify</jats:italic>, i.e., lexify identically. But while each polysemous lexeme as a whole is language-specific, individual pairings of colexified senses can be compared across languages. Our model, understood as an empirical, atomistic approach to lexical typology, is finally exemplified with the rich polysemies associated with the notion “breathe”. Intertwined together, they compose a single, universal network of potential semantic extensions.</jats:p>",
+        "link": null
+      },
+      {
+        "title": [
+          "Conceptual Relations Predict Colexification across Languages"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-8825-7497",
+            "authenticated-orcid": true,
+            "given": "Yang",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "dnk",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0631-5375",
+            "authenticated-orcid": true,
+            "given": "Barbara Claire",
+            "family": "Malt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Serena",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mahesh",
+            "family": "Srinivasan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.31234/osf.io/gvfsn",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              31
+            ]
+          ]
+        },
+        "container-title": null,
+        "page": null,
+        "abstract": "<p>In natural language, multiple meanings often share a single word form, a phenomenon known as colexification. Some sets of meanings are more frequently colexified across languages than others, but the source of this variation is not well understood. We propose that cross-linguistic variation in colexification frequency is non-arbitrary and reflects a general principle of cognitive economy: More commonly colexified meanings across languages are those that require less cognitive effort to relate. To evaluate our proposal, we examine patterns of colexification of varying frequency from about 250 languages. We predict these colexification data based on independent measures of conceptual relatedness drawn from large-scale psychological and linguistic resources. Our results show that meanings that are more frequently colexified across these languages tend to be more strongly associated by speakers of English, suggesting that conceptual associativity provides an important constraint on the development of the lexicon. Our work extends research on polysemy and the evolution of word meanings by grounding cross-linguistic regularities in colexification in basic principles of human cognition.</p>",
+        "link": null
+      },
+      {
+        "title": [
+          "Conceptual relations predict colexification across languages"
+        ],
+        "author": [
+          {
+            "given": "Yang",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Khang",
+            "family": "Duong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Barbara C.",
+            "family": "Malt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Serena",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mahesh",
+            "family": "Srinivasan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1016/j.cognition.2020.104280",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Cognition"
+        ],
+        "page": "104280",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0010027720300998?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0010027720300998?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "Towards a Typology of Transitivity Splits",
+    [
+      {
+        "title": [
+          "Transitivity Typology"
+        ],
+        "author": [
+          {
+            "given": "Seppo",
+            "family": "Kittilä",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1093/oxfordhb/9780199281251.013.0018",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              11,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Oxford Handbooks Online"
+        ],
+        "page": null,
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "The Typology of External Splits"
+        ],
+        "author": [
+          {
+            "given": "Greville G.",
+            "family": "Corbett",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1353/lan.2023.0007",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Language"
+        ],
+        "page": "108-153",
+        "abstract": "<jats:p>The lexicon divides into parts of speech (or lexical categories), and there are cross-cutting regularities (features). These two dimensions of analysis take us a long way, but several phenomena elude us. For these the term ‘split’ is used extensively (‘case split’, ‘split agreement’, and more), but in confusingly different ways. Yet there is a unifying notion here. I show that a split is an ADDITIONAL PARTITION, whether in the part-of-speech inventory or in the feature system. On this base an elegant typology can be constructed, using minimal machinery. The typology starts from four external relations (government, agreement, selection, and anti-government), and it specifies four types of split within each (sixteen possibilities in all). This typology (i) highlights less familiar splits, from diverse languages, and fits them into the larger picture; (ii) introduces a new relation, anti-government, and documents it; (iii) elucidates the complexities of multiple splits; and (iv) clarifies what exactly is split, which leads to a sharpening of our analyses and applies across different traditions.</jats:p>",
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0097850723007221",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "10. Towards a typology of split ergativity: A TAM-hierarchy for alignment splits"
+        ],
+        "author": [
+          {
+            "given": "Andrej L.",
+            "family": "Malchukov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1515/9783110344134.275",
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Scales and Hierarchies"
+        ],
+        "page": "275-296",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110344134.275/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110344134.275/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "A semantic map of perception verbs",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=A+semantic+map+of+perception+verbs&rows=3"
+  ],
+  [
+    "A semantic map of emotion verbs",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=A+semantic+map+of+emotion+verbs&rows=3"
+  ],
+  [
+    "Polysemy of love and want",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Polysemy+of+love+and+want&rows=3"
+  ],
+  [
+    "semantic maps desire volition",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=semantic+maps+desire+volition&rows=3"
+  ]
+]

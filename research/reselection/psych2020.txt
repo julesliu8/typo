@@ -1,0 +1,1066 @@
+[PDF PAGE 1]
+Research Article
+Julian A. Rott* , Elisabeth Verhoeven, and Paola Fritz -Huechante
+Valence orientation and psych properties:
+Toward a typology of the psych alternation
+https://doi.org/10.1515/opli-2020-0020
+received January 27, 2019; accepted May 06, 2020
+Abstract: Languages di ﬀer with respect to the morphological structure of their verbal inventory: some
+languages predominantly derive intransitive experiencer -subject verbs from more basic transitive
+experiencer-object verbs by morphosyntactic operations such as stative passivization (e.g., German,
+English),r e ﬂexivization (e.g., German, Spanish ), or mediopassive voice (e.g., Greek, Icelandic ). Other
+languages apply transitivizing operations of causativization to intransitive basic forms, e.g., via causative
+aﬃxes (e.g., Turkish, Japanese, Yucatec Maya ) or embedding under causative predicates (e.g., Korean,
+Chinese). Yet other languages derive both alternants from a common base (e.g., Hungarian, Cabécar ). This
+classiﬁcation is especially pertinent when applied to psych verbs, given that variable linking is a widely
+recognized characteristic of this domain. The valence orientation pro ﬁle of a language ’s psych domain has
+recently been linked to the presence or absence of noncanonical syntax, another well -known property of
+psych predicates. This article reports results from an ongoing study which aims to test this observation on
+a larger typological scale, presenting comparative empirical data on the interplay of morphology and
+syntax in the psych domains of Icelandic, Spanish, Korean, Chinese, Yucatec Maya, Finnish, Turkish,
+and Bété.
+Keywords: psych verbs, psych properties, valence orientation, causative alternation, morphology, syntax
+1 Introduction: the psych alternation
+Crosslinguistically, the domain of psych verbs (also called “experiencer verbs” or “mental verbs”) is one of
+the most pertinent semantic domains to participate in structural alternations resembling the causative
+alternation (Haspelmath 1993, Levin and Hovav 1995, Nichols et al. 2004, Alexiadou et al. 2006, Alexiadou
+and Iord ăchioaia 2014 ), which is illustrated below:
+(1)( a) The explosion broke the window.
+(b) The window broke (from the explosion ).
+In psych verbs, this manifests as derivationally related structures in which the subject position is
+alternately ﬁlled by either the stimulus argument or the experiencer argument:
+(2)( a) Global warming worried George.
+(b) George worried (about global warming ).
+
+* Corresponding author: Julian A. Rott, Institut für deutsche Sprache und Linguistik, Humboldt -Universität zu Berlin, 10099
+Berlin, Germany, e -mail: julian.rott@hu -berlin.de
+Elisabeth Verhoeven, Paola Fritz -Huechante: Institut für deutsche Sprache und Linguistik, Humboldt -Universität zu Berlin,
+10099 Berlin, Germany
+Open Linguistics 2020; 6: 401 –423
+Open Access. © 2020 Julian A. Rott et al ., published by De Gruyter. This work is licensed under the Creative Commons
+Attribution 4.0 Public License.
+[PDF PAGE 2]
+(3)( a) Global warming puzzled George.
+(b) George puzzled (over global warming ).
+Structures such as (2a) and (3a) are called experiencer object (EO) verbs, while those like (2b) and (3b)
+are referred to as experiencer subject (ES) verbs.
+One crucial observation to be made in the above examples is that despite the facultative presence of the
+stimulus in the ES alternants (2b, 3b), both arguments are governed by the verb across the alternation. This
+is evidenced by the lexically determined choice of preposition (see also Alexiadou and Iord ăchioaia 2014):
+(4)( a) George worried *from global warming.
+(b) George worried ??over global warming.
+(5)( a) George puzzled *from global warming.
+(b) George puzzled *about global warming.
+It has been observed that di ﬀerent experiential subdomains di ﬀer in their crosslinguistic propensity to
+encode a stimulus, which is taken to re ﬂect its involvement in the given emotion (Verhoeven 2007 :6 6 ):
+(6) bodily sensation < emotions < cognition < perception
+In prototypical emotion scenarios, argument status of the stimulus is generally expected, given that
+the experiencer and the stimulus are both considered to be ontological components of an experiential
+situation (cf. Croft 1993 ). In light of these observations and in order to facilitate structural comparison
+across a diverse language sample, we treat causative alternations in psych verbs as a related but separate
+phenomenon (see Alexiadou and Iord ăchioaia 2014 ) and restrict ourselves to pairs which meet the
+conditions set forth below.
+(7) An expression of a language L participates in the psych alternation iﬀ:
+(a) It “carries psychological entailments with respect to one of its arguments (the
+experiencer). A psychological entailment involves an individual being in a certain
+mental state ” (Landau 2010 : 137 ).
+(b) It participates in a morphosyntactic alternation between semantically equivalent ES
+and EO counterparts.
+(c) At least one of the alternants exhibits a pattern which aligns with canonical transitives
+in L.
+(d) The experiencer and the stimulus have argument status in both alternants.
+The morphological means by which (7) is e ﬀected di ﬀer widely from language to language. This is
+illustrated in (8).
+(8)( a) Icelandic:
+EO → ES
+gleð-ja gleðj -a-st
+please-INF please-INF-MID
+“please”“ be pleased ”
+(b) Korean:
+ES → EO
+pwukkulepta pwukkulep -key hata
+be.ashamed be.ashamed -ADVR do
+“be ashamed ”“ make ashamed ”
+(c) Finnish:
+ES ↔ EO
+402  Julian A. Rott et al.
+[PDF PAGE 3]
+huole-st-u-a huole -tta-a
+worry-FACT-INCH-INF worry-CAUS-INF
+“get worried ”“ worry”
+(c′) ES → EO
+huole-st-u-a huole -st-u-tta-a “worry”
+worry-FACT-INCH-INF worry-FACT-INCH-CAUS-INF
+“get worried ”“ worry”
+In Icelandic (8a), the ES verb is formed on the basis of its EO counterpart by means of overt
+mediopassivization, creating a clear derivational relation between what will be referred to as the “basic
+form”, i.e., the less morphologically complex alternant, and its derived counterpart. The opposite process
+can be seen in Korean (8b), where it is the EO alternant which is secondary, derived from a basic stative ES
+form via periphrastic causativization. Note that we use the quali ﬁer “basic” in the spirit of Nichols et al.
+(2004), i.e., its use does not entail a complete absence of morphology (cf. Mugdan 2015 ) but is simply
+intended to convey that one member of a pair has lower complexity relative to the corresponding other
+member.
+A third strategy is exempli ﬁed by the Finnish verb in (8c): here, neither alternant is more basic than
+the other, as both are derived from a common underlying root – in this case a noun huoli “worry, concern”.
+However, some languages may also employ multiple strategies at the same time, sometimes even applying
+them to the same basic form, as illustrated in (8c′). These di ﬀerent patterns fall squarely within the results
+of the large -scale comparative study by Nichols et al. (2004) who ﬁnd that the majority of languages will
+show a signi ﬁcant preference for one derivational strategy. They propose a typological parameter of
+valence orientation , which can be used to classify languages into one of the three broad categories given
+in (9):
+(9)( a) Detransitivizing languages
+(b) Transitivizing languages
+(c) Neutral languages (double derivation, auxiliary change, conversion )
+Since one of the conditions of (7) is that both arguments be governed by the verb in either alternant, it
+is useful to reframe (9) when applied to the psych alternation. We propose characterizing languages which
+conform to (7) by the linking of the experiencer argument which predominates in the basic forms, as
+shown below (numbering aligns with (9)):
+(10)( a) Languages with a preponderance of EO basic forms
+(b) Languages with a preponderance of ES basic forms
+(c) Languages with a preponderance of underspeci ﬁed basic forms
+Note that (10) is determined quantitatively on the item level, i.e., it does not discriminate between the
+diﬀerent morphological means that languages may invoke, as shown in (11)( S = stimulus, E = experiencer;
+numbering aligns with (10)):
+(11)( a) Mediopassive: e.g., Greek
+S ενδιαφέρ-ει E → E ενδιαφέρ-εται για S
+S enđiafér-i E → E enđiafér-ete ja S
+S interest -3.SG.ACT E → E interest -3.SG.PASS about S
+“S interests E ”“ E is interested in S ”
+Reﬂexive: e.g., German
+S ärger-t E → E ärger-t sich über S
+S annoy -3.SG E → E annoy -3.SG REFL about S
+“S annoys E ”“ E is annoyed by S ”
+Valence orientation and psych properties  403
+[PDF PAGE 4]
+(b) Morphological factitive/causative: e.g., Yucatec Maya
+chi’ichnak ti' SE → chi’ichnak-kuns ES
+annoy LOC SE → annoy-FACT ES
+“E is annoyed about S ”“ S annoys E ”
+Periphrastic causative: e.g., Chinese
+E 担心 S → S 使 担心 E
+E dānxīn S → S shǐ dānxīn E
+E worry S → S CAUS worry E
+“E worries about S ”“ S worries E ”
+(c) Double derivation: e.g., Hungarian
+megrém-ít SE ↔ megrém-ül ES -tól
+frighten-CAUS SE ↔ frighten-INCH ES -ABL
+“S frightens E ”“ E gets frightened by S ”
+Auxiliary change: e.g., Basque
+SE izutu du ↔ ES -rekin izutu da
+S E frighten have:3. SG ↔ ES -COM frighten be:3. SG
+“S frightens E ”“ E gets frightened by S ”
+In fact, English, which as seen in (2) frequently exhibits (10c) underspeciﬁed basic forms, seems to
+instantiate a typologically infrequent type with regard to the overall causative alternation (Nichols et al.
+2004). This fact will become relevant for our overall discussion, since the bulk of the research on the
+phenomena to be discussed below builds on observations made for English, including the broad de ﬁnition
+of the psych alternation proposed in (7).
+Out of the individual verbs created via (7), at least the EO alternants can be characterized as
+unambiguously transitive. It is at this interface that another well -known salient feature of psych verbs
+emerges: EO psych verbs have been found to behave unlike transitive action verbs, which are generally
+accepted to represent the prototypical structures for verbal predications with a dyadic con ﬁguration
+(Silverstein 1976 , Jackendo ﬀ 1983, Dowty 1991, Van Valin and LaPolla 1997; see also Rosch and Mervis
+1975). In fact, Landau (2010: 4 ) observes that “in just about any language where psych (ological) verbs
+have been studied in any depth, some special properties of these verbs have emerged ”. Indeed, research
+on this domain is plentiful and covers a broad range of syntactic phenomena such as noncanonical
+linearization patterns, restrictions on passivization, aberrant licensing properties in extraction and
+binding, etc. (see, e.g., Belletti and Rizzi 1988, Pesetsky 1995, Haspelmath 2001a, Bayer 2004 ). While
+studies adduce evidence from a host of di ﬀerent languages, again most of the seminal work on these so -
+called “psych properties ” is based on Standard Average European (cf. Haspelmath 2001b ). The
+universality of psych properties present in transitive EO verbs has recently been challenged by
+crosslinguistic data such as (12)–(13):
+(12) Passive of EO verbs
+(a) Turkish: Licit
+Gezgin-ler da ğ-lar-da köpek -ler taraf ından
+hiker-PL mountain-PL-LOC dog-PL by
+kork-ut-ul-du-lar.
+afraid-CAUS-PASS-PFV-3.PL
+“The hikers got scared by dogs in the mountains. ”
+(b) Icelandic: Ungrammatical
+*Vegfarandi-nn var gladd -ur (af lögreglumann -i-num).
+pedestrian:NOM-DEF was gladdened -NOM.M (by policeman -DAT-DEF)
+Lit.: “The pedestrian was made glad (by the policeman ).”
+404  Julian A. Rott et al.
+[PDF PAGE 5]
+(13) Forward binding with EO verbs
+(a) Chinese: Licit
+老师和学生相互激怒了。
+lǎoshī hé xuésh ēng xi ānghù j īnù-le.
+teacher and student each.other enrage -PFV
+“The teacher and the student enraged each other. ”
+(based on Verhoeven 2010a : 112 )
+(b) German: Ungrammatical
+*Anna und Kim wundern / interessieren einander / sich¹ gegenseitig.
+Anna and Kim astonish / concern each.other / REFL mutually
+“Anna and Kim astonish/concern each other. ”
+The grammaticality of the structures in (12a) and (13a) is somewhat surprising in light of the
+aforementioned statements. Verhoeven (2010a, 2014 ) ﬁnds that di ﬀerences such as the above are
+indicative of a typological di ﬀerence in the lexicon, yielding the binary classi ﬁcation in (14). Note that this
+account is limited to verbs which are structurally comparable to transitive action predicates, thus
+excluding dative experiencers.
+(14)( a) Languages with a set of EO verbs which exhibit noncanonical syntactic properties
+(b) Languages without a set of EO verbs which exhibit noncanonical syntactic properties
+Crucially, Temme and Verhoeven (2016) ﬁnd that the classi ﬁcation in (14) aligns neatly with the
+valence orientation type as identi ﬁed according to the tripartite typology laid out in (10): at least for
+languages which have ﬁgured in pertinent studies to date, the patterns of the individual phenomena
+suggest that languages whose psych alternation, as de ﬁned in (7), starts out with EO basic forms (10a) are
+also those in which psych verbs tend to show unique syntactic patterns (14a). To put it clearly:
+(15) Central observation
+The valence orientation in a given language ’s psych domain is a predictor for the syntactic
+behavior of its psych predicates, such that the existence of a set of verbs which exhibit
+noncanonical behavior is correlated with a preponderance of detransitivization.
+Nichols et al. (2004) found that across semantic domains, valence orientation has strong areal
+correlates: transitivization is common globally, the crucial exception being the European macro area (cf.
+also Cysouw 2011 ), where detransitivization is the dominant type. If true, the proposed correlation in (15)
+may thus shed some new light on the aforementioned predominance of European languages in the canon
+of seminal studies on psych properties in transitive verbs. It also conforms to another crucial general
+observation made by Nichols et al. (2004): across languages, transitivization frequently relies on regular
+and functionally bounded morphological operations, while detransitivizing predicates tend to expand
+their domains over time, incurring structural irregularities along the way. For psych verbs, this is
+motivated on functional grounds: a basic ES verb already encodes the semantically and relationally
+prominent experiencer argument in syntactically prominent position (cf. Givón 1984, Bickel 2004,
+Verhoeven 2014), while the stimulus in the derived causative alternant is most commonly conceptualized
+
+1 Note that the re ﬂexive marker here is an anaphoric pronoun with a clear reciprocal reading, as evidenced by its synonymous
+replacement with overtly reciprocal einander “each other” (cf. Helbig and Buscha 2005 : 193f). While detransitivization is also
+achieved via a re ﬂexive marker, the resulting ES structure is more complex due to the expected inclusion of the stimulus as a
+prepositional phrase:
+(i) Anna und Kim wundern sich über / interessieren sich für einander .
+Anna and Kim astonish REFL over / concern REFL for each.other
+“Anna and Kim are astonished/concerned by each other. ”
+Valence orientation and psych properties  405
+[PDF PAGE 6]
+as a causing actor and the experiencer as an undergoer of a caused change (Pesetsky 1995 ). Thus, no
+noncanonical phenomena are expected for this type. Conversely, in languages with EO basic forms, there
+is a striking mismatch between the experiencer ’s properties and its morphosyntactic realization. Through
+higher order linguistic principles such as the cognitive salience of animate entities in discourse (Langacker
+1991, Rakison and Poulin -Dubois 2001), the low or “downgraded” (Bickel 2004) experiencer argument may
+be a ﬀorded syntactic prominence (e.g., through fronting, topicalization or privileged antecedenthood for
+anaphora), which may then give rise to synchronic noncanonical structures (see, e.g., Verhoeven 2015 ) or
+diachronic syntactic change (see, e.g., Seefranz -Montag 1983 ).
+The occurrence of this incipient mismatch is highly dependent on the stative reading of the psych verb
+in question, as an agentive reading will render the verb an action predicate and thus obviate noncanonical
+behavior (Arad 1998 , Landau 2010, Verhoeven 2010b ). In a sense, it appears then that alternants of basic
+EO forms compete, diachronically and in some languages synchronically, with a subset of the
+noncanonical structures. Operations such as the fronting of an oblique experiencer (cf. Verhoeven 2015,
+Temme and Verhoeven 2016 ) serve the same function as detransitivization, i.e., they resolve the con ﬂict
+arising from mismatched semantics and syntax by restoring prominence to the salient argument. However,
+this is a conjecture which awaits empirical substantiation from historical linguistics. The goal of the
+present study is to test whether our central observation (15) is borne out on a strictly synchronic level.
+Against this background, we do nonetheless expect psych properties to occur with verbs which do not
+conform to our de ﬁnition of the psych alternation as given in (7), most prominently those which license
+dative-marked experiencers (Landau 2010, Temme and Verhoeven 2016 ). It is the aim of the present
+contribution to work toward a better understanding of all of these points, reporting results from an
+ongoing large-scale study. The rest of this article is structured as follows: Section 2 gives a brief overview
+of the method developed for testing the above claims empirically. Section 3 discusses the results from the
+ﬁrst set of languages investigated and relates them to pertinent ﬁndings in the literature in order to
+address the questions laid out above. Section 4 concludes with a summary and an outlook on the
+following steps in this ongoing research.
+2 Method
+This section will brie ﬂy outline the cornerstones of our method. For a detailed discussion of the underlying
+rationale and its application, see Rott and Verhoeven (2019).
+2.1 Elicitation
+It is a well -known issue that comparative elicitation -based linguistic studies usually rely on translational
+tasks when gathering material in their target languages. While understandable from an economic
+perspective, it is highly problematic for highly culturally informed semantic ﬁelds such as emotion.
+English especially has undergone somewhat of a rei ﬁcation, despite the fact that its emotion vocabulary is
+as much a cultural artifact as that of any other language (Wierzbicka 1992 ). In order to circumvent this
+problem, we chose to operationalize ﬁndings from anthropological and psychological research. Johnson -
+Laird and Oatley (1989) identiﬁed ﬁve basic, broadly de ﬁned emotions which are predicated on abstract
+universal antecedent events, i.e., contingencies which every human can be assumed to encounter in their
+lifetime (see also Boucher and Brandt 1981, Ekman 1994, 1999, Hupka et al. 1999, Turner 2007 ). While
+these are referred to using English labels in Table 1, note that their de ﬁnitions are grounded in human
+social plans, representing junctures requiring a reaction.
+406  Julian A. Rott et al.
+[PDF PAGE 7]
+Based on these de ﬁnitions, we created simple scenarios with generic human referents and controlled
+for stimulus animacy. This yielded 5 × 2 = 10 scenarios such as the ones illustrated below, presented orally
+to consultants in a common language (English, German, or Spanish ):
+(16)( a) SADNESS, inanimate stimulus:
+A girl loses her favorite toy and is unable to ﬁnd it again.
+(b) FEAR, animate stimulus:
+A woman encounters a robber.
+Speakers were then asked to imagine the given situations in a native language context and to
+empathize with the character representing the experiencer. Finally, a series of questions designed to
+highlight di ﬀerent parametric aspects of the target emotion (e.g., intensity, onset, social appraisal; cf.
+Johnson-Laird and Oatley 1989 ) were asked in order to facilitate broad lexical retrieval. Speakers provided
+verbs which they considered adequate descriptions of the situations in citation form as well as in
+naturalistic usage in simple declarative sentences. In order to elicit verbal alternations, consultants were
+also required to invert the structure of the latter, e.g., by rephrasing with a focus on the object of the
+original sentence. Additional information about distributive restrictions (e.g., stimulus animacy, register )
+as well as transparent interlexical relations were also recorded.
+2.2 Sample and morphosyntactic analysis
+The areal dispersal of valence orientation as identi ﬁed by Nichols et al. (2004) bears directly on our central
+observation in (15). We therefore based our study on a convenience sample of eight typologically and
+genetically diverse languages from seven language families and four di ﬀerent linguistic macro areas, see
+(17). We chose languages that employ an array of di ﬀerent morphological strategies to achieve the psych
+alternation, see (11) and Table 2. Research on noncanonical behavior in the psych domain is available for
+all languages except Bété (17h).
+(17)( a) Icelandic (Germanic, Europe )
+(b) Spanish (Romance, Europe )
+(c) Korean (Isolate, Asia )
+(d) Chinese (Sino-Tibetan, Asia )
+(e) Yucatec Maya (Mayan, America )
+(f) Turkish (Turkic, Asia )
+(g) Finnish (Finno-Ugric, Europe )
+(h) Bété (Niger-Congo, Africa )
+We worked with one native speaker per language, gathering material across multiple sessions. Upon
+completion of the elicitation, we identi ﬁed pairs conforming to the criteria for the psych alternation as
+given in (7) and coded the respective associated data points for morphological and syntactic patterns,
+Table 1: Basic emotion modes and universal antecedent events
+Emotion Universal antecedent events English examples
+HAPPINESS Subgoals being achieved delight, please, amuse, interest, enjoy
+SADNESS Failure of major plan or loss of active goal sadden, mourn, depress, bore
+ANGER Active plan obstructed annoy, anger, hate, frustrate
+FEAR Self-preservation goal threatened fear, frighten, worry, scare, dread
+DISGUST Gustatory goal violated disgust, nauseate, o ﬀend, appall
+Valence orientation and psych properties  407
+[PDF PAGE 8]
+yielding a crosslinguistic database of alternating psych predicates which will form the core piece of the
+remainder of the present discussion.
+3 Results and discussion
+3.1 Overview
+The distribution of base orientation in our sample is summarized in Table 2 . A number of important
+observations are to be made here. Perhaps most strikingly, Bété was found to altogether lack structures
+which qualify as psych alternation according to the de ﬁnition in (7). This, however, does not mean that
+Bété does not exhibit alternating psych structures at all – we will return to this issue at the end of this
+section.
+For the languages in our sample which do conform to (7), the geographic patterns of the predominant
+strategies are in line with Nichols et al. ’s (2004) observation for valence orientation in general.
+Detransitivization (i.e., a majority of EO basic forms ) was found to be globally rare, with the critical
+exception of the Indo -European phylum. Both detransitivizing languages in the sample are Indo -European
+languages, while those with a preference for transitivization are found outside of Europe.² Moreover,
+Nichols et al. (2004) observed for their class of animate verbs (which encompasses experiential predicates
+because they by de ﬁnition select for a sentient, and thus animate, participant ) that languages with a
+propensity to detransitivize will disfavor causative derivations. This is also borne out, as the overview of
+morphological means in Table 2 shows: across Icelandic and Spanish, where re ﬂexivization and middle
+voice formation prevail, only a single pair with an ES basic form is attested. By applying the classi ﬁcation
+in (10) to our set of languages in (17), we arrive at the distribution in Figure 1.
+Since the sample includes languages with a clear valence orientation (Icelandic, Spanish, Korean,
+Chinese, and Yucatec Maya ) as well as less clear cases (Turkish and Finnish ), it represents an interesting
+testing ground for our central observation as stated in (15). Before discussing individual languages, we
+need to address one caveat: the crosslinguistic study of noncanonical phenomena is notoriously di ﬃcult,
+because noncanonicity is language -speciﬁcb yd e ﬁnition. It is construed as deviations from what is
+unmarked in a given language ’s grammar, chie ﬂy its syntax (see, e.g., Belletti and Rizzi 1988 , Pesetsky
+1995, Bayer 2004, Landau 2010 ). The uniting feature, as mentioned in the introduction, is the alignment of
+Table 2: Distribution of basic form orientation in sample
+Language Bases total ES EO Underspeci ﬁed Most frequent strategies
+Icelandic 27 1 25 1 middle voice, re ﬂexive
+Spanish 118 0 118 0 re ﬂexive
+Korean 57 55 0 2 causative
+Chinese 93 91 2 0 causative, passive, conversion
+Yucatec 17 16 0 1 causative, factitive
+Turkish 63 44 8 11 causative, passive, aux. change
+Finnish 60 30 20 10 causative, inchoative
+Bété 0 0 0 0 N/A
+
+2 Seeing as the sample in (17) consists largely of well -described languages, this may perhaps not be surprising in and of itself.
+However, it conﬁrms that the relatively novel empirical approach taken in this study does indeed target the structures of psych
+verbs in the desired manner and is thus suited for further inquiry into the domain. An analysis of a more extensive sample can
+be found in Rott et al. (2020).
+408  Julian A. Rott et al.
+[PDF PAGE 9]
+syntactic and semantic prominence in the experiencer argument. How this plays out, though, is dependent
+on the means and constraints set by the typological properties of a language. Hence, it is di ﬃcult to
+identify and operationalize a homogeneous set of phenomena which one would predict to ﬁnd in every
+language that aligns with our central observation (15). This will become clear in the following account.
+3.2 Valence orientation and psych properties in the sample languages
+As mentioned previously, Icelandic and Spanish are two clear cases of a detransitivizing psych domain.
+This coincides with the robust psych properties found for both languages within and outside of the psych
+alternation. As seen in (12b), there is a restriction on psych passives in Icelandic in EO alternants. Further,
+the language is arguably infamous for its unmarked structures with oblique arguments (most commonly in
+accusative and dative case ), as illustrated in (18).
+(18)( a) Eirík dreym -di krúttleg -an kött.
+Eric:ACC dream-PST.3.SG cute-ACC cat:ACC
+“Eric dreamed of a cute cat. ”
+(b) Önn-u blöskra -ði (bjórverð-ið).
+Anna-DAT be.appalled-PST.3.SG (beer.price:NOM-DEF)
+“Anna was appalled (by the beer price ).”
+Numerous studies have shown that the oblique arguments in constructions such as those in (18) pass
+all kinds of subjecthood tests and behave unlike objects with identical case marking (see, e.g., Höskuldur
+Þráinsson 1979 , Zaenen et al. 1985, Halldór Ármann Sigurðsson 2004 ). More recently, an ongoing
+morphosyntactic change known as þágufallssýki “dative sickness” or þágufallshneigð “dative inclination ”
+has begun to single out the subject -like obliques of psych verbs (Ásta Svavarsdóttir 1982, Smith 1994,
+Jóhanna Barðdal 2011 ),a ﬀecting accusative experiencers and turning them into datives³ (Jóhannes Gísli
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+%ES %EO %Underspecified
+Icelandic Spanish Korean Chinese Yucatec
+Maya
+Turkish Finish
+Figure 1: Distribution of basic forms in sample (n = 435).
+
+3 The argument is also occasionally attested with accusative marking (Þórhallur Eyþórsson 2000 ).
+Valence orientation and psych properties  409
+[PDF PAGE 10]
+Jónsson and Þórhallur Eyþórsson 2003 ). Speakers who manifest this phenomenon will produce (19)
+for (18a).
+(19) Eirík-i dreym -di krúttleg -an kött.
+Eric-DAT dream-PST.3.SG cute-ACC cat:ACC
+“Eric dreamed of a cute cat. ”
+Even a few isolated ES verbs may be a ﬀected by this change for some speakers who will realize the
+canonical nominative experiencer argument in (20a) as a dative (20b):
+(20)( a) Helg-a hlakk -ar til tónleik -a-nna.
+Helga-NOM look.forward-PRS.3.SG to concert -GEN-DEF
+“Helga is looking forward to the concert. ”
+(b) Helg-u hlakk -ar til tónleik -a-nna.
+Helga-DAT look.forward-PRS.3.SG to concert -GEN-DEF
+“idem.”
+Icelandic also has subject -like obliques which lack any clear psych meaning. These typically denote
+nonagentive themes. Crucially however, these are never a ﬀected by þágufallshneigð but may acquire
+structural nominative case instead (Þórhallur Eyþórsson 2000 :2 8 ). This is shown in (21).
+(21)( a) Bát-inn rak að land -i.
+boat:ACC-DEF drift:PST.3.SG at land -DAT
+“The boat drifted ashore. ”
+(b) Bát-ur-inn rak að land -i.
+boat-NOM-DEF drift:PST.3.SG at land -DAT
+“idem.”
+(c) *Bát-num rak að land -i.
+boat-DAT-DEF drift:PST.3.SG at land -DAT
+“idem.”
+This further attests to the special status of experiential arguments in the Icelandic system and the
+impact this category has on syntax.
+Similarly, Spanish shows case variation in pronominal clitics which alternate between accusative and
+dative marking when used with psych verbs (Vázquez Rozas 2006 , Fábregas et al. 2017 ), giving rise to a
+systematic link between basic EO alternants and forms outside the alternation. Accusative clitics are
+correlated with an eventive interpretation, whereas the use of dative clitics oblige a stative reading. As
+illustrated in (22), the choice of case in turn has a direct e ﬀect on the markedness of domain -speciﬁc word
+order patterns, facilitating the occurrence of oblique -ﬁrst structures with dative experiencers (see, e.g.,
+Jiménez-Fernández and Rozwadowska 2016 ), a structure which can only be licensed pragmatically for
+accusatives.
+(22)( a) Sofía (lo) diviert-e a Nicolás.
+Sophie (CL.ACC) entertain-PRS.3.SG to Nicholas
+“Sophie entertains Nicholas. ”
+(b) A Nicolás le diviert -e Sofía
+to Nicholas CL.DAT entertain-PRS.3.SG Sophie
+“Sophie entertains Nicholas. ”
+Moreover, Spanish exhibits noncanonical behavior in binding, extraction, and passive constructions
+both within and outside the psych alternation (Franco 1990 , Marín 2014, Marín 2015 ).
+410  Julian A. Rott et al.
+[PDF PAGE 11]
+In contrast, the psych domains of Chinese, Korean, and Yucatec Maya are highly transitivizing. The
+unrestricted availability of forward binding in Chinese EO verbs was already demonstrated in (13a). The
+behavior of the psych domain in this language was further investigated by Verhoeven (2010a) who showed
+that psych verbs do not di ﬀer from canonical transitives with regard to properties of lexical aspect, passive
+formation, nor binding of re ﬂexives and reciprocals. It must be noted that Chinese has been shown to
+exhibit backward binding (Cheung and Larson 2015 ). Structures such as those in (23), which is based on
+Cheung and Larson (2015, 130 ), may be considered problematic for our claim.
+(23)( a) 自己的支持者的背叛激怒了丽思。
+zìjǐi de zh īchízhě de bèipàn j īnù-le Lìs īi.
+self ATTR supporter ATTR betrayal infuriate -PFV Lisi
+“Selfi’s supporter ’s betrayal infuriated Lisi i.”
+(b) 自己的支持者的背叛激怒了每个候选人。
+zìjǐi de zh īchízhě de bèipàn j īnù-le m ěigè hòuxu ǎnréni.
+self ATTR supporter ATTR betrayal infuriate -PFV every candidate
+“Selfi’s supporter ’s betrayal infuriated every candidate i.”
+However, the status of this phenomenon as a valid psych property has been questioned, as it may
+rather be attributable to pragmatic e ﬀects of logophoricity and givenness (Haspelmath 2001a, Bickel 2004,
+Landau 2010 ). Structures such as (23) thus do not pose a clear counterexample to our claim.
+For Korean, evidence is somewhat scarcer. Verhoeven (2008) shows that EO verbs behave canonically
+in terms of passivization, topic marking, and word order. Temme and Verhoeven (2016) substantiate this
+last observation with experimental evidence. Following analyses by Ki -Seong Park (1993) and Shibatani
+and Chung (2001), we propose that the canonicity of these constructions can likely be attributed to the
+semantics of the causative light verb - 게 하다-key hata “do”, as shown in (24) from our own data.
+(24)( a) 동생은 (형이) 원망스러웠다.
+tongsayng-un (hyeng-i) wenmang-sulew-ess-ta.
+younger.brother-TOP (older.brother-NOM) resentful-ADJR-PST-DECL
+“The younger brother was resentful (of his older brother ).”
+(b) 형은 동생을 원망스럽게 한다.
+hyeng-un tongsayng -ul wenmang -sulep-key ha -n-ta.
+older.brother-TOP younger.brother-ACC resentful-ADJ-ADVR do-PRS-DECL
+“The older brother makes his younger brother feel resentful. ”
+This means of causativization can be construed as an agentive predicate and thus favors an agent
+subject (see also Fritz -Huechante et al. 2020 ).
+Evidence for canonical psych -verb behavior in Yucatec Maya parallels that for Chinese and Korean
+(Verhoeven 2010b : 220 ﬀ). Passive formation is completely regular with transitive EO verbs (Verhoeven
+2007: 249). These verbs also regularly allow forward binding, in parallel to example (13a) from Chinese, as
+shown in (25)( Verhoeven 2007: 256 ). Moreover, there are no noncanonical linearization preferences with
+transitive EO verbs. ⁴
+(25)( a) Juan yéetel Pedro k -u p'u'uj -s-ik u báaj -o'ob.
+Juan and Pedro IPFV-SBJ.3 get.mad -CAUS-INCMPL POSS .3 self -PL
+“Juan and Pedro annoy each other. ” (Verhoeven 2007 , 256, ex. 298c )
+(b) Teen-e' chéen táan in ki'imak -kuns-ik in w -óol.
+me-TOP just PROG SBJ .1.SG happy-FACT-INCMPL POSS .1.SG Ø -mind
+
+4 For a comprehensive discussion of putative psych properties in Yucatec Maya, see Verhoeven (2007, ch. 6 ).
+Valence orientation and psych properties  411
+[PDF PAGE 12]
+“I am just entertaining myself ”
+Lit.: “I am just making my mind happy. ” (Verhoeven 2007 : 256, ex. 297b )
+Example (25b) illustrates an instance of a psych construction recurrent in Yucatec Maya but not
+(systematically) present in the other languages of our sample, with the exception of Bété, which will be
+discussed in Section 3.3 . It is best described in terms of Matiso ﬀ’s (1986) psi-collocations, which are very
+common in languages of Africa, South East Asia, and South America (cf. e.g., Craig 1977, McElhanon 1977,
+Ameka 1990, Bugenhagen 1990 ). It consists of a psycho-mate, i.e., a verb or adjective, and a psycho-noun
+which represents the experiential locus, usually a body part. The latter is possessed by the experiencer,
+i.e., the experiencer does not ﬁgure as a direct dependent of the psych predicate but rather is encoded as a
+possessor of the body part noun. Hence, with these structures, the alternating entity is not the experiencer,
+as in the cases presented in (11), but rather the body part noun phrase (NP). The alternation is shown in
+(26) with data we obtained using the method introduced in Section 2.1.
+(26)( a) Le máak -o' ki'imak u y -óol yéetel le tsikbal -o'.
+DEF person-D2 happy POSS.3 Ø-mind with DEF story-D2
+“The man (lit.: the man ’s mind ) is happy with the story. ”
+(b) Le tsikbal -o' t -u ki'imak -kuns-aj u y -óol le máak -o'.
+DEF story-D2 PFV-SBJ.3 happy -FACT-CMPL POSS .3 Ø-mind DEF person-D2
+“The story made the man (lit.: the man ’s mind ) happy.”
+Most importantly for the present discussion, the possessor experiencer does not exhibit noncanonical
+syntactic properties, di ﬀerently from what has been shown for possessor experiencers in other languages
+(Bickel 1997 , Bickel 2004 on Tibeto -Burman languages ).
+The Turkish patterns are somewhat more heterogeneous, although the majority of basic forms is ES.
+The second largest group is formed by underspeci ﬁed bases whose linking is rendered via auxiliary
+change. This is achieved via embedding under the light verbs olmak “be” for the ES alternant and etmek
+“do” for the EO alternant, as shown in (27). In a few items, univerbation with the light verb has created
+double-deriving pairs. The resulting alternation is illustrated in (28).
+(27)( a) Adam ses -ten tedirgin ol -ur.
+man noise -ABL worried be -PRS
+“The man feels uneasy about the noise. ”
+(b) Ses adam -ı tedirgin ed -er.
+noise man -ACC worried do -PRS
+“The noise worries the man. ”
+(28)( a) Kız oyunca ğ-ın-ın kaybolma -sın-a kahr -ol-ur.
+girl toy -POSS.3.SG-GEN loss-POSS.3.SG-DAT sorrow-be-PRS
+“The girl is upset due to the loss of her toy. ”
+(b) Oyuncağ-ın-ın kaybolma -sı kız-ı kahr-ed-er.
+toy-POSS.3.SG-GEN loss-POSS.3.SG girl-ACC sorrow-do-PRS
+“The loss of her toy upsets the girl. ”
+In terms of psych properties, research points toward canonical patterns in the domain (Kutscher 2009,
+Özsoy 2009, Verhoeven 2010b, 2014 ).
+So far, the patterns of these two groups are in line with our observation in (15). Finnish presents a
+more complex case, as its basic forms are distributed across the di ﬀerent orientations, with ES basic forms
+being around 1.5 times as frequent as EO basic forms as well as a substantial subset of pairs originating
+from double derivation. It thus embodies the entire range of the valence orientation classi ﬁcation in (10),
+making it a touchstone for our central observation as given in (15). Examples of the derivational relations
+attested in our sample are given in (29).
+412  Julian A. Rott et al.
+[PDF PAGE 13]
+(29)( a) Transitivizing
+E häpeä-ä S → S häve-ttä-ä E
+E shame -3.SG E → S shame -CAUS-3.SG E
+“E is ashamed about S ”“ S makes E ashamed ”
+E hätä-änty-y S-stA⁵ → S hätä-änny-ttä-ä E
+E alarm -INCH-3.SG S-ELA → S alarm -INCH-CAUS-3.SG E
+“E gets alarmed about S ”“ S alarms E ”
+(b) Detransitivizing
+S pettä-ä E → E pett-y-y S-stA
+S disappoint -3.SG E → E disappoint -INCH-3.SG S-ELA
+“S disappoints E ”“ E is disappointed in S ”
+S helpo-tta-a E → E helpo-tt-u-u S-stA
+S easy -CAUS-3.SG E → E easy -CAUS-INCH-3.SG S-ELA
+“S relieves E ”“ E is relieved about S ”
+S kiinno-sta-a E → E kiinno-st-u-u S-stA
+S interest -FACT-3.SG E → E interest -FACT-INCH-3.SG S-ELA
+“S makes E anxious ”“ E gets anxious about S ”
+(c) Double deriving
+E ärsy-ynty-y S-stA ↔ S ärsy-ttä-ä E
+E irritate -INCH-3.SG S-ELA ↔ S irritate -CAUS-3.SG E
+“E gets irritated by S ”“ S irritates E ”
+We found that some verbs even participate in multiple strategies, forming multiple alternating pairs
+with one shared form. This is illustrated in (30) for the detransitivizing pair innostaa “excite” ∼ innostua
+“get excited ”, which coexists with the transitivizing pair innostua “get excited ” ∼ innostuttaa “make get
+excited”.
+(30)( a) Satu inno -sta-a mies -tä
+fairy.tale:NOM zeal-FACT-3.SG man-PTV
+“The fairy tale excites the man. ”
+(b) Mies inno -st-u-u (sadu-sta).
+man:NOM zeal-FACT-INCH-3.SG (fairy.tale-ELA)
+“The man gets excited (about the fairy tale ).”
+(c) Satu inno -st-u-tta-a mies -tä.
+fairy.tale:NOM zeal-FACT-INCH-CAUS-3.SG man-PTV
+“The fairy tale makes the man get excited. ”
+Note however that (30) does not entail that the relationships laid out here are mere artifacts of our
+method. As we illustrate in (31), the most basic forms only license a binary alternation whose derivational
+directionality is not predictable from the morphology of an individual alternant.
+(31)( a) inno-sta-a : inno-st-u-a : inno-st-u-tta-a
+zeal-FACT-INF zeal-FACT-INCH-INF zeal-FACT-INCH-CAUS-INF
+“excite”“ get excited ”“ make get excited ”
+(b) ahdi-sta-a : ahdi-st-u-a : *ahdi-st-u-tta-a
+anxious-FACT-INF anxious-FACT-INCH-INF *anxious-FACT-INCH-CAUS-INF
+“make anxious ”“ get anxious ” N/A
+
+5 Finnish exhibits vowel harmony in bound morphemes. Capital letters are used to generalize over all variants of a given a ﬃx,
+e.g., -stA resolves to -sta or -stä depending on the stem.
+Valence orientation and psych properties  413
+[PDF PAGE 14]
+(c) *hermo-sta-a : hermo-st-u-a : hermo-st-u-tta-a
+*nerve-FACT-INF nerve-FACT-INCH-INF nerve-FACT-INCH-CAUS-INF
+N/A “get nervous ”“ make nervous ”
+Interestingly, multiple valency orientation in the Finnish psych domain coincides with divided
+opinions on noncanonical psych -behavior in the literature. In light of the prominence -based motivation
+for the observation in (15), a priori one might expect psych properties to only occur within the set of EO
+basic forms, since both ES basic forms and double -deriving forms should have a clear, overtly marked
+functional allocation. Starting with our own elicited data, we ﬁnd structural alternations such as those in
+(32) where the nonnominative experiencer can unmarkedly occur in subject position, while the stimulus is
+facultative.
+(32)( a) Ystävä-n näkeminen inno -sta-a nais -ta.
+friend-GEN seeing:NOM zeal-FACT-3.SG woman-PTV
+“Seeing the friend excites the woman. ”
+(b) Nais-ta inno -sta-a (ystävä-n näkeminen ).
+woman-PTV zeal-FACT-3.SG (friend-GEN seeing:NOM)
+“The woman is excited (about seeing the friend ).”
+Notably, according to our consultant, inversions such as (32b) are only available with inanimate and
+abstract stimuli. Clearly a noncanonical property, such partitive -initial structures are widely recognized in
+Finnish linguistics and are even referred to as “experiencer constructions ” (see, e.g., Siiroinen 2005 ).
+However, our data show that while it is not entirely unrestricted, this inversion is found in EO basic forms,
+causativized ES basic forms as well as doubly derived EO forms, contra our expectations. We will return to
+this issue shortly. In the literature, Landau (2010) cites Finnish as one example of a language with
+noncanonical restrictions on passivization in stative psych verbs, although he only gives a few examples
+and does not explicate whether there is any interaction with the derivational makeup of the individual
+verbs. He concludes that these psych verbs must be unaccusative. However, Finnish passives do not
+straightforwardly compare to Indo -European structures despite super ﬁcial similarities, di ﬀering in a
+number of crucial respects. The most important di ﬀerence is the fact that the underlying operation in
+Finnish passivization is one of argument suppression, while in Indo -European passivization, it is one of
+argument promotion (see, e.g., Shore 1988, Sakuma 2013 ). Consequently, Finnish passives are freely
+formed of predicates which have traditionally been classi ﬁed as unaccusatives as well as copulas and thus
+cannot serve as a diagnostic in this regard (see Shore 1988 ). Nelson (1999) acknowledges this complication
+and evokes aspect and event structure to explain the exceptional linking properties and unaccusative
+behavior observed for causative EO verbs, i.e., verbs overtly derived from ES basic forms (see also
+Pylkkänen 2000). Depending on how these results are interpreted, this may be problematic for the central
+observation (15), or at least suggest that for some languages with substantial heterogeneity in the psych
+domain, the availability of stative readings may expand from the set of EO basic forms to derived EO
+forms, yielding “psych causatives ”, seemingly creating a violation of the functional motivation given
+above for our proposed functional correlation (Pylkkänen 2000 ). Seeing as Finnish causatives outside of
+the psych domain seem to be typical representatives of this crosslinguistic category (cf. Brattico et al.
+2007), this is especially surprising. However, at present, the exact impact of the derivational structure
+within the Finnish psych alternation on the (non-)canonical behavior has not been investigated
+systematically. Seeing as (15) was borne out for all other languages in our sample which showed a psych
+alternation, this is a crucial issue which needs to be studied in more detail.
+Lastly, it is worth noting that both Nelson (1999) and Pylkkänen (2000) set up a four -way classiﬁcation
+of the Finnish psych domain, focusing on pure states, inchoatives (i.e., ES verbs ), and their respective EO
+causativizations (see also Siiroinen 1998 ), while our ﬁndings as summarized in (29)–(31) indicate that the
+situation is actually more complex than that, given the multitude of directed and nondirected derivational
+relations which hold among Finnish psych verbs.
+414  Julian A. Rott et al.
+[PDF PAGE 15]
+3.3 The case of Bété
+Let us now return to the seemingly exceptional case of Bété. Following Zogbo (1981:7 2 –7) and Koopman
+(1984, ch. 2 ), Bété has causative morphology and middle voice morphology. Both of these devices are
+frequently employed in the psych alternation by other languages (cf. the examples in (11) and the
+summary of our sample in Table 2 ). Bété ’s failure to evince a psych alternation is thus not due to a
+complete lack of alternating expressions. Yet no pairs in our data satisfy criterion (7d) of the psych
+alternation, since they all violate the required inclusion of the stimulus as an argument. Another crucial
+diﬀerence from the alternations found in cases such as those shown in (11) is that, although structural
+alternations are formed, the experiencer appears to remain in the same or similar syntactic position across
+alternants, i.e., criterion (7b) requiring an ES ∼ EO alternation is not satis ﬁed. Our proposal is that both of
+these observations are epiphenomena of the overall structure of the psych domain in this language: Bété
+lexicalizes psych meanings as complex constructions, unlike most other languages in our sample save for
+Yucatec Maya. Judging from our data, Bété constructions seem to fall into two major types, which we will
+refer to as types A and B. Both have the same basic makeup schematized in (33).
+(33) N + V + Experiencer
+Type A constructions, illustrated in (34)–(35), closely resemble Bouchard ’s (1995) nonincorporated
+psych verbs .
+(34)( a) Jʊ́rʊ́ jɛ́ cɩ̋ce̋jī sɪ̄ɓā (dàgű ka̋dɔ̄ ɔ́ jɛ́).
+anger PFV little.one sting (brother big POSS reason)
+“The little brother is enraged (because of the big brother ).”
+Lit.: “Anger stings the little brother (because of the big brother ).”
+(b) Dàgú ka ̋dɔ jɛ́ cɩ̋ce̋jī jʊ́rʊ́ sɪ̄ɓ-à.
+brother big PFV little.one anger sting -CAUS
+“The big brother has enraged the little brother. ”
+Lit.: “The big brother has made anger sting the little brother. ”
+(35)( a) Wɩ̋ɲɔ̄ jɛ́ ŋɔ̋nɔ̋ ŋānɔ̄wʊ̋ súrú.⁶
+robber PFV woman fear onto pour
+“The robber has scared the woman. ”
+Lit.: “The robber has poured fear onto the woman. ”
+(b) Ŋānɔ̄ jɛ́ ŋɔ̋nɔ̋ wʊ̋ sűr-ó.
+fear PFV woman onto pour -MID
+“The woman was scared. ”
+Lit.: “Fear has poured onto the woman. ”
+In terms of the schema in (33), they can be analyzed as follows: the nominal component N renders the
+semantic core of the predicate, i.e., the emotion itself, e.g., mʊ̋ná “joy”, jʊ́rʊ́“anger”, ŋwa̋nɪ́“happiness”,
+ŋāzɪ̄“pity”, ŋānɔ̄“fear”, and ŋāzɪ̄“pity” (see also Verhoeven 2007 :5 1 –4). The verbal component V is a
+semantically bleached light verb, e.g., sɪ̄ɓā “sting”, p(ʉ̄)lā “penetrate”, wʊ̋súrú “pour onto”, mʉ̋pálɪ́“put
+into”,a n d lɪ̋ɓa̋“hit”. In fact, we found that many of these light verbs combine with a multitude of di ﬀerent
+emotion nouns. Derivational directionality is lexically determined and follows from the choice of light verb.
+In alternants such as (34a) and (35b), the emotion noun takes the subject role. Crucially, the experiencer
+argument is then encoded as the object of the light verb. In (34a), the only felicitous way to specify the
+stimulus is via a free adjunct introduced by the equivalent of English “because”, while in middle
+
+6 Note that wʊ̋ súrú is a particle verb (see Koopman 1984 :4 8 –53). Particle verbs are frequent in the psych domain, which
+means that the psycho -noun is not part of a postpositional phrase in such constructions.
+Valence orientation and psych properties  415
+[PDF PAGE 16]
+constructions such as (35b), there is no structural option to include the stimulus (cf. Koopman 1984: 22f ).
+Note that type A expressions already have a dyadic structure prior to the inclusion of the stimulus. When a
+stimulus is added as in (34b), a causative form of the transitive light verb is used. The stimulus is rendered
+as a causer subject while the emotion component becomes the causee, the result being a double -object
+construction.⁷ Conversely, the stimulus is present in the underived alternant (35a), which also gives rise to a
+double-object construction. It is then removed via middle voice morphology. The important observation for
+our analysis is that the experiencer remains in an object position across the alternants. ⁸ In addition to
+causativization, Bété employs another double -object construction, achieved through applicative formation
+when adding a stimulus to the schema in (33), as illustrated in (36).E x a m p l e(36a) is parallel to (34a) in
+featuring a transitive light verb lɪ̋ɓa̋“hit”, an emotion noun in subject function and the experiencer as a
+(direct) object. In (36b) an applicative construction is used: the stimulus appears in the subject position,
+while the emotion component is rendered as an applied object in instrumental function (cf. Zogbo 1981:
+74–5).⁹ Crucially for our analysis, again the experiencer remains in an object position.
+(36)( a) Ŋāzɪ̄=ɛ̀ gű lɪ̋ɓa̋ le̋.
+pity=PROG child hit PROG
+“The child is sad. ”
+Lit.: “Pity is hitting the child. ”
+(b) Gbʊ́ jɛ́ gűŋ ā zɪ̄ lɪ̋ɓa̋-nɪ̄.
+problem PFV child pity hit -APPL
+“The problem made the child sad. ”
+Lit.: “The problem is hitting the child with pity. ”
+The three types of alternations(subsumed here as type A constructions) diﬀer structurally from the pattern
+observed in languages such as those shown in(11), because the experiencer is always low in the structure, being
+coded as an object. What alternates is the emotion, i.e., the nominal component N from (33). This means that
+type A constructions fail another criterion for the psych alternation in addition to (7d) stimulus inclusion,
+namely,(7b) the requirement for an ES∼ EO interchange. Since the central observation(15) is predicated on this
+deﬁnition, it does not transfer straightforwardly to type Aexpressions. Hence, such constructions in Bété, and
+likely other languages with similar patterns, present an altogether diﬀerent dimension of variation as regards
+structural alternations in the psych domain (s e ea l s oR o t te ta l .2 0 2 0) which cannot be classiﬁed as a psych
+alternation. However, the mechanisms underlying(15) should hold regardless, since they are independently
+motivated. The experiencer in type A is downgraded across the board, which suggests that noncanonical
+phenomena could develop or may be found, given furth er study. Their occurrence, however, should not be
+correlated with the morphological strategies employed to create the alternants. Rather, they should apply
+consistently in accordance with the downgraded status of the experiencer.
+Type B, shown in (38)–(39), is structurally similar to the “psi-collocations” found in the Yucatec Maya
+data (see (26)).
+(37)( a) Cɩ̋ce̋jí é dr ɪ́=ɛ̀ ɟírí le ̋.
+little.one POSS heart=PROG cook PROG
+“The little brother is annoyed. ”
+
+7 Note that Bété does not have overt case marking. Following Koopman (1984:2 9), object order is relatively free, so that it is
+diﬃcult to determine more speci ﬁc object types based on surface order.
+8 For our present purposes, the crucial question is the variation between a subject vs. object realization of the experiencer
+across the alternants (see criterion (7b) of the psych alternation ). Therefore, at this point, we refrain from a further analysis of
+the exact syntactic properties of the two internal arguments and a potential object shift that the experiencer might undergo in
+the alternation.
+9 In Bété, applicative verbs can add instrumentals, locatives, or bene ﬁciary/goals as internal arguments (Koopman
+1984:2 3 –4).
+416  Julian A. Rott et al.
+[PDF PAGE 17]
+Lit.: “The little brother ’s heart is cooking. ”
+(b) Dàgú ka ̋dɔ̄=ɔ̀ cɩ̋ce̋jí é dr ɪ́ ɟīrī-àl e ̋.
+brother big =PROG little.one POSS heart cook -CAUS PROG
+“The big brother is annoying the little brother. ”
+Lit.: “The big brother is making the little brother ’s heart cook. ”
+(38)( a) Nɪ́kpɛ̄ jɛ́ ŋɔ̋nɔ̋ ód r ɪ́ wʊ́ ɟʊ́rà.¹⁰
+man PFV woman POSS heart onto disgust
+“The man has disgusted the woman (lit.: the woman ’s heart ).”
+(b) Ŋɔ̋nɔ́ ód r ɪ́=ɛ̀ wʊ̋ ɟʊ́r-ɔ̄ le̋.
+woman POSS heart=PROG onto disgust -MID PROG
+“The woman (lit.: the woman ’s heart ) is disgusted. ”
+It places the semantic burden on the psycho -mate, i.e., the verbal component V in (33), which surfaces
+as a metaphorically loaded action predicate such as ɟírí “cook”, sī “burn”, and mà dó “cut o ﬀ”. The
+construction is then shifted into the psych domain by means of the nominal component N in (33), which is a
+typical psycho-noun such as dīgbə “heart ∼ soul” or drɪ́“heart”. Other body parts are also found with certain
+speciﬁcp s y c h o-mates, forming highly lexicalized collocations. According to our ﬁndings, the experiencer is
+most commonly realized as a possessive attribute to the NP headed by the psycho -noun, as in (37)–(38)( cf.
+Bickel 1997,B i c k e l2 0 0 4). The inclusion or the suppression of the stimulus is achieved through the same
+structures as introduced for type A in (34)–(35), namely, causativization and middle formation with the
+psycho-noun being the head of the NP alternating between subject and object function. Apart from the
+possessor experiencer structures, we also frequently found forms such as (39) in which the experiencer and
+the psycho-noun coexist without any overt possessive marking.¹¹ We propose that the experiencer in(39) is a
+dative-like verbal dependent of the external possessor type (cf. Payne and Barshi 1999, Lehmann et al. 2000:
+55–6, Deal 2017 ). Causativization of the verb in (39b) allows the stimulus to be added as a causer subject,
+while the psycho -noun becomes the causee in the resulting double -object construction.
+(39)( a) Ŋɨ́ní j ɛ́ gű mʉ̄nā.
+inside.of.mouth PFV child dry.out
+“The child is perplexed. ”
+Lit.: “The inside of the mouth has dried out on the child. ”
+(b) Gbʊ́ jɛ́ gűŋ ɨ́ní m ʉ̄n-à.
+problem PFV child inside.of.mouth dry.out -CAUS
+“The problem has perplexed the child. ”
+Lit.: “The problem has dried out the inside of the mouth on the child. ”
+Some further support for the object status of the experiencer is provided by applicative morphology
+variants which we found for some overt possessor structures such as (40).E x a m p l e(41a) shows its
+applicative variant, where the experiencer is licensed as an internal argument in goal function by the
+applicative suﬃx on the verb (cf. Zogbo 1981:7 4 ,K o o p m a n1 9 8 4 :2 3–4). The example in (41b) shows that the
+stimulus can be added as a subject which again results in a double -object construction, parallel to (39b).
+(40) Gű ó kwa ̋ jɛ́ jā tīrī.¹²
+child POSS bone PFV by die
+
+10 According to our consultant, this verb is only used in this collocation and has lost its nonpsych meaning, making this a
+noncompositional collocation in the sense of Bickel (1997). It is possible that it represents a lexicalized causative form of an
+obsolete lexeme. Such developments are common in complex psycho -collocations (see also Verhoeven 2007: ch. 3 ).
+11 According to our consultant, examples such as (40) can also be rendered by structures with overt possessive marking (like
+in (38)), although this form is considered more stylistically marked.
+12 The meaning of this particle verb is along the lines of “weaken”.
+Valence orientation and psych properties  417
+[PDF PAGE 18]
+“The child is discouraged. ”
+Lit.: “The child ’s bone has weakened. ”
+(41)( a) Kwa̋ jɛ́ gű jā tɪ̄rɪ̄-nɪ̀.
+bone PFV child by die -APPL
+“The child is discouraged. ”
+Lit.: “The bone has weakened on the child. ”
+(b) Gbʊ́ jɛ́ gű kwa̋ jā tɪ̄rɪ̄-nɪ̀.
+problem PFV child bone by die -APPL
+“The problem has discouraged the child. ”
+Lit.: “The problem has made the bone die on the child. ”
+Note that in (41) the applicative occurs across both alternants. In this regard, type B expressions necessarily
+diﬀer from type A expressions such as (36), where the applicative contributes directly to the alternation.
+If our overall analysis is correct, type B expressions parallel type A as well as ourﬁndings for Yucatec Maya
+in that the pivot of the alternation is the nominal component N rather than the experiencer, which remains in a
+syntactically low position across alternants. Further, throughout all pairs given for type B, one alternant
+consistently lacks the means to include the stimulus as an argument(i.e., (37a), (38b), (39a), (40), (41a)).T h i s
+complete lack of a governed stimulus also sets these constructions apart from equivalents in Yucatec Maya such
+as (26a), where the stimulus argument is introduced by a preposition. A possible explanation which holds across
+both types A and B may be that Bété has an altogether diﬀerent cutoﬀ point on Verhoeven’s (2007) hierarchy for
+stimulus inclusion(see (6)). If true, this invites a reassessment of the stimulus inclusion criterion(7d),b e c a u s ea
+consistent lack of stimulus inclusion could be an independent typological feature. In contrast to type A
+expressions, the alternations with an o vert adnominal possessor experiencer in (37)–(38) can be taken as a
+variation of the ES ∼ EO pattern since the experiencer consistently occurs as a nominal dependent of the NP
+headed by the metonymically related psycho -noun, which does change its syntactic function across the
+alternants(see also Goossens 1989, Verhoeven 2007). This places type B at an interesting position regarding our
+central observation (15) about the correlation between valence orientation and noncanonical behavior. In
+Yucatec Maya, the lack of noncanonical structures is expected due to its highly transitivizing psych domain. Bété
+actually employs a mixture of morphological strategies similar to Finnish, which does show psych properties
+which transcend the derivational patterns. While this aspect of Bété has yet to be investigated, there is ample
+crosslinguistic evidence of the acquisition of syntactic prominence in possessor experiencers(Bickel 1997, 2004)
+as well as oblique experiencers (cf. e.g., Seefranz -Montag 1983, Haspelmath 2001a ). This suggests that
+noncanonical phenomena could potentially exist in Bété type B expressions as well.
+4 Conclusion and outlook
+In this article, we have put forward evidence that the morphosyntactic behavior of psych verbs is subject
+to typological variation with parameters that intersect with well -established factors such as valence
+orientation in the sense of Nichols et al. (2004) and areality, but whose unique patterns merit further
+investigation in their own right.
+It was shown that although a language like Bété may have the morphological means to form a general
+causative alternation, the internal structures arising from the particular lexicalizations in the psych
+domain may reshape these mechanisms for at least part of its domain (see Rott et al. 2020 ). This is
+especially relevant since “animate verbs” like psych verbs have been considered to represent a substantial
+fraction of verbs which exhibit alternations of this kind (cf. Nichols et al. 2004 ). In the interest of a
+typologically adequate theory of experiential constructions and the causative alternation in general, the
+psych domains of such languages need to be studied further.
+Moreover, we demonstrated that the canonicity of the psych domain in a given language may follow
+from the predominant derivational relations that hold between its exponents, given that such a tendency
+exists. Indeed, the behavior of languages which lack a clear preference is a highly relevant issue at the
+418  Julian A. Rott et al.
+[PDF PAGE 19]
+interface of concerns of syntactic theory and typology, as they may o ﬀer insights into the genesis and
+spread of noncanonical patterns in general. As stated in Section 1 , the results discussed in this work are
+part of a larger ongoing study. It follows that the sample used in the present analysis is subject to a
+number of restrictions. First, the sample is still biased for the European macro -area, and with the
+exception of Bété and Yucatec Maya, only well -researched languages were used. In particular, the
+detransitivizing languages both had close ties to the Standard Average European Sprachbund. Since the
+behavior of psych verbs in this language type is pivotal for the falsi ﬁcation of our central observation,
+further research on detransitivizing languages from other linguistic macroareas is essential. The sample
+also lacked a predominantly double -deriving language. It is as yet unclear how the neutral type as well as
+mixed types pattern with regard to the binary classi ﬁcation of languages exhibiting or lacking
+noncanonical phenomena. Bété type B expressions seem to be a particular fruitful testing ground,
+because they combine a mixture of derivational strategies with possessor or dative -like/goal experiencers.
+A next step thus needs to be the expansion of our data set to more typologically diverse languages as well
+as rigorous empirical testing of the canonicity of the domain within languages which present with
+unexpected patterns.
+Lastly, the classi ﬁcation of Finnish psych verbs as proposed in the literature was shown to only cover
+part of a more complex picture, underlining the bene ﬁt of using a broad range of empirical methods in
+crosslinguistic studies.
+Abbreviations
+Ø meaningless element
+1 ﬁrst person
+3 third person
+ACC accusative
+ABL ablative
+ACT active voice
+ADJR adjectivizer
+ADVR adverbializer
+APPL applicative
+ATTR attributive
+CAUS causative
+CMPL completive
+COM comitative
+DECL declarative
+CL clitic
+D2 second person deictic
+DAT dative
+DEF deﬁnite
+E experiencer
+ELA elative
+EO experiencer object
+ES experiencer subject
+FACT factitive
+GEN genitive
+HUM human
+INCH inchoative
+INCMPL incompletive
+IPFV imperfective
+Valence orientation and psych properties  419
+[PDF PAGE 20]
+LOC locative
+M masculine
+MID middle voice
+N/A not applicable
+NOM nominative
+PASS passive voice
+PFV perfective
+PL plural
+POSS possessive
+PROG progressive
+PRS present
+PST past
+PTV partitive
+REFL reﬂexive
+S stimulus
+SBJ subject
+SG singular
+TOP topic
+Acknowledgments: The authors would like to thank their native speaker consultants Amedee Colli Colli,
+Günışığı Zan Diemer, Enni Hartikainen, François Kipré Blé, Alba Rodríguez, Sólveig Thoroddsen
+Jónsdóttir, Dongcheol Son, and Jiangling Zhang for their insightfulness and patience during the elicitation
+process. This article is part of the project VE 570/1 -3 On the typology of the psych alternation in morphology,
+syntax and discourse , funded by the German Research Foundation (Deutsche Forschungsgemeinschaft ).
+References
+Alexiadou, Artemis, and Gianina Iord ăchioaia. 2014. “The psych causative alternation. ” Lingua 148: 53 –79.
+Alexiadou, Artemis, Elena Anagnostopoulou, and Florian Schäfer. 2006. “The properties of anticausatives cross -linguistically.”
+In Phases of Interpretation , ed. Mara Frascarelli, p. 187 –212. Berlin: Mouton de Gruyter.
+Ameka, Felix. 1990. “The grammatical packaging of experiencers in Ewe: a study in the semantics of syntax. ” Australian Journal
+of Linguistics 10: 139 –81.
+Arad, Maya. 1998. “Psych-notes.” UCL Working Papers in Linguistics 10: 1 –22.
+Bayer, Josef. 2004. “Non-nominative subjects in comparison. ” In Non-nominative Subjects, ed. Peri Bhaskararao and Karumuri
+Venkata Subbarao, vol. 1, p. 49 –76. Berlin and Philadelphia: John Benjamins.
+Belletti, Adriana, and Luigi Rizzi. 1988. “Psych verbs and θ-theory.” Natural Language and Linguistic Theory 6: 291 –352.
+Bickel, Balthasar. 1997. “The possessive of experience in Belhare. ” In Tibeto-Burman Languages of the Himalayas , ed. David
+Bradley, p. 135 –55. Canberra: Paci ﬁc Linguistics.
+Bickel, Balthasar. 2004. “The syntax of experiencers in the Himalayas. ” In Non-nominative Subjects, ed. Peri Bhaskararao and
+Karumuri Venkata Subbarao, vol. 1, p. 77 –111. Berlin and Philadelphia: John Benjamins.
+Bouchard, Denis. 1995. The Semantics of Syntax: A Minimalist Approach to Grammar . Chicago: University of Chicago Press.
+Boucher, Jerry D., and Mary E. Brandt. 1981. “Judgment of emotion. American and Malay antecedents. ” Journal of Cross-Cultural
+Psychology 12(3): 272 –83.
+Brattico, Pauli, Alina Leinonen, and Christina M. Krause. 2007. “On the limits of productive word formation: experimental data
+from Finnish. ” SKY Journal of Linguistics 20: 109 –39.
+Bugenhagen, Robert D. 1990. “Experiential constructions in Mangap -Mbula.” Australian Journal of Linguistics 10(2): 183–215.
+Cheung, Candice Chi -Hang, and Richard K. Larson. 2015. “Psych verbs in English and Mandarin. ” Natural Language and
+Linguistic Theory 33: 127 –89.
+Craig, Colette G. 1977. The Structure of Jacaltec . Austin, London: University of Texas Press.
+Croft, William. 1993. “Case marking and the semantics of mental verbs. ” In Semantics and the Lexicon , ed. James Pustejovsky,
+p. 55 –72. Dordrecht/Boston/London: Kluwer.
+420  Julian A. Rott et al.
+[PDF PAGE 21]
+Cysouw, Michael. 2011. “Quantitative explorations of the word -wide distribution of rare characteristics, or: the exceptionality
+of north-western European languages. ” In Expecting the Unexpected: Exceptions in Grammar , ed. Horst Simon and Heike
+Wiese, p. 411 –31. Berlin: De Gruyter.
+Deal, Amy Rose. 2017. “External possession and possessor raising. ” In The Wiley Blackwell Companion to Syntax , ed. Martin
+Everaert and Henk van Riemsdijk, 2nd ed. John Wiley and Sons. doi: 10.1002/9781118358733.wbsyncom047.
+Dowty, David R. 1991. “Thematic proto -roles and argument selection. ” Language 67(3): 547 –619.
+Ekman, Paul. 1994. “Antecedent events and emotion metaphors. ” In The Nature of Emotions. Fundamental Questions , ed. Paul
+Ekman and Richard J. Davidson, p. 146 –9. Oxford: Oxford University Press.
+Ekman, Paul. 1999. “Basic emotions. ” In Handbook of Congition and Emotion , ed. Tim Dalgleish and Mick Power, p. 45 –60.
+New York: Wiley and Sons.
+Fábregas, Antonio, Angel Jiménez -Fernández, and Mercedes Tubino. 2017. “What’s up with dative experiencers. ” In Romance
+Languages and Linguistic Theory 12: Selected Papers from the 45th Linguistic Symposium on Romance Languages,
+Campinas, Brazil , ed. Ruth Lopes, Juanito Ornelas de Avelar, and Sonia Cyrino, p. 30 –47. Amsterdam: John Benjamins.
+Franco, Jon. 1990. “Towards a typology of psych verbs: evidence from Spanish. ” In Proceedings of the 2nd Meeting of SCIL , ed.
+Thomas Green and Sigal Uziel, p. 46 –62. MITWPL 12. Cambridge, MA: MIT Press.
+Fritz-Huechante, Paola, Elisabeth Verhoeven, and Julian A. Rott. “Agentivity and non -culminating causation in the psych
+domain: Cross -linguistic evidence from Spanish and Korean. ” Unpublished manuscript, February 21 2020, typescript.
+Humboldt-Universität zu Berlin.
+Givón, Talmy. 1984. Syntax. A Functional -typological Introduction . vol. 1. Amsterdam/Philadelphia: Benjamins.
+Goossens, Louis. 1989. Metonymy in Metaphorization: from Body Parts (and other Donor Domains ) to Linguistic Action .
+Duisburg: Universität Duisburg.
+Halldór Ármann Sigurðsson. 2004. “Icelandic non -nominative subjects: facts and implications. ” In Non-nominative Subjects .
+ed. Peri Bhaskararao and Karumuri Venkata Subbarao, vol. 2, p. 137 –59. Amsterdam and Philadelphia: John Benjamins.
+Haspelmath, Martin. 1993. “More on the typology of inchoative/causative verb alternations. ” In Causatives and Transitivity, ed.
+Bernard Comrie and Maria Polinsky, p. 87 –120. Amsterdam/Philadelphia: John Benjamins.
+Haspelmath, Martin. 2001a. “Non-Canonical marking of core arguments in European languages. ” In Non-canonical Marking of
+Subjects and Objects , ed. Alexandra Y. Aikhenvald, Robert M. W. Dixon, and Masayuki Onishi, p. 53 –83. Amsterdam/
+Philadelphia: John Benjamins.
+Haspelmath, Martin. 2001b. “The European linguistic area: Standard Average European. ” In Language Typology and Language
+Universals/Handbücher zur Sprach - und Kommunikationswissenschaft , vol. 20.2, p. 1492 –510. Berlin: De Gruyter.
+Helbig, Gerhard and Joachim Buscha. 2005. Deutsche Grammatik: ein Handbuch für den Ausländerunterricht . Berlin/München:
+Langenscheidt.
+Höskuldur Þráinsson. 1979. On Complementation in Icelandic . New York and London: Garland.
+Hupka, Ralph B., Alison P. Lenton, and Keith A. Hutchison. 1999. “Universal development of emotion categories in natural
+language.” Journal of Personality and Social Psychology 77(2): 247 –78.
+Jackendoﬀ, Ray. 1983. Semantics and Cognition (Current studies in linguistics 8 ). Cambridge, MI/London: MIT Press.
+Jiménez-Fernández, Luis, and Bo żena Rozwadowska. 2016. “The information structure of dative experiencer psych verbs. ” In
+Various Dimensions of Contrastive Studies , ed. Bo żena Cetnarowska, Marcin Kuczok, and Marcin Zabawa, p. 100 –21.
+Katowice: Wydawnictwo Uniwersytetu Śląskiego.
+Jóhanna Barðdal. 2011. “The rise of dative substitution in the history of Icelandic: a diachronic construction grammar account. ”
+Lingua 121: 60 –79.
+Jóhannes Gísli Jónsson, and Þórhallur Eyþórsson. 2003. “Breytingar á frumlagsfalli í íslensku. ” Íslenskt mál 25: 7 –40.
+Johnson-Laird, Philip, and Keith Oatley. 1989. “The language of emotions: analysis of a semantic ﬁeld.” Cognition and Emotion
+3(2):8 1 –123.
+Koopman, Hilda. 1984. The Syntax of Verbs: From Verb Movement Rules in the Kru Languages to Universal Grammar . Dordrecht:
+Foris.
+Kutscher, Silvia. 2009. Kausalität und Argumentrealisierung. Zur Konstruktionsvarianz bei Psychverben am Beispiel
+europäischer Sprachen . Tübingen: Niemeyer.
+Landau, Idan. 2010. The Locative Syntax of Experiencers . Cambridge, MA: MIT Press.
+Langacker, Ronald W. 1991. Foundations of Cognitive Grammar, Vol. 2: Descriptive Application . Stanford: Stanford University
+Press.
+Lehmann, Christian, Yong -Min Shin, and Elisabeth Verhoeven. 2000. Direkte und indirekte Partizipation. Zur Typologie der
+sprachlichen Repräsentation konzeptueller Relationen . München: Lincom Europa.
+Levin, Beth and Malka Rapaport Hovav. 1995. Unaccusativity: At the Syntax -Lexical Semantics Interface . Cambridge, MA: MIT
+Press.
+Marín, Rafael. 2014. Stativity and Agentivity in Spanish Psych Verbs . Berlin, Germany: Humboldt -Universität zu Berlin,
+Workshop on the syntax and semantics of Experiencers.
+Marín, Rafael. 2015. “Los predicados psicológicos: Debate sobre el estado de la cuestión. ” In Los Predicados Psicológicos , ed.
+Rafael Marín, p. 11 –50. Madrid: Visor.
+Valence orientation and psych properties  421
+[PDF PAGE 22]
+Matisoﬀ, James. 1986. “Hearts and minds in South -East Asian languages and English: an essay in the comparative lexical
+semantics of psycho -collocations.” Cahiers de linguistique – Asie o rientale 15(1):5 –57.
+McElhanon, Kenneth A. 1977. “Body image expressions in Irianese and Papua New Guinea languages. ” Irian 6: 3 –27.
+Mugdan, Joachim. 2015. “Units of word-formation.” In Word-Formation. An International Handbook of the Languages of Europe ,
+ed. Peter O. Müller, Ingeborg Ohnheiser, and Susan Olsen et al., p. 235 –301. Berlin and Boston: De Gruyter Mouton.
+Nelson, Diane. 1999. “Events, arguments and causative psych predicates in Finnish. ” In Leeds Working Papers in Linguistics
+and Phonetics 7 , ed. Paul Foulkes, p. 145 –71. Leeds: University of Leeds.
+Nichols, Johanna, David A. Peterson, and Jonathan Barnes. 2004. “Transitivizing and detransitivizing languages. ” Linguistic
+Typology 8: 149 –211.
+Özsoy, A. Sumru. 2009. “Argument structure, animacy, syntax and semantics of passivization in Turkish: a corpus -based
+approach.” In Corpus Analysis and Variation in Linguistics , ed. Yuji Kawaguchi, Makoto Minegishi, and Jacques Durand, p.
+259–79. Amsterdam: Benjamins.
+Park, Ki -Seong. 1993. Korean causative in Role and Reference Grammar . NY: State University of New York, Bu ﬀalo MA
+dissertation.
+Payne, Doris L., and Immanuel Barshi, ed. 1999. External Possession . Amsterdam, Philadelphia: John Benjamins.
+Pesetsky, David. 1995. Zero Syntax: Experiencers and Cascades . Cambridge, MI: MIT Press.
+Pylkkänen, Liina. 2000. “On Stativity and Causation. ” In Events as Grammatical Objects: The Converging Perspective of Lexical
+Semantics and Syntax , ed. Carol L. Tenny and James Pustejovsky, p. 417 –44. Stanford: CSLI Publications.
+Rakison, David H., and Diane Poulin -Dubois. 2001. “Developmental origin of the animate –inanimate distinction. ”
+Psychological Bulletin 127(2): 209 –28.
+Rosch, Eleanor, and Carolyn B. Mervis. 1975. “Family resemblances: studies in the internal structure of categories. ” Cognitive
+Psychology 7: 573 –605.
+Rott, Julian A., and Elisabeth Verhoeven. 2019. “Tiers for fears and other emotions. ” In Proceedings of Linguistic Evidence 2018:
+Experimental Data Drives Linguistic Theory , ed. Anja Gattnar, Robin Hörnig, Melanie Störzer, and Sam Featherston,
+Tübingen: Universität Tübingen. http://hdl.handle.net/10900/91225 (03.03.2020).
+Rott, Julian A., Elisabeth Verhoeven, and Paola Fritz -Huechante. “Valence orientation and the internal structure of psych
+expressions: some implications for typology. ” Unpublished manuscript, March 07 2020, typescript. Humboldt -Universität
+zu Berlin.
+Sakuma, Sun'Ichi. 2013. “Reﬂexive verbs and anti -causativity in the Finnish language. ” JSL 9: 21 –32.
+Seefranz-Montag, Ariane von. 1983. Syntaktische Funktionen und Wortstellungsveränderung. Die Entwicklung “subjektloser”
+Konstruktionen in einigen Sprachen . München: Wilhelm Fink.
+Shibatani, Masayoshi, and Sung Yeo Chung. 2001. “Japanese and Korean causative revisited. ” Papers in Linguistics 3: 112–37.
+Shore, Susanna. 1988. “On the so -called Finnish passive. ” Word 39(3): 151 –76.
+Siiroinen, Mari. 1998. “The semantics and derivational relations of Finnish emotive verbs. ” In Papers from the 16th
+Scandinavian Conference of Linguistics , ed. Timo Haukioja, p. 392 –402. Turku: Turun yliopisto.
+Siiroinen, Mari. 2005. “An overview of mental verbs in Finnish. ” In Les langues ouraliennes aujourd'hui , ed. M. M. Jocelyn
+Fernandez-Vest, p. 315 –26. Paris: Champion.
+Silverstein, Michael. 1976. “Hierarchy of features and ergativity. ” In Grammatical Categories in Australian Languages , ed.
+Robert M. Dixon, p. 112 –171. Canberra: Australian Institute for Aboriginal Studies.
+Smith, Henry. 1994. “‘Dative sickness ’ in Germanic. ” Natural Language and Linguistic Theory 12: 675 –736.
+Svavarsdóttir Ásta. 1982. “Þágufallssýki.” Íslenskt mál 4: 19 –62.
+Temme, Anne, and Elisabeth Verhoeven. 2016. “Verb class, case, and order: a crosslinguistic experiment on non -nominative
+experiencers.” Linguistics 54(4): 769 –813.
+Þórhallur Eyþórsson. 2000. “Dative vs. nominative: changes in quirky subjects in Icelandic. ” Leeds Working Papers in
+Linguistics 8: 27 –44.
+Turner, Jonathan H. 2007. Human Emotions. A Sociological Theory . London and New York: Routledge.
+Van Valin, Robert D., and Randy J. LaPolla. 1997. Syntax. Structure, Meaning and Function . Cambridge: Cambridge University
+Press.
+Vázquez Rozas, Victoria. 2006. “Gustar-type verbs.” In Functional Approaches to Spanish Syntax. Lexical Semantics, Discourse
+and Transitivity , ed. J. Clancy Clements and Jiyoung Yoon, p. 80 –114. Hampshire/New York: Palgrave MacMillan.
+Verhoeven, Elisabeth. 2007. Experiential constructions in Yucatec Maya. A Typologically Based Analysis of A Functional Domain
+in A Mayan Language . Amsterdam/Philadelphia: Benjamins.
+Verhoeven, Elisabeth. 2008. “(Non-)canonical marking of experiencer objects: a typological comparison of Chinese, Korean,
+Turkish, and Modern Greek. ” Language Typology and Universals 61(1):8 1 –92
+Verhoeven, Elisabeth. 2010a. “Transitivity in Chinese experiencer object verbs. ” In Transitivity: Form, Meaning, Acquisition,
+and Processing , ed. Patrick Brandt and Marco García García, p. 95 –118. Amsterdam: John Benjamins.
+Verhoeven, Elisabeth. 2010b. “Agentivity and stativity in experiencer verbs: implications for a typology of verb classes. ”
+Linguistic Typology 14: 213 –51.
+Verhoeven, Elisabeth. 2014. “Thematic prominence and animacy asymmetries. Evidence from a cross -linguistic production
+study.” Lingua 143: 129 –61.
+422  Julian A. Rott et al.
+[PDF PAGE 23]
+Verhoeven, Elisabeth. 2015. “Thematic assymetries do matter! A corpus study of German word order. ” Journal of Germanic
+Linguistics 27(1):4 5 –104.
+Wierzbicka, Anna. 1992. “Deﬁning emotion concepts. ” Cognitive Science 16: 539 –81.
+Zaenen, Annie, Joan Maling, and Höskuldur Þráinsson. 1985. “Case and grammatical functions: the Icelandic passive. ” Natural
+Language and Linguistic Theory 3: 441 –83.
+Zogbo, Gnoleba. 1981. Description d'un parler Bété (Daloa): morpho-syntaxe et lexicologie. Doctoral dissertation. Paris: Inalco -
+Université III.
+Valence orientation and psych properties  423

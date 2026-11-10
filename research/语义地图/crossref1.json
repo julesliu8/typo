@@ -1,0 +1,679 @@
+[
+  [
+    "semantic map perception verbs",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=semantic+map+perception+verbs&rows=5"
+  ],
+  [
+    "semantic map causative perception",
+    [
+      {
+        "title": [
+          "Semantic Causative Types"
+        ],
+        "author": [
+          {
+            "given": "Leonard",
+            "family": "Talmy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1163/9789004368842_003",
+        "published": {
+          "date-parts": [
+            [
+              1976,
+              12,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "The Grammar of Causative Constructions"
+        ],
+        "page": "41-116",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9789004368842/BP000003.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/38189",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Cross-language Comparison and Semantic Map Research in Explicit Causative Constructions"
+        ],
+        "author": [
+          {
+            "given": "Xiao",
+            "family": "shan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Liao",
+            "family": "Yalu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xu",
+            "family": "Chenghui",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xu",
+            "family": "rui",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.35534/wtt.0103002",
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "container-title": [
+          "Way to Translation"
+        ],
+        "page": "8-22",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://www.sciscanpub.com/uploads/2021/11/30/wtt20211032v3.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "A Research on the Relevance between Causative Alternatinon of Chinese Adjective and Anti-Causative , Fientive Meaning on Semantic Map"
+        ],
+        "author": [
+          {
+            "given": "Hwa-jin",
+            "family": "Jin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.25021/jcll.2019.8.117.119",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Chinese Language and Literature"
+        ],
+        "page": "119-139",
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "The Semantic Map Method: Visualizing Spatial Perception"
+        ],
+        "author": [
+          {
+            "given": "Jan",
+            "family": "Mikoláš",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4106-2569",
+            "authenticated-orcid": false,
+            "given": "Lukáš",
+            "family": "Herman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.5194/ica-abs-12-89-2026",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Abstracts of the ICA"
+        ],
+        "page": "1-2",
+        "abstract": "<jats:p/>",
+        "link": [
+          {
+            "URL": "https://ica-abs.copernicus.org/articles/12/89/2026/ica-abs-12-89-2026.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Semantic and Visual Factors Affecting the Representation of Map Information"
+        ],
+        "author": [
+          {
+            "given": "Matt J",
+            "family": "Rossano",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Southeastern Louisiana University, Hammond, LA 70402, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Gina E",
+            "family": "Adam",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Southeastern Louisiana University, Hammond, LA 70402, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "John C",
+            "family": "Booker",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Southeastern Louisiana University, Hammond, LA 70402, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Susan E",
+            "family": "Middleton",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Southeastern Louisiana University, Hammond, LA 70402, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1068/p250677",
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "Perception"
+        ],
+        "page": "677-700",
+        "abstract": "<jats:p>In past research evidence has been found for both mental imagery and propositional hierarchies in subjects' map representations. How the visual and semantic factors associated with maps influence the use of one form of representation or another was the subject of the study reported here. Subjects were required to make relational judgments about city pairs. The results of experiment 1 indicated that superordinate relationships (the relationship of the counties of which the cities were members) affected only the most difficult perceptual judgments, but affected all judgments made from memory. Experiment 2 was done to determine the extent to which these findings were attributable to perceptual distortions rather than propositionally stored rules. Results of experiment 3 showed the degree of perceptual distinction necessary for propositional rules to have no significant influence on relational judgments.</jats:p>",
+        "link": [
+          {
+            "URL": "https://journals.sagepub.com/doi/pdf/10.1068/p250677",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.sagepub.com/doi/pdf/10.1068/p250677",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "semantic map love like want",
+    [
+      {
+        "title": [
+          "We Want Roses"
+        ],
+        "author": null,
+        "DOI": "10.1515/9780823289349-015",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "Like a Lake"
+        ],
+        "page": "56-58",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9780823289349/10.1515/9780823289349-015.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9780823289349-015/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9780823289349-015/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "WE WANT ROSES"
+        ],
+        "author": null,
+        "DOI": "10.2307/j.ctv119906t.17",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "Like a Lake"
+        ],
+        "page": "56-58",
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "I Want Your Love"
+        ],
+        "author": null,
+        "DOI": "10.3998/mpub.9824609.cmp.7",
+        "published": null,
+        "container-title": null,
+        "page": null,
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "The Aftermath of  Act Like a Lady, Think Like a Man"
+        ],
+        "author": [
+          {
+            "given": "Dale",
+            "family": "Williams",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.5040/9781978744240.ch-007",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "container-title": [
+          "#blacklove"
+        ],
+        "page": "97-110",
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "I Want to Tell You Love"
+        ],
+        "author": [
+          {
+            "given": "Milton",
+            "family": "Acorn",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "bill",
+            "family": "bissett",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1515/9781773852317-002",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "I Want to Tell You Love"
+        ],
+        "page": "67-185",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9781773852317-002/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9781773852317-002/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "semantic map emotion desire pleasure",
+    [
+      {
+        "title": [
+          "22. Pleasure and Desire in Epicurus"
+        ],
+        "author": null,
+        "DOI": "10.1515/9780691223261-025",
+        "published": {
+          "date-parts": [
+            [
+              1999,
+              12,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Reason and Emotion"
+        ],
+        "page": "485-514",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9780691223261-025/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9780691223261-025/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Pleasure and Desire in Epicurus"
+        ],
+        "author": null,
+        "DOI": "10.2307/j.ctv182jt48.27",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Reason and Emotion"
+        ],
+        "page": "485-514",
+        "abstract": null,
+        "link": null
+      },
+      {
+        "title": [
+          "Pleasure and Desire"
+        ],
+        "author": [
+          {
+            "given": "Colin",
+            "family": "Marshall",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1093/oso/9780198809685.003.0007",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              6,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "Oxford Scholarship Online"
+        ],
+        "page": null,
+        "abstract": "<p>This chapter extends the argument of earlier chapters to cases of pleasure and desires. As before, it is argued that compassion is required to be in touch with other creatures’ states. After identifying a motivational feature of most pleasures, which can be described in imperatival terms, the chapter considers the intuitive moral asymmetry between pleasure and pain: promoting pleasure does not seem to be as straightforwardly good as alleviating pain. Two explanations for this asymmetry are offered using the notion of being in touch. Desire is then considered, and it is argued that familiar types of moral goodness involve agents being in touch with the conscious manifestations of desires.</p>",
+        "link": null
+      },
+      {
+        "title": [
+          "Prelude: The Music of Pleasure and Desire"
+        ],
+        "author": null,
+        "DOI": "10.1525/9780520952065-002",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Desire and Pleasure in Seventeenth-Century Music"
+        ],
+        "page": "1-18",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://california.degruyter.com/view/book/9780520952065/10.1525/9780520952065-002.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1525/9780520952065-002/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "title": [
+          "Pleasure, displeasure, and mixed feelings: Are semantic opposites mutually exclusive?"
+        ],
+        "author": [
+          {
+            "given": "Ulrich",
+            "family": "Schimmack",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "DOI": "10.1080/02699930126097",
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Cognition &amp; Emotion"
+        ],
+        "page": "81-97",
+        "abstract": null,
+        "link": [
+          {
+            "URL": "http://www.tandfonline.com/doi/pdf/10.1080/02699930126097",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    "Viberg verbs of perception typological study",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=Viberg+verbs+of+perception+typological+study&rows=5"
+  ],
+  [
+    "Evans Wilkins knowing hearing Australian",
+    "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=Evans+Wilkins+knowing+hearing+Australian&rows=5"
+  ]
+]

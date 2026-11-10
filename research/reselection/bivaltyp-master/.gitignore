@@ -1,0 +1,7 @@
+scripts/__pycache__
+todo.md
+*.swp
+*#
+.idea/
+scripts/patterns_check.log
+.vscode/settings.json

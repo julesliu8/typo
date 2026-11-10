@@ -1,0 +1,129 @@
+[
+  {
+    "title": "A New Approach to Applicative Constructions",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Deokhyun Nam"
+    ],
+    "locations": [
+      [
+        "https://tohoku.repo.nii.ac.jp/records/126181",
+        "https://tohoku.repo.nii.ac.jp/record/126181/files/Nam-Deokhyun-2018-Tour03-004.pdf"
+      ]
+    ],
+    "abstract": "B6KM2005 Deokhyun NamIn order to make a classification of applicative constructions, there are two things we remember to do first.The one is to be conscious of contrasts between applicative and other valencychanging operations.The other, which is more important, is to notice that the previous views toward applicative which are labelled here as 'the valency-increasing view' and 'the valencyincreasing vs. valency-rearranging view' have problems.For, from these views, it is difficult either to consider any foundation for classification or to discuss in detail what kinds of change are caused in what way in the process of applicativization.Thus, I proposed 'the two-direction of derivation view' as a new approach which distinguishes 'double-fledged applicative derivation' and 'single-fledged applicative derivation' by differentiating the two valencies: syntactic valency and participant number.As a result, I established a classification of applicative constructions which contain 'canonical applicative constructions', 'non-canonical applicative constructions' and 'lexicalized applicative constructions', which were defined according to the two applicative derivations.Although lexicalizd applicative construction is precisely not an applicative construction, I showed that there are good reasons to include it into the classification.Plus, I characterized them in terms of different kinds of syntactic and semantic changes caused in the process of each derivation.I applied this approach to 'transitivization' as well, which is here defined as similar to but different from applicativization, and made a parallel classification of transitivized constructions to capture that of applicative constructions in a wider perspective.The ultimate version of my classification thus gained is different from Lehmann & Verhoeven (2006) and Pacchiarotti (2017) in significant ways and can supplement what they fail to notice.Applying this approach to Japanese benefactive construction, I demonstrated that it is difficult to assume double-fledged applicative derivation and single-fledged applicative derivation in the construction, by discussing the way in which the applicative-like properties are just incidental, the difficulty of finding base constructions and the poverty of promotion effects.This means that Japanese benefactive construction is hardly admitted as an applicative construction. Applicativization and the other valency-changing operationsApplicativization can be compared with causativization, passivization, and antipassivization.The four are grouped together under the label 'valency-changing', a cover term of valency-increasing and valency-decreasing 2 .The former includes applicativization and causativization and the latter passivization and antipassivization.'Valency-decreasing' and 'valency-increasing' respectively mean removal and addition of a core argument with regard to a certain clause.What makes it possible for there to be more than one valency-decreasing and more than one valency-increasing category is that there are several possibilities as to which participant role is chosen to be removed or added through an operation.Let us here take an overview of basic characteristics of the two valency-decreasing operations, passivization and antipassivization, and the other valency-increasing operation, causativization, in turn, to help clarify the position of applicativization as a valency-changing category. Valency-decreasing operations2.1.1Passivization is commonly applied to transitive or ditransitive clauses.In this process, the valency is decreased in such a way that the original P (T or R in ditransitive cases) becomes S and the original A moves to the periphery or gets unexpressed 3 .Below is an example from English:"
+  },
+  {
+    "title": "Ditransitive Constructions in Laz",
+    "doi": "https://doi.org/10.1349/ps1.1537-0852.a.395",
+    "year": 2011,
+    "authors": [
+      "René Lacroix"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1349/ps1.1537-0852.a.395",
+        "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/document/839"
+      ],
+      [
+        "https://hal.science/hal-03266421",
+        null
+      ],
+      [
+        "https://doaj.org/article/8ea1d5e87a2145109c01bedb6673c0bf",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-0010-17F0-3",
+        null
+      ]
+    ],
+    "abstract": "This paper examines ditransitives in Laz"
+  },
+  {
+    "title": "A Parametric Implementation of Valence-changing Morphology in the LinGO Grammar Matrix",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Chris Curtis"
+    ],
+    "locations": [
+      [
+        "http://hdl.handle.net/1773/41814",
+        "http://hdl.handle.net/1773/41814"
+      ],
+      [
+        "https://digital.lib.washington.edu:443/researchworks/handle/1773/41814",
+        null
+      ]
+    ],
+    "abstract": "This thesis describes an analysis of valence-changing verbal morphology implemented as a library extending the LinGO Grammar Matrix customization system.This analysis is based on decomposition of these operations into rule components, which in turn are expressed as lexical rule supertypes that implement specific, isolatable constraints.I also show how common variations of these constraints can be abstracted and parameterized by their axes of variation.I then demonstrate how these supertypes can be recomposed in various combinations to provide broad coverage of the typological variation of valence change found in the world's languages.I evaluate the coverage of this library on several world languages that exhibit these phenomena.First and foremost, a most heartfelt thank you to my advisor, Emily M. Bender, not only for bringing me into the DELPH-IN fold, but also for her knowledge, advice, insight, and unflagging support and encouragement.Her commitment to nurturing the whole researcher in habits of mind and spirit is the very model of what an advisor should be."
+  },
+  {
+    "title": "On the case marking and the alignment of ditransitive clauses in Malagasy",
+    "doi": "https://doi.org/10.15026/0002000008",
+    "year": null,
+    "authors": [
+      "Nobukatsu Minoura"
+    ],
+    "locations": [
+      [
+        "https://tufs.repo.nii.ac.jp/records/2000008",
+        "https://tufs.repo.nii.ac.jp/record/2000008/files/acs106-3.pdf"
+      ]
+    ],
+    "abstract": "東京外国語大学大学院総合国際学研究院 箕浦信勝 Minoura Nobukatsu On the case marking and the alignment of ditransitive clauses in Malagasy マダガスカル語複他動詞節の格標示とアラインメントについて"
+  },
+  {
+    "title": "Bound noun plus verb combinations in Mano",
+    "doi": "https://doi.org/10.4000/mandenkan.1026",
+    "year": 2017,
+    "authors": [
+      "Maria Khachaturyan"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.4000/mandenkan.1026",
+        "http://journals.openedition.org/mandenkan/pdf/1026"
+      ],
+      [
+        "https://doaj.org/article/1e7860514e1f4ee8b48c0ef63e985c27",
+        null
+      ],
+      [
+        "https://journals.openedition.org/mandenkan/1026",
+        null
+      ]
+    ],
+    "abstract": "This paper addresses noun plus verb combinations in Mano, a South Mande language, and suggests novel syntactic and semantic criteria for distinguishing compounds from the free combinations of noun phrases and verbs. Nominal and verbal components of all N+V combinations in Mano are systematically detachable, and certain N+V combinations contradict the Lexical Integrity Hypothesis and the No Phrase Constraint, all of which are against the definitions of compounding as a formation of “single words”. Nonetheless, the contradiction and circularity of valency assignment in the nominal component and the combination itself make such combinations more syntactically bound than corresponding free combinations of a NP and a V. These criteria can be considered an argument in favor of defining certain N+V combinations in Mano as compounds, and all these criteria applied together present a complex picture where N+V combinations should be considered, more or less, compound-like with no clear division between free combinations and compounds."
+  },
+  {
+    "title": "From juxtaposition to incorporation: an approach to Generic-Specific constructions",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "RN Nordlinger",
+      "Louisa Sadler"
+    ],
+    "locations": [
+      [
+        "https://repository.essex.ac.uk/312/1/lfg08nordlingersadler.pdf",
+        "http://repository.essex.ac.uk/312/1/lfg08nordlingersadler.pdf"
+      ],
+      [
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.1886",
+        null
+      ],
+      [
+        "https://hdl.handle.net/11343/32205",
+        null
+      ],
+      [
+        "http://repository.essex.ac.uk/312/",
+        null
+      ]
+    ],
+    "abstract": "In this paper, we present an analysis of classifier noun incorporation in Gunwinyguan languages from northern Australia, focussing particularly on generic-specific constructions. We show how the analysis of Sadler and Nordlinger (2006) for generic-specific constructions formed through nominal juxtaposition can be extended to account for incorporated generic-specific constructions also. In this analysis, each nominal (or incorporated noun) is treated as belonging to a set at f-structure, on a par with the standard LFG treatment of coordination. The difference between the various set-based constructions (including coordinations, generic-specific constructions and part-whole constructions) arises in the mapping to the semantic structure. We show how this provides a single unified analysis for all generic-specific constructions in these languages, whether incorporated or juxtaposed. In doing so, we provide the first LFG analysis of classifier incorporation with doubling."
+  }
+]

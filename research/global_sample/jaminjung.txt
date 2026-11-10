@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    
+    <head>
+        <meta charset="utf-8">
+        <title>
+            The Valency Patterns Leipzig online database -
+             
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon"
+              href="https://valpal.info/clld-static/images/favicon.ico?v=09d100e13044a2eb539ec25f78d7a40a"
+              type="image/x-icon" />
+
+        <link href="https://valpal.info/clld-static/css/packed.d97f9962.css" rel="stylesheet">
+
+        <script src="https://valpal.info/clld-static/js/packed.74d7fd0e.js"></script>
+
+        <link rel="unapi-server" type="application/xml" title="unAPI" href="https://valpal.info/unapi">
+        <script src="https://valpal.info/_js?__format__=json"></script>
+         
+    </head>
+    <body id="r-contribution">
+        
+
+        <div id="top" class="navbar navbar-static-top">
+            <div class="navbar-inner">
+                <div class="container-fluid">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    
+    <a href="https://valpal.info/" class="brand">
+        <img alt="ValPal" src="https://valpal.info/static/logo_valpal_100.png" />
+    </a>
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                        
+                            <li id="menuitem_dataset" class="">
+                                <a href="https://valpal.info/" title="Home">Home</a>
+                            </li>
+                        
+                            <li id="menuitem_contributions" class="active">
+                                <a href="https://valpal.info/contributions" title="Languages">Languages</a>
+                            </li>
+                        
+                            <li id="menuitem_parameters" class="">
+                                <a href="https://valpal.info/parameters" title="Verb meanings">Verb meanings</a>
+                            </li>
+                        
+                            <li id="menuitem_codingframes" class="">
+                                <a href="https://valpal.info/codingframes" title="All coding frames">All coding frames</a>
+                            </li>
+                        
+                            <li id="menuitem_microroles" class="">
+                                <a href="https://valpal.info/microroles" title="Microroles">Microroles</a>
+                            </li>
+                        
+                            <li id="menuitem_alternations" class="">
+                                <a href="https://valpal.info/alternations" title="All alternations">All alternations</a>
+                            </li>
+                        </ul>
+                    
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <abbr class="unapi-id" title="https%3A%2F%2Fvalpal.info%2Fcontributions%2Fdjam1255"></abbr>
+                <div class="row-fluid">
+                    <div class="span12">
+                    
+
+
+
+
+
+
+
+
+
+<h2>Jaminjung (Both Jaminjung and Ngaliwurru varieties)</h2>
+
+
+    
+
+
+<div class="tabbable">
+
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#about" data-toggle="tab">Introduction</a></li>
+        <li><a href="#verbs" data-toggle="tab">Verb forms</a></li>
+        <li><a href="#codingframes" data-toggle="tab">Coding frames</a></li>
+        <li><a href="#codingsets" data-toggle="tab">Coding sets</a></li>
+        <li><a href="#alternations" data-toggle="tab">Alternations</a></li>
+        <li><a href="#examples" data-toggle="tab">Examples</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="about" class="tab-pane active">
+            <div class="span8">
+
+                <h3>Contributors</h3>
+                <ul>
+                    <li><a href="https://valpal.info/contributors/schultzeberndteva">Eva Schultze-Berndt</a></li>
+                </ul>
+
+                <h3>
+                    How to cite the Jaminjung (Both Jaminjung and Ngaliwurru varieties) dataset
+                    <button class="btn" onclick="CLLD.Modal.show(&#34;BibTeX citation&#34;, null, &#34;&lt;pre&gt;@incollection{valpal-djam1255,\n  address   = {Leipzig},\n  author    = {Eva Schultze-Berndt},\n  booktitle = {Valency Patterns Leipzig},\n  editor    = {Iren Hartmann and Martin Haspelmath and Bradley Taylor},\n  publisher = {Max Planck Institute for Evolutionary Anthropology},\n  title     = {Jaminjung (Both Jaminjung and Ngaliwurru varieties)},\n  url       = {https://valpal.info/contributions/djam1255},\n  year      = {2013}\n}&lt;/pre&gt;&#34;)" type="button">BibTeX</button>
+                </h3>
+                <pre class="citation">Eva Schultze-Berndt. 2013. Jaminjung (Both Jaminjung and Ngaliwurru varieties).
+In: Hartmann, Iren &amp; Haspelmath, Martin &amp; Taylor, Bradley (eds.)
+Valency Patterns Leipzig.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at http://valpal.info/contributions/djam1255, Accessed on 2026-11-07.)</pre>
+
+                <h3>Comments</h3>
+
+                <h4>General comment</h4>
+<p>Jaminjung belongs to the small Jaminjungan (or Western Mirndi) subgroup of the
+geographically discontinuous Mirndi family, one of the non-Pama-Nyungan families
+of northern Australia. The name Jaminjung is used here for two named varieties,
+Jaminjung and Ngaliwurru, which are mutually intelligible and exhibit mainly
+lexical differences. The traditional country of Jaminjung and Ngaliwurru
+speakers is located north and south of the Victoria River around the present-day
+township of Timber Creek in the Northern Territory. Jaminjung is severely
+endangered in that it is no longer acquired by children; only a few dozen
+elderly speakers are alive today.</p>
+<p>A pervasive feature of Jaminjung lexicon and grammar, which proves to be highly
+relevant for the discussion of verb classes and alternations, is a division of
+the “verbal” lexicon into two distinct parts of speech. This is an areal
+phenomenon found in a number of unrelated languages in Northern Australia.</p>
+<p>Inflecting verbs (IVs), i.e. those taking obligatory pronominal prefixes and
+tense and mood marking, form a closed class with only about 35 members (with
+some variation depending on the dialect affiliation and also the age of
+individual speakers).</p>
+<p>Uninflecting verbs (UVs; also known as "coverbs" or "preverbs" in the
+literature) can be distinguished from IVs by the fact that they cannot take
+verbal inflections. They are also distinguishable from nominals in that they do
+not co-occur with determiners such as demonstratives. UVs form an open class
+which can be expanded by loan words.</p>
+<p>Predicates in Jaminjung thus can be simple (an IV on its own) or complex (a
+combination of an IV and one or two UVs). In addition, translation equivalents
+of verbs can be collocations involving nominals, e.g. expressions with a body
+part for feelings/pain, or expressions like gugu gardbany 'rain falls' = 'to
+rain'.</p>
+<p>Most valency alternations in Jaminjung are only relevant for complex predicates.
+A valency change in this type of alternation is achieved by combining the same
+UV with different IVs resulting e.g. in inchoative vs. causative complex
+predicates. In this database, they are therefore marked as "UV" preceding the
+alternation name, and are considered coded alternations even though they are not
+coded by a dedicated valency-changing morphological marker. Note also that the
+substitution of different IVs with the same UV can also result in other semantic
+differences, e.g. in lexical aspect, deictic direction of motion, instrument
+used for contact, or other more subtle differences. In this database only
+valency-changing alternations are considered.</p>
+<h4>Characterization of flagging resources</h4>
+<p>Jaminjung has a rich system of cases which formally are clitics occurring once
+or more than once in a phrase. Case marking of core arguments follows an
+ergative-absolutive pattern, with optional ergativity. As a general rule, the
+case frame used with a particular predicate, whether simple or complex, follows
+from the morphological transitivity of the inflecting verb (IV). That is,
+a single absolutive argument occurs with intransitive IVs, and an
+ergative-absolutive case frame (or double absolutive if ergative marking is
+omitted) is used with transitive IVs. Since the absolutive is unmarked, it is
+not glossed in examples. The ergative has the form -ni ~ -di.</p>
+<p>Ergative marking of A arguments is optional in Jaminjung; the presence vs.
+absence of ergative marking depends on a variety of factors including the
+semantics of the predicate, animacy and degree of agentivity of A, and lexical
+and grammatical aspect. Therefore, presence vs. absence of ergative marking was
+not considered an alternation for the purposes of this database.</p>
+<p>Regular double absolutive marking used for both A and P of some bivalent atelic
+predicates (with intransitive IV), i.e. the ergative is not possible on As in
+this case.</p>
+<p>Double absolutive marking is also used for both NP objects of a semantically
+trivalent predicate.</p>
+<p>Dative case ( -gu ~ -wu) marks addressees or beneficiaries and also has
+a purposive function; in addition a specialised purposive case (-ngurlung) is
+used by some speakers, and the possessive case -gina (usually appearing in
+adnominal function) can have a purposive use as well.</p>
+<p>Spatial cases are locative (-gi ~ -g ~ -ni), allative (-bina) and ablative
+(-ngunyi / -giyag). Specialised forms of these cases are found on inherently
+locative expressions. An additional origin case (-nyunga) indicates spatial
+origin (as in 'the man from England') but also has a causal function.</p>
+<h4>Characterization of indexing resources</h4>
+<p>From the point of view of indexing morphology, inflecting verbs (IVs) fall into
+two non-overlapping classes. Morphologically transitive verbs in their
+non-reflexive/reciprocal form occur with a set of pronominal prefixes which
+always index the most agentive argument (A) and in addition the patient-like (P)
+argument. With ditransitive predicates, R rather than P is usually indexed
+except for a marginal alternation which is possible only in the case that P is
+animate.</p>
+<p>The order of prefixes is usually A followed by P, although in some cases
+a portmanteau prefix is used. The 3rd person singular object (P) is not overtly
+expressed except with a 3rd person singular subject.</p>
+<p>In one variety, nonsingular first person P prefixes have been neutralised, i.e.
+only the first person singular prefix is used, and an enclitic pronominal
+(identical to the dative form) is used to disambiguate for number and the
+inclusive/exclusive distinction.</p>
+<p>Morphologically intransitive verbs indicate their single argument (S) by
+a pronominal prefix which in most cells of the paradigm (except 2nd person
+singular) is identical to the A prefix. Thus, indexing more or less follows
+a nominative-accusative pattern.</p>
+<p>A final indexing phenomenon is the cross-referencing of dative, locative and
+allative arguments or adjuncts by an enclitic oblique (dative) pronoun. This
+“clitic doubling” is restricted to animate referents.</p>
+<h4>Characterization of ordering resources</h4>
+<p>Word order is purely pragmatically conditioned and not employed to indicate
+grammatical roles. Noun phrases can be freely omitted if understood from context
+(zero anaphora).</p>
+<h4>Source of the data and generalizations/background of the contributor(s)</h4>
+<p>Data in this database are from both elicited and naturalistic speech recorded
+during multiple field trips undertaken by the author between 1993 and 2008.
+Occasional examples also come from field notes and texts recorded by Mark
+Harvey, Janet Bolt, and Michael Walsh, and Dorothea Hoffmann. Examples from
+audio- or video-recorded sessions are accompanied by the file name of the audio
+file as archived (with annotations) in the Jaminjung DoBeS archive
+(www.mpi.nl/dobes) (rather than a page nr). Examples marked as "field notes" are
+overheard examples. Examples with no file name information come from transcripts
+which are not yet linked to archived audio files.</p>
+<p>Comments on conventions:</p>
+<p>In literal glosses of complex verbs in the "comments" field, the gloss of the
+inflecting verb (IV) is in capitals.</p>
+<p>Since there is no infinitive form of the inflecting verb in Jaminjung and roots
+are not produced in isolation by speakers, the 3rd singular subject (+ 3rd sg
+object for tr.verbs) past perfective form of inflecting verbs is provided
+throughout, as this is one of the most frequent forms.</p>
+<p>Borrowings (in verb meanings) and code switches (in examples) from Kriol, the
+English-lexified Creole language spoken by most Jaminjung speakers, are marked
+by angular brackets (&lt;...&gt;).</p>
+            </div>
+            <div class="span4">
+            <div class="well well-small">
+                <div id="map-container">
+    <div id="map" style="position: relative; width: 100%; height: 200px;"> </div>
+    <script>$(window).load(function() {CLLD.map("map", {"djam1255": {"type": "FeatureCollection", "properties": {"layer": ""}, "features": [{"type": "Feature", "properties": {"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8cGF0aCBkPSJNOCA4IEgzMiBWMzIgSDggVjgiIHN0eWxlPSJmaWxsOiMwMDAwREQ7c3Ryb2tlOmJsYWNrO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO29wYWNpdHk6Tm9uZTsiLz4KPC9zdmc+", "language": {"macroarea": "Australia", "pk": 17, "glottocode": "djam1255", "family_pk": 11, "jsondata": {}, "id": "djam1255", "name": "Jaminjung (Both Jaminjung and Ngaliwurru varieties)", "description": "#### General comment\n\nJaminjung belongs to the small Jaminjungan (or Western Mirndi) subgroup of the\ngeographically discontinuous Mirndi family, one of the non-Pama-Nyungan families\nof northern Australia. The name Jaminjung is used here for two named varieties,\nJaminjung and Ngaliwurru, which are mutually intelligible and exhibit mainly\nlexical differences. The traditional country of Jaminjung and Ngaliwurru\nspeakers is located north and south of the Victoria River around the present-day\ntownship of Timber Creek in the Northern Territory. Jaminjung is severely\nendangered in that it is no longer acquired by children; only a few dozen\nelderly speakers are alive today.\n\nA pervasive feature of Jaminjung lexicon and grammar, which proves to be highly\nrelevant for the discussion of verb classes and alternations, is a division of\nthe \u201cverbal\u201d lexicon into two distinct parts of speech. This is an areal\nphenomenon found in a number of unrelated languages in Northern Australia.\n\nInflecting verbs (IVs), i.e. those taking obligatory pronominal prefixes and\ntense and mood marking, form a closed class with only about 35 members (with\nsome variation depending on the dialect affiliation and also the age of\nindividual speakers).\n\nUninflecting verbs (UVs; also known as \"coverbs\" or \"preverbs\" in the\nliterature) can be distinguished from IVs by the fact that they cannot take\nverbal inflections. They are also distinguishable from nominals in that they do\nnot co-occur with determiners such as demonstratives. UVs form an open class\nwhich can be expanded by loan words.\n\nPredicates in Jaminjung thus can be simple (an IV on its own) or complex (a\ncombination of an IV and one or two UVs). In addition, translation equivalents\nof verbs can be collocations involving nominals, e.g. expressions with a body\npart for feelings/pain, or expressions like gugu gardbany 'rain falls' = 'to\nrain'.\n\nMost valency alternations in Jaminjung are only relevant for complex predicates.\nA valency change in this type of alternation is achieved by combining the same\nUV with different IVs resulting e.g. in inchoative vs. causative complex\npredicates. In this database, they are therefore marked as \"UV\" preceding the\nalternation name, and are considered coded alternations even though they are not\ncoded by a dedicated valency-changing morphological marker. Note also that the\nsubstitution of different IVs with the same UV can also result in other semantic\ndifferences, e.g. in lexical aspect, deictic direction of motion, instrument\nused for contact, or other more subtle differences. In this database only\nvalency-changing alternations are considered.\n\n#### Characterization of flagging resources\n\nJaminjung has a rich system of cases which formally are clitics occurring once\nor more than once in a phrase. Case marking of core arguments follows an\nergative-absolutive pattern, with optional ergativity. As a general rule, the\ncase frame used with a particular predicate, whether simple or complex, follows\nfrom the morphological transitivity of the inflecting verb (IV). That is,\na single absolutive argument occurs with intransitive IVs, and an\nergative-absolutive case frame (or double absolutive if ergative marking is\nomitted) is used with transitive IVs. Since the absolutive is unmarked, it is\nnot glossed in examples. The ergative has the form -ni ~ -di.\n\nErgative marking of A arguments is optional in Jaminjung; the presence vs.\nabsence of ergative marking depends on a variety of factors including the\nsemantics of the predicate, animacy and degree of agentivity of A, and lexical\nand grammatical aspect. Therefore, presence vs. absence of ergative marking was\nnot considered an alternation for the purposes of this database.\n\nRegular double absolutive marking used for both A and P of some bivalent atelic\npredicates (with intransitive IV), i.e. the ergative is not possible on As in\nthis case.\n\nDouble absolutive marking is also used for both NP objects of a semantically\ntrivalent predicate.\n\nDative case ( -gu ~ -wu) marks addressees or beneficiaries and also has\na purposive function; in addition a specialised purposive case (-ngurlung) is\nused by some speakers, and the possessive case -gina (usually appearing in\nadnominal function) can have a purposive use as well.\n\nSpatial cases are locative (-gi ~ -g ~ -ni), allative (-bina) and ablative\n(-ngunyi / -giyag). Specialised forms of these cases are found on inherently\nlocative expressions. An additional origin case (-nyunga) indicates spatial\norigin (as in 'the man from England') but also has a causal function.\n\n#### Characterization of indexing resources\n\nFrom the point of view of indexing morphology, inflecting verbs (IVs) fall into\ntwo non-overlapping classes. Morphologically transitive verbs in their\nnon-reflexive/reciprocal form occur with a set of pronominal prefixes which\nalways index the most agentive argument (A) and in addition the patient-like (P)\nargument. With ditransitive predicates, R rather than P is usually indexed\nexcept for a marginal alternation which is possible only in the case that P is\nanimate.\n\nThe order of prefixes is usually A followed by P, although in some cases\na portmanteau prefix is used. The 3rd person singular object (P) is not overtly\nexpressed except with a 3rd person singular subject.\n\nIn one variety, nonsingular first person P prefixes have been neutralised, i.e.\nonly the first person singular prefix is used, and an enclitic pronominal\n(identical to the dative form) is used to disambiguate for number and the\ninclusive/exclusive distinction.\n\nMorphologically intransitive verbs indicate their single argument (S) by\na pronominal prefix which in most cells of the paradigm (except 2nd person\nsingular) is identical to the A prefix. Thus, indexing more or less follows\na nominative-accusative pattern.\n\nA final indexing phenomenon is the cross-referencing of dative, locative and\nallative arguments or adjuncts by an enclitic oblique (dative) pronoun. This\n\u201cclitic doubling\u201d is restricted to animate referents.\n\n#### Characterization of ordering resources\n\nWord order is purely pragmatically conditioned and not employed to indicate\ngrammatical roles. Noun phrases can be freely omitted if understood from context\n(zero anaphora).\n\n#### Source of the data and generalizations/background of the contributor(s)\n\nData in this database are from both elicited and naturalistic speech recorded\nduring multiple field trips undertaken by the author between 1993 and 2008.\nOccasional examples also come from field notes and texts recorded by Mark\nHarvey, Janet Bolt, and Michael Walsh, and Dorothea Hoffmann. Examples from\naudio- or video-recorded sessions are accompanied by the file name of the audio\nfile as archived (with annotations) in the Jaminjung DoBeS archive\n(www.mpi.nl/dobes) (rather than a page nr). Examples marked as \"field notes\" are\noverheard examples. Examples with no file name information come from transcripts\nwhich are not yet linked to archived audio files.\n\nComments on conventions:\n\nIn literal glosses of complex verbs in the \"comments\" field, the gloss of the\ninflecting verb (IV) is in capitals.\n\nSince there is no infinitive form of the inflecting verb in Jaminjung and roots\nare not produced in isolation by speakers, the 3rd singular subject (+ 3rd sg\nobject for tr.verbs) past perfective form of inflecting verbs is provided\nthroughout, as this is one of the most frequent forms.\n\nBorrowings (in verb meanings) and code switches (in examples) from Kriol, the\nEnglish-lexified Creole language spoken by most Jaminjung speakers, are marked\nby angular brackets (<...>).\n", "markup_description": "<h4>General comment</h4>\n<p>Jaminjung belongs to the small Jaminjungan (or Western Mirndi) subgroup of the\ngeographically discontinuous Mirndi family, one of the non-Pama-Nyungan families\nof northern Australia. The name Jaminjung is used here for two named varieties,\nJaminjung and Ngaliwurru, which are mutually intelligible and exhibit mainly\nlexical differences. The traditional country of Jaminjung and Ngaliwurru\nspeakers is located north and south of the Victoria River around the present-day\ntownship of Timber Creek in the Northern Territory. Jaminjung is severely\nendangered in that it is no longer acquired by children; only a few dozen\nelderly speakers are alive today.</p>\n<p>A pervasive feature of Jaminjung lexicon and grammar, which proves to be highly\nrelevant for the discussion of verb classes and alternations, is a division of\nthe \u201cverbal\u201d lexicon into two distinct parts of speech. This is an areal\nphenomenon found in a number of unrelated languages in Northern Australia.</p>\n<p>Inflecting verbs (IVs), i.e. those taking obligatory pronominal prefixes and\ntense and mood marking, form a closed class with only about 35 members (with\nsome variation depending on the dialect affiliation and also the age of\nindividual speakers).</p>\n<p>Uninflecting verbs (UVs; also known as \"coverbs\" or \"preverbs\" in the\nliterature) can be distinguished from IVs by the fact that they cannot take\nverbal inflections. They are also distinguishable from nominals in that they do\nnot co-occur with determiners such as demonstratives. UVs form an open class\nwhich can be expanded by loan words.</p>\n<p>Predicates in Jaminjung thus can be simple (an IV on its own) or complex (a\ncombination of an IV and one or two UVs). In addition, translation equivalents\nof verbs can be collocations involving nominals, e.g. expressions with a body\npart for feelings/pain, or expressions like gugu gardbany 'rain falls' = 'to\nrain'.</p>\n<p>Most valency alternations in Jaminjung are only relevant for complex predicates.\nA valency change in this type of alternation is achieved by combining the same\nUV with different IVs resulting e.g. in inchoative vs. causative complex\npredicates. In this database, they are therefore marked as \"UV\" preceding the\nalternation name, and are considered coded alternations even though they are not\ncoded by a dedicated valency-changing morphological marker. Note also that the\nsubstitution of different IVs with the same UV can also result in other semantic\ndifferences, e.g. in lexical aspect, deictic direction of motion, instrument\nused for contact, or other more subtle differences. In this database only\nvalency-changing alternations are considered.</p>\n<h4>Characterization of flagging resources</h4>\n<p>Jaminjung has a rich system of cases which formally are clitics occurring once\nor more than once in a phrase. Case marking of core arguments follows an\nergative-absolutive pattern, with optional ergativity. As a general rule, the\ncase frame used with a particular predicate, whether simple or complex, follows\nfrom the morphological transitivity of the inflecting verb (IV). That is,\na single absolutive argument occurs with intransitive IVs, and an\nergative-absolutive case frame (or double absolutive if ergative marking is\nomitted) is used with transitive IVs. Since the absolutive is unmarked, it is\nnot glossed in examples. The ergative has the form -ni ~ -di.</p>\n<p>Ergative marking of A arguments is optional in Jaminjung; the presence vs.\nabsence of ergative marking depends on a variety of factors including the\nsemantics of the predicate, animacy and degree of agentivity of A, and lexical\nand grammatical aspect. Therefore, presence vs. absence of ergative marking was\nnot considered an alternation for the purposes of this database.</p>\n<p>Regular double absolutive marking used for both A and P of some bivalent atelic\npredicates (with intransitive IV), i.e. the ergative is not possible on As in\nthis case.</p>\n<p>Double absolutive marking is also used for both NP objects of a semantically\ntrivalent predicate.</p>\n<p>Dative case ( -gu ~ -wu) marks addressees or beneficiaries and also has\na purposive function; in addition a specialised purposive case (-ngurlung) is\nused by some speakers, and the possessive case -gina (usually appearing in\nadnominal function) can have a purposive use as well.</p>\n<p>Spatial cases are locative (-gi ~ -g ~ -ni), allative (-bina) and ablative\n(-ngunyi / -giyag). Specialised forms of these cases are found on inherently\nlocative expressions. An additional origin case (-nyunga) indicates spatial\norigin (as in 'the man from England') but also has a causal function.</p>\n<h4>Characterization of indexing resources</h4>\n<p>From the point of view of indexing morphology, inflecting verbs (IVs) fall into\ntwo non-overlapping classes. Morphologically transitive verbs in their\nnon-reflexive/reciprocal form occur with a set of pronominal prefixes which\nalways index the most agentive argument (A) and in addition the patient-like (P)\nargument. With ditransitive predicates, R rather than P is usually indexed\nexcept for a marginal alternation which is possible only in the case that P is\nanimate.</p>\n<p>The order of prefixes is usually A followed by P, although in some cases\na portmanteau prefix is used. The 3rd person singular object (P) is not overtly\nexpressed except with a 3rd person singular subject.</p>\n<p>In one variety, nonsingular first person P prefixes have been neutralised, i.e.\nonly the first person singular prefix is used, and an enclitic pronominal\n(identical to the dative form) is used to disambiguate for number and the\ninclusive/exclusive distinction.</p>\n<p>Morphologically intransitive verbs indicate their single argument (S) by\na pronominal prefix which in most cells of the paradigm (except 2nd person\nsingular) is identical to the A prefix. Thus, indexing more or less follows\na nominative-accusative pattern.</p>\n<p>A final indexing phenomenon is the cross-referencing of dative, locative and\nallative arguments or adjuncts by an enclitic oblique (dative) pronoun. This\n\u201cclitic doubling\u201d is restricted to animate referents.</p>\n<h4>Characterization of ordering resources</h4>\n<p>Word order is purely pragmatically conditioned and not employed to indicate\ngrammatical roles. Noun phrases can be freely omitted if understood from context\n(zero anaphora).</p>\n<h4>Source of the data and generalizations/background of the contributor(s)</h4>\n<p>Data in this database are from both elicited and naturalistic speech recorded\nduring multiple field trips undertaken by the author between 1993 and 2008.\nOccasional examples also come from field notes and texts recorded by Mark\nHarvey, Janet Bolt, and Michael Walsh, and Dorothea Hoffmann. Examples from\naudio- or video-recorded sessions are accompanied by the file name of the audio\nfile as archived (with annotations) in the Jaminjung DoBeS archive\n(www.mpi.nl/dobes) (rather than a page nr). Examples marked as \"field notes\" are\noverheard examples. Examples with no file name information come from transcripts\nwhich are not yet linked to archived audio files.</p>\n<p>Comments on conventions:</p>\n<p>In literal glosses of complex verbs in the \"comments\" field, the gloss of the\ninflecting verb (IV) is in capitals.</p>\n<p>Since there is no infinitive form of the inflecting verb in Jaminjung and roots\nare not produced in isolation by speakers, the 3rd singular subject (+ 3rd sg\nobject for tr.verbs) past perfective form of inflecting verbs is provided\nthroughout, as this is one of the most frequent forms.</p>\n<p>Borrowings (in verb meanings) and code switches (in examples) from Kriol, the\nEnglish-lexified Creole language spoken by most Jaminjung speakers, are marked\nby angular brackets (&lt;...&gt;).</p>", "latitude": -15.0833333333, "longitude": 130.5}, "name": "Jaminjung (Both Jaminjung and Ngaliwurru varieties)"}, "geometry": {"type": "Point", "coordinates": [130.5, -15.0833333333]}, "id": "djam1255"}]}}, {"center": [-15.0833333333, 130.5], "zoom": 3, "no_popup": true, "no_link": true, "sidebar": true});});</script>
+</div>
+
+                <div><table class="table table-condensed"><tr><td>Coordinates <a href="https://en.wikipedia.org/wiki/World_Geodetic_System_1984" title="WGS84"><i class="icon-share"></i> WGS84</a></td><td><span>15°05&#39;S, 130°30&#39;E</span><br /><span class="geo">-15.08, 130.50</span></td></tr></table></div>
+                <hr>
+                <table class="table-unstyled language-details">
+                    <tr>
+                    <th>Glottocode</th>
+                    <td><a href="http://glottolog.org/resource/languoid/id/djam1255" title="djam1255"><i class="icon-share"></i> djam1255</a></td>
+                    </tr>
+                    <tr>
+                    <th>ISO 639-3 code</th>
+                    <td><a href="https://iso639-3.sil.org/code/djd" title="djd"><i class="icon-share"></i> djd</a></td>
+                    </tr>
+                    <tr><th>Family</th><td>Mirndi</td></tr>
+                    <tr><th>Region</th><td>Australia</td></tr>
+                </table>
+            </div>
+            </div>
+        </div>
+        <div id="verbs" class="tab-pane">
+            <table id="Verbs" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>Verb form</th>
+                    <th>Verb Meaning</th>
+                    <th>Basic coding frame</th>
+                    <th>Comment</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                            <input type="text" name="name" id="dt-filter-name" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="meaning" id="dt-filter-meaning" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="codingframe" id="dt-filter-codingframe" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="comment" id="dt-filter-comment" value="" placeholder="Search" class="input-small control" />
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("Verbs", "<div class=\"\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving an upper and/or lower bound in the form &amp;#34;&amp;lt;5&amp;#34; or a range in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button></div>", {"language": {"paginate": {"next": "Next", "previous": "Previous", "first": "First", "last": "Last"}, "emptyTable": "No data available in table", "info": "Showing _START_ to _END_ of _TOTAL_ entries", "infoEmpty": "Showing 0 to 0 of 0 entries", "infoFiltered": "(filtered from _MAX_ total entries)", "lengthMenu": "Show _MENU_ entries", "loadingRecords": "Loading...", "processing": "Processing...", "search": "Search:", "zeroRecords": "No matching records found"}, "bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'Verbs-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "name", "sTitle": "Verb form"}, {"sName": "meaning", "sTitle": "Verb Meaning"}, {"sName": "codingframe", "sTitle": "Basic coding frame"}, {"sName": "comment", "sTitle": "Comment", "bSortable": false}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://valpal.info/values?__format__=json&contribution=djam1255", "aaSorting": []});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Column information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+        <div id="codingframes" class="tab-pane">
+            <table id="CodingFrames" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>Coding frame</th>
+                    <th>Type</th>
+                    <th>Comment</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                            <input type="text" name="name" id="dt-filter-name" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <select  class="select control input-small" name="derived" id="dt-filter-derived">
+                                <option value="">--any--</option>
+                                        <option value="Basic">Basic</option>
+                                        <option value="Derived">Derived</option>
+                            </select>
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="comment" id="dt-filter-comment" value="" placeholder="Search" class="input-small control" />
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("CodingFrames", "<div class=\"\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving an upper and/or lower bound in the form &amp;#34;&amp;lt;5&amp;#34; or a range in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button></div>", {"language": {"paginate": {"next": "Next", "previous": "Previous", "first": "First", "last": "Last"}, "emptyTable": "No data available in table", "info": "Showing _START_ to _END_ of _TOTAL_ entries", "infoEmpty": "Showing 0 to 0 of 0 entries", "infoFiltered": "(filtered from _MAX_ total entries)", "lengthMenu": "Show _MENU_ entries", "loadingRecords": "Loading...", "processing": "Processing...", "search": "Search:", "zeroRecords": "No matching records found"}, "bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'CodingFrames-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "name", "sTitle": "Coding frame"}, {"sName": "derived", "sTitle": "Type"}, {"sName": "comment", "sTitle": "Comment", "bSortable": false}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://valpal.info/codingframes?__format__=json&contribution=djam1255"});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Column information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+        <div id="codingsets" class="tab-pane">
+            <table id="CodingSets" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>Coding set</th>
+                    <th># Coding frames</th>
+                    <th># Verbs</th>
+                    <th># Microroles</th>
+                    <th>Comment</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                        <input type="text" name="name" id="dt-filter-name" value="" class="search_init control" style="display: none;"/>
+                </th>
+                <th style="text-align: left;">
+                        <input type="text" name="codingframe_count" id="dt-filter-codingframe_count" value="" class="search_init control" style="display: none;"/>
+                </th>
+                <th style="text-align: left;">
+                        <input type="text" name="verb_count" id="dt-filter-verb_count" value="" class="search_init control" style="display: none;"/>
+                </th>
+                <th style="text-align: left;">
+                        <input type="text" name="microrole_count" id="dt-filter-microrole_count" value="" class="search_init control" style="display: none;"/>
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="comment" id="dt-filter-comment" value="" placeholder="Search" class="input-small control" />
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("CodingSets", "<div class=\"\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving an upper and/or lower bound in the form &amp;#34;&amp;lt;5&amp;#34; or a range in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button></div>", {"language": {"paginate": {"next": "Next", "previous": "Previous", "first": "First", "last": "Last"}, "emptyTable": "No data available in table", "info": "Showing _START_ to _END_ of _TOTAL_ entries", "infoEmpty": "Showing 0 to 0 of 0 entries", "infoFiltered": "(filtered from _MAX_ total entries)", "lengthMenu": "Show _MENU_ entries", "loadingRecords": "Loading...", "processing": "Processing...", "search": "Search:", "zeroRecords": "No matching records found"}, "bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'CodingSets-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "name", "sTitle": "Coding set", "bSearchable": false}, {"sName": "codingframe_count", "sTitle": "# Coding frames", "bSearchable": false, "sClass": "right"}, {"sName": "verb_count", "sTitle": "# Verbs", "bSearchable": false, "sClass": "right"}, {"sName": "microrole_count", "sTitle": "# Microroles", "bSearchable": false, "sClass": "right"}, {"sName": "comment", "sTitle": "Comment", "bSortable": false}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://valpal.info/codingsets?__format__=json&contribution=djam1255"});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Column information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+        <div id="alternations" class="tab-pane">
+            <table id="Alternations" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>Alternation</th>
+                    <th>Type</th>
+                    <th>Description</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                            <input type="text" name="name" id="dt-filter-name" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <select  class="select control input-small" name="alternation_type" id="dt-filter-alternation_type">
+                                <option value="">--any--</option>
+                                        <option value="Coded">Coded</option>
+                                        <option value="Uncoded">Uncoded</option>
+                            </select>
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="description" id="dt-filter-description" value="" placeholder="Search" class="input-small control" />
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("Alternations", "<div class=\"\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving an upper and/or lower bound in the form &amp;#34;&amp;lt;5&amp;#34; or a range in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button></div>", {"language": {"paginate": {"next": "Next", "previous": "Previous", "first": "First", "last": "Last"}, "emptyTable": "No data available in table", "info": "Showing _START_ to _END_ of _TOTAL_ entries", "infoEmpty": "Showing 0 to 0 of 0 entries", "infoFiltered": "(filtered from _MAX_ total entries)", "lengthMenu": "Show _MENU_ entries", "loadingRecords": "Loading...", "processing": "Processing...", "search": "Search:", "zeroRecords": "No matching records found"}, "bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'Alternations-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "name", "sTitle": "Alternation"}, {"sName": "alternation_type", "sTitle": "Type"}, {"sName": "description", "sTitle": "Description"}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://valpal.info/alternations?__format__=json&contribution=djam1255"});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Column information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+        <div id="examples" class="tab-pane">
+            <table id="Examples" cellpadding="0" cellspacing="0" border="0" class="table table-bordered order-column compact stripe">
+    <thead>
+        <tr>
+                    <th>#</th>
+                    <th>Primary text</th>
+                    <th>Analyzed text</th>
+                    <th>Gloss</th>
+                    <th>Translation</th>
+                    <th>Comment</th>
+                    <th>Details</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+                <th style="text-align: left;">
+                            <input type="text" name="number" id="dt-filter-number" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="name" id="dt-filter-name" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="analyzed" id="dt-filter-analyzed" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="gloss" id="dt-filter-gloss" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="description" id="dt-filter-description" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                            <input type="text" name="comment" id="dt-filter-comment" value="" placeholder="Search" class="input-small control" />
+                </th>
+                <th style="text-align: left;">
+                        <input type="text" name="d" id="dt-filter-d" value="" class="search_init control" style="display: none;"/>
+                </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<script>
+$(document).ready(function() {
+    CLLD.DataTable.init("Examples", "<div class=\"\"><button class=\"btn btn-info dl-widget-IIndex\" data-content=\"&lt;div&gt;&lt;dl&gt;&lt;p&gt;Columns containing numeric data may be filtered giving an upper and/or lower bound in the form &amp;#34;&amp;lt;5&amp;#34; or a range in the form &amp;#34;-2..20&amp;#34;.&lt;/p&gt;&lt;/dl&gt;&lt;/div&gt;\" type=\"button\"><i class=\"icon-info-sign icon-white\"></i></button></div>", {"language": {"paginate": {"next": "Next", "previous": "Previous", "first": "First", "last": "Last"}, "emptyTable": "No data available in table", "info": "Showing _START_ to _END_ of _TOTAL_ entries", "infoEmpty": "Showing 0 to 0 of 0 entries", "infoFiltered": "(filtered from _MAX_ total entries)", "lengthMenu": "Show _MENU_ entries", "loadingRecords": "Loading...", "processing": "Processing...", "search": "Search:", "zeroRecords": "No matching records found"}, "bServerSide": true, "bProcessing": true, "sDom": "<'dt-before-table row-fluid'<'span4'i><'span6'p><'span2'f<'Examples-toolbar'>>r>t<'span4'i><'span6'p>", "bAutoWidth": false, "sPaginationType": "bootstrap", "aoColumns": [{"sName": "number", "sTitle": "#", "sClass": "right"}, {"sName": "name", "sTitle": "Primary text", "sClass": "object-language"}, {"sName": "analyzed", "sTitle": "Analyzed text"}, {"sName": "gloss", "sTitle": "Gloss", "sClass": "gloss"}, {"sName": "description", "sTitle": "Translation", "sClass": "translation"}, {"sName": "comment", "sTitle": "Comment", "bSortable": false}, {"sName": "d", "sTitle": "Details", "bSearchable": false, "bSortable": false, "sClass": "center", "sType": "html"}], "iDisplayLength": 100, "aLengthMenu": [[50, 100, 200], [50, 100, 200]], "sAjaxSource": "https://valpal.info/sentences?__format__=json&contribution=djam1255", "aaSorting": []});
+});
+</script>
+<script>    $(document).ready(function() {
+        $('.dl-widget-IIndex').clickover({
+            html: true,
+            title: 'Column information',
+            placement: 'left',
+            trigger: 'click'
+        });
+    });</script>
+        </div>
+    </div>
+
+    <script>
+$(document).ready(function() {
+    if (location.hash !== '') {
+        $('a[href="#' + location.hash.substr(2) + '"]').tab('show');
+    }
+    return $('a[data-toggle="tab"]').on('shown', function(e) {
+        return location.hash = 't' + $(e.target).attr('href').substr(1);
+    });
+});
+    </script>
+
+</div>
+
+
+                    </div>
+                </div>
+            <div class="row-fluid">
+                <div class="span12">
+                <footer>
+                
+                    <div class="row-fluid" style="padding-top: 15px; border-top: 1px solid black;">
+                        <div class="span3">
+                            <a href="http://www.eva.mpg.de"
+                               title="Max Planck Institute for Evolutionary Anthropology, Leipzig">
+                                <img width="80" src="https://valpal.info/clldmpg-static/minerva.png" />
+                            </a>
+                        </div>
+                        <div class="span6" style="text-align: center;">
+                            
+                            <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+                                <img alt="License" style="border-width:0" src="https://valpal.info/clld-static/images/cc-by.png" />
+                            </a>
+                            <br />
+                            
+                            <span class="Dataset" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type" xmlns:dct="http://purl.org/dc/terms/">The Valency Patterns Leipzig online database</span>
+                            edited by
+                            <span xmlns:cc="https://creativecommons.org/ns#"
+                                  property="cc:attributionName"
+                                  rel="cc:attributionURL">
+                                Hartmann, Iren &amp; Haspelmath, Martin &amp; Taylor, Bradley
+                           </span>
+                            
+                            <br />
+                            is licensed under a
+                            <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+                                Creative Commons Attribution 3.0 Unported License</a>.
+                        </div>
+                        <div class="span3" style="text-align: right;">
+                                <a class="clld-privacy-policy" href="https://www.eva.mpg.de/privacy-policy.html">Privacy Policy</a><br/>
+                            <a class="clld-disclaimer" href="https://valpal.info/legal">Disclaimer</a>
+                            <br/>
+                            <a href="https://github.com/clld/valpal">
+                                <i class="icon-share">&nbsp;</i>
+                                Application source
+                                    (v2026.9-1-g9586466)
+                                on<br/>
+                                <img height="25" src="https://valpal.info/clld-static/images/GitHub_Logo.png" />
+                            </a>
+                        </div>
+                    </div>
+                
+                </footer>
+                </div>
+            </div>
+        </div>
+
+        <div id="Modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="ModalLabel"></h3>
+            </div>
+            <div id="ModalBody" class="modal-body">
+            </div>
+        </div>
+
+        <script>
+             
+        </script>
+    </body>
+</html>

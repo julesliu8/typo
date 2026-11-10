@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Negative Evidence in Linguistics: The case of Wagiman Complex Predicates",
+    "doi": null,
+    "year": 2006,
+    "authors": [
+      "Aidan Wilson"
+    ],
+    "locations": [
+      [
+        "http://hdl.handle.net/2123/5385",
+        "http://hdl.handle.net/2123/5385"
+      ],
+      [
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.736.838",
+        null
+      ],
+      [
+        "https://ses.library.usyd.edu.au/bitstream/2123/5385/1/wilson_thesis_2006.pdf",
+        null
+      ]
+    ],
+    "abstract": "In this thesis I will justify the use of negative forms of evidence as a permissible means of analysing grammatical constructions. I do this by presenting a test case, a grammatical construction that is not entirely understood, and attempting to understand and explain further aspects of it by appealing to negative forms of evidence. The constructions that form the object of this investigation are complex predicates in the Wagiman language. It will be necessary first, to provide a detailed explanation of Wagiman complex predicates; the elements that comprise them, the way those elements combine and the limitations that hold on them. Following that, negative evidence of the combinations that are possible and combinations that are impossible will provide the means by which to identify the constraints that limit complex predicates."
+  },
+  {
+    "title": "Non-conflating Roots: The Syntax of Light Verbs and Complex Predicates in Ngarinyman",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Jessica Denniss"
+    ],
+    "locations": [
+      [
+        "http://hdl.handle.net/1807/130274",
+        "https://utoronto.scholaris.ca/bitstreams/64ef3ea2-85a3-4e5c-ac19-5a975b3131bc/download"
+      ]
+    ],
+    "abstract": "A long-standing view of light verb constructions (LVCs) is that they fundamentally differ from regular verbal predicates (Jespersen 1940, Butt 1995). Underpinning this view is the idea that LVCs are complex, while regular predicates are simple (Butt 2010). However, neoconstructionist theories of syntax, especially since Hale & Keyser (1993), have taken the view that all verbal predicates have complex syntactic structure, comprising at least an abstract v/Voice head and a complement (VP/NP/AdjP or acategorial root) (Marantz 1997, Borer 2005a, Harley 2008). As a result, LVCs can be modelled using the same underlying syntactic structure as proposed for regular predicates, with the difference between the constructions reducing to surface level phonological exponence (Folli, Harley & Karimi 2005). I present evidence from Ngarinyman (Pama-Nyungan, Australia) that supports the identical syntactic analysis of LVCs and non-LVCs, obviating the need to resort to a construction-specific syntactic operation, such as Argument/Event Fusion (Butt 1995) or Predicate Merger (Baker & Harvey 2010), which is required to map two verbs with their arguments onto one predicate with a single set of arguments. I argue that Ngarinyman LVCs constitute the most transparent spellout of a regular underlyingly complex vP. Specifically, I assume an exoskeletal syntax (Borer 2005a,b, Acedo-Matellán & Mateu 2014) in which acategorial roots Merge with functional heads in the vP. In the absence of a further phonological operation (e.g. conflation) to produce a monomorphemic lexical verb, roots in Ngarinyman are spelled out separately by coverbs, while the span (Merchant 2015, Svenonius 2020) of functional heads in the vP is spelled out by a light verb. I show that this analysis explains asymmetries between light verbs and coverbs, which are unexplained in approaches that treat them both as verbs. I further argue that this analysis accurately predicts the argument structure of Ngarinyman LVCs, which can be modelled solely on the light verb. This proposal entails that Ngarinyman light verbs remain ‘light’ even when they appear in non-LVCs as a so-called ‘heavy verb’ (see Ramchand 2014), correctly predicting Butt’s Generalisation (Butt 2003, Butt & Lahiri 2002). Implications for other languages are discussed."
+  },
+  {
+    "title": "Murrinh-Patha Complex Verbs : Syntactic Theory and Computational Implementation",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Melanie Seiss"
+    ],
+    "locations": [
+      [
+        "http://nbn-resolving.de/urn:nbn:de:bsz:352-0-308493",
+        "http://nbn-resolving.de/urn:nbn:de:bsz:352-0-308493"
+      ],
+      [
+        "https://kops.uni-konstanz.de/bitstream/123456789/32188/3/Seiss_0-308493.pdf",
+        null
+      ]
+    ],
+    "abstract": "Murrinh-Patha is a non-Pama-Nyungan language spoken in and around Wadeye in the Northern Territory of Australia. It is a highly polysynthetic language with a complex verbal structure. The Murrinh-Patha verb morphology is not only complex due to the large number of morphemes that a verb may consist of, but also due to a high degree of syncretism that these morphemes display. Additionally, complex interdependencies exist between the morphemes. The system is further complicated by a complex interface to the syntax and semantics, as no one to one correspondence between the morphological encoding and its syntactic and semantic interpretation exists. Murrinh-Patha morphology and its interface to syntax and semantics thus poses many challenges both for theoretical analysis and computational implementation. The main focus of this work is on one special interdependency in detail, namely on the interplay of two morphemes which together contribute the core semantic meaning of the verb. These morphemes are referred to as classifier stem and lexical stem and their combinations are considered morphological complex predicates. Complex predicates have been discussed for many different languages in a range of diverse frameworks. In most accounts of complex predication, the constraints on which elements may combine to form a valid complex predicate are cast within argument structure constraints. This thesis argues that in Murrinh-Patha, semantic concepts which would normally be considered encyclopedic knowledge play a prominent role in the selection process of the combinatory possibilities, irrespective of the number of arguments involved. To model these combinations, this thesis proposes a new way of analyzing complex predicates by combining Jackendoff’s (1990) Lexical Conceptual Structures (LCSs) with a relational approach to lexical semantics. The semantic concepts that restrict combinatory possibilities are modeled with hierarchies of selectional restrictions. These hierarchies are then used to derive the argument structure of the complex predicates in the form of LCS blueprints. Only the combination of both, I claim, can explain both the combinatory restrictions and the mapping to syntax found in Murrinh-Patha. The second part of the thesis is concerned with the computational implementation of Murrinh-Patha, with a special focus on the implementation of Murrinh-Patha verbs. The implementation of the Murrinh-Patha morphology is carried out with the Xerox finite-state technology tools XFST and LEXC (Beesley & Karttunen 2003) and is then used in a corpus study of a small Murrinh-Patha bible corpus with the aim of extracting new verbal candidates. The morphology is also used in a computational implementation of some parts of the Murrinh-Patha syntax, using the grammar development platform XLE (Crouch et al. 2015). The XLE grammar is then used in a range of applications for beginning learners of Murrinh-Patha, such as an electronic dictionary and a small English to Murrinh-Patha translation system."
+  },
+  {
+    "title": "A Morpho-pragmatic Classification of Turkish TAM Markers",
+    "doi": "https://doi.org/10.18492/dad.1083233",
+    "year": 2022,
+    "authors": [
+      "Kadri Kuram"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.18492/dad.1083233",
+        "http://dad.boun.edu.tr/en/download/article-file/2291553"
+      ],
+      [
+        "https://dergipark.org.tr/tr/pub/dad/issue/74538/1083233",
+        "https://dergipark.org.tr/tr/pub/dad/issue/74538/1083233"
+      ],
+      [
+        "https://doaj.org/article/35fff65b35d344d9afe249d8ffb59589",
+        null
+      ]
+    ],
+    "abstract": "This article reviews eight TAM (Tense/Aspect/Mood) markers of Turkish regarding their pragmatic functions. Its main argument is that three aspectuo-temporal situations and nominal predication present an environment where multiple markers compete for expression and that the choice of marker depends on pragmatics. Perfective past viewpoint has four competing markers: mIştI, DI, mIş and mIştIr. mIştI and DI contrast in that -mIştI marks shared knowledge while -DI marks the speaker’s epistemic primacy. mIş, on the other hand, only indicates that the speaker does not hold epistemic primacy. It is void of any assumptions regarding the addressee’s epistemic position. -mIştIr is the marker of choice if the speaker and the speech community share the knowledge of the past event and impose primacy over the addressee. Such a pragmatic classification allows us to treat the other markers competing for continuous aspect, iterative aspect, and nominal predication. These are -Ar and -yor with verbal predicates, and -DIr and -∅ with nominal predicates."
+  },
+  {
+    "title": "Genesis of the Trinity: The Convergent Evolution of Trirelational Kinterms",
+    "doi": "https://doi.org/10.22459/skc.04.2018.13",
+    "year": 2018,
+    "authors": [
+      "Joe Blythe"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.22459/skc.04.2018.13",
+        "https://doi.org/10.22459/skc.04.2018.13"
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-0017-C1F7-B",
+        null
+      ],
+      [
+        "http://hdl.handle.net/1885/204992",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-0017-C1F7-B",
+        null
+      ]
+    ],
+    "abstract": ""
+  },
+  {
+    "title": "Iconicity as a General Property of Language: Evidence from Spoken and Signed Languages",
+    "doi": "https://doi.org/10.3389/fpsyg.2010.00227",
+    "year": 2010,
+    "authors": [
+      "Pamela Perniss",
+      "Robin L. Thompson",
+      "Gabriella Vigliocco"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.3389/fpsyg.2010.00227",
+        "https://www.frontiersin.org/articles/10.3389/fpsyg.2010.00227/pdf"
+      ],
+      [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3153832",
+        null
+      ],
+      [
+        "https://pubmed.ncbi.nlm.nih.gov/21833282",
+        null
+      ],
+      [
+        "https://research.brighton.ac.uk/en/publications/50b5a160-45ac-4c6f-a58f-374435182508",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-0012-2852-6",
+        "http://hdl.handle.net/11858/00-001M-0000-0012-2852-6"
+      ],
+      [
+        "http://hdl.handle.net/2066/86270",
+        "http://hdl.handle.net/2066/86270"
+      ],
+      [
+        "https://doaj.org/article/3275bb7e40ac45e1b643b1b35c5d6860",
+        null
+      ],
+      [
+        "http://edoc.mpg.de/555352",
+        null
+      ],
+      [
+        "http://discovery.ucl.ac.uk/596029/",
+        null
+      ],
+      [
+        "https://research.birmingham.ac.uk/en/publications/7dc7c965-aac0-40b9-b109-1cd61ed10900",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-0012-2852-6",
+        null
+      ],
+      [
+        "http://hdl.handle.net/2066/86270",
+        null
+      ]
+    ],
+    "abstract": "Current views about language are dominated by the idea of arbitrary connections between linguistic form and meaning. However, if we look beyond the more familiar Indo-European languages and also include both spoken and signed language modalities, we find that motivated, iconic form-meaning mappings are, in fact, pervasive in language. In this paper, we review the different types of iconic mappings that characterize languages in both modalities, including the predominantly visually iconic mappings found in signed languages. Having shown that iconic mapping are present across languages, we then proceed to review evidence showing that language users (signers and speakers) exploit iconicity in language processing and language acquisition. While not discounting the presence and importance of arbitrariness in language, we put forward the idea that iconicity need also be recognized as a general property of language, which may serve the function of reducing the gap between linguistic form and conceptual representation to allow the language system to \"hook up\" to motor, perceptual, and affective experience."
+  }
+]

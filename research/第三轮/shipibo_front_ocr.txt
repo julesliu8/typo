@@ -1,0 +1,1202 @@
+
+[PDF PAGE 5]
+
+iv
+An Abstract of the Dissertation of
+Pilar M. Valenzuela
+for the degree of
+in the Department of Linguistics
+to be taken
+Title: TRANSITIVITY IN SHIPIBO-KONIBO GRAMMAR
+Doctor of Philosophy
+June 2003
+Approved:
+SiPagne
+The present dissertation is devoted to the documentation of Shipibo-Konibo (SK), a
+Panoan language from the Peruvian Amazon, and is divided into two parts. Part I offers the
+first account of the phonology, morphology, syntax, and discourse-pragmatic aspects of SK.
+This substantial grammatical description begins with an introduction to the Shipibo people
+and their language, as well as to the Panoan family.
+Part II provides an in-depth, typologically-informed treatment of selected morpho-
+syntactic topics, all of which cluster around transitivity, a central notion in SK grammar.
+The formal and functional properties of causative, applicative, reflexive, and reciprocal
+constructions are investigated, and a distinction between "transitivity agreement" versus
+"participant agreement" phenomena is established for the first time in Panoan linguistics.
+Participant agreement (PA), defined as the use of a distinct inflectional morphology
+on adjuncts in correlation with the syntactic function of the participant they are predicated
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 6]
+
+of, is probably the typologically most salient feature of Panoan grammar. Three basic PA
+patterns are identified in SK, all exhibiting an overall tripartite distribution (i.e., different
+forms for agreement with S, A, and O arguments); also different adjunct types are proposed
+based on the agreement patterns their members allow. Furthermore, a tentative correlation
+between adjunct types and varying degrees of participant-orientedness versus event-
+orientedness is offered. The overall tripartite distribution of the PA system (which
+diachronically involves case agreement) contrasts with the dominant ergative-absolutive
+case-marking on NPs, yielding a previously undescribed type of split-ergativity.
+In addition, a comparative and diachronic analysis of PA is offered, thus
+contributing to the reconstruction of Proto-Panoan morpho-syntax; the presence in the
+ancestor language of PA and a tripartite case-marking system in which both A and S
+arguments receive overt marking are posited. A handful of grammatical morphemes are
+reconstructed
+The properties associated with transitivity in SK, such as symmetricality of objects,
+intransitive and transitive semantically generic verbs, a minimal transitivity requirement for
+taking the malefactive applicative, a transitivity agreement requirement in verb
+serialization, and especially PA, constitute features of significant typological interest,
+contributing to an understanding of transitivity and the various and complex ways it is
+encoded in language
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 7]
+
+CURRICULUM VITA
+NAME OF AUTHOR: Pilar M. Valenzuela
+GRADUATE AND UNDERGRADUATE SCHOOLS ATTENDED:
+University of Oregon
+Pontificia Universidad Católica del Perú
+DEGREES AWARDED:
+Doctor of Philosophy in Linguistics, 2003, University of Oregon.
+Master of Arts in Linguistics, 1997, University of Oregon.
+Bachelor of Arts in Hispanic Linguisties and Literature, 1991, Pontificia
+Universidad Católica del Perú.
+Diploma de Estudios en Antropología, 1991, Pontificia Universidad Católica del
+Perú.
+AREAS OF SPECIAL INTEREST:
+Functional-Typological Morpho-Syntax
+Inc Btaionsip otein anguae, Culture and Society
+PROFESSIONAL EXPERIENCE:
+Tachiz a4ant, Department of Linguisics, University of Oregon, 1997-1999,
+Lecturer, Department of Linguistics, University of Oregon, Summer 2002.
+Lecturer, Bolivian Government and Confederation of the Indigenous Peoples of
+Bolivia, June-August 1996, and June-August 1997.
+Visiting Lecturer, Master's Program in Andean Linguistics and Intercultural
+Bilingual Education, Universidad Nacional del Altliplano-Puno, Peru, June-
+August 1994 and June-August 1995.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 8]
+
+vii
+Linguist and Teacher, Programa de Formación de Maestros Bilingües de la
+Amazonía Peruana, Iquitos, 1990-1993.
+Visiting Lecturer, Facultad de Traducción e Interpretación, Universidad Femenina
+del Sagrado Corazón, Lima, 1987-1988.
+Teaching Assistant, different departments, Pontificia Universidad Católica del Perú,
+Lima, 1984-1987.
+Researcher, Project "Perú-Birf II for the Expansion of Intercultural Bilingual
+Education among the Quechua population of Southern Peru," Instituto Nacional
+de Investigación y Desarrollo de la Educación, Ministry of Education, Peru,
+1988-1989.
+GRANTS, AWARDS AND HONORS:
+Doctoral Fellow, Department of Linguistics, Max Planck Institute for Evolutionary
+Anthropology, Leipzig, July 1999-June 2002.
+Target of Opportunity "Laurel Award," Multicultural-Center and Graduate School,
+University of Oregon, 1997-2002.
+Inter-American Foundation Field Research Fellowship at the Dissertation Level, for
+Caribbean, Latin American and U.S. Citizens, 1999-2000.
+Research Fellowship, "Ainbobo: Unheard Voices of the Amazon Rainforest,"
+Center for the Study of Women in Society, University of Oregon, 1998.
+ITisonaion Eourt, tir aridtd In, tarch lonthi o gsan aites, 1998.
+Research/Travel Fellowship, Department of Linguistics and Graduate School,
+University of Oregon, 1997, 1998, 1999, 2002.
+"The International Trade and Development Graduate Fellowship," Oregon State
+System of Higher Education and Sasakawa Foundation of Japan, 1996 and 1995.
+U.S. Graduate Study Fellowship for Latin American and Caribbean Citizens, Inter-
+American Foundation, 1995 and 1994.
+Travel Folowship, Insitute of Latin American Sudies, Stockholm Univerily,
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 9]
+
+viii
+Linguistic summer training at the University of Oregon, Ministry of Education of
+Peru, 1988.
+PUBLICATIONS:
+Valenzuelericar or .he Caiesori intialioain Shn plox-koni x; Aikhecoaid anat k. M. w.
+Dixon (eds.), Studies in Evidentiality, pp. 33-61. Amsterdam: John Benjamins.
+2002a. Causativization and Transitivity in Shipibo-Konibo. In Masayoshi
+Shibatani (ed.), The Grammar of Causation and Interpersonal Manipulation,
+Typological Studies in Language, pp. 417-483. Amsterdam: John Benjamins.
+2002b. Relativization in Shipibo-Konibo: A typologically-oriented study.
+LINCOM Studies in Native American Linguistics 42. München: Lincom Europa.
+2001a. with Luis Márquez Pinedo, and Ian Maddieson. Illustrations of the IPA:
+Shipibo. Journal of the International Phonetic Association, vol. 31, issue 02,
+December 2001, pp. 281-85.
+2001b. Características Morfosintácticas del Idioma Shipibo-Konibo del Ucayali.
+In Bob de Jonge (ed.), Actas del I Congreso de la Asociación de Lingüística y
+Filología de América Latina (ALFAL) Región Noroeste de Europa. Estudios de
+Lingütstica Española, vol. 13 (2001). http://clies.rediris.es/clies13/
+2000a. Major Categories in Shipibo Ethnobiological Taxonomy. Anthropological
+Linguistics, vol. 42, n.1, pp. 1-36.
+20006. Ergatividad escindida en wariapano, yaminawa y shipibo-konibo. In Hein
+van der Voort and Simon van de Kerke (eds.), Indigenous languages of Lowland
+South America. Indigenous Languages of Latin America (ILLA) 1, pp. 111-128.
+Leiden, The Netherlands: Research School of Asian, African, and Amerindian
+Studies, University of Leiden.
+1997, Sdria l. Trans im pr. Soyle ake/urno i. Sriftn (Kos), (ianan).
+Linguistic Society 35: The Panels, Theory & Linguistic Diversity, pp. 355-371.
+Chicago: Chicago Linguistic Society.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 10]
+
+iх
+1998a. Luna-Avispa y Tigre-Machaco: Compuestos Semánticos en la Taxonomía
+Shipiba. In Zarina Estrada, Max Figueroa, Gerardo López, and Andrés Costa (eds.),
+IV Encuentro Internacional de Lingüística del Noroeste, Memorias I, vol. 2, pp.
+409-28. Hermosillo: Universidad de Sonora.
+19986. El Morfema de Ergatividad en el Shipibo-Conibo. In Luis Miranda and
+Amanda Orellana (eds.), Actas del II Congreso Nacional de Investigaciones
+Lingüistico-Filológicas, tomo II, pp. 217-245. Lima, Perú: Universidad Ricardo
+Palma.
+1997. Basic verb types and argument structures in Shipibo-Conibo. University of
+Oregon M.A. thesis.
+1995a. Realizaciones de la Consonante Postvelar /q/ en el Quechua del Sur Andino.
+Lexis: Revista de Lingülstica y Literatura, vol. XIX, 2:289-302. Lima, Perú:
+Pontificia Universidad Católica.
+1995b. Una Experiencia de Taller de Análisis Morfosintáctico con Futuros Maestros
+Bilingües. Museo Nacional de Etnología y Folklore (ed.), Reunión Anual de
+Eimace NusemiNacio de iducncdon iay Tfoiec mercillwral, tm 1, p.305 22.
+1991. Clasificación de la Lengua Iñapari dentro de la Rama Pre-Andina de la Familia
+Arawak. In Ignacio Prado Pastor (ed.), Revista Latinoamericana de Estudios
+Etnolinguüisticos, vol. 6, pp. 209-39. Lima, Perú.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 11]
+
+ACKNOWLEDGMENTS
+First and foremost I wish to express my gratitude to all the Shipibo people who generously
+shared their knowledge, customs, language and a little bit of their lives with me. Although
+it is impossible to mention all of them, I would like to record my special gratitude to the
+following persons (Shipibo names are followed by Spanish names and villages of origin
+within parentheses): Metsá Sani (Javier Ramírez Bardales, Pao Ian), Ronin Siná (Caco
+Macaya), Mokan Rona (Nuevo Nazareth del Pozo), Kai Weni (Nuevo Edén), Inin Niwe
+(César Pérez, Vencedor), Ranin' Ama (Agustina Valera Rojas, San Francisco), Ronon Meni
+(Evaristo López Magín, Yarina), Inkan Soi (Kruger Pacaya Cruz, Bawanisho), Yoi Sani
+(Luis Márquez Pinedo, "Dos Unidos" de Pachitea), Kesin Beso (Oseas Barbarán Sánchez,
+Callería), Korin Piko (Juan Chávez, Colonia de Caco), Isá Bea (Orlando Mori Barbarán,
+Contamana), Barin Meni (Carlos Panduro, Nuevo Edén), Ranin Nita (Hagner Valera
+Rodríguez, San Francisco), and Sanken Bari (Rafael Urquía Odicio, Yarina). I also thank
+all former Shipibo students and especialistas from the Programa de Formación de Maestros
+Bilingües de la Amazonía Peruana with whom I had the opportunity to work.
+In addition, I wish to express sincere appreciation to the following indigenous
+organizations for having granted me the privilege of working with them and / or for helping
+me in different ways during my stays in the Shipibo territory: Asociación Interétnica de
+Desarrollo de la Selva Peruana (AIDESE.P), Oficina Regional de AIDESEP-Ucayali,
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 12]
+
+xі
+Proyecto de Titulación de Tierras-Ucayali, Federación de Comunidades Nativas del
+Ucayali y Afluentes (FECONAU), Federación de Comunidades Nativas del Bajo Ucayali
+(FECONBU), Asociación de Medicina Tradicional (AMETRA-Ucayali). I also wish to
+thank the conductors of the Shipibo radio programs "Shinanya Joni" and "Non Joi." It is
+my hope that some of the scientific findings of this work be later used in Shipibo education,
+the development of Shipibo-Konibo, and the strengthening of Shipibo identity and pride.
+Turning now to the non-Shipibo world, special thanks are due to Prof. Doris Payne,
+who was involved in this project since its inception and served as Chair of my Dissertation
+Committee. Mil gracias to Prof. Bernard Comrie, who guided different steps of this work
+by reviewing each chapter as I wrote it, and who reminded me that "there is life after the
+dissertation." My thanks also to the other members of my Committee for all their useful
+comments, to Prof. Susan Guion for comments on the phonology section, and in general to
+the professors of the Linguistics Department at the University of Oregon for "taking
+languages seriously." I am also grateful to Eva Schultze-Berndt for comments and
+suggestions on the discussion of participant agreement.
+Most special thanks go to my son Pedro Pablo Zea Valenzuela, Wexá Bari, who
+accompanied me through Iquitos, the United States, and Germany during all the years of
+my work at the Programa de Formación de Maestros Bilingües de la Amazonía Peruana,
+my graduate studies at the University of Oregon, and my doctoral fellowship at the Max
+Planck Institute for Evolutionary Anthropology. Infinite thanks are due to my parents,
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 13]
+
+xіi
+Pedro Valenzuela and Clorinda Bismarck de Valenzuela, for their love, care, and
+unconditional support to all my initiatives and projects.
+The completion of my Ph.D. program could not have been possible without the
+generous financial support from the Max Planck Institute for Evolutionary Anthropology in
+Leipzig, the Inter-American Foundation, the Target of Opportunity "Laurel" Award granted
+by the University of Oregon, and the Department of Linguistics at the same university.
+Their confidence in my work served also as emotional support during the times when non-
+linguistic factors made the completion of this task seem overwhelming. I am also very
+grateful to Prof. Sally Thomason and the Linguistics Department at the University of
+Michigan for hosting me during the fall of 2001, providing me with such a friendly and
+motivating environment.
+Ichabires iráke to my panologist friends, especially Jacques Tournon (Ino Pabiki),
+for sharing their work, knowledge and insights with me; foremost we all share the same
+fascination for the "Core People." I also wish to thank my Latin American colleagues and
+friends who gave me a lot of encouragement during the time of my graduate studies,
+particularly Zarina Estrada from the Universidad de Sonora and Verónica Grondona from
+Eastern Michigan University. Last but not least, I would like to thank Oliver Iggesen for
+his help, company, interminable political and linguistic discussions, and caring love.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 14]
+
+хiii
+AGRADECIMIENTOS
+Nato tee pikota riki ea Piróainoax, Istáros Onirosainoax itan Arimániainoax icha baritia
+teeta. Jakonshamankin maton joi onani itanribi jakonakin shinanbanon, jaskáaxon joi
+onanti kirika chibaanan (lingüistica) tanabokin. Jaskáribi Shipibo joi en tanai itai wetsa
+joibo betan.
+Jakoinrama riki nato tee, ikaxbi nato tee en aká riki jatibi Shipibo jonibo
+shinantaana, maton joi jaskáribi maton axé keyómayamai kopi:
+- Yoxanshokobo itan yosishokobo, moatian axébopari chibankanai kopi.
+- Jatibi titabo, papabo, netetibi maton joi maton bakebo axeai kopí.
+- Jatíbi axeamisbo, netetibi jaton onan shinan chopeaketaanan, jakonakin bakebo jaton
+joinbo yoyo ati itan wishati axeai kopi.
+- Bakebo, jabo kopikaya maton joi, axé japari kai.
+- Nato koshibo, jemabaon mai koiranai, jaskáribi maton derecho kopí yoyo ikaibo.
+- Jainoaxribi jaton joi itan jaton main paranan reteanani koshibo. Nato Ronkáto, jaabo
+kopi rama kamanbi mato jakonbires jake.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 15]
+
+xiv
+Chonka rabé baritia riki nato tee en akin peoni, jati baritiaribi iki ea Shipibo betan
+raenani peokoni. Nato tee en akaitianra icha Shipibo jonibaon itan institucionesbaon ea
+akinai. Nato riki jawetikan jane: FORMABIAP primera, segunda, tercera promoción de
+maestros shipibos, FECONAU, FECONBU, Oficina Regional de AIDESEP-Ucayali,
+Proyecto de Titulación de Tierras, AIDESEP-Ucayali, AMETRA-Ucayali, "Shinanya
+Joni", "Non Joi", Comunidad Nativa de Vencedor (Panchá Tawa Jema, Piski), Metsá Sani
+(Javier Ramírez Bardales, Pao Ian), Ronin Siná (Caco Macaya), Mokan Rona (Nuevo
+Nazareth del Pozo), Kai Weni (Nuevo Edén), Inin Niwe (César Pérez, Vencedor),
+Ranin'Ama (Agustina Valera Rojas, San Francisco), Ronon Meni (Evaristo López Magín,
+Yarina), Inkan Soi (Kruger Pacaya Cruz, Bawanisho), Yoi Sani (Luis Márquez Pinedo,
+"Dos Unidos" de Pachitea), Kesin Beso (Oseas Barbarán Sánchez, Calleria), Korin Piko
+(Juan Chávez, Colonia de Caco), Isá Bea (Orlando Mori Barbarán, Contamana), Barin
+Meni (Carlos Panduro, Nuevo Edén), Ranin Nita (Hagner Valera Rodriguez, San
+Francisco), and Sanken Bari (Rafael Urquía Odicio, Yarina).
+Jatibishamanra en matoki shinanyamai. Ea ichabires disculpankanwe, jawe keská
+ikax ea jatíribibaon shinanbenoke mato janetinin. Ichabires iráke!
+Reproduced with permission of the copyright owner. Further reproduction prohibited without perrission.
+
+[PDF PAGE 16]
+
+×v
+A Pedro, Clorinda, Pedro Pablo у Arabela Urpi.
+Jatibi Shipibo Jonibaona.
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 17]
+
+xvi
+TABLE OF CONTENTS
+Chapter
+1. INTRODUCTION
+1.1. Purpose of the Study.
+1.2. Organization of the Study
+1.3. The Shipibo People......
+1.3.1. Location...
+133. Haiagrp,...
+134. Sni pheo orioni ot thred xane Ssipibo.
+1.3.6. Subsistence Actio...................
+1.3.7. Social Organization and Other Cultural Features
+1.3.8. The Avoidance Relationship of Rayos
+1.3.9. Historical Framework
+1.4. Shipibo-Konibo..
+1.4.1. Names of the Language...
+1.4.2. State of Endangerment of the Language
+1.4.3. Levels of Spanish Bilingualism....
+1.4.4. Previous Literature on Shipibo-Konibo
+1.4.5. Genetic Affilation....
+1.5. The Panoan Language Family..
+1.5.1. Sub-classification within the Panoan Family
+1.5.2. Features of Proto-Pano Grammar.
+1.6. More Inclusive Classifications.
+1.7. Notes on Language Contact..
+1.8. Theoretical Framework...
+1.8.1. The Functional-Typological Approach
+1.8.2. Main Tenets of Functionalism…
+1.8.3. Typological and Descriptive Studies...
+1.8.4. Prototype Theory.....
+1.8.5. Alignment Typology...
+1.8.6. Database and Methodology.
+Page
+...1
+...4
+...5
+...6
+...8
+...8
+....9
+....11
+...13
+....14
+....16
+...18
+.31
+.31
+.32
+.36
+.37
+.39
+..41
+.43
+..55
+.58
+...61
+..64
+..64
+..66
+...68
+.69
+..72
+.74
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 18]
+
+xvii
+Chapter
+PARTI: A GRAMMAR OF SHIPIBO-KONIBO
+2. TYPOLOGICAL CHARACTERIZATION AND OTHER SALIENT
+FEATURES...
+2.1. Typological Characterization of Shipibo-Konibo
+2.1. Morphological Typology
+2.2. Basic Constituent Order .
+2.3. Expression of Arguments
+2.4. Head-Marking versus Dependent-Marking Features
+2.5. Case-Mark .................
+2.6. Participant Agreement_----
+2.7. Clause-Chaining and Switch-Reference System...
+2.8. Transitivity Agreement ...
+2.9. Split-Ergativity ..
+2.10. Evidentialit..............
+2.11. Other Salient Features....
+2.12. Diachronic Observations...
+2.13. Negative Characteristic....
+2.14. Semantic and Cultural Observations.
+3. PHONOLOGY AND MORPHO-PHONOLOGY..
+3.1. Phonology
+3.1.1. Phonemic Inventory.
+3.1.2. Phonotactics.
+3.1.3. Other Phonological Processes
+3.1.4. Syllable Structure..........
+3.1.5. Minimal Word Condition
+3.1.6. Stress
+3.1.7. Adaptation of Loanwords
+3.23 21. Sim pitnolioy Procs: Deltrion and Merging
+3.2.4. Towards a Single Notion of Mora.
+3.3. Practical Transcription..
+Page
+.79
+.79
+79
+...86
+...87
+...89
+..93
+..93
+...93
+...98
+.102
+.104
+.106
+.107
+.114
+.116
+.116
+..118
+..126
+136
+..138
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 19]
+
+хvili
+Chapter
+4. MORPHOLOGICAL AND RELATED PROCESSES
+4.1. Affixation...
+4.1.1. Suffixation.
+4.1.2. Prefixation..
+421. Pecond Posion Chices
+4.2.3. "Less-fixed" Clitics...
+4.3. Alternate Derivation ...
+4.4. Stem Modification..
+4.5. Suppletion.....
+4.6. Reduplication..
+4.7. Alternate Auxiliarization
+4.8. C, Coumjound Nouns:
+4.8.2. Compound Verbs...
+4.9. From Verb Serialization to Derivation.
+5. OVERVIEW OF WORD CLASSES
+5.1. Nouns vs. Adjectives.
+5.2. Adjectives and Quantifiers
+5.2.2. Derived Adjectives
+5.2.3. Quantifiers.
+5.2.4. Pronominal and Demonstrative Modifiers
+5.3. Time-Location-Manner Words and Postpositions
+5.3.1. Time-Location-Manner Words....
+Page
+.. 140
+.141
+.141
+.141
+.143
+.143
+.143
+5.3.5. Time-Location-Manner Words and Postpositions
+5.4. Ver l...................
+5.4.1. Predicative Function
+5.5. Conjunctions.
+5.6. Interjectio............
+5.7. Onomatopocic Words.
+.150
+.150
+.154
+.155
+..155
+.156
+.157
+.161
+.162
+165
+.165
+.166
+.168
+.168
+.169
+.169
+.171
+.172
+173
+..174
+. 177
+..178
+.181
+.182
+.183
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 20]
+
+xix
+Chapter
+6. THE NOUN AND THE NOUN PHRASE.....
+6.1. Pronouns.
+6.1.1. Personal Pronouns..
+6.1.2. Emphatic Pronouns
+6.1.3. Doubled Pronouns...
+6.1.4. Other Personal Pronominal Forms
+6.1.5. Interrogative Pronouns.
+6.16. Dimelocaion Mannur Demonstalives:
+6.2. Nouns ......
+6.2.1. Female vs. Male Distinction
+6.2.2. Number....
+6.2.6. Nouns Denoting Parts of the Body.
+6.2.8. Origin / Augmentative -n Ewá...
+6.3.1. The Nominalizer -Ti...
+6.3.2. Zero Nominalization on Verbs
+6.3.4. Zero Nominalization on Time-Location-Manner
+6.4. .1. Tai nas Nmneheat Causa Nvitr -...
+6.5. Nominal Compounding ...
+6.6. Noun Phrase Markers...
+6.6.1. The Proprietive -Ya and The Privative -Oma…...
+6.6.2. The Diminutive -Shoko and The Deprecatory -Isi ~ -Osi
+6.6.3. The Legitimative -Kon and Its Negative -Koma..
+6.6.4. The Plural / Collective -Bo..
+6.6.5. Case-Markers..
+6.7. Word Order in the Noun Phrase.
+6.7.1. Nouns and Modifying Nouns
+6.7.2. Nouns and Possessive Modifiers.
+6.7.3. Nouns and Demonstrative Modifiers
+6.7.4. Nouns and Non-Numeral Quantifiers..
+Page
+..184
+.184
+.185
+.188
+.191
+.192
+..194
+.199
+199
+..203
+..204
+..205
+..205
+.206
+.209
+..210
+.212
+.212
+.212
+.213
+213
+214
+.214
+.214
+.215
+.217
+.217
+.217
+.218
+.219
+..221
+..234
+..235
+..236
+.236
+.237
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 21]
+
+Chapter
+6.7.5. Nouns and Numerals...
+6.7.6. Nouns and Adjectives.....
+6.7.7. Coordination of Nominal Modifiers...
+6.7.8. Nominal Modifiers and the Free Intensifier Kikin
+6.7.9. Nouns and Circumstancial Modi f e............
+6.7.10. Nouns and Meskó Keská 'Different Kinds of'...
+6.7.11. Nouns and Texkan 'Large Bunch of'….
+6.7.12. Nouns and Relative Clauses.........
+6.7.13. Comitative Postposition and Coordinating Conjunction:
+Betan......
+6718. Nimoimsi aoionstiten Motife Jyfs...
+7. THE VERB AND THE VERB PHRASE
+7.1. The Verb...
+7.2. The Polyfunctional Auxiliaries Ik- and Ak-
+7.3. Prefixes...
+7.4. Valence-Changing Derivations
+7.4.1. Causativizers..
+7.4.2. Applicatives
+7.4.3. The Middle Marker -I
+7.4.4. Reciprocal.
+7.5. Deictive-Directive Markers: Core Verb Serialization
+7.5.1. 'Going Up' and 'Going Down'
+7.5.2. 'Going' and 'Coming'
+7.6. Andatives and Venitives...
+7.6.1. The Venitives-Kiran /-Beiran...
+7.6.2. The Andatives -Kain / -Bain...
+7.7. Adverb-Type Markers
+7.7.1. -Tan 'Go Do Sth. (Tr.) (and Return)'
+7.7.2. -Toshi(t) 'Suddenly, Surprisingly'.
+7.7.3. -Bait 'All Day Long'
+7.7.5. -Bekon Action Carried Out by Two People..
+4.35. Pan Compirerai
+7.7.8. The Frustrative -Kean...
+7.7.10. -Wetsa-yama "Not Again'.
+Page
+.239
+.240
+.242
+.243
+..245
+..246
+..246
+..246
+.247
+.250
+.252
+.254
+..254
+..256
+..257
+...258
+..258
+..261
+..263
+.265
+.267
+268
+.271
+.273
+.273
+.275
+.279
+.279
+.280
+..280
+..281
+..284
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 22]
+
+xxі
+Chapter
+7.8. Definite Tenses...
+7.8.1. -Yat ~-Yá "Tomorrow' Future....
+7.8.2. -Wan 'Earlier Today' Past.....
+7.8.3. -Ibat ~-Ibá "Yesterday, A Few Days Ago' Past..
+7.8.4. -Yantan 'Some Months, A Few Years Ago' Past
+7.8.5. -Rabe 'Nine Months to Three Years Ago' Past...
+7.8.6. -Kati(t) Distant 'Many Years Ago' Past....
+7.8.7. -Ni Remote Past....
+7.9. "Less-Fixes" Clitics....
+7.10. The Preventive -Na...
+7.11. Final Suffixes....
+7.11.1. Finite Final Suffixes.....
+7.11.2. Non-Finite Final Suffixe...........
+7.12. Periphrastic Verb Fo.r..................
+7.12.1. Participial Periphrastic Verb........
+7.12.2. Same-Subject Marked Periphrastic Verbs.......
+7.13. Modalit..................
+7.13.2. V ti la- and Vi Yam.-..
+7.13.3. V-ti Iki .....
+7.14. Phasal Verbs..
+8. SIMPLE CLAUSES
+8.1.1. Ergative-Absolutive Case-Marking System..
+8.1.2. Intraclausal Split-Ergativity.
+8.2.2. Extended Intransitive Clauses...
+8.2.4. Ambitransitive Clauses...
+8.2.5. Clauses with Cognate Object Verbs..
+8.2.6. Clauses with Prefixed Verbs......
+8.2.7. Clauses with Onomatopoeic Verbs.
+8.2.8. Desiderative Clauses...
+8.2.9. Indefinite Clauses...
+8.3. Participant Agreement
+331. Aocative Aluive Adjunts..
+Page
+..284
+...285
+...285
+...286
+..286
+.287
+.288
+.288
+.289
+.292
+.293
+.293
+.295
+..297
+..297
+..304
+..312
+..312
+..316
+.317
+.318
+.322
+..322
+.322
+..326
+.329
+.329
+.338
+.344
+..348
+.350
+..354
+.362
+.366
+.369
+.371
+..372
+.372
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 23]
+
+xxii
+Chapter
+8.3.3. From Place Adjuncts to Conjunctions...
+8.3.4. Quantity and Manner Adjunct.........
+8.4.2. Content Questions ......
+8.4.3. Further Types of Questo . .............
+8.5. Short Answers to Polar Question.........
+8.6. Directives........
+8.6.1. Jussive .....
+8.6.2. Imperative.......
+8.6.3. Exhortative...
+8.6.4. Polite Imperative....
+8.6.5. Greetings and Leave-Takings..
+8.7. Comparison............
+8.7.1. Equal Comparison.....
+8.7.2. Unequal Comparison....
+8.7.3. Superlative......
+8.8.1. Non-Basic Constituent Order
+8.8.2. Impersonal Passive...
+8.8.3. Middle Voie......
+8.8.4. Promotional Passive?...
+8.8.5. Object Demotion..
+9. CLAUSE-CHAINING AND SWITCH-REFERENCE
+9.1. Same-Subject Marked Clauses ..
+9.1.1. Previous Events....
+9.1.2. Simultaneous Events..
+9.1.3. Following Events..
+9.1.4. The Previous Same-Subject Marker -Ta(a)nan .
+9.1.5. The Simultaneous Same-Subject Marker -Anan..
+9.2. Different-Subject Marked Clauses....
+9.2.1. Previous and Simultaneous Events..
+9.3. Oi: Prtoisus Ert Coreterentialiy
+933, Siloling EYEens.
+Page
+..374
+..374
+...376
+..376
+.378
+..385
+.391
+..394
+..395
+.397
+.400
+.403
+.403
+.404
+.404
+..406
+.407
+..407
+..408
+.409
+.410
+.411
+.412
+.413
+..414
+414
+.416
+.417
+418
+.419
+.419
+419
+423
+..424
+..424
+..425
+.426
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 24]
+
+xxіii
+Chapter
+9.4. Syntactic Pivot....
+9.5. Overlapping of Subject Reference..
+10. NOMINALIZATION OF CLAUSES
+10.1. Nominalization..
+10.1.1. Verb Morphology..
+10.1.2. Argument Structure, Alignment, and Adjunct Status
+10.1.3. Sentence Second Position Clitics
+10.1.4. Constituent Order...
+10.2. Relative Clauses...
+10.2.1. Positional Types..
+10.2.2. The Absence of a Differential Nominalization Strategy.
+10.2.3. The Demonstrative Ja....
+10.2.4. Relativizability and Relativization Strategies
+10.3. Complement Clauses...
+10.3.1. Non-Implicative Manipulation Verbs
+10.3.2. Cognition and Utterance Verbs..
+10.3.3. Perception Verbs and Namat- "Dream'
+10.4. Adverbial Clauses....
+10.4.1. Purpose...
+10.4.2. Reason
+10.4.3. 'After'.
+10.4.4. 'Before'
+10.4.5. Limitative..
+10.4.6. Similative..
+10.4.7. 'Since'
+10.4.8. Manner / Means..
+10.4.9. Irrealis Conditional.
+10410. Concesfictia Corstioal.
+11. COORDINATION OF CLAUSES...
+11.1. Conjunction...
+11.1.1. Juxtaposition......
+11.1.2. -Ribi 'Again, Also'
+11.1.3. Conjunctions.
+11.1.4. -Kan 'And'.
+Page
+.427
+..429
+..435
+.435
+.435
+.438
+462
+465
+467
+487
+..487
+...491
+...492
+.493
+.493
+...495
+..496
+..496
+..497
+..498
+..498
+.499
+.499
+.500
+.501
+.503
+.503
+..503
+..504
+.505
+..508
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 25]
+
+xxiv
+Chapter
+11.1.5. Negative Conjunction.....
+11.1.6. Non-Restrictive Conjunction
+11.2. Disjunction...
+11.3. Adversative.
+12. FURTHER REFLECTIONS ON GRAMMATICAL RELATIONS…..516
+12.1. Ergative and Absolutive.....
+1213. Patinailyr: Aetceometin Rocative/ ANaive Adjuncts
+12223. Delci a under coreiephatie Pronoun..
+12.3.2. Causativization...
+12.3.3. Applicativization..
+12.3.4. Object-to-Subject Coreferentiality
+12.3.5. Externally-Headed Relativization
+12.3.6. Internally-Headed Relativization
+12.4. Tripartite Alignment..
+12.5. S-Marked Alignment.
+13. EVIDENTIALITY AND EPISTEMIC MODALITY
+13.1. The Direct Evidential / Certainty Marker -Ra.
+13.2. The Reportative -Ronki ...
+13.3. The Reportative -Ki..
+13.4. The Inferential / Probabilitive -Bira
+13.5. The Speculative / Dubitative -Mein ~-Main
+13.6. Evidentials and Cultural Attitudes.....
+13.7. Evidentials and European Innovations..
+Page
+.509
+.510
+.510
+.512
+...516
+.516
+.517
+.518
+.519
+.520
+.520
+.521
+.522
+.524
+..525
+..527
+.527
+.528
+.529
+.529
+.530
+.530
+.531
+.532
+.532
+..534
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 26]
+
+xXV
+Chapter
+14. NOTES ON DISCOURSE ORGANIZATION
+14.1. Narrative Organization
+14.2. Object-to-Subject Coreferentiality
+14.3. Direct and Indirect Speech
+14.3.1. Direct Quotes..
+14.3.2. Indirect Speech.
+141433. Seaid DSugte Hensay.
+PART II: ISSUES IN TRANSITIVITY
+15. TRANSITIVITY
+Page
+553
+.553
+.557
+.560
+.560
+.561
+.562
+.563
+15.3.1. Phasal Verbs
+1332 Come it ion Dairtbuwir SuTics
+15.3.4. Semantically Generic Verbs.
+15.3.5. Malefactive Marking
+16. CAUSATIVIZATION.
+16.1. Introduction......
+16.2. Causativization: Forms and Structures.
+16.2.1. The General Causativizer - Ma...
+16.2.2. Other Causativization Strategies
+16.2.3. Alternate Auxiliarization…
+16.2.4. 'Come' / 'Bring' and 'Go' / 'Carry'.
+16.2.5. On the Syntactic Status of Causatives…
+16.2.6. Causativization and the Determination of Reference
+.565
+.565
+.565
+.570
+..572
+.575
+.579
+..581
+.583
+..586
+..587
+.588
+.592
+.594
+..600
+.606
+.608
+..608
+..611
+.611
+.621
+.624
+.625
+.625
+.631
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 27]
+
+xxvi
+Chapter
+16.3. Semantic Aspects: Direct versus Indirect Causation
+16.3.1. Alternate Causativizers...
+16.3.2. The Detransitivizing Strategy....
+16.3.3. Combined Strategies....
+16.3.4. Semantic Restrictions.........
+16.4. Adverbial Scope and Causativization..
+16.5. Summary.
+Page
+.632
+...634
+...640
+...643
+.648
+.653
+.663
+17. APPLICATIVIZATION..
+668
+..668
+17.1.1. Definition of Applicative Construction
+..669
+1713. Tupolionisal Apisire Constuetno..
+...671
+..681
+17.1.4. Applicativization and Causativization..
+...683
+17.1.5. Applicatives in Shipibo-Konibo..
+...686
+...687
+17.2.1. -Xon with Intransitive Stems ....
+..689
+17.2.2. -Xon with Transitive Stems..
+...695
+17.2.3. Object Properties in -Xon Applicative Constructions
+..699
+17.2.4. The Applicative-Xon and Other Valency-Changing.
+Devices..
+17.2.5. Obligatoriness of -Xon Applicative Constructions..
+.712
+.714
+17.3. The Malefactive-(V)na(a)n ~-(V)n..
+17.3.1. The Malefactive Applicative Construction .
+.721
+.722
+17.3.2. The Malefactive and Verbs of Intermediate Transitivity
+...729
+17.3.3. Malefactive Applicative Constructions and Semantic.
+Restrictions....
+17.3.4. Object Properties in Malefactive Applicative ...
+.735
+Construction....
+.738
+17.3,5. The Malefactive Applicative and Other Yaleney-Chang746
+Devices....
+17.3.6. Obligatoriness of the Malefactive Applicative.
+Construction..
+17.4. The Associative -Kin ~ Kiin
+.748
+..749
+17.4.1. The Associative Applicative Construction
+.750
+17.4.2. Object Properties in Associative Applicative.
+Constructions...
+1743 Taltnsochaisong pictve and Oller
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 28]
+
+Xxvii
+Chapter
+17.4.4. Non-Applicative Associative Constructions..
+17.5. Multiple Applicative Constructions...
+17.6. Summary.
+18. DETRANSITIVIZATION......
+18.1. Reflexive and Other Constructions Signaling
+Subject-Affectedness.....
+18.1.1. The Middle Marker -I
+18.1.2. Reflexive and Emphatic Subject Senses
+18.1.3. Reflexive Onomatopoeic Verbs .
+18.1.4. Locative Reflexives ....
+18.1.5. Possessive Reflexives..
+18.1.6. Benefactive Reflexives....
+18.1.7. Reflexives without an Antecedent
+18.1.8. Reflexives and Complex Sentences..
+18.1.9. Reflexive, Anticausative, and Agentless Passive Senses
+18.1.10. Middle Stems and Causative Constructions....
+18.2. Reciprocalization...
+18.2.1. Reciprocalization and Transitivity Classes of Verbs.
+18.2.2. Benefactive Reciprocal
+18.2.3. Dative Reciprocal ..
+18.2.4. Possessive Reciprocal
+18.3. Summary.
+19. PARTICIPANT AGREEMENT....
+19.1. The Notion of Participant Agreement..
+19.2. Interclausal and Intraclausal Participant Agreement .
+19.2.1. Interclausal Participant Agreement.
+19.2.2. Intraclausal Participant Agreement..
+19.2.3. Participant Agreement: Further Examples.
+19.3. Agreement Patterns and Adjunct Types
+19.3.1. Adjunct Type 1
+19.3.2. Adjunct Type 2
+19.3.3. Adjunct Type 3
+19.3.4. Adjunct Type 4
+19.3.5. Adjunct Ty e .............
+19.3.6. Adjunct Types and Semantic Criteria.
+Page
+.764
+.766
+.768
+.775
+.775
+.775
+.780
+.785
+.786
+.787
+.789
+790
+.791
+.792
+...800
+....801
+...808
+...810
+..812
+...813
+..815
+...821
+..821
+.822
+.824
+.828
+.862
+.865
+.866
+..866
+..867
+..868
+..868
+..868
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 29]
+
+xxviii
+Chapter
+19.4. Participant Agreement as a Non-Canonical Type of..
+Agreement.....
+19.4.1. Defining Canonical Agreement.......
+19.4.2. Characterization of Shipibo-Konibo Participant..
+Agreement.
+19.5. Summary...
+20. PARTICIPANT AGREEMENT IN PANOAN...
+20.1. Panoan Languages....
+20.2. Interclausal Participant Agreement and the Panoan.
+Switch-Reference System.......
+20.2.1. Panoan Same-Subject Markers..
+20.2.2. Different-Subject Markers....
+20.2.3. Interclausal Participant Agreement in Panoan:..
+Conclusion....
+20.3. Intraclausal Participant Agreement
+20.3.1. Locative-Allative...
+20.3.2. Ablative...
+20.3.3. Reason..
+20.3.4. Affective....
+20.3.5. Manner and Quantity
+20.3.6. Comitative..
+20.3.8. Participant Agreement in Panoan: Conclusions.
+20.4. Reconstruction of Agreement Markers
+20.4.3. Tripartite Case-Marking Systems in Panoan.
+205, S1: Posflito tie Soive Declopment.
+21. CONCLUSIONS...
+Page
+...870
+...870
+..876
+.879
+...881
+..882
+.884
+..884
+...894
+.895
+...896
+...896
+..899
+...003
+...9.03
+....04
+...9.06
+009
+....10
+.11
+...911
+...917
+...9.19
+...923
+..929
+930
+.938
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 30]
+
+xxix
+APPENDIX
+A. LIST OF ABBREVIATIONS AND CONVENTION
+В. SHIPIBO-KONIBO TEXTS
+BIBLIOGRAPHICAL REFERENCES
+........960
+...965
+...1009
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 31]
+
+xxx
+LIST OF FIGURES
+Figure
+1.1. Shell's "Speculative Genealogical Tree" of the Panoan Family
+3.1. Syllable Structure of Shipibo-Konibo
+Page
+...47
+..105
+19.1. Participant-Orientedness Continu......862
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+[PDF PAGE 32]
+
+xxxi
+LIST OF MAPS
+Mаp
+1.1. Approximate Location of the Shipibo Territory ……
+Page
+.....
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.

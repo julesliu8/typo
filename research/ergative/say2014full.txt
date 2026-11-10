@@ -1,0 +1,1885 @@
+[PDF PAGE 1]
+© koninklijke brill nv, leiden, 2014 | doi: 10.1163/22105832-00401003
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 1
+Language Dynamics and Change 4 (2014) 1–51
+brill.com/ldc
+Bivalent Verb Classes in the Languages of Europe
+A Quantitative Typological Study
+in running headline, shortened title used. please check
+Sergey Say
+Institute for Linguistic Studies, Russian Academy of Sciences
+St. Petersburg, Russia
+serjozhka@yahoo.com
+Abstract
+The aims of this study are twofold: to propose methods for measuring (dis)similarities
+in the organization of valency class systems across languages, and to test them on a sam-
+ple of European languages in order to reveal areal and genetic patterns. The data were
+gathered for 29 languages using a questionnaire containing 130 contextualized uses of
+bivalent predicates. The properties under study include (i) lexical range of transitives,
+(ii) lexical range of valency frames defined in terms of the “locus” of non-transitivity
+(whether a or p arguments are encoded by oblique devices), (iii) overall complexity
+of valency class systems, and (iv) lexical distribution of verbs among valency classes.
+In case of the simpler properties (i)–(iii), maps with quantified isoglosses and pair-
+wise comparison of languages based on Hamming distance are used. For (iv) these
+methods are inapplicable (valency classes cannot be equated across languages), and I
+propose a distance metric based on entropy and pairwise mutual information between
+distributions. The distance matrices are analyzed using the NeighborNet algorithm
+as implemented in SplitsTree. I argue that more holistic properties of valency class
+systems are indicative of large areal effects: e.g., many western European languages
+(Germanic, Romance, Basque and some Balkan languages) are lexically “most transi-
+tive” in Europe. Low-level areal signal is clearly discernible in the data on more subtle
+aspects of the organization of valency classes. The findings imply that distributions of
+verbs into valency classes can develop quickly and are transferable in contact situa-
+tions, despite drastic dissimilarities in argument-coding devices.
+[PDF PAGE 2]
+2 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 2
+Keywords
+valency classes – transitivity – languages of Europe – areal linguistics – quantitative
+typology
+1 Introduction
+Empirically grounded typological study of valency classes (classes of verbs with
+identical coding frames for arguments) is an intriguing and complex matter. It
+is complex for many reasons, starting with the lack of a clear basis for cross-
+linguistic comparison. For other areas of grammar there is some sort of con-
+sensus as to how the universal semantic space is structured, so the typological
+task is primarily to establish the ways in which individual language-specific
+categories and constructions carve out sections of that space. No consensus
+of this sort exists in the study of valency. There is a lot of controversy as to
+whether argument structure is primarily lexeme-based or construction-based,
+and whether and to what extent argument encoding is determined by abstract
+syntactic structure (“structural case”), by semantic roles of arguments, or by
+idiosyncratic lexical rules. Besides, valency is an area where grammar meets
+lexicon, and high dimensionality of possible lexical contrasts impedes simple
+qualitative comparison of languages. In other words, it is virtually impossible
+to classify valency class systems into a handful of categorical types, as is often
+done in other domains of linguistic typology. Provided that languages cannot
+be assigned to types based on qualitative analysis of their valency class systems,
+the task of finding typological similarities and differences in this domain calls
+for the use of quantitative techniques.
+Yet, empirical study of valency classes in large samples of languages is ur-
+gently needed precisely for the same reasons. Typological empirical study is
+the only way to seriously test many hypotheses related to argument encoding,
+both very general (e.g., “argument encoding is determined by thematic roles of
+arguments”) and more specific (e.g., “the stimulus argument of emotive verbs
+can behave as either a cause-like or a goal-like argument”). Needless to say, as
+long as only individual languages are taken into consideration, such general-
+izations can be neither proved nor falsified. This paper is conceived as a step
+towards this end.
+The goals of this study are twofold. The chief goal is methodological: to
+propose quantitative techniques that can be used for measuring the degrees
+of (dis)similarity in the ways languages arrange verbs into valency classes. The
+secondary goal is empirical: to apply these techniques to classes of bivalent
+[PDF PAGE 3]
+bivalent verb classes in the languages of europe 3
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 3
+verbs in European languages and to unearth areal and genetic patterns in the
+data.1
+The data for this study have been gathered with the help of a question-
+naire that contains contextualized uses of 130 bivalent predicates. Translational
+equivalents have been gathered for a convenience sample of 29 languages of
+Europe. For each language, the verbs obtained have been broken down into
+valency classes. All parts of this paper are concerned with comparing languages
+to each other with respect to their valency classes.2
+Overall, there are four aspects of valency class systems that I analyze, ranging
+from simpler, more holistic properties to more complicated and fine-grained
+ones. These aspects are: (i) lexical extent of transitives; (ii) lexical extent of
+frames defined in terms of “locus” of non-transitivity, that is, based on whether
+a or p (or both) are coded by oblique (non-core) devices; (iii) overall complexity
+of valency class systems, and (iv) lexical distribution of verbs among valency
+classes as such.
+Relatively simple techniques are used in cases (i) and (ii). First, I draw quan-
+tified isoglosses on the linguistic map of Europe to get an idea of where tran-
+sitivity and (major subtypes of) non-transitivity are favored and disfavored.
+Second, I employ the relative Hamming distance for pairwise comparison of
+languages. The distance matrices are visualized with the help of the Neighbor-
+Net algorithm, as implemented in the SplitsTree software. In all these respects,
+the methods employed are typical for the current quantitative areal-typological
+research.
+The results are indicative of large-scale areal trends: the highest ratios of
+transitive frames are observed in Western European languages (Germanic,
+Romance, Basque and some Balkan languages), a finding that confirms pre-
+vious claims. These languages have low ratios of both frames with obliquely
+encoded a arguments (these are favored in Irish and the Daghestanian lan-
+guages) and frames with obliquely encoded p arguments (these are most wide-
+spread in the languages of the eastern European periphery).
+The technique I propose for measuring complexity of valency class systems
+(iii) is based on entropy. This measure captures the degree of unpredictability
+1 This paper is based on work in progress, and in some cases the data available will turn out
+to be somewhat scarce for anything but very preliminary generalizations with respect to this
+second goal.
+2 Another possible way of looking into the database is orthogonal: one can compare verb
+meanings in order to check whether they form natural clusters that recur in various languages,
+whether such clusters are semantically conditioned, etc. This perspective is to be pursued
+elsewhere.
+[PDF PAGE 4]
+4 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 4
+of a variable. It is found to be lower in languages with higher ratios of transitive
+frames; this is expected, since in these languages more verbs fall into the
+largest class, that is, behave in the least unpredictable way. However, if one
+takes a closer look at non-transitive classes, it appears that there are numerous
+low-level areal and genetic discrepancies: languages that are close to each other
+areally, genetically and in terms of their transitivity profiles can drastically
+differ (in Dutch, for instance, non-transitive classes are fewer and larger than
+in the neighboring German).
+As outlined above, simple methods are inapplicable when it comes to com-
+paring lexical distributions of verbs among valency classes (iv), as there is no
+suitable tertium comparationis. Facing this methodological challenge, I pro-
+pose a distance metric based on entropy and pairwise mutual information
+between distributions. This technique can be further used for studying valency
+class systems in other (e.g., non-European) languages and also for measuring
+(dis)similarities in other similar datasets, that is, whenever it is necessary to
+compare the ways in which languages break up pre-established objects into
+classes without equating the classes themselves.
+Building a distance matrix based on the metric just outlined reveals low-
+level areal signal in the data. Smaller genetic groupings (such as branches of
+the Indo-European family) are discernible, but interestingly, local contact phe-
+nomena seem to be no less important. Large areal effects are, by contrast, less
+visible in the organization of individual valency classes than, e.g., in transitivity
+profiles.
+Generally, the findings of this study confirm the idea that transitivity orien-
+tation and transitivity profiles are relatively stable properties of languages, but
+they also suggest that the structure of the verb lexicon in terms of individual
+valency classes can develop more or less independently of those devices that
+are used for coding arguments. Hence, we find low-level areal similarities and
+less diachronic stability.
+The discussion below is organized as follows. Section 2 discusses advan-
+tages and disadvantages of possible approaches to typological study of valency
+classes and sets the ground for the study reported here. The procedure of
+gathering and annotating data from individual languages is described in Sec-
+tion 3. Sections 4 to 7 discuss results that were obtained when comparing the
+29 languages of the sample with respect to transitivity (Section 4), “locus” of
+non-transitivity (Section 5), complexity of valency class systems (Section 6)
+and (dis)similarities in their internal organization (Section 7). Conclusions are
+summarized in Section 8.
+[PDF PAGE 5]
+bivalent verb classes in the languages of europe 5
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 5
+2 Setting the Stage
+In this section I will argue that transitive verbs constitute the only valency class
+of bivalent verbs that can be meaningfully equated across languages (that is, all
+other bivalent classes cannot). I will ultimately propose studying minor valency
+classes cross-linguistically by way of analyzing the whole system of valency
+classes, that is, the ways in which verbs with various meanings are grouped
+together in individual languages.
+Among bivalent constructions, the (basic)transitive construction is the type
+of structure that figures most prominently in descriptive tradition, in func-
+tional-typological studies and in more formal approaches to argument struc-
+ture.3 Whatever the definition of transitive construction—language-specific
+or typological—there is some general agreement as to what constitutes the
+semantic basis of transitivity. Starting with Hopper and Thompson’s (1980)
+groundbreaking study, it has been assumed that there is a set of values of
+semantic parameters that is universally associated with high transitivity, in-
+cluding actionality (as opposed to stativity), telicity, volitionality and control
+of one participant (a), affectedness of the other (p), etc. Generally, such lists of
+properties are not viewed as necessary or sufficient conditions for transitivity
+of a clause, but it is agreed that clauses that accumulate more of those prop-
+erties are likelier to be transitive than clauses that accumulate fewer of them.
+Variations on this theme can be found in abundant typological literature on
+the topic (Tsunoda, 1981; Wierzbicka, 1983; Dixon and Aikhenvald, 2000; Kittilä,
+2002; Malchukov, 2006; Næss, 2007 etc.).
+Although transitivity parameters are properties of clauses, in individual lan-
+guages transitivity distinctions are largely inherent to verbal lexica—that is,
+normally there is a class of verbs that can be regularly found in the basic tran-
+sitive construction, and these are viewed as transitive verbs. Within individ-
+ual languages this prominent class is often hard to characterize in semantic
+terms, as it is usually an open class that encompasses many verbs (though not
+equally many in various languages) that are not highly transitive semantically,
+but nevertheless are treated on a par with genuine highly transitive verbs in the
+grammar. Thus, in English, for instance, it would be difficult to find a common
+semantic denominator for verbs like leave, fear and presuppose, which would
+set them apart from arrive, look and consist; and yet the former three verbs
+morphosyntactically pattern together with kill and break (the two verbs that
+3 Suffice it to say that this type of structure is indispensable for any discussion of alignment
+type (Haspelmath, 2011).
+[PDF PAGE 6]
+6 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 6
+are often quoted as being prototypical representatives of the transitive class),
+whereas the latter three do not.
+Despite semantic versatility in individual languages, the class of transitive
+verbs can be relatively easily identified across languages (so long as we are
+able to identify the basic transitive construction). All other classes of bivalent
+verbs show the opposite properties: if compared to transitives, such classes are
+smaller and can often be either positively characterized in terms of their mean-
+ings, or represented as closed lists of lexical items. For example, in English there
+are only a few verbs that govern the preposition from, such as, e.g., escape,
+recover, suffer, or benefit; arguably, these verbs have common semantic prop-
+erties (their object participant is related to a preceding state of affairs in the
+causal chain). However, such classes are very hard to identify across languages.
+This is exactly the reason why typological and theoretical studies often either
+ignore such classes or lump them together, describing them negatively as biva-
+lent verbs that fail to be transitive for this or that reason.4
+In this study, I propose to abandon altogether the idea of equating minor
+valency classes cross-linguistically and to concentrate instead on the ways indi-
+vidual items (verbs) are grouped into valency classes in the languages of the
+sample. In other words, the very structure of valency class systems, their inter-
+nal organization, serves as a parameter for cross-linguistic comparison. What
+such a research program necessitates is that the database contain a substan-
+tial number of meanings, that these meanings be densely representative of the
+predicate lexicon (or its compact part, in our case), and that the meanings sur-
+veyed be indeed comparable across languages. These requirements are relevant
+for the design of the database, to be discussed in Section 3.
+In the remainder of this section I will briefly overview other possible ap-
+proaches to cross-linguistic study of non-transitive valency classes, highlight-
+ing concomitant complications and ultimately rejecting all of them.
+4 For example, in Dowty’s (1991) seminal study on proto-roles and argument selection, it is
+noticed in passing that “the selection principles apparently only govern argument selection
+for two-place predicates having a subject and a true direct object” (ibid.: 576), whereas princi-
+ples that are operational when assigning arguments to other positions remain uncommented
+upon. Another example is Tsunoda’s (1981) idea that the occurrence of the transitive valency
+frame is related to what he calls “the effectiveness condition.” One of Tsunoda’s conclusions
+is that, when this condition is not met, the transitive valency frame may fail to occur and
+“we will have some other case frames” (ibid.: 393). Whether semantic conditions for these
+“other case frames” can be described positively is not discussed. See Malchukov (2005: 77) on
+problems triggered by non-differentiation of various non-transitive patterns in the literature.
+[PDF PAGE 7]
+bivalent verb classes in the languages of europe 7
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 7
+(i) One way to compare classes of verbs cross-linguistically is to start with
+semantically defined classes, such as, e.g., experiential predicates (Bossong,
+1998).5 Such studies greatly contribute to our understanding of possible mean-
+ing-to-form mappings and yield important areal and genetic generalizations.
+However, sets of meanings that are established on a priori semantic grounds
+can turn out to be irrelevant for delimitation of valency classes in individual
+languages.6
+Another problem is that, when focusing on a particular type of predicates,
+one normally compares them to other pre-established types of predicate-
+argument structures that are viewed as “basic” and serve as standard of com-
+parison. For example, Haspelmath (2001b), largely following Bossong’s (1998)
+proposal, distinguishes between agent-like, dative-like and patient-like experi-
+encer constructions. Trying to rely upon basic meanings of predicate-argument
+constructions can lead to circularity when studying several valency classes
+simultaneously.
+(ii) A possible way out of the circularity problem is relying on those “basic
+meanings” of argument-coding devices that belong to the domain of circum-
+stantial relations, such as, e.g., locative adjuncts. We can, for instance, identify
+languages in which the second argument of ‘fear’ is coded by the device that
+is also involved in marking adjuncts with the meaning of ‘starting point’ of
+motion. Such an approach would be an enquiry into polysemy of argument
+coding devices (e.g., cases; see Ganenkov, 2002), and, ultimately, into paths of
+semantic development from more concrete to more abstract meanings (possi-
+bly as part of a wider grammaticalization process). Logically, such an approach
+is irreproachable. Empirically, however, it is also problematic for the cross-
+linguistic study of valency classes for at least three reasons. First, for many verb
+classes in various languages, it is synchronically impossible to find diachronic
+sources with ‘concrete’ meanings. Second, semantic change is a gradual and
+multiform process, and argument devices employing one and the same initial
+“cognitive schema” may show significant variation in their synchronic prop-
+erties (e.g., the degree of abstractness they have acquired). Third, there are
+frequency problems: for example, a case can have a locative meaning on just a
+few circumstantials, and there seems to be no principled way to decide whether
+5 Ultimately, it can be instructive to study the ways in which one particular predicate meaning
+is expressed across languages, cf. Stassen’s (2009) study of predicative possession.
+6 The idea that case assignment patterns reveal evidence for universal predicate-specific the-
+matic role clusters has recently been quantitatively assessed and seriously called into ques-
+tion (Bickel et al., forthcoming).
+[PDF PAGE 8]
+8 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 8
+this locative meaning should nevertheless be counted as “basic” to other more
+abstract meanings.
+(iii) Along with explicitly semantic approaches, there are some attempts at
+cross-linguistic comparison of valency classes based on equating individual
+forms, e.g., a class of verbs that take a nominative subject and a dative object.
+This kind of approach can be fruitful for the study of genetically related lan-
+guages, where morphological devices can be identified based on historic evi-
+dence; see, e.g., a discussion of typologically rare case-frames in the branches
+of Indo-European in Barðdal (2014). However, once we take into consideration
+a wider range of languages, identification of individual cases is only an arbitrary
+semantics-based approximation; thusly understood, cases are descriptive cat-
+egories and not comparative concepts—see Haspelmath (2010) for discussion.
+For example, van Belle and van Langendonck (1996) discuss dative cases in var-
+ious languages, and for doing so make use of the notion ‘dativity’: “the meanings
+associated with the dative case in, for instance, Indo-European” (ibid.: xv). Such
+an approach bears in itself all the shortcomings of role-based studies of valency
+classes, see (i) above, and adds one more: it grants some special status to those
+combinations of meanings that happen to be grouped together in a number of
+better studied languages.
+In (i)–(iii) above we have been discussing the problem of comparing individual
+classes of verbs across languages. Cross-linguistic identification is even more
+complicated when comparing overall systems of valency classes. In other areas
+of grammar, typologies of systems rely upon equating individual members; for
+example, we can typologize number systems into those possessing a grammat-
+icalized category of dual and those lacking it. As follows from the discussion
+above, similar component-based typologies are problematic for valency class
+systems, as we do not have reliable tools for equating components of such sys-
+tems. As a result, until recently,7 there was very little typological inquiry into
+7 Recent advances in this area include at least two major research projects: a project conducted
+by Balthasar Bickel and his colleagues, see Bickel et al. (forthcoming), and the Leipzig Valency
+Classes Project (http:/ /www.eva.mpg.de/lingua/valency), see Comrie and Malchukov (forth-
+coming). The design of the latter project is in some respects similar to that of the study
+reported here. Major differences are the following: (i) the samples used are comparable in
+size, but the Leipzig project is based on a world-wide sample; (ii) the Leipzig project is thought
+to cover all valency types of verbs, but the questionnaire is relatively small, and the number
+of bivalent predicates is significantly smaller than in the study reported here (40 odd vs. 130
+verb meanings); (iii) the Leipzig project is primarily focused on valency alternations.
+[PDF PAGE 9]
+bivalent verb classes in the languages of europe 9
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 9
+the ways valency class systems are organized.8 This study is intended to par-
+tially redress this lacuna.
+3 Database
+This section discusses the technicalities related to gathering data for the proj-
+ect. Section 3.1 describes the questionnaire and the role of language experts
+involved in the project. 3.2 introduces the notion of “locus of non-transitivity”
+that was relevant for annotating the database. Some typical complications that
+we encountered when gathering the data are briefly analyzed in 3.3. The sample
+of languages is introduced in 3.4.
+3.1 Questionnaire
+This study is based on a questionnaire consisting of 130 sentences that contain
+bivalent predicative expressions. In the default case, the initial data for each
+language were gathered and annotated by a language expert who elicited trans-
+lations from native speakers (the details and deviations from this procedure
+are discussed in 3.4). Currently, the questionnaire exists in Russian, English and
+French versions, as these three languages were used as contact languages when
+working with native speakers of other languages.
+In most cases the target sentence was given in a context, as shown in paren-
+theses in the following examples (n. stands for a personal name):
+(1) (The wall was covered with fresh paint.) n. touched the wall(and got dirty).
+(2) n. shot at the bird. (He missed.)
+Thus, for example, when gathering translations for (2) we were not seeking to
+obtain sufficiently precise equivalents of the English verb shoot as such, but,
+rather, to get sentences in which arguments are semantically related to the
+predicate in the same way as in (2).
+The use of contextualized clauses, not just isolated verbs, is essential for
+several reasons. Most importantly, it makes cross-linguistic comparison more
+accurate. Indeed, the meanings of individual verbs can be structured differently
+in various languages, so that lexical translational equivalents often have only
+8 Some in-depth analyses of valency class systems in individual languages are available, e.g.,
+Levin (1993) for English or Apresjan (1967) for Russian.
+[PDF PAGE 10]
+10 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 10
+partial semantic overlap. Providing contexts mitigates this problem, since sen-
+tential translational equivalents usually match better than lexemes. Another
+advantage is that providing contexts often reduces variation in argument real-
+ization, cf. ungrammaticality of the transitive use of shoot in (2). Finally, it
+allows us to obtain data on argument-coding even if the target language lacks
+a verbal equivalent. For example, many languages lack a specialized verb for
+‘have,’ but there must be a way to express the meaning ‘n. has a car.’
+In the discussion to follow, the meanings surveyed will be referred to as
+‘predicate meanings,’ or simply ‘predicates.’ For the sake of simplicity, English
+verbs, such as touch or shoot, will be used as labels for individual predicate
+meanings, but what is implied is always a particular contextualized meaning
+from the questionnaire. Verbal expressions that correspond to predicate mean-
+ings in individual languages will be referred to as ‘verbs,’ again for the sake of
+simplicity (some expressions obtained are complex, rather than simple verbs,
+see 3.3 for details).
+The sentences in the questionnaire all have (at least) two nominal depen-
+dents, that is to say, the study is focused on the ways in which these pairs of
+arguments are coded in various languages.9 To compare the ways in which
+verbs cluster into valency classes, a sufficiently large and dense set of predicates
+was needed. Covering all types of numeric valency in one questionnaire would
+have led to a set of predicates either too huge or too distorted. Two-argument
+predicates were chosen because in most languages they fall into several classes,
+whereas one-argument verbs, for instance, rarely fall in more than two or three
+classes and in some languages constitute a single monovalent class.10
+The final assembly of the questionnaire followed scrutiny of the available lit-
+erature on two-argument non-transitives and a pilot study of several languages.
+The study was designed to be primarily focused on non-transitive patterns,
+because these patterns are less predictable (and hence more informative) than
+9 In fact, the issue of argumenthood is language-specific, so that there are no a priori
+grounds to guarantee that a translational equivalent of an argument in language a is also
+an argument (not adjunct) in language b. However, this study did not deal with this issue:
+so long as the two pre-established nominals could be expressed as verb’s dependents in
+the target language, it was their encoding that was registered. For the sake of simplicity,
+the two nominals are referred to as arguments (one can expect predicates like ‘resemble,’
+‘see’ or ‘touch’ to have two arguments each), although it was not checked whether they
+indeed meet criteria of argumenthood in the languages at issue.
+10 Some of the meanings surveyed are arguably three-argument predicates, but these were
+analyzed based on devices involved in coding their two predefined arguments; e.g. for
+‘take,’ the sentence wasp. took a book (from the shelf).
+[PDF PAGE 11]
+bivalent verb classes in the languages of europe 11
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 11
+transitive patterns. For this reason, when choosing the predicates for the ques-
+tionnaire, we tried to represent as widely as possible various meanings that
+do not accumulate too many prototypically transitive properties and/or were
+known to be expressed by non-transitive verbs in at least some languages of
+Europe, such as, e.g., ‘be afraid,’ ‘be similar,’ ‘see,’ ‘reach,’ ‘fight (with),’ ‘wait,’
+‘depend,’ ‘play (musical instrument),’ ‘like,’ ‘lack’ etc.; see Onishi (2001: 25–35)
+for an overview, albeit under a theoretically different perspective. The ques-
+tionnaire also contains sentences that can be expected to deviate from the
+transitive case-frame in some languages because of their contextualized mean-
+ing. This is the case, e.g., with the conative use ofshoot in (2) above: it is known
+that in many languages (including English) the non-attainment of the goal can
+result in using a non-transitive valency frame with this verb, and this was the
+reason why this context was preferred to other possibilities when compiling
+the questionnaire.
+However, several highly transitive meanings (‘eat,’ ‘break,’ ‘wash,’ ‘write’)
+were also included, but they were expected to serve mainly as predictable back-
+ground for less transitive meanings. The questionnaire, in its slightly simplified
+version, can be found as supplementary material to this paper at
+changed to add and removed parentheses ok?
+http://dx.doi
+.org/10.1163/22105832-00401003; booksandjournals.brillonline.com/content/
+22105832 (click on tab Supplements).
+please note that the 1st link is not available yet, the 2nd link to Brill's online platform is available
+The arguments of the predicates were annotated as a and p arguments
+based on their “lexical entailments” in the sense of Dowty (1991). In some cases
+this procedure was unproblematic. In ‘n. punished his son,’ for example, the
+punisher is unequivocally identified as a, since it is the causing and volitional
+participant that has some degree of control over the other participant, p. In
+other cases the annotation was somewhat arbitrary. In ‘The bucket filled with
+water,’ for instance, the container was labeled a, and the substance, p, although
+in fact both entities have some (but not all) properties typically associated
+with a: the water is more of a causing entity, but the bucket is more of an
+independently existing entity. However, these decisions presumably did not
+affect the results too severely, as they were taken prior to gathering data and
+thus independently of the valency frames observed.
+Once the translations were obtained, language experts annotated the sen-
+tences for those morphosyntactic devices that were used for coding a and
+p arguments. These devices include dependent-marking, head-marking, de-
+tached marking and linear position. On this stage, it was important to figure
+out which of these possible devices are indeed involved in argument marking.
+Consider the following example from Albanian:
+[PDF PAGE 12]
+12 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 12
+(3) Pjetr-it i dhimbs-et
+p.-dat.m.sg.def pro.dat.3sg cause.pity-prs.inact.3sg
+nën-a e tij
+mother-nom.f.sg.def art.nom.f.sg his
+‘Pjeter sympathises with his mother.’
+Here, the a argument happens to be in the preverbal position and the p argu-
+ment in the postverbal position. However, word order is generally independent
+of valency in Albanian, and it was not considered to be one of the argument
+marking devices. The a argument is encoded by the dative case (dependent-
+marking), which is echoed by the preverbal dative clitic (detached marking),
+whereas the p argument is in the nominative case (dependent-marking) and
+triggers agreement on the verb (head-marking). Combination of these devices
+unequivocally identifies the valency frame observed in (3).11
+The next step was to identify verb classes. Two verbs were considered to
+belong to the same valency class if and only if their as and ps are coded by the
+same means correspondingly (different adpositions being counted as different
+encoding devices). Thus, for instance, the Albanian verb in (4) is classified as
+belonging to a different class than the one in (3), as here it is the a argument
+that is in the nominative, whereas the p argument is in the dative:
+(4) Pjetr-i i beso-n Lindit-ës
+p.-nom.m.sg.def pro.dat.3sg believe-prs.act.3sg l.-dat.f.sg.def
+‘Pjeter believes Lindita.’
+Following this procedure, translational equivalents of the 130 sentences were
+grouped into non-overlapping classes, with each class characterized by a
+unique combination of devices involved in coding a and p arguments. For
+example, there are five other predicates whose Albanian equivalents belong
+11 An interesting feature of the European languages analyzed in this paper is that, in fact,
+there was not a single case such that two valency frames would employ identical depen-
+dent marking devices (cases and/or adpositions) but would differ in terms of detached or
+head-marking. Hence, for practical reasons it was possible to conventionally label valency
+frames in terms of dependent-marking devices only. Thus, the pattern in (3) can be char-
+acterized as “a in the dative, p in the nominative” frame; the fact that a is echoed by a
+clitic, and p triggers agreement, follows automatically according to the rules of Albanian
+grammar. This simplification has no impact on the results obtained for the languages of
+the sample, but certainly it would be illegitimate for languages that make wider use of
+head-marking devices.
+[PDF PAGE 13]
+bivalent verb classes in the languages of europe 13
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 13
+to the same A-dative, P-nominative class as the verb in (3): ‘lack,’ ‘like,’ ‘need,’
+‘have left’ (as in n. has 10 Euros left) and ‘dream.’
+The language experts sometimes used additional data when identifying
+valency frames. For instance, if the noun from the questionnaire happened to
+lack a case distinction found in other nouns or in pronouns, the valency class
+was established based on the encoding of those other nps that do exhibit the
+relevant case distinction. However, modification of sentences was only allowed
+for identification of coding devices, whereas behavioral or control distinctions
+between identically coded arguments were disregarded.
+Some typical problems encountered when analyzing the data are briefly
+discussed in 3.3.
+3.2 Transitivity and Locus of Non-transitivity
+Once the list of valency frames in a language is established, it is essential to
+identify the transitive frame. There is some controversy regarding criteria to be
+used. Criteria that rely upon language-specific forms (e.g., “verbs governing the
+accusative case”) as well as approaches that make use of “structural cases” are
+not very useful in typological research. Putting them aside, we still have a wide
+spectrum of existing proposals, which include identifying the class of transitive
+verbs as (i) the largest and most productive bivalent class, (ii) the “default”
+class, that is, the bivalent class that is the least constrained semantically (this
+criterion is not always easy to implement practically), (iii) the class which is
+most closely associated with high transitivity values in Hopper and Thompson’s
+(1980) sense, (iv) the class that contains some predefined lexical items such as
+‘kill’ or ‘break.’ A short comparison of these approaches can be found in Bickel
+et al. (in prep.).
+Although theoretically these criteria may not converge upon the same class,
+in practice there was not much confusion with respect to the languages in the
+sample. For example, in all languages of Europe surveyed so far, ‘break’ (which
+is included in the questionnaire) belongs to the class that was identified as
+transitive by the other criteria (and by traditional descriptions). As indicated
+by the language experts, for some languages there are also language-specific
+syntactic criteria that single out transitive verbs as opposed to all bivalent
+non-transitive verbs (e.g., passivizability).
+Thus, for every language, we identified language-specific morphosyntactic
+devices that are employed for coding a and p arguments of transitive verbs.
+In Lithuanian, a fairly typical language with accusative case marking, the a
+argument of the transitive verb is marked for the nominative case and triggers
+verb agreement, whereas the p argument appears in the accusative case:
+[PDF PAGE 14]
+14 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 14
+(5) Lok-ys užpuol-ė žvej-į
+bear-nom.sg attack-pst.3 fisherman-acc.sg
+‘A bear attacked a fisherman.’
+The coding devices that are used for a and p in the basic transitive construc-
+tion are viewed as direct. All other types of argument coding devices are con-
+sidered oblique. If either a, p, or both arguments receive oblique coding, the
+relevant arguments are viewed as the locus of non-transitivity (sometimes sim-
+ply referred to as locus in the following discussion). Accordingly, all bivalent
+non-transitive verbs were annotated as showing a locus, p locus or a&p locus.12
+This can be illustrated by further examples from Lithuanian: the verb in (6) is
+classified as showing a locus of non-transitivity, because here the a argument
+is in the dative case (oblique), whereas the p argument is in a direct position (it
+is coded identically to a of the basic transitive construction); (7) is an instance
+of p locus, as here it is only the p argument that is in an oblique position (it is
+encoded by a prepositional phrase headed by nuo ‘from’); (8) illustrates a&p
+locus, as both a and p receive oblique coding (the dative and the genitive case
+respectively).
+(6) Petr-ui patink-a šit-ie marškini-ai
+p.-dat.sg please-prs.3 this-nom.pl shirt-nom.pl
+‘Petras likes this shirt.’
+(7) Petr-as atsilik-o nuo Marij-os
+p.-nom.sg fall.behind-pst.3 from m.-gen.sg
+‘Petras fell behind Marija.’
+(8) Petr-ui pakank-a pinig-ų
+p.-dat.sg suffice-prs.3 money-gen.pl
+‘Petras has enough money.’
+Notice that annotating a verb as showing, e.g., a locus does not imply that
+its p argument is coded identically to p arguments in the transitive construc-
+tion. In (6) above, for example, the p argument is in the nominative case, like
+12 The very rarely observed “reversed” valency frame (e.g., a in the accusative and p in the
+nominative) is not identified as transitive in the usual sense, although both arguments
+are in direct positions. These cases were somewhat arbitrarily annotated as valency frames
+with a locus.
+[PDF PAGE 15]
+bivalent verb classes in the languages of europe 15
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 15
+a arguments of transitive verbs. The reason for treating such constructions as
+constructions with a locus (not a&p locus) is that the nominative coding of the
+p argument can be viewed as triggered by a’s failure to occupy that position—
+cf. Malchukov’s “Primary argument immunity principle,” which predicts that
+manipulating the case marking of the primary argument (a/s in accusative
+languages, s/p in ergative languages) is normally accompanied by the “ascen-
+sion” of the other argument (2006: 340 ff.). This principle is not exceptionless, as
+indicated by attested instances of a&p locus and examples like (9), again from
+Lithuanian, where oblique coding of the a argument combines with the usual
+accusative coding of the p argument:
+(9) Petr-ui skaud-a galv-ą
+p.-dat.sg ache-prs.3 head-acc.sg
+‘Petras has a headache.’ (A locus)
+Similarly, verbs with p locus, that is, with oblique marking of the p argument,
+can put their a arguments in either of the two direct positions, cf. the erg-dat
+and abs-dat frames in Basque, both classified as frames with p locus.
+3.3 Missing Data and Typical Complications
+The procedure of gathering and annotating data was not unproblematic. In
+this section I briefly mention some typical complications, especially those that
+triggered gaps in the database.
+Some gaps were due to the fact that there simply was no natural way to
+express the intended predicate meaning in a given language.
+Other gaps appeared if the translations obtained failed to meet the follow-
+ing requirements: the clause is headed by a verb or another sufficiently unified
+predicative expression, and the predefined a and p arguments are syntactically
+realized as clause-level dependents of this expression. According to this restric-
+tion, if one of the predefined arguments couldn’t be specified in the translation
+(a situation that sometimes arose with, e.g., p arguments of verbs of emotion)
+the monovalent verb at issue was filtered out.13
+13 This is an inevitable disadvantage of all meaning-based approaches to comparing valency,
+as numeric valency is language-specific and cannot be guaranteed on a priori grounds;
+see Comrie (1993: 906, 911) on possible mismatches in numeric valency of translational
+equivalents. In our database there were also verbs that required a third argument in
+certain languages, although initially they were viewed as two-place predicates.
+[PDF PAGE 16]
+16 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 16
+A more widespread complication comes from constructions where one of
+the predefined arguments is expressed in the same clause but is not a clause-
+level constituent, as in the following examples from Lezgi:
+(10) Mehamed-an q Ɂil t Ɂa-zwa
+Mehamed-gen head.abs ache-impf
+‘Mehamed has a headache.’
+(11) zi θil-er-iqhaj benzin-din ni qwe-zwa
+my hand-pl-postel gasoline-gen smell.abs come-impf
+‘My hands smell of gasoline.’
+In (10) the expected a argument of the predicate is syntactically realized as p’s
+possessor. In (11) the expected p argument is syntactically the possessor within
+the noun phrase headed byni ‘smell.’ In both cases, the problematic arguments
+are adnominal rather than clause-level, and accordingly both constructions
+were filtered out.14
+It should not be inferred, however, that only clauses headed by true mono-
+lexemic verbs were annotated. Many clauses headed by complex predicates of
+various sorts (including what is sometimes analyzed as “light verb construc-
+tions” and “serial verb constructions”) were taken into account. For instance,
+such not quite verbal clauses are abundant in Irish:
+(12) Chuir Pól piniós air a mhac
+put.pst p. punishment on his son
+‘Pól punished his son.’
+14 The reason for doing so is the following. The project is largely aimed at testing the hypoth-
+esis that case-frames are determined semantically, that is, predicates that are similar
+semantically assign their respective arguments to identical positions. In examples like
+(11), by contrast, there is no predicative expression that can be claimed to simultaneously
+assign coding devices to ‘hands’ and ‘gasoline.’ The two relevant noun phrases are assigned
+their syntactic positions differently: the noun for ‘hands’ is in the postelative case due to
+the properties of the verb qwe- ‘to come,’ similarly to the starting point in some verbs of
+motion. This fact does tell us something about the way the situation of smelling is con-
+strued in Lezgi. By contrast, ‘gasoline’ is encoded identically to all nominal possessors (cf.
+‘branch of a tree,’ ‘mother’s heart,’ ‘Mehamed’s car’ etc.) and this fact has little to do with
+the situation of smelling as such.
+[PDF PAGE 17]
+bivalent verb classes in the languages of europe 17
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 17
+(13) Tá aithne aige Pól air Mháire
+be.prs knowledge at p. on m.
+‘Pól knows Máire.’
+Such expressions were not filtered out, because in both cases predefined a and p
+arguments can be arguably viewed as clause-level dependents. Of course, there
+is no watertight borderline between cases like those in (10) and (11), on the one
+hand, and (12) and (13) on the other hand, but this topic is not to be pursued
+here any further, for limitations of space.
+A very widespread complication arises when a sentence from the question-
+naire could be translated in more than one way, with possible differences in
+argument encoding (on average, there were about 12 predicates per language
+for which there was variation in valency frame, although this figure varies con-
+siderably from language to language). For quantitative purposes it was neces-
+sary to choose one construction, albeit somewhat arbitrarily. The chief criteria
+were naturalness and preciseness of translational equivalence to the stimu-
+lus, followed by monolexemity of the predicate (so thatceteris paribus simplex
+verbs were preferred to more complex expressions).
+Finally, the main concern when annotating the data was to discern valency
+frames lexically associated with verbs (or verbs used in a particular meaning)
+and to discard the impact of grammatical rules. For example, for languages
+showing differential object marking, the verbs that are able to take marked p
+arguments were all classified together regardless of whether individual sen-
+tences that were obtained happened to contain a marked or an unmarked
+object. This problem was taken into account when assembling the question-
+naire (there were no negated, counterfactual, habitual etc. sentences). How-
+ever, there was some unwanted “noise” in the data and the language experts
+inevitably had to face the usual problem of squeezing the somewhat blurred
+distinctions into the set of discrete annotations.
+3.4 Sample
+This paper is based on the analysis of data from 29 languages of Europe, 28
+living and one extinct (Ancient Greek). Europe is understood here in the vein
+of the eurotyp series of volumes, that is, very broadly (with, e.g., the languages
+of the Caucasus taken into account). The languages surveyed are represented
+in Table 1.
+The sample in its current form is largely accidental, as its enlargement
+depends upon availability of enthusiastic language experts. There are several
+unfortunate areal and genetic lacunae, most notably Ugric and Samoyedic,
+Northwest Caucasian, Kartvelian and Nakh languages.
+[PDF PAGE 18]
+18 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 18
+table 1 Language sample
+Family Genus Language Abbreviation Expert
+Isolate Basque bsq Natalia Zaika
+Indo-European Celtic Irish iri Dmitrij Nikolaev
+Romance Spanish spa Elena Gorbova
+Italian ita Anna Alexandrova
+French fre Elena Kordi
+Germanic English eng Dmitrij Nikolaev
+Dutch dut Mikhail Knjazev
+German ger Sandra Birzer
+Norwegian Bokmål nor Olga Kuznecova
+Greek Ancient Greek gra Ildar Ibragimov
+Modern Greek grk Ekaterina Zheltova
+Albanian Albanian alb Varvara Diveeva
+Baltic Latvian lat Natalia Perkova
+Lithuanian lit Natalia Zaika
+Slavic Serbian scr Anastasia Makarova
+Polish pol Georgij Moroz
+Russian rus Sergey Say
+Armenian Eastern Armenian arm Vasilisa Krylova
+Iranian Ossetic oss Arsenij Vydrin
+Indic Romani (Kalderaš) rka Kirill Kozhanov
+Uralic Finnic Estonian est Irina Külmoja
+Ingrian fng Daria Mischenko
+Komi-Zyrian kzy Ekaterina Sergeeva
+(Altaic) Turkic Bashkir bsk Sergey Say
+Azerbaijani aze Lejla Kurbanova
+Mongolic Kalmyk kmk Sergey Say
+Northeast Lezgic Lezgi lez Ramazan Mamedshaxov
+Caucasian Tsakhur tsa Dmitrij Gerasimov
+Avar-Andic- Bagvalal bgv Dmitrij Gerasimov
+Tsezic
+[PDF PAGE 19]
+bivalent verb classes in the languages of europe 19
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 19
+Deviating from the general procedure, in three cases there was no access
+to native speakers and the data were gathered from published sources; these
+are Tsakhur, Bagvalal, and, naturally, Ancient Greek.15 In the case of Ger-
+man, Russian, Estonian, Lezgi and Azerbaijani, the language experts were
+simultaneously linguists and native speakers and used their own introspec-
+tion. The experts on Ingrian, Bashkir, and Kalmyk were typologists who con-
+ducted fieldwork on the respective languages. In the case of Dutch and Nor-
+wegian, the experts were also typologists who happened to have some skills
+in respective languages. All other experts have years of experience of work-
+ing on the grammar of the respective languages and speak them fluently.
+For those languages for which corpora are available, they were sometimes
+taken into consideration when choosing the most natural or frequent equiva-
+lent.
+Finally, in four cases the level of missing data was significantly higher than
+average for non-linguistic reasons: Tsakhur (satisfactory data only obtained for
+55 predicates), Bagvalal (65), Estonian (89) and Kalmyk (98). Thus, in some
+aspects the data for these languages had to be disregarded.
+4 Transitive and Non-transitive Verbs
+In this section, I compare the ratios of transitives to all bivalent verbs and
+show that the main areal pattern in Europe is a cline from the highly tran-
+sitive languages of Western Europe to less transitive languages in the Euro-
+pean periphery (4.1). In 4.2, I compare the very sets (not their sizes) of pred-
+icates that are transitive in individual languages, and build a distance matrix
+of languages based on pairwise comparisons. Not surprisingly, the highly tran-
+sitive languages of Western Europe are generally close to each other in this
+matrix, but there are also some more granular trends discernible in the data.
+This means that areally proximate languages are likely not only to have
+15 In the case of Tsakhur and Bagvalal, the sources used were grammars that contain valency
+lexicons and glossed texts: Kibrik (1999) and Kibrik (2001) respectively. For Ancient Greek,
+the expert mostly searched texts available in the Perseus Digital Library (http:/ /www
+.perseus.tufts.edu). In both cases it was virtually impossible to find exact equivalents
+of the necessary sentences, so experts were looking for contexts with similar meanings.
+The valency frames were included in the database if the expert was relatively confident
+that the same frame would also be possible in a translation of the sentence from the
+questionnaire.
+[PDF PAGE 20]
+20 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 20
+comparable transitivity ratios, but also to assign similar sets of predicates to
+their transitive classes.
+4.1 (In)transitivity Ratio
+When comparing languages of the sample we will generally proceed from
+simpler and more holistic properties towards computationally more complex
+and fine-grained characteristics. It is natural to start with the simplest measure
+that can be extracted from the database: the proportion of transitive verbs out
+of all verbs registered for an individual language (e.g., for Albanian this ratio is
+0.52 = 67/128). The relevant data can be found in the “Tr” column of Table 5 in
+the Appendix.
+The ratio of transitives calculated in this way can be viewed as a correlate of
+a language’s inclination towards transitivity. A remark of caution is necessary,
+however: the absolute value of this measure is rather meaningless, as it is fully
+dependent upon the arbitrary choice of predicates to survey.
+One facet of this problem is that languages for which the data are largely
+missing cannot be directly compared to other languages in terms of this ratio.
+For example, among the 55 verbs that were gathered for Tsakhur, there were
+30 transitives. The ratio calculated on this basis, 0.55, puts Tsakhur rather high
+on the overall ranking (11th among the 29 languages). However, this does not
+seem to reflect its real rank. Indeed, if we compare languages based on these
+55 predicates only, the rank of Tsakhur would be only 26th, that is, it would be
+qualified as one of the “least transitive” languages. Similar problems were also
+encountered for two other languages with scarcer data, Bagvalal and Kalmyk.
+The transitivity ratios for these three languages (parenthesized in Table 5) are
+disregarded in the subsequent discussion.
+Under the reservations just discussed, the transitivity ratio can nevertheless
+serve as a useful basis for typological comparison, if viewed as a relative value
+and only for those languages in which comparable sets of data have been
+obtained.16 The ratio of transitivity in the languages of the sample has a broad
+range of values: from 0.34 for Lezgi to 0.67 for Modern Greek, which allows
+16 Even when viewed in this way, this measure can still be somewhat arbitrary: our 130 pred-
+icates, as any other set of predefined lexical items, cannot be claimed to be representative
+of the bivalent verbal lexicon in general. It can be imagined that (non-)transitivity values
+beyond this set of 130 predicates typologically pattern differently from what is observed
+in this study. This is, however, the usual and largely inevitable problem in lexically-based
+typology. The reader is advised to mentally add a modification like “For at least those 130
+predicates studied …” to whatever conclusion is presented below.
+[PDF PAGE 21]
+bivalent verb classes in the languages of europe 21
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 21
+figure 1 The ratio of non-transitives in the languages of Europe
+tracking cross-linguistic variation in the languages of Europe. Importantly,
+despite all coarseness of this measure, it also shows a clear areal pattern, as
+can be seen in Fig. 1.17 For the sake of visual comparability with the maps to
+follow, Fig. 1 representsnon-transitivity ratios.18
+The European languages with the highest ratios of transitives are: Romance,
+Germanic, both Modern and, to a lesser extent, Ancient Greek, Albanian and
+Basque. The peaks of non-transitivity are observed in the languages spoken to
+17 All maps in this paper, as well as the diagram in Fig. 6, were created by Maria Ovsjannikova
+using r (r Core Team, 2013) with the additional packages ‘rworldmap’ (South, 2011) and
+‘calibrate’ (Graffelman, 2006).
+18 The geographical position of the dot for Kalderaš Romani (symbolized “rka”) is somewhat
+arbitrary and follows convention in Haspelmath et al. (2005). The data for this variety
+were obtained from Kalderaš Romas living near St. Petersburg, Russia, whose ancestors
+migrated from Romania in the 19th century.
+[PDF PAGE 22]
+22 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 22
+the south and east of the Baltic Sea, and also Lezgi, Ossetic and Irish, with the
+remaining languages falling in between the two extremes.19
+Thus, the “high transitivity area” comprises most languages of western
+Europe (with the exception of Irish), plus languages of the south-western Bal-
+kans. This set can be compared to the so-called Standard Average European
+(sae) languages, a somewhat fuzzy set of languages that have the highest num-
+bers of typical European linguistic features (that is, features that are less fre-
+quently attested in other parts of the world). Thusly understood, sae languages
+are often thought to constitute the linguistic core of Europe (Haspelmath, 1998,
+2001a; van der Auwera, 2011; see also a critical overview in Heine and Kuteva,
+2006: 1–30).
+A widely-cited list of defining sae properties has been proposed by Haspel-
+math (2001a). It includes 12 features: 1) definite and indefinite articles, 2) rel-
+ative clauses with relative pronouns, 3) ‘have’-perfect, 4) nominative experi-
+encers, 5) participial passive, 6) anticausative prominence, 7) dative external
+possessors, 8) negative pronouns and lack of verbal negation, 9) particles in
+comparative constructions, 10) relative-based equative constructions, 11) sub-
+ject person affixes as strict agreement markers, 12) intensifier-reflexive differ-
+entiation.
+A striking similarity between the “high transitivity area” and the sae core is
+evident if one compares the map in Fig. 1 above with the map that summarizes
+Haspelmath’s findings on the “degrees of membership in sae” (Haspelmath,
+2001a: 1505).20 The set of languages with transitivity ratios above 0.52 (that
+is, non-transitivity ratios below 0.48, cf. Fig. 1) fits nicely with the area on
+19 The idea of quantitative typology based on lexical range of the transitive construction was
+sketched by Drossard (1991). It was built on a list of ten a priori defined semantic types of
+predicates (“effect,” “pursuit,” “attitude,” “similarity,” etc.), so that the binary values (tran-
+sitive vs. non-transitive) were somehow defined for the whole type. Drossard examined
+six languages, including four European languages that were shown to form a hierarchy
+(English > German > Russian > Avar) from more to less lexically transitive (1991: 435).
+Despite drastic differences in technicalities, this hierarchy is echoed in the results reported
+here.
+20 The isopleths shown in Haspelmath’s map are based on a 9-member subset of the 12
+features listed above (with features 4, 6 and 9 disregarded). The data are the following:
+French, German (9 features); Dutch, Spanish, Portuguese, Sardinian, Italian, Albanian
+(8 features); English, Romanian and (Modern) Greek (7 features); Icelandic, Norwegian,
+Swedish, Czech (6 features); Hungarian, Latvian, Lithuanian, Polish, Russian, Ukrainian,
+Slovene, Serbian/Croatian, Bulgarian (5 features); and then Breton, Basque, Maltese (2
+features); Welsh, Georgian, Armenian (1 feature); and finally Irish, Finnish, Estonian,
+Nenets, Komi, Udmurt, Tatar, Lezgi(an), and Turkish with no sae features.
+[PDF PAGE 23]
+bivalent verb classes in the languages of europe 23
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 23
+Haspelmath’s map covered by languages with 6 or more sae features (with
+one notable exception, to be discussed immediately). Notice that the only sae
+feature that could have some logical connection with our data, Haspelmath’s
+No. 4 “nominative experiencers,” is not taken into account in his map (see
+Section 5 for further details on “nominative experiencers”).
+The notable exception mentioned above is Basque. With respect to Haspel-
+math’s sae features, it behaves as a fairly marginal sae language (2 features),
+whereas its transitivity ratio (0.56) is quite high and very close to the figures
+obtained for two neighboring Romance languages, French (0.56) and Spanish
+(0.59).
+Another important difference between the two sets of data is the structure
+of the eastern European periphery. With respect to Haspelmath’s features, the
+Baltic and most of the Slavic languages, all with 5 sae features, are sae languages
+(although to a lesser extent than the core sae languages listed above) and
+contrast sharply with European languages further to the east, including Finnic,
+which show no sae features at all. With respect to transitivity, the picture is
+completely different: Russian, Polish and, to a lesser extent, the Baltic languages
+are among the “least transitive” languages, and in this respect pattern together
+with Finnic. All these languages are thus part of the eastern European low
+transitivity area, which also includes Ossetic, Kalderaš Romani and Lezgi.
+Moreover, arguably it is this eastern European low transitivity area (tran-
+sitivity ratios between 0.33 and 0.44) which stands out against a wider areal
+background, whereas the transitive western European languages (transitivity
+ratios between 0.56 and 0.67) might be more typical languages of Eurasia.21
+The data obtained for several non-European languages of Eurasia are obviously
+too scarce, but preliminarily favor this hypothesis: the transitivity ratios for
+Arabic (0.61), Japanese (0.54), Nanai (0.60), Chukchi (0.59), Khmer (0.74) and
+Mandarin Chinese (0.81)22 are all much higher than in most eastern European
+languages of the sample.23 The figures obtained for three Turkic languages,
+two within the European sample, Azerbaijani (0.48) and Bashkir (0.46), and
+one outside it, Tuvan (0.47), are intermediate between values observed in east-
+21 This idea is consistent with J. Nichols’ finding (pers. comm.; see also Nichols et al., 2004),
+on the distribution of causativization and decausativization in the languages of the world.
+22 The data for these languages have been gathered and analyzed by Ramazan Mamed-
+shaxov, Yukari Konuma, Daria Mischenko, Maria Pupynina, Sergey Dmitrenko and Elena
+Kolpachkova respectively.
+23 These figures are in discord with the very tentative suggestion by Lazard (1994: 63) that
+languages of Europe employ the basic transitive schema more widely than many other
+languages of the world and may even be viewed as “un type extrême” in this respect.
+[PDF PAGE 24]
+24 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 24
+ern European languages and in the Asian languages listed above. This result
+matches the intermediate geographic position of Turkic languages and thus
+corroborates the overall pattern.
+The transitivity ratio as such is an aggregate measure that results from inter-
+action of other, more atomic properties, which are partly discussed below.
+There is, however, at least one general grammatical property which strongly
+correlates with non-transitivity ratios, namely, the size of the case inventory
+for nouns (shown in the “Cases” column of Table 5 in the Appendix; Pearson’s r
+= 0.65; the data for Kalmyk, Bagvalal and Tsakhur are disregarded).24 The corre-
+lation is strong (Pearson’s r = 0.53) even if we additionally disregard languages
+with no case in nouns at all (Romance, Norwegian Bokmål and Dutch).
+An important question is whether there is a causal link between the two
+properties, or they just happen to be similarly patterned in Europe: case inven-
+tories are known to show an east-to-west decline in Europe (Lazard, 1998:
+106–107). The former hypothesis is not improbable. Languages with richer
+case systems, by definition, have a wider inventory of more grammaticalized
+tools available for flagging oblique arguments without resorting to adpositions,
+which generally tend to be semantically more specific and syntactically heavier
+(Luraghi, 1991: 66–67; Hagège, 2010: 37–38). It is thus natural to expect that such
+languages may make use of these economic options with wider sets of verbs.
+Although plausible, this hypothesis clearly needs areally non-biased veri-
+fication. Interestingly, even in Europe there are several points of divergence
+between the two areal patterns. Basque, for instance, has a very rich case inven-
+tory, which is not typical of western European languages, but in terms of its
+transitivity ratio it is similar to surrounding languages, as discussed above. On
+the other hand, whatever remnants of the Indo-European case system there are
+in Irish, they are not relevant for marking arguments of non-transitive bivalent
+verbs; and yet, Irish is among Europe’s “least transitive” languages.
+4.2 Transitivity Profiles
+Obtaining comparable values for transitivity ratios does not itself imply any
+similarity in the way languages treat individual predicate meanings, even with
+respect to transitivity. It can thus be instructive to study languages’ “transitiv-
+ity profiles”: the sets of predicates that are assigned to the transitive class. The
+24 A. Malchukov (pers. comm.) hypothesizes that this correlation is part of a still wider corre-
+lation, namely, between non-transitivity ratios and dependent-marking. This hypothesis
+cannot be properly tested within the sample discussed in this paper, as there are no lan-
+guages in this sample that consistently favor head-marking.
+[PDF PAGE 25]
+bivalent verb classes in the languages of europe 25
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 25
+table 2 (Non-)transitive verbs: Eastern Armenian vs. Azerbaijani and Norwegian Bokmål
+Azerbaijani Norwegian Bokmål
+Transitive Non-transitive Transitive Non-transitive
+Eastern Transitive 53 8 51 10
+Armenian Non-transitive 5 53 15 46
+problem with transitivity profiles is that it is difficult to capture their proper-
+ties holistically for purposes of cross-linguistic comparison. However, they are
+suitable for pairwise comparison of languages: for every predicate meaning, we
+can check whether corresponding verbs have identical (in)transitivity values
+in a given pair of languages. Table 2 contains the results of comparing Eastern
+Armenian to two other languages: Azerbaijani and Norwegian Bokmål.25
+The degree of dissimilarity in pairs of languages can be captured by the
+relative Hamming distance: the proportion of predicates with non-identical
+transitivity values (transitive in one language, non-transitive in the other) out
+of all predicates that have been obtained for both languages. E.g., Eastern
+Armenian’s relative Hamming distance to Azerbaijani is 0.11 (= 13/119), and to
+Norwegian Bokmål, 0.20 (= 25/122). Thus, although the three languages are
+quite close in terms of overall transitivity ratios, with respect to assigning
+predicate meanings to the transitive class, Eastern Armenian is much closer
+to Azerbaijani than to Norwegian Bokmål.
+Based on this technique we can build a distance matrix for the languages of
+the sample. For the analysis and visualization of distance matrices, I applied
+the NeighborNet method, as implemented in the SplitsTree4 software (Huson
+and Bryant, 2006).26
+NeighborNet allows to represent distances faithfully in large sets of “taxa”
+(languages, in our case) on a plane, which is achieved by way of splitting the
+paths. It should be noted that visual proximity of labels is irrelevant; what
+matters is the length of the route between the nodes along the edges of the
+25 Only those predicates are tabulated for which satisfactory data were gathered in both
+languages compared. Thus, the sums of values in the two parts of the table are not
+identical.
+26 A fundamental advantage of this method is that it simply disregards gaps in the data.
+Consequently, Fig. 3 and other splits graphs below represent all languages of the sample,
+regardless of the number of verbs obtained.
+[PDF PAGE 26]
+26 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 26
+figure 2 (Dis)similarities in transitivity values of predicates meanings (NeighborNet
+visualization)
+graph. An important aspect of “reading” the NeighborNet visualization is track-
+ing splits represented by sets of parallel edges of equal length. For example, in
+Fig. 2 there is a remarkable split represented by 8 almost horizontal edges in the
+left part of the graph. The languages to the left of this split are exactly the highly
+transitive languages discussed above, with the exception of Ancient Greek.
+Somewhat impressionistically, we can thus conclude that Romance, Germanic,
+Albanian and Modern Greek are not only “comparably transitive,” but also “sim-
+ilarly transitive,” whereas Ancient Greek is “comparably transitive,” but stands
+out from this group in terms of its transitivity profile.
+Unlike classical taxonomic trees, the NeighborNet method allows partial
+overlaps between sets of “taxa.” In Fig. 2, for instance, there is a split that sets
+Irish, Dutch and English apart from all other languages—a set which can be
+indicative of an areal signal. This set overlaps (Dutch, English) with the set of
+highly transitive languages discussed above, but Irish clearly does not belong
+to that highly transitive group.
+There are some small groupings discernible in Fig. 2 which can be inter-
+preted genetically (cf. Daghestanian, Baltic and to some extent Germanic) or
+areally (cf. discussion of Irish above). However, the overall impression is more
+indicative of large-scale areal patterns. Most notably, the horizontal dimen-
+[PDF PAGE 27]
+bivalent verb classes in the languages of europe 27
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 27
+table 3 Distribution of patterns in terms of locus
+p: core p: non-core
+Label No. % Label No. %
+a: core Transitive 1658 49.8 p locus 1469 44.1
+a: non-core a locus 167 5.0 a&p locus 38 1.1
+sion in Fig. 2 roughly corresponds to geographical longitude, which is largely
+accounted for by the decrease of the transitivity ratio from west to east. Other
+areal patterns include an opposition between northern and southern areas
+among the highly transitive languages (with Basque standing apart) and the
+tightly-knit group of languages from Europe’s north-east in the upper right-
+hand part of the graph. These languages do not form a real cluster, but are
+characterized by low distances between them.
+5 Deviations from Transitivity: a and p Locus of Non-transitivity
+In this section, I will discuss (dis)similarities between European languages
+based on their use of non-transitive frames with oblique marking of a (a locus)
+or p (p locus); simultaneous oblique marking of a and p will be shown to be
+very rare (5.1). Frames with a locus of non-transitivity will be shown to be most
+frequent in the Daghestanian languages and Irish, almost non-attested in other
+languages in the Northwest of Europe, and moderately present elsewhere (5.2).
+Frames with p locus are more frequent than frames with a locus throughout
+Europe and are particularly common in the European Northeast. The two geo-
+graphical patterns are generally independent of each other (5.3). Languages
+with comparable frequencies of frames defined in terms of locus do not nec-
+essarily use these frames with similar sets of predicates: similarity of predicate
+sets defined in terms of locus is more common among areally and genetically
+proximate languages.
+5.1 Non-transitivity and Locus
+The four-way classification of verbs—non-transitive verbs with a, p and a&p
+locus, and transitive verbs—is built upon two defining properties that are
+logically independent of each other: for a and p to be either a core argument
+or not. The overall distribution of valency frames in the sample, according to
+these parameters, is shown in Table 3.
+[PDF PAGE 28]
+28 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 28
+Valency frames with p locus of non-transitivity are much more frequent in
+the database than valency frames with a and a&p locus. Whether this is mostly
+determined by the choice of predicates,27 or an areal property of European
+languages, or a universal trend cannot be deduced from the data.28
+As can be seen in Table 3, valency frames with a&p locus are the least
+frequent among the four types. Moreover, valency frames with a&p locus are
+attested less frequently than would be expected if oblique marking of a and p
+arguments were independent (χ2 = 62.8, p << .001): in fact, a is likelier to be
+coded as a direct argument if p is coded as an oblique argument, and the other
+way around.29 Based on the overall rarity of a&p locus, it will be arbitrarily
+lumped together with a locus in 4.2 (see Lazard, 1994: 146 for a similar approach,
+although in different terms).
+The next question to ask is whether there is any correlation between ratios
+of frames with a and p locus. To apply correlation tests to actual percentages of
+frames with a and p locus (as shown in Table 5, see Appendix) is a misleading
+procedure, because these values represent frequencies of mutually exclusive
+types in the overall distribution. A legitimate question to ask is if there is a
+correlation between the ratio of verbs with a locus in a given language and
+the proportion of verbs with p locus among the verbs without a locus in that
+language. For the languages of the sample, at least, the answer is negative
+(Pearson’s r = -0.06, p = 0.75). Hence, the two phenomena are more or less
+27 The distributions obtained are of course dependent on the choice of predicates for sur-
+vey, as locus of non-transitivity is to a large extent iconically motivated; cf. Malchukov’s
+(2006: 335) “Relevance principle” predicting that deviations from transitivity (e.g., non-
+volitionality of a or non-affectedness of p) be usually marked on the “relevant constituent.”
+See also Malchukov (2005) for a detailed discussion of how verbs differ with respect to
+favoring a vs. p locus.
+28 The data in Bickel et al. (in prep.), which have been gathered from available descriptions
+for a world-wide sample of languages, imply that “non-default case assignment” is attested
+with p arguments more frequently than with a arguments, though the skewing in their
+distribution seems less sharp than in our data. “Non-default case assignment” is very
+similar to the notion of “locus of non-transitivity” as employed here; the major difference
+is that the former notion also covers direct (not oblique) encoding of an argument if it
+is different from the default. Thus, for example, the “a in the dative, p in the nominative”
+frame in a language that has accusative case will be viewed as having “non-default case
+assignment” for both arguments by Bickel et al., but it will be classified as a frame with a
+locus only in this study.
+29 Tsunoda (1981) puts forward the “Unmarked case constraint” that captures the disprefer-
+ence against patterns with a&p locus, almost to the point of ruling them out altogether.
+[PDF PAGE 29]
+bivalent verb classes in the languages of europe 29
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 29
+independent of each other. They will be discussed in turn, starting with less
+frequent valency frames with a locus.
+5.2 Areal and Genetic Patterns in a Locus of Non-transitivity
+There are at least two types of phenomena related to a locus whose areal distri-
+bution in European languages is relatively well known. The first is the distinc-
+tion between “generalized” and “inverted” strategies of encoding experiencers
+(Bossong, 1998; Haspelmath, 2001b). In the former strategy, the experiencer
+is morphosyntactically assimilated to agents ( I like it), in the latter strategy it
+is assimilated to patients or goals ( It pleases me). Bossong (1998: 287) iden-
+tifies the part of Europe where the generalized strategy prevails as “l’ Europe
+maritime,” which includes Scandinavian, Basque, English, most of Romance,
+Modern Greek, Bulgarian, Turkish and a few other languages. Haspelmath, after
+slightly shifting the cut-off point at the gradual scale, arrives at the conclusion
+that prevalence of “nominative experiencers” is one of defining features of sae
+languages (see 4.1. above); the relevant map, entirely based on Bossong’s data,
+can be found in Haspelmath (2001a: 1496).
+The second is the expression of predicative possession. Stassen (2009), in his
+worldwide survey, shows that “a major concentration” of the transitive strategy
+(“have-possessives”) “is found in the languages of western and south-eastern
+Europe: Germanic, Romance, West and South Slavonic, as well as Albanian,
+Modern Greek, and Basque feature this type as their unique encoding option”
+(ibid.: 247).
+In both “generalized” experiential predicates and “have-possessives” the a
+argument is canonical, while their alternatives are for the most part valency
+frames with a locus as defined here. The possibility that these two typological
+features may be non-accidentally correlated in Europe is explicitly mentioned
+by Haspelmath (2001a: 1495).
+In the 130-predicate list employed in this study, there are many experiential
+predicates as well as several verbs related to possession (not only ‘have,’ but also
+‘lack,’ ‘need,’ ‘have enough,’ which often pattern together with ‘have’). Thus, the
+distribution of valency frames with a locus in our data was expected to subsume
+the distributions discussed above. The relevant figures can be found in Table 5
+(see Appendix), while the map (with a and a&p locus lumped) is shown in
+Fig. 3.
+By far the highest frequencies of valency frames with a locus are observed in
+Irish and the three Daghestanian30 languages of the sample. The fact that the
+30 The three Daghestanian languages are the only languages in the sample with strong
+[PDF PAGE 30]
+30 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 30
+figure 3 The ratio of verbs with a and a&p locus in the languages of Europe
+Celtic languages show some resemblance to the Daghestanian languages with
+respect to argument encoding has been mentioned in the literature (Bossong,
+1998: 263 with further reference to Heinrich Wagner). The distribution of the
+remaining languages is also generally similar to what is expected from previous
+studies. There are two more interesting points to make: (i) among the languages
+of western Europe, lower ratios of a locus are concentrated in the northern part,
+so the north-to-south dimension is discernible to almost the same extent as
+the often-mentioned west-to-east dimension; (ii) with respect to disfavoring a
+locus, the three Altaic languages are quite comparable to the languages of the
+sae zone.31
+ergative properties. It is not surprising, then, to find higher ratios of verbs with a locus of
+non-transitivity in these languages; see, e.g., Malchukov (2006: 343–345) for a principled
+account of the correlation between ergativity and manipulating a arguments.
+31 An interesting hypothesis to study is whether there is a negative correlation between lex-
+[PDF PAGE 31]
+bivalent verb classes in the languages of europe 31
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 31
+5.3 Areal and Genetic Patterns in p Locus of Non-transitivity
+The discussion in the previous section can lead to the impression that the over-
+all distribution of transitive and non-transitive valency frames in European
+languages, which was shown in Fig. 1, is wholly accounted for by the well-known
+prevalence of “nominative subjects” in the sae area (roughly equivalent to dis-
+favoring frames with a locus), and has nothing to do with the areal distribution
+of patterns with P-locus. The latter distribution can be seen in Fig. 4 (the rele-
+vant data are in Table 5 in the Appendix).
+Similarly to some previous distributions, the usual west-to-east contrast is
+discernible in the data, with western European languages showing the lowest
+ratios of p locus. This means that high transitivity ratios in western Europe are
+in fact not accounted for exclusively by disfavoring a locus.
+Apart from the east-to-west cline, further details in Fig. 4 are quite different
+from what was observed with respect to a locus. The highest concentration of
+p locus is found in the Circum-Baltic area and Ossetic. In western continental
+Europe, the lowest ratios of p locus are found in the south (Modern Greek,
+Spanish and Italian), that is, the pattern is quite the opposite of what was
+observed for a locus. All in all, these areal findings corroborate the conclusion
+put forward above that there is no significant positive correlation between
+frequencies of frames with a and p locus. What all these data imply is that the
+overall areal distribution of frequencies of transitives and non-transitives, as
+shown in Fig. 1 above, can be a result of superimposition of at least two relatively
+independent areal patterns.
+5.4 Areal and Genetic Patterns in Locus-based Profiles
+In surveying frequencies of valency frames defined in terms of locus, as with
+overall transitivity above, comparable ratios of verbs with the four types of
+locus in pairs of languages do not guarantee similarity between the sets of
+such verbs. Thus, again, it is useful to establish lexical “profiles” of individual
+ical extent of a locus and the “strength” of the subject category. Intuitively, the data at
+hand do not contradict this expectation: cf. the very special “role-dominated” status of
+Celtic and Daghestanian among European languages as mentioned by Haspelmath (2001b:
+55), Comrie’s (1981: 68) detailed argumentation for the idea that English is more subject-
+prominent than Russian, and Faarlund’s (1998) semi-quantitative three-way classification
+of 30 European languages, which generally fits the east-to-west dimension, so that the
+western European languages are claimed to possess “la plus forte catégorie subjectale”
+(ibid.: 186). Testing this hypothesis in its entirety is currently problematic due to the lack
+of quantitative techniques for measuring subject-prominence. See Witzlack-Makarevich
+(2011) for a large-scale proposal.
+[PDF PAGE 32]
+32 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 32
+figure 4 The ratio of verbs with p locus in the languages of Europe
+languages, based on sets of predicates assigned to each of the four locus-defined
+types. It is possible to visualize emerging degrees of dissimilarity in the form of
+a splits graph, see Fig. 5 (in the same way as it was described in 4.2).
+The data that are used for the graph in Fig. 5 are very similar to (but more
+elaborate than) the data that were used for the graph in Fig. 2 in Section 4.2.
+The new feature in the present data is the distinction between the three types
+of non-transitive frames (frames with a, p, and a&p locus of non-transitivity),
+whereas in 4.2., they were all collapsed. Not surprisingly, the overall pictures
+emerging from these two graphs are very similar.32 The main difference is
+that vast areal effects, which cut apart large sets of languages, are slightly
+32 Notice that the typological similarity between Irish and the Daghestanian languages
+with respect to a locus, as discussed in 4.2., totally dissolves at the level of individual
+predicates. At the same time, the set of the three Daghestanian languages is internally
+quite homogeneous.
+[PDF PAGE 33]
+bivalent verb classes in the languages of europe 33
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 33
+figure 5 (Dis)similarities in locus of marking deviations from canonical transitivity
+(NeighborNet visualization)
+less clearly seen (cf. the loss of a cluster that unites Modern Greek with the
+remaining highly transitive languages), whereas lower-level structures emerge
+more clearly, such as, e.g., associations between Basque and Spanish or Russian
+and Polish. Neither of these associations was seen in Fig. 2.
+6 Complexity of Valency Class Systems
+In this section I propose to measure complexity of valency class systems by way
+of calculating the entropy of the distribution of verbs among valency classes.
+High entropy values (more elaborate valency class systems) will be predictably
+found to dominate in eastern Europe, largely due to low transitivity ratios.
+Entropy of non-transitives alone will be shown to be weakly patterned areally.
+Languages can differ with respect to complexity of their valency systems.
+To the extent that we maintain that valency frames are largely semantically
+motivated, languages with more complex valency class systems can be assumed
+to make finer distinctions between semantic roles of arguments, whereas less
+[PDF PAGE 34]
+34 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 34
+complex systems tend to neutralize more of these distinctions, as argued by,
+e.g., Malchukov (2013).
+The lexical range of transitives, as discussed above, is the clearest indicator of
+the degree of semantic non-discrimination between predicates. However, even
+beyond the transitive class, languages may differ in their propensity towards
+lumping vs. splitting verb-specific arguments. We thus need a technique for
+measuring this property of valency class systems.
+One simple solution is to rely upon the number of valency classes into
+which the verbs are grouped. Technically, this can be easily implemented in
+our database (the relevant figures are in the “Classes” column of Table 5, see
+Appendix; notice the wide range of data, from 7 to 25 classes). Yet, this mea-
+sure is particularly vulnerable to the vagaries of the data-gathering procedure,
+such as the number of verbs gathered33 or particular decisions about how to
+categorize specific ambiguous verbs.
+An alternative that will be used here is calculating entropy of the distribution
+of verbs among valency classes, according to the following formula.
+(14) H(x) = − ∑ ki=1 p(xi) × log(p(xi))
+In our case k is the number of valency classes in a given language and p(xi) is
+calculated as the ratio of the ith class of verbs relative to the overall number of
+verbs. The idea of calculating entropy is to measure the “amount of disorder” in
+a distribution. In a hypothetical language where all verbs belong to one class,
+entropy would equal zero. The theoretical maximum of entropy for a set of
+130 items is 4.87 = log(130); this would be observed in another hypothetical
+language, where each verb forms a class of its own. Real languages, of course,
+lie between these two extremes.
+Entropy is lower for languages with fewer classes. With a given number of
+classes, maximal entropy is obtained if all classes are of equal size, whereas
+a system with one or a few large classes and many small classes would have
+lower entropy. For the sake of illustration, we can compare two hypothetical
+languages with 110 verbs that fall into 11 classes. In a language with class sizes
+(10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10) entropy would equal 2.40, whereas in a
+language with class sizes (100, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1) entropy would equal 0.51.
+Thus, other things being equal, languages with high transitivity ratios yield low
+entropy values, which reflects their lower degree of differentiation.
+33 For this reason, the data for the four languages from which less than 100 verbs have been
+gathered are parenthesized in Table 5 (see Appendix).
+[PDF PAGE 35]
+bivalent verb classes in the languages of europe 35
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 35
+figure 6 Valency classes in Azerbaijani (left) and Lithuanian (right)
+In order to obtain an intuitive impression of how the entropy value is related
+to the structure of verb classes, we can compare the distributions of verbs into
+valency classes in Azerbaijani and Lithuanian. In Azerbaijani, the class sizes
+are (58, 27, 15, 11, 4, 2, 1, 1, 1, 1); that is, there are only ten classes, and the four
+biggest classes cover more than 90 % of the verbs. The entropy equals 1.50 (a
+relatively low value), as calculated in (14a).
+(14a) H(Azerbaijani) = − 58121 ×log( 58121 )− 27121 ×log( 27121 )−…− 1121 ×log( 1121 ) =
+−0. 48 × (−0. 74) − 0. 22 × (−1. 5) − … − 0. 008 × (−4. 8) = 0. 35 +
+0. 33 + … + 0. 04 = 1. 50
+In Lithuanian, there are 17 classes with sizes (56, 13, 11, 10, 8, 6, 4, 4, 3, 2, 2, 2,
+2, 1, 1, 1, 1). The four biggest classes cover slightly above 70 % of the verbs, and
+the transition from large to small valency classes is gentler than in Azerbaijani.
+Correspondingly, the entropy value is much higher: 2.05. A visual impression of
+the organization of valency classes in the two languages can be obtained from
+Fig. 6, where the distributions are displayed in the form of pie charts.
+The geographical distribution of entropy values in the languages surveyed is
+shown in Fig. 7 (raw data can be found in Table 5 in the Appendix).
+Entropy as such does not bring much new areal information (but it will be
+important for the discussion in Section 7): the areal pattern emerging from
+Fig. 7 is not surprising given the previous data discussed. As expected, higher
+values are observed for languages with lower transitivity ratios, that is, the
+two measures are inversely correlated. Modern Greek shows the most reduced
+system (high ratio of transitives, only 7 valency classes).
+[PDF PAGE 36]
+36 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 36
+figure 7 The entropy of verb class distributions in the languages of Europe
+A more interesting picture emerges if one takes a closer look at distribu-
+tions of non-transitive verbs only. In this case, entropy is analytically depen-
+dent upon the overall number of non-transitive verbs: languages for which
+70 non-transitive verbs have been gathered would inevitably tend to show
+higher values than languages with, say, 50. It is more informative to consider
+what can be calledrelative entropyfor non-transitive verbs, calculated as actual
+entropy divided by its theoretical maximum: log(nintr), where nintr is the num-
+ber of non-transitive verbs. This measure captures the relative elaborateness
+of the non-transitive class system. In Lithuanian, for instance, the relative
+entropy of non-transitives is rather high (57 %), which reflects the gently slop-
+ing distribution of non-transitive classes. By contrast, in Azerbaijani, there are
+three large classes that cover 53 out of the total of 63 non-transitive verbs,
+and correspondingly the value of relative entropy of non-transitives for Azer-
+baijani is significantly lower, 38 % (see Fig. 6 once again for a visual impres-
+sion).
+[PDF PAGE 37]
+bivalent verb classes in the languages of europe 37
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 37
+The values of relative entropy of non-transitive verbs are shown in the
+“hintr/hmax” column of Table 5 in the Appendix. Some peaks are expected from
+previous discussion (e.g., Irish and Daghestanian), but, in contrast to previously
+discussed measures, the geographic pattern is not quite as pronounced. In
+other words, internal organization of the non-transitive lexicon seems to be
+a more local phenomenon than most features discussed above (e.g., rather
+elaborate systems in German and Ingrian contrast with much more reduced
+systems in Dutch and Estonian, respectively).
+The relative entropy expectedly correlates with the number of nominal
+cases (Pearson’s r = 0.47). By way of illustration, it can be noticed that all
+caseless languages of the sample (Romance, Dutch and Norwegian Bokmål)
+have low to moderate relative entropy values (47–53 %), whereas languages
+with extremely large case inventories (15 or more cases), that is, Basque and
+especially Komi-Zyrian and the three Daghestanian languages, all have high
+relative entropy values (56–76 %).
+However, this correlation is not entirely straightforward. There seems to be
+a related but slightly different aspect of grammatical systems that is (also) at
+work here: the extent to which primarily spatial expressions (whether cases
+or adpositions) are recruited for coding argument relations. This can be illus-
+trated for 12 languages of the sample with moderately large case inventories
+(5 to 9 cases), which are all spoken in Eastern Europe. In some of these lan-
+guages (Slavic, Baltic and Kalderaš Romani) the ability to code both spatial
+relations and more abstract semantic relations is typical of many adpositions
+(which are prepositions in these languages), and all these languages have rela-
+tive entropy above the population mean (53 %). In the remaining 6 languages,
+which are spoken south of the Balto-Slavic area, relative entropy values are
+low (50 % and less); here, the two functional domains are largely kept apart. In
+Turkic languages, Kalmyk, and Armenian, for instance, adpositions (which are
+postpositions in these languages) are, relatively speaking, weakly grammatical-
+ized, and dependent-marking of arguments, at least for more abstract verbs, is
+monopolized by moderately rich case-marking (hence, low elaboration of non-
+transitive valency classes).
+7 The Internal Structure of Valency Class Systems
+This section is devoted to the objective of this study that poses the biggest
+methological challenge: measuring (dis)similarities between languages based
+on the way predicates are arranged into individual valency classes. I propose
+a metric based on Mutual Information (mi), and ultimately on comparing
+[PDF PAGE 38]
+38 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 38
+entropies of distributions. With the help of this metric I build a distance
+matrix for the languages of Europe. Its scrutiny reveals that the granularity
+of data in this case is finer than in the case of transitivity and locus of non-
+transitivity. Areally, this manifests itself in several local convergences (Basque
+and Romance; Irish and English; Eastern Armenian and Turkic languages). On
+a more theoretical level, these findings imply that valency class systems can
+assimilate in language contact, even if the devices that are employed for argu-
+ment encoding differ drastically between the languages in contact.
+In previous sections, measurement of pairwise (dis)similarities between
+languages was based on pre-established sets of discrete values, e.g. ‘transitive’
+and ‘non-transitive,’ and on equating them, with some level of confidence,
+across languages. This enabled us to enquire whether a given predicate, e.g.
+‘lack,’ shows the same value in a pair of languages, and consider positive or
+negative answers as indications of similarity or dissimilarity, respectively.
+Such an approach proved useful when dealing with transitivity (two val-
+ues, 4.2) and locus (four values, 5.4). However, once we differentiate further,
+we face a crucial problem: there seems to be no legitimate basis for equat-
+ing individual valency classes across languages (several potential candidates,
+including descriptive grammatical labels, semantic roles and grammaticaliza-
+tion schemata, are discarded in Section 2).
+Yet, intuitively, languages may be more or less similar in the ways they
+partition verbs into valency classes, that is, into classes of lower level than
+locus-based types. For capturing this intuition quantitatively, let’s start with
+drawing a contingency table for a pair of languages, as shown in Table 4 for
+Eastern Armenian and Azerbaijani. The distribution of predicates into valency
+classes in these two languages is strikingly similar. Not only the transitive
+classes (see Table 2), but also major non-transitive classes can be nicely mapped
+from one language onto the other. For example, 7 out of 11 Azerbaijani verbs
+from the nom_com class correspond to verbs from the nom_het class in Eastern
+Armenian; the reverse mapping rule has no exceptions at all. For the sake of
+readability, the best fitting classes in Table 4 are listed in corresponding order,
+which yields diagonal alignment of the largest values.34
+34 Identity of conventional labels of some classes is irrelevant and was not taken into account
+when analyzing the data. Also irrelevant were grammatical properties of individual con-
+structions, e.g., whether cases, adpositions, or agreement markers are associated with
+individual classes in pairs of languages compared. The only aspect that matters in this
+approach is cross-linguistic (dis)similarity between classes defined in terms of predicates
+that fall into those classes.
+[PDF PAGE 39]
+bivalent verb classes in the languages of europe 39
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 39
+table 4 Correspondences between valency classes: Eastern Armenian vs. Azerbaijani
+Azerbaijani
+tr
+nom_dat
+nom_abl
+nom_com
+gen_nom
+nom_ill
+nom_loc
+dat_nom
+gen_dat
+nom_nom
+tr 53 3 1 1 2 0 0 0 1 0
+nom_dat 1 16 0 0 0 0 0 0 0 0
+nom_abl 1 1 10 0 0 0 0 0 0 0
+nom_het 0 0 0 7 0 0 0 0 0 0
+dat_nom 1 2 0 0 1 0 0 1 0 0
+nom_nom 1 1 0 0 0 1 0 0 0 1
+nom_mej 0 0 0 0 0 0 1 0 0 0
+nom_vra 0 3 3 0 0 0 0 0 0 0
+Eastern Armeniannom_ins 0 0 0 3 0 0 0 0 0 0
+nom_masin 1 0 1 0 0 0 0 0 0 0
+nom_patcarov 0 1 0 0 0 0 0 0 0 0
+Now, in order to capture the degree of similarity in pairs of valency class sys-
+tems, I propose a technique based on mutual information (mi). mi is calculated
+as shown in (15), where x and y are two probability distributions, h(x) and h(y)
+are entropies of these distributions, and h(x, y) is the joint entropy.
+(15) mi (x; y) = h(x) + h(y) − h(x, y)
+hausser and strimmer, 2009, via bickel, 2010
+mi is calculated for Eastern Armenian and Azerbaijani in (16); notice that
+joint entropy is calculated based on the distribution of predicates among all
+available correspondence classes (cells in the two-dimensional table), which
+is viewed as a one-dimensional distribution. In the case of Eastern Armenian
+and Azerbaijani, there are 110 (= 11 × 10) cells. Out of these 110 cells, 27 are
+non-empty, that is, contain values that add to the joint entropy; raw frequencies
+are (53, 3, 1, 1, 2, 1, 1, 16 … 1) in this case. The diagonal alignment of the data in
+Table 4 is irrelevant for calculations, it was employed for visualization purposes
+only.
+[PDF PAGE 40]
+40 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 40
+(16) mi (Eastern Armenian; Azerbaijani) = 1.66 + 1.46 − 2.20 = 0.92.35
+mi is a symmetric measure that captures the degree of similarity between two
+distributions. If there were an exceptionless one-to-one correspondence rule
+for valency classes in two hypothetical languages, then the two distributions
+would be mutually maximally informative (mi would equal entropies in both
+distributions and in the joint distribution, all identical). If two distributions had
+no similarity, then their joint entropy would be equal to the sum of entropy
+values in the two distributions and mi would equal zero. The real picture for
+Eastern Armenian and Azerbaijani is naturally somewhere in between.
+mi as such is not suitable for measuring similarities in heterogeneous sam-
+ples of languages because it is biased in favor of languages with higher entropy
+values (pairs of more complex systems are expected to yield higher mi values
+than more reduced systems). Thus, for building a distance matrix, we need to
+normalize mi. This can be done by way of calculating predictability. The for-
+mula for calculating the predictability of x given y is shown in (17).
+(17) π(X |Y) = MI(X,Y)H(x)
+hausser and strimmer, 2009, via bickel, 2010
+Predictability values vary between 0 (the two distributions are unrelated) to 1
+(the distribution that is given can be unequivocally mapped onto the distribu-
+tion being predicted). Real values for our data are again somewhere in between,
+e.g., π(Eastern Armenian|Azerbaijani) = 0.921.66 = 0.56, and π(Azerbaijani|Eastern
+Armenian) = 0.921.46 = 0.63.
+Predictability is an asymmetrical measure: the distribution with lower
+entropy is always easier to predict, given the distribution with higher entropy,
+than the other way around. With respect to valency classes, this means that cor-
+respondence rules from more elaborate systems to simpler systems are more
+efficient than correspondence rules in the opposite direction. For our purposes,
+directionality of correspondence rules is irrelevant. I propose to calculate a dis-
+tance measure d as shown in (18):
+(18) D(X, Y) = 1 − π(X |Y)+π(Y |X)2
+35 The entropy values are slightly different from the figures shown in the Appendix because
+only those predicates that were obtained for both languages are taken into account here.
+[PDF PAGE 41]
+bivalent verb classes in the languages of europe 41
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 41
+For Azerbaijani and Eastern Armenian, d = 1 – 0.56+0.632 = 0.41. Defined in
+this way, d varies between 0 (hypothetical pairs of languages with identical
+distributions of predicates among valency classes) to 1 (hypothetical pairs
+of languages with no correspondence between valency classes above chance
+probabilities). d is a metric: it equals zero if and only if the two distributions
+are identical, it is non-negative, symmetric and meets the requirement of
+subadditivity (triangle inequality).
+Proposing this measure is the main methodological result of this study. Its
+main advantage is that it captures similarities between valency classes of pred-
+icates, regardless of the language-specific grammatical properties of valency
+constructions. For example, if languages l1 and l2 have identical valency class
+systems (that is, there is a one-to-one correspondence between classes in terms
+of predicates entering these classes), their d would equal 0, even if, e.g., l1 is
+dependent-marking and l2 is head-marking, or if l1 is accusative and l2 is erga-
+tive. No less important is the fact that d does not require particular classes to be
+singled out as transitive classes in the languages being compared. This is also a
+big advantage, because for some languages identification of the transitive class
+is far from trivial.
+We can now build a distance matrix based on the d measure for our sample
+of languages. Similarly to what was described in Sections 4.2 and 5.4, these
+distances are plotted in a splits graph, visualized by the NeighborNet algorithm
+in Fig. 8.
+By and large, there is less structure in Fig. 8 than in Figs 2 and 5 above (which
+show distances based on transitivity and locus, respectively). The longer edges
+that set apart individual languages in Fig. 8 reflect the huge number of available
+possibilities for grouping verbs into classes, so that each language appears to
+solve the problem in a quite unique fashion.
+If compared to Figs 2 and 5 above, Fig. 8 is more indicative of local areal and
+low-level genetic similarities, probably at the expense of large-scale areal pat-
+terns. For some languages there is no areally or genetically interpretable signal
+in the data at all, as is the case with Kalmyk, Modern Greek and Estonian: what-
+ever the typological reasons for their closeness in the splits graph, it cannot be
+attributed to their historical development or areal proximity. Probably, a tighter
+grid of languages is needed for finding non-accidental similarities for a larger
+number of languages.
+However, on a lower level, Fig. 8 is indicative of some genetic groupings—
+Baltic, Daghestanian (both also present in Figs 2 and 5), and Germanic (Fig. 8
+shows a split that separates the Germanic languages from all other languages,
+which was not the case with Figs 2 and 5). It is even more indicative of indi-
+vidual areal convergences: Basque and the three Romance languages; Irish
+[PDF PAGE 42]
+42 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 42
+figure 8 (Dis)similarities between the languages of Europe based on pairwise mutual
+predictability of valency class membership (NeighborNet visualization)
+and English; Eastern Armenian and the two Turkic languages; and finally a
+group encompassing Polish, Russian and three languages in heavy contact with
+Russian: Komi-Zyrian, Kalderaš Romani (see fn. 18) and Ingrian. Presumably
+these convergences are accounted for by contact-induced phenomena, such as
+calquing valency frames of individual lexical items or contact-induced gram-
+maticalization of argument-coding devices.
+The usual problem with quantitative generalizations based on relatively
+large samples is that, in order to interpret them linguistically, we have to go
+back to the data and scrutinize individual results, e.g., track pathways of devel-
+opment that yielded lexical similarities between individual classes in Eastern
+Armenian and Azerbaijani, as shown in Table 4 above. Moreover, the group-
+ings present in Fig. 8 cannot be viewed as straightforwardly indicative of actual
+language contact. We know, for instance, that Basque has had contact with
+[PDF PAGE 43]
+bivalent verb classes in the languages of europe 43
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 43
+Spanish and French, but not Italian, and that Ingrian is heavily dominated by
+Russian, but not in contact with Polish; but this knowledge cannot be inferred
+from the data in Fig. 8. Nevertheless, we can observe that, with respect to inter-
+nal organization of valency class systems, a genetically unrelated language can
+cluster with a group that consists of genetically closely related languages. This
+fact implies that assignment of verbs to valency classes is a grammatical prop-
+erty that can undergo assimilation in language contact despite non-identity of
+techniques of argument-marking, which are often not easily transferrable.
+8 Conclusions
+The analysis of valency class systems in the preceding sections forms a four-step
+cascade: transitivity, locus of marking deviations from transitivity, overall elab-
+orateness of valency class systems, and the ways in which verbs are grouped
+into individual valency class systems. In other words, we moved from more
+basic and coarse distinctions among bivalent verbs to more subtle aspects of
+the organization of the verb lexicon.
+The data in each of the four cases were taken from the same database, so
+that individual sections differed primarily in the perspective taken. It is not
+surprising, then, that the areal patterns established in the individual sections
+are largely consonant.
+There are, however, important differences, too. Indeed, with transitivity the
+methodology is rather simple and the results converge to a large-scale areal pat-
+tern: the transitive class is most extensive in Romance, Germanic, Basque and
+some Balkan languages—a grouping close to what is commonly assumed to
+be the Standard Average European core—whereas many peripheral European
+languages are “less transitive.” A very interesting point for further research is
+to place the European pattern just described into a wider, ideally world-wide,
+perspective. It is worth noting in passing that the lexical range of transitivity
+among bivalent verbs deserves being included in the list of common typolog-
+ical parameters, something that does not seem to have happened yet, despite
+some previous appeals (Drossard, 1991).36
+36 The well-known parameter of “valence orientation” (Nichols et al., 2004) might come
+close, but, logically at least, it is independent of what is explored here: it is concerned
+with derivational relations between transitive and intransitive verbs, not with the bivalent
+verbs’ probabilities of being transitive. The two parameters are similar in that both are
+related to what is basic in the lexicon of a given language, transitive or non-transitive.
+[PDF PAGE 44]
+44 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 44
+Once we go one step down the cascade, the clear areal picture starts to blur:
+marking non-transitivity by putting the a argument into an oblique position is
+particularly typical of Irish and Daghestanian languages, whereas the highest
+ratios of verbs with p locus are found in the languages of the Circum-Baltic
+area. Thus, the SAE-like areal pattern with respect to transitivity results from
+a superimposition (or a conspiracy?) of at least two relatively independent
+distributions.
+The finding that the areal patterns related to the distribution of a and p locus
+are relatively independent is not surprising. Unlike transitivity, abstract “non-
+transitivity” for two-place predicates is an umbrella term covering phenomena
+which have nothing positive in common: transitive verbs are all alike, every
+non-transitive verb is non-transitive in its own way (cf. Malchukov, 2005: 80).
+If we assume that large-scale areal patterns are not coincidental, we have to
+reconstruct or at least model the mechanisms by which relevant properties
+spread among languages. It is clear that properties related to valency cannot be
+inherited or assimilated in contact without affecting individual verbs. It is only
+natural, then, that there is no breeding ground of abstract “non-transitivity” in
+Europe: it is hard to imagine a mechanism of transmitting non-transitivity as
+such without transmitting something more specific, like, e.g., the locus of non-
+transitivity.
+Finally, at the level of individual valency classes, large-scale areal trends
+become even less palpable. This is partly due to the fact that it was impossi-
+ble to propose a simple and tangible measure that would nevertheless capture
+the subtleties of internal structure of the verbal lexicon. In fact, developing a
+technique that can be used for measuring dissimilarities between valency class
+systems is a tricky task; the proposal made in Section 7 is thus the method-
+ological climax of this study. Notice that this technique is based on calculating
+entropy and mutual information, and does not rely upon a priori identifica-
+tion of the transitive class (a procedure that can be methodologically vulnera-
+ble).
+As already mentioned, when going down to the level of organization of indi-
+vidual classes, we lose the distinctness of large-scale areal patterns. We gain,
+however, in tracking numerous low-level convergences between languages,
+both genetic (Daghestanian, Germanic, Baltic and, to a lesser extent, Romance,
+Turkic and Slavic are groupings that are discernible in the data) and exclu-
+sively areal (Irish and English, Basque and Romance, Eastern Armenian and
+Turkic, and a group of languages heavily influenced by Russian). This is one of
+the main findings of the study: lexical distributions of (non-)transitivity display
+similarities in vast geographical zones, whereas similarities between valency
+class distributions emerge on a much more local level.
+[PDF PAGE 45]
+bivalent verb classes in the languages of europe 45
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 45
+What is particularly striking is that, when valency class systems show local
+convergences, the areal signal in the data can be as significant as the genetic
+signal. The areal signal is present in at least the following groupings that were
+detected when visualizing the distance matrix: Basque and the Romance lan-
+guages; Irish and English; Eastern Armenian and Turkic; Russian and several
+languages in contact with, and dominated by, Russian, namely Ingrian, Komi-
+Zyrian and Romani Kalderaš (its variety spoken near St. Petersburg).
+What these findings imply is that the organization of valency classes can
+be assimilated in language contact. More importantly, organization of the
+lexicon in terms of valency classes can develop more or less independently
+of individual devices that are employed for coding arguments. Several facts
+observed in the study are particularly illustrative in this respect.
+One example is the position of Basque: in all aspects discussed above,
+Basque patterns similarly to surrounding Romance languages. With respect to
+lexical distribution of (in)transitivity, it also fits the general western European
+pattern. Notice that in most respects discussed in “Eurolinguistics,” Basque
+is not considered typically European (Heine and Kuteva, 2006: 7). What the
+present study shows is that a significant degree of similarity in the structure of
+the verbal lexicon is maintained, despite drastic differences in alignment, case
+inventories and argument-marking techniques in general.
+Another example is the relative position of Ancient and Modern Greek. The
+argument-coding techniques in these two languages are very similar: there was
+only one case opposition that was lost in the course of historic development, all
+prepositions that are employed for coding arguments in Modern Greek corre-
+spond to Ancient Greek cognates that also were involved in coding arguments;
+even the verbs in the database are etymologically related in many cases. And
+yet, Ancient and Modern Greek do not pattern together in any of the splits
+graphs above. This means that the system of bivalent classes in Greek has signif-
+icantly changed despite preservation of argument-marking devices. On a more
+general level, this finding indicates that valency classes can change faster than
+the inventory of morphosyntactic devices of argument coding.
+If this is true, we have to face an important theoretical challenge. Much of
+the study in the field of lexical typology is based on a tacit assumption that
+lexical profiles of languages are somehow dependent upon their grammatical
+profiles. In terms of areal and genetic mechanisms of transfer it is necessary
+to consider the opposite: the possibility that grammatical patterns are largely
+shaped by properties of the lexicon (Nichols et al., 2004).
+[PDF PAGE 46]
+46 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 46
+Abbreviations
+3 third person
+abs absolutive
+acc accusative
+act active
+art article
+dat dative
+def definite
+f feminine
+gen genitive
+impf imperfective
+inact inactive
+m masculine
+nom nominative
+pl plural
+postel postelative
+pro pronoun
+prs present
+pst past
+sg singular
+Acknowledgments
+The study reported here was supported by a grant from the Russian Founda-
+tion for Humanities, No. 11-04-00179a “Verb argument structure variation and
+verb classification in languages of various structural types.” This paper would
+have been impossible without the help of fellow participants of this project.
+The names of those colleagues who have gathered data for individual languages
+are listed in Table 1; I am also indebted to all of them for useful theoretical
+suggestions that emerged when discussing data from respective languages or
+otherwise. I am immensely grateful to Andrej Malchukov, Johanna Nichols,
+Alexander Rusakov, Alena Witzlack-Makarevich and three anonymous review-
+ers for comments on earlier version of this paper that helped to improve it. I
+am indebted to Maria Kholodilova for writing a macro in Visual Basic that sig-
+nificantly reduced time-consumption on computational tasks. I profited a lot
+from discussions with Balthasar Bickel and Alena Witzlack-Makarevich dur-
+ing my short-term stay at the University of Zurich. I thank the audiences at
+the knaw Conference “Patterns of Diversification and Contact” in Amsterdam
+and the “Phylometric and Phylogenetic Approaches in the Humanities” work-
+shop in Bern for their helpful questions on earlier versions of this study and for
+sharing their inspiration. Finally, I am grateful to Maria Ovsjannikova who cre-
+ated maps for this paper using r and offered her comments at various stages of
+writing. None of the kind people mentioned here bears any responsibility for
+possible errors and shortcomings of this paper.
+[PDF PAGE 47]
+bivalent verb classes in the languages of europe 47
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 47
+References
+Aikhenvald, Alexandra Y., Robert M.W. Dixon, and Masayuki Onishi (eds.). 2001. Non-
+canonical Marking of Subjects and Objects. Amsterdam: John Benjamins.
+Apresjan, Yurij D. 1967. Eksperimentalnoe issledovanie semantiki russkogo glagola.
+Moskva: Nauka.
+Barðdal, Jóhanna. 2014. Syntax and syntactic reconstruction. In Claire Bowern and
+Bethwyn Evans (eds.), The Routledge Handbook of Historical Linguistics. London:
+Routledge.
+Bickel, Balthasar. 2010. Quantitative methods in typology. Course taught at the DGfS-
+CNRS Summer School on Linguistic Typology, Leipzig, August 15–27. Available at
+http:/ /www.uni-leipzig.de/~bickel/lehre/Leipzig2010/ (accessed March 21, 2014).
+Bickel, Balthasar, Taras Zakharko, Lennart Bierkandt, and Alena Witzlack-Makarevich.
+In prep. Semantic role clustering: An empirical assessment of semantic role types
+in non-default case assignment. To appear in Studies in Language. Downloadable
+at www.spw.uzh.ch/bickel-files/papers/Semantic_roles_accepted.pdf (accessed
+March 21, 2014).
+Bossong, Georg. 1998. Le marquage de l’ expérient dans les langues d’ Europe. In Feuillet
+(ed.), 259–294.
+Comrie, Bernard. 1981. Language Universals and Linguistic Typology: Syntax and Mor-
+phology. Oxford: Blackwell.
+Comrie, Bernard. 1993. Argument structure. In Joachim Jacobs, Arnim von Stechow,
+Wolfgang Sternefeld, and Theo Vennemann (eds.), Syntax: An International Hand-
+book of Contemporary Research, Vol. 1, 905–914. Berlin: Mouton de Gruyter.
+Comrie, Bernard and Andrej Malchukov (eds.). Forthcoming. Valency Classes: A Com-
+parative Handbook. Berlin: Mouton de Gruyter.
+Dixon, Robert M.W. and Alexandra Y. Aikhenvald (eds.). 2000.Changing Valency: Case
+Studies in Transitivity. Cambridge: Cambridge University Press.
+Dowty, David. 1991. Thematic proto-roles and argument selection. Language 67: 547–
+619.
+Drossard, Werner. 1991. Transitivität (vs. Intransitivität) und Transitivierung (vs. Intran-
+sitivierung) unter typologischem Aspekt. In Hansjakob Seiler and Waldfried Prem-
+per (eds.), Partizipation: Das sprachliche Erfassen von Sachverhalten , 408–445.
+Tübingen: Narr.
+Faarlund, Jan Terje. 1998. Symetrie et dissymetrie des actants centraux. In Feuillet (ed.),
+147–192.
+Feuillet, Jack (ed.). 1998.Actance et valence dans les langues de l’ Europe. Berlin: Mouton
+de Gruyter.
+Ganenkov, Dmitrij. 2002. Modeli polisemii prostranstvennyx pokazatelej. Unpublished
+ms., Moscow State University.
+[PDF PAGE 48]
+48 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 48
+Graffelman, Jan. 2006. A guide to biplot calibration. Unpublished ms.
+Hagège, Claude. 2010. Adpositions. Oxford: Oxford University Press.
+Haspelmath, Martin. 1998. How young is Standard Average European? Language Sci-
+ences 20: 271–287.
+Haspelmath, Martin. 2001a. The European linguistic area: Standard Average European.
+In Martin Haspelmath, Ekkehard König, Wolfgang Oesterreicher, and Wolfgang
+Raible (eds.), Language Typology and Language Universals: An International Hand-
+book, 1492–1510. Berlin/New York: Walter de Gruyter.
+Haspelmath, Martin. 2001b. Non-canonical marking of core arguments in European
+languages. In Aikhenvald et al. (eds.), 53–83.
+Haspelmath, Martin. 2010. Comparative concepts and descriptive categories in cross-
+linguistic studies. Language 86(3): 663–687.
+Haspelmath, Martin. 2011. On s, a, p, t, and r as comparative concepts for alignment
+typology. Linguistic Typology 15(3): 535–567.
+Haspelmath, Martin, Matthew S. Dryer, David Gil, and Bernard Comrie (eds.). 2005.The
+World Atlas of Language Structures. Oxford: Oxford University Press.
+Hausser, Jean and Korbinian Strimmer. 2009. Entropy inference and the James-Stein
+estimator, with application to nonlinear gene association networks. Journal of
+Machine Learning Research 10: 1469–1484.
+Heine, Bernd and Tania Kuteva. 2006. The Changing Languages of Europe. Oxford:
+Oxford University Press.
+Hopper, Paul J. and Sandra A. Thompson. 1980. Transitivity in grammar and discourse.
+Language 56: 251–299.
+Huson, Daniel H. and David Bryant. 2006. Application of phylogenetic networks in
+evolutionary studies. Molecular Biology and Evolution 23: 254–267.
+Kibrik, Aleksandr E. (ed.). 1999. Elementy tsaxurskogo jazyka v tipologicheskom
+osveshchenii. Moskva: Nasledie.
+Kibrik, Aleksandr E. (ed.). 2001. Bagvalinskij jazyk: grammatika, teksty, slovari. Moskva:
+Nasledie.
+Kittilä, Seppo. 2002. Transitivity: Towards a Comprehensive Typology. Turku: Åbo Aka-
+demis Tryckeri.
+Lazard, Gilbert. 1994. L’ actance. Paris: Presses Universitaire de France.
+Lazard, Gilbert. 1998. Définition des actants dans les langues européennes. In Feuillet
+(ed.), 11–146.
+Levin, Beth. 1993. English Verb Classes and Alternations. Chicago: University of Chicago
+Press.
+Luraghi, Silvia. 1991. Paradigm size, possible syncretism, and the use of adpositions
+with cases in flective languages. In Frans Plank (ed.), Paradigms: The Economy of
+Inflection, 57–74. Berlin: Mouton de Gruyter.
+Malchukov, Andrej L. 2005. Case pattern splits, verb types and construction competi-
+[PDF PAGE 49]
+bivalent verb classes in the languages of europe 49
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 49
+tion. In Mengistu Amberber and Helen de Hoop (eds.),Competition and Variation in
+Natural Languages: The Case for Case, 73–117. London/New York: Elsevier.
+Malchukov, Andrej L. 2006. Transitivity parameters and transitivity alternations: Con-
+straining co-variation. In Leonid Kulikov, Andrej Malchukov, and Peter de Swart
+(eds.), Case, Valency and Transitivity, 329–357. Amsterdam, Philadelphia: John Ben-
+jamins.
+Malchukov, Andrej L. 2013. Valency classes cross-linguistically: Parameters of variation.
+Paper presented at the workshop “Valency classes in the world’s languages,” mpi eva,
+Leipzig, August 14–15, 2013.
+Næss, Åshild. 2007.Prototypical Transitivity. Amsterdam/Philadelphia: John Benjamins.
+Nichols, Johanna, David A. Peterson, and Jonathan Barnes. 2004. Transitivizing and
+detransitivizing languages. Linguistic Typology 8: 149–211.
+Onishi, Masayuki. 2001. Introduction: Non-canonically marked subjects and objects:
+Parameters and properties. In Aikhenvald et al. (eds), 1–51.
+r Core Team. 2013. r: A language and environment for statistical computing. Vienna: r
+Foundation for Statistical Computing. Downloadable at http:/ /www.r-project.org/
+(accessed Mach 21, 2014).
+South, Andy. 2011. rworldmap: A new r package for mapping global data.The r Journal
+3/1, 35–43.
+Stassen, Leon. 2009. Predicative Possession. Oxford: Oxford University Press.
+Tsunoda, Tasaku. 1981. Split case-marking patterns in verb-types and tense/aspect/
+mood. Linguistics 19: 389–438.
+Van Belle, William and Willy van Langendonck (eds.). 1996. The Dative. Amsterdam/
+Philadelphia: John Benjamins.
+Van der Auwera, Johan. 2011. Standard Average European. In Bernd Kortmann and
+Johan van der Auwera (eds.), The Languages and Linguistics of Europe, 291–306.
+Berlin: Mouton de Gruyter.
+Wierzbicka, Anna. 1983. The semantics of case marking. Studies in Language 7 (2):
+247–275.
+Witzlack-Makarevich, Alena. 2011.Typological Variation in Grammatical Relations. PhD
+dissertation, University of Leipzig.
+[PDF PAGE 50]
+50 say
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 50
+Appendix
+table 5 Basic valency-related parameters. n is the number of predicates for which the
+valency pattern has been identified. The next four columns contain percentages of
+transitive and three types of non-transitive classes (with a locus, p locus and a&p
+locus). “Classes” indicates the number of valency classes. h stands for overall entropy
+of the distribution among valency classes, and hintr/hmax for the relative entropy of
+the distribution of non-transitive verbs (that is, actual entropy of non-transitive
+classes divided by its theoretical maximum, the natural logarithm of the number of
+non-transitive verbs). The last column represents the number of morphological
+cases.
+n Transitivity and locus Complexity Cases
+Tr a p a&p Classes h h intr/hmax
+Albanian 128 52 % 7 % 40 % 1 % 14 1.67 50 % 5
+Armenian (Eastern) 127 50 % 5 % 46 % 0 % 11 1.69 48 % 5
+Azerbaijani 121 48 % 4 % 47 % 1 % 10 1.50 38 % 6
+Bagvalal 65 (45 %) (22 %) (34 %) (0 %) (21) 2.20 76 % 19
+Bashkir 113 46 % 5 % 49 % 0 % 11 1.59 40 % 6
+Basque 116 56 % 3 % 41 % 0 % 16 1.65 56 % 16
+Dutch 116 61 % 0 % 39 % 0 % 11 1.41 50 % 0
+English 122 63 % 0 % 37 % 0 % 12 1.37 51 % 2
+Estonian 89 (34 %) (2 %) (64 %) (0 %) (9) 1.66 38 % 14
+French 124 56 % 2 % 41 % 0 % 11 1.54 49 % 0
+German 127 55 % 2 % 43 % 0 % 19 1.84 63 % 4
+Greek (Ancient) 121 55 % 2 % 42 % 0 % 12 1.38 39 % 4
+Greek (Modern) 127 67 % 5 % 28 % 0 % 7 1.11 39 % 3
+Ingrian 116 38 % 3 % 58 % 2 % 17 2.07 53 % 13
+Irish 119 43 % 8 % 36 % 13 % 25 2.11 59 % 2
+Italian 118 58 % 6 % 36 % 0 % 8 1.43 47 % 0
+Kalmyk 98 (59 %) (4 %) (37 %) (0 %) (9) 1.42 50 % 9
+Komi-Zyrian 119 45 % 7 % 49 % 0 % 19 2.10 61 % 16
+Latvian 105 50 % 5 % 43 % 3 % 12 1.77 54 % 5
+Lezgi 116 34 % 14 % 48 % 3 % 24 2.43 63 % 18
+Lithuanian 127 44 % 2 % 50 % 3 % 17 2.05 57 % 6
+Norwegian Bokmål 123 54 % 1 % 46 % 0 % 16 1.69 53 % 0
+Ossetic 116 39 % 6 % 55 % 0 % 14 1.94 49 % 9
+Polish 128 42 % 3 % 53 % 2 % 17 2.18 60 % 6
+Romani (Kalderaš) 120 41 % 8 % 50 % 2 % 16 2.06 55 % 7
+Russian 130 42 % 4 % 53 % 2 % 23 2.27 63 % 6
+[PDF PAGE 51]
+bivalent verb classes in the languages of europe 51
+Language Dynamics and Change 4 (2014) 1–51
+2014082 [LDC-2014-4.1] 003-Say-proof-01 [date 1405191551 : version 1405131445] page 51
+n Transitivity and locus Complexity Cases
+Tr a p a&p Classes h h intr/hmax
+Serbian 123 50 % 6 % 44 % 1 % 20 1.98 62 % 5
+Spanish 123 59 % 8 % 33 % 0 % 10 1.45 47 % 0
+Tsakhur 55 (55 %) (15 %) (31 %) (0 %) (14) 1.81 76 % 17
+Mean 50 % 5 % 44 % 1 % 15 1.77 53 %

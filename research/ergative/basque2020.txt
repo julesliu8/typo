@@ -1,0 +1,1910 @@
+[PDF PAGE 1]
+Beatriz Fernández*, Fernando Zúñiga and Ane Berro
+Datives with psych nouns and adjectives in
+Basque
+https://doi.org/10.1515/flin-2020-2050
+Received June 12, 2019; revision invited February 2, 2020; revision received February 28, 2020;
+accepted June 22, 2020; published online September 2, 2020
+Abstract: This paper explores the formal expression of two Basque dative argu-
+ment types in combination with psych nouns and adjectives, in intransitive and
+transitive clauses: (i) those that express the experiencer, and (ii) those that express
+the stimulus of the psychological state denoted by the psych noun and adjective. In
+the intransitive structure involving a dative experiencer (DatExpIS), the stimulus is
+in the absolutive case, and the intransitive copula izan ‘be’ shows both dative and
+absolutive agreement. This construction basically corresponds to those built upon
+the piacere type of psychological verbs typi ﬁed in (Belletti, Adriana & Luigi Rizzi.
+1988. Psych-verbs and θ-theory. Natural Language and Linguistic Theory 6. 291 –
+352) three-way classi ﬁcation of Italian psych verbs. In the intransitive structure
+involving a dative stimulus (DatStimIS), the experiencer is marked by absolutive
+case, and the same intransitive copula shows both absolutive and dative agree-
+ment (with the latter corresponding to the dative stimulus and not to the experi-
+encer). We show that the behavior of the dative argument in the two constructions
+is just the opposite of each other regarding a number of morphosyntactic tests,
+including agreement, constituency, hierarchy and selection. Additionally, we
+explore two parallel transitive constructions that involve either a dative experi-
+encer and an ergative stimulus (DatExpTS) or a dative stimulus and an ergative
+experiencer (DatStimTS), which employ the transitive copula * edun ‘have’.
+Considering these conﬁgurations, we propose an extended and more ﬁne-grained
+typology of psych predicates.
+Keywords: datives, psych nouns, psych adjectives, Basque
+*Corresponding author: Beatriz Fernández , Linguistics and Basque Studies, University of the
+Basque Country (UPV/EHU), Unibertsitateko ibilbidea 5, 01006, Vitoria-Gasteiz, The Basque
+Country, E-mail: beatriz.fernandezf@ehu.eus. https://orcid.org/0000-0002-7632-7777
+Fernando Zúñiga, Institute of Linguistics, University of Bern, Laenggassstrasse 49, 3012, Bern,
+Switzerland, E-mail: fernando.zuniga@isw.unibe.ch. https://orcid.org/0000-0002-9015-6601
+Ane Berro, Modern Languages and Basque Studies, University of Deusto, Unibertsitate Etorb. 24,
+48007, Bilbao, The Basque Country, E-mail: ane.berro@deusto.es. https://orcid.org/0000-0002-
+6818-506X
+Folia Linguistica 2020; 54(3): 647 –696
+Open Access. © 2020 Beatriz Fernández et al., published by De Gruyter. This work is
+licensed under the Creative Commons Attribution 4.0 International License.
+[PDF PAGE 2]
+1 Introduction
+Most studies of predicative psych expressions focus on verbs; studies of psych
+nouns and adjectives are rare. Belletti and Rizzi (1988) proposed a three-way
+classiﬁcation of psych verbs which has been widely used in the literature. The three
+types are temere ‘fear’ (I), preoccupare ‘worry’ (II), and piacere ‘please’ (III). This
+three-way typology is illustrated for Italian in (1):
+(1) a. Gianni teme questo.
+G.NOM fear.3SG this.ACC
+‘Gianni fears this. ’
+b. Questo preoccupa Gianni .
+This.NOM worry.3SG G.ACC
+‘This worries Gianni. ’
+c. A Gianni piace questo / questo piace aGianni.
+P G.DAT please.3SG this.NOM this.NOM pleases PG.DAT
+‘This pleases Gianni. ’
+(Belletti and Rizzi1988: 291)
+In this typology, the experiencer and stimulus thematic roles (or ‘theme’ in Belletti
+and Rizzi ’s terms) are expressed by different grammatical relations and, thus,
+marked differently for each class in languages with overt nominal case. With Class
+I verbs ( temere ‘fear’), the experiencer is the subject and takes nominative case,
+whereas the stimulus is the object and takes accusative case. With Class II verbs
+(preoccupare ‘worry’), the stimulus is the subject and takes nominative case,
+whereas the experiencer is the object and takes accusative case. Lastly, with Class
+III verbs ( piacere ‘please’), the experiencer is the subject and takes the dative,
+whereas the stimulus is assigned nominative case.
+Many languages in the world can be described with the three-way typology of
+psych-verbs proposed by Belletti and Rizzi (1988): French (Ruwet 1993); German
+(Haiden 2005); Greek (Anagnostopoulou 1999); Hebrew (Arad 1998, 1999; Landau
+Table : Belletti and Rizzi ’s typology of psych verbs.
+Psych verbs (based on Belletti and Rizzi ) Case frame and agreement pattern
+Experiencer Stimulus
+Class I ( temere) NOM ACC
+Class II ( preoccupare) ACC NOM
+Class III ( piacere) DAT NOM
+648 B. Fernández et al.
+[PDF PAGE 3]
+2009); Icelandic (Barðdal 1999, 2001); Italian (Belletti and Rizzi 1988); and Spanish
+(Franco 1992), among many others– see especially Landau (2009) and references there.
+Basque also fits in this typology of psych verbs although the case frames of
+Class I and Class II psych predicates involve ergative and absolutive case rather
+than nominative and accusative; Class III involves dative and absolutive (rather
+than nominative). See Etxepare (2003: 403 –411) and Fernández and Ortiz de
+Urbina (2010: 75–107) for a description. The three classes are exempliﬁed in (2). It is
+worth noting that, Basque being a language with auxiliary alternation, 1 Classes I
+and II select the transitive auxiliary * edun ‘have’, whereas Class III selects the
+intransitive auxiliary izan ‘be’. Moreover, because Basque exhibits agreement with
+the arguments marked by the ergative, absolutive and dative cases, Classes I and II
+show ergative and absolutive agreement on the transitive auxiliary, whereas Class
+III shows absolutive and dative agreement in the intransitive one. (In order to
+illustrate Class I, we have substituted gorrotatu ‘hate’ for temere.)
+(2) a. Jon-ek hau gorrota-tzen du.
+J.-ERG this.ABS hate-IPFV have[3SGABS.3SGERG]
+‘Jon hates this. ’
+b. Hon-ek Jon kezka-tzen du.
+this-ERG J.ABS worry-IPFV have[3SGABS.3SGERG]
+‘This worries Jon. ’
+c. Jon-i hau gusta-tzen zaio.
+J.-DAT this.ABS please-IPFV be.3SGDAT[3SGABS]
+‘This pleases Jon. ’
+The case frame and agreement patterns attested with Basque psych verbs are
+summarized in Table 2:
+Table : Belletti and Rizzi ’s typology of psych verbs applied to Basque verbs.
+Psych verbs (based on Belletti and Rizzi ) Case frame and agreement pattern
+in Basque
+Experiencer Stimulus
+Class I ( temere) gorrotatu ‘hate’ ERG ABS
+Class II ( preoccupare) kezkatu ‘fear’ ABS ERG
+Class III ( piacere) gustatu ‘like’ DAT ABS
+1 Basque shows auxiliary alternation: the intransitive auxiliary ( izan ‘be’) is selected with unac-
+cusative verbs, and the transitive auxiliary (* edun ‘have’) is selected with unergatives, transitives
+and ditransitive verbs.
+Psych nouns and adjectives in Basque 649
+[PDF PAGE 4]
+In addition, Basque is particularly interesting because many psychological
+events or states are expressed by means of nouns or adjectives. Some of the
+structures involving nouns and adjectives are similar to those with Classes I and III
+verbs in Belletti and Rizzi ’s typology.
+(3) a. Jon-ek hau gorroto du.
+J.-ERG this.ABS hatred have[3 SGABS.3SGERG]
+‘Jon has a hatred for this. ’
+b. Jon-i hau atsegin zaio.
+J.-DAT this.ABS pleasure/pleasant be.3 SGDAT[3SGABS]
+‘This is pleasant to Jon. ’
+In (3a), the noun gorroto ‘hate/hatred’ occurs instead of its verbal counterpart gor-
+rotatu ‘hate’ (Class I). Still, the same case frame is attested, namely ergative expe-
+riencer and absolutive stimulus, transitive copula and ergative-absolutive
+agreement pattern. Note that the noungorrotoshows no aspectual morphemes, such
+as the imperfective morphemet(z)en, which is available with its verbal counterpart
+gorrotatu ‘hate’ in (2a). In turn, (3b) shows the same pattern attested with Class III
+verbs (piacere ‘please’): dative experiencer and absolutive stimulus, along with their
+corresponding dative and absolutive agreement in the intransitive copula. However,
+this example shows the noun or adjectiveatsegin ‘pleasure/pleasant’ instead of the
+verb gustatu ‘please’ (exempliﬁed above in [2c]). Note that the very same noun/
+adjectiveatsegin ‘pleasure/pleasant’ can also appear in the pattern corresponding to
+Class I, i.e., it behaves like gorroto ‘hate’. This is illustrated in (4):
+(4) Jon-ek hau atsegin du.
+J.-ERG this.ABS pleasure/pleasant have[3 SGABS.3SGERG]
+‘Jon ﬁnds pleasure in this. ’
+We find that Basque psych noun and adjectives show counterparts of Belletti and
+Rizzi’s Classes I and III only; there is no nominal/adjectival counterpart to Class II
+verbs. Nevertheless, Basque psych noun/adjectives show three other configura-
+tions not considered in Belletti and Rizzi ’s typology.
+First, if we focus on structures involving datives, a pattern converse to that
+found with Class III verbs ( piacere ‘please’) is attested, i.e., with an absolutive
+experiencer and a dative stimulus:
+(5) Jon horr-i leiala da.
+J.[ABS] that- DAT loyal be[3 SGABS]
+‘Jon is loyal to that. ’
+Second, Basque also shows two kinds of structures combining ergative and dative
+arguments. The first is a transitive structure involving an ergative experiencer and
+650 B. Fernández et al.
+[PDF PAGE 5]
+a dative stimulus, a case frame unattested in Belletti and Rizzi ’s typology. In fact,
+the Basque counterpart to the Italian psych verb temere ‘fear’ corresponds to this
+particular ergative-dative con ﬁguration:
+(6) Jon-ek horr-i beldur dio.
+J.-ERG that-DAT fear have.3 SGDAT[3SGABS.3SGERG]
+‘Jon has a fear of that. ’
+This structure includes a copula that shows not only absolutive and ergative
+agreement but also dative agreement, thereby resembling a ditransitive structure.2
+The second structure is the mirror image of the previous one, i.e., a transitive
+structure with an ergative stimulus and a dative experiencer, as in (7):
+(7) Horr-ek Jon-i ardura dio.
+that-ERG J.-DAT care have.3 SGDAT[3SGABS.3SGERG]
+‘That matters to Jon. ’
+Therefore, Belletti and Rizzi ’s typology must be extended in order to consider
+psych nouns/adjectives attested in Basque. In fact, there are many other languages
+where psychological events/states are expressed by means of nouns or adjectives
+instead of verbs. Adger and Ramchand (2006) analyze psych nouns in Scottish
+Gaelic and propose that experiencers can relate to them in two ways and are
+therefore of two types: with intransitive predicates – involving a single argument,
+e.g., in tha cùram orm [is anxiety on.me] ‘I am anxious ’– the experiencer is a
+locative adpositional phrase; with transitive predicates – involving two argu-
+ments, e.g., in tha gaol agam ort[is love at.me on.you]‘I love you’– the experiencer
+is a locative adpositional phrase that also expresses possessors. Ingason (2016) has
+shown for Icelandic that a dative experiencer or benefactive can be introduced
+together with event-denoting nouns. Finally, in Basque, Berro and Fernández
+(2019) have explored the interaction between event-denoting nouns/adjectives
+and dative arguments, and have proposed that goal datives and experiencer da-
+tives are syntactically different.
+In the present paper, we analyze the syntactic behavior of different predicative
+configurations involving psych nouns/adjectives in Basque and propose a clas-
+sification in the light of Belletti and Rizzi’s typology of psych verbs. In Section 2, we
+describe the four patterns attested in Basque with psych nouns/adjectives. In
+2 The 3SG.ABS agreement varies depending on tense and mood (Albizu and Eguren 2000; Arregi
+and Nevins 2012; Gómez and Sainz 1995; Laka 1993; Rebuschi 1999; Trask 1977) and always occurs
+on the auxiliary, whether there is a third-person absolutive argument or not (thus, it can be
+considered default agreement). In fact, Laka (1993) claims that what are described as 3sg.abs
+markers are nothing else than tense and mood markers.
+Psych nouns and adjectives in Basque 651
+[PDF PAGE 6]
+Section 3, we briefly discuss the categorial status of the psych word involved in the
+intransitive structures. Sections 4 and 5 explore the relevant morphosyntactic
+details of the intransitive and transitive constructions under scrutiny, respectively.
+Section 6 discusses some of the consequences of our study and propose an
+extended typology of psych predicates. Finally, Section 7 presents the main con-
+clusions of the study.
+2 Psych nouns/adjectives in Basque and
+predication
+Basque shows different structures involving psych nouns and adjectives. In these
+structures, a dative argument can be either the experiencer or the stimulus of the
+psychological state denoted by the psych noun/adjective, as can be seen in the
+intransitive examples (8a) and (8b):
+(8) a. Jon-i txakolin-a atsegin zaio.
+J.-DAT txakolin-DET[ABS] pleasure/pleasant be.3 SGDAT[3SGABS]
+‘Jon likes / ﬁnds pleasure in txakolin (a Basque white wine). ’
+b. Jon hizkuntza-ri leial (-a) zaio.3
+J.[ABS] language- DAT loyal-DET be.3SGDAT[3SGABS]
+‘Jon is loyal to the language. ’
+The psych predicates in (8a –b) differ from prototypical psych verbs in Basque in
+that they do not combine with aspectual suffixes and still have an imperfective
+aspectual interpretation.4
+The structures in (8a –b) are similar to each other in two respects. First, both
+involve two arguments, i.e., the experiencer and the stimulus of the psychological
+state denoted by the psych noun/adjective. Second, both include the intransitive
+copula izan ‘be’ that cross-references the experiencer and the stimulus. There is a
+signiﬁcant difference between them, however, as the experiencer ( ni ‘I’) is marked
+by the dative case suf ﬁx- (r)i and its corresponding agreement morpheme in (6a)
+3 This example is reminiscent of hizkuntza-ri leial iraun du (language-DAT loyal remain.pfv have
+[3SGABS.3SGERG]) ‘he/she has remained loyal to the language ’ by the Basque linguist Koldo Mit-
+xelena (MEIG IX 40).
+4 The psych noun/adjective atsegin ‘pleasure/pleasant’ partially contradicts this generalization
+as it can be combined with the suf ﬁx- go, an aspectual/modal suf ﬁx denoting prospectiveness or
+irrealis mood, e.g., atsegin-go ‘will like / ﬁnd pleasure ’. However, it cannot take perfective or
+imperfective suf ﬁxes and thus behaves similarly to all the other psych noun/adjectives. For
+instance, there are no search results for atsegi-ten with the imperfective suf ﬁx -t(z)en, in Egungo
+Testuen Corpusa (ETC) [Corpus of Contemporary Basque] (Sarasola et al. 2016).
+652 B. Fernández et al.
+[PDF PAGE 7]
+whereas the same case along with its agreement mark the stimulus (hizkuntza-ri ‘to
+the language’) in (6b). We will refer to the former con ﬁguration as DatExpIS (8a)
+and to the latter as DatStimIS (8b).
+Basque has also transitive counterparts of these constructions:
+(9) a. Arkitektura-k Jon-i ardura dio.
+architecture.DET-ERG J.-DAT care have.3 SGDAT[3SGABS.3SGERG]
+‘Architecture matters to Jon. ’
+b. Jon-ek espinak-ei nazka die.
+J.-ERG spinach-PLDAT repulsion have.3 PLDAT[3SGABS.3SGERG]
+‘Jon has a strong distaste for spinach / spinach disgusts Jon. ’
+These structures differ from those in (8) in that the non-dative argument is in the
+ergative instead of the absolutive. Moreover, unlike in (8), a transitive copula, known
+in Basque linguistics as *edun ‘have’, is selected. This copula cross-references both
+the dative and the ergative arguments; the dative experiencer occurs with an ergative
+stimulus in (9a), and the dative stimulus occurs vis-à-vis an ergative experiencer in
+(9b). An unmarked third-person singular absolutive is also morphologically
+involved in the copula, but this does not correspond to any argument in the clause.
+In this paper, we present these structures and explore how the dative argu-
+ment (either experiencer or stimulus) behaves both morphologically and syntac-
+tically. As we will see, although the experiencer and the stimulus share case and
+agreement morphological specifics in the intransitive structure, they behave in an
+opposite way regarding dative agreement alternation, constituency, hierarchy,
+and selection. On the other hand, in the transitive structure, the behavior of the
+stimulus and the experiencer is similar regarding constituency but not dative
+agreement alternation.
+The psych noun and adjectives we address here are listed in Table 3.
+3 Double categorial status: Nouns or adjectives
+The categorial status of the psych predicates under analysis is controversial. They do
+not behave like verbs since they do not take aspectual suffixes as verbs do in Basque,
+and it is also unclear whether they are strictly nominal or adjectival. The items with
+double nominal/adjectival behavior in Basque are, among others:atsegin ‘pleasure,
+pleasant’, gaitzi ‘resentment, hateful’ (formal), higuin ‘abhorrence, disgusting’, laket
+‘pleasure, pleasant’,a n d neke ‘fatigue, tired’. Other items involved in those struc-
+tures are only nouns, such as irudi ‘image’ and plazer ‘pleasure’. It is worth noting
+that in Scottish Gaelic and Icelandic, only psych nouns have been attested in
+predicative constructions (Adger and Ramchand 2006; Ingason 2016).
+Psych nouns and adjectives in Basque 653
+[PDF PAGE 8]
+Let us zoom in on atsegin ‘pleasure, pleasant’. In three contemporary Basque
+dictionaries ( Elhuyar, Egungo Euskararen Hiztegia (EEH) [Dictionary of Contem-
+porary Basque] (Sarasola 2008), and Nola erran (NE) [French-Basque Dictionary]
+(Oyharçabal 2009–2013)), the lexical entry atsegin is characterized both as a noun
+and an adjective because it may behave like either a noun or an adjective. On the
+one hand, as a noun, atsegin combines with elements that usually occur with
+nouns, such as determiners, adpositional modiﬁers and adjectives. For instance, in
+(10a-b), atsegin is modiﬁed by an adpositional phrase headed by relational -ko ‘of’
+(in [10a], it additionally occurs with a determiner); in these examples, the nominal
+phrases headed by atsegin act as direct objects of the verbs. Finally, in (10c),
+atsegin is combined with the adjective handi ‘big’
+(10) a. Gauza oso ederr-a-ren bizi-tze-ko atsegin-a izan-en
+thing very lovely- DET-GEN live-NMLZ-REL pleasure-DET be-PROS
+duzu.
+have.2ERG[3SGABS]
+‘You will have the pleasure of living lovely things. ’
+(Herria, Argiaren bidaia, 2003-04-24, p. 6)
+b. Biziko atsegin-ak eta atsegabe-ak onhar-ten
+life.REL pleasure-PL.DET[ABS] and sorrow- PL.DET[ABS] accept- IPFV
+zituen bere eztitasunekin.
+have.3PLABS.PST[3SGERG]3 SG.PSR sweetness.COMIT
+‘She accepted the pleasures and sorrows of life with its sweetness. ’
+(Herria, Behorlegi, Herrietako kronikak, 2004-04-09, p. 5)
+Table : Psych nouns and adjectives addressed in this paper.
+aiher ‘hatred’ igual ‘matter’ (lit. ‘same’)
+amorru ‘anger’ inbidia ‘envy’
+ardura ‘care, worry’ inporta ‘matter’
+atsegin ‘pleasure, pleasant’ irudi ‘image’
+axola ‘care, worry’ izu ‘terror’
+beldur ‘fear’ laket ‘pleasure, pleasant’
+berdin ‘matter’ (lit. ‘same’) leial ‘loyal’
+berdin-berdin ‘matter’ ﬁdel ‘faithful, loyal’
+damu ‘regret, regretful’ narda ‘disgust’
+enpagu ‘abhor’ (western) nazka ‘repulsion, revulsion’
+erruki ‘pity’ neke ‘fatigue, fatigued’
+eskerdun ‘grateful’ plazer ‘pleasure’
+gaitzi ‘resentment, hateful’ (formal) urriki ‘pity’
+gorroto ‘hatred’ zordun ‘debtor, indebted’
+higuin ‘abhorrence, abhorrent’
+654 B. Fernández et al.
+[PDF PAGE 9]
+c. atsegin handiz
+pleasure great. INS
+‘with great pleasure. ’ (Manhattan Transfer, J. Dos Passos/Lopez de
+Arana)
+Categorially unambiguous psych nouns o ccur in similar contexts. For instance,
+irudi ‘image ’ is modi ﬁed by the adjective irribarretsu ‘smiling ’ in (11a), and
+plazer ‘pleasure ’ is headed by the demonstrative determiner horren ‘of that ’
+in (11b):
+(11) a. Popeye marinela-ren irudi irribarretsu-a-k apain-tzen
+P. sailor. DET-GEN image smiling- DET-ERG decorate-IPFV
+zuen-a
+have.PST.SUBR[3SGABS.3SGERG]-DET
+‘the one decorated by the smiling face of Popeye the sailor ’
+(Rock’n’roll, A. Epaltza, p.162)
+b. Nerabezaro-a-n hartu zuen plazer horren
+adolescence-DET-INE take have. PST[3SGABS.3SGERG] pleasure that. GEN
+kontzientzia.
+conscience.DET[ABS]
+‘S/he became aware of that pleasure during adolescence. ’
+(Zortzi unibertso, zortzi idazle, A. Urkiza, p. 232)
+On the other hand, atsegin can also behave like an adjective. It can be modiﬁed by
+degree adverbs such as oso ‘very’ (12a) and it can take the comparative suf ﬁx- ago
+(12b) and the superlative suf ﬁx -en (12c):
+(12) a. Oso atsegin-a zara.
+very pleasant- DET[ABS] be.2 ABS
+‘You are very nice. ’ (Fidel izan beharraz , O. Wilde/A. Olano)
+b. Giro-a askozaz ere atsegin-ago-a da orain.
+atmosphere-DET[ABS] much too pleasant- COMPR-DET be[3SGABS] now
+‘The atmosphere is much more pleasant now. ’
+c. Sentsaziorik atsegin-en-a, zinez.
+sensation.PTV pleasant-SUP-DET truly
+‘The most pleasant sensation, truly. ’ (Onan, A. Arana)
+As mentioned above, this kind of categorial variation extends to other psych nouns
+that can occur in the configuration depicted in (8a). In particular, the variation
+found in laket ‘pleasure, pleasant ’ has been analyzed in Fernández and Berro
+Psych nouns and adjectives in Basque 655
+[PDF PAGE 10]
+(2018). See also Zuñiga and Fernández (to appear) for a discussion of laket in
+relation to (lexically constrained) antipassives. Additionally, the predicate zordun
+‘debtor, indebted ’ belonging to the leial-type is also considered a noun and an
+adjective in Elhuyar, but only an adjective in EEH. We have only found instances of
+the nominal use in the corpora, e.g., the one in (13):
+(13) Zordun-a-ri bost eguneko epe-a eman zaio
+debtor-DET-DAT five day. REL period-DET[ABS] give be.3 SGDAT[3SGABS]
+borondatezko ordainketa egin dezan.
+voluntary payment. DET[ABS] do have. SUBR[3SGABS.3SGERG]
+‘They have given the debtor a ﬁve-day period to make the voluntary
+payment.’
+(Berria, 2004-02-08)
+Other predicates of the leial -type ( leial i t s e l f ,a sw e l la sﬁdel ‘faithful, loyal ’ and
+eskerdun ‘grateful ’) are considered adjectival in the dictionaries. In fact, only
+adjectival and predicative uses are attested in the corpora, e.g., examples
+like (14):
+(14) [ …] ikus ez zitezen gizon baten malko eskerdun-ak,
+see NEG be.3PLABS.PST.SUBR man DET.GEN tear grateful- DET.PL[ABS]
+lehenbiziko aldia baitzuen.
+ﬁrst.REL time[ABS] have. PST.SUBR[3SGABS.3SGERG]
+‘…so they didn ’t see the grateful tears of a man, as it was his ﬁrst time.’
+(Maitea, T. Morrison, transl. A. Garitano)
+As can be seen, in (13) the noun zordun ‘debtor’ occurs with a determiner and is
+dative-marked. In (14), on the other hand, eskerdun ‘grateful’ behaves as an ad-
+jective and modi ﬁes the noun malko ‘tear’.
+Note that, unlike atsegin ‘pleasure/pleasant ’, most of these psych predicates
+have a verbal counterpart with si milar meaning. For instance, gaitzi ‘resent-
+ment, hateful ’ (formal) has gaitzitu ‘hate’; higuin ‘abhorrence, disgusting ’ has
+higuindu ; laket ‘pleasure, pleasant ’ can be paired with laketu,a n d ﬁnally, irudi
+‘image’ has the verbal version iruditu ‘seem’. The noun/adjective neke ‘fatigue,
+tired’ also has a parallel verb nekatu, although the latter has a different syntactic
+conﬁguration and different aspectual semantics, i.e., it is eventive ( ‘get tired ’)
+rather than stative ( ‘being tired ’) (see also Section 5.1 for the verbal counterparts
+of the psych nouns/adjectives occurring in transitive structures). In this paper,
+we leave aside these verbal predicates and focus on their nominal and adjectival
+counterparts.
+656 B. Fernández et al.
+[PDF PAGE 11]
+4 Dative experiencer vs. dative stimulus:
+Exploring asymmetries in intransitive
+constructions
+This section explores several asymmetries between the dative arguments in the
+intransitive constructions. We first report on possible alternations regarding case
+frames Section 4.1) and agreement patterns (Section 4.2). Then we apply to Basque
+some tests previously applied by Adger and Ramchand (2006) to Scottish Gaelic
+regarding constituency (Section 4.3), hierarchy (Section 4.4), and selection (Sec-
+tion 4.5).
+4.1 Dative vs. ergative experiencer alternation
+One of the respects in which the dative experiencer and the dative stimulus differ
+from each other has to do with the alternation of the former (but not the latter) with
+an ergative experiencer. This alternation is shown in (8a), repeated here as (15),
+and (16).
+(15) Jon-i txakolin-a atsegin zaio.
+Jon-DAT txakolin-DET[ABS] pleasure/pleasant be.3 SGDAT[3SGABS]
+‘Jon likes / ﬁnds pleasure in txakolin.’
+(16) Jon-ek txakolin-a atsegin du.
+Jon-ERG txakolin-DET[ABS] pleasure/pleasant have.3 SGERG[3SGABS]
+‘Jon likes / ﬁnds pleasure in txakolin.’
+In (16), the experiencer is marked by the ergative case whereas the stimulus is
+marked by the absolutive case. The noun or adjective expressing the psychological
+state is exactly the same in both clauses. However, in (16) the selected copula is
+transitive *edun ‘have’, which shows ergative and absolutive agreement with the
+experiencer and the stimulus, respectively. This second con ﬁguration (16) corre-
+sponds to the temere class of psych verbs in Italian (Belletti and Rizzi 1988). Thus,
+the noun/adjective involved in the predicate gives rise to a piacere-like con ﬁgu-
+ration in (15) and a temere-like alternative in (16).
+The nouns and adjectives involved in this alternation can be illustrated with
+(17)–(18) from the Ereduzko Prosa Gaur/Contemporary Reference Prose (EPG)
+corpus (Sarasola et al. 2001 –2007):
+Psych nouns and adjectives in Basque 657
+[PDF PAGE 12]
+(17) a. Laket zait bakarrik egotea
+pleasure/pleasant be.1 SGDAT[3SGABS] alone be. NMLZ[ABS]
+eta ixilik.
+and quiet
+‘I ﬁnd pleasure in being alone and quiet.’ (Santiago oinez, P. Aintziart,
+p. 28)
+b. Euskara-k laket baitu
+Basque-ERG pleasure/pleasant because.have.1 SGERG[3SGABS]
+hitz-en
+word-PLGEN
+laburtze-a…
+shorten.NMLZ-DET[ABS]
+‘Since Basque likes to shorten words …’ (Luzaiden gandi, A.
+Aitzinburu /J.B Etxarren, p. 74)
+(18) a. Pastorala Iruñean ez emate-a damu
+pastoral.ABS Pamplona.INESS NEG perform.NMLZ-DET[ABS] regret
+zaio.
+be.3SGDAT[3SGABS]
+‘He/she has regrets about not performing the pastoral (i.e., a Souletin
+traditional play) in Pamplona. ’
+(Berria, Kultura, J.L. Davant, 2004-05-14)
+b. Bai, bat-batean, 5 damu nuen amarekin bortitza
+yes suddenly regret have.1 SGERG[3SGABS] mother. COMIT hard
+izanik.
+be.PTCP.PTV
+‘Yes, suddenly, I had regrets about being hard on my mother. ’
+(Anaiaren azken hitzak, D. Landart, p. 163)
+Other lexical items seem to participate in the alternation under discussion
+although the DatExpIS seems to be much less frequently used than the structure
+including an ergative experiencer. This is the case with higuin ‘abhorrence,
+disgusting’ and plazer ‘pleasure’ in (19)–(20):
+(19) a. Herri beltz hau higuin zait.
+country black this abhorrence/disgusting be.1 SGDAT[3SGABS]
+‘I hate this sad country. ’ (Volt 136, in Fernández and Ortiz de Urbina
+2010: 211)
+5 The morphemic analysis of the word bat-bat-ean is ‘one-one-iness’, but the expression is lex-
+icalized with the meaning ‘suddenly’. Bat-batean is the standard spelling.
+658 B. Fernández et al.
+[PDF PAGE 13]
+b. Eta, ondorioz, higuin duguna,
+and therefore abhorrence/disgusting have.1 PLERG.SUBR.DET[3SGABS]
+gaitza deitzen dugu.
+disease call.IPFV have.1PLERG[3SGABS]
+‘And, therefore, we call “disease” what we abhor.’ (Etika, B. Spinoza/
+P. Xarriton, 305)
+(20) a. Plazer zaio Euskal Herrian ere
+pleasure be.1 SGDAT[3SGABS] Basque Country. INESS too
+agertze-a
+appear.NMLZ-DET[ABS]
+uztail-agorriletan.
+July-August.INESS
+‘He/she likes to appear in the Basque Country in July and August. ’
+(Herria, M. Etchenic, 2002-08-08), in Fernández and Ortiz de Urbina
+(2010: 11)
+b. Plazer nuke zurekin solastatze-a
+pleasure have.1 SGERG.POT[3SGABS] 2COMIT talk.NMLZ-DET[ABS]
+‘I would like to talk with you. ’ (Bihotzeko mina, J. Dirassar, 18)
+The only lexical item that does not take part in this DAT-ERG alternation is gaitzi
+‘resentment, hateful’; in both older and contemporary texts, it only appears in the
+DatExpIS (21) (see Table 4):
+Table : Psych nouns/adjectives involved in the dative- ERGative alternation.
+Psych noun/adjectives Dative experiencer,
+ergative stimulus
+Ergative experiencer,
+absolutive stimulus
+atsegin ‘pleasure/pleasant’ ✓✓
+damu ‘remorse, guilty’ ✓✓
+gaitzi ‘resentment, hateful’ ✓✗
+higuin ‘abhorrence, disgusting’ (✓) ✓
+laket ‘pleasure/pleasant’ ✓✓
+plazer ‘pleasure’ (✓) ✓
+Psych nouns and adjectives in Basque 659
+[PDF PAGE 14]
+(21) Bihotz on-a duen gizonari deus
+heart good- DET[ABS] have.s UBR[3SGABS.3SGERG] man. DAT nothing
+etzaio hain gaitzi nola eskergabekeri-a.
+neg.be.1SGDAT[3SGABS] as hateful as ingratitude- DET[ABS]
+‘A good-hearted man hates nothing more than ingratitude. ’
+(Mintzaira, aurpegia: gizon , J. Hiriart Urruti, XIX century)
+The noun/adjectives described so f ar contrast with adjectives such as leial
+‘loyal’, ﬁdel ‘faithful, loyal ’, eskerdun ‘grateful ’ and zordun ‘indebted ’ (Rezac
+2009), which do not show a dative-ergative alternation. It is worth remembering
+that the dative accompanying leial ‘loyal’ does not express an experiencer but a
+stimulus (22a). Thus, in a hypothetical alternating variant, the stimulus would
+be marked by the ergative case and the experiencer by the absolutive case, as
+shown in (22b). Nevertheless, this hy pothetical clause is ungrammatical.
+(22) a. Jon hizkuntza-ri leial(-a) zaio.
+J.[ABS] language- DAT loyal-DET be.3SGDAT[3SGABS]
+‘Jon is loyal to the language. ’
+b. * Hizkuntza-k Jon leial-a du.
+language-ERG J.[ABS] loyal- DET have[3SGABS.3SGERG]
+(Intended: ‘Jon is loyal to the language. ’)
+The ungrammaticality of (22b) does not seem to be related to a restriction on the
+case the stimulus can take. In principle, nothing prevents the stimulus from being
+marked by the ergative case (and the experiencer by the absolutive case) as is the
+case with psychological verbs of the preoccupare type (Class II in Belletti and Rizzi
+1988) such as kezkatu ‘worry’ (23):
+(23) Jon-ek (ni) kezkatzen nau.
+J.-ERG 1SG[ABS] worry. IPFV have.1SGABS[3SGERG]
+‘Jon worries me. ’
+However, as far as we are aware, there is no structure involving a psych noun or
+adjective where the experiencer is marked by the absolutive case and the stimulus
+by the ergative case, as in (22b). Actually, this seems to be the only verbal predicate
+type in Belletti and Rizzi (1988) that has no nominal or adjectival counterpart in
+Basque (see Table 2). Note in passing that there is a structure similar to (22b), in
+660 B. Fernández et al.
+[PDF PAGE 15]
+which leial ‘loyal’ seems to co-occur with an ergative-marked phrase that is usually
+covert but triggers ergative agreement; see (24):
+(24) Leial-a al zaitut ni leial-a nauzun
+loyal-DET PTCL have.2ABS.1SGERG 1SG[ABS] loyal- DET have.1SGABS.2ERG.SUBR
+bezala?
+as
+‘Are you loyal “on me”, as I am loyal “on you”?’ (lit. ‘Do I have you as
+loyal, like you have me as loyal? ’) (Elizen arteko biblia, 2 Kings 10:15)
+In (24), leial ‘loyal’ appears with a covert ergative argument as can be seen from the
+inﬂected transitive copula (i.e., * edun ‘have’) and their corresponding agreement
+markers. Thus, at least at ﬁrst sight, (24) corresponds to the ungrammatical
+example in (22b). However, the covert arguments triggering ergative agreement in
+(24) express neither the stimulus, as intended in (22b), nor the experiencer of being
+loyal. Rather, the covert ergative argument in (24) corresponds to the speaker
+(zaitut ‘I have you ’) and the addressee ( nauzun ‘you have me ’), respectively.
+Rebuschi refers to such arguments as ergatives ´ethiques ‘ethical ergatives’ and to
+the structure in (24) as implication or implicative form (1984: 569 –581); see also
+Etxepare (2003) and Etxepare and Uribe-Etxebarria (2012). Actually, this impli-
+cative form involving leial ‘loyal’ could also include a dative-marked stimulus (25):
+(25) Hizkuntzari leial-a al zaitut?
+language.DAT loyal-DET PTCL have.2ABS.1SGERG
+‘Are you loyal to the language “on me”?’
+Hence, the seemingly similar structures in (22b) and (24) have nothing to do with
+each other; the dative stimulus does not alternate with an ergative stimulus, in
+contrast to dative experiencers that show ergative counterparts with atsegin
+‘pleasure, pleasant’-like predicates.
+4.2 Dative agreement alternations
+The dative experiencer and the dative stimulus differ with respect to their behavior
+regarding agreement. Whereas dative experiencers obligatorily show dative
+agreement, dative stimuli can optionally drop it as in the following example from
+Fernández (2010), analyzed in Berro and Fernández (2019). In (26a), the copuladira
+shows agreement only with the covert 3pl subject ( ‘they’) and not with the dative
+phrase. Still, the example is as grammatical as its counterpart with a dative
+agreement marker on theﬁnite form zaizkio corresponding to the dative phrase (the
+morpheme -o), as in (26b).
+Psych nouns and adjectives in Basque 661
+[PDF PAGE 16]
+(26) a. Liburu-a-ri ﬁdel-ago-a-k izan dira.
+book-DET-DAT faithful-COMPR-DET-PL be.PTCP be[3PLABS]
+(Berria 2011-02-17)
+b. Liburu-a-ri ﬁdel-ago-a-k izan zaizkio.
+book-DET-DAT faithful-COMPR-DET-PL be.PTCP be.3PLABS.3SGDAT
+Both: ‘They have been more faithful to the book. ’
+Since Basque normally shows obligatory a greement with ergative-, absolutive-,
+and dative-marked phrases, (26a) witho ut dative agreement might be surpris-
+ing. However, the dative stimulus in (26a –b) seems to be adjective-internal, as
+proposed by Fernández and Ortiz de Urbina (2010) and further discussed by
+Berro and Fernández (2019). If this is the case, then the lack of dative agreement
+in (26a) will come as no surprise. Similar instances without dative agreement are
+also attested with aiher ‘hatred’,a si nO r i x e’s translation of the Confessions of St
+Augustine (27):
+(27) Gizon bakarrea-n bi nahi-ukaite elkar-i aiher
+Man single. DET-INESS two will-have.NMLZ each.other-DAT hatred
+dira-la ikuste-an, …
+be[3PLABS]-SUBR see.NMLZ-INESS
+‘When they perceive two wills to be antagonistic to each other in the same
+man, …’
+(Or Aitork)
+At this point, it is necessary to make an observation on Basque dialects. Eastern
+varieties show dative agreement drop in general, which is absent in central and
+western varieties (Etxepare and Oyharçabal 2008, 2013; Fernández and Landa
+2009; Fernández, Ortiz de Urbina and Landa 2009). As aiher ‘hatred’ is a psych
+noun/adjective attested mainly in eastern varieties, it can be seen as an instance of
+a more general phenomenon affecting dative agreement when the texts and au-
+thors are originally eastern, as those in (28).
+(28) a. Badira beste anitz eta anitz oraingo moda lizuneri
+PFX.be.1PLABS other many and many now. REL fashion indecent.PL.DAT
+aiher direnak.
+hatred be.1 PLABS.SUBR.DET.PL
+‘There are many others that hate indecent current fashions. ’
+(Manezaundi, Emazte koskak, adapted)
+662 B. Fernández et al.
+[PDF PAGE 17]
+b. Bertzeer aiher da, edo bederen ez ikusiarena
+other.DET.PL hatred be[3 ABS]o r a t . l e a s t NEG see.PTCP.DET.GEN.DET
+egiten
+do.IPFV
+deie.
+have.3ABS.3PLDAT.3SGERG
+‘He/she hates the others, or at least turns a blind eye to them.’ (JE Bur
+55)
+We cannot be sure about this because of the indeterminacy of the data, but the
+dative agreement drop in (28) seems to be a phenomenon beyond dialects that has
+to do with the nature of these noun/adjective internal datives and not with the
+dialectal dative agreement drop of eastern varieties.
+The behavior of these dative stimuli contrast drastically with dative experi-
+encers: the latter exclude the possibility of dative agreement drop. Thus, the non-
+agreeing counterpart to (8a) is ungrammatical:
+(29) *Jon-i txakolin-a atsegin da.
+J.-DAT txakolin-DET[ABS] pleasure/pleasant be[3 SGABS]
+(Intended: ‘Jon likes txakolin.’)
+There is no dialectal or historical exception to this, as previously shown by Fer-
+nández and Landa (2009) and Fernández, Ortiz de Urbina and Landa (2009).
+4.3 Constituency
+Dative experiencers and dative stimuli also differ with respect to constituency. As
+shown in Fernández and Berro (2018), based on some tests proposed in Adger and
+Ramchand (2006), the dative experiencer and the psych noun/adjective involved
+in the structure are not in the same constituent unlike the stimulus and the psych
+noun/adjective, which are. Note that the stimulus forms a constituent with the
+psych noun only when it is dative or adpositional (and not absolutive). We report
+the results of three tests in what follows: clefting, negative sentences with baizik
+‘but’, and fragment answers.
+4.3.1 Clefting
+We will take Basque clefts to be structures consisting of a clefted focused con-
+stituent, the copula izan ‘be’, and a subordinate clause. The latter (i.e., the cleft
+Psych nouns and adjectives in Basque 663
+[PDF PAGE 18]
+clause), is headed by the subordinator -(e)n and features a determiner. Let us
+consider (8a), repeated here as (30a); its cleft counterpart can be seen in (30b):
+(30) a. Jon-i txakolin-a atsegin zaio.
+J.-DAT txakolin-DET[ABS] pleasure/pleasant be.3 SGDAT[3SGABS]
+‘Jon likes txakolin (a Basque white wine). ’
+b. Txakolin-a da Jon-i atsegin
+txakolin-DET[ABS] be[3 ABS] J.- DAT pleasure/pleasant
+zaiona.
+be.3SGDAT.SUBR.DET[3SGABS]
+‘It is txakolin that John likes. ’
+In the cleft construction, there is a clefted constituent, i.e., txakolina ‘txakoli’,i n
+sentence-initial position followed by a ﬁnite form of the copula agreeing with the
+clefted constituent. Immediately after the copula, the cleft clause is introduced.
+Note that the verbal ﬁnite form of the subordinate clause ( zaio)i n c l u d e st h e
+3sg.dat agreement marker, i.e., - o, which cross-references the dative experiencer
+also in the cleft clause. As we will see, the presence or absence of this dative
+agreement marker is particularly relevant for the asymmetries between both
+atsegin ‘pleasure, pleasant ’ and leial ‘loyal’-type noun/adjectives in clefting. 6
+Note also that the cleft clause is marked by the subordinator -(e)n and followed
+by a determiner -a.
+This cleft construction is reminiscent of English inverted pseudo-clefts,
+although there is no relative pronoun of the wh- t y p ep r e c e d i n gt h ec l e f tc l a u s e .
+(For English clefts, see Collins (1991); Calude (2009) and references there.) The
+Basque cleft clause shows the determiner -a marked in absolutive case, the same
+case that marks the clefted constituent. 7 Besides, the gapped element involved in
+the cleft clause is coreferential with the clefted constituent – in (30), txakolin
+‘txakoli’.
+Fernández and Berro (2018) show, based on Adger and Ramchand (2006), that
+the experiencer cannot be clefted along with the psych noun/adjective, whereas
+the stimulus can. Note that the construction is a transitive one, including an
+ergative experiencer and a stimulus marked by an inessive postposition; see (31):
+6 We want to thank an anonymous reviewer for bringing this to our attention.
+7 In this respect, Basque clefts behave similarly to extraposed relatives; see Oyharçabal (2003b:
+806, 815) for a description of the latter. We do not address the question whether cleft clauses are
+actually relative clauses or not; this is still under debate, see Calude (2008) for references and
+discussion.
+664 B. Fernández et al.
+[PDF PAGE 19]
+(31) a. Zerri-a-k zikinpe-a-n laket du .
+pig-DET-ERG dirt-DET-INESS pleasure/pleasant have[3 SGABS.3SGERG]
+‘The pig likes [to be] in the dirt. ’
+b. [Zikinpe-a-n laket] da zerri-a-k
+dirt-DET-INESS pleasure/pleasant be[3 SGABS] pig- DET-ERG
+duena.
+have.SUBR.DET[3SGABS.3SGERG]
+‘It is ﬁnding pleasure [in being] in the dirt that the pig is. ’
+c. *[Zerri-a-k laket] da zikinpe-a-n
+pig-DET-DAT pleasure/pleasant be[3 SGABS] dirt- DET-INESS
+duena.
+have.SUBR.DET[3SGABS.3SGERG]
+We will now see if either the dative experiencer or the absolutive stimulus and the
+psych noun/adjective can be clefted together. (32a) shows a cleft constituent including
+the experiencer and the psych noun/adjective whereas (32b) shows the absolutive
+stimulus clefted along with the psych noun/adjective. Both are ungrammatical.
+(32) a. *[ Jon-i atsegin ] da txakolin-a
+J.-DAT pleasure/pleasant be[3ABS] txakolin- DET[ABS]
+zaiona.
+be.3SGDAT.SUBR.DET[3SGABS]
+(Intended: ‘Pleasant to Jon is what txakolin is.’)
+b. *[ Txakolin-a atsegin ] da Jon-i
+txakolin-DET[ABS] pleasure/pleasant be[3 ABS] J.- DAT
+zaiona.
+be.3SGDAT.SUBR.DET[3SGABS]
+(Intended: ‘Txakolin’s pleasure is what Jon is. ’)
+Two issues must be considered regarding the ungrammatical examples in (32). First,
+the dative-marked experiencer behaves likethe ergative experiencer in (31): neither
+the former nor the latter can be clefted together with the psych noun/adjective since
+they do not share the same constituent. Second, the absolutive-marked stimulus
+behaves differently from the stimulus marked by the inessive postposition previously
+seen in (31): the inessive stimulus belongs together with the psych noun/adjective, but
+the absolutive stimulus seems to be independent from it. Therefore, it seems to us that
+in order to show the asymmetries between experiencer and stimulus only the stimulus
+marked by dative or alternatively by an adposition can be taken into account. As can
+Psych nouns and adjectives in Basque 665
+[PDF PAGE 20]
+be seen in (33), the dative stimulus behaves like the inessive stimulus in that it can be
+clefted together with the psych noun/adjective. Hence, both the psych noun/adjective
+and the dative stimulus share the same constituent (Berro and Fernández 2019).
+(33) a. Jon hizkuntza-ri leial(-a) da.
+J.[ABS] language- DAT loyal-DET be[3SGABS]
+‘Jon is loyal to the language. ’
+b. [ Hizkuntza-ri leial-a ] da Jon dena.
+language.DET-DAT loyal-DET be[3SGABS] J.[ ABS] be. SUBR.DET[3SGABS]
+‘Loyal to the language is what Jon is. ’
+Note that (33a) and its clefted counterpart in (33b) do not show dative agreement.
+Interestingly, if we add dative agreement to the examples in (33), as in (34), then
+the non-clefted variant is grammatical but its clefted counterpart is not.
+(34) a. Jon hizkuntza-ri leial(-a) zaio.
+J.[ABS] language- DAT loyal-DET be.3SGDAT[3SGABS]
+‘Jon is loyal to the language. ’
+b. *[ Hizkuntza-ri leial-a ] da Jon zaiona.
+language.DET-DAT loyal-DET be[3SGABS] J.[ ABS] be.3 SGDAT
+SUBR.DET[3SGABS]
+(Intended: ‘Loyal to the language is what Jon is. ’)
+This seems to show a correlation between dative agreement and clefting. When
+dative agreement is present, clefting is impossible. In contrast, when dative agree-
+ment is absent, clefting is possible – a possibility available only for the leial ‘loy-
+al’-type because atsegin ‘pleasure, pleasant’ requires obligatory dative agreement.
+Hence, once the dative stimulus shows dative agreement, the behavior ofleial ‘loyal’
+converges with that of atsegin ‘pleasure, pleasant’ in clefting. Still, when the sub-
+ordinate verb form does not show dative agreement, clefting is possible, as in (33b).
+In sum, Basque experiencers, either ergative or dative, do not form a con-
+stituent with a psych noun/adjective as they cannot be clefted together. On the
+other hand, stimuli marked by dative case or by an adposition do form a constit-
+uent with the psych noun/adjective for the same reason.
+4.3.2 Negative sentences with baizik ‘but’
+The results obtained by the clefting test are similar to those of negative sentences
+with baizik ‘but’. In addition, the word order is modi ﬁed when baizik is present:
+both the constituent and baizik are fronted before the negative particle, and thus
+the constituent is dislocated outside the scope of negation, as shown in (35b):
+666 B. Fernández et al.
+[PDF PAGE 21]
+(35) a. Jon-i ez zaio txakolin-a atsegin .
+J.-DAT NEG be.3SGDAT[3SGABS] txakolin- DET[ABS] pleasure/pleasant
+‘John does not like txakolin.’
+b. Jon-i [txakolin-a baizik ] ez zaio atsegin .
+J.-DAT txakolin-DET[ABS] but neg be.3 SGDAT[3SGABS]p l e a s u r e /
+pleasant
+‘John only likes txakolin.’(lit.: ‘John does not like anything but
+txakolin.’)
+Regarding psych nouns/adjectives and their dative arguments, baizik can take
+scope over the psych adjective and the dative stimulus, and the three of them can
+be fronted before the negative particle with a grammatical result as shown in (36b):
+(36) a. Jon ez da hizkuntza-ri leial-a .
+J.[ABS] neg be[3 SGABS] language. DET-DAT loyal-DET
+‘John is not loyal to the language. ’
+b. Jon [hizkuntza-ri leial-a ] baizik ez da .
+J.[ABS] language. DET-DAT loyal-DET but neg be[3 SGABS]
+‘John is not but loyal to the language. ’
+In contrast, the sentence is ungrammatical if we try to dislocate the psych noun/
+adjective together with the dative experiencer. In (37a), the word order is such that
+the stimulus is focalized and the dative experiencer comes after the negation. In
+(37b), the psych noun/adjective, the dative experiencer and baizik have been
+fronted to a position before the negative particle:
+(37) a. Txakolin-a ez zaio Jon-i atsegin.
+txakolin-DET[ABS] neg be.3 SGDAT[3SGABS] J.- DAT pleasure/pleasant
+‘Txakolin John does not like. ’
+b. * Txakolin-a Jon-i atsegin baizik ez
+txakolin-DET[ABS] J.-DAT pleasure/pleasant but NEG
+zaio / da.
+be.3SGDAT
+[3SGABS]
+be
+[3SGABS]
+(Intended: ‘Txakolin is nothing but pleasant to Jon. ’)
+4.3.3 Fragment answers
+The above results regarding constituency are confirmed by the behavior of both
+dative experiencers and dative stimuli in fragment answers (Berro and Fernández
+2019). Following Merchant (2004), we take fragment answers to form a constituent
+Psych nouns and adjectives in Basque 667
+[PDF PAGE 22]
+stranded by deletion. As we can see in (38A), the dative stimulus and the psych noun/
+adjective can form a fragment answer when the question is about the experiencer:
+(38) Jon hizkuntza-ri leial(-a) da.
+J.[ABS] language- DAT loyal-DET be[3SGABS]
+‘Jon is loyal to the language. ’
+Q.: Zer da Jon?
+what be[3 SGABS] J.[ ABS]
+‘What is John? ’
+A.: Hizkuntza-ri leial-a.
+language.DET-DAT loyal-DET
+‘Loyal to the language. ’
+The dative experiencer, however, cannot form a fragment answer along with the
+psych noun/adjective when the question is about the stimulus (39A):
+(39) Jon-i txakolin-a atsegin zaio.
+J.-DAT txakolin-DET[ABS] pleasure/pleasant be.3 SGDAT[3SGABS]
+‘Jon likes txakolin.’
+Q.: Zer da txakolin-a?
+what be[3 SGABS] txakolin- DET[ABS]
+‘What is txakolin?’
+A.: * Jon-i atsegin(-a)
+J.-DAT pleasure/pleasant(-DET)
+(Intended: ‘Pleasant/pleasure for John. ’)
+4.4 Hierarchy
+Another test provided by Adger and Ramchand (2006) in order to distinguish expe-
+riencers and stimuli and establish hierarchical relationships between these arguments
+and the psych noun/adjective involved in the construction, hasto do with binding. As
+noted by Rezac (2009: 310), in these structures the experiencer marked by absolutive
+case precedes and c-commands the dative, as the following examples show:
+(40) a. Jon bere buru-a-ri ﬁdel-a zaio .
+J.[ABS]3 SG.PSR head-DET-
+DAT
+faithful-
+DET
+be.3SGDAT
+[3SGABS]
+‘Jon is faithful to himself. ’
+b. Lagun-a-k elkarr-i ﬁdel-a-k zaizkio .
+friends-DET-PL each.other-DAT faithful-DET-PL be.3PLABS.3SGDAT
+‘(The) friends are faithful to each other. ’ (Berro and Fernández 2019)
+668 B. Fernández et al.
+[PDF PAGE 23]
+(40a) and (40b) include the reflexive anaphor bere burua (‘himself/herself’, lit.
+‘his/her head ’) and the reciprocal anaphor elkar ‘each other ’, respectively. Both
+anaphors are marked by the dative case as well as preceded and bound by the
+experiencer marked by the absolutive case. Note that the inverted counterparts are
+ungrammatical:
+(41) a. * Bere buru-a Jon-i ﬁdel-a zaio.
+3SG.PSR head-DET[ABS] J.- DAT faithful-DET be.3SGDAT[3SGABS]
+b. * Elkar lagun-ei ﬁdel-a-k zaizkio.
+each.other[ABS]f r i e n d -DET.PLDAT faithful-DET-PL be.3PLABS.3SGDAT
+The hierarchical structure and c-command relationships revert when the dative
+experiencer is involved:
+(42) a. Jon-i bere burua atsegin zaio .
+J.-DAT 3SG.PSR head-DET[ABS] pleasure/pleasant be.3 SGDAT[3SGABS]
+‘John likes himself. ’
+b. Lagun-ei elkar atsegin zaizkio .
+friend-DET.PLDAT each.other[ABS] pleasure/pleasant be.3PLABS.3SGDAT
+‘(The) friends like each other. ’
+In (42a –b), the dative experiencers marked by dative precede and bind the re-
+flexive and reciprocal anaphors.
+4.5 Selection
+The last piece of evidence in order to distinguish dative experiencers and dative
+stimuli comes from selection. Adger and Ramchand (2006) observe that in Scottish
+Gaelic psych constructions involving two prepositional phrases the experiencer is
+systematically marked by the same preposition whereas the stimulus can be
+marked by several prepositions depending on the particular psych noun involved
+in the construction. Basque is slightly different in that the experiencer is marked by
+the absolutive case whereas the stimulus can be marked by the dative or by some
+postpositions even with the same psych noun/adjective. Even though the partic-
+ular conﬁguration of the data differs in the two languages, we think that the test is
+valid also in Basque because it shows that the diverse marking of the stimulus
+depends on the selectional properties of the psych noun/adjective involved in the
+construction while the experiencer is in principle independent from it. For
+Psych nouns and adjectives in Basque 669
+[PDF PAGE 24]
+instance, leial ‘loyal’ can select not only dative case but also the comitative post-
+position as well as the comitative plus the relational adposition,8 as shown in (43):
+(43) a. Bere printzipio-ekin leial izatearren hainbeste sufritzen
+3SG.PSR principle-DET.PLCOMIT loyal be.NMLZ.CAUS so.much suffer. IPFV
+zuten pertsonaiek.
+have.3PLERG[3SGABS] character. DET.PLERG
+‘Characters suffered a lot for being loyal to their principles. ’
+(Zortzi unibertso, zortzi idazle, Ana Urkiza, p. 343)
+b. Jende gogorra zen, bere jaun-a-reki-ko leiala.
+People rough[ ABS] be[3 SGABS], 3 SG.PSR lord-DET-COMIT-REL loyal
+‘They were rough people, loyal to their Lord. ’
+(Eraztunen Jauna III, J.R. Tolkien/A. Otsoa, p. 86)
+Zordun ‘indebted’ shows a more complex picture; in addition to dative case, the
+stimulus can be marked with the genitive (44a), or adlative (44b) postpositions, or
+even with the complex postposition - (ren) aldera (44c):
+(44) a. Jose Antonio Agirre eta Telesforo Monzonen ideologiak
+J. A. A. and T. Monzon. GEN ideology.DET.PL[ABS]
+egokitu zitzaien inguru-a-ren zordun
+correspond be. PST.SUBR[3PLABS] environment- DET-GEN indebted
+dira.
+be[3PLABS]
+‘Jose Antonio Agirre and Telesforo Monzon’s ideologies are indebted
+to the environment that fate dealt them. ’ (lit. ‘the environment that
+corresponded to them ’) (Berria, Kultura, 2004-12-05)
+b. Fernando zordun da Azpeitiko alkate-a-rengana zein markes
+F.[ABS] indebted be[3 SGABS]A .P mayor-DET-ADL and marquis
+jaun-a-rengana.
+lord-DET-ADL
+‘Fernando is indebted to the mayor of Azpeitia and to the marquis. ’
+(Markos Zapiain, Errua eta maitasuna , 51)
+c. Denak zordun gara horrelako gizon-en alde-ra.
+all[ABS] indebted be.1 PLABS those.P men- DET.PLGEN side-ADL
+‘All of us are indebted to those men. ’ (NE)
+8 The Basque General Dictionary (OEH), a historical dictionary of Basque, also mentions other
+postpositions (e.g., adlative -ra(t) and destinative -rentzat). We have not found any examples with
+these postpositions in contemporary texts.
+670 B. Fernández et al.
+[PDF PAGE 25]
+In DatExpIS, by contrast, the experiencer always takes dative case irrespective of
+the particular psych noun/adjective; it does not alternate with any postposition.
+Examples such as (45) involving comitative and adlative experiencers are un-
+grammatical in all dialects and unattested in corpora:
+(45) *Jon-ekin / *Jon-engana txakolin-a atsegin da.
+J.-COMIT J .-ADL txakolin-DET[ABS] pleasure/pleasant be[3 SGABS]
+(Intended: ‘John likes txakolin.’)
+Therefore, as far selection is concerned, the dative experiencer seems to be inde-
+pendent of the particular psych nouns/adjective whereas the dative stimulus is
+much more closely related to it.
+4.6 Interim summary
+The results obtained by DatExpIS and DatStimIS in each test are shown in Table 5.
+As can be seen, the two intransitive configurations behave syntactically very
+differently; in the DatExpIS, the experiencer can show ergative-dative alternation
+while the dative experiencer must always have an agreement marker on the
+copula, does not form a constituent with the psych noun, precedes and c-com-
+mands the absolutive stimulus, and does not alternate with any other postposition.
+In contrast, in the DatStimIS the dative stimulus does not alternate with an ergative
+stimulus; dative agreement can be dropped, the dative forms a constituent with the
+psych noun and is preceded and c-commanded by the absolutive experiencer, and
+lastly, the dative marking can alternate with some postpositions, depending on the
+psych noun. As will be shown in the next section, transitive structures do not show
+such a clear-cut two-way classification in these tests, but there are nonetheless
+significant contrasts between the two configurations.
+Table : Results of DatExpIS and DatStimIS in the syntactic tests.
+Psych nouns in intransitive structures
+DatExpIS
+atsegin-type
+DatSimIS
+leial-type
+ERG-DAT alternation ✓✗
+DAT agreement alternation ✗✓
+[psych noun + DAT] constituency ✗✓
+[ABS]>[ DAT] hierarchy ✗✓
+[DAT]>[ ABS] hierarchy ✓✗
+DAT-POST alternation (selection) ✗✓
+Psych nouns and adjectives in Basque 671
+[PDF PAGE 26]
+5 Dative experiencer and dative stimulus in
+transitive constructions
+The other two structures involving psych nouns in Basque involve transitive
+clauses. Unlike the main structures presented in (1), they do not select the
+intransitive copula izan ‘be’ but the transitive * edun ‘have’. Besides, these two
+transitive structures in (9) (reproduced as (46) below) are mirror images of each
+other. In (46a), the experiencer takes dative case and the stimulus appears in the
+ergative (DatExpTS); in (46b), the stimulus takes dative case while the experiencer
+appears in the ergative (DatStimTS):
+(46) a. Arkitektura-k Jon-i ardura dio.
+architecture.DET-ERG J .-DAT care have.3 SGDAT[3SGABS.3SGERG]
+‘Architecture matters to Jon. ’
+b. Jon-ek espinak-ei nazka die.
+J.-ERG spinach-PLDAT repulsion have.3 PLDAT[3SGABS.3SGERG]
+‘Spinach disgusts Jon. ’
+In both structures, the experiencer and the stimulus are cross-referenced by their
+corresponding dative and ergative agreement markers on the inflected copula.
+(With ergatives other than a 3sg, non-zero segmental material appears on the
+copula.) As for the unmarked third-person singular absolutive in the inflection, it
+does not correspond to any argument in either of the two structures.
+Psych nouns that occur in the DatExpTS structure in (46a) are not numerous
+and seem to be semantically related to each other:ardura ‘care, worry’; axola ‘care,
+worry’; berdin, lit. ‘same; matter’ (also in its reduplicated form berdin-berdin, lit.
+‘same-same; matter ’); igual, lit. ‘same; matter ’; and inporta ‘matter’. Examples
+from the EPG corpus are given in (47):
+(47) a. Berdin dit!
+Care have.1 SGDAT[3SGABS.3SGERG]
+‘I don’t care!’ (Anne Franken egunkaria, A. Frank/ J. Zabaleta, p. 214)
+b. Berdin-berdin dio zu-ri gustatzen
+care-care have.3 SGDAT[3SGABS.3SGERG]2 SG-DAT like.IPFV
+zaizun edo ez.
+be.2DAT.SUBR[3SGABS]o r NEG
+‘It doesn’t matter if you like it or not.’ (Hona hemen gu biok,D. Parker/
+M. Larrañaga, p. 89)
+672 B. Fernández et al.
+[PDF PAGE 27]
+c. Baina, ez dio inporta, ez axola.
+but NEG have.3SGDAT[3SGABS.3SGERG] matter NEG care
+‘But it doesn ’t matter, it doesn ’t care.’ or
+‘He/she doesn’t matter, he/she doesn ’t care’ (Naturaren mintzoa,
+P. Zabala, p. 476)
+Conversely, psych nouns occurring in the DatStimTS are more numerous and
+include amorru ‘anger’, beldur ‘fear’, enpagu ‘abhor’ (western Basque), gorroto
+‘hatred’, inbidia ‘envy’, izu ‘terror’, mania ‘abhor’, and nazka ‘repulsion, revul-
+sion’. We present some examples from the EPG corpus in (48):
+(48) a. Askatasun zaharr-ek beldur diote
+freedom old- DET.PLERG fear have.3 SGDAT.3PLERG[3SGABS]
+askatasun berri-a-ri.
+freedom new- DET-DAT
+‘Old freedoms fear the new freedom. ’ (K. Izagirre, Idi orgaren
+karranka-V. Hugo, p. 92)
+b. Izua zien sigl-ei, esaten
+terror have.3 PLDAT.PST[3SGABS.3SGERG] acronym- PLDAT said
+zuen deabru-a-ren mozorro-ak zirela .
+have.PST[3SGABS.3SGERG]d e m o n -DET-GEN disguise-DET.PLABS were.SUBR
+‘He was terriﬁed by the acronyms, he said that they were disguises of
+the devil.’
+(Ihes betea, A. Lertxundi, p. 124)
+c. Paulina-ri mania ziola iruditzen
+P.-DAT mania have.3 DAT.PST.SUBR[3SGABS.3SGERG] seem. IPFV
+zitzaidan.
+be.1SGDAT.pst[3SGABS]
+‘It seems to me that he/she disliked Paulina. ’ (lit. ‘had mania to
+Paulina’)
+(Soinujolearen semea, B. Atxaga, p. 333)
+d. Nazka digute, arrazaz, eta horrekin ez
+repulsion have.1 PLDAT.3PLERG[3SGABS] race. INS and that. COMIT NEG
+dago ezer egiterik .
+be[3SGABS] nothing do. PTV
+‘They disgust us, by [virtue of their] race, and there is nothing we
+[can] do about that. ’
+(Hemingway eta euskaldunak zerbitzu sekretuetan, E. Jimenez, p. 118)
+Psych nouns and adjectives in Basque 673
+[PDF PAGE 28]
+In this section, we explore the behavior of the dative experiencer and the dative
+stimulus in the transitive structures. We begin by describing the verbal counter-
+parts to these psych nominals Section 5.1). Next, we compare the behavior of the
+dative arguments in these transitive constructions applying the tests explored in
+the intransitive ones: dative-ERGative alternation (Section 5.2.1), hierarchy (Section
+5.2.2), selection (Section 5.2.3), dative agreement alternations (Section 5.2.4) and
+constituency Section 5.2.5).
+5.1 A note on the verbal counterparts of the psych nouns
+Most of the psych nouns involved in the DatStimTS have a verbal counterpart; see
+Table 6 for a list (and note that some do not have verbal counterparts, e.g., inbidia
+‘envy’ but not * inbidiatu and mania ‘abhor’ but not *maniatu).
+These verbal counterparts do not occur in the structure under discussion but
+they do in the causative alternation illustrated in (49b) and (49c):
+(49) a. Jon-ek espinak-ei nazka / *nazkatu die.
+J.-ERG spinach-PLDAT repulsion repulse have.3 PLDAT[3SGABS.3SGERG]
+‘Spinach disgusts Jon. ’
+b. Jon espinak-ez nazkatzen da.
+J.[ABS] spinach- PLINS repulse.IPFV be[3SGABS]
+‘Jon is repulsed by spinach. ’
+c. Espinak-ek Jon nazkatu dute.
+spinach-PLERG J.[ABS] repulse have.3 PLERG[3SGABS]
+‘Spinach disgusts Jon. ’
+The psych noun nazka ‘repulsion’ appears in the DatStimTS in (46b), repeated here
+as (49a), but not its verbal counterpart nazkatu ‘repulse’, which is ungrammatical
+in the same structure. In order to ﬁnd this verbal predicate, we need to look at the
+causative alternation in both its inchoative and causative variants,(49b) and (49c)
+respectively. The inchoative variant in (49b) involves a single argument marked by
+Table : Psych nouns involved in the DatStimTS with a verbal counterpart.
+amorru ‘anger’ amorratu ‘be(come) angry’
+beldur ‘fear’ beldurtu ‘be frightened / frighten ’
+izu ‘terror’ izutu ‘be frightened / frighten ’
+nazka ‘repulsion, revulsion’ nazkatu ‘repulse’
+674 B. Fernández et al.
+[PDF PAGE 29]
+absolutive case and cross-referenced correspondingly on the intransitive auxiliary
+(izan ‘be’). The causative variant involves two arguments, subject and object,
+marked by ergative and absolutive respectively and cross-referenced on the
+transitive auxiliary (* edun ‘have’). The ergative corresponds to the causing stim-
+ulus while the absolutive argument is the experiencer of the psychological change.
+This alternation has been recently explored for Basque and analyzed by Berro et al.
+(2018), based on Wood (2016) for Icelandic (for previous accounts on this alter-
+nation in Basque, see Oyharçabal (2003a) and Ormazabal (2008)). Inter-
+estingly,Gorroto ‘hatred’ also has a verbal counterpart gorrotatu ‘hate’ but it does
+not occur in either the structure under discussion (49a) or the causative alternation
+in (49b-c). Gorrotatu ‘hate’ corresponds to Belletti and Rizzi ’s Class I ( temere) and
+thus appears in a transitive structure with an absolutive stimulus (50b). (50a)
+shows the DatStimTS under discussion:
+(50) a. Duffy jaunak gorroto zion
+D. mister hatred have.3 SGDAT[3SGABS.3SGERG]
+desordena ﬁsikoa edo
+disorder physical or
+mentala adierazten duen edoze-ri.
+mental express have. SUBR[3SGABS.3SGERG]w h a t e v e r -DAT
+‘Mr. Duffy abhorred anything which betokened physical or mental
+disorder.’
+(Dublindarrak, J. Joyce/ I. Aldasoro, p. 156)
+b. Ero-a-ren gisan gorrotatzen zuen.
+fool-DET-GEN like hate. IPFV have.PST[3SGABS.3SGERG]
+‘He/she hates him/her like a fool. ’ (Zalakain abenturazalea, P.
+Baroja/K. Navarro, p. 46)
+In contrast to DatStimTS, the psych nouns/adjectives appearing in DatExpTS do
+not have verbal counterparts. The exception is arduratu ‘worry’, counterpart to the
+noun ardura ‘worry’, which occurs in the causative alternation illustrated in (33b)
+and (33c), with the ergative argument corresponding to the causing stimulus and
+the absolutive denoting the experiencer.
+The particular analysis of the causative alternation or verbal psych
+predicates falls outside the scope of this paper (we refer the reader to the
+works already mentioned and the refer ences within). Nevertheless, the
+contrasts found in case assignment as well as in the theta roles of the
+arguments in psych nouns/adjectives a nd in their verbal counterparts is a
+good starting point for the analysis o f the dative arguments in psych nouns/
+adjectives.
+Psych nouns and adjectives in Basque 675
+[PDF PAGE 30]
+5.2 Dative experiencer vs. dative stimulus: Exploring
+asymmetries in transitive structures
+In Section 3, we explored the asymmetries between dative experiencers and dative
+stimuli in intransitive constructions using a number of morphosyntactic tests (3.1–
+3.5). In what follows, we brie ﬂy review some of the tests in order to ascertain the
+behavior of dative experiencers and stimuli in transitive structures. First, we will
+brieﬂy deal with the ergative-dative alternation, which, like the transitive struc-
+tures we are now dealing with, includes both an ergative and a dative constituent
+(Section 5.2.1). Second, we will show that hierarchy does not reverse in these
+transitive structures because the ergative always binds on the dative, be it expe-
+riencer or stimulus (5.2.2). Third, as we will see, there is no contrast as far as
+selection is concerned, given that neither the dative experiencer nor the dative
+stimulus alternates with any postpositions (Section 5.2.3). This leaves us with only
+two tests that show a contrast between DatExpTS and DatStimTS, viz., dative
+agreement alternations and constituency (Sections 5.2.4 and 5.2.5, respectively).
+5.2.1 Ergative-dative alternation
+In Section 3.1 we have shown that the predicates occurring in the DatExpIS config-
+uration, namely the atsegin-type, allow the ergative-dative alternation of the expe-
+riencer argument. In contrast, those appearing in the DatStimIS are not acceptable
+with an ergative stimulus argument. Transitive conﬁgurations involving psych nouns
+pattern with the latter group in not allowing such an alternation. In fact, the transitive
+structures we are now dealing with include both an ergative and a dative constituent,
+and it is not possible to have two ergative arguments in the same clause. Similarly, a
+transitive clause involving an ergative and an absolutive constituent is similarly not
+available in this kind of predicates, irrespective of the theta-role assigned to each
+argument. This is the case in both DatStimTS (51) and DatExpTS (52).
+(51) a. *Arkitektura-k Jon ardura du.
+architecture.DET-ERG J .[ABS] care have[3 SGABS.3SGERG]
+b. *Jon-ek arkitektura ardura du.
+J.-ERG arkitektura.DET[ABS] care have[3 SGABS.3SGERG]
+(Both intended: ‘Architecture matters to Jon. ’)
+(52) a. *Jon-ek espinaka-k nazka ditu.
+J.-ERG spinach-PL[ABS] repulsion have.3 PLABS[3SGERG]
+b. *Espinak-ek Jon nazka dute.
+spinach-PL.ERG J .[ABS] repulsion have.3 PLERG[3SGABS]
+(Both intended: ‘Spinach disgusts Jon. ’)
+676 B. Fernández et al.
+[PDF PAGE 31]
+An ergative-absolutive configuration would only be grammatical in the verbal
+counterparts of these psych nouns, namely arduratu ‘worry’ and nazkatu ‘disgust,
+bore’, which, as commented on in Section 4.1, have an ergative argument inter-
+preted as the causing stimulus and an absolutive argument interpreted as the
+experiencer undergoing the change.
+5.2.2 Hierarchy
+As seen in Section 3.4, the hierarchical relation in DatExpIS is one in which the
+dative precedes and c-commands the absolutive. The reverse holds for the Dat-
+StimIS, where the absolutive precedes and c-commands the dative. As for transi-
+tive configurations, no contrast is observed between the two configurations at least
+as far as reciprocal anaphors are considered. In both DatExpTS and DatStimTS the
+ergative comes before and c-commands the dative (53 –54):
+(53) a. Jon-ek eta Mikel-ek elkarri ardura diote .
+J.-ERG and M.- ERG each.other.DAT matter have.3 SGDAT.3PLERG
+[3SGABS]
+‘John and Michael matter to each other. ’
+b. *Elkarrek Jon-i eta Mikel-i ardura diote.
+each.other.ERG J .-DAT and M.- DAT matter have.3 SGDAT.3PLERG
+[3SGABS]
+(Intended: ‘John and Michael matter to each other. ’)
+(54) a. Jon-ek eta Mikel-ek elkarri nazka diote .
+J.-ERG and M.- ERG each.other.DAT disgust have.3 SGDAT.3PLERG
+[3SGABS]
+‘John and Michael disgust each other. ’
+b. *Elkarrek Jon-i eta Mikel-i nazka diote .
+each.other.ERG J .-DAT and M.- DAT disgust have.3.3 PLERG[3SGABS]
+(Intended: ‘John and Michael disgust each other. ’)
+The reciprocal anaphors are grammatical in a configuration where they bear dative
+case and their antecedent has ergative case. Thus, regarding reciprocal anaphors,
+there seems to be no difference between DatExpTS and DatStimTS in terms of
+hierarchy.
+Facts are slightly different with the reflexive anaphor, however. On the one
+hand, the DatStimTS configuration involving a reflexive anaphor behaves the same
+as in (54); i.e., the anaphor must bear dative case and have an ergative antecedent.
+The result is not altered even if the order of constituents is changed (55):
+Psych nouns and adjectives in Basque 677
+[PDF PAGE 32]
+(55) a. Jon-ek bere buru-a-ri nazka dio .
+J.-ERG 3SG.PSR head-DET-DAT disgust have.3 SGDAT[3SGABS.3SGERG]
+‘John disgusts himself. ’
+b. *Bere buru-a-k Jon-i nazka dio .
+3SG.PSR head-det-ERG J .-DAT disgust have.3 SGDAT[3SGABS.3SGERG]
+(Intended: ‘John disgusts himself. ’)
+c. *Jon-i bere buru-a-k nazka dio .
+J.-DAT 3SG.PSR head-DET-ERG disgust have.3 SGDAT[3SGABS.3SGERG]
+(Intended: ‘John disgusts himself. ’)
+In DatExpTS, a reverse relation seems to hold between the two constituents,
+especially when the dative precedes the ergative in the linear order as in (56c):
+(56) a.
+??
+Jon-ek bere buru-a-ri ardura dio .
+J.-ERG 3SG.PSR head-DET-DAT matter have.3 SGDAT[3SGABS.3SGERG]
+(Intended: ‘John matters to himself. ’)
+b.
+?
+Bere buru-a-k Jon-i ardura dio .
+3SG.PSR head-det-ERG J .-DAT matter have.3 SGDAT[3SGABS.3SGERG]
+(Intended: ‘John matters to himself. ’)
+c. Jon-i bere buru-a-k ardura dio .
+J.-DAT 3SG.PSR head-det-ERG matter have.3 SGDAT[3SGABS.3SGERG]
+‘John matters to himself. ’
+This surprising relation may be r elated to the backward binding 9 effect attested
+in psychological predicates (e.g., Belle tti and Rizzi 1988; Giorgi 1984; Pesetsky
+1987, 1995; Postal 1971 and many other s, see Temme and Verhoeven 2017 for a
+recent approach to the issue). The backward binding effects have been reported
+in psychological predicates where the stimulus is in nominative case and the
+experiencer bears accusative or dative case, that is, in Belletti and Rizzi ’sC l a s sI I
+(preoccupare ) and Class III ( piacere)v e r b s .I nt h e s ec o nﬁgurations, an anaphor
+embedded in the constituent denoting the stimulus – marked nominative – can
+be co-indexed with the constituent – bearing accusative or dative – expressing
+the experiencer (57):
+(57) a. Hisi health worried every patient i. (Reinhart 2002)
+b. Pictures of each other i annoyed the politicians i. (Pesetsky 1995)
+9 Binding refers to the anaphoric relations held between anaphoric elements and their ante-
+cedents. In the examples, the sub-indexes indicate speci ﬁc discourse referents. Shared sub-
+indexes mean co-indexation, i.e., that the anaphors refer to the same discourse referent.
+678 B. Fernández et al.
+[PDF PAGE 33]
+According to Temme and Verhoeven, dative experiencers trigger stronger psych
+effects than accusative experiencers in German. Additionally, these effects only arise
+in a subset of the verbs that have an accusative experiencer; factors such as the lack
+of agentivity or subject matter10 (Pesetsky 1995) of the stimulus favor the appearance
+of backward binding (Reinhart 2002). Artiagoitia (1995, 2003) has also reported
+similar cases for Basque psych verbs: in the verbs nazkatu ‘disgust’ and kezkatu
+‘worry’, which have an ergative stimulus and absolutive experiencer, the re ﬂexive
+anaphor occurring in the ergative can be bound by the absolutive experiencer (58):
+(58) a. Ni, neure buru-a-k nazka-tzen nau .
+1SG.ABS 1SG.PSR head-DET-ERG disgust-IPFV have.1SGABS[3SGERG]
+‘Me, I disgust myself. ’
+b. Bere buru-a-ren irudi-a-k Jon asko kezka-tzen
+3SG.PSR head-DET-GEN picture-det-ERG J .[ABS] a.lot worry- IPFV
+zuen.
+have.pst[3SGABS.3SGERG]
+‘Pictures of himself worried John. ’ (Artiagoitia 2003)
+As can be seen in (58a), the reflexive anaphor can be bound also when it is not
+embedded while with the reciprocal, only the embedded configuration gives rise to
+backward binding (59):
+(59) a. * Elkarrek nazka-tzen gaitu .
+each.other.ERG disgust-IPFV have.1PLABS[3sgErg]
+(Intended: ‘We worry each other. ’)
+b. Elkarren inguruko istorio-ek nazkatu egin
+each.other.GEN about story- DET.PL.ERG disgust.PFV do
+gaituzte.
+have.1PLABS.3PLERG]
+‘Stories of each other have disgusted us. ’ (Artiagoitia 2003)
+The reflexive anaphor means literally ‘X’s head’, so backward binding may arise
+because, as pointed out by Rebuschi (1993), only the possessor part of the
+expression is a true anaphor (Artiagoitia 2003). Therefore, the reﬂexive anaphor in
+10 According to Pesetsky (1995), a subject matter subject differs from a causer in that the subject
+matter is really the source or reason of the experience, whereas with the causer there is just a causing
+relation between the argument and the experience. For example, in (ib), the letter causes the worry,
+but the worry is not necessarily about the letter. In contrast, in (ia), the worry is about his health.
+(i) a. Hisi health worried every patient i.
+b.
+??
+Hisi doctor’s letter worried every patient i.
+As can be seen, subject matter subjects favor the appearance of backward binding (Reinhart 2002).
+Psych nouns and adjectives in Basque 679
+[PDF PAGE 34]
+Basque would be, as it were, already be embedded. This seems indeed to be the
+case. For instance, as we have shown, in the case of Basque psych nouns occurring
+in transitive structures, particularly in DatExpTS, the experiencer is a dative
+constituent and the stimulus is ergative, and backward binding arises only with the
+reﬂexive anaphor and not with the reciprocal (53b/56c). However, if we embed the
+reciprocal in the stimulus argument, the result is grammatical (60):
+(60) Elkarren irudi-ek Jon-i eta Mikel-i ardura
+each.other.GEN picture-DET.PL.ERG J .-DAT and M.-DAT matter
+diete.
+have.3PLDAT.3PLERG[3SGABS]
+‘Pictures of each other matter to John and Michael. ’
+Thus, it must be concluded that backward binding arises both with the reflexive
+and the reciprocal anaphors but, interestingly, only in the DatExpTS configuration
+and not in DatStimTS (see [55b] and [61]):
+(61) * Elkarren irudi-e-k Jon-i eta Mikel-i nazka
+each.other.GEN picture-DET.PL-ERG J.-DAT and M.-DAT disgust
+diete.
+have.3PLDAT.3PLERG[3SGABS]
+(Intended: ‘Pictures of each other disgust John and Michael. ’)
+In the DatStimTS, the ergative argument bearing the experiencer role must precede
+and c-command the dative, and backward binding does not take place, also not in
+the usual contexts that favor it.
+5.2.3 Selection
+In Section 3.5 we have seen that dative experiencers and dative stimuli can be distin-
+guished also by selection. As we have shown, following Adger and Ramchand (2006),
+the stimulus can be marked either by dativeor by some postpositions depending on the
+selection of the particular psych noun/adjective involved in the intransitive construc-
+tion. This alternating marking contrasts to the systematic marking of the experiencer by
+absolutive inleial‘loyal’-type predicates or by dative inatsegin‘pleasure, pleasant’-type
+predicates (Class III). Unfortunately, this test does not show any contrast in transitive
+structures as the experiencer and the stimulus must remain dative in both DatExpTS and
+DatStimTS. Any other marking carries ungrammaticality in both cases (62):
+(62) a. * Arkitektura-k Jon-ekin ardura du.
+architecture.DET-ERG J.-COMIT care have[3 SGABS.3SGERG]
+(Intended: ‘Architecture matters to Jon. ’)
+680 B. Fernández et al.
+[PDF PAGE 35]
+b. * Jon-ek espinak-ekin / espinak-ez nazka du.
+J.-ERG spinach-PLCOMIT spinach-PLINS repulsion have
+[3SGABS.3SGERG]
+(Intended: ‘Spinach disgusts Jon. ’)
+Hence, selection is a significant criterion in order to distinguish dative experi-
+encers and dative stimuli in intransitive structures. However, in transitive struc-
+tures, it must be discarded.
+5.2.4 Dative agreement alternations
+One of the asymmetries observed between dative experiencers and dative stimuli
+in intransitive constructions has to do with the possibility for the stimuli, but not
+for the experiencers, to appear with or without dative agreement. This asymmetry
+is not observed in transitive constructions, which do not allow stimuli to appear
+without dative agreement. Thus, dative experiencers and dative stimuli without
+dative agreement are excluded, as shown in (63) and (64) respectively: 11
+(63) *Arkitektura-k Jon-i ardura du.
+architecture.DET-ERG J.-DAT care have[3 SGABS.3SGERG]
+(Intended: ‘Architecture matters to Jon. ’)
+(64) *Jon-ek espinak-ei nazka du.
+J.-ERG spinach-PLDAT repulsion have[3 SGABS.3SGERG]
+(Intended: ‘Spinach disgusts Jon. ’)
+The ungrammaticality of both examples is due to the lack of a dative agreement
+marker for the experiencer and the stimulus. We do not expect the experiencer to
+allow dative-agreement drop, however, as experiencers never drop dative agree-
+ment in Basque – not even in those varieties in which dative agreement seems to be
+optional in several contexts. Thus, the significant example is the one that shows a
+dative stimulus (64). The impossibility for this dative stimulus to drop agreement,
+in contrast to what we observed before in intransitive structures, leads us to think
+that dative stimuli are not syntactically equivalent in both structures. In the
+intransitive structure, dative stimuli seem to be internal to the psych noun/ad-
+jective whereas they behave as if they were necessarily in the sphere of inflection in
+the transitive structure. This, of course, needs a particular analysis that will vary
+depending on the linguistic approach – for a recent generative account of the
+intransitive structures under discussion, see Berro and Fernández (2019). We
+11 Certain instances of dative agreement drop can be found for DatStimTS. See Section 5.2.5.
+Psych nouns and adjectives in Basque 681
+[PDF PAGE 36]
+reserve transitive structures such as (63), as well as possible analyses, for further
+research.
+5.2.5 Constituency
+As we saw in Section 4.3, dative experiencers and dative stimuli do not behave in
+the same fashion with regard to constituency in intransitive structures: the dative
+experiencer and the psych noun/adjective cannot form a constituent, but the da-
+tive stimulus and the psych noun/adjective can. This asymmetric behavior is also
+found in transitive structures.
+Let us start with clefting in DatExpTS. Notice that as these transitive structures
+involve a transitive copula, i.e., * edun ‘have’, the same copula appears in the
+subordinate clause (the cleft one) in (65). Notice also in (65) that the copula shows
+dative agreement:
+(65) a. Arkitektura-k Jon-i ardura dio.
+architecture.DET-ERG J.-DAT care have.3 SGDAT
+[3SGABS.3SGERG]
+‘Architecture matters to Jon. ’
+b. * Jon-i ardura da arkitektura-k
+J.-DAT care be[3 SGABS] architecture. DET-ERG
+diona.
+have.3SGDAT.SUBR.DET[3SGABS.3SGERG]
+(Intended: ‘Matter to John is what architecture does (to him). ’)
+As can be seen in the cleft construction in (66), the dative experiencer and the
+psych noun cannot be clefted together. The ungrammaticality still holds even if the
+copula in the cleft does not include dative agreement:
+(66) * Jon-i ardura da arkitektura-k duena.
+J.-DAT care be[3 SGABS] architecture. DET-ERG have.SUBR.DET
+[3SGABS.3SGERG]
+(Intended: ‘Matter to John is what architecture does. ’)
+Thus, as with the intransitive structures analyzed in Section 4.3, we interpreted this
+as a consequence of the fact that the experiencer and the psych noun are not
+together in the same constituent.
+Now let us move to the DatStimTS. Remember (2b), repeated here as (67a), along
+with its intended cleft counterpart in (67b). The cleft construction in the latter, with the
+copula of the subordinated clause including dative agreement, is ill-formed:
+682 B. Fernández et al.
+[PDF PAGE 37]
+(67) a. Jon-ek espinak-ei nazka die.
+J.-ERG spinach-PLDAT repulsion have.3 PLDAT[3SGABS.3SGERG]
+‘Spinach disgusts Jon. ’
+b.
+?
+/*Espinak-ei nazka da Jon-ek
+spinach-PLDAT repulsion be[3 SGABS] J.-ERG
+diena.
+have.3PLDAT.SUBR.DET[3SGABS.3SGERG]
+(Intended: ‘It is repulsion to spinach that Jon has. ’)
+Remember that the same correlation between the presence of dative agreement
+and ungrammatical clefting has been already shown in intransitive structures –
+see Section 4.3.1 Also, as we have seen in Section 5.2.4, psych transitive structures
+do not allow dative-agreement drop, see (64). However, if we omit dative agree-
+ment in the copula of the cleft clause, then the sentence is grammatical (68):
+(68) Espinak-ei nazka da Jon-ek duena .
+spinach-PLDAT repulsion be[3 SGABS] J.-ERG have.SUBR.DET
+[3SGABS.3SGERG]
+‘Repulsion to spinachs is what Jon has. ’
+Hence, there seems to be a correlation between the presence of dative agreement
+and ungrammatical clefting on the one hand and the absence of dative agreement
+and grammatical clefting on the other. Moreover, this correlation is attested for both
+intransitive and transitive structures. This raises some questions that go beyond the
+limits of this paper and need an independent study. As far as the nature of psych
+structures is concerned, the asymmetries between dative experiencers and dative
+stimuli are confirmed in both intransitive and transitive structures by clefting.
+On the other hand, we have seen in Section 4.3 that dative experiencers and
+stimuli also contrast in negative sentences including baizik ‘but’ and fragment
+answers. In transitive structures, the situation is very similar. In negative sentences
+with baizik, the dative experiencer and the psych noun cannot be dislocated
+outside the scope of negation (69b):
+(69) a. Arkitektura-k ez dio Jon-i ardura.
+architecture.DET-ERG NEG have.3SGDAT[3SGABS.3SGERG] J.-DAT care
+‘Architecture does not matter to John. ’
+b. * Arkitektura-k [Jon-i ardura] baizik ez
+architecture.DET-ERG J .-DAT care but NEG
+dio / du.
+have.3SGDAT[3SGABS.3SGERG] have[3SGABS.3SGERG]
+(Intended: ‘Architecture does nothing but to John matter. ’)
+Psych nouns and adjectives in Basque 683
+[PDF PAGE 38]
+Contrastively, the dative stimulus and the psych noun are grammatical in the
+fronted position (70b):
+(70) a. Jon-ek ez die espinak-ei nazka.
+J.-ERG NEG have.3PLDAT[3SGABS.3SGERG] spinach- PLDAT repulsion
+‘Spinach does not disgust Jon. ’
+b. Jon-ek espinak-ei nazka baizik ez die /
+J.-ERG spinach-PLDAT repulsion but NEG have.3PLDAT
+[3SGABS.3SGERG]
+du.
+have[3SGABS.3SGERG]
+‘John does not have for spinach but disgust. ’ / ‘John does not have
+but disgust for spinach. ’
+It must be noted that in (70b), the copula can optionally drop dative agreement and
+that the sentence is ambiguous: in one of the interpretations,baizik only takes scope
+over the noun nazka ‘disgust’, while in the other, it takes scope over the dative
+argument and the noun. Crucially, the agreement-less form gives rise to the second
+reading, the one that we are interested in. Two issues must be highlighted here:ﬁrst,
+the dative stimulus and the psych noun behave as a single constituent with respect
+to dislocation with baizik, particularly in the second interpretation; second, the
+transitive structure involving a dative stimulus can drop the dative agreement under
+certain circumstances as we have seen in cleft sentences and withbaizik dislocation.
+Finally, regarding fragment answers, we also find a similar situation to that of
+intransitive structures (71 –72):
+(71) Arkitektura-k Jon-i ardura dio.
+architecture.det-ERG J .-DAT care have.3 SGDAT[3SGABS.3SGERG]
+‘Architecture matters to Jon. ’
+Q.: Zer du arkitektura-k?
+what have[3 SGABS.3SGERG] architecture. DET-ERG
+‘What does architecture have? ’
+A.: *Jon-i ardura.
+Jon-DAT care
+(Intended: ‘Care to Jon ’)
+(72) Jon-ek espinak-ei nazka die.
+J.-ERG spinach-PLDAT repulsion have.3 PLDAT[3SGABS.3SGERG]
+‘Spinach disgusts Jon. ’
+Q.: Zer du Jon-ek?
+what have[3 SGABS.3SGERG] J.-ERG
+‘What does Jon have? ’
+684 B. Fernández et al.
+[PDF PAGE 39]
+A.: Espinak-ei nazka.
+spinach-PLDAT repulsion
+‘Repulsion to spinach. ’
+The above examples show that the dative experiencer and the psych noun cannot
+form a fragment answer (71), but the dative stimulus and the psych noun can (72).
+Thus, like in the other constituency tests, fragment answers show that while the
+dative experiencer and the psych noun are not in the same constituent, the dative
+stimulus and the psych noun are.
+5.2.6 Interim summary
+As can be seen in Table 7, the syntactic contrast between DatExpTS and DatStimTS is not
+as sharp as in intransitive structures, but there are still signiﬁcant contrasts. In fact, even
+though both behave alike for the ergative-dative alternation and selection tests, there is
+a difference regarding the constituency relation maintained with the psych noun. In
+DatExpTS, the dative does not form a constituent with the noun and in DatStimTS it
+does. Similarly, they do not show the same behavior in binding. In both conﬁgurations,
+the erg>dat hierarchy seems to be the unmarked general one. Nevertheless, DatExpTS is
+subject to backward binding in speciﬁc contexts whereas DatStimTS does not admit it.
+Finally, although DatStimTS does not freely allow dative agreement drop, instances of
+this phenomenon occur in certain contexts also analyzed in this paper, namely, in cleft
+sentences and in negative sentences includingbaizik‘but’.
+6 Typology of psych nouns/adjectives: Extending
+Belletti and Rizzi ’s classification
+So far, the syntactic tests indicate that we can distinguish four types of psych
+nouns/adjectives in Basque. On the one hand, those that have a dative and an
+absolutive argument, that is, psych nouns/adjectives occurring in intransitive
+structures can clearly be differentiated in two groups. In fact, apart from their
+different theta-role distribution, they also exhibit very different syntactic behavior
+as shown in Section 3. On the other hand, the psych nouns occurring in transitive
+structures, that is, those taking an ergative and a dative argument, also seem to
+belong to two different classes. Although they behave similarly in some tests, they
+do contrast regarding constituency and, to a certain extent, in dative-agreement
+drop and hierarchy (as well as for their thematic con ﬁguration).
+Psych nouns and adjectives in Basque 685
+[PDF PAGE 40]
+The inclusion of psych nouns/adjectives instead of verbs enriches Belletti and
+Rizzi’s three-way classification of psych predicates. On the one hand, Class I
+(temere ‘fear’) and Class III (piacere ‘like’) have nominal/adjectival counterparts in
+Basque, exempliﬁed in (3a) and (3b), respectively. However, no nominal/adjectival
+counterpart has been attested in Class II ( preoccupare ‘worry’) for reasons that are
+not entirely clear to us. On the other hand, DatStimIS does not correspond to any
+class of Belletti and Rizzi ’s typology, and additionally, the appearance of an
+ergative-marked argument gives rise to psych structures that combine ergative and
+dative in a way that is unattested in accusative languages such as Italian and many
+of the languages that have been explored in order to analyze psychological events
+and states. Our new classi ﬁcation of psych predicates is presented in Table 8
+below. This table is an extension of Table 2.
+A matter worth exploring is whether the patterns observed in Basque are also
+observed in other languages with ergative case and ergative agreement patterns. In
+fact, the presence or absence of the ergative is interesting per se since it raises
+interesting questions about its nature. For instance, why does a case mainly but not
+exclusively associated with agentive events emerge here in stative contexts such as
+those with Class II predicates, or the transitive structures attested in Basque with
+nazka ‘disgust’ and ardura ‘worry’? Leaving aside this and other questions that
+have both empirical and theoretical interest, the key aspect here that leads to cross-
+linguistic variation can be related to the fact that, in Basque there is a dual marking
+of the subject, viz. ergative and absolutive. As a consequence, there are two
+possible cases to be combined with the dative. In Italian or any other similar
+language, however, only a nominative-marked subject is available (again, apart
+from dative-marked subjects). Therefore, the logical possibilities of case combi-
+nations expand in an ergative language, and Basque shows that these possibilities
+are not only hypothetical but also real.
+Table : Results of DatExpTS and DatStimTS in the syntactic tests.
+Psych nouns in transitive structures
+DatExpTS
+ardura-type
+DatStimTS
+nazka-type
+ERG-DAT alternation ✗✗
+DAt agreement alternation ✗✗ /✓(in certain contexts)
+[psych noun + DAT] constituency ✗✓
+[ERG]>[ DAT] hierarchy ✓✓
+[DAT] > [ERG] hierarchy ✗/✓(in speciﬁc contexts) ✗
+DAT-POST alternation (selection) ✗✗
+686 B. Fernández et al.
+[PDF PAGE 41]
+It is worth pointing out that beyond psych verbs, nouns and adjectives, Basque
+combines ergative and dative arguments with other predicates as well in a case
+frame called alternating verbs by Etxepare (2003: 412–414) and bivalent unergatives
+by Fernández and Ortiz de Urbina (2010: 109 –171), illustrated here in (73) below –
+see also Ortiz de Urbina and Fernández (2016) and references therein.
+(73) Jon-ek Ane-ri itxaron dio.
+J.-ERG A .-DAT wait.PFV have.3SGDAT[3SGABS.3SGERG]
+‘Jon waited for Ane. ’
+As commented on above, the inclusion of psych noun/adjectives in Table 8 reveals
+another possibility not considered in Belletti and Rizzi ’s classi ﬁcation, which is
+available with Basque psych verbs, namely the one including an absolutive
+experiencer and a dative stimulus, that is, the verbal counterpart of DatStimIS. It
+should be noted that this particular con ﬁguration is attested almost only in
+northeastern varieties of Basque. We are referring to instances with verbs such as
+ﬁdatu ‘rely on’, interesatu ‘interest’, ohartu ‘be aware of ’ and urrikitu ‘to feel pity
+for’. We illustrate this type with the verb interesatu ‘interest’ in (73a–b), from the
+corpora and dictionaries:
+(73) a. Margo-tzen hasi nintzen-etik, interesa-tu naiz
+paint-IPFV begin.PFV be.1SGABS.PST-ABL interest-PFV be.1SGABS
+forma-ri Picasso eta Modigliani gisako
+form.DET-DAT P. and M. like
+artisten bidez
+artist.PLGEN by
+besteak beste.
+Table : Typological classiﬁcation of psych nouns and adjectives in comparison to their verbal
+counterparts.
+Psych verbs (based on Belletti
+and Rizzi )
+Case frame and agree-
+ment pattern
+Psych noun/adjectives
+Experiencer Stimulus
+Class I ( temere) gorrotatu ‘hate’ ERG ABS atsegin ‘pleasure/pleasant’
+Class II ( preoccupare) kezkatu ‘fear’ ABS ERG Not attested
+Class III ( piacere) gustatu ‘like’ DAT ABS atsegin ‘pleasure/pleasant’
+some dialectal instances
+(eastern interesatu ‘interest’)
+ABS DAT leial ‘loyal’
+no verbal counterpart ERG DAT nazka ‘disgust’
+no verbal counterpart DAT ERG ardura ‘worry’
+Psych nouns and adjectives in Basque 687
+[PDF PAGE 42]
+among others
+‘Since I started painting, I began to become interested in form, by
+means of artists like Picasso and Modigliani, among others. ’
+(Herria, N. Arbelbide, 2004-03-25) (Fernández and Ortiz de Urbina
+2010: 91)
+b. 1920-1950 urte-etako margolari-a-k, bereziki baiones-a-k,
+1920–1950 year- PLREL painter-DET-PL specially Bayonnais- DET-PL
+zer-i interesa-tzen ote ziren?
+what-DAT interest-IPFV Q be.PST[3PLABS]
+‘The painters from 1920 to 1950, specially those from Bayonne, what
+do they were interested in? ’ (NE Oyharçabal 2009 –2013)
+Notice that the auxiliary accompanying the verbinteresatu ‘interest’ does not show
+dative agreement with the dative stimulus in any of the sentences. This is a
+northeastern dialectal phenomenon that allows some instances of the dative
+agreement to be dropped (the interested reader should consult Etxepare and
+Oyharçabal (2013) and references therein for details). The emergence of a dative
+instead of, or alternating with, an adposition has been interpreted as the result of
+French-Basque contact (see Pikabea (1993) for a detailed diachronic description).
+Be that as it may, dative stimuli in (73a –b) are not cross-referenced on the auxil-
+iary, and in contrast, dative experiencers of the Class III ( piacere ‘please’) are not
+allowed to drop dative agreement in any dialect.
+In relation to that, it is also worth noting that the verb interesatu ‘interest ’
+belongs to Class III in southwestern varieties of Basque as can be seen in (74)
+from the EPG:
+(74) Kixote-a – dio Menar-ek – izugarri interesa-tzen
+Quixote-DET[ABS] say[3 SGABS] M.- ERG enormously interest- IPFV
+zait, baina ez zait irudi-tzen, nola esan?
+be.1SGDAT[3SGABS] but NEG be.1SGDAT[3SGABS] seem- IPFV how say
+Ezinbesteko-a.
+necessary-DET[ABS]
+‘“The Quixote really interests me,” says Menard,“but it does not seem to me,
+how can I say? Necessary.”’ (Ipuin hautatuak, J.L. Borges / J. Garzia 1998)
+(EPG, Sarasola et al. 2001–2007)
+As far as we know, the only southwestern exception is errukitu ‘feel pity for’, with
+the same structure as that in northeastern examples in (73), but with obligatory
+agreement as dative agreement drop is non-attested in this geographical area. Its
+nominal counterpart erruki ‘pity’ behaves alike (75 –76):
+688 B. Fernández et al.
+[PDF PAGE 43]
+(75) Jainko-a errukituko zaizu-la uste
+God-DET[ABS] feel.sorry. PROS be.2DAT[3SGABS]-SUBR think.PFV
+al duzu?
+PTCL have.2ERG[3SGABS]
+‘Do you think that God will feel sorry for you? ’ (Kontu-jaten, Arantza
+Iturbe, p. 59)
+(76) Jaun-a-k bedeinka eta gorde zaitzala; bere
+God-DET-ERG bless and protect be.2 DAT SUBR [3SGABS]3 SG.PSR
+aurpegi-a erakutsi eta erruki dakizula.
+face-DET[ABS] show and feel.sorry be.2 DAT.IMPER[3SGABS]
+‘May God bless you and protect you; may he show you his face and feel
+sorry for you. ’ (Asisko Frantzizko, Asisko Klara, Askoren artean, p. 68)
+Going back to interesatu ‘interest’, this verb is remarkable for any researcher
+interested in variation within or beyond Basque: it does not only appear as in
+Class III ( piacere ‘please’) type predicates in southwestern varieties, it also oc-
+cupies a particular class not included in Belletti and Rizzi ’sc l a s s iﬁcation, as seen
+in (73). Moreover, northeastern varieties show also Class-II-like con ﬁgurations
+with an ergative stimulus and an absolut ive experiencer as has been observed by
+the dictionaries EEH and NE. Such a structure is shown in (77):
+(77) Okupazio garai-ko istorio-ek ez zaituzte interesa-tzen .
+occupation time-REL story-DET.PL.ERG NEG have.2ABS.3PLERG interest-IPFV
+‘Stories about the time of the occupation do not interest you.’ (Anbroxio,E .
+Bidegain, p. 117)
+This gives us the opportunity to reflect briefly on variation within Basque. To
+begin with, it is not clear to us why the same psych noun/adjective can alternate
+between different structures and thus, different classes. For instance, why do we
+find the noun/adjectives atsegin ‘pleasure, pleasant ’ and laket ‘pleasure,
+pleasant’ participating in Class I and III with apparently no semantic difference?
+In relation to this, it should be noted that the two con ﬁgurations are sometimes
+attested in the same dialectal area . For example, the noun/adjective laket
+‘pleasure, pleasant ’ is only attested in northeastern varieties of Basque but
+nonetheless shows at least the two possible con ﬁgurations corresponding to
+Class I and III in these same varieties. Thus, the division between one class and
+another is not necessarily dialectally groundedsince the two con ﬁgurations
+coexist within the same variety.
+Nevertheless, sometimes the alternating patterns seem to carry semantic nu-
+ances. For instance, let us take again the northeastern configurations of interesatu
+Psych nouns and adjectives in Basque 689
+[PDF PAGE 44]
+‘interest’, that is, the transitive structure exempli ﬁed in (77) and the intransitive
+structure unattested in Belletti and Rizzi ’s classiﬁcation shown in (73). The infor-
+mation provided by Oyharçabal (2009–2013) in NE, his French-Basque dictionary,
+for the French entry int´eresser is, on the one hand, verbe transitif with the meaning
+captiver ‘charm, amuse ’ for the transitive structure; and on the other, verbe pro-
+nominal as in s’int´eresser with the meaning ‘be interested in, take interest in’. Both
+French structures involving int´eresser are translated into Basque as interesatu
+‘interest’. However, only the latter meaning (‘be interested in, take interest in’) can
+be expressed via an absolutive experiencer plus dative stimulus in (Eastern)
+Basque, not the former. Hence, at least in some cases, syntactic patterns show
+semantic nuances that are worth exploring. Besides, cross-linguistic comparison,
+particularly with French and Spanish the two Romance languages in contact with
+Basque, also seems relevant in order to understand alternating patterns and their
+presence or absence in some varieties but not others. The case of the intransitive
+interesatu involving a stimulus dative is a case in point, as it happens almost only
+in Northeastern Basque, in the contact area with French, usually together with
+dative-agreement drop which, as we have already said, is a genuinely northeastern
+phenomenon.
+Moreover, the configurations that arise from the analysis of psych-nominal
+structures in Basque need to be analyzed in a broader study involving also
+intransitive structures with postpositions instead of datives. For instance, erruki
+‘pity’ occurs in the case frame with an absolutive experiencer and a dative stim-
+ulus, shown in (75), but also in an alternative con ﬁguration involving the instru-
+mental postposition.
+(78) Erruki nitaz, ene Jainko, zapal-du-a bai-naute
+pity 1 SG.INS 1sg.PSR God oppress- PFV-RES SUBR -have.1SGABS.3PLERG
+‘Take pity on me, my God, because I am oppressed. ’ (Asisko Frantzizko,
+Asisko Klara, Askoren artean, p. 78)
+These intransitive structures with absolutive experiencers and postpositional
+stimuli have been deliberately left out of the paper and were only mentioned in
+order to clarify the nature of dative stimuli in comparison to experiencers. In
+addition, transitive structures need particular attention. They have been
+mentioned here only in order to show ergative-dative alternations for the experi-
+encer – see Ex. (17b) in Section 4.1. Actually, in order to understand some of the
+reasons behind the alternating patterns in psych structures, we have to take a more
+general perspective on Basque transitivity and intransitivity.
+690 B. Fernández et al.
+[PDF PAGE 45]
+Finally, yet importantly, the comprehensive study on Basque we have carried
+out here might be combined with more specific studies on particular varieties of
+Basque, which will hopefully provide a more complete understanding of psych
+nominals across dialects.
+7 Conclusions
+In this paper, we have presented and discussed psych nouns/adjectives and the
+particular predicative structures they give rise to in an ergative language such as
+Basque. As we have seen, Belletti and Rizzi’s Class I (temere) and Class III (piacere)
+have a nominal psych counterpart in Basque, exempli ﬁed by atsegin ‘pleasure,
+pleasant’, but Class II ( preoccupare) does not. Besides, we have identi ﬁed a
+structure exempliﬁed by leial ‘loyal’ with an absolutive experiencer and a dative
+stimulus, which behaves inversely to atsegin ‘pleasure, pleasant ’ in the piacere-
+conﬁguration (with a dative experiencer and an absolutive stimulus). Moreover,
+we have also identiﬁed two nominal conﬁgurations that are not included in Belletti
+and Rizzi ’s classi ﬁcation and have no verbal counterpart in Basque. These are
+exempliﬁed respectively by nazka ‘disgust’, which has an ergative experiencer and
+a dative stimulus, and ardura ‘worry’, which has the opposite con ﬁguration.
+Although some of the structures identified in the paper seem to be quantita-
+tively more restricted than others (for instance, that with leial ‘loyal’ and ardura
+‘worry’), the inclusion of all the nominal predicate types and their interactions with
+ergative experiencers and stimuli reveals a more ﬁne-grained picture that is worth
+exploring not only in Basque but also cross-linguistically. On the other hand, we
+have shown that some tests, such as those previously employed in Scottish Gaelic
+by Adger and Ramchand (2006) and the dative agreement alternation explored in
+Basque by Berro and Fernández (2019), as well as the ergative-dative alternation
+for the experiencer included in this paper, allow us to identify some syntactic
+properties of these structures. 12 Based on the latter, particular analyses can be
+developed from different theoretical perspectives. Berro and Fernández (2019)
+provide a generativist analysis that covers atsegin ‘pleasure/pleasant’ of the pia-
+cere-type and leial ‘loyal’-type predicates and related structures. The analysis of
+nazka ‘disgust’ and other structures mentioned in the paper is left for future
+12 Psych adjectives have been documented for several languages (see Anscombre 2004, Bouillon
+1996 for French; Caluianu 1996, 2009 for Japanese; Goy 2000 for Italian; Kim 2008 for Korean;
+Klimek and Rozwadowska 2004 for Polish; Rákosi 2006 for Hungarian; and Temme 2014 for
+German). To our knowledge, no comparative studies have been conducted on the topic so far. The
+extant evidence from German suggests both parallels and differences when compared to Basque.
+Psych nouns and adjectives in Basque 691
+[PDF PAGE 46]
+research, along with a cross-linguistic comparison that could shed some light on
+the nature of psych nominals in human languages, particularly in ergative ones.
+Abbreviations
+ABS absolutive
+ACC accusative
+ADL adlative
+ATTR attributivizer
+CAUS causal
+COMIT comitative
+COMPR comparative
+DAT dative
+DET determiner
+ERG ergative
+GEN genitive
+IMPE R imperative
+INES S inessive
+INS instrumental
+IPFV imperfective
+MP modal particle
+NEG negation
+NMLZ nominalizer
+NOM nominative
+P preposition
+PFV perfective
+PL plural
+PRES present
+PRF preﬁx
+PROS prospective
+PSR possessor
+PST past
+PTCP participle
+PTCL particle
+PTV partitive
+Q question
+REL relational
+RES resultative
+SG singular
+SUBR subordinator
+SUP superlative
+692 B. Fernández et al.
+[PDF PAGE 47]
+Acknowledgments: The first and third authors acknowledge financial support from
+the Ministry of Science, Innovation and Universities ’ research project PGC2018-
+096380-B-IOO and from the Basque Government’s research project IT1169.
+References
+Adger, David & Gilliam Ramchand. 2006. Psych nouns and predication. North East Linguistic
+Society (NELS) 36. 89 –103.
+Albizu, Pablo & Luis Eguren. 2000. An optimality theoretic account for ‘Ergative Displacement’ in
+Basque. In Wolfgang U. Dressler, Oskar E. Pfeiffer, Markus A. Pöchtrager & John R. Rennison
+(eds.), Morphological analysis in comparison ,1 –24. Amsterdam: John Benjamins.
+Anagnostopoulou, Elena. 1999. On experiencers. In Artemis Alexiadou, Geoffrey C. Horrocks &
+Melita Stavrou (eds.), Studies in Greek syntax ,6 7–93. Dordrecht: Kluwer.
+Anscombre, Jean-Claude. 2004. From psych-nouns to psych-adjectives in French: Some
+semantics insights. Journal of Cognitive Science 5. 51–71. http://cogsci.snu.ac.kr/jcs/
+issue/vol5/no1/JCS_Vol_05_ +No_1++++p.+51+-+71+++++From+Psych-Nouns+to+Psych-
+Adjectives+in+French.pdf.
+Arad, Maya. 1998. Psych-notes. UCL Working Papers in Linguistics 10. 203–223.
+Arad, Maya. 1999. What counts as a class? The case of psych verbs. MIT Working Papers in
+Linguistics 35. 1–23.
+Arregi, Karlos & Andrew Nevis. 2012. Morphotactics: Basque auxiliaries and the structure of spell
+out. Berlin: Springer.
+Artiagoitia, Xabier. 1995. Garri atzizkiaren izaera bikoitzaz: Zergatik den maitagarria bezain
+mingarria [On the dual nature of (the Basque derivational morpheme) garri: Why it is as
+lovable as it is painful]. ASJU 29(2). 355–405. https://ojs.ehu.eus/index.php/ASJU/article/
+view/8483/7655.
+Artiagoitia, Xabier. 2003. The case of an enlightening, provoking and admirable Basque
+derivational suf ﬁx with implications for the theory of argument structure. In Bernard
+Oyharçabal (ed.), Inquiries into the lexicon-syntax relations in Basque . [Special issue].
+ASJU 46. 147 –183.
+Barðdal, Jóhanna. 1999. The dual nature of Icelandic psych-verbs. Working Papers in
+Scandinavian Syntax 64. 79–101. http://hdl.handle.net/1854/LU-8570985.
+Barðdal, Jóhanna. 2001. The perplexity of Dat-Nom verbs in Icelandic.Nordic Journal of Linguistics
+24(1). 47–70.
+Belletti, Adriana & Luigi Rizzi. 1988. Psych-verbs and θ-theory. Natural Language & Linguistic
+Theory 6. 291–352.
+Berro, Ane. 2015. Breaking verbs: From event structure to syntactic categories in Basque. Bilbao &
+Bordeaux: UPV/EHU & Universit ´e Bordeaux Montaigne (UBM) dissertation.
+Berro, Ane & Beatriz Fernández. 2019. Applicatives without verbs. Natural Language & Linguistic
+Theory 37(4). 1273–1317.
+Berro, Ane, Bernard Oyharçabal & Beatriz Fernández. 2018. Inkoatibo/arazle alternantzia
+euskaraz eratortzen [Deriving the inchoative/causative alternation in Basque]. In Beatriz
+Fernández & Ane Berro (eds.), Euskaratik giza hizkuntzara. Jon Ortiz de Urbina gorazarre .
+[From Basque to human language: In honor of Jon Ortiz de Urbina] (Fontes Linguae Vasconum
+126), 99–122. Pamplona: Nafarroako Gobernua.
+Psych nouns and adjectives in Basque 693
+[PDF PAGE 48]
+Bouillon, Pierrette. 1996. Mental state adjectives: The perspective of generative lexicon. In
+Proceedings of the 16th International Conference on Computational Linguistics (COLING-96),
+143–148. Copenhagen: Center for Sprogteknologi.
+Calude, Andreea S. 2008. Clefting and extraposition in English. ICAME Journal 32. 7–33. http://
+icame.uib.no/ij32/ij32_7_34.pdf.
+Calude, Andreea S. 2009. Cleft constructions in spoken English . Saarbrücken: VDM Verlag Dr.
+Müller.
+Caluianu, Daniela. 1996. Case patterns with subjective adjectives. Tsukuba Working Papers in
+Linguistics 3. 27–40.
+Caluianu, Daniela. 2009. Transitive adjectives in Japanese. In Jòhanna Barðdal & Shobhana L.
+Chelliah (eds.), The role of semantic, pragmatic, and discourse factors in the development of
+case, 225–257. Amsterdam: John Benjamins.
+Collins, Peter C. 1991. Cleft and pseudo-cleft constructions in English . London: Routledge.
+Etxepare, Ricardo. 2003. Valency and argument structure in the Basque verb. In Jos´e Ignacio Hualde
+& Jon Ortiz de Urbina (eds.), A grammar of Basque,3 6 3–425. Berlin: Mouton de Gruyter.
+Etxepare, Ricardo & Myriam Uribe-Etxebarria. 2012. Denominal necessity modals in Basque. In
+Urtzi Etxeberria, Ricardo Etxepare & Myriam Uribe-Etxebarria (eds.),DPs and nominalizations
+in Basque, 283–330. Amsterdam: John Benjamins.
+Etxepare, Ricardo & Bernard Oyharçabal. 2008. Bi datibo egitura ifar-ekialdeko zenbait
+hizkeratan [Two dative structures in some north-eastern varieties of Basque] . Lapurdum 13.
+145–158.
+Etxepare, Ricardo & Bernard Oyharçabal. 2013. Datives and adpositions in Northeastern Basque.
+In Beatriz Fernández & Ricardo Etxepare (eds.), Variation in datives: A micro-comparative
+perspective, 50–95. New York: Oxford University Press.
+Fernández, Beatriz. 2010. Goi- eta behe-datiboak eta Datibo-komunztaduraren murriztapena:
+ipar-ekialdeko hizkerak eta euskara estandarra [High and low datives and the restriction on
+dative agreement: North-eastern varieties and standard Basque]. In Irantzu Epelde (ed.),
+Euskal dialektologia: lehena eta oraina [Basque dialectology: Past and present]. [Special
+issue]. ASJU 69. 37–63.
+Fernández, Beatriz & Jon Ortiz de Urbina. 2010. Datiboa hiztegian [The dative in the dictionary].
+Bilbao: UPV/EHU.
+Fernández, Beatriz & Ane Berro. 2018. Orhiko xoria Orhin lakhet : izen/adjektibo psikologikoak,
+gai lokatiboak eta predikazioa [Psych noun/adjectives, locative themes and predication].
+ASJU 52(1/2). 253–270.
+Fernández, Beatriz & Josu Landa. 2009. Datibo komunztadura beti zaindu, inoiz zaindu ez eta
+batzuetan baino zaintzen ez denean.Hiru ahoko aldagaia, datu iturri bi, eta erreminta bat:
+Corsintax [Obligatory, optional and impossible dative agreement. A three-way alternation,
+two sources and a tool: Corsintax]. Lapurdum 13. 159–181. https://doi.org/10.4000/
+lapurdum.2053.
+Fernández, Beatriz, Jon Ortiz de Urbina & Josu Landa. 2009. Komunztadurarik gabeko datiboen
+gakoez [Key questions of non-agreeing datives]. In Ricardo Etxepare, Ricardo Gomez &
+Joseba A. Lakarra (eds.), Beñat Oihartzabali gorazarre – Festschrift for Bernard Oyharçaba ,
+357–380. Bilbao: University of the Basque Country (UPV/EHU).
+Franco, Jon. 1992. Towards a typology of psych verbs: Evidence from Spanish. In Joseba Andoni
+Lakarra & Jon Ortiz de Urbina (eds.), Syntactic theory and Basque syntax (Supplements of
+ASJU 27), 119 –134. https://ojs.ehu.eus/index.php/ASJU/article/view/9384/8612.
+694 B. Fernández et al.
+[PDF PAGE 49]
+Giorgi, Alessandra. 1984. Toward a theory of long distance anaphors: A GB approach. The
+Linguistic Review 3. 307–361.
+Goy, Anna. 2000. Lexical semantics of emotional adjectives.MIT Working Papers in Linguistics37.
+49–60.
+Gómez, Ricardo & Kold Sainz. 1995. On the origin of the ﬁnite forms of the Basque verb. In Jos ´e
+Ignacio Hualde, Joseba Lakarra & Robert Larry Trask (eds.), Towards a history of the Basque
+language, 253–273. Amsterdam: John Benjamins.
+Haiden, Martin. 2005. Theta theory. Berlin: Mouton de Gruyter.
+Ingason, Anton Karl. 2016. Realizing morphemes in the Icelandic noun phrase. Philadelphia:
+University of Pennsylvania dissertation.
+Kim, Ilkyu. 2008. On the nature of dative case in Korean dative experiencer constructions. In
+Current issues in unity and diversity of languages: Collection of the papers selected from the
+CIL 18, held at Korea University in Seoul, on July 21 –26, 2008, 3310–3329. Seoul: The
+Linguistic Society of Korea.
+Klimek, Dorota & Bo żena Rozwadowska. 2004. From psych adjectives to psych verbs. Poznań
+Studies in Contemporary Linguistics 39. 59–72.
+Laka, Itziar. 1993. The structure of inﬂection: A case study in X syntax. In Jos´e Ignacio Hualde & Jon
+Ortiz de Urbina (eds.), Generative studies in Basque linguistics ,2 1–70. Amsterdam: John
+Benjamins.
+Landau, Idan. 2009. The locative syntax of experiencers . Cambridge, MA: The MIT Press.
+Merchant, Jason. 2004. Fragments and ellipsis. Linguistics and Philosophy 27. 661–738.
+Mitxelena, Koldo & Ibon Sarasola. 1989 –2005. Diccionario General Vasco. Orotariko Euskal
+Hiztegia (OEH). Bilbao: Euskaltzaindia. http://www.euskaltzaindia.eus/index.php?
+option=com_content&view=article&id=276&Itemid=413&lang=eu (accessed 3 July 2020).
+Ormazabal, Javier. 2008. Kausatibo aldizkatzeak euskaraz eta inguruko hizkuntzetan [The causative
+alternation in Basque and surrounding languages]. In Xabier Artiagoitia & Joseba A. Lakarra
+(eds.), Gramatika jaietan Patxi Goenagaren omenez.[ S p e c i a li s s u e ] .ASJU 51. 643–663.
+Ortiz de Urbina, Jon & Beatriz Fernández. 2016. Datives in Basque bivalent unergatives. In Beatriz
+Fernández & Jon Ortiz de Urbina (eds.), Microparameters in the grammar of Basque ,6 7–93.
+Amsterdam: John Benjamins.
+Oyharçabal, Bernard. 2003a. Lexical causatives and causative alternation in Basque. In Bernard
+Oyharçabal (ed.), Inquiries into the lexicon-syntax relations in Basque . [Special issue]. ASJU
+46. 223–253.
+Oyharçabal, Bernard. 2003b. Relatives. In Jos ´e Ignacio Hualde & Jon Ortiz de Urbina (eds.), A
+grammar of Basque, 762–823. Amsterdam: John Benjamins.
+Oyharçabal, Bernard. 2009-2013. Nola Erran. Frantses-euskara hiztegi elektronikoa/Dictionnaire
+´electronique français-basque. Euskararen Erakunde Publikoa/Of ﬁce Public de la Langue
+Basque. http://nolaerran.org/?hi=fr (accessed 3 July 2020).
+Pesetsky, David. 1987. Binding problems with experiencer verbs. Linguistic Inquiry 18. 126–140.
+https://www.jstor.org/stable/4178528.
+Pesetsky, David. 1995. Zero syntax: Experiencers and cascades . Cambridge, MA: The MIT Press.
+Pikabea, Josu. 1993. Lapurtera idatzia (XVII-XIX). Bilakaera baten urratsak [Written Labourdin
+(17th–19th centuries): The steps of an evolution] . UPV/EHU & Kutxa Fundazioa.
+Postal, Paul M. 1971. Cross-over phenomena. New York: Holt, Rinehart & Winston.
+Rákosi, György. 2006. Dative experiencer predicates in Hungarian . Utrecht: Universiteit Utrecht
+dissertation.
+Rebuschi, Georges. 1984. Structure de l ’´enonc´e en basque . Paris: SELAF.
+Psych nouns and adjectives in Basque 695
+[PDF PAGE 50]
+Rebuschi, Georges. 1993. Basque pronouns and relativized locality. In Jos ´e Ignacio Hualde & Jon
+Ortiz de Urbina (eds.), Generative studies in Basque linguistics , 115–144. Amsterdam: John
+Benjamins.
+Rebuschi, Georges. 1999. Le complexe verbal basque : un regard «universaliste». Lapurdum 4.
+199–222.
+Reinhart, Tanya. 2002. Concepts, Syntax, and their interface. The Theta System [Linguistic Inquiry
+Monograph 72]. Cambridge, MA: The MIT Press.
+Rezac, Milan. 2009. Person restrictions in Basque intransitives. Lapurdum 13. 305–322.
+Ruwet, Nicolas. 1993. Les verbes dits psychologiques : trois thèories et quelques questions.
+Recherches Linguistiques de Vincennes 22. 95–124.
+Sarasola, Ibon. 2008. Euskararen Egungo Hiztegia (EEH) [Dictionary of contemporary Basque].
+Bilbao: UPV/EHU. http://www.ehu.eus/eeh/ (accessed 3 July 2020).
+Sarasola, Ibon, Pello Salaburu & Josu Landa. 2001-2007. Ereduzko Prosa Gaur (EPG)
+[Contemporary reference prose]. https://www.ehu.eus/en/web/eins/ereduzko-prosa-gaur-
+epg- (accessed 3 July 2020).
+Sarasola, Ibon, Pello Salaburu & Josu Landa. 2016. Egungo Testuen Corpusa (ETC) [Corpus of
+contemporary Basque]. Bilbao: UPV/EHU. http://www.ehu.eus/etc (accessed 3 July 2020).
+Temme, Anne. 2014. German psych-adjectives. In Antonio Machicao y Priemer, Andreas Nolda &
+Athina Sioupi (eds.), Zwischen Kern und Peripherie: Untersuchungen zu Randbereichen in
+Sprache und Grammatik, 131–156. Berlin: De Gruyter.
+Temme, Anne & Elisabeth Verhoeven. 2017. Backward binding as a psych effect? A binding
+illusion. Zeitschrift für Sprachwissenschaft 36(2). 279–308.
+Wood, Jim. 2016. How roots do and don’t constraint the interpretation of Voice. Working Papers in
+Scandinavian Syntax 96. 1–25. https://elischolar.library.yale.edu/ling_faculty/3.
+Zúñiga, Fernando & Beatriz Fernández. Basque antipassives revisited. In Katarzyna Janic & Alena
+Witzlack-Makarevich (eds.), The multifaceted aspects of antipassive . Amsterdam: John
+Benjamins. In press.
+696 B. Fernández et al.

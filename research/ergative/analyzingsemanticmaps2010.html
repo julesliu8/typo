@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Page-specific title supplied by the decorated template -->
+    
+    <title>Sign In — Journal Administration</title>
+
+    <!-- Bootstrap 5 CSS from webjars; webjars-locator-lite resolves the version -->
+    <link rel="stylesheet" href="/journals/webjars/bootstrap/5.3.8/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/journals/webjars/bootstrap-icons/1.13.1/font/bootstrap-icons.css" />
+
+    <!-- Application styling overrides -->
+    <link rel="stylesheet" href="/journals/css/journals.css" />
+    
+</head>
+
+<body>
+
+    <!-- ============================================================
+     Main content area — decorated pages fill in this fragment.
+     No primary navbar on this layout: it is meant for pages such
+     as the sign-in form that should stand on their own.
+     ============================================================ -->
+    <main class="jr-content">
+        <div class="p-3">
+
+        <div class="page-header text-center">
+            <h1>
+                Journal Administration &mdash; Sign In
+                
+            </h1>
+        </div>
+
+        <!-- Centered card with the login form -->
+        <div class="row justify-content-center">
+            <div class="col-md-5 col-lg-4">
+                <div class="card mt-4">
+                    <div class="card-body">
+
+                        <!-- Authentication failure message shown after a redirect from Spring Security -->
+                        
+
+                        <form method="post" action="/journals/admin/login"><input type="hidden" name="_csrf" value="qtZT30wP-pk9KiV8LWwhv_I6KrOhYOCR7T4Ch133GV5TbqwMmeEx6ihtzv0QT0ZFSUEV28sJB9LEA9C8jF07tWTALW0wWMg-"/>
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Name</label>
+                                <input type="text" class="form-control" id="username" name="username"
+                                    autofocus="autofocus" />
+                            </div>
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="password" name="password" />
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <a class="text-decoration-none" href="/journals/">
+                                    <i class="bi bi-arrow-left me-1"></i>Return to home page
+                                </a>
+                                <button type="submit" class="btn">
+                                    <i class="bi bi-box-arrow-in-right me-1"></i>Sign in
+                                </button>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+
+                <!-- Metadata services card below the sign-in card. OAI-PMH is public;
+                     CrossRef/DOAJ requires a separate CAS login on arrival. Both links
+                     open in a new tab so the sign-in flow is not interrupted. -->
+                <div class="card mt-3">
+                    <div class="card-header fw-bold">
+                        <i class="bi bi-file-earmark-text me-2"></i>Metadata Services
+                    </div>
+                    <div class="card-body">
+                        <div class="list-group">
+                            <a href="/journals/oai?verb=Identify" target="_blank" rel="noopener"
+                                    class="list-group-item list-group-item-action">
+                                OAI-PMH Service
+                            </a>
+                            <a href="/journals/crossref/form" target="_blank" rel="noopener"
+                                    class="list-group-item list-group-item-action">
+                                CrossRef / DOAJ Metadata Export
+                                <span class="text-muted small ms-1">(login required)</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    </main>
+
+    <!-- ============================================================
+     Footer — same three-cell layout as the primary layout for visual consistency
+     ============================================================ -->
+    <footer class="jr-footer">
+        <span class="flex-fill text-start">Dartmouth College Library</span>
+        <span class="flex-fill text-center">
+            Copyright &copy; <span>2026</span> Trustees of Dartmouth
+            College
+        </span>
+        <span class="flex-fill text-end"></span>
+    </footer>
+
+    <!-- Bootstrap JavaScript bundle (includes Popper) -->
+    <script src="/journals/webjars/bootstrap/5.3.8/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

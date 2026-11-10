@@ -1,0 +1,1225 @@
+{
+  "id": "https://openalex.org/W4393882515",
+  "doi": "https://doi.org/10.1515/stuf-2024-2003",
+  "title": "‘Reflexemes’ – a first cross-linguistic insight into how and why reflexive constructions encode emotions",
+  "display_name": "‘Reflexemes’ – a first cross-linguistic insight into how and why reflexive constructions encode emotions",
+  "publication_year": 2024,
+  "publication_date": "2024-04-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4393882515",
+    "doi": "https://doi.org/10.1515/stuf-2024-2003"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1515/stuf-2024-2003",
+    "doi": "https://doi.org/10.1515/stuf-2024-2003",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1515/stuf-2024-2003",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S159798926",
+      "display_name": "Language Typology and Universals",
+      "issn_l": "0942-2919",
+      "issn": [
+        "0942-2919",
+        "1867-8319",
+        "2196-7148"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-2",
+        "norway-1",
+        "poland-40",
+        "russia-white-list-2",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310313990",
+      "host_organization_name": "De Gruyter",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "STUF - Language Typology and Universals",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://hal.science/hal-04629525v1/file/draft_StephesonEtal_2024_STUF%20reflexemes.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Alex Stephenson",
+        "orcid": "https://orcid.org/0009-0004-2182-1681",
+        "observed_orcids": [
+          "https://orcid.org/0009-0004-2182-1681"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I177877127",
+          "display_name": "The University of Western Australia",
+          "ror": "https://ror.org/047272k79",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177877127"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Alex Stephenson",
+      "raw_affiliation_strings": [
+        "School of Social Sciences, University of Western Australia , Perth , Australia"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0004-2182-1681",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Social Sciences, University of Western Australia , Perth , Australia",
+          "institution_ids": [
+            "https://openalex.org/I177877127"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053539212",
+        "display_name": "Maïa Ponsonnet",
+        "orcid": "https://orcid.org/0000-0002-8879-9798",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8879-9798"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I177877127",
+          "display_name": "The University of Western Australia",
+          "ror": "https://ror.org/047272k79",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177877127"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3017417437",
+          "display_name": "Laboratoire Dynamique du Langage",
+          "ror": "https://ror.org/01fvx3s14",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I188626449",
+            "https://openalex.org/I203339264",
+            "https://openalex.org/I3017417437"
+          ]
+        }
+      ],
+      "countries": [
+        "AU",
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maïa Ponsonnet",
+      "raw_affiliation_strings": [
+        "Dynamique Du Langage UMR 5596, CNRS et Université Lyon 2 , Lyon , France",
+        "School of Social Sciences , University of Western Australia , Perth , Australia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8879-9798",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Dynamique Du Langage UMR 5596, CNRS et Université Lyon 2 , Lyon , France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I3017417437"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Social Sciences , University of Western Australia , Perth , Australia",
+          "institution_ids": [
+            "https://openalex.org/I177877127"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5020377758",
+        "display_name": "Marc Allassonnière‐Tang",
+        "orcid": "https://orcid.org/0000-0002-9057-642X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-9057-642X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210123595",
+          "display_name": "Muséum national d'Histoire naturelle",
+          "ror": "https://ror.org/03wkt5x30",
+          "country_code": "FR",
+          "type": "archive",
+          "lineage": [
+            "https://openalex.org/I4210123595"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134697",
+          "display_name": "Éco-Anthropologie",
+          "ror": "https://ror.org/03x0yny97",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I204730241",
+            "https://openalex.org/I4210107625",
+            "https://openalex.org/I4210123595",
+            "https://openalex.org/I4210134697"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marc Allassonnière-Tang",
+      "raw_affiliation_strings": [
+        "Lab Eco-Anthropology UMR 7206, CNRS, National Museum of Natural History , Paris , France"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9057-642X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lab Eco-Anthropology UMR 7206, CNRS, National Museum of Natural History , Paris , France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210123595",
+            "https://openalex.org/I4210134697"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I177877127"
+  ],
+  "apc_list": {
+    "value": 2300,
+    "currency": "EUR",
+    "value_usd": 2489
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.04199238,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "77",
+    "issue": "1",
+    "first_page": "141",
+    "last_page": "188"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10034",
+    "display_name": "Syntax, Semantics, Linguistic Variation",
+    "score": 0.8784000277519226,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Syntax, Semantics, Linguistic Variation",
+      "score": 0.8784000277519226,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.09510000050067902,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12768",
+      "display_name": "Linguistics and language evolution",
+      "score": 0.004900000058114529,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/reflexive-constructions",
+      "display_name": "reflexive constructions",
+      "score": 0.9509999752044678
+    },
+    {
+      "id": "https://openalex.org/keywords/reflexive-markers",
+      "display_name": "reflexive markers",
+      "score": 0.8230000138282776
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-semantics",
+      "display_name": "emotion semantics",
+      "score": 0.5450000166893005
+    },
+    {
+      "id": "https://openalex.org/keywords/colexification",
+      "display_name": "colexification",
+      "score": 0.7770000100135803
+    },
+    {
+      "id": "https://openalex.org/keywords/lexical-borrowing",
+      "display_name": "lexical borrowing",
+      "score": 0.7369999885559082
+    },
+    {
+      "id": "https://openalex.org/keywords/european-languages",
+      "display_name": "European languages",
+      "score": 0.6729999780654907
+    },
+    {
+      "id": "https://openalex.org/keywords/self-assessment",
+      "display_name": "self-assessment",
+      "score": 0.5889999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/social-emotions",
+      "display_name": "social emotions",
+      "score": 0.5090000033378601
+    },
+    {
+      "id": "https://openalex.org/keywords/fear",
+      "display_name": "fear",
+      "score": 0.47600001096725464
+    },
+    {
+      "id": "https://openalex.org/keywords/anger",
+      "display_name": "anger",
+      "score": 0.7820000052452087
+    },
+    {
+      "id": "https://openalex.org/keywords/worry",
+      "display_name": "worry",
+      "score": 0.9660000205039978
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777532361",
+      "wikidata": "https://www.wikidata.org/wiki/Q687185",
+      "display_name": "Lexicalization",
+      "level": 2,
+      "score": 0.7172264456748962
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.6936766505241394
+    },
+    {
+      "id": "https://openalex.org/C13200473",
+      "wikidata": "https://www.wikidata.org/wiki/Q2747831",
+      "display_name": "Reflexivity",
+      "level": 2,
+      "score": 0.6499390602111816
+    },
+    {
+      "id": "https://openalex.org/C184337299",
+      "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+      "display_name": "Semantics (computer science)",
+      "level": 2,
+      "score": 0.5601050853729248
+    },
+    {
+      "id": "https://openalex.org/C122980154",
+      "wikidata": "https://www.wikidata.org/wiki/Q205555",
+      "display_name": "Feeling",
+      "level": 2,
+      "score": 0.48920726776123047
+    },
+    {
+      "id": "https://openalex.org/C2780876879",
+      "wikidata": "https://www.wikidata.org/wiki/Q3054749",
+      "display_name": "Meaning (existential)",
+      "level": 2,
+      "score": 0.47755274176597595
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.46594157814979553
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.3120313286781311
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.21964383125305176
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.15029838681221008
+    },
+    {
+      "id": "https://openalex.org/C19165224",
+      "wikidata": "https://www.wikidata.org/wiki/Q23404",
+      "display_name": "Anthropology",
+      "level": 1,
+      "score": 0.0974321961402893
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1515/stuf-2024-2003",
+      "doi": "https://doi.org/10.1515/stuf-2024-2003",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1515/stuf-2024-2003",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S159798926",
+        "display_name": "Language Typology and Universals",
+        "issn_l": "0942-2919",
+        "issn": [
+          "0942-2919",
+          "1867-8319",
+          "2196-7148"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-2",
+          "norway-1",
+          "poland-40",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310313990",
+        "host_organization_name": "De Gruyter",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "STUF - Language Typology and Universals",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-04629525v1",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://hal.science/hal-04629525",
+      "pdf_url": "https://hal.science/hal-04629525v1/file/draft_StephesonEtal_2024_STUF%20reflexemes.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I4405252976",
+        "host_organization_name": "Centre pour la Communication Scientifique Directe",
+        "host_organization_lineage": [
+          "https://openalex.org/I4405252976"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "STUF Language Typology and Universals , 2024, 77 (1), pp.141-188. &#x27E8;10.1515/stuf-2024-2003&#x27E9;",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-04625496v1",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://hal.science/hal-04625496",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I4405252976",
+        "host_organization_name": "Centre pour la Communication Scientifique Directe",
+        "host_organization_lineage": [
+          "https://openalex.org/I4405252976"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 1867-8319",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:HAL:hal-04629525v1",
+    "doi": null,
+    "is_oa": true,
+    "landing_page_url": "https://hal.science/hal-04629525",
+    "pdf_url": "https://hal.science/hal-04629525v1/file/draft_StephesonEtal_2024_STUF%20reflexemes.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306402512",
+      "display_name": "HAL",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I4405252976",
+      "host_organization_name": "Centre pour la Communication Scientifique Directe",
+      "host_organization_lineage": [
+        "https://openalex.org/I4405252976"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "STUF Language Typology and Universals , 2024, 77 (1), pp.141-188. &#x27E8;10.1515/stuf-2024-2003&#x27E9;",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4393882515.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4393882515.grobid-xml"
+  },
+  "referenced_works_count": 37,
+  "referenced_works": [
+    "https://openalex.org/W106197915",
+    "https://openalex.org/W147244882",
+    "https://openalex.org/W288841874",
+    "https://openalex.org/W615313980",
+    "https://openalex.org/W651037503",
+    "https://openalex.org/W1502001552",
+    "https://openalex.org/W1548868083",
+    "https://openalex.org/W1567569044",
+    "https://openalex.org/W1966797434",
+    "https://openalex.org/W1999376070",
+    "https://openalex.org/W2072174695",
+    "https://openalex.org/W2075166633",
+    "https://openalex.org/W2146459173",
+    "https://openalex.org/W2169122623",
+    "https://openalex.org/W2170866335",
+    "https://openalex.org/W2489855088",
+    "https://openalex.org/W2494506247",
+    "https://openalex.org/W2496723257",
+    "https://openalex.org/W2502605262",
+    "https://openalex.org/W2502916590",
+    "https://openalex.org/W2980131811",
+    "https://openalex.org/W3157669771",
+    "https://openalex.org/W3201020507",
+    "https://openalex.org/W3215211283",
+    "https://openalex.org/W4205565516",
+    "https://openalex.org/W4211258760",
+    "https://openalex.org/W4230914223",
+    "https://openalex.org/W4234310176",
+    "https://openalex.org/W4235910621",
+    "https://openalex.org/W4238452186",
+    "https://openalex.org/W4249726454",
+    "https://openalex.org/W4251350913",
+    "https://openalex.org/W4253866295",
+    "https://openalex.org/W4254909915",
+    "https://openalex.org/W4255938879",
+    "https://openalex.org/W4282966666",
+    "https://openalex.org/W4283160903"
+  ],
+  "related_works": [
+    "https://openalex.org/W2995057720",
+    "https://openalex.org/W6969205309",
+    "https://openalex.org/W6893041353",
+    "https://openalex.org/W2170668690",
+    "https://openalex.org/W6950077794",
+    "https://openalex.org/W2636327277",
+    "https://openalex.org/W7125706066",
+    "https://openalex.org/W2763964888",
+    "https://openalex.org/W7096093315",
+    "https://openalex.org/W4396706240"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "article": [
+      2
+    ],
+    "presents": [
+      3
+    ],
+    "the": [
+      4,
+      17,
+      41,
+      72,
+      102
+    ],
+    "first": [
+      5
+    ],
+    "study": [
+      6
+    ],
+    "on": [
+      7,
+      49,
+      88,
+      188
+    ],
+    "reflexive": [
+      8,
+      105,
+      196
+    ],
+    "expressions": [
+      9
+    ],
+    "having": [
+      10
+    ],
+    "lexicalized": [
+      11,
+      23
+    ],
+    "an": [
+      12,
+      186
+    ],
+    "emotional": [
+      13
+    ],
+    "meaning,": [
+      14
+    ],
+    "as": [
+      15
+    ],
+    "in": [
+      16,
+      30,
+      68
+    ],
+    "English": [
+      18
+    ],
+    "example": [
+      19
+    ],
+    "enjoy": [
+      20
+    ],
+    "oneself.": [
+      21
+    ],
+    "Such": [
+      22
+    ],
+    "forms,": [
+      24
+    ],
+    "which": [
+      25
+    ],
+    "we": [
+      26,
+      39,
+      93
+    ],
+    "call": [
+      27
+    ],
+    "‘reflexemes’,": [
+      28
+    ],
+    "occur": [
+      29
+    ],
+    "a": [
+      31,
+      50
+    ],
+    "number": [
+      32
+    ],
+    "of": [
+      33,
+      46,
+      52,
+      74,
+      104,
+      125,
+      164
+    ],
+    "genetically": [
+      34
+    ],
+    "unrelated": [
+      35
+    ],
+    "languages": [
+      36,
+      54,
+      81
+    ],
+    "worldwide.": [
+      37
+    ],
+    "Here": [
+      38
+    ],
+    "interrogate": [
+      40
+    ],
+    "cross-linguistic": [
+      42
+    ],
+    "distribution": [
+      43,
+      67,
+      173
+    ],
+    "and": [
+      44,
+      62,
+      115,
+      129,
+      149,
+      190
+    ],
+    "semantics": [
+      45
+    ],
+    "reflexemes,": [
+      47,
+      182
+    ],
+    "based": [
+      48
+    ],
+    "sample": [
+      51
+    ],
+    "58": [
+      53
+    ],
+    "from": [
+      55
+    ],
+    "6": [
+      56
+    ],
+    "genetic": [
+      57
+    ],
+    "groups": [
+      58
+    ],
+    "throughout": [
+      59
+    ],
+    "Europe,": [
+      60
+    ],
+    "Australia,": [
+      61
+    ],
+    "Asia.": [
+      63
+    ],
+    "Reflexemes": [
+      64
+    ],
+    "exhibit": [
+      65
+    ],
+    "uneven": [
+      66
+    ],
+    "this": [
+      69
+    ],
+    "sample.": [
+      70
+    ],
+    "Despite": [
+      71
+    ],
+    "presence": [
+      73
+    ],
+    "reflexemes": [
+      75,
+      126,
+      134
+    ],
+    "across": [
+      76,
+      138,
+      158
+    ],
+    "all": [
+      77
+    ],
+    "three": [
+      78
+    ],
+    "continents,": [
+      79
+    ],
+    "European": [
+      80,
+      121
+    ],
+    "generally": [
+      82
+    ],
+    "display": [
+      83
+    ],
+    "much": [
+      84
+    ],
+    "larger": [
+      85
+    ],
+    "inventories.": [
+      86
+    ],
+    "Based": [
+      87
+    ],
+    "our": [
+      89,
+      159
+    ],
+    "language": [
+      90
+    ],
+    "sample’s": [
+      91
+    ],
+    "contrasts,": [
+      92
+    ],
+    "hypothesize": [
+      94
+    ],
+    "that": [
+      95
+    ],
+    "these": [
+      96
+    ],
+    "disparities": [
+      97
+    ],
+    "could": [
+      98
+    ],
+    "be": [
+      99
+    ],
+    "driven": [
+      100
+    ],
+    "by:": [
+      101
+    ],
+    "form": [
+      103
+    ],
+    "markers;": [
+      106
+    ],
+    "their": [
+      107,
+      116
+    ],
+    "semantic": [
+      108,
+      168,
+      172
+    ],
+    "range,": [
+      109
+    ],
+    "including": [
+      110
+    ],
+    "colexifications": [
+      111
+    ],
+    "with": [
+      112,
+      118,
+      161,
+      185
+    ],
+    "anticausative": [
+      113
+    ],
+    "constructions;": [
+      114
+    ],
+    "longevity,": [
+      117
+    ],
+    "ancient,": [
+      119
+    ],
+    "cognate": [
+      120
+    ],
+    "markers": [
+      122
+    ],
+    "fostering": [
+      123
+    ],
+    "accumulation": [
+      124
+    ],
+    "via": [
+      127
+    ],
+    "inheritance": [
+      128
+    ],
+    "borrowing.": [
+      130
+    ],
+    "As": [
+      131
+    ],
+    "for": [
+      132
+    ],
+    "semantics,": [
+      133
+    ],
+    "target": [
+      135
+    ],
+    "comparable": [
+      136
+    ],
+    "emotions": [
+      137,
+      193
+    ],
+    "languages.": [
+      139
+    ],
+    "Specifically,": [
+      140
+    ],
+    "categories": [
+      141
+    ],
+    "labelled": [
+      142
+    ],
+    "‘Good": [
+      143
+    ],
+    "feelings’,": [
+      144
+    ],
+    "‘Anger’,": [
+      145
+    ],
+    "‘Worry’,": [
+      146
+    ],
+    "‘Bad": [
+      147
+    ],
+    "feelings’": [
+      148
+    ],
+    "‘Fear’": [
+      150
+    ],
+    "are": [
+      151
+    ],
+    "consistently": [
+      152
+    ],
+    "most": [
+      153
+    ],
+    "prevalent.": [
+      154
+    ],
+    "These": [
+      155
+    ],
+    "tendencies": [
+      156,
+      178
+    ],
+    "apply": [
+      157
+    ],
+    "sample,": [
+      160
+    ],
+    "no": [
+      162
+    ],
+    "sign": [
+      163
+    ],
+    "family-": [
+      165
+    ],
+    "or": [
+      166
+    ],
+    "continent-specific": [
+      167
+    ],
+    "tendency.": [
+      169
+    ],
+    "The": [
+      170
+    ],
+    "observed": [
+      171
+    ],
+    "may": [
+      174
+    ],
+    "reflect": [
+      175
+    ],
+    "universal": [
+      176
+    ],
+    "lexicalization": [
+      177
+    ],
+    "not": [
+      179
+    ],
+    "specific": [
+      180
+    ],
+    "to": [
+      181
+    ],
+    "perhaps": [
+      183
+    ],
+    "combined": [
+      184
+    ],
+    "emphasis": [
+      187
+    ],
+    "self-evaluation": [
+      189
+    ],
+    "other": [
+      191
+    ],
+    "social": [
+      192
+    ],
+    "imparted": [
+      194
+    ],
+    "by": [
+      195
+    ],
+    "semantics.": [
+      197
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2024-04-04T00:00:00"
+}

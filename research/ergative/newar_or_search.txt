@@ -1,0 +1,2275 @@
+{
+  "id" : null,
+  "scope" : null,
+  "query" : "Hargreaves",
+  "appliedFilters" : null,
+  "sort" : null,
+  "configuration" : null,
+  "type" : "discover",
+  "_links" : {
+    "self" : {
+      "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves"
+    }
+  },
+  "_embedded" : {
+    "searchResult" : {
+      "_embedded" : {
+        "objects" : [ {
+          "hitHighlights" : {
+            "dc.contributor.author" : [ " Hargreaves , David J., 1955-" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "db93f6a8-664e-4365-b92b-a44f9e35b692",
+              "uuid" : "db93f6a8-664e-4365-b92b-a44f9e35b692",
+              "name" : "The concept of intentional action in the grammar of Kathmandu Newari",
+              "handle" : "1794/3088",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Hargreaves, David J., 1955-",
+                  "language" : "en_US",
+                  "authority" : "1c984911-bd97-48fc-afd3-c8443be66c6e",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2008-02-10T02:58:06Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2008-02-10T02:58:06Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1991-08",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "xi, 222 p.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "A print copy of this title is available through the UO Libraries under the call number: KNIGHT PL3801.N5 H37 1991",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "This study describes the relationship between the concept of intentional action and the grammatical organization of the clause in\r\nKathmandu Newari, a Tibeto-Burman language spoken primarily in the Kathmandu valley of Nepal. In particular, the study focuses on the conceptual structure of \"intentional action\" along with the lexical, morphological, and syntactic reflexes of this notion in situated speech. The construal of intentional action consists of two distinct notions : one involving the concept of self-initiated force and the other involving mental representation or awareness. The distribution of finite inflectional forms for verbs results from the interaction of these two notions with a set of evidential/discourse principles which constrain the attribution of intentional action to certain discourse roles in\r\nsituated interaction .",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.sponsorship" : [ {
+                  "value" : "Advisor: Dr. Scott Delancey",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.extent" : [ {
+                  "value" : "328079 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "2272 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "7609178 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "1888 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.format.mimetype" : [ {
+                  "value" : "text/plain",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "text/plain",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "application/pdf",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "text/plain",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/3088",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.relation.ispartofseries" : [ {
+                  "value" : "University of Oregon theses, Dept. of Linguistics, Ph.D., 1991",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Newari language -- Grammar",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Newar linguistics",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Intentionality",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Tibeto-Burman languages",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Evidentiality",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Semantics",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Cognitive linguistics",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Functional linguistics",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                } ],
+                "dc.title" : [ {
+                  "value" : "The concept of intentional action in the grammar of Kathmandu Newari",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-27T06:37:45.271Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/db93f6a8-664e-4365-b92b-a44f9e35b692"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "ad479b9f-8100-470b-baa3-4a70c136d005",
+              "uuid" : "ad479b9f-8100-470b-baa3-4a70c136d005",
+              "name" : "OIMB Term Photo: Summer 1969",
+              "handle" : "1794/5935",
+              "metadata" : {
+                "dc.date.accessioned" : [ {
+                  "value" : "2008-04-21T17:40:48Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2008-04-21T17:40:48Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1969",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Summer 1969\r\nBack Row: Dr. Rudy, Chip Hogue, Jack Gallagher, Roger Wagner, Dave Sayer, Phil Koneeny, Rich Donham, Jean Hanna, Dorothy Barker, Marc Richter, Kim Larson, John Caldwell, Charles Fritz, Rich Knecks, George Loeb, Bruce Matheson, Lang Elliott, Dave Bare, Richard Luce, Dr. Oglesby.\r\n\r\nMiddle Row: Ron Larson, Dr. Cather, Chuck Hunter, Mike Cary, Vance Lawry, Frank Bowen, Bruce Hargreaves, Robert Behrstock, Frank Darytichen, Rick Biss, Karen Baldridge, Mike Coriden, Tom Danforth, Steve Greening, Harry Orr.\r\n\r\nFront Row: Regina Link, Joan Wozniak, Sharon Northby, Ernie Rezents, Laura Lippman, Chris Moffitt, Lee Porch, Barb Abraham, Mary Gillies, Bobbie Horvath, Kathie Hartwell, Gloria Weinstein, Melanie McAnally, Dennis Cunningham, Dick Loe.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.extent" : [ {
+                  "value" : "1104450 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.mimetype" : [ {
+                  "value" : "application/pdf",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.citation" : [ {
+                  "value" : "OIMB Term Photo: Summer 1969",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/5935",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Oregon Institute of Marine Biology",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.relation.ispartofseries" : [ {
+                  "value" : "OIMB Term Photos",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "OIMB",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Summer 1969 -- OIMB",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Class photo -- OIMB",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Oregon Institute of Marine Biology -- Students",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "OIMB Term Photo: Summer 1969",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Image",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T22:33:49.030Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/ad479b9f-8100-470b-baa3-4a70c136d005"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "b1a4bf76-670a-460b-a35e-a26ab3be1bc6",
+              "uuid" : "b1a4bf76-670a-460b-a35e-a26ab3be1bc6",
+              "name" : "Eastbank Community Church: Making and Healing Community",
+              "handle" : "1794/17975",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Gast, Gerry",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Meller, Espirito",
+                  "language" : "",
+                  "authority" : "0477aad6-467d-41a7-a564-8dcdd26e0730",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2014-08-05T19:04:57Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2014-08-05T19:04:57Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2014",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Project consists of three files in PDF format. 99 page Thesis, 45 page Research & Programming document, and Final Studio Boards in three pages.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The Central Eastbank Waterfront is a unique opportunity to restore a healthy river-based lifestyle to a major city. The district should be river in character, not only location. The new image of Portland is a bustling, riverside creative industrial district where people live, work, and recreate; built at a human scale; with a healthy Willamette riverbank in the foreground and Mount Hood in the background. Portland's Eastbank District is an amazing healthy riverfront with robust water recreation and access, where you can play in the water and catch a salmon on your bike or kayak ride home...all the while being within a stone's throw of the downtown commercial core. The vision will be enabled by new zoning and development policy that makes medium scale mixed-use (industrial/commercial/residential) development financially accessible and required.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/17975",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All rights reserved",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Portland (Or.)",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Willamette River",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Eastbank Church",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Urban design",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Regeneration",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Mixed-use developments",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "Eastbank Community Church: Making and Healing Community",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Terminal Project",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T23:09:05.584Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b1a4bf76-670a-460b-a35e-a26ab3be1bc6"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "246fd0d8-4194-4fc6-a072-aa16765caf02",
+              "uuid" : "246fd0d8-4194-4fc6-a072-aa16765caf02",
+              "name" : "Perceptions of Quality and Level of Familiarity of Marches among High School Band Directors",
+              "handle" : "1794/24953",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Silveira, Jason",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Eason, Laura",
+                  "language" : "",
+                  "authority" : "7dc48956-765c-47f6-b9e1-2bc2120bb8ae",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2019-09-18T19:32:37Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2019-09-18T19:32:37Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2019-09-18",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The main purpose of this study was to investigate a possible correlation between high school band directors’ familiarity with selected marches and their perceptions of quality of the selected works. Band directors who chose to participate in this study (N = 288) were asked to indicate their familiarity with and perceptions of six selected marches using a Likert-type scale. In conjunction with a quantitative assessment, participants were also asked to report the criteria they consider when selecting marches for their program. Using Pearson’s Product-Moment Correlation Coefficient as an analytic method, the researcher was able to determine that there was a moderate positive correlation between the two variables. Additionally, the researcher was able to determine through Consensual Qualitative Research (CQR) that while familiarity with the work or composer and the quality of the composition were considered in the selection process, the priority for most participants was suitability and educational value.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/24953",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved.",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Band",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Familiarity",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "March",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Marches",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Perception",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Quality",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "Perceptions of Quality and Level of Familiarity of Marches among High School Band Directors",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Electronic Thesis or Dissertation",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "School of Music and Dance",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "masters",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "M.M.",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:09:48.455Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/246fd0d8-4194-4fc6-a072-aa16765caf02"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "07666e8a-9410-40c3-8223-1cf8ed811813",
+              "uuid" : "07666e8a-9410-40c3-8223-1cf8ed811813",
+              "name" : "Let's see a show of hands: How participation in school reform affects teachers' work",
+              "handle" : "1794/10366",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Olszewski, Brandon Troy, 1978-",
+                  "language" : null,
+                  "authority" : "d9634146-a23a-45c9-8b2c-c568d4eb681c",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2010-05-14T23:21:19Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2010-05-14T23:21:19Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2009-06",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "xv, 224 p. : ill.   A print copy of this thesis is available through the UO Libraries. Search the library catalog for the location and call number.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Arguably, the most popular current in school reform today is around \"small schools\". Small schools reforms are predicated on a body of research that suggests students learn better in smaller schools--or, schools of about 400 students or less--rather than large, \"comprehensive\" high schools. While existing studies of these reforms highlight the benefits for students and the challenges associated with school restructuring, they avoid a frank discussion of how school change affects teachers. Further, these studies fail to address how the politics of change affect prospects for sustainable success. This project redirects the focus of school reform research back towards teachers' work and the importance of democratic teacher participation via an examination of the Oregon Small Schools Initiative, an Oregon-based small schools reform. Using original survey and interview data, I examine how the politics of reform mediate the effects of school conversion on teachers' work. My data suggest that teachers from schools that engaged in a democratic change process fared better than their peers from schools where change was implemented in a more authoritarian fashion. I found that the relationship between politics and work is largely based on that fact that, in democratic schools, teachers had more power and voice regarding school conversion, and school administrators were more likely to listen to and incorporate teachers' feedback into the restructuring process. By viewing teacher criticism as constructive input--as opposed to simply \"resistance\"--personnel from democratic schools were better able to decide upon a locally appropriate model of reform that fit the needs of both their teachers and students.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.sponsorship" : [ {
+                  "value" : "Committee in charge: Caleb Southworth, Chairperson, Sociology;\r\nKenneth Liberman, Member, Sociology;\r\nRobert O Brien, Member, Sociology;\r\nK Brigid Flannery, Outside Member, Special Education and Clinical Sciences",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/10366",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.relation.ispartofseries" : [ {
+                  "value" : "University of Oregon theses, Dept. of Sociology, Ph. D., 2009;",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Teacher's work",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Collegiality",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Small schools",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "School reform",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Educational sociology",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "School administration",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Secondary education",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Labor relations",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "Educational change",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "Education, Secondary",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                } ],
+                "dc.title" : [ {
+                  "value" : "Let's see a show of hands: How participation in school reform affects teachers' work",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-25T15:46:09.554Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/07666e8a-9410-40c3-8223-1cf8ed811813"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9",
+              "uuid" : "5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9",
+              "name" : "A Process-Based Landscape Approach to Landform Architecture",
+              "handle" : "1794/31570",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Eischeid, Mark",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Volynets, Iryna",
+                  "language" : null,
+                  "authority" : "693ad3db-4bff-46a2-a4d6-252c1da5ae4b",
+                  "confidence" : 0,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-08-22T20:52:49Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2025-08-22",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Landform architecture treats buildings as topographically continuous with their sites. Despite the growing interest in landform architecture among practitioners and scholars in the last few decades, a large gap between the broad concept and its application in design still exists. The current theory focuses on building aesthetics and uses natural landforms as a source of architectural metaphor. Design solutions are influenced by intuitive attempts to reconnect landscape and architecture and are focused on a form-based approach that ignores or fails to address landscape processes. This research proposes to expand the existing theory and practice by acknowledging landscape as a dynamic system to design buildings that not only look like landscapes, but function as landscapes. The purpose of this research is to develop a strategy that identifies site-specific landscape processes to design landform buildings. By engaging the potential agency of landforms to impact natural systems, landform architecture can play a significant role in addressing climate-related issues and urban growth challenges.To address gaps in research and practice, as well as expand existing theory, the dissertation will critique existing landform architecture theory, offer a landscape approach to landform architecture, and propose a process for designing resilient buildings. The project is divided into three stages: (1) review of the existing state of theory and practice through literature review and case study analysis; (2) development of a theoretical approach to design landform architecture through comparative analysis, classification, 3D modeling, and simulations; and (3) tests of the theoretical approach through design experimentation.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/31570",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "design framework",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "environmental processes",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "landform",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "landform architecture",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "research through design",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "simulation",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "A Process-Based Landscape Approach to Landform Architecture",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Dissertation or thesis",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "Department of Landscape Architecture",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "doctoral",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "Ph.D.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:05:39.252Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/5cf1ae9f-0e97-4a14-b4d5-ebfba106f0f9"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "504d2f12-965b-4821-9b7c-a98a38813422",
+              "uuid" : "504d2f12-965b-4821-9b7c-a98a38813422",
+              "name" : "Facilitative Leadership",
+              "handle" : "1794/3317",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "ERIC Clearinghouse on Educational Management",
+                  "language" : null,
+                  "authority" : "9c4e4f3d-4f1e-4f2d-a371-2c179673813a",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2006-09-22T19:28:11Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2006-09-22T19:28:11Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1995-04",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "4 p.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "A microfiche version of this title is available through the UO Libraries under the call number: DOC-US/MF ED 1.310/2:381851",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.format.extent" : [ {
+                  "value" : "16829 bytes",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.mimetype" : [ {
+                  "value" : "application/pdf",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/3317",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Eugene, OR : ERIC Clearinghouse on Educational Management, College of Education, University of Oregon",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.relation.ispartofseries" : [ {
+                  "value" : "ERIC digest (ERIC Clearinghouse on Educational Management) ; no. 96",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Administrative responsibility",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Educational leadership",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.title" : [ {
+                  "value" : "Facilitative Leadership",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T06:04:01.960Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/504d2f12-965b-4821-9b7c-a98a38813422"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "a895c82f-fcc8-4f4b-a895-cd333a0e03bf",
+              "uuid" : "a895c82f-fcc8-4f4b-a895-cd333a0e03bf",
+              "name" : "Communication, Collaboration, and Concern Between Elementary School Teachers: Unlocking the Positive Potential of Conflict",
+              "handle" : "1794/19250",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Tippett, Elizabeth",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Bennett, Carrie",
+                  "language" : "",
+                  "authority" : "871cd7c6-a96c-406d-bdb6-78d355d4225d",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2015-08-18T23:02:19Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2015-08-18T23:02:19Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2015-08-18",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Collaboration is touted as a solution to modern challenges in education, but the difficulties of establishing truly collaborative communities are many. From a conflict-resolution lens, collaboration requires both assertiveness and cooperation (high preference for both completing tasks and maintaining relationships).  This study uses surveys and interviews to explore the ways that teachers balance task and relationship orientations in resolving conflict between themselves and the impact that teachers’ behaviors while in conflict have on collaboration. Specifically, this study examines the role that trust, relationships, and process norms play in encouraging collaborative behaviors.  Results suggest that teachers’ perceived ineffectiveness with conflict resolution and the fear of damaging relationships discourage open communication.  Consequently, focusing on trust and relationship building does little to promote authentically collaborative exchanges.  Instead, the perception of available time and a familiar process for raising concerns with colleagues are more likely to promote open communication and more authentic collaboration.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/19250",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Collaboration",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Conflict avoidance",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Conflict resolution",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Elementary teachers",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "PLC",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Professional Learning Communities",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "Communication, Collaboration, and Concern Between Elementary School Teachers: Unlocking the Positive Potential of Conflict",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Electronic Thesis or Dissertation",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "Conflict and Dispute Resolution Program",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "masters",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "M.S.",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:12:50.892Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a895c82f-fcc8-4f4b-a895-cd333a0e03bf"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "d85ef812-b013-4181-871b-768ed6896a60",
+              "uuid" : "d85ef812-b013-4181-871b-768ed6896a60",
+              "name" : "Danger and Devotion: Hariti, Mother of Demons in the Stories and Stones of Gandhara, A Historiography and Catalogue of Images",
+              "handle" : "1794/12929",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Rowan, Jennifer Gilmanton",
+                  "language" : null,
+                  "authority" : "3387635d-530b-4681-a921-e1af84792699",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2013-06-21T22:33:50Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2013-06-21T22:33:50Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2002-06",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "373 pages",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The sculptural images of Hariti document the synergistic character of Gandharan\r\nart, religion and society during the Kushan period (first to fifth centuries C. E.). This thesis\r\nestablishes a comprehensive historical, religious and cultural context for sculptural\r\nrepresentation in Gandhara and the emergence of a distinctive Gandharan style. It is\r\ndesigned to consolidate Hariti's extant images and to review and re-evaluate their\r\niconography and historic identifications. It includes a Catalogue of images of Hariti and\r\nrelated Gandharan deities and provides translations of Buddhist texts relating the story\r\nof the Mother of Demons. In addition, Hariti's mythology is examined for evidence of the\r\nshifting dynamics of authority, orthodoxy and gender within the traditions of Brahmanism\r\nand early Buddhism.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/12929",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "rights_reserved",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Danger and Devotion: Hariti, Mother of Demons in the Stories and Stones of Gandhara, A Historiography and Catalogue of Images",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-27T06:07:19.820Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d85ef812-b013-4181-871b-768ed6896a60"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : null,
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "998e564c-c62d-43a0-a04c-7966ee3d6252",
+              "uuid" : "998e564c-c62d-43a0-a04c-7966ee3d6252",
+              "name" : "An Oregon Research-Practice Partnership: A Multiple Case Study of the First Two Years of Implementation across Four Oregon High Schools",
+              "handle" : "1794/27612",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Biancarosa, Gina",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Joye, Solaris",
+                  "language" : "",
+                  "authority" : "086ed5e8-3be6-448d-bfd3-f2c8166f7c7a",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2022-10-04T19:42:16Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2022-10-04T19:42:16Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2022-10-04",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "School systems across the country, like those in Oregon, continually attempt to improve their students’ academic outcomes. Unfortunately, these costly efforts often fail to create lasting change. One factor in many of these failed improvement efforts is the lack of successfully implementing research-based practices (RBPs) at state and local levels. This phenomenon is often characterized as implementation failure. In the context of public K12 education, implementation failure often stems from a lack of knowledge about RBPs and a lack of capacity to implement them. While university-based school partnerships have long existed, these partnerships have more recently been formed to address this specific research to practice gap regarding the improvement of student outcomes.The Oregon Research Practice Partnership (ORPP) was established in 2017, with the goal of improving high school graduation rates across Oregon by helping to close this gap and help schools successfully implement RBPs to improve student outcomes. The purpose of this study was to assess initial implementation of ORPP to understand its early-phase processes to determine its level of fidelity with original goals and to gain insight into how future efforts can strengthen similar partnerships and bolster their outcomes in companion schools. This study includes a convergent mixed method design, examining school partner perceptions of the ORPP model. Results indicated that numerous implementation challenges existed early in the life of ORPP, which would require numerous adaptations for outputs to be more effective. Lessons are learned from these challenges that may help other similar partnerships in early phase implementation.\nLessons include the need for early identification and adoption of an integrated implementation framework to guide initial partnership development. Framework adoption should include identification of implementation drivers, a process to ensure proper model fit for schools and their needs, and a clear mechanism to successfully transfer knowledge for sustained adoption by school partners. Defined training guidelines and role definition for all partners, which vertically align with district vision and goals, should be in place. Lastly, model fidelity measures need to be in place from the start.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/27612",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved.",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Implementation Outcomes",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Research-practice partnerships",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "School Improvement",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "University school partnerships",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "An Oregon Research-Practice Partnership: A Multiple Case Study of the First Two Years of Implementation across Four Oregon High Schools",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Electronic Thesis or Dissertation",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "Department of Educational Methodology, Policy, and Leadership",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "doctoral",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "D.Ed.",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:12:27.772Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/998e564c-c62d-43a0-a04c-7966ee3d6252"
+                }
+              }
+            }
+          }
+        } ]
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 10,
+        "totalPages" : 11,
+        "totalElements" : 102
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&page=1&size=10"
+        },
+        "last" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&page=10&size=10"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&size=10"
+        }
+      }
+    },
+    "facets" : [ {
+      "name" : "author",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "minValue" : "2.ink Studio",
+      "maxValue" : "Zyskind, Karen",
+      "openByDefault" : true,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/author?query=Hargreaves&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/author?query=Hargreaves&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "ERIC Clearinghouse on Educational Management",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.author=ERIC%20Clearinghouse%20on%20Educational%20Management,equals"
+            }
+          }
+        }, {
+          "label" : "Hoff, Isabel",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.author=Hoff,%20Isabel,equals"
+            }
+          }
+        }, {
+          "label" : "Kotovsky, Lindsay",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.author=Kotovsky,%20Lindsay,equals"
+            }
+          }
+        }, {
+          "label" : "Larco, Nico",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.author=Larco,%20Nico,equals"
+            }
+          }
+        }, {
+          "label" : "University of Oregon. School of Law",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.author=University%20of%20Oregon.%20School%20of%20Law,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "subject",
+      "facetType" : "hierarchical",
+      "facetLimit" : 5,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=Hargreaves&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=Hargreaves&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "College yearbooks -- Oregon -- Eugene",
+          "count" : 5,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.subject=College%20yearbooks%20--%20Oregon%20--%20Eugene,equals"
+            }
+          }
+        }, {
+          "label" : "University of Oregon -- Students -- Yearbooks",
+          "count" : 5,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.subject=University%20of%20Oregon%20--%20Students%20--%20Yearbooks,equals"
+            }
+          }
+        }, {
+          "label" : "School administration",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.subject=School%20administration,equals"
+            }
+          }
+        }, {
+          "label" : "University of Oregon -- Awards",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.subject=University%20of%20Oregon%20--%20Awards,equals"
+            }
+          }
+        }, {
+          "label" : "University of Oregon -- Degrees",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.subject=University%20of%20Oregon%20--%20Degrees,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "dateIssued",
+      "facetType" : "date",
+      "facetLimit" : 5,
+      "minValue" : "0000",
+      "maxValue" : "Spring 2026",
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/dateIssued?query=Hargreaves&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "1890 - 1919",
+          "count" : 3,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.dateIssued=%5B1890%20TO%201919%5D,equals"
+            }
+          }
+        }, {
+          "label" : "1920 - 1949",
+          "count" : 25,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.dateIssued=%5B1920%20TO%201949%5D,equals"
+            }
+          }
+        }, {
+          "label" : "1950 - 1979",
+          "count" : 7,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.dateIssued=%5B1950%20TO%201979%5D,equals"
+            }
+          }
+        }, {
+          "label" : "1980 - 2009",
+          "count" : 23,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.dateIssued=%5B1980%20TO%202009%5D,equals"
+            }
+          }
+        }, {
+          "label" : "2010 - 2027",
+          "count" : 44,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.dateIssued=%5B2010%20TO%202027%5D,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "has_content_in_original_bundle",
+      "facetType" : "standard",
+      "facetLimit" : 2,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 2
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/has_content_in_original_bundle?query=Hargreaves&size=2"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "true",
+          "count" : 102,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.has_content_in_original_bundle=true,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "entityType",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "openByDefault" : false,
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/entityType?query=Hargreaves"
+        }
+      },
+      "_embedded" : {
+        "values" : [ ]
+      }
+    }, {
+      "name" : "access_status",
+      "facetType" : "text",
+      "facetLimit" : 10,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 10
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/access_status?query=Hargreaves&size=10"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "open.access",
+          "count" : 101,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.access_status=open.access,equals"
+            }
+          }
+        }, {
+          "label" : "embargo",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Hargreaves&f.access_status=embargo,equals"
+            }
+          }
+        } ]
+      }
+    } ]
+  }
+}

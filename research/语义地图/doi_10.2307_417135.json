@@ -1,0 +1,1135 @@
+{
+  "id": "https://openalex.org/W1976599083",
+  "doi": "https://doi.org/10.2307/417135",
+  "title": "In the Mind's Ear: The Semantic Extensions of Perception Verbs in Australian Languages",
+  "display_name": "In the Mind's Ear: The Semantic Extensions of Perception Verbs in Australian Languages",
+  "publication_year": 2000,
+  "publication_date": "2000-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1976599083",
+    "doi": "https://doi.org/10.2307/417135",
+    "mag": "1976599083"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2307/417135",
+    "doi": "https://doi.org/10.2307/417135",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.2307/417135",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S176347361",
+      "display_name": "Language",
+      "issn_l": "0097-8507",
+      "issn": [
+        "0097-8507",
+        "1535-0665"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310316359",
+      "host_organization_name": "Linguistic Society of America",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310316359"
+      ],
+      "host_organization_lineage_names": [
+        "Linguistic Society of America"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Language",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5087837333",
+        "display_name": "Nicholas Evans",
+        "orcid": "https://orcid.org/0000-0003-0893-3713",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0893-3713"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Nicholas Evans",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5017329210",
+        "display_name": "David P. Wilkins",
+        "orcid": "https://orcid.org/0000-0001-9079-3232",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-9079-3232"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "David Wilkins",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.2313,
+  "has_fulltext": false,
+  "cited_by_count": 928,
+  "citation_normalized_percentile": {
+    "value": 0.90316978,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "76",
+    "issue": "3",
+    "first_page": "546",
+    "last_page": "592"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12694",
+    "display_name": "Categorization, perception, and language",
+    "score": 0.9276999831199646,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.9276999831199646,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13705",
+      "display_name": "Australian Indigenous Culture and History",
+      "score": 0.053599998354911804,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.014000000432133675,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/perception-verbs",
+      "display_name": "perception verbs",
+      "score": 0.9860000014305115
+    },
+    {
+      "id": "https://openalex.org/keywords/semantic-extension",
+      "display_name": "semantic extension",
+      "score": 0.9620000123977661
+    },
+    {
+      "id": "https://openalex.org/keywords/polysemy",
+      "display_name": "polysemy",
+      "score": 0.9829999804496765
+    },
+    {
+      "id": "https://openalex.org/keywords/australian-aboriginal-languages",
+      "display_name": "Aboriginal Australian languages",
+      "score": 0.7070000171661377
+    },
+    {
+      "id": "https://openalex.org/keywords/cultural-variability",
+      "display_name": "cultural variability",
+      "score": 0.652999997138977
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.6193746328353882
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.605357825756073
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.47687727212905884
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.18812042474746704
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.2307/417135",
+      "doi": "https://doi.org/10.2307/417135",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.2307/417135",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S176347361",
+        "display_name": "Language",
+        "issn_l": "0097-8507",
+        "issn": [
+          "0097-8507",
+          "1535-0665"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316359",
+        "host_organization_name": "Linguistic Society of America",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316359"
+        ],
+        "host_organization_lineage_names": [
+          "Linguistic Society of America"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Language",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:edoc.mpg.de:240848",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://edoc.mpg.de/240848",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4406922265",
+        "display_name": "Max Planck Institute for Plasma Physics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Language, v.76, 546-592 (2000)",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 72,
+  "referenced_works": [
+    "https://openalex.org/W39844132",
+    "https://openalex.org/W57684679",
+    "https://openalex.org/W87580586",
+    "https://openalex.org/W147244882",
+    "https://openalex.org/W173802895",
+    "https://openalex.org/W188019563",
+    "https://openalex.org/W374913197",
+    "https://openalex.org/W391641911",
+    "https://openalex.org/W431882579",
+    "https://openalex.org/W432500711",
+    "https://openalex.org/W574423305",
+    "https://openalex.org/W587886734",
+    "https://openalex.org/W590511346",
+    "https://openalex.org/W625720541",
+    "https://openalex.org/W641245354",
+    "https://openalex.org/W641820145",
+    "https://openalex.org/W758623785",
+    "https://openalex.org/W1498309947",
+    "https://openalex.org/W1517744545",
+    "https://openalex.org/W1531285035",
+    "https://openalex.org/W1552336094",
+    "https://openalex.org/W1559258146",
+    "https://openalex.org/W1576116650",
+    "https://openalex.org/W1587992405",
+    "https://openalex.org/W1605245699",
+    "https://openalex.org/W1609497467",
+    "https://openalex.org/W1640990130",
+    "https://openalex.org/W1958861407",
+    "https://openalex.org/W1967242057",
+    "https://openalex.org/W1974689608",
+    "https://openalex.org/W1975658124",
+    "https://openalex.org/W1976767568",
+    "https://openalex.org/W1989053096",
+    "https://openalex.org/W1994662689",
+    "https://openalex.org/W1995062779",
+    "https://openalex.org/W2003004949",
+    "https://openalex.org/W2008221071",
+    "https://openalex.org/W2021684521",
+    "https://openalex.org/W2022325188",
+    "https://openalex.org/W2024543348",
+    "https://openalex.org/W2031508092",
+    "https://openalex.org/W2040484566",
+    "https://openalex.org/W2045403074",
+    "https://openalex.org/W2046662865",
+    "https://openalex.org/W2051051198",
+    "https://openalex.org/W2052417512",
+    "https://openalex.org/W2054289114",
+    "https://openalex.org/W2068524460",
+    "https://openalex.org/W2085218445",
+    "https://openalex.org/W2092418309",
+    "https://openalex.org/W2097850697",
+    "https://openalex.org/W2099228963",
+    "https://openalex.org/W2140358605",
+    "https://openalex.org/W2146075716",
+    "https://openalex.org/W2284662665",
+    "https://openalex.org/W2332450325",
+    "https://openalex.org/W2476318474",
+    "https://openalex.org/W2488626340",
+    "https://openalex.org/W2505791217",
+    "https://openalex.org/W2506598838",
+    "https://openalex.org/W2516229658",
+    "https://openalex.org/W2797189072",
+    "https://openalex.org/W2800028378",
+    "https://openalex.org/W3134218727",
+    "https://openalex.org/W4210619526",
+    "https://openalex.org/W4236192903",
+    "https://openalex.org/W4246917851",
+    "https://openalex.org/W4248812751",
+    "https://openalex.org/W4251880587",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4301199363",
+    "https://openalex.org/W4301496027"
+  ],
+  "related_works": [
+    "https://openalex.org/W7048764465",
+    "https://openalex.org/W6992025970",
+    "https://openalex.org/W3170455920",
+    "https://openalex.org/W2885565116",
+    "https://openalex.org/W1922552590",
+    "https://openalex.org/W4392768539",
+    "https://openalex.org/W289354213",
+    "https://openalex.org/W2266884515",
+    "https://openalex.org/W7097151961",
+    "https://openalex.org/W2095436077"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "article": [
+      1
+    ],
+    "tests": [
+      2
+    ],
+    "earlier": [
+      3
+    ],
+    "claims": [
+      4
+    ],
+    "about": [
+      5
+    ],
+    "the": [
+      6,
+      16,
+      72,
+      94,
+      138,
+      140,
+      201,
+      235
+    ],
+    "universality": [
+      7
+    ],
+    "of": [
+      8,
+      10,
+      18,
+      29,
+      45,
+      74,
+      99,
+      142,
+      161,
+      237
+    ],
+    "patterns": [
+      9
+    ],
+    "polysemy": [
+      11
+    ],
+    "and": [
+      12,
+      105,
+      109,
+      165,
+      209,
+      217,
+      222,
+      231,
+      244
+    ],
+    "semantic": [
+      13,
+      186,
+      196,
+      203
+    ],
+    "extension": [
+      14,
+      46,
+      73,
+      236
+    ],
+    "in": [
+      15,
+      215,
+      220,
+      246
+    ],
+    "domain": [
+      17,
+      204
+    ],
+    "perception": [
+      19,
+      75,
+      181
+    ],
+    "verbs.": [
+      20
+    ],
+    "Utilizing": [
+      21
+    ],
+    "data": [
+      22
+    ],
+    "from": [
+      23,
+      47,
+      96,
+      167,
+      171,
+      266
+    ],
+    "a": [
+      24,
+      213,
+      218
+    ],
+    "broad": [
+      25
+    ],
+    "range": [
+      26
+    ],
+    "(approx.": [
+      27
+    ],
+    "60)": [
+      28
+    ],
+    "Australian": [
+      30,
+      144,
+      157,
+      247
+    ],
+    "languages,": [
+      31
+    ],
+    "we": [
+      32
+    ],
+    "address": [
+      33
+    ],
+    "two": [
+      34
+    ],
+    "hypothesized": [
+      35,
+      62
+    ],
+    "universals.": [
+      36
+    ],
+    "The": [
+      37,
+      60
+    ],
+    "first": [
+      38
+    ],
+    "is": [
+      39,
+      64,
+      154
+    ],
+    "Viberg's": [
+      40,
+      148
+    ],
+    "(1984)": [
+      41
+    ],
+    "proposed": [
+      42
+    ],
+    "unidirectional": [
+      43
+    ],
+    "pattern": [
+      44
+    ],
+    "higher": [
+      48,
+      100
+    ],
+    "to": [
+      49,
+      77,
+      125,
+      135,
+      190,
+      242
+    ],
+    "lower": [
+      50
+    ],
+    "sensory": [
+      51
+    ],
+    "modalities": [
+      52
+    ],
+    "(i.e.": [
+      53,
+      80
+    ],
+    "intrafield": [
+      54,
+      195
+    ],
+    "extensions,": [
+      55,
+      82
+    ],
+    "like": [
+      56,
+      83,
+      163
+    ],
+    "‘see’": [
+      57
+    ],
+    ">": [
+      58,
+      85
+    ],
+    "'hear').": [
+      59
+    ],
+    "second": [
+      61
+    ],
+    "universal": [
+      63,
+      208
+    ],
+    "that": [
+      65,
+      89,
+      111,
+      147,
+      200,
+      226
+    ],
+    "put": [
+      66
+    ],
+    "forward": [
+      67
+    ],
+    "by": [
+      68,
+      224
+    ],
+    "Sweetser": [
+      69
+    ],
+    "(1990)": [
+      70
+    ],
+    "regarding": [
+      71
+    ],
+    "verbs": [
+      76,
+      98,
+      112,
+      160,
+      182
+    ],
+    "cognition": [
+      78,
+      162
+    ],
+    "readings": [
+      79
+    ],
+    "transfield": [
+      81,
+      185
+    ],
+    "'see'": [
+      84
+    ],
+    "'know').": [
+      86
+    ],
+    "She": [
+      87
+    ],
+    "suggests": [
+      88
+    ],
+    "vision": [
+      90,
+      136
+    ],
+    "has": [
+      91
+    ],
+    "primacy": [
+      92,
+      134
+    ],
+    "as": [
+      93,
+      103,
+      178,
+      180
+    ],
+    "modality": [
+      95
+    ],
+    "which": [
+      97
+    ],
+    "intellection,": [
+      101
+    ],
+    "such": [
+      102
+    ],
+    "'knowing'": [
+      104
+    ],
+    "‘thinking’,": [
+      106
+    ],
+    "are": [
+      107,
+      183,
+      188,
+      228
+    ],
+    "recruited,": [
+      108
+    ],
+    "proposes": [
+      110
+    ],
+    "meaning": [
+      113
+    ],
+    "‘hear’": [
+      114
+    ],
+    "would": [
+      115
+    ],
+    "not": [
+      116,
+      170,
+      240
+    ],
+    "take": [
+      117
+    ],
+    "on": [
+      118
+    ],
+    "these": [
+      119
+    ],
+    "readings,": [
+      120
+    ],
+    "although": [
+      121
+    ],
+    "they": [
+      122
+    ],
+    "often": [
+      123
+    ],
+    "extend": [
+      124
+    ],
+    "mean": [
+      126
+    ],
+    "‘understand’": [
+      127
+    ],
+    "or": [
+      128
+    ],
+    "‘obey’.": [
+      129
+    ],
+    "Though": [
+      130
+    ],
+    "both": [
+      131
+    ],
+    "hypotheses": [
+      132
+    ],
+    "assign": [
+      133
+    ],
+    "among": [
+      137
+    ],
+    "senses,": [
+      139
+    ],
+    "results": [
+      141
+    ],
+    "our": [
+      143,
+      262
+    ],
+    "study": [
+      145
+    ],
+    "show": [
+      146
+    ],
+    "proposal": [
+      149
+    ],
+    "remains": [
+      150
+    ],
+    "intact,": [
+      151
+    ],
+    "while": [
+      152
+    ],
+    "Sweetser's": [
+      153
+    ],
+    "proved": [
+      155
+    ],
+    "false.": [
+      156
+    ],
+    "languages": [
+      158
+    ],
+    "recruit": [
+      159
+    ],
+    "‘think’": [
+      164,
+      245
+    ],
+    "‘know’": [
+      166,
+      243
+    ],
+    "‘hear’,": [
+      168
+    ],
+    "but": [
+      169,
+      239
+    ],
+    "‘see’.": [
+      172
+    ],
+    "It": [
+      173
+    ],
+    "appears": [
+      174
+    ],
+    "that,": [
+      175
+    ],
+    "at": [
+      176
+    ],
+    "least": [
+      177
+    ],
+    "far": [
+      179
+    ],
+    "concerned,": [
+      184
+    ],
+    "changes": [
+      187
+    ],
+    "subject": [
+      189
+    ],
+    "greater": [
+      191
+    ],
+    "cultural": [
+      192,
+      232
+    ],
+    "variability": [
+      193
+    ],
+    "than": [
+      194
+    ],
+    "changes.": [
+      197
+    ],
+    "We": [
+      198
+    ],
+    "argue": [
+      199
+    ],
+    "same": [
+      202
+    ],
+    "can": [
+      205
+    ],
+    "have": [
+      206
+    ],
+    "its": [
+      207,
+      210
+    ],
+    "relativistic": [
+      211
+    ],
+    "side,": [
+      212
+    ],
+    "foot": [
+      214,
+      219
+    ],
+    "nature": [
+      216
+    ],
+    "culture,": [
+      221
+    ],
+    "conclude": [
+      223
+    ],
+    "demonstrating": [
+      225
+    ],
+    "there": [
+      227
+    ],
+    "good": [
+      229
+    ],
+    "social": [
+      230
+    ],
+    "reasons": [
+      233
+    ],
+    "driving": [
+      234
+    ],
+    "‘hearing’,": [
+      238
+    ],
+    "‘seeing’,": [
+      241
+    ],
+    "Aboriginal": [
+      248
+    ],
+    "societies.": [
+      249
+    ],
+    "Milyilyi-lu": [
+      250
+    ],
+    "kulirninpa,": [
+      251
+    ],
+    "langa": [
+      252
+    ],
+    "kulirninpa-lu": [
+      253
+    ],
+    "brain-erg": [
+      254
+    ],
+    "hear/think,": [
+      255
+    ],
+    "ear": [
+      256
+    ],
+    "hear-at": [
+      257
+    ],
+    "him/her": [
+      258
+    ],
+    "‘Our": [
+      259
+    ],
+    "brain": [
+      260
+    ],
+    "thinks/hears,": [
+      261
+    ],
+    "ears": [
+      263
+    ],
+    "think/hear’": [
+      264
+    ],
+    "Kukatja,": [
+      265
+    ],
+    "Peile": [
+      267
+    ],
+    "1997": [
+      268
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 45
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 144
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 44
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 124
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 106
+    }
+  ],
+  "updated_date": "2026-11-05T12:25:35.769452",
+  "created_date": "2016-06-24T00:00:00"
+}

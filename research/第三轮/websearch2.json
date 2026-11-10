@@ -1,0 +1,19 @@
+[
+  "\"Lezgian\" \"Ganenkov\" \"experiencer\"",
+  200,
+  "Google Search 若您在數秒內仍未能自動跳轉，請點擊 這裏 。 如果你在存取「Google 搜尋」時遇到問題，請 按一下這裡 或傳送 意見 。",
+  [
+    [
+      "這裏",
+      "/httpservice/retry/enablejs?sei=iRzrapGUEOWBvr0Ptfi02QY"
+    ],
+    [
+      "按一下這裡",
+      "/search?q=%22Lezgian%22+%22Ganenkov%22+%22experiencer%22&sca_esv=f0f7d3a8a529a5b8&ie=UTF-8&sxsrf=AKL5yDix95yvdLo4Ldj59IfR7YCPX1DHYQ:1793793161272&emsg=SG_REL&sei=iRzrapGUEOWBvr0Ptfi02QY"
+    ],
+    [
+      "意見",
+      "https://support.google.com/websearch"
+    ]
+  ]
+]

@@ -1,0 +1,573 @@
+[PDF PAGE 1]
+UvA-DARE is a service provided by the library of the University of Amsterdam (https://dare.uva.nl)
+UvA-DARE (Digital Academic Repository)
+Verb types and semantic maps
+Oomen, M.
+DOI
+10.31009/FEAST.i2.10
+Publication date
+2018
+Document Version
+Final published version
+Published in
+FEAST : Formal and Experimental Advances in Sign language Theory
+License
+CC BY-NC
+Link to publication
+Citation for published version (APA):
+Oomen, M. (2018). Verb types and semantic maps. FEAST : Formal and Experimental
+Advances in Sign language Theory, 2, 116-131. https://doi.org/10.31009/FEAST.i2.10
+General rights
+It is not permitted to download or to forward/distribute the text or part of it without the consent of the author(s)
+and/or copyright holder(s), other than for strictly personal, individual use, unless the work is under an open
+content license (like Creative Commons).
+Disclaimer/Complaints regulations
+If you believe that digital publication of certain material infringes any of your rights or (privacy) interests, please
+let the Library know, stating your reasons. In case of a legitimate complaint, the Library will make the material
+inaccessible and/or remove it from the website. Please Ask the Library: https://uba.uva.nl/en/contact, or a letter
+to: Library of the University of Amsterdam, Secretariat, P.O. Box 19185, 1000 GD Amsterdam, The Netherlands.
+You will be contacted as soon as possible.
+Download date:07 Nov 2026
+[PDF PAGE 2]
+Verb types and semantic maps
+Marloes Oomen (ACLC, University of Amsterdam)
+m.oomen2@uva.nl
+Abstract
+Verb classiﬁcations for sign languages are typically based on agreement properties (Pad-
+den 1988) and have also been suggested to be semantically grounded (Meir 1998, 2002).
+In light of the latter proposition, it is surprising that the semantics of verb types have
+not been explored in much depth. This study aims to investigate the semantic un-
+derpinnings of verb types. It is hypothesized that the semantic properties that govern
+case-frame selection in spoken languages (Hopper and Thompson 1980; Tsunoda 1981)
+similarly mediate verb type in sign languages. The rationale behind this idea is that
+many such properties have the potential to be expressed iconically in sign language verb
+forms. Particular constellations of features are thus expected to increase the likelihood
+of a verb to be of a certain type. To test this hypothesis, a method previously used to
+investigate the connection between verb semantics and transitivity in spoken languages
+(Malchukov 2005) is applied to data from German Sign Language (DGS). Overall, the re-
+sults lend credibility to the supposition that case marking systems in spoken languages
+and the verb-type system in sign languages are sensitive to the same underlying seman-
+tic factors, underscoring the centrality of these notions in language. In addition, the
+results offer a ﬁner-grained picture of the semantics of verbs of different types, and en-
+able us to formulate predictions about the scope of diachronic change and synchronic
+and cross-linguistic variation in this domain.
+Keywords: verb classiﬁcation, semantic map, transitivity, German Sign Language
+1 Introduction
+Verbs in sign languages are commonly classiﬁed based on their agreement properties. Typ-
+ically, a distinction is made between agreement verbs and spatial verbs – which agree with
+person/location – and plain verbs – which do not agree (see e.g. Padden 1988; Janis 1992; de
+Quadros 1999; Meir 2002). It has also been suggested that this classiﬁcation is semantically
+grounded: agreement verbs have been said to denote transfer, spatial verbs motion, and
+plain verbs neither of the two (Meir 1998, 2002). Given the typologically singular proposition
+that the verb agreement system is rooted in semantics in sign languages, it is perhaps sur-
+prising that details of the semantics of different verb types have not been explored in much
+more depth beyond what Meir (1998, 2002) has offered. The aim of this paper, therefore, is
+to gain a deeper understanding of the semantic underpinnings of verb types.
+I start from the intuition that there is an intricate connection between transitivity and
+sign language verb type which is governed by properties of events and their participants. The
+central hypothesis is that verb semantics impacts on sign language verb type quite like the
+way in which it affects case-marking for transitivity in spoken languages (following Hopper &
+Thompson, 1980 and Tsunoda, 1981, among others). If there is any truth to this hypothesis,
+Oomen, M. (2018). Verb types and semantic maps. FEAST 2: 116-131.
+https://doi.org/10.2436/10.31009/FEAST .i2.10 http://www.raco.cat/index.php/FEASTLicense: CC
+BY-NC 3.0
+[PDF PAGE 3]
+Marloes Oomen Verb types and semantic maps
+then it should be possible to apply methods that have been used to investigate transitivity in
+spoken languages to sign language data. This is what I set out to endeavor.
+I outline my approach in Section 2 and introduce the method I will apply to data from
+one particular sign language – German Sign Language (DGS) – in Section 3. In Section 4, I
+discuss the DGS corpus data used in this study; Section 5 reports on the results. The exercise
+leads to a number of generalizations and predictions about verb types across sign languages
+(Section 6). Section 7 concludes the paper.
+2 Verb semantics, verb types, and transitivity
+I entertain the idea that the realization of sign language verbs as particular types is mediated
+by the same semantic properties that inﬂuence the selection of case as an indicator of the
+transitivity of verbs in spoken languages. A fundamental insight leading into this idea is that
+– by default – prototypical agreeing verbs in sign languages denote transitive events involving
+(at least) two participants, as they have the ability to agree with two arguments. Indeed, Meir
+(1998, 2002) claims that agreement verbs express transfer – a statement that aligns rather
+well with the traditional view of prototypical transitivity as “a matter of [...] transferring an
+action from one participant to another” (Hopper and Thompson 1980:253).
+It is not a coincidence, of course, that agreement verbs tend to denote concepts involving
+transfer: the path movement that most agreement verbs possess iconically represents such
+a relation. But a transfer relation is not the only semantic feature that can be expressed in an
+iconic manner; the visuo-spatial nature of the signed modality creates a vast array of possi-
+bilities in this regard. I thus hypothesize that particular constellations of iconically motivated
+properties increase the likelihood of a verb to be of a certain type. To give a concrete exam-
+ple, the verb meaning fear denotes a psychological state, of which one of the main hallmarks
+is that it involves (at least) an experiencer. As pointed out previously by Meir et al. (2007)
+and Oomen (2017), body-anchoring causes the signer’ s body to iconically represent such an
+experiencer. Indeed, each of the three DGS verb forms denoting fear attested in the corpus
+data (see Section 4) is body-anchored.
+But there are other properties of verb meanings that may be conveyed in an iconic man-
+ner. For instance, fear is caused by a certain stimulus or trigger. In the three body-anchored
+forms in DGS, this aspect of the verb’ s meaning is not represented through an iconic form-
+to-meaning mapping. However, it is not unthinkable that a form would make reference to
+this event participant. Indeed, there are sign languages with psych-verbs that agree with two
+arguments through directionality. The verb HATE in ISL is of this type (Meir 1998): it has a
+path movement from experiencer to stimulus. While we may expect both intra- and cross-
+linguistic variation with respect to which aspects of events are highlighted in individual verb
+forms, the premise on which this study is built is that the variation is not random.
+Signiﬁcantly, properties of events and their participants are known to govern case-frame
+selection as an indicator of transitivity in spoken languages. I deﬁne transitivity as a grad-
+able and semantically multifactorial notion following Hopper and Thompson (1980). That is,
+verbs denoting concepts that involve many properties associated with a high degree of tran-
+sitivity are more likely to occur in a transitive (e.g. nominative/accusative) case-frame than
+verbs that with fewer such properties. If the hypothesis that the same sort of properties that
+govern verb type in sign languages also mediate transitivity marking in spoken languages
+has any bearing, then it should be possible to apply a semantic map for transitivity splits
+FEAST vol. 2, 2018 117
+[PDF PAGE 4]
+Marloes Oomen Verb types and semantic maps
+(Malchukov, 2005; Section 3) to the DGS data.1
+Semantic maps makes predictions about the multifunctionality of grammatical elements.
+In this chapter, I treat different verb types as distinct grammatical elements, too. More pre-
+cisely, the directionality of agreeing verbs, the body-anchoring of body-anchored verbs, and
+the localizing ability of neutral verbs are treated as grammatical markers. If verb type and
+transitivity marking are indeed governed by the same semantic properties, then the predic-
+tions Malchukov’ s (2005) semantic map makes should, in principle, not be violated.
+Regardless of whether or not the DGS data obey the restrictions the map imposes, using
+this tool to classify DGS verb forms makes it possible to evaluate, with a fair degree of so-
+phistication, the semantic proﬁles of different verb types in DGS, and – given the similarities
+across sign languages in this domain – sign languages in general.
+3 A semantic map
+A semantic map is a typological tool used to represent the multifunctionality of grammati-
+cal elements in a network (Haspelmath 2003). Semantic maps are intended to broaden our
+understanding of structural – and potentially universal – semantic patterns by mapping out
+semantic categories in such a way that multifunctional linguistic elements occupy contigu-
+ous spaces on the map. Very often, different functions of grammatical elements are related;
+a semantic map is a way to chart such functions with the aim of making cross-linguistic pre-
+dictions about their scope.2 An advantage of a semantic map is that it does not presuppose
+prototypical functions for grammatical markers. The method also facilitates the process of
+drawing cross-linguistically valid conclusions about a wide variety of linguistic phenomena
+– even and especially in particularly complex domains with large amounts of cross-linguistic
+variation.
+When constructing a semantic map for a particular domain, a sample of typologically
+diverse languages has to be studied to identify functions that can be expressed by the same
+grammatical markers, and vice versa. The functions then need to be arranged in a semantic
+map such that for each language, every marker covers a contiguous area on the map (Haspel-
+math 2003). As such, a semantic map expresses implicational universals: if a particular
+marker in a language expresses function A and function C, it should also express intervening
+function B.
+Inspired by the pioneering work by Hopper and Thompson (1980), and further building
+on work by Tsunoda (1981) on transitivity splits of lexical verbs, Malchukov (2005) introduces
+a semantic map that makes predictions about the scope of transitivity marking across lan-
+guages (Figure 1). The map introduces semantic categories as functions and predicts that if
+some – not all – members of two semantic categories take a certain case-frame, then at least
+some members of any intervening categories should do so too.
+The map in Figure 1 integrates three dimensions of transitivity. The upper strand (‘ef-
+fective action’ - ‘contact’ - ‘pursuit’ - ‘motion’ - ‘intransitive’) orders verb classes according
+to decreasing levels of patienthood of the O argument (for ‘Object’ , following Dixon 1979).
+1Note that I do not intend to claim that the properties of the different sign language verb types are a form
+of case marking – although such an analysis is a possible way to go, and one that plays a part in Meir’ s (1998)
+analysis of agreement verbs.
+2Whether the functions of grammatical elements are described as conventionalized meanings or contextu-
+ally determined uses depends on one’ s theoretical assumptions. Following Haspelmath, I simply use the term
+‘function’ here. Similarities in function are often rooted in semantics, but not always; functions can also be
+differentiated pragmatically (Hengeveld and Lier 2010) or syntactically (Haspelmath 1999), for instance.
+FEAST vol. 2, 2018 118
+[PDF PAGE 5]
+Marloes Oomen Verb types and semantic maps
+The middle dimension of transitivity concerns referential distinctness (following Kemmer
+1993). The categories ‘reﬂexive’ , ‘middle’ , and ‘spontaneous’ include syntactic reﬂexives, in-
+herent (semantic) reﬂexives and inherent reciprocals, and verbs of spontaneous action, re-
+spectively. The lowest pathway sorts verb classes according to decreasing agentivity of the
+A argument (for ‘ Agent’ , following Dixon 1979) as well as decreasing affectedness of the O
+argument. In other words, A becomes increasingly more experiencer-like, while O becomes
+increasingly more like a stimulus or causer. The class of interaction verbs is sandwiched
+in between the upper and middle strand. The category ‘intransitive’ on the far right of the
+map is not discussed in detail by Malchukov but seems to serve as a repository for stative,
+nonagentive intransitive verbs that cannot be categorized elsewhere. Note that the category
+is thus deﬁned in grammatical rather than semantic terms. The connecting lines between
+categories indicate (semantic) closeness of the classes and represent hypotheses about the
+scope of transitivity frames as well as pathways of grammatical change. All DGS verb forms
+that were annotated according to the procedure outlined in the next section will be classiﬁed
+into one of the categories on the map in Figure 1 (see Section 5).
+Effective
+action
+kill, break
+Contact
+hit, touch
+Pursuit
+search,
+wait for
+Motion
+go, leave
+Interaction
+follow, help
+Intran-
+sitive
+Reﬂexive
+enjoy (self )
+Middle
+wash, meet
+Spontaneous
+burst, be born
+Affected
+Agent
+eat, take
+Perception
+see, look
+Cognition
+know
+Emotion
+fear , like
+Sensation
+be cold,
+freeze
+Figure 1: Semantic map for transitivity splits (Malchukov 2005) with examples for each cat-
+egory in italics. Malchukov (2005) does not provide any examples for the category ‘Intransi-
+tive’ .
+4 Annotation of the DGS data
+A total of 58 glossed and translated dialogues from the DGS Corpus (Blanck et al. 2010) – ap-
+proximately 8.5 hours of material – form the basis for this study. Annotations were added in
+ELAN (Sloetjes and Wittenburg 2008) to all clauses in the data set that include lexical verbs
+denoting any of the 80 verb meanings in the ‘ValPaL ’ list (Hartmann, Haspelmath, and Taylor
+2013), which was created by a team of typologists to facilitate typological work on valency
+patterns across languages. The verb meanings included in the list are intended to be repre-
+sentative of the verbal lexicon and are known to display distinctive syntactic behavior, both
+intra- and cross-linguistically.
+FEAST vol. 2, 2018 119
+[PDF PAGE 6]
+Marloes Oomen Verb types and semantic maps
+Often, more than one lexical form denoting the same meaning was attested; in such
+cases, they are distinguished by means of number sufﬁxes. Synonyms, antonyms, or oth-
+erwise closely related signs that can reasonably be expected to display identical morphosyn-
+tactic behavior (e.g. DRINK in addition to EAT) were also annotated. For each token, verb type
+was indicated on a separate tier.3 I distinguish three types of verbs; note that they do not fully
+correspond to Padden’ s (1988) classiﬁcation. The class ofagreeing verbs includes both agree-
+ment and spatial verbs, following previous suggestions in the literature that these categories
+should be collapsed (Janis 1992; de Quadros 1999). I distinguish an additional two types
+which have traditionally been grouped together in Padden’ s (1988) category of plain verbs.
+Verbs that are articulated on the body are classiﬁed as body-anchored verbs following sug-
+gestions that such verbs have distinct morphosyntactic properties (Meir et al. 2007; Oomen
+2017). Finally, verbs articulated in neutral space that do not agree through directionality –
+although at least some of them may agree with a single argument through localization – were
+annotated as neutral verbs. Verb type was determined for each verb form on the basis of the
+articulatory properties mentioned. Since many tokens (1560 in total) were annotated, it was
+almost always possible to determine categorization on the basis of more than just one token
+per verb form. As will be described in Section 5.4, this was particularly useful in the case of
+‘hybrid’ verb forms with properties of more than one type.
+5 DGS verbs on the semantic map
+All of the DGS verb forms identiﬁed in the corpus data were sorted into one of the semantic
+classes on Malchukov’ s (2005) semantic map (Figure 1). In addition to Malchukov (2005),
+two other sources were consulted for this process. 4 Tsunoda (1981) was used because Mal-
+chukov’ s map is an adaptation and extension of Tsunoda’ s transitivity hierarchy, and Levin
+(1993) was consulted because Malchukov mentions her classiﬁcation of English verbs as a
+source for his semantic classiﬁcation. Here are several examples of how lexical forms were
+classiﬁed:
+• BREAK is categorized as a verb of effective action based on Malchukov (2005).
+• SMELL 1 and SMELL 2 are categorized as perception verbs based on Tsunoda (1981);
+Malchukov does not mention this verb meaning.
+• BRING is categorized as an affected Agent verb because Levin (1993) groups bring and
+take together in a two-member class, and Malchukov describes take as an affected
+Agent verb.
+• HUG 1 and HUG 2 are categorized as both interaction and middle verbs (and thus po-
+sitioned on the map between these two categories): according to Levin (1993), hug
+belongs to the same verb category as marry, which Malchukov positions between the
+‘interaction’ and ‘middle’ categories.
+3Since the present study is part of a larger project on argument structure in sign languages, many more an-
+notations (e.g. for word order and agreement properties) were added for each token. None of these annotations
+are relevant for the current study.
+4I deliberately avoided making my own judgments about semantic-class membership to escape the risk of
+circularity, i.e. sorting a verb into a semantic category because its agreement properties express certain event
+properties that render a particular semantic interpretation more likely.
+FEAST vol. 2, 2018 120
+[PDF PAGE 7]
+Marloes Oomen Verb types and semantic maps
+The full map is displayed in Figure 3. The different shades of blue of the verb labels in-
+dicate verb type. Body-anchored verbs are the lightest blue, followed by neutral verbs and
+agreeing verbs in increasingly darker blue tones. ‘Weather verbs’ are added as a separate cat-
+egory connected to the class of ‘intransitives’ , which I use to include verbs that are classiﬁed
+by Levin (1993) as verbs of existence. The categories ‘reﬂexive’ and ‘middle’ distinguished
+by Malchukov (2005) are grouped together in Figure 3 because a distinction between mem-
+bers of the two categories can only be made on syntactic grounds, while the aim here is to
+categorize all of the lexical forms on the basis of the semantics of the corresponding verb
+meanings. In the Appendix to this paper, the reader can ﬁnd individual maps for each of the
+verb types for convenience (Figure 6-8). The map for agreeing verbs (Figure 8) additionally
+distinguishes prototypical agreeing verbs from spatial verbs. In the next sections, each verb
+type is discussed in turn.
+5.1 Body-anchored verbs
+According to prediction, the categories on the map that contain body-anchored verbs are
+contiguous (see Figure 6 in the Appendix for a clearer picture) – although it should be noted
+that almost every semantic category on the map contains at least one verb of this type. Still,
+the largest concentration of body-anchored verbs can clearly be found in the categories on
+the bottom strand of the map, which orders semantic classes according to decreased agen-
+tivity of A correlated with decreased affectedness of O. The observed pattern is hardly sur-
+prising: body-anchoring commonly serves to make iconic reference to a referent’ s internal
+experience or the expression thereof (Meir et al. 2007; Oomen 2017), thus emphasizing less
+agentive properties of the A argument.5 FEAR 1 (Figure 2a) is an example of such a form.
+(a) FEAR 1
+ (b) DRESS 1
+ (c) SEARCH -FOR 1
+Figure 2: Three body-anchored verbs.
+Body-anchored verb forms are also fairly common in the ‘reﬂexive/middle’ and ‘interaction’
+categories. Again, the reasons are obvious. Lexical reﬂexives, such as DRESS 1 (Figure 2b),
+denote actions that one performs on oneself and therefore typically involve the body. The
+class of interaction verbs includes several verbs of speech or saying, with the corresponding
+lexical forms all making reference to the mouth.
+But body-anchored verbs are also included, albeit more sparsely, in the categories ‘pur-
+suit’ , ‘motion’ , ‘spontaneous’ , and ‘intransitives’ . To give an example, the pursuit verbSEARCH -
+FOR 1, depicted in Figure 2c, is body-anchored because its place of articulation near the face
+is iconically motivated; it refers to an entity performing a search using their eyes. The verb
+form emphasizes the action performed by the searcher.RUN 1 and RUN 2 refer to the way peo-
+ple move their arms when running. No reference is made to the trajectory of a run, which
+5The stimulus/causer, on the other hand, is backgrounded in such sign language verb forms.
+FEAST vol. 2, 2018 121
+[PDF PAGE 8]
+Marloes Oomen Verb types and semantic maps
+Figure 3: The semantic map for transitivity splits (Malchukov 2005) with the DGS data.
+FEAST vol. 2, 2018 122
+[PDF PAGE 9]
+Marloes Oomen Verb types and semantic maps
+can only be expressed with a classiﬁer predicate. Thus, the body-anchored verbs in these
+categories seem to emphasize different aspects of the events they denote than one might
+perhaps expect.
+5.2 Neutral verbs
+For neutral verbs (Figure 7), we can observe a clearly discernible cluster of verb forms on the
+left side of the map: approximately half of all neutral verb forms are located in or between
+the ‘effective action’ and ‘affected Agent’ categories. At the opposite end of the map, we also
+ﬁnd a fair number of verb forms in or around the category of intransitives. Connecting these
+two poles – and ensuring that all the categories with neutral verbs are contiguous – are a
+handful of forms in the ‘reﬂexive/middle’ and ‘spontaneous’ categories.
+Three examples of neutral verb forms are given in Figure 4. COOK 1, an effective action
+verb, involves a manual articulation that references a person cooking (or, more literally,
+stirring), while its place of articulation – which may be modiﬁed – refers to the stuff being
+cooked. SIT (Figure 4b), classiﬁed as ‘intransitive’ , makes reference to just a single argument,
+the sitter, by means of both the handshape and (optional) localization. The two verb forms
+denoting MEET (MEET 1 is depicted in Figure 4c) reference reciprocity by means of the con-
+verging movement of the hands, which each represent individuals.
+(a) COOK 1
+ (b) SIT
+ (c) MEET 1
+Figure 4: Three neutral verbs.
+The semantic proﬁle of neutral verbs is radically different from that of body-anchored verbs:
+there are hardly any neutral forms in the categories on the lower dimension, while body-
+anchored verbs do not feature at all in the most prototypical semantic category for neutral
+verbs, namely that of effective action. As such, the maps provide a semantic argument for
+distinguishing between verbs of the two types.
+5.3 Agreeing verbs
+Agreeing verbs (Figure 8) cluster around categories on the upper dimension of the map,
+which orders categories according to decreased affectedness of the O argument, and toward
+the left side of the map (i.e. highly transitive verbs). As announced, Figure 8 additionally
+distinguishes between regular agreeing verbs and spatial verbs. The map reveals that the
+‘motion’ , ‘pursuit’ , and ‘affected Agent’ categories each contain only agreeing verbs of the
+spatial kind, such as LEAVE (Figure 5c). Regular agreeing verbs, such as TEACH (Figure 5b),
+are most frequent in the ‘interaction’ category. A number of forms occur in categories toward
+the left of the map, such as BEAT (Figure 5a). It is interesting to observe that the map would
+FEAST vol. 2, 2018 123
+[PDF PAGE 10]
+Marloes Oomen Verb types and semantic maps
+look signiﬁcantly more fragmented if the class of agreeing verbs were divided into agreement
+verbs and spatial verbs.
+(a) BEAT
+ (b) TEACH
+ (c) LEAVE
+Figure 5: Three agreeing verbs.
+It should be noted that the categories ‘contact’ and ‘effective action’ , which connect the up-
+per strand of the map with the lower strand, only include or share with other categories a
+handful of lexical forms, while the semantic map predicts that there should be agreeing verbs
+of these semantic types. It is, of course, possible that this state-of-affairs is simply symp-
+tomatic of the limited set of verb meanings that the ValPaL list includes – only few of the
+verb meanings in the list can be classiﬁed as verbs of contact, for instance – but no deﬁnitive
+conclusions can be drawn on the basis of this data set.
+Given that both transitive verbs in spoken languages and agreeing verbs in sign languages
+(Meir 1998, 2002) have been described as verbs of transfer, one might hypothesize that agree-
+ing verbs cluster around the category of ‘effective action’; the most transitive category on the
+map. However, the map in Figure 8 does not provide convincing evidence for this hypothesis.
+Agreeing verbs are not represented in the left-most categories on the map in high numbers,
+but concentrate more densely in other areas. It appears that neutral verbs represent the
+most prototypically transitive concepts. A more accurate general semantic characterization
+of agreeing verbs may be that they express some form of interaction between participants.
+5.4 Hybrid forms
+Interestingly, some verbs appear to possess characteristics of more than one verb type. SEE ,
+for instance, is articulated with a V-handshape, palm oriented toward the signer’ s face, and
+involves a path movement away from the signer. While the verb’ s trajectory can be modiﬁed
+to agree with the object, the corpus data suggest that the locus at which the movement starts
+is ﬁxed: it is always in front of the signer’ s face. As such, SEE has properties of both body-
+anchored and agreeing verbs. HUG 1 can also express only object agreement. Unlike SEE , it is
+a backward agreeing verb: the verb starts out at the object locus, and ends at a ﬁxed locus in
+front of the signer’ s chest.
+A different kind of hybrid is exempliﬁed by the verb MEET 1 (illustrated earlier in Figure
+4c). This form usually involves a short simultaneous movement of both hands on the mid-
+saggital plane, with the hands converging to make contact approximately at the center of the
+neutral space. However, in a couple of cases, the starting loci of the two hands are clearly dif-
+ferent, suggesting that agreement is expressed with the two (symmetrical) arguments. Thus,
+MEET 1 appears to be a verb with properties of neutral and agreeing verbs.
+Interestingly, each of these verbs forms belong to semantic categories on the map that
+are at the junction of the domains of the different verb types. MEET 1 even ﬁlls up a hiatus in
+FEAST vol. 2, 2018 124
+[PDF PAGE 11]
+Marloes Oomen Verb types and semantic maps
+the domain of agreeing verbs: verbs that agree are present in categories above, below, as well
+as to the left of ‘reﬂexive/middle’ category in which MEET 1 is placed (see Figure 8), but not
+in this category itself. Other examples of hybrid verb forms in the corpus data are similarly
+positioned in overlap spaces. I discuss the potential signiﬁcance of this observation in the
+next section.
+6 Discussion
+As noted at the beginning of Section 1, it has previously been argued that verb-type mem-
+bership is determined, at least to some extent, by verb semantics (Meir 1998, 2002). Yet
+it is also clear that this is not a rigid correlation. It is known, for instance, that verbs de-
+noting the same meaning in different sign languages may differ with respect to agreement
+properties – and thus belong to distinct categories. The sign HATE can agree in Israeli Sign
+Language (ISL; Meir 1998), but it is a body-anchored verb in Sign Language of the Nether-
+lands(NGT; Oomen 2017). UNDERSTAND is a body-anchored verb in many sign languages,
+including American Sign Language, DGS, and NGT , but it is a (backward) agreement verb
+in Catalan Sign Language (de Quadros & Quer 2008). Moreover, verbal signs may change
+type over time. Meir et al. (2007) and Meir (2012; 2016), for instance, report a diachronic
+change in the morphosyntactic realization of verbs of transfer in ISL. Over the course of a
+couple of generations, such verbs are reported to have gradually changed from expressing
+no agreement, to expressing agreement with the object argument, to expressing agreement
+with both the subject and the object argument. The ﬁndings echo earlier observations by
+Engberg-Pedersen (1993) for Danish Sign Language. The change always applies to verbs that
+are originally body-anchored. It seems plausible that some of the hybrid forms I described
+in Section 5.4 represent intermediate stages in diachronic development.
+All of these observations accentuate both the ﬂuidity and the regularity of the sign lan-
+guage verb type system. On the one hand, there are many verbs that may not convincingly
+ﬁt the mold of any of the categories both within and across sign languages and in either se-
+mantic or grammatical terms, or both. On the other hand, it is clear that there are remarkable
+consistencies across and within sign languages with respect to verb type membership and –
+as far as we can tell – pathways of change.
+In light of this discussion, the value of the semantic map with DGS verb forms (Section
+5) becomes evident. Since no prototypicality of function is assumed, the map can offer a
+much more ﬁne-grained picture of verb type semantics, while simultaneously allowing for
+the plasticity the system presents. For instance, the map can unproblematically deal with
+verbs that are of different types cross-linguistically, such as HATE . In a language in which
+HATE is an agreeing verb, the map simply predicts that contiguous categories should also in-
+clude agreeing verbs when they border on other categories that include agreeing verbs. Thus,
+if a language contains agreeing verbs of perception in addition to agreeing verbs of emotion,
+then it must also have agreeing verbs of cognition in order not to violate the predictions that
+the map makes.
+In addition, the diachronic changes reported by Engberg-Pedersen (1993) and Meir et al.
+(2007 and later work) can be viewed from a fresh perspective with the use of the semantic
+map. In these cases, the map makes particular predictions about the possible pathways of
+change – even if it cannot tell us anything about the direction of change. As a thought exper-
+iment to illustrate this point, imagine that all verbs in a particular sign language were body-
+anchored at a certain point in time, but, three generations later, a subset of verbs now display
+agreement properties. On the basis of the semantic map, we predict this subset to include
+FEAST vol. 2, 2018 125
+[PDF PAGE 12]
+Marloes Oomen Verb types and semantic maps
+verbs that belong to semantic categories connected on the map, e.g. ‘effective action’ , ‘con-
+tact’ , ‘pursuit’ , and ‘interaction’ . The development should only occur along the lines drawn in
+the map. It would go against prediction to ﬁnd that, at one point, there were agreeing verbs
+in the ‘effective action’ and ‘pursuit’ classes, but not in the ‘contact’ class, for instance.
+It seems implausible that a sign language ever included only body-anchored verbs; neu-
+tral verbs are likely to have formed a part of the language from its inception, too. Unlike
+body-anchored verbs, neutral verbs are characterized by a place of articulation that does
+not appear to be iconically motivated. At the same time, it is known that neutral verbs have
+the potential to be localized, a strategy that can be – and has been – analyzed as another
+instance of agreement. Perhaps, then, there is a second dimension of change: one from
+non-localizing to localizing verbs. Again, the expectation would be that such change may
+only occur along the pathways dictated by the semantic map.
+Of course, I do not intend to claim that all verbs eventually become agreeing verbs. It is
+rather the other way around: if a language has verbs that can overtly agree (with either one
+or two arguments), they will have developed (i) from either body-anchored verbs or neu-
+tral verbs, and (ii) along certain ﬁxed pathways, which can be visualized in a semantic map.
+Further research is necessary to ﬁnd out whether this hypothesis bears fruit.
+7 Conclusions
+It can be concluded that each verb type occupies a distinctive and generally contiguous area
+on the map. Body-anchored verbs predominantly occur along the lower dimension and tend
+to denote events involving an experiencer. Neutral verbs frequently denote either prototyp-
+ically transitive or prototypically intransitive meanings, although there are also a handful
+of verb forms that belong in the ‘reﬂexive/middle’ and ‘spontaneous’ categories connecting
+these two poles. Agreeing verbs are clustered around the upper left part of the map, which
+includes categories of verbs that select subjects with a relatively high degree of agentivity.
+Hybrid forms are consistently found in categories that include more than one verb type.
+Clearly, data from other sign languages are needed to test the validity of the map and to
+determine if more or fewer semantic distinctions are necessary to account for all possible
+patterns in sign languages. However, one should bear in mind that the more radical the
+changes are that need to be made, the weaker the claim that transitivity and verb types are
+governed by common semantic properties.
+Yet overall, the results lend credibility to the hypothesis that case-marking systems in
+spoken languages and the verb type system in sign languages are sensitive to the same un-
+derlying semantic factors, underscoring the centrality of these notions in language. 6 This
+outcome opens up many opportunities for future research. As discussed in the previous sec-
+tion, an obvious question is whether diachronic change indeed occurs along the pathways
+indicated in the map. Although diachronic data for sign languages is scarce, the few available
+sources provide at least some indication that this is the case.
+Acknowledgments
+I wish to thank Roland Pfau, Enoch Aboh, Vadim Kimmelman, and Helen Koulidobrova for
+their inquisitive comments and useful suggestions on different versions of this work, as well
+6Of course, this in no way means that morphosyntactic factors cannot also be at play. Indeed, they most
+likely must, since verb semantics – although governing both – does not determine case marking or verb type.
+FEAST vol. 2, 2018 126
+[PDF PAGE 13]
+Marloes Oomen Verb types and semantic maps
+as the FEAST audience for their much appreciated feedback. I gratefully acknowledge the
+support of the Dutch Science Foundation (NWO) under grant no. 360-70-520.
+References
+Blanck, Dolly, et al. 2010. “The DGS Corpus project – Development of a corpus based elec-
+tronic dictionary German Sign Language - German.” Poster session presented at Theo-
+retical Issues in Sign Language Research 10, West Lafayette, IN. https : / / www . sign -
+lang.uni-hamburg.de/dgskorpus/index.php/publications.html.
+de Quadros, Ronice Müller. 1999. “Phrase structure of Brazilian Sign Language.” PhD thesis,
+Pontifícia Universidade Católica do Rio Grande do Sul.
+de Quadros, Ronice Müller, and Josep Quer. 2008. “Back to back(wards) and moving on: On
+agreement, auxiliaries and verb classes in sign languages.” InProceedings of the Theoreti-
+cal Issues in Sign Language Research Conference 9, ed. by Ronice M. de Quadros, 530–551.
+Petrópolis: Arara Azul.
+Dixon, Robert M. W . 1979. “Ergativity”.Language 55:59–138.
+Engberg-Pedersen, Elisabeth. 1993. Space in Danish Sign Language. Hamburg: Signum.
+Hartmann, Iren, Martin Haspelmath, and Bradley Taylor, eds. 2013.Valency Patterns Leipzig.
+Leipzig: Max Planck Institute for Evolutionary Anthropology. http://valpal.info/.
+Haspelmath, Martin. 1999. “External possession in a European areal perspective.” In Exter-
+nal possession, ed. by Doris Payne and Immanuel Barshi, 109–135. Amsterdam: John Ben-
+jamins.
+— . 2003. “The geometry of grammatical meaning: Semantic maps and cross-linguistic com-
+parison.” In The new psychology of language , ed. by Michael Tomasello, 2:211–243. New
+York: Lawrence Erlbaum Associates Publishers.
+Hengeveld, Kees, and Eva van Lier. 2010. “An implicational map of parts of speech.”Linguis-
+tic Discovery 8(1):129–156.
+Hopper, Paul J., and Sandra A. Thompson. 1980. “Transitivity in grammar and discourse.”
+Language 56(2):251–299.
+Janis, Wynne D. 1992. “Morphosyntax of the ASL verb phrase.” PhD thesis, State University
+of New York at Buffalo.
+Kemmer, Suzanne. 1993. The middle voice. Amsterdam: John Benjamins.
+Levin, Beth. 1993. English verb classes and alternations: A preliminary investigation.Chicago:
+University of Chicago Press.
+Malchukov, Andrej. 2005. “Case pattern splits, verb types and construction competition.”
+In Competition and variation in natural languages. The case for case. Ed. by Mengistu
+Amberber and Helen de Hoop, 73–117. Oxford: Elsevier.
+Meir, Irit. 1998. “Thematic structure and verb agreement in Israeli Sign Language.” PhD the-
+sis, University of Haifa.
+— . 2002. “A cross-modality perspective on verb agreement.” Natural Language & Linguistic
+Theory 20:413–450.
+— . 2012. “The evolution of verb classes and verb agreement in sign languages.” Theoretical
+Linguistics 38(1-2):145–152.
+FEAST vol. 2, 2018 127
+[PDF PAGE 14]
+Marloes Oomen Verb types and semantic maps
+— . 2016. “Grammaticalization is not the full story: A non-grammaticalization account of
+the emergence of sign languages agreement morphemes”. In Quo vadis morphology?
+MMM10 Online Proceedings , ed. by Jenny Audring, Francesca Masini, and Wendy San-
+dler, 112–124.
+Meir, Irit, Carol Padden, Mark Aronoff, and Wendy Sandler. 2007. “Body as subject”. Journal
+of Linguistics 43:531–563.
+Oomen, Marloes. 2017. “Iconicity in argument structure: Psych-verbs in Sign Language of
+the Netherlands.” Sign Language & Linguistics 20(1):55–108.
+Padden, Carol. 1988. Interaction of morphology and syntax in American Sign Language . New
+York: Garland.
+Sloetjes, Han, and Peter Wittenburg. 2008. “Annotation by category – ELAN and ISO DCR.” In
+Proceedings of the Sixth International Conference on Language Resources and Evaluation.
+Marrakech, Morocco: European Language Resources Association.
+Tsunoda, Tasaku. 1981. “Split case-marking in verb types and tense/aspect/mood”.Linguis-
+tics 19:389–438.
+Appendix
+See the next page.
+FEAST vol. 2, 2018 128
+[PDF PAGE 15]
+Marloes Oomen Verb types and semantic maps
+Figure 6: The semantic map for transitivity splits (Malchukov 2005) with DGS body-anchored
+verbs.
+FEAST vol. 2, 2018 129
+[PDF PAGE 16]
+Marloes Oomen Verb types and semantic maps
+Figure 7: The semantic map for transitivity splits (Malchukov 2005) with DGS neutral verbs.
+FEAST vol. 2, 2018 130
+[PDF PAGE 17]
+Marloes Oomen Verb types and semantic maps
+Figure 8: The semantic map for transitivity splits (Malchukov 2005) with DGS regular agree-
+ing verbs (blue) and spatial verbs (green).
+FEAST vol. 2, 2018 131

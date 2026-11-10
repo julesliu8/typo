@@ -1,0 +1,54 @@
+## Welcome to BivalTyp
+
+BivalTyp is a typological database of bivalent verbs and their encoding frames. As of <span id='current-year'>2020</span>, the database presents data for <span id='number-of-languages'>86</span> {{ languages }}, mainly spoken in Northern Eurasia. The database is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. Language-particular encoding frames are identified based on the devices (such as cases, adpositions, and verbal indices) involved in encoding two predefined arguments of each predicate (e.g. ‘Peter’ and ‘the dog’ in ‘Peter is afraid of the dog’). In each language, one class of verbs is identified as transitive. The goal of the project is to explore the ways in which bivalent verbs can be split between the transitive and different intransitive valency classes.
+
+The project was designed and implemented by Sergey Say and the [BivalTyp team]{{ team }}.
+
+## How to use BivalTyp
+
+You can browse BivalTyp by [predicate]{{ predicates }} (e.g., in case you are interested in how the arguments of the verb ‘to fear’ are encoded in different languages) or by [language]{{ languages }} (e.g., in case you want to explore the behaviour of 130 predicates in a specific language). Besides, you can [take an overview]{{ patterns }} of the data in your browser, build customizable {{ maps }}, or search the database as an extended [spreadsheet]{{ all_data }} form. Finally, you can {{ download }} the spreadsheet with data for further use offline.
+
+In order to properly interpret the tags used in the database, go to {{ how to read the data }}.
+
+## How to cite BivalTyp
+If you use data from the database, please cite the database itself as follows:
+
+> Say, Sergey (ed.). 2020-. BivalTyp: Typological database of bivalent verbs and their encoding frames. (Available online at {{ site_url }}, Accessed on {{ today }}.)
+
+If you discuss the database, its design, methodology, or data collection principles, please cite the release paper:
+
+> Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying.pdf). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
+
+
+To cite the data from an individual language take the citation form from the specific [language]{{ languages }} page.
+
+## Contact details
+
+Please address inquiries about the data or the project at large to Sergey Say (<span style="font-family: monospace;">serjozhka /at/ yahoo /dot/ com</span>). If there is a technical issue on the website, please report it [here](https://github.com/macleginn/bivaltyp/issues).
+
+## Compatibility
+
+Some sections of the web-site rely on modern JavaScript capabilities and will not work correctly in older browsers.
+
+## Acknowledgements
+
+We would like to acknowledge the support of the following organisations:
+
+<div>
+<a href="https://iling.spb.ru/departements/typology/about.html.ru">
+<img src="{{ site_url_j }}/images/LTIJa.png" alt="Лаборатория типологического изучения языков" style="width: 120px; height: auto;">
+</a>&nbsp;
+<a href="https://www.uni-potsdam.de/de/slavische-linguistik/posla-typology-lab">
+<img src="{{ site_url_j }}/images/PoSlaTypologyLab.png", alt="PoSla Typology Lab" style="width: auto; height: 120px;">
+</a>
+</div>
+
+<div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        let d = new Date();
+        document.getElementById('current-year').innerText = d.getFullYear();
+        document.getElementById('number-of-languages').innerText = languageData.length-1;
+    });
+</script>

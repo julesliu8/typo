@@ -1,0 +1,14 @@
+[
+  [
+    "Return to home page",
+    "/journals/"
+  ],
+  [
+    "OAI-PMH Service",
+    "/journals/oai?verb=Identify"
+  ],
+  [
+    "CrossRef / DOAJ Metadata Export (login required)",
+    "/journals/crossref/form"
+  ]
+]

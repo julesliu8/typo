@@ -1,0 +1,1230 @@
+[PDF PAGE 1]
+On the Argument Structure of Complex Predicates in 
+Kalam, a Language of the Trans New Guinea Family 
+ANDREW PAWLEY 
+Australian National University 
+0. Introduction
+Complex predicates, characterized by having two or more heads, are problematic
+for models of language that assume a ne at division of labor between syntax and
+lexicon (Alsina et al. 1997). On the one hand, such predicates usually have many
+of the properties of a typical lexical unit, for example in exhibiting a unified
+argument structure. On the other hand, syntactically the constituents of complex
+predicates function separately. Various th eoretical frameworks have been applied
+in an effort to understand the workings of such constructions.
+This paper examines argument structure in three construction types in Kalam, 
+a language spoken around the junction of the Bismarck and Schrader Ranges in 
+the southwest corner of Madang Province, Papua New Guinea. 1 Kalam belongs to 
+the Trans New Guinea (TNG) family, which with upwards of 400 members is by 
+far the largest of the many ‘Papuan’ (non-Austronesian) families of Melanesia. 
+Except for a branch in the Timor area, the Trans New Guinea family is confined 
+to New Guinea and a few offshore islands. 
+The three types are serial verb constructions  (SVCs), verb adjunct construc-
+tions (VACs), and involuntary (bodily or mental) experience constructions (IECs), 
+each of which has analogs in many other TNG languages. Each construction 
+contains, or has claims to contain, a comp lex predicate, but differs sharply from 
+the other two in grammatical and semantic structure. 
+Serial verb constructions contain complex predicates  that can have indefi-
+nitely many verb roots as heads. The main challenge here is to define what 
+1 I am indebted to John Bowden and Mark Donohue for comments on drafts of this paper. My 
+work on Kalam has been supported by grants from the Wenner-Gren Foundation for Anthropo-
+logical Research, the New Zealand University  R e s e a r c h  G r a n t s  C o m m i t t e e ,  t h e  P a p u a  N e w  
+Guinea Biological Foundation, and Amrad Discovery Technologies. I began working on Kalam as 
+a graduate student more than 40 years ago, soon after the first government patrol post was 
+established at Simbai. Other linguists who have worked on Kalam include Lyle and Helen Scholz 
+of the Summer Institute of Linguistics, who spent 28 years based at Simbai, Bruce Biggs, Talmy 
+Givón, and Jonathan Lane.  
+83
+BLS 32, No 2 2006. DOI: http://dx.doi.org/10.3765/bls.v32i2.3494  
+(published by the Berkeley Linguistics Society and the Linguistic Society of
+America)
+[PDF PAGE 2]
+Andrew Pawley 
+coreference and event stru cture constraints must a pply to the arguments of 
+different verbs before they can be comb ined in a single SVC. SVCs require a 
+level of event structure semantics that refers to discourse structure well-
+formedness as well as to clause-internal constraints on argument structure.  
+Verb adjunct constructions depict a single event using two heads which be-
+long to different parts of speech: verb and verb adjunct. The main questions here 
+are: How do the argument structures of the two heads interact? What is the role of 
+the verb adjunct? Is it a co-primary pred icate, secondary predicate, or an incorpo-
+rated argument of the verb? Do ‘verb adjunc ts’ form a single and distinct part of 
+speech, separate from nouns and adverbs? 
+There is a class of invol untary experience constructions which is transitive, 
+requiring at least two nomina l participants. One participant is an Experiencer, 
+which is encoded as Direct Object. The other denotes a bodily or mental condition 
+or process that affects the Experiencer. The main question here is: What is the 
+grammatical status of the condition nominal? Is it the Subject, is it a kind of verb 
+adjunct which adds to the meaning and argum ent structure of the verb, or is it in 
+some strange way both Subject and verb adjunct? 
+My account of these three constructions will necessarily be brief and informal.  
+In addition to constituent structure and se mantic structure I will assume a distinc-
+tion between two other levels of linguistic representation: argument structure 
+(thematic arguments or macro-roles) and functional structure (grammatical 
+functions such as subject and direct object), though I will in the usual way some-
+times use ‘argument structure’ to refer to the whole domain in which thematic 
+arguments are linked to grammatical functions . It is useful to distinguish between 
+core arguments (roughly those conceptually central to a verb or construction, and 
+which are usually expressed as compleme nts) and peripheral arguments (not 
+conceptually central and usually encoded as adjuncts).  
+Some leading Papuanists have been re luctant to attribute the grammatical 
+functions Subject, Direct Object, and I ndirect Object to Trans New Guinea 
+languages or indeed to other Papuan families. Thus, in his influential book The 
+Papuan Languages of New Guinea , William Foley (1986) does not use these 
+terms at all. When talking about gramma tical relations for ‘core nominals’, he 
+refers only to semantic macro-roles, such as Actor, Undergoer, and Beneficiary. 
+Mark Donohue (2005) has recently argued that Subject is not usually a highly 
+grammaticalized or well-defined cate gory in Papuan languages of New Guinea. 
+The entities that some Papuan grammars ca ll Subjects are actually a conflation of 
+constructs that belong to two different systems in the grammar:  
+ 
+(i)  There are Logical Subjects, which belong to the semantics of the clause. 
+‘Subject’ is often applied to the NP that governs verbal agreement, the se-
+lection of actor suffixes on the ve rb. The verbal agreement system, 
+Donohue says, can described without re ference to ‘Subject’. Instead, it is 
+enough to refer to role prominence us ing a universal hierarchy of macro-
+roles. (By implication, this applies also to ‘Direct Object’.)  
+84
+[PDF PAGE 3]
+Argument Structure of Complex Predicates in Kalam 
+ 
+(ii)   There is the topical argument in  a clause, a pragmatic or discourse-based 
+construct. What is tracked by swit ch-reference morphology on the verb is 
+typically the topic, not the most prom inent macro-role. It happens that the 
+two sometimes match, but they need not do so.   
+ 
+Donohue concludes (for most Papuan langua ges of New Guinea) that “clearly 
+we do not find a constellation of syntactic phenomena each choosing the same 
+grouping, and so lack any reason to postulate a notion of ‘subject’” (2005:215)). 
+These arguments against the usefulness of recognising Subject and Object as 
+opposed to ranking argument s on a universal hierarchy of thematic roles—and 
+thus eliminating a level of functional grammatical relations—do not sit so well 
+with Kalam. However, the Kalam data  support Donohue on another point. There 
+are certain constructions in TNG langua ges where it is difficult to determine 
+subjecthood, in particular some involuntar y experience constr uctions where the 
+animate participant exerts no control over the event.  
+The merits of a lexicalist vs. a constr uction-based treatment of the argument 
+structure of these kinds of predicate phr ase will be touched on. In the lexicalist 
+approach, argument structure is regarded as being inherent in the lexical verb. 
+That is, a verb’s array of thematic role s is defined by the meaning of the verb. 
+Sense differences in a ver b, including those that entail  differences in the number 
+and configuration of argument s, are attributed solely to  polysemy in the verb and 
+not to the different constructions in which it occurs. 
+I will suggest that, in the case of Kala m complex predicates, there are certain 
+advantages in a construction-based trea tment in the sense of Goldberg (1995). 
+First, this allows for the two (or more) el ements in a complex predicate to jointly 
+determine the argument structure of the predicate. Second, allowing the construc-
+tion as a whole as well as its lexical c onstituents to contribute to meaning, the 
+polysemy of verbs in complex predicates can be constrained in an intuitively 
+satisfying way. 
+The following abbreviations are used in glossing Kalam examples.  
+ 
+D dual 
+DS different Subject (from following 
+verb) 
+PF perfect (denotes today’s past, 
+present perfect or present-
+iterative) 
+DUR durative PAST.HAB past habitual 
+FUT future 
+HORT hortative 
+PRIOR  prior or preceding (the event 
+denoted by following verb) 
+IMM immediate past PRES  present 
+NDR noun derivative suffix PROG  present progressive 
+OBJ Object (case) S  singular 
+OPT optative 
+P plural 
+SIM  simultaneous (with the event 
+denoted by following verb) 
+PAST remote past (yesterday or earlier) SS  same Subject (as following verb)
+ 
+1.  Background Notes on Kalam Grammar 
+Kalam has two main dialects, structurally  very similar but with many differences 
+85
+[PDF PAGE 4]
+Andrew Pawley 
+in morphological forms and lexicon. Some  of the data cited here come from the 
+Etp dialect of Kaironk and some from th e Ti dialect of Gobnem, both spoken in  
+the Upper Kaironk Valley. Unless otherwis e stated, examples are from the Etp 
+dialect. 
+ 
+1.1. Word Classes 
+The principal parts of speech are verbs,  nouns, verb adjuncts, adjectives, and 
+adverbs. Brief remarks on the first three fo llow. The last two will be discussed in 
+§3. 
+Verb roots  are a small, closed class with  about 130 members. There are no 
+processes for deriving new verb stems.  H o w e v e r ,  p o l y s e m y  r o u g h l y  t r i p l e s  t h e  
+number of sense units among verb roots.  Verbs are the only part of speech to 
+carry inflectional suffixes marking tens e, aspect or mood, Subject person-and-
+number, and switch reference (see §1.3). Th e small stock of verb roots is aug-
+mented by a large body of lexicalised complex predicates. Complex predicates 
+make up between 25 and 30 percent of verbal predicates in text.  
+Nouns are a large class with many subc lasses, including personal pronouns.  
+There are two main sets of personal pronouns: the Subject (or nominative) set and 
+Object (or accusative) set. The most basi c forms in each set in the Etp dialect are 
+given below.  
+ 
+ 1 S  2 S  3 S  1 D  2 D  3 D   1 P  2 P  3 P  
+Subject yad nad nuk ct nt kikmay cn  nb kik  
+Object yp np nup ctp ntp kipmay cnp nbp kip  
+ 
+Object pronouns are used both for canonica l Direct Objects and for Indirect and 
+Dative Objects. Possessive pronouns are drawn from one or the other of these sets 
+according to whether the possessive phrase is the grammatical Subject or Object.  
+Verb adjuncts are roots or derived forms that  occur only or primarily as the 
+partner of one or a very fe w verb roots to form a complex predicate. The charac-
+teristics of this category will be described in more detail in §3.   
+ 
+1.2. Verbal Clauses and Clause Sequencing  
+A verbal clause consists minimally of an inflected verb. Many verb roots can take 
+two core arguments. A few occur with three, e.g . ñ- ‘give’, yom- ‘show’, and taw- 
+‘trade, buy, sell’. Locatives are distinguished syntactically by being able to occur 
+freely either before or after the verb. All other NPs precede the verb.  
+If core arguments are present in transitive clauses, the canonical word order is 
+S-IO-DO-V, as in (1) and (2).2 
+ 
+                                                 
+2 The most detailed account of Kalam SVCs is gi ven by Lane (1991), but other studies include 
+Givón (1990), Pawley (1987, in press), and Pawley and Lane (1998). 
+86
+[PDF PAGE 5]
+Argument Structure of Complex Predicates in Kalam 
+ 
+(1) Bin  kaj-nup piow-ya-k. 
+ w o m a n   p i g - i t (OBJ) search- 3P-PAST 
+ ‘The women searched for the pig.’ 
+ 
+(2) An np  moni ñ-a-k? 
+ who you( OBJ) money give- 3S-PAST 
+ ‘ W h o  g a v e  m o n e y  t o  y o u ? ’  
+ 
+Departures from this word order are fairly common. For example, a focused 
+Object (animate or inanimate) can preced e an animate Subject. When the Object 
+is animate and the Subject is inanimate, the Object usually comes first.  
+Except for personal pronouns, there is no case-marking on core arguments, 
+peripheral arguments, or adjuncts.  
+Because zero anaphora is normal for esta blished referents, transitive clauses 
+often occur without an overt Subject or  Object NP. Nouns representing Subject 
+and Object often occur without a determin er, especially when the referent is 
+indefinite but specific. 
+In a sequence of conjoined clauses, the inflected verb in each non-final clause 
+carries a suffix marking two semantic rela tions to the next verb: relative tense 
+(prior, simultaneous, or prospective) and same or different Subject (switch 
+reference). The final verb is marked for absolute tense and Subject reference.  
+ 
+1.3. Criteria Defining Subjects, Objects, and Peripheral Arguments 
+In clauses that have as their head a tran sitive verb (either a single root or a com-
+plex verb), Subject and Object are distinguished by a number of diagnostics. 
+ 
+1.3.1. Subject 
+Subjects link with the thematic roles of Agent, Effector, Experiencer, and 
+Theme/Patient, probably in that order. I will refer to the highest-ranked role as the 
+Logical Subject. The grammatical (surface)  Subject of a verbal clause can be 
+identified using the following formal criteria: 
+ 
+(a) When the Subject is a free pronoun,  it selects a pronoun from the Subject 
+class. This class also marks extra-clausal topics as well as possessors that 
+are not grammatical Objects. 
+ 
+(b) Agreement in clauses with a simple ve rb: the Subject is the NP that is co-
+referential with the person-number suffix on the main verb. An animacy 
+hierarchy operates in marking number.  W i t h  h u m a n  S u b j e c t s ,  t h e  v e r b a l  
+suffix must distinguish si ngular, dual, or plural. When higher animals are 
+Subjects, the suffix usually distinguis hes number, but in some contexts 
+need not do so, using the singular as the default. With lower animal Sub-
+jects, the suffix seldom distinguishe s number, but may do so. With inani-
+mate Subjects, the verbal suffix is always third person singular.  
+87
+[PDF PAGE 6]
+Andrew Pawley 
+(c) Subjects control verb morphology marking switch reference. 
+ 
+(d) Only Subjects of transitive verb s can be antecedents of the marker key in 
+its reflexive sense (with Agent-Patient verbs) and in its sole participant 
+sense (‘by oneself, acting alone’) (with Effector or Experiencer Subject 
+verbs and Agent-Theme verbs). 
+ 
+(e) Subjects prefer first position in the clause. 
+ 
+(f) The verbal negative pro-clitic ma- seldom, if ever, precedes Subjects, but 
+occasionally (under some conditions) precedes Objects (when these are a 
+full NP) and Instruments, and often precedes verb adjuncts. 
+ 
+1.3.2. Object 
+Objects link with Experiencer, Patient, Beneficiary, Theme, Place, and Goal. 
+Formal tests for identifying Object NPs (D irect and Indirect Object) are as fol-
+lows: 
+ 
+(a) When the Object NP is a pronoun, the pronoun is drawn from the Object 
+class.  
+ 
+(b) When an animate Object is repres ented by a full NP, the NP is optionally 
+followed by an Object pronoun. 
+ 
+(c) The preferred position for Objects is after the Subject and before the verb. 
+Direct Objects normally follow Indirect Objects. 
+ 
+(d) Although it usually follows, the verbal negative pro-clitic ma- can precede 
+a light Object NP other than a pronoun. 
+ 
+Subject and Object are at the very least convenient labels for grammatical re-
+lations that are marked by a cluster of mo rphological and syntactic  features. It is 
+true that these morphosyntactic features in most cases mark the same NPs that can 
+be identified by a semantic criterion: the NPs with the highest and second highest 
+ranked thematic role in the clause. Howeve r, there are exceptions to this generali-
+zation, to be discussed in §2 and §4.  
+ 
+2. Serial Verb Constructions 
+2.1. General Characteristics 
+Kalam serial verb constructions (SVCs)  p r o v i d e  a n  e l e g a n t  a n d  s t r e a m l i n e d  
+mechanism for expressing certain kinds of  event sequences or overlapping event 
+clusters in a single clause. 2 T h e  p r e d i c a t e  ( v e r b  p h r a s e ) of an SVC has as its 
+nucleus a verb series, in which one or more bare ve rb roots precedes an inflected 
+verb root. There is no grammatical limit to the number of verb roots that can 
+88
+[PDF PAGE 7]
+Argument Structure of Complex Predicates in Kalam 
+ 
+occur in an SVC. In practice, if we excl ude iteration of verb roots to show repeti-
+tion or continuity, the limit seems to be  about ten. The question is: What are the 
+semantic constraints on possible SVCs?  
+Typically, each verb root in an SVC sp ecifies a separate event in a sequence 
+or an event that overlaps in time with another. The verbs must share the same 
+tense/aspect/mood marking, and this appears only on the final verb. (In schematic 
+representations of verb se ries, only the final verb is followed by a hyphen to 
+indicate the placement of inflections.) In mo st types of SVC, the verb series falls 
+under the scope of a single negator and is uttered within a single intonation 
+contour. Some of the main structural features of SVCs are illustrated by (3) and 
+the second clause of (4). Verb roots and their glosses appear in boldface. 
+ 
+(3)  Am d aw -an! 
+  go get come -2S.IMP 
+  ‘ F e t c h  ( i t ) ! ’  ( l i t .  ‘ G o  g e t  ( i t )  a n d  c o m e ! ’ )  
+ 
+(4)  Wel  d-l,   
+  o i l   get-SS.PRIOR 
+  yp wik  d  ap  tan  d ap yap  g -s<a>p. 
+me rub  get come ascend get come descend do -PRES.PROG<3S> 
+‘He is massaging me with oil.’ (or: ‘Using oil, he is giving me a rub-
+down.’) 
+ 
+In terms of their semantic and syntactic  structure, SVCs can be divided into 
+two main types: compact and narrative SVCs.  
+ 
+2.2. Compact SVCs 
+Compact SVCs express a tight-knit event sequence, one where the constituent 
+events are connected in a causal or close temporal relation. The verb series is also 
+syntactically tight-knit. No arguments can  b e  i n s e r t e d  w i t h i n  i t .  L o c a t i v e s  c a n  
+either precede or follow the verb series; all other arguments must precede it. The 
+negative clitic and any adverbial modifiers must precede the entire series. Com-
+pact SVCs can be regarded as lexicalized phrases and are often translatable by a 
+single verb in English. Some examples are: d am- (get go) ‘take’, d ap- (get come) 
+‘bring’, p t k  a m - (fear go) ‘flee’, ag ñ-  (say transfer) ‘tell’, ag ask-  (say avoid) 
+‘refuse’, ag ay-  ( s a y  s t a b i l i s e )  ‘ m a k e  a n  a p p o i n t m e n t ,  a s k  t o  s t a y ’ ,  ag n 0- ( s a y  
+perceive) ‘ask’, d n 0- (touch perceive) ‘feel’, ñb n0- (consume perceive) ‘taste’, 
+pk cg- (strike adhere) ‘a ttach, stick on’, d ap tan d ap yap- (hold come ascend 
+hold come descend) ‘move back and fort h’. While most compact SVCs contain 
+two to four verb roots, th ey are not limited to this ra nge. Thus, the second clause 
+of (4) contains an eight-verb sequence which is arguably a single compact SVC. 
+The constraints on the marking of gramma tical relations in compact SVCs are 
+like single-verb clauses: only one Subject  and one Object NP can be expressed. 
+The final verb in the series is always in flected to agree with the Logical Subject 
+89
+[PDF PAGE 8]
+Andrew Pawley 
+(the most prominent thematic role) of the first verb in the series. In most kinds of 
+compact SVC this requires no adjustment in the surface structure: all the verbs 
+share the same Logical Subject. There is , however, one type where this perfect 
+match between Surface Subject and Logical Subject does not hold: resultative or 
+cause-effect SVCs, exemplified in (5). 
+ 
+(5)  pk cg- (strike stick)  ‘stick sth. on, cause sth. to adhere’  
+  pk wk- (strike shattered) ‘knock sth. to bits, shatter sth.’ 
+  pk sug-  (strike extinguished) ‘put out (a fire)’ 
+  pug sug- (blow extinguished) ‘blow out (a flame)’ 
+  pu 0i ask- (pierce open)  ‘prise sth. open’ 
+  pu 0i lak- (pierce split)  ‘split sth. by wedging or levering’  
+   ag yok- (say move.away) ‘send s.o. away, dismiss s.o.’ 
+  d am yok- ( g e t  g o  m o v e . a w a y )  ‘ g e t  r i d  o f  s t h . ,  t a k e  s t h .  a w a y ’  
+  pk lug yok-  (strike slide move.away) ‘brush or sweep sth. away’ 
+  pu 0i ju- (pierce withdraw) ‘extr act sth. with a probe’ 
+  taw lug-  (step.on slide)  ‘push st h. away with the feet’ 
+  taw pag yok- (step.on broken displace) ‘break sth. off by stepping on it’  
+  tb kluk yok-  (cut gouge displace) ‘gouge st h. out (the centre of sth.)’ 
+ 
+In the simplest case, resultative SVCs contain just two verbs: V1 is transitive 
+and specifies an activity, usually a verb of contact, and V2 is intransitive and 
+specifies a state or movement. The meani ng derived from the sequence is that the 
+event denoted by V1 precedes and causes the event denoted by V2, the verb of 
+result. The two verbs share an argument: the Logical Subject of V2, the entity 
+which is in a state or which moves, is also the Patient of V1, the entity which 
+suffers contact. When it comes to marking of Subject, the two verbs behave like a 
+single compound transitive verb. V1 is ba re, and V2 carries agreement suffixes 
+referring only to the Logical Subject of V1. That is to say, the SVC adopts the 
+functional structure of the initial, transitiv e verb, while that of the final, intransi-
+tive verb is ignored. This sort of re working of mismatched lexical argument 
+structures to create a unified structure in the complex resultative predicate is 
+crosslinguistically familiar. 
+Resultative SVCs are not restricted to two verb roots. More than one verb root 
+can fill the V1 slot, so long as the first verb is transiti ve and the other roots share 
+with it the same Logical Subjec t. Examples in (5) above are d am yok  ( g e t  g o  
+move.away) ‘get rid of s.th.’ and pk lug yok (strike slide move.away) ‘brush s.th. 
+away’. More than one verb can fill the V2  slot, so long as all the verb roots are 
+intransitive and share with it the same  Logical Subject. An example in (5) is  taw 
+pag yok- (step.on broken move.away) ‘break s.th. off by stepping on it’. 
+ 
+2.3. Narrative SVCs  
+Narrative SVCs have a much more comp lex sem antic and constituent structure 
+than compact SVCs. They express in formulaic form a sequence of distinct events 
+90
+[PDF PAGE 9]
+Argument Structure of Complex Predicates in Kalam 
+ 
+or distinct event clusters, each taking pl ace at different times and in different 
+places, that together make up an episode, a short story.  
+Narrative SVCs can readily be paraphras ed by a chain of clauses. However, a 
+sequence of clauses can be reduced to an SVC only under certain conditions. The 
+clauses must be coordinate; the initial ve rbs in each clause must share the same 
+Logical Subject and the same Patient (if any); the clauses must report a sequence 
+of events which taken together conforms to Kalam discourse structure conven-
+tions for a minimal well-formed report; and the report must be of a familiar class 
+of episodes. For example, a well-formed report on someone’s gathering of food or 
+materials should mention four stages: (1) the actor’s movement (if any) to the 
+scene of the gathering, (2) the gathering activities, (3) transport of the goods to the 
+scene of disposal (if it occurs), and (4) the disposal activities, such as cooking and 
+eating, distribution, or storage.   
+Any single stage of a narrative may be represented by an SVC, but to qualify 
+as a narrative SVC, two or more stages of the narrative must be included in the 
+SVC. In example (6), all four stages of  a gathering (hunting) episode are repre-
+sented. In (7) and (8), stag es 2-4 are present. Example (9) reports a different kind 
+of episode: escape from confinement, wh ere the component stages are somewhat 
+different. Examples (6)-(9) are all in the Ti dialect. 
+ 
+(6)  Basd   skop … am kmn  pak d ap ad ñb -elgp-al. 
+  g r a n d f a t h e r  d i s t a n t  go a n i m a l  kill get come cook eat- PAST.HAB.3PL 
+‘Our distant ancestors…used to hunt [lit. go, kill, bring back, cook and 
+eat] game mammals.’  
+ ( kmn ‘the larger marsupials and arboreal rodents, which men hunt’)   
+ 
+(7)  …mj  bep tk   d  ap   nb okya ƾ yok-l ,… 
+   leaf plant sever get  come   place below throw-SS:PRIOR 
+  ‘…having gathered bep leaves and brought and tipped (them) below’ 
+ 
+(8)  …kuñp    ognap  tb    d  am katp-at okok l-l,… 
+      kuñp(leaves) some   cut  get go  house-area about put-SS:PRIOR 
+  ‘…having gathered kuñp leaves and taken to the house and put (them),…’ 
+ 
+(9)  Ognap   am su ñb ñb  mgan  okda 0 nb   pag  jak -l,… 
+   sometimes go bite  eat eat inside  there place break rise.up -SS:PRIOR 
+‘Sometimes, having chewed their way through from inside (the burrow 
+and protective foliage), they break out…’ 
+ 
+Each stage in a narrative SVC is represented by a separate predicate phrase, 
+which may be a compact SVC, a single ver b, or certain other sequences of verb 
+roots. The predicate phrases show some degree of syntactic independence from 
+one another. Each predicate phrase can ta ke separate adverbial modifiers, for 
+instance, and one sometimes finds that two predicate phrases each has its own 
+91
+[PDF PAGE 10]
+Andrew Pawley 
+Locative adjunct, as in (7). A negative proclitic having scope over the whole SVC 
+may either precede the entire verb seri es or may precede the final verb. The 
+negative clitic may also negate only the final verb, in which case it immediately 
+precedes that verb. 
+In spite of their considerable seman tic and syntactic complexity, narrative 
+SVCs have a core argument structure that  is no more complex than that of com-
+pact SVCs. No matter how many predicat e phrases the narrative SVC contains, 
+only one Subject NP and one Object NP can  appear overtly. Subject agreement is 
+only marked once on the final verb in th e construction. The in itial verbs of all 
+predicate phrases in the narrative SVC mu st have the same Logical Subject. If 
+more than one predicate phrase has an ( understood or overt) Object, this must be 
+shared.  
+ 
+3. Verb Adjunct Constructions 
+3.1. General Characteristics  
+Verb adjunct constructions (VACs) have the following grammatical and semantic 
+characteristics:  
+ 
+(a) They consist minimally of a verb adj unct plus a verb. Verb adjuncts are an 
+open class of roots and derived word s, with several hundred recorded 
+members which occur only as the partner of a verb in a complex predicate. 
+(New members may be recruited to the class by derivational processes 
+and/or by borrowing.) 
+ 
+(b)  The verb root is inflected, except when the VAC functi ons as a non-final 
+serial verb.  
+ 
+(c) They express a single event.   
+ 
+(d) The verb root serves as a classifier. It marks the event as being of a certain 
+general semantic type. The verb adjunct specifies the event as being of a 
+particular subtype of this class or as  adding an associated activity to that 
+depicted by the verb root. Only about 20 verbs take part in verb adjunct 
+constructions. 
+ 
+(e) The verb adjunct contributes to the argument structure of the VAC and can 
+be viewed as a co-predicate. 
+ 
+VACs are exemplified by (10)-(12). In th ese and later examples, the verb ad-
+junct and verb roots appear in boldface, and the whole verb adjunct construction 
+is bounded by square brackets. In an attemp t to provide a gloss that is neutral 
+between verb, noun, and adverb, a ger undive gloss (e.g. perching.together, 
+begging, slithering) is used for some verb adjuncts. 
+ 
+92
+[PDF PAGE 11]
+Argument Structure of Complex Predicates in Kalam 
+ 
+(10) Sawan [ guglum ag -ig] k-j<a>p. 
+ Sawan snoring  say-SS.SIM s l e e p -PRES.PROG<3SG> 
+ ‘Sawan is asleep, snoring.’ 
+ 
+(11) Yakt omay ok [ gub  g-i] md-p-it. 
+  bird two those perching.together do -SS.PRIOR s t a y -PF-3D 
+  ‘Those two birds are perched together.’ 
+ 
+Usually the adjunct and verb root are c ontiguous, but certain kinds of material 
+may intervene, e.g. locative phrases as in  ( 1 2 ) ,  q u e s t i o n  w o r ds as in (13), and 
+modifiers and negators.  
+ 
+(12)  Tap tubtub-toktok wad g-i, [ dad m s  amn-a-k]. 
+  things  knick-knacks bag do- SS-PRIOR carrying outside go-3S-PAST 
+  ‘Having put his personal effects in a string bag, he carried them outside.’  
+ 
+(13) Pa-skoy [ si etp-nen ag-a-k]? 
+ g i r l - s m a l l   crying what-for say-3S-PAST 
+ ‘ W h y  d i d  t h e  g i r l  c r y ? ’  
+ 
+3.2.  Classes of Verb Adjunct Construction 
+VACs can be classified in the first place according to the meaning of the verb 
+adjuncts and the verb (or verbs) they select as co-predicate. Examples follow from 
+each of the three largest classes. 
+A sizeable class of verb adjuncts select s a verb of locomotion and denotes the 
+manner, direction, or concomitant of the actor’s movement. The locomotion verbs 
+that take the widest range of verb adjuncts are am- ‘go’ and ap- ‘come, appear’. 
+Some adjuncts also occur with  tag- ‘walk about, travel’, sa0d- ‘depart’, yap- ‘go 
+down, fall’, tan- ‘go up, climb’, ju- ‘withdraw’, and  y o k - ‘move away, be dis-
+placed’. Most verb adjuncts that occur w ith a verb of locomotion fall into one or 
+another of the semantic categories shown in (14). 
+ 
+(14) a. Manner of actor’s movement along a path  
+  k l e 0d am-   (crawling go) ‘crawl’ 
+  mumlokd  am-  (rolling, tumbling go) ‘f all over, tumble down’  
+  pug-tkd am-   (running go) ‘run’ 
+  t a w d  am-  (stepping go) ‘walk’ 
+  wald am-   (sliding, slithering go) ‘slide, slither’ 
+  w a 0d am-  (carried.by.water go) ‘float along’  
+  w 0d am-  (flying go) ‘fly’ 
+ 
+b. Direction of actor’s movement in relation to path or deictic centre 
+ gogeb-mageb am-   (zigzagging go) ‘zigzag along’ 
+ koda 0 kodo0 am-   (hither and thither go) ‘go hither and thither’ 
+93
+[PDF PAGE 12]
+Andrew Pawley 
+ pa 0d am-  (passing out of sight go) ‘pass from view’  
+ adkd am-  (turning back, revers ing go) ‘turn back’  
+ skd am-d   (entering go) ‘go in, enter (an enclo-
+sure)’ 
+ tkd am-  (crossing over go) ‘c ross over (a divide)’ 
+ 
+ c. Manner in which a burden is tran sported or a person/animal is accom-
+panied 
+ dad am- (carrying go) ‘carry sth.’ 
+ po 0d am- (guiding go) ‘guide s.o., take s.o. (to a 
+place)’ 
+ sb am-  (brandishing go) ‘go brandishing sth. (usu-
+ally a weapon)’ 
+ k o s i0d am- ( s t a c k e d ,  p i l e d  g o )   ‘ g o  c a r r y i n g  s t h .  o n  t h e  
+back’ 
+ w t s e k am- (chasing go) ‘chase, pursue s.o.’ 
+ 
+The combined arguments of certain VACs exceed those of any of the constituent 
+predicates. This applies to the VACs in (14c) where each of the verb adjuncts 
+refers to a separate particip ant. In (15) a verb adjunct  po 0d ‘guiding, leading, 
+accompanying (a person or animal)’ is paired with the verb ap- ‘come’. 
+ 
+(15) Yad b tud nup kotp-cn poƾd ow -n-k. 
+ I man white him house-our leading come -1S-PAST 
+ ‘ I ’ v e  b r o u g h t  t h e  w h i t e  m a n  t o  o u r  h o m e . ’  
+ 
+The adjunct here contributes two partic ipants: a guider (thematic Agent, gram-
+matical Subject) and a guidee (Theme, Obj ect). The verb also contributes two 
+participants: a comer (Agent, Subject) a nd a destination (Goal, Locative). The 
+guider and the comer are coreferential. Together these two elements create a 
+three-place predicate: guider/comer (Agent, Subject), guidee (Theme, Object), 
+and destination (Goal, Locative). 
+In (16), the adjunct dad ‘carrying (inanimate object)’ is paired with the verb n- 
+‘join others on a trip, catch up with someone who has left’. 
+ 
+(16) Cn np  mdak ayn-bogs dad  n -ngp-un. 
+  we  you( SG.OBJ) later iron-box carrying join- FUT-1P 
+  ‘ W e  w i l l  j o i n  y o u  l a t e r  b r i n g i n g  t h e  m e t a l  t r u n k . ’  
+ 
+Together they create a three-place predicate. The adjunct  dad contributes a carrier 
+(Agent, Subject) and a burden (Theme, Object). The verb n- contributes a joiner 
+(Actor, Subject) and a joinee (Goal, Object). The carrier and the joiner are 
+coreferential. In (16) the burden is the Di rect Object, and the person joined is the 
+Indirect Object. 
+94
+[PDF PAGE 13]
+Argument Structure of Complex Predicates in Kalam 
+ 
+There is a large class of verb adjuncts which select the verb ag- ‘talk, say, 
+make a sound’. These verb adjuncts almost all refer to kinds of noises. As the sole 
+head of a verb, ag- has both intransitive and transitive uses. Some VACs contain-
+ing ag- are intransitive, as in (17a). Others, where the adjunct refers to a form of 
+speech, are transitive, as in (17b). 
+ 
+(17)   Some VACs containing ag- ‘say, make a sound, etc.’ 
+ 
+  a.  intransitive constructions 
+   bu ag-  ( e x p l o d i n g  s a y )     ‘ e x p l o d e ,  b u r s t ’    
+  gigu ag-    (rattling say)    ‘rattle, jingle’ 
+  guglak ag-   (croaking say)    ‘croak’ 
+  guglum ag - (snoring say)    ‘snore’ 
+  mukbel ag (belching) say    ‘belch’ 
+ 
+ b .    t r a n s i t i v e  c o n s t r u c t i o n s   
+     asb ag-    (begging say)    ‘keep asking s.o. for things to be  
+          given’  
+  paj ag-   (taunting say)    ‘taunt  s.o. over their misfortune’ 
+   kub ag-  ( l o u d . c a l l i n g  s a y )    ‘ c a l l  l o u d l y  t o  s . o . ’  
+   kuk ag-  (alarm.calling say)   ‘shout an alarm to s.o.’ 
+ 
+Given that ag- out of context is of indeterminate transitivity, it seems that the 
+transitivity of a given VAC string containing this verb is determined by the verb 
+adjunct. In intransitive constructions,  t h e  v e r b  a d j u n c t  i s  a  s i n g l e  a r g u m e n t  
+predicate referring to a kind of sound that  is not speech and so is not (on a normal 
+reading) addressed to anyone. In transitive constructions, the verb adjunct denotes 
+a form of speech which implies an addressee.  
+The verb that takes the largest number of verb adjuncts is g- ‘act, function, do, 
+make, perform’, the most  general activity and process verb. This verb, too, has 
+both intransitive and transitive uses. VACs that contain g- generally denote either  
+(a) an intentional act, (b) a dynamic event attributed to an in animate effector, or 
+(c) a state. Examples are given in (18). So me verb adjunct phrases belong to more 
+than one category, e.g. those in (18c) have  a dynamic (and transitive) reading, but 
+some also have a stative reading (18d). Although g- is glossed as ‘do’ throughout, 
+in some contexts the gloss might equally well be ‘make’ and in others, ‘be’. 
+ 
+(18)    Some verb adjuncts occurring with  g- ‘do’ 
+    
+   a .  i n t r a n s i t i v e  V A C s  d e n o t i n g  i n t e n t i o n a l  a c t s   
+  gub g- (perching.together do) (of birds) ‘perch together’ 
+   jlan g- (nodding do) ‘nod the head rhythmically’ 
+  gsey-bsey g-  (hurry-scurrying do) ‘hurr y, be in a hurry or rush’ 
+  ñk g- (crouching do) ‘crouch, duck’ 
+95
+[PDF PAGE 14]
+Andrew Pawley 
+ b.   transitive VACs denoting intentional acts 
+  bl g-  (abstaining do)  ‘abstain from an activity’  
+  gadal-badal g-  (criss-crossing do)  ‘l ay things criss-cross’  
+  gdey-bdey g-  (rumple-jumpling do) ‘do something roughly’ 
+  saj g-  (compensating do)  ‘pay compensation’ 
+ 
+    c. transitive VACs denoting events with inanimate Effectors  
+  gti0-gto0 g-  (ding-donging do)  ‘make a lot of noise, make a 
+din or racket’ 
+  gley-wley g-  (clitter-clattering do)  ‘ra ttle, clatter, as bones, 
+metal objects’  
+  kawn g-  (swaying do)  ‘swing, rock, sway, flap’ 
+  kopay-mopay g-   (blowing.fiercely do)  (of storm winds) ‘blow 
+fiercely’ 
+  lm g-  (shooting do)  (of plant suckers) ‘shoot up’ 
+  wnwn g-  ( p e e l i n g  d o )   ( o f ,  e . g . ,  b a r k )  ‘ p e e l  o f f ,  f a l l  
+to bits’ 
+ 
+   d .  i n t r a n s i t i v e  V A C s  d e n o t i n g  s t a t e s   
+  gadal-badal g-  (criss-crossing do)  ‘be higgledy-piggledy, 
+criss-crossed’ 
+   gdey-bdey g-  (rumple-dumpling do) ‘be in disarray’ 
+   gogeb-mageb g- ( t w i s t e d  d o )   ‘ b e  t w i s t e d ,  c r o o k e d ’  
+   gutgat g-  (drenched do)  ‘be drenched and cold’ 
+  kolkol g-  (tangled do)  ‘be tangled’ 
+   jl g-  (loose-fitting do)  ‘be loose, loose-fitting’ 
+ 
+As with ag-, it seems that the verb adjunct determines the transitivity of VACs 
+containing g-.  
+ 
+3.3. Are Verb Adjuncts a Distinct Part of Speech? 
+The verb adjunct category is proble matic. Although some common features 
+distinguish this class from other parts of speech, its members are far from homo-
+geneous in semantic type or syntactic be havior. In meaning, some verb adjuncts 
+resemble prototypical verbs, while others  resemble nouns, adjectives, or adverbs. 
+In their grammatical behavior, verb adjuncts are sharply distinct from verbs. Verb 
+adjuncts cannot take verbal inflections and cannot occur alone as the head of a 
+predicate phrase. They differ from adjectives, which can modify nouns. 
+Verb adjuncts resemble adverbs in bei ng modifiers of verbs. However, they 
+differ from typical adverbs in several re spects: (a) an adverb can combine with 
+many different verb roots whereas a verb adjunct can combine only with a very 
+restricted set; (b) adding an adjunct in some cases creates a complex predicate 
+with a different argument structure from the verb root alone, whereas adverbial 
+modifiers do not affect the valency of the predicate phrase; (c) adjuncts can take 
+96
+[PDF PAGE 15]
+Argument Structure of Complex Predicates in Kalam 
+ 
+at least some adjectival modifiers but adverbs cannot; (d) adverbs modify the verb 
+in a general sense and in a graded way, e.g. for speed, intensity, or purposefulness, 
+whereas verb adjuncts typically specify a particular kind of action, process, or 
+state that is a subtype of  the category of event denoted by the verb; and (e) 
+whereas adverbs may modify the whole VP , the scope of verb adjuncts is re-
+stricted to the verb. 
+Canonical verb adjuncts differ from nouns in that they are cannot be possessed 
+or quantified and cannot be questioned, t opicalized, or relativized. Some verb 
+adjuncts resemble nouns in that they can  be modified by intensifying adjectives 
+(such as yob ‘big, loud’, ko0ay ‘many’, tmey ‘bad, intensifier’, and naban ‘very’) 
+and in that they represent a propositional participant of a performance verb such 
+as ag- ‘say’ and g- ‘do’, i.e. the adjunct represen ts something said or done. One 
+has to say something, and one has to do something. Thus, in (11), gub ‘perching 
+together’ is the action performed, and in (13),  s i ‘ c r y i n g ’  i s  t h e  s o u n d  t h a t  i s  
+uttered even though neither verb adjunct has strong claims to be the direct object. 
+In these respects, they resemble incor porated objects in many languages, some 
+coverbs in Jaminjung (Schultze-Berndt  2000:189-190), and to some extent 
+nominals in some N+V complex predicates  in Hindi which serve both as argu-
+ments and as predicates (Mohanan 1997).  
+Foley (1986:117-119) would extend the class of verb adjunct constructions in 
+Kalam to include sequences where the ‘adjunct’ is a typical noun which occurs 
+before a verb to form a conventional expression, e.g. wdn n0- (eye perceive) ‘see’, 
+tmd n 0- ( e a r  p e r c e i v e )  ‘ h e a r ’ ,  gos n 0- (thought/mind perceive) ‘think’, wsn n 0- 
+(dream perceive) ‘dream’, mnm ag-  (speech say) ‘speak’, kmap ag-  ( s o n g  s a y )  
+‘sing’. In such expressions the nouns are non-referential, so are not arguments, 
+and can be viewed as incorporated in the predicate phrase. (Nouns occurring in 
+such sequences are referred to in Pawley et  al. (2000) as ‘quasi verb adjuncts’, in 
+contrast to ‘true verb adjuncts’.) A pr oblem is that these nouns have different 
+combinational privileges from true verb adjuncts. Unlike verb adjuncts, the nouns 
+can take determiners, quantifiers, and possessors, and they can be arguments. 
+Thus, mnm ‘speech’ and kmap ‘song’ can be the Direct Object of ag- ‘say, utter, 
+make a sound’ and wdn ‘eye’ and tmd ‘ear’ can be treated as Locatives or Instru-
+ments (the place or means of perception) of n0- ‘perceive’.  
+Adopting a constructional approach might allow us to have the best of both 
+worlds. Constructions where an incorporated non-referential noun modifies a verb 
+show a strong family resemblance to, or formal overlap with, constructions where 
+a non-referential verb adjunct modifies a verb. This family resemblance might be 
+formally represented by positing a single major construction type which subsumes 
+both verb adjuncts and incorporated nouns, while also recognizing that there are a 
+number of subtypes in this family. The fact that these nouns can also occur as 
+Direct Objects or Instruments would be  captured by recognizing another set of 
+constructions.  
+ 
+97
+[PDF PAGE 16]
+Andrew Pawley 
+4. Involuntary Experience Constructions 
+4.1. General Characteristics 
+It is the third group of constructions, involuntary experience constructions (IECs), 
+that is hardest to analyze.3 IECs denote uncontrolled bodily or mental events, such 
+as bleeding, sweating, shivering, feeling si ck, hungry, or angry, needing to vomit, 
+being overcome by laughter, or having boils, warts, or pimples. It is well-known 
+that languages vary a good deal in how they describe such events, in particular in 
+the grammatical status given to the Experiencer and to the constituent (be it verbal 
+or nominal) denoting the bodily or mental processes.   
+Unlike English, Kalam expresses many uncontrolled bodily and mental ex-
+periences by transitive clauses, albeit non-t ypical ones. It is tr ansitive IECs that 
+we are concerned with here. These clause s require at least two nominal partici-
+pants. One participant, which I will refer to by the cover term ‘Condition’, refers 
+to a bodily or mental process or state that affects the Experiencer. The other 
+represents either an Experiencer NP or a Location NP. The Location NP refers to 
+the body part that is the locus of the Condition. It is usually possessed, or the 
+possessor is recoverable from the context. When the Experiencer consists of a 
+pronoun, it is always accusative. Likewise, when a body part nominal in an IEC is 
+possessed, it is always possessed by an accusative pronoun.  
+The verb (which may be a single verb  o r  a  c o m p a c t  S V C )  m a r k s  a  r e l a t i o n  
+between these participants, specifical ly the manner in which the Condition 
+manifests itself in or affects the Expe riencer or body part. For example, a Condi-
+tion may ‘appear’, ‘form’, ‘fa ll’, ‘rise’, ‘grow’, or ‘act’ on, or it may ‘pierce’ or 
+‘eat’ the Experiencer. The us ual order of constituents is LOCATION EXPERIENCER 
+CONDITION VERB , as in (19)-(24). However, in some kinds of IECs, the three 
+preverbal constituents can occur in any order. In (19-24) and later examples, the 
+Condition nominal and the verb root(s) are shown in boldface. 
+ 
+(19) Np  wsb jak-s<a>p. 
+ you. S(OBJ) sweat rise -PRES.PROG<3S> 
+ ‘ Y o u  a r e  s t a r t i n g  t o  s w e a t . ’  
+ 
+(20) Nup  suk ow -p. 
+ h i m  laughter come -PF-3S 
+ ‘He is about to laugh.’/‘He feels like laughing.’ 
+ 
+(21) Yp  ydk g -p. 
+ m e  good-tasting do -PF.3S 
+ ‘ I t  t a s t e s  g o o d  t o  m e . ’  
+ 
+                                                 
+3 A fuller account of Kalam IECs is given in Pawley et al. (2000). The only other detailed 
+treatment of IECs in a TNG language that I am aware of is a very thorough analysis of Amele by 
+Roberts (2001). Amele IECs work somewhat differently from those of Kalam.  
+98
+[PDF PAGE 17]
+Argument Structure of Complex Predicates in Kalam 
+ 
+(22) Kud=yp ak yuwt g -s<a>p. 
+ b a c k = m y (OBJ) the  pain do -PRES.PROG<3S> 
+ ‘ I t  i s  m y  b a c k  t h a t  i s  h u r t i n g . ’   
+ 
+(23) Jun=np yuwt t m e y  g-p. 
+ head=her pain bad do-PF-3S 
+ ‘ S h e  h a s  a  b a d  h e a d a c h e . ’ / ‘ H e r  h e a d  i s  h u r t i n g  b a d l y . ’  
+ 
+(24) Tglm-wagn=yp puƾi ñb-s<a>p. 
+ ribs-base=my( OBJ) pierce eat -PRES.PROG<3S>. 
+  ‘ T h e r e ’ s  a  s h a r p  p a i n  i n  m y  r i b c a g e ’ .  
+ 
+The grammatical status of the Experien cer and Location nominals in IECs is 
+clear. Given that they sel ect an accusative pronoun, these must be regarded as 
+Objects of a sort. They cannot be the S ubject, for three main reasons. First, the 
+Experiencer is represented by a pronoun fr om the Object set.  Second, the person-
+number suffix on the verb does not agree with the Experiencer NP; the verb is 
+always marked for third person singular. Third, in this cla ss of constructions, 
+switch reference, a syntactic process sensitive to Subject identity or change across 
+clauses, cannot be triggered by the Experiencer or Location NP.  
+Some IECs contain separate Experien cer and (non-possessed) Location NPs, 
+as in (25). This co-occurrence requires a distinction to be made in such construc-
+tions between two kinds of Objects, call them ‘Direct’ and ‘Locative’ Objects. 
+ 
+(25) Yp mablep kogm  ay-a-k. 
+me wart(s)  knee form-3S-PAST 
+‘I had a wart/warts on the knee.’ (lit. ‘Wart(s) formed on me on the knee.’) 
+ 
+4.2. What Is the Status of the Conditi on Nominal (and Other Questions)?  
+Various questions arise in the analysis of IECs. What is the grammatical role 
+played by the Condition nominal? Is it the Subject? Is it a kind of verb adjunct, 
+and so part of a complex predicate? Or does it contrive to be both verb adjunct 
+and incorporated Subject? Do IECs have a Subject at all? Is a uniform analysis of 
+IECs possible, or is this a disparate cl ass? Another question concerns the source 
+of the argument structure of IECs. Is this  projected by the verb, or does it belong 
+to the construction as a whole? 
+Foley (1986), writing about Kalam IE Cs, and Donohue (2005), writing about 
+IECs in another TNG language, Lani, rega rd the Condition nominal as a kind of 
+verb adjunct, forming a complex predicate together with the verb. On this analysis, 
+Kalam IECs would have no Subject other than a dummy representation by a third-
+person singular suffix on the verb. It is true that all Condition nominals resemble 
+verb adjuncts and differ from typical Subj ects in that they typically occur imme-
+diately before the verb (rather than in canonical Subject position verb-initially). It 
+is also true that some Condition nouns re semble verb adjuncts in that they co-
+99
+[PDF PAGE 18]
+Andrew Pawley 
+occur only with a single verb or a very few verbs, and in that they are non-
+referential, or at least ca nnot take a determiner or qua ntifier or occur as Direct 
+Objects, topics, or heads of relative clauses.   
+However, Condition nominals are not a homogeneous class. Some Condition 
+nominals score highly on standard test s for nouniness (§1.1) and show very few 
+verb adjunct propert ies (§3.1). Others (call them ‘atypical’ nouns) score rather 
+poorly on tests for nouniness and show more ve rb adjunct properties. Both sets of  
+nouns meet the most important tests for subjecthood that are applicable to IECs in 
+all constructions they occur in.  
+Unfortunately, two of the most reliable tests for identifyi ng Subjects, namely 
+(i) selection of a nominative pronoun, a nd (ii) Subject-verb agreement, are 
+indeterminate for IECs. The pronominal test does not work because Condition 
+NPs (unlike Experiencers) cannot be pronomin alized in this context. The Subject 
+agreement test is indeterminate because when the Subject NP is inanimate, the 
+verb agreement suffix is invariably thir d person singular, rega rdless of whether 
+the NP is singular, dual, or plural.  
+We are left with the four other morphosyntactic tests mentioned in §1.3 and 
+with a semantic criterion: position in the hierarchy of thematic roles. 
+ 
+4.2.1. Switch Reference as a Test of Subjecthood  
+It was noted earlier that verbs that belo ng to coordinate cl auses carry suffixes 
+marking change of Subject (DS) or same  Subject (SS). Control of switch refer-
+ence is the most powerful of the availa ble grammatical tests for subjecthood in 
+IECs. 
+All Condition nominals appear to be ab le to trigger switch reference. The 
+complex sentences (26) and ( 27) each consist of a pair of  IECs. In (26), the first 
+clause describes a bodily process which precedes (and, by imp lication, causes) a 
+sensation described in the s econd clause. A change of Subject is signalled in the 
+first clause. The only candidates for Subj ect are the Condition nominals, denoting 
+a boil and pain, respectively. 
+ 
+(26) S0l nñ=yp ay-e-k, (yp) yuwt  g -p. 
+ boil a r m = m y  form-DS.PRIOR-3S ( m e )  pain do -PF.3S 
+ ‘A boil has formed on my arm and it’s painful (to me). 
+ 
+In (27), the two clauses describe si multaneous bodily processes: a growling 
+stomach and being hungry. The first condi tion is, by implication, a symptom or 
+consequence of the second. Again, the onl y candidates for Subject are the Condi-
+tion nominals. 
+ 
+(27) Sb-wt=cnp gullg  ag -a-kn0,  cnp  yuan  g -s-a-p. 
+ innards=our rumbling say -3S-DS.SIM us hunger act- PRES.PROG<3S> 
+ ‘When our stomachs are growling, we are hungry.’  
+ ( ‘ W h e n  r u m b l i n g s  s o u n d  i n  o u r  i n n a r d s ,  h u n g e r  h a s  a c t e d  o n  u s . ’ )  
+100
+[PDF PAGE 19]
+Argument Structure of Complex Predicates in Kalam 
+ 
+In the next example, the two clauses share the same Experiencer, but not the same 
+Subject. The first clause is an IEC with an Experiencer Object and describes an 
+illness (tap) that affected the Experiencer. The second clause is not an IEC. Here 
+the Experiencer is the Subject, and ther e is no Condition no minal; instead, the 
+verb sequence describes the condition: rema ining indisposed (unable to work) for 
+a period. The only nominal available to be Subject in the IEC clause is tap. 
+ 
+(28) Nd nup tap g -e-k, (nuk) kum 
+ f i r s t  h i m  sick(ness) do- DS.PRIOR-3S.PAST (he) indisposed 
+md-igp. 
+stay-PAST.HAB.3S 
+ ‘ F i r s t  h e  g o t  s i c k ,  t h e n  ( h e )  w a s n ’ t able to do anything for some time.’ 
+ 
+In the next example, the first clause has an Agent Subject, the eater. In the second 
+clause, an IEC depicts a subsequent event in which the eater is the (understood) 
+Object, experiencing pleasure. The only av ailable candidate for Subject in the 
+second clause is tep ‘good, pleasure, pleased’. 
+ 
+(29) Ñb-e-n (yp) tep g -p. 
+ eat-DS.PRIOR.1S m e  good act- PF.3S 
+ ‘It tastes good.’ (lit. ‘I havi ng eaten, good/pleasure acts (on me).’)  
+ 
+There is a qualification to make about the switch reference test. In some cir-
+cumstances a verb can be marked for sa me-Subject-as-next-clause even when the 
+following clause has a different referent as  Subject. This option is available when 
+the first clause depicts an event with an Effector (inanimate cause) as Subject and 
+when the following clause depicts a similar class of event which is regarded as a 
+natural consequence of the first, e.g. lightning flashes, then thunder sounds. 
+Examples (30)-(31) illustrate this point. Each contains a pair of IECs containing 
+different Condition nominals, and the sec ond IEC describes an event consequent 
+upon the preceding event. 
+ 
+(30) Sƾl (nñ-yp) ay-i (yp) yuwt  g -p. 
+boil ( a r m - m y )  form-SS.PRIOR ( m e )  p a i n  a c t -PF.3S 
+‘A boil has formed (on my arm) and it’s painful (to me).’ 
+ 
+(31) Yp  wog  yuwt-bt  g -i,  yp  ytuk g -p. 
+me work exhaustion do -SS.PRIOR me lethargy act- PF.3S 
+‘I’m worn out from working.’ (lit. ‘Work weariness having acted on me, 
+lethargy has affected me.’)  
+ 
+However, marking for different subject is always an option in these circumstances 
+(with no change in meaning), so the switch reference test remains valid.  
+ 
+101
+[PDF PAGE 20]
+Andrew Pawley 
+4.2.2. Coreference with Reflexive/Sole Participant Marker key 
+It was noted in §1.3 that only S ubjects can be the antecedent of key when this 
+word marks reflexive (with Agent-Patient verbs) or refers to the sole participant in 
+an event (Effector or Experiencer Subject and Agent-Theme verbs). The Experi-
+encer in an IEC cannot be coreferential with  key in either of these senses. How-
+ever, the Condition nominal behaves like other verbs with Effector Subjects: 
+ 
+(32)  Soy mebi key ay-p. 
+ulcer here by.itself form.PF.3S 
+ ‘This sore here formed by itself.’ (e.g. there was no prior wound)  
+ 
+4.2.3. Other Tests 
+The other two morphosyntactic tests for subjecthood (preferred order of major 
+constituents in the clause and placement of the negative pro-clitic ma-) are not 
+worth a great deal. In IECs, the Conditi on nominal can occur clause-initially in 
+the preferred position for Subjects, as in (33a). However, its preferred position is 
+immediately before the verb, following th e Object (33b), and in this respect 
+Condition nominals resemble verb adjuncts. But while this is an unusual position 
+for animate Subjects, it is fairly common for an inanimate Subject (e.g. an arrow) 
+to follow an animate Object (e.g. a person wounded by the arrow). 
+ 
+(33)  a.  Yuan  yp g-p. 
+   h u n g e r  m e  d o -PF.3S 
+   ‘I am (feeling) hungry.’ 
+ 
+  b.  Yp yuan g -p. 
+   m e  h u n g e r  d o -PF.3S 
+   ‘I am (feeling) hungry.’ 
+ 
+The negative proclitic normally attaches to the verb and follows the Condition 
+NP. However, it can precede it. 
+ 
+(34)  a. Yp yuan ma=g-p. 
+   m e  hungry not=do-PF.3S 
+   ‘I am not (feeling) hungry.’ 
+ 
+  b. Yp ma= yuan  g -p. 
+   m e  n o t = hunger do -PF.3S 
+   ‘I am not (feeling) hungry.’ 
+ 
+The order in (34b), which parallels the fairly frequent occurrence of ma- before 
+verb adjuncts, might be taken as evid ence that the Condition nominal is not a 
+Subject, but is part of a verb phrase cons tituent consisting of the verb plus verb 
+adjunct (if any) plus non-Subject arguments. However, the negative clitic is rather 
+102
+[PDF PAGE 21]
+Argument Structure of Complex Predicates in Kalam 
+ 
+flexible in its placement. It is occasionally found before canonical Direct Objects 
+(if they are not pronouns) and before In struments, and some informants even 
+accept its placement before a Subject when this is an inanimate nominal (e.g. 
+yakam ‘arrow’) that is placed immediately before a verb.   
+Appealing to the ranking of thematic roles is somewhat unsatisfactory insofar 
+as it invites circularity. The ranking of roles is determined in the first place by 
+which nominals one regards as being a S ubject or not a Subject, and so on, in 
+particular cases. Nevertheless, there are clear cases, and these can be used as a 
+reference point when dealing with unclear cases.  
+ 
+4.2.4.  Cases Where the Condition Nominal Is a Canonical Noun 
+Test for nouniness allow us to gauge wh ere particular Condition nouns stand on 
+the scale of normal to peculiar Subjects. In some types of IEC, the Condition 
+nominal is a normal noun and behaves as a normal Subject nominal apart from a 
+preference for occurring next to the verb. These are chiefly Condition nominals 
+that refer to a tangible, substantial bodily condition. A selection of cases follows. 
+ 
+(a) Stable visible conditions marked by ay- ‘put, form, stabilise, become’ 
+ 
+Condition nouns denoting a stable, visible condition typically occur with the verb 
+ay- ‘ p u t ,  f o r m ,  s t a b i l i z e ,  b e c o m e ,  t u r n  into’, often with a body part nominal 
+specified. Examples of such Condition nouns are kñow0 ‘birthmark’, magi-wt  
+‘scar’, sbek ‘pimple’, slañ ‘scab’, s0l ‘boil, abscess’, soy ‘sore, ulcer’, tmd sb ‘ear-
+wax’, and wdn-sgalb ‘ s l e e p  ( d r y  s e c r e t i o n  i n  e yes)’. These are canonical nouns 
+which can take determiners, quantifiers, and possessors and can occur as Objects, 
+topics, or heads of rela tive clauses. In (35), s0l ‘boil’ takes a determiner and is 
+modified by two adjectives, the second a quantifier.    
+ 
+(35)  Nup sƾl  yob om 0al ak  alkjon ay-a-k. 
+ him boil big  two those armpit form-3S-PAST 
+ ‘He had those two large boils in the armpit.’  
+  ( l i t .  ‘ T h o s e  t w o  l a r g e  b o i l s  f o r m e d  o n  h i m  i n  t h e  a r m p i t . ’ )  
+ 
+It is noteworthy that in this type of construction the verb ay- does not carry its 
+most common sense ‘put’, but has a sense r oughly translatable as ‘be in a stable 
+condition or form’. That is to say, sens e selection in the verb in this case is 
+attributable to occurrence in a particular kind of IEC. 
+ 
+(b)  Onset of a condition or process asso ciated with a bodily product, marked 
+by ap- ‘come, appear’  
+ 
+The verb ap- ‘come, appear’ occurs both with Condition nouns that refer to 
+stationary, visible bodily conditions (such as those that occur with ay-), but also 
+with visible bodily products that are watery and mobile such as lkañ ‘blood’, si-ñg 
+103
+[PDF PAGE 22]
+Andrew Pawley 
+‘tears’, kuñk ‘saliva’, and wsb ‘ s w e a t ’ .  I n  s uch constructions, ap- i n d i c a t e s  t h e  
+onset of the condition, as in the two following examples. 
+ 
+(36) Yp  si-ñg  ow -p. 
+ m e  tears come -PF.3S 
+ ‘ I  f e e l  l i k e  c r y i n g / I ’ m  r e a d y  t o  c r y . ’   
+ 
+(37) Yp sbek ow -p. 
+ m e  pimple come -PF.3S 
+ ‘I am getting pimples.’ 
+ 
+Except in IECs, ap- ‘come’ is an intransitive verb, or at least takes only a Des-
+tination as Object, not an Experiencer. In IECs, however, it is transitive and marks 
+the condition as affecting or beginning to affect the E xperiencer. This element of 
+meaning is more naturally attributed to the construction as a whole than to the 
+verb alone. 
+ 
+(c)   Processes marked by yap- ‘fall’, jak- ‘rise’, and tan- ‘grow, climb’ 
+ 
+The verb yap- ‘fall, descend’ comb ines with certain term s for bodily products to 
+indicate a process in which the product falls, actually or metaphorically.  
+ 
+(38) Yp lkañ yow -p. 
+ m e  blood fall -PF.3S 
+ ‘ I  a m  b l e e d i n g  ( f r e e l y ) . ’  ( lit. ‘Blood has fallen on me.’) 
+ 
+(39) Yp  sb yow -p. 
+ m e  excrement fall -PF.3S 
+ ‘ I  n e e d  t o  d e f e c a t e / I  feel like defecating.’ 
+ 
+When the body part or product has to do with body wastes ( ss ‘urine’, sb ‘excre-
+ment’, ss-kogi ‘ b l a d d e r ’ ) ,  t h e  c o n v e n t i o n a l  i m p l i c a t u r e  a s s o c i a t e d  w i t h  t h e  c o n -
+struction is that the speaker has become aware of the need for elimination, as in 
+(39). Other visible bodily conditions occur with jak- ‘rise’ and tan- ‘grow, climb’. 
+As further evidence that the bodily product is the Subject in IEC expressions such 
+as (38) and (39), it is worth noting that if I am walking under a tree and blood or 
+bird droppings fall on me, it would be nor mal to use (38) to say ‘Some blood has 
+dropped on me’ and (39) to say ‘Some excrement has dropped on me’. 
+ 
+4.2.5. Cases Where the Condition Nominal Is an Atypical Noun 
+Let us now turn to some cases where th e Condition nominal is not a typical noun. 
+These are chiefly expressions where the nom inal denotes an intangible bodily or 
+mental condition, such as a sensation or internal state or process. 
+ A  n u m b e r  o f  s u c h  n o m i n a l s  o c c u r  w i t h  ap- ‘come, appear’, e.g. slg ‘cramp’, 
+104
+[PDF PAGE 23]
+Argument Structure of Complex Predicates in Kalam 
+ 
+suk ‘laughter’, and wsn ‘sleep’. In such expressions, the use of ap- indicates that 
+the Experiencer is starting to feel or be  a f f e c t e d  b y  t h e  c o n dition (the onset of 
+cramp, wanting to sleep or to laugh, as in (20)). 
+ The largest class of atypical nouns, however, occurs with g- ‘happen, do, 
+make, act or work on, affect something’. This verb combines with verb adjuncts, 
+quasi-adjuncts, and adjectives representi ng several types of Condition. Prominent 
+among these are terms for sensations (or processes that involve sensations) or 
+feelings, e.g. nab0‘shame’, yuan ‘hunger’, yuwt ‘pain’, yuwt-bt ‘exhaustion’, ytuk 
+‘lethargy’, pbo0 ‘heat, hot’,  y g e n ‘ c o l d  ( f r o m  w i n d ) ’ ,  takl ‘cold’ (general)’, km 
+‘bitter’, ydk ‘good taste, tasty’, slk ‘(i) hot-tasting, pungent, (ii) itching’, ñekñek 
+‘hiccup’, jlken ‘cough, head cold’, tap ‘sick, sickness’, kajknm ‘wince’. Names of 
+sensations are not as nouny as most ot her Condition nouns. However, they can be 
+modified for manner or intensity, as in (40)-(42). 
+ 
+(40) Yp takl tmey g -p. 
+ m e  cold awfully act -PF.3S 
+ ‘I am terribly cold.’ 
+ 
+(41) Yp nabƾ yob g -a-k. 
+ m e  shame big do -3S-PAST 
+ ‘ I  w a s  v e r y  a s h a m e d / s h y / e m b a r r a s s e d . ’   
+ 
+(42) Yp tep yb g -a-k. 
+ m e  good  true do- 3S-PAST 
+ ‘ I  f e l t  t r u l y  h a p p y / p l e a s e d . ’  
+  
+ It is doubtful whether most, if any, Condition nouns denoting sensations and 
+other invisible processes can be possessed. When an accusative pronoun immedi-
+ately follows such a noun, e.g. (43), it is likely that the pronoun is not the posses-
+sor, but belongs to a separate phrase re presenting the Experiencer and is synony-
+mous with (44):  
+ 
+(43)  Yuwt yp sayn g -p. 
+ pain me weak do -PF.3S 
+ ‘ M y  p a i n  h a s  e a s e d . ’ / ‘ T h e  p a i n  h a s  e a s e d  i n  m e . ’  
+ 
+(44)  Yp  y u w t sayn g -p. 
+ me me weak do-PF.3S 
+ ‘The pain has eased in me.’ 
+ 
+4.2.6. Clauses Where There Are Two Condition Nominals 
+Some IEC clauses contain two Condition nominals, neither of which is possessed. 
+In such cases, the second nominal denotes a sensation or other invisible process or 
+condition.   
+105
+[PDF PAGE 24]
+Andrew Pawley 
+(45)  Yp sƾl  yuwt  g- s-a-p. 
+  m e   boil pain act- PROG-3S 
+  ‘ A  b o i l  i s  c a u s i n g  m e  p a i n . ’   
+ 
+(46) Yp jlken mñak g -p. 
+ m e  cough sickness do -PF.3S 
+ ‘I am a bit sick with a cough.’ 
+  
+ W h a t  i s  t h e  s t r u c t u r e  o f  s u c h  s e q u e n c e s ?  T h r e e  d i f f e r e n t  i n t e r p r e t a t i o n s  
+suggest themselves. One is that one nomin al modifies the other, forming a com-
+plex NP which is the Subject. In (45), this would require s0l yuan  t o  b e  i n t e r -
+preted as ‘(a) painful boil’  and in  (46), jlken mñak  as ‘(a) cough sickness’ (cf. 
+mñak ‘non-serious, short-lived sickness’).  There is, however, clear evidence 
+against this interpretation, namely that the Experiencer can intervene between the 
+two Condition nominals in IECs and that in neither case do these two nominals 
+form an acceptable complex noun phrase in other contexts.  
+A second and more plausible interpre tation—one that accords with my under-
+standing of what (45) and (46) mean—w ould treat the first Condition nominal as 
+specifying the cause of the Experiencer’s pain or sickness, answering the question 
+‘Why are you in pain/sick?’ or ‘What is causing you to be in pain/sick?’. Such 
+questions are normally asked by preposing the interrogative etp-nen ‘why?, what 
+for?’ to the single Condition nominal, as in  (47a). The cause of a bodily condition 
+may be named as another, more specific ailment, or it may be named, for instance, 
+as a craving for something, as in (47b).  
+ 
+(47)   a. Np  etp-nen  yuan  g -p? 
+   you( OBJ) what-for hunger act- PF.3S  
+   ‘What are you hungry for?’ 
+ 
+  b. Yp  pis-nen  yuan  g -p. 
+   me tinned.fish-for hunger act -PF.3S 
+   ‘I’m hungry for tinned fish.’ 
+  
+In this analysis, the first Condition no minal is an Adjunct, a peripheral argu-
+ment. The second Conditional nominal reta ins its claims to be (an atypical) 
+Subject. However, unlike nouns that denote tangible conditions and bodily 
+products, nouns denoting intangible processes and states must remain close to the 
+verb in constructions with two Cond ition nouns. The order of the Condition 
+nominals cannot be reversed, i.e. the intangible process/state nominal cannot 
+precede the tangible condition nominal. And whereas a body part nominal can 
+intervene between visible Condition noun an d verb, as in (25), (30), and (35), 
+none can occur between invisible process/state noun and verb. 
+This distributional constraint is consis tent with the third possible interpreta-
+tion of IECs with two Condition nominals, namely that the nominal closest to the 
+106
+[PDF PAGE 25]
+Argument Structure of Complex Predicates in Kalam 
+ 
+verb functions both as a Subject and as a verb adjunct. In terms of argument 
+structure, it behaves like the Subject because  it controls switch reference and fills 
+the Subject slot. But in terms of predi cate structure, Condition nouns denoting an 
+intangible process/state behave rather lik e verb adjuncts, lacking many of the 
+combinatorial privileges of typical nouns, co-occurring with a very small range of 
+verbs, and preferring a position close to the verb.  
+ 
+4.3. Residual Problems 
+My brief discussion of tr ansitive IECs has left many details unexplored. In 
+particular, the status of certain C ondition nominals remains problematic. The 
+Condition nominal is the strongest candida te for Subject of an IEC because it 
+controls switch reference (and therefore we can also assume it controls Subject 
+agreement, which is formally indeterminate). However, Conditional nominals are 
+a very mixed bag. Some (chiefly those denoting tangible conditions) behave like 
+canonical nouns, and others behave more like verb adjuncts. 
+Mohanan (1997) has proposed that one cl ass of N+V sequences in Hindi re-
+quire multidimensional representations to reflect a mismatch between argument 
+structure and grammatical category structur e. Similarly, in Kalam IECs there are 
+indications that some Condition nouns manage  at the same time to be Subjects, in 
+the domain of argument structure, and verb adjuncts, in the domain of constituent 
+structure. However, these nouns behave differently from true verb adjuncts (§3.3) 
+in a number of respects and we have not established that they form a complex 
+predicate with the verb. Further exploratio n of these matters will have to left for 
+another occasion. 
+ 
+5. Touching on the Virtues of a Cons truction-Based Treatment of Kalam 
+Complex Predicates 
+The merits of a constructionist treatment of the argument structure of these three 
+types of kinds of construction have been touched on in passing at various points in 
+the discussion. Evidence was noted that the different heads in a complex predicate 
+jointly determine the argument structure of  the clause. Another point in favor of 
+the constructionist position is that Kalam verb roots out of context cannot be fully 
+specified for the range of semantic a nd grammatical properties they show in 
+different contexts. Most common verbs ha ve a number of different senses, each 
+with their own grammatical subcategoriza tions, and these partic ularities of sense 
+and subcategorization are associated with particular constructions. For example, 
+although all verbs in IECs occur with two core arguments, some of these verbs are 
+intransitive in other constructions, or at least cannot take an Object which is an 
+Experiencer. This is the case, for instance, with ap- ‘ c o m e ,  a p p e a r ’ ,  yap- ‘f all’, 
+and jak- ‘stand, rise’. These verbs of motion ‘take on transitivity’ by virtue of 
+occurring in a particular form-meani ng constructional pairing in which the 
+Subject slot is filled by a Condition nominal and the Object slot by an Experiencer, 
+and the role of the verb is to indicate roughly that the ‘Condition affects/manifests 
+itself in the Experiencer’.  
+107
+[PDF PAGE 26]
+Andrew Pawley 
+References 
+ 
+Alsina, Alex, Joan Bresnan, and Peter Sells, eds. 1997. Complex Predicates.  
+Stanford: Center for the Study of Language and Information. 
+Donohue, Mark. 2005. Configurationality in the Languages of New Guinea. 
+Australian Journal of Linguistics 25(2):181-218. 
+Foley, William. 1986. The Papuan Languages of New Guinea . Cambridge: 
+Cambridge University Press. 
+Goldberg, Adele E. 1995. Constructions: A Construction Grammar Approach to 
+Argument Structure. Chicago: University of Chicago Press. 
+Lane, Jonathan. 1991. Serial Verb Construc tions in Kalam. M.A. thesis, Univer-
+sity of Auckland. [in press in Pacific Linguistics] 
+Mohanan, Tara. 1997. Multidimensional ity of Representation: NV Complex 
+Predicates in Hindi. In Alsina et al., eds., 431-471. 
+Pawley, Andrew. 1987. Encoding Events in Kalam and English: Different Logics 
+for Reporting Experience. In Russell S. Tomlin, ed., Coherence and Ground-
+ing in Discourse, 329-360. Amsterdam: John Benjamins.  
+Pawley, Andrew. In press. Compact versus  Serial Verb Constructions in Kalam. 
+In Gunter Senft, ed., Serial Verb Constructions in Austronesian and Papuan 
+Languages. Canberra: Pacific Linguistics. 
+Pawley, Andrew, and Jonathan Lane. 1998. From Event Sequence to Grammar: 
+Serial Verb Constructions in Kalam. In Anna Siewierska and Jae Jung Song, 
+eds., Case Typology and Grammar, 201-227. Amsterdam: John Benjamins. 
+Pawley, Andrew, Simon Peter Gi, Ian Saem Majnep, and John Kias. 2000. 
+Hunger Acts on Me: The Grammar and Semantics of Bodily and Mental Proc-
+ess Expressions in Kalam. In Videa P. de Guzman and Byron W. Bender, eds., 
+Grammatical Analysis: Studies in Honor of Stanley Starosta , 153-185. Hono-
+lulu: University of Hawai’i Press. 
+Roberts, John. 2001. Impersonal Construction s in Amele. In Alexandra Y. Aik-
+henvald, R.M.W. Dixon, and Masayuki Onishi, eds., Non-Canonical Marking 
+of Subjects and Objects, 201-250. Amsterdam: John Benjamins. 
+Schultze-Berndt, Eva. 2000. Simple and Complex Verbs in Jaminjung. Ph.D. diss., 
+Nijmegen: MPI Series in Psycholinguistics. 
+ 
+Andrew Pawley 
+Department of Linguistics, RSPAS 
+Australian National University 
+Canberra, ACT 200 
+Australia 
+ 
+andrew.pawley@anu.edu.au 
+108

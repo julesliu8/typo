@@ -1,0 +1,113 @@
+[
+  {
+    "title": [
+      "Experiential Constructions in Yucatec Maya"
+    ],
+    "DOI": "10.1075/slcs.87",
+    "author": [
+      {
+        "given": "Elisabeth",
+        "family": "Verhoeven",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/04ers2y35",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Bremen"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          22
+        ]
+      ]
+    },
+    "publisher": "John Benjamins Publishing Company",
+    "container-title": [
+      "Studies in Language Companion Series"
+    ],
+    "page": null
+  },
+  {
+    "title": [
+      "4. Introduction to Yucatec Maya"
+    ],
+    "DOI": "10.1075/slcs.87.08int",
+    "author": null,
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          22
+        ]
+      ]
+    },
+    "publisher": "John Benjamins Publishing Company",
+    "container-title": [
+      "Studies in Language Companion Series",
+      "Experiential Constructions in Yucatec Maya"
+    ],
+    "page": "99-150"
+  },
+  {
+    "title": [
+      "5. Experiential constructions"
+    ],
+    "DOI": "10.1075/slcs.87.09exp",
+    "author": null,
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          22
+        ]
+      ]
+    },
+    "publisher": "John Benjamins Publishing Company",
+    "container-title": [
+      "Studies in Language Companion Series",
+      "Experiential Constructions in Yucatec Maya"
+    ],
+    "page": "151-267"
+  },
+  {
+    "title": [
+      "3. Universal and typological aspects of experiential constructions"
+    ],
+    "DOI": "10.1075/slcs.87.07uni",
+    "author": null,
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          22
+        ]
+      ]
+    },
+    "publisher": "John Benjamins Publishing Company",
+    "container-title": [
+      "Studies in Language Companion Series",
+      "Experiential Constructions in Yucatec Maya"
+    ],
+    "page": "35-98"
+  }
+]

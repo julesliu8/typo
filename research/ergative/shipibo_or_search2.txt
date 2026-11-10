@@ -1,0 +1,3745 @@
+{
+  "id" : null,
+  "scope" : null,
+  "query" : "dc.title:(Transitivity)",
+  "appliedFilters" : null,
+  "sort" : null,
+  "configuration" : null,
+  "type" : "discover",
+  "_links" : {
+    "self" : {
+      "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529"
+    }
+  },
+  "_embedded" : {
+    "searchResult" : {
+      "_embedded" : {
+        "objects" : [ {
+          "hitHighlights" : {
+            "dc.title" : [ " Transition " ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "2ac8b11d-6426-443d-830c-30f4eb5fbaaf",
+              "uuid" : "2ac8b11d-6426-443d-830c-30f4eb5fbaaf",
+              "name" : "Transition",
+              "handle" : "1794/26068",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Hixson, Carol G.",
+                  "language" : null,
+                  "authority" : "0c958f50-a8f5-490f-8784-2dc082e222fa",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2021-03-12T20:30:23Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2021-03-12T20:30:23Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2021-03-01",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Dean's Musings blog posting from March 1, 2021.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://faulibrarydean.wordpress.com/2021/03/01/transition/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "https://hdl.handle.net/1794/26068",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Florida Atlantic University Libraries",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Dean's musings (Florida Atlantic University)",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Student services",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Faculty services",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Community engagement",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Technology in libraries",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Space redesign",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Library design",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Library collections",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                }, {
+                  "value" : "scholarly communication",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 8
+                }, {
+                  "value" : "Diversity, equity, and inclusion",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 9
+                }, {
+                  "value" : "Staff development",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 10
+                }, {
+                  "value" : "Research support",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 11
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transition",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Blog",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-25T22:34:21.510Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/2ac8b11d-6426-443d-830c-30f4eb5fbaaf"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ "Materials in Transition " ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "6bbf17e1-92c7-4b7c-a64f-130fc0827753",
+              "uuid" : "6bbf17e1-92c7-4b7c-a64f-130fc0827753",
+              "name" : "Materials in Transition",
+              "handle" : "1794/11935",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Rempel, Alexandra",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Rempel, Alan",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Broberg, Kate Liddle",
+                  "language" : null,
+                  "authority" : "9ae1eb3d-83ac-411f-ae4c-0886fdb399ee",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "DiGregorio, Rachelle",
+                  "language" : null,
+                  "authority" : "d518fa34-7b7f-469e-9a73-37180d8c5267",
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Madison, Erin",
+                  "language" : null,
+                  "authority" : "d4f64f80-8c44-401f-85aa-26cd0e09dbfd",
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Hawkins, Lauren",
+                  "language" : null,
+                  "authority" : "1fbd14ee-4ffa-40de-a452-3692141fe931",
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2012-02-06T22:45:35Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2012-02-06T22:45:35Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2011-12",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Website produced for HC 441: Science Colloquium: Energy in Transition, Robert D. Clark Honors College, University of Oregon, Fall Term 2011.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Through an investigation of plastic and aluminum production and recycling, waste to energy methods, plastic bottle use, and plastic bag use, we have come to the conclusion that the citizens and government of the United States need to work together to reduce primary material production and use. \r\n\r\nAdditionally, we must increase recycling and reuse in order to close the production and consumption loop of potentially hazardous and energy-consuming products, primarily plastic and metals.  Through these methods, we can best retain the embodied energy of waste materials and avoid excessive use of non-renewable resources.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/11935",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon, Clark Honors College",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "rights_reserved",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Recycling (Waste, etc.)",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Materials in Transition",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Website",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T12:04:06.119Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/6bbf17e1-92c7-4b7c-a64f-130fc0827753"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ " Transit and Peering" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "808e7beb-aaeb-4b49-95c3-8f86f1418901",
+              "uuid" : "808e7beb-aaeb-4b49-95c3-8f86f1418901",
+              "name" : "Transit and Peering",
+              "handle" : "1794/31065",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Network Startup Resource Center (NSRC), University of Oregon",
+                  "language" : null,
+                  "authority" : "535aa676-b446-4de0-9ab6-cae5411022ae",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Candler, Brian",
+                  "language" : null,
+                  "authority" : "d82496dd-64d0-43db-b989-81636cb7d2d7",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-07-03T21:40:18Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2019",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "5 minutes, 23 seconds",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/31065",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Network Startup Resource Center (NSRC), University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "BGP",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "routing protocol",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "infrastructure development",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "network connectivity",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transit and Peering",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Video",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:46:12.602Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/808e7beb-aaeb-4b49-95c3-8f86f1418901"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "Lane Transit District (LTD) asked graduate students in Joshua Skov’s Industrial Ecology course to help envision how it might provide safe, affordable, and low-carbon mobility options to the community in the face of a changing urban mobility ecosystem. ", "Students analyzed potential impacts of new modes, technologies, and business models, as well as the resulting shifts in consumer behavior in six areas:\r\n1. Micromobility as a first-last mile solution\r\n2. Cases of smartphone apps for transit \r\n3. Partnerships and policies for ride-hailing\r\n4. Travel behavior, mode choice, and perceptions of transit \r\n5. Privacy and security in the age of big data\r\n6. Collection of consumer insights through survey instruments\r\nUltimately, students recommend that LTD leverage pilot projects and partnerships to explore new opportunities while adapting emerging trends to community needs in order to foster positive outcomes." ],
+            "dc.title" : [ "The Future of Transit " ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "489d61b8-d220-4b3f-a5e3-a583b1ec32b0",
+              "uuid" : "489d61b8-d220-4b3f-a5e3-a583b1ec32b0",
+              "name" : "The Future of Transit",
+              "handle" : "1794/25333",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Cohen, Rachel",
+                  "language" : null,
+                  "authority" : "580ceb32-b609-446e-bfc8-19724e51657c",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Skov, Josh",
+                  "language" : null,
+                  "authority" : "1c0120b5-4665-4300-b8f1-0ac40c5b5c5e",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2020-04-28T20:20:43Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2020-04-28T20:20:43Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2020",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "23 pages",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Lane Transit District (LTD) asked graduate students in Joshua Skov’s Industrial Ecology course to help envision how it might provide safe, affordable, and low-carbon mobility options to the community in the face of a changing urban mobility ecosystem. Students applied corporate sustainability strategy principles to assess potential opportunities and threats created by global trends in transportation.\r\n\r\nStudents analyzed potential impacts of new modes, technologies, and business models, as well as the resulting shifts in consumer behavior in six areas:\r\n1. Micromobility as a first-last mile solution\r\n2. Cases of smartphone apps for transit\r\n3. Partnerships and policies for ride-hailing\r\n4. Travel behavior, mode choice, and perceptions of transit\r\n5. Privacy and security in the age of big data\r\n6. Collection of consumer insights through survey instruments\r\nUltimately, students recommend that LTD leverage pilot projects and partnerships to explore new opportunities while adapting emerging trends to community needs in order to foster positive outcomes.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/25333",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "The Future of Transit",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T04:33:47.934Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/489d61b8-d220-4b3f-a5e3-a583b1ec32b0"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ " Transit and Bicycles" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "b879f436-3e1e-4ad7-9be9-9208d1a2101b",
+              "uuid" : "b879f436-3e1e-4ad7-9be9-9208d1a2101b",
+              "name" : "Transit and Bicycles",
+              "handle" : "1794/9950",
+              "metadata" : {
+                "dc.description.abstract" : [ {
+                  "value" : "",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/9950",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transit and Bicycles",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "archivedItemsCount" : 2,
+              "type" : "community",
+              "_links" : {
+                "collections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b/collections"
+                },
+                "logo" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b/logo"
+                },
+                "subcommunities" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b/subcommunities"
+                },
+                "parentCommunity" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b/parentCommunity"
+                },
+                "adminGroup" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b/adminGroup"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/communities/b879f436-3e1e-4ad7-9be9-9208d1a2101b"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "Performance measures are compiled from regional, city, transit agency plans, and through a literature review of transit planning research. Accessibility is measured in terms of level of service and geographic distribution across the transit district’s boundary, to the total population, transportation disadvantaged populations, residential dwellings, employment,and community services locations. Results show a clear link between local, regional, and transit agency planning goals, although performance towards these goals is often evaluated independently of each other. Recommendations from the findings include suggestions for improving transit performance relative to community goals and creating a uniform platform to collect data and monitor performance towards transit planning goals." ],
+            "dc.title" : [ "Community-Based Transit Performance Measures: Salem-Keizer Transit " ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "a2fa44fc-1b23-49a5-83af-83e79bc7cbc2",
+              "uuid" : "a2fa44fc-1b23-49a5-83af-83e79bc7cbc2",
+              "name" : "Community-Based Transit Performance Measures: Salem-Keizer Transit",
+              "handle" : "1794/12311",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Meyer, Cody",
+                  "language" : "",
+                  "authority" : "cb1cdf44-a11f-4024-a198-86233bd90104",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2012-10-18T16:44:47Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2012-10-18T16:44:47Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2012-09",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Examining committee: Richard Margerum, chair, Marc Schlossberg, Robert Choquette",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Public transportation plays a key role to shaping the livability of communities by providing access to jobs, community services, friends, and family for those without access to an automobile, and offering travel options to the entire community. The purpose of this report is to help Salem‐Keizer Transit District (Cherriots) develop a set of community‐based transit performance measures to serve as a background to enable the transit agency, city, and regional governments to reach their planning goals. Performance measures are compiled from regional, city,  transit agency plans, and through a literature review of transit planning research. Accessibility is measured in terms of level of service and geographic distribution across the transit district’s boundary, to the total population, transportation disadvantaged populations, residential dwellings, employment,and community services locations. Results show a clear link between local, regional, and transit agency planning goals, although performance towards these goals is often evaluated independently of each other. Recommendations from the findings include suggestions for improving transit performance relative to community goals and creating a uniform platform to collect data and monitor performance towards transit planning goals.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/12311",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Department of Planning, Public Policy & Management, University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "rights_reserved",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Transportation planning",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Transit",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Performance measurement",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Livability",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Community-Based Transit Performance Measures: Salem-Keizer Transit",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T21:35:11.521Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/a2fa44fc-1b23-49a5-83af-83e79bc7cbc2"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "Adolescence is an important stage in the transition from childhood to adulthood this is when many physical,\r\ncognitive, and social changes occur. This stage is associated with an increasing range of problems, such as\r\ndepression, suicide, and substance abuse (Dahl, Gunnar, 2009). " ],
+            "dc.title" : [ " Transition in Adolescent Girls" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "52c6892a-798a-4a1b-8412-92a04c6e0bf6",
+              "uuid" : "52c6892a-798a-4a1b-8412-92a04c6e0bf6",
+              "name" : "Transition in Adolescent Girls",
+              "handle" : "1794/22583",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Rubalcava, Karen",
+                  "language" : "",
+                  "authority" : "f54a05b9-529d-4d64-9492-4bfe900c6b6f",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2017-08-14T18:40:21Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2017-08-14T18:40:21Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2017",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "1 page poster",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Adolescence is an important stage in the transition from childhood to adulthood this is when many physical,\r\ncognitive, and social changes occur. This stage is associated with an increasing range of problems, such as\r\ndepression, suicide, and substance abuse (Dahl, Gunnar, 2009). Studies have shown that cortical and subcortical areas, which are involved in emotional reactivity and regulation, undergo significant structural changes during this period. While much research has focused on age-related development, this study will focus on the role of puberty on brain development of adolescent girls. In order to do so, a neuroimaging study of females aged 10-14 years will be conducted, including three waves of data collection. Each point will be separated by 18 months. At each time point, pubertal stage, hormone levels, and brain structure will be assessed. This study will specifically relate pubertal development and brain structure using data from wave one of the larger project. The purpose of this study is to better understand the role of pubertal changes on brain regions underlying emotional and behavioral functioning. We hope to ultimately be able to predict disorders in the future and create interventions and prevention strategies.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.sponsorship" : [ {
+                  "value" : "This research was supported by an National Institute of Health grant",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/22583",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Teens",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Depression",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Puberty",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transition in Adolescent Girls",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T06:34:00.978Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/52c6892a-798a-4a1b-8412-92a04c6e0bf6"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "This thesis argues that Lane Transit District is an above-average mid-sized transit agency when comparing the agency's ridership data to similar-sized agencies. Lane Transit District has faced stiff criticism in recent years for its plan to expand its bus 11 rapid transit system, EmX, into West Eugene. ", "Despite LTD's mistakes, as any agency is apt to make along the way, it has developed one of the strongest mid-sized transit systems in the United States." ],
+            "dc.title" : [ "Fundamentals of a Successful Transit Agency: An Evaluation of Lane Transit District" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "b6fb40f8-a071-44e0-947a-10c2657cc1ea",
+              "uuid" : "b6fb40f8-a071-44e0-947a-10c2657cc1ea",
+              "name" : "Fundamentals of a Successful Transit Agency: An Evaluation of Lane Transit District",
+              "handle" : "1794/31688",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Murphy, Alexander B.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Gifford, Catherine",
+                  "language" : null,
+                  "authority" : "b6e40385-c4ac-41f1-b2c7-b0d22d2f3f7b",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-09-04T18:32:45Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2012-06",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "79 pages",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "This thesis argues that Lane Transit District is an above-average mid-sized transit agency when comparing the agency's ridership data to similar-sized agencies. Lane Transit District has faced stiff criticism in recent years for its plan to expand its bus 11 rapid transit system, EmX, into West Eugene. Rising from the opposition against the proposed new line is an even deeper seated questioning ofLTD's operations. This thesis analyzes the opposition's assertions as well as statements made by LTD and its supporters. LTD benefits from its location, but also actively seeks to better its operations. LTD is fortunate to be situated in a community that is conducive to and supportive of transit. Additionally, LTD has maximized community support by working closely with the public, other agencies, and its largest stakeholders. Furthermore, LTD has established the best funding source currently available with a local payroll tax and federal funding for capital projects. Finally, a well-functioning board of directors .as well as community-oriented staff provides the person-power behind LTD's success. Despite LTD's mistakes, as any agency is apt to make along the way, it has developed one of the strongest mid-sized transit systems in the United States.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/31688",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Lane transit district",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "LTD",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Community support",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Agency",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Funding base",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Organizational structure",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "Fundamentals of a Successful Transit Agency: An Evaluation of Lane Transit District",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Thesis / Dissertation",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:51:25.798Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b6fb40f8-a071-44e0-947a-10c2657cc1ea"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ " Transit Provider Peering at an IXP" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "4c3e15fe-a0e9-4013-a2b2-405ad45add5d",
+              "uuid" : "4c3e15fe-a0e9-4013-a2b2-405ad45add5d",
+              "name" : "Transit Provider Peering at an IXP",
+              "handle" : "1794/31132",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Network Startup Resource Center (NSRC), University of Oregon",
+                  "language" : null,
+                  "authority" : "535aa676-b446-4de0-9ab6-cae5411022ae",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Smith, Philip",
+                  "language" : null,
+                  "authority" : "46039dbf-a8cf-44dc-84ad-86f78d7384c3",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-07-10T20:27:28Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2020",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "6 minutes, 40 seconds",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/31132",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Network Startup Resource Center (NSRC), University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "BGP",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "routing protocol",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "infrastructure development",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "network connectivity",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transit Provider Peering at an IXP",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Video",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:46:12.577Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/4c3e15fe-a0e9-4013-a2b2-405ad45add5d"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.contributor.author" : [ "Florida. Dept. of Transportation. Public Transit Office" ],
+            "dc.title" : [ "Pedestrian- and transit -friendly design" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "b507c243-c169-445c-ab22-970285a58590",
+              "uuid" : "b507c243-c169-445c-ab22-970285a58590",
+              "name" : "Pedestrian- and transit-friendly design",
+              "handle" : "1794/10317",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Ewing, Reid H.",
+                  "language" : null,
+                  "authority" : "100d3c2a-dde7-4540-a4d9-800be0bf2c9c",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Florida. Dept. of Transportation. Public Transit Office",
+                  "language" : null,
+                  "authority" : "429e362e-1715-409c-9384-1ffe754ea7e6",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2010-04-20T23:15:48Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2010-04-20T23:15:48Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1996-03",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "101 p. Illustrations",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/10317",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Public Transit Office, Florida Dept. of Transportation",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Pedestrian facilities design -- Florida",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Traffic engineering -- Florida",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Local transit -- Florida -- Planning",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "City planning -- Florida",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Urban design",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Transit-oriented development -- Florida",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                } ],
+                "dc.title" : [ {
+                  "value" : "Pedestrian- and transit-friendly design",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-27T00:07:11.862Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/b507c243-c169-445c-ab22-970285a58590"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "The present study tests participants’ ability to infer implicit relationships between stimuli by building hierarchical—ranking by some value—relationships, a process known as transitive \ninference. For example, if you know person A is taller than person B and person B is taller than person C, you can infer that person A is taller than person C without directly comparing the two. ", "This study aimed to resolve this discrepancy by investigating whether participants could learn an implicit hierarchy of six art stimuli (A > B > C > D > E > F) without prior knowledge using a transitive inference task (N = 78). After being trained on all pairs of adjacent stimuli in the hierarchy (e.g., A > B or D > E), participants were tested on all possible pairs of stimuli (e.g., A > C or B > F). " ],
+            "dc.title" : [ " Transitive Inference as an Intrinsic Process" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "cbbfca1c-061e-46f8-91a4-c525c4d8382b",
+              "uuid" : "cbbfca1c-061e-46f8-91a4-c525c4d8382b",
+              "name" : "Transitive Inference as an Intrinsic Process",
+              "handle" : "1794/30508",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Murray, Austin",
+                  "language" : null,
+                  "authority" : "e2499748-56d1-4370-8aaf-fc7504db617c",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Chaloupka, Ben",
+                  "language" : null,
+                  "authority" : "ed5a2a27-469d-40e1-853d-ca5569f41d8e",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2025-02-27T23:56:07Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2025-02-27T23:56:07Z",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2025-02-20",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "Austin Murray (murrayau@oregonstate.edu) is a first-year student at Oregon State University majoring in BioHealth Sciences and minoring in Spanish. Austin's research focused on transitive inference and was conducted during his time as a high school intern in the University of Oregon's Brain and Memory Lab. Austin was mentored by UO professor Dr. Dasa Zeithamova and graduate student Benjamin Chaloupka. Austin plans to continue research at Oregon State University and hopes to attend medical school in the future.\n\nBen Chaloupka (bchaloup@uoregon.edu) is a sixth-year PhD candidate studying cognitive neuroscience in the Brain and Memory Lab at the University of Oregon. He completed his undergraduate training at the University of Illinois at Chicago where he was a research assistant for the UIC Memory Lab. He uses behavioral tasks and fMRI to study how some aspects of overlapping experiences can be leveraged to facilitate new learning, while we mitigate the interference effects of other aspects. Outside of the lab, Ben spends most of his time rock climbing and mountaineering.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The present study tests participants’ ability to infer implicit relationships between stimuli by building hierarchical—ranking by some value—relationships, a process known as transitive\ninference. For example, if you know person A is taller than person B and person B is taller than person C, you can infer that person A is taller than person C without directly comparing the two. The literature has provided contrasting results regarding whether prior knowledge of the hierarchy is needed for participants to infer the indirect relationships. This study aimed to resolve this discrepancy by investigating whether participants could learn an implicit hierarchy of six art stimuli (A > B > C > D > E > F) without prior knowledge using a transitive inference task (N = 78). After being trained on all pairs of adjacent stimuli in the hierarchy (e.g., A > B or D > E), participants were tested on all possible pairs of stimuli (e.g., A > C or B > F). Participants were able to infer relationships between untrained items two steps apart in the hierarchy (e.g., B > D) just as well as they remembered trained relationships. They were especially successful in judging untrained relationships three steps apart in the hierarchy (e.g., B > E). This suggests that participants were able to generalize across the trained pairs to form the hierarchy, even without prior knowledge of the underlying structure. Our results support the idea that humans possess an intrinsic ability to infer implicit relationships between stimuli.",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.issn" : [ {
+                  "value" : "2160-617X",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/30508",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Transitive Inference as an Intrinsic Process",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Article",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-09-10T20:50:23.966Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/cbbfca1c-061e-46f8-91a4-c525c4d8382b"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "Students in Tim Clark’s Product Design Studio (BFA 486) were asked develop a multimodal\r\nurban transit app to serve users of TriMet’s public transit services. The purpose of a TriMet\r\n transit app is to provide users with real time information needed to guide everyday mobility\r\nchoices, with the goal of minimizing travel time and costs to make public transit equally\r\naccessible and flexible as private vehicles. ", "TriMet has the opportunity to do the same for transit through the development of\r\nan integrated transit app. Over 70 different apps currently use TriMet’s open source data to\r\noffer transit navigation systems, but none fully integrate the daily necessities of ticketing, trip\r\nplanner, geo-location, and user preferences.\r\n" ],
+            "dc.title" : [ "TriMet Transit App" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "9fbbd36a-3582-4de2-9268-9f91c010d26d",
+              "uuid" : "9fbbd36a-3582-4de2-9268-9f91c010d26d",
+              "name" : "TriMet Transit App",
+              "handle" : "1794/23871",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Clark, Tim",
+                  "language" : "",
+                  "authority" : "538ca2c3-ad82-4e67-93b6-f10c9f400c0a",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2018-10-06T15:33:58Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2018-10-06T15:33:58Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2018",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "54 pages",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Students in Tim Clark’s Product Design Studio (BFA 486) were asked develop a multimodal\r\nurban transit app to serve users of TriMet’s public transit services. The purpose of a TriMet\r\ntransit app is to provide users with real time information needed to guide everyday mobility\r\nchoices, with the goal of minimizing travel time and costs to make public transit equally\r\naccessible and flexible as private vehicles. An integrated transit app can help draw people out\r\nof their private cars and onto transit, while also connecting transit to the communites that it\r\nserves. Ride-share apps such as Uber and Lyft innovated the taxi industry by demonstrating\r\nthat an improved customer experience and increased access to information through their app\r\ninterfaces. TriMet has the opportunity to do the same for transit through the development of\r\nan integrated transit app. Over 70 different apps currently use TriMet’s open source data to\r\noffer transit navigation systems, but none fully integrate the daily necessities of ticketing, trip\r\nplanner, geo-location, and user preferences.\r\nStudents used open data from existing transit, bike share, and ride-share programs to inform\r\nthe future development of an app for TriMet’s services. The proposed app provides real time\r\ninformation of city maps, locations, transit system updates, traffic conditions, transit schedule,\r\nbike share locations and availability, ride-share availability, parking locations and availability, as\r\nwell as overall trip fees. It also includes multiple features to enhance the rider experience, such\r\nas gamification, personal analytics, multi-destination trip planning, and neighborhood profiles.\r\nThe app is envisioned as a planning tool that allows users to chart point-to-point trips using all\r\navailable resources. Potential sustainable benefits include support for active transportation,\r\nimproved access to urban mobility choices, reduced dependence on private vehicles and\r\ntechnological advances. The development of an integrated transit app can incentivize transit\r\nuse, promote local businesses, and inform transit users about the communities where they live,\r\nwork, and play.\r\nThe class utilized five unique user profiles of TriMet services that represent different use cases\r\nand service locations. Students analyzed each user profile to identify the potential needs\r\neach user might expect from a transit app, and identified specific app features that could\r\nbe developed to meet those needs. Four of the user profiles and service communites are\r\npresented in this report. These needs and features from each profile were then combined into a\r\npresentation of potential mock-ups of a future TriMet mobile app that can deliver an integrated\r\nand intuitive travel experience along the Southwest Corridor.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/23871",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "Creative Commons BY-NC-ND 4.0-US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Local transit",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Mobile applications",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.title" : [ {
+                  "value" : "TriMet Transit App",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Terminal Project",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T21:04:57.974Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/9fbbd36a-3582-4de2-9268-9f91c010d26d"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "The Transit Plan locates key destinations within and\r\noutside of Wilsonville, in order to plan for the future\r\nof the multi-modal transit center. Both the Bicycle and\r\nPedestrian Master Plan and the Transit Plan analyze\r\nthe location of sidewalks in relation to transit stops,\r\nand prioritize sidewalk infill projects that enhance the\r\nability of citizens to access transit . Over the next few\r\nyears, the transit system will add more service as\r\ncommuter rail arrives in Wilsonville, creating a hub at\r\nthe Barber Street Station and connecting to other\r\ncommunities. [From the Plan]" ],
+            "dc.contributor.author" : [ "SMART Transit " ],
+            "dc.title" : [ "Wilsonville : Transit master plan" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "d11d948d-21d1-4668-9abf-e25c88e30d1d",
+              "uuid" : "d11d948d-21d1-4668-9abf-e25c88e30d1d",
+              "name" : "Wilsonville : Transit master plan",
+              "handle" : "1794/5365",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Wilsonville (Or.)",
+                  "language" : "",
+                  "authority" : "d178e753-2492-45be-b52f-a85d0dd29561",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "SMART Transit",
+                  "language" : "",
+                  "authority" : "f9d6fbe3-0413-406d-b055-d4723527d1b4",
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2007-12-11T22:02:53Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2007-12-11T22:02:53Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2007-09",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "128 pp. Includes maps and figures. Published September, 2007. Captured December 4, 2007.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The Transit Plan locates key destinations within and\r\noutside of Wilsonville, in order to plan for the future\r\nof the multi-modal transit center. Both the Bicycle and\r\nPedestrian Master Plan and the Transit Plan analyze\r\nthe location of sidewalks in relation to transit stops,\r\nand prioritize sidewalk infill projects that enhance the\r\nability of citizens to access transit. Over the next few\r\nyears, the transit system will add more service as\r\ncommuter rail arrives in Wilsonville, creating a hub at\r\nthe Barber Street Station and connecting to other\r\ncommunities. [From the Plan]",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.extent" : [ {
+                  "value" : "4056208 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.mimetype" : [ {
+                  "value" : "application/pdf",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/5365",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "http://www.ci.wilsonville.or.us/Modules/ShowDocument.aspx?documentid=2690",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "City of Wilsonville (Or.)",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Local transit -- Oregon -- Wilsonville",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Land use -- Oregon -- Wilsonville -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Transportation -- Oregon -- Wilsonville -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Urban transportation -- Oregon -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Wilsonville : Transit master plan",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title.alternative" : [ {
+                  "value" : "City of Wilsonville in Oregon : Transit master plan",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Book",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-27T04:36:30.246Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/d11d948d-21d1-4668-9abf-e25c88e30d1d"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "This collection contains student papers from the Clark Honors College course HC 441 Honors College Science Colloquium: Energy in Transition . For more information on the course and the Honors College program, consult the course web site at: https://sites.google.com/site/hc441henergyintransition/" ],
+            "dc.title" : [ "Science Colloquium: Energy in Transition " ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "641ed013-16e1-46a6-b96e-3c450b3efc6e",
+              "uuid" : "641ed013-16e1-46a6-b96e-3c450b3efc6e",
+              "name" : "Science Colloquium: Energy in Transition",
+              "handle" : "1794/11910",
+              "metadata" : {
+                "dc.description" : [ {
+                  "value" : " \r\nThis collection contains student papers from the Clark Honors College course HC 441 Honors College Science Colloquium: Energy in Transition. ",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "This collection contains student papers from the Clark Honors College course HC 441 Honors College Science Colloquium: Energy in Transition. For more information on the course and the Honors College program, consult the course web site at: https://sites.google.com/site/hc441henergyintransition/",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/11910",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title" : [ {
+                  "value" : "Science Colloquium: Energy in Transition",
+                  "language" : null,
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "archivedItemsCount" : 5,
+              "type" : "collection",
+              "_links" : {
+                "harvester" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/harvester"
+                },
+                "itemtemplate" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/itemtemplate"
+                },
+                "license" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/license"
+                },
+                "logo" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/logo"
+                },
+                "mappedItems" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/mappedItems"
+                },
+                "parentCommunity" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/parentCommunity"
+                },
+                "adminGroup" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/adminGroup"
+                },
+                "submittersGroup" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/submittersGroup"
+                },
+                "itemReadGroup" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/itemReadGroup"
+                },
+                "bitstreamReadGroup" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/bitstreamReadGroup"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e"
+                },
+                "workflowGroups" : [ {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/workflowGroups/reviewer",
+                  "name" : "reviewer"
+                }, {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/workflowGroups/editor",
+                  "name" : "editor"
+                }, {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/collections/641ed013-16e1-46a6-b96e-3c450b3efc6e/workflowGroups/finaleditor",
+                  "name" : "finaleditor"
+                } ]
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "Working within a Social Cognitive Career Theory framework, the study explored outcomes associated with participation in a dual-enrollment (high school and community college) College Transition Support Program (CTSP).  The study used three data points over a nine month period to explore whether participation in the CTSP was associated with changes in college self-efficacy, education-related future aspirations and goals, perceived barriers, perceived support, locus of control, depression, anxiety, academic achievement-related expectations, academic achievement-related fears, and academic achievement-related expectation-fear balance, as well as college persistence and cumulative college GPA.  \r\n\r\n" ],
+            "dc.title" : [ "Postsecondary Educational Transitions for At-Risk Youth: Exploration of the College Transition Support Program" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "7597fe2f-d9fc-4e12-aafb-5a579e0c3236",
+              "uuid" : "7597fe2f-d9fc-4e12-aafb-5a579e0c3236",
+              "name" : "Postsecondary Educational Transitions for At-Risk Youth: Exploration of the College Transition Support Program",
+              "handle" : "1794/13404",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Stormshak, Elizabeth",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Downey-McCarthy, Rosemarie",
+                  "language" : "en_US",
+                  "authority" : "4a70c14b-5e89-4448-b04e-a5e03125c248",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2013-10-10T23:18:08Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2013-10-10T23:18:08Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2013-10-10",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Working within a Social Cognitive Career Theory framework, the study explored outcomes associated with participation in a dual-enrollment (high school and community college) College Transition Support Program (CTSP).  The study used three data points over a nine month period to explore whether participation in the CTSP was associated with changes in college self-efficacy, education-related future aspirations and goals, perceived barriers, perceived support, locus of control, depression, anxiety, academic achievement-related expectations, academic achievement-related fears, and academic achievement-related expectation-fear balance, as well as college persistence and cumulative college GPA.  \r\n\r\nRepeated measure responses of a group of 34 CTSP students were contrasted with a group of 34 students in a non-equivalent comparison group.  Baseline data for a group of 207 non-CTSP alternative high school students were also used to test for selection bias for both of the longitudinal groups.  \r\n\r\nDoubly multivariate repeated measures analysis of variance (DMRM-ANOVA) procedures were conducted.  Multivariate results suggested that participation in the CTSP was associated with positive, statistically significant growth in the weighted linear combination of outcome variables.  \r\n\r\nRepeated measures univariate analyses were also conducted to provide more detail.  CTSP participation was associated with growth over time on several positive student outcomes, including college self-efficacy, education-related future aspirations and goals, academic achievement-related expectation-fear balance, academic locus of control, and college persistence/retention.  In addition, CTSP students earned significantly higher cumulative college GPAs over their first year at the community college.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/13404",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Alternative education",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "At-risk youth",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Postsecondary education transitions",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Program evaluation",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Support program",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                } ],
+                "dc.title" : [ {
+                  "value" : "Postsecondary Educational Transitions for At-Risk Youth: Exploration of the College Transition Support Program",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Electronic Thesis or Dissertation",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "Department of Counseling Psychology and Human Services",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "doctoral",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "Ph.D.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T14:04:19.822Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7597fe2f-d9fc-4e12-aafb-5a579e0c3236"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "In this dissertation we study the phases and phase transition properties of\r\n\r\nquantum ferromagnets and related magnetic materials. We first investigate the effects of an external magnetic field on the Goldstone mode of a helical magnet, such as MnSi. ", "If the disorder is in an intermediate region, the ferromagnetic phase transition is of second order and effectively characterized by mean-field critical exponents. If the disorder is strong enough the ferromagnetic phase transitions are continuous and are characterized by non-mean-field critical exponents." ],
+            "dc.title" : [ "Phases and Phase Transitions in Quantum Ferromagnets" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "7917f36f-556e-492c-a860-080b471f2caa",
+              "uuid" : "7917f36f-556e-492c-a860-080b471f2caa",
+              "name" : "Phases and Phase Transitions in Quantum Ferromagnets",
+              "handle" : "1794/18716",
+              "metadata" : {
+                "dc.contributor.advisor" : [ {
+                  "value" : "Deutsch, Miriam",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.contributor.author" : [ {
+                  "value" : "Sang, Yan",
+                  "language" : "en_US",
+                  "authority" : "384dbaac-4e12-4197-b467-bced19817a8d",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2015-01-14T15:57:05Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2015-01-14T15:57:05Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2015-01-14",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "In this dissertation we study the phases and phase transition properties of\r\n\r\nquantum ferromagnets and related magnetic materials. We first investigate the effects of an external magnetic field on the Goldstone mode of a helical magnet, such as MnSi. The field introduces a qualitatively new term into the dispersion relation of the Goldstone mode, which in turn changes the temperature dependences of the contributions of the Goldstone mode to thermodynamic and transport properties. We then study how the phase transition properties of quantum ferromagnets evolve with increasing quenched disorder. We find that there are three distinct regimes for different amounts of disorder. When the disorder is small enough, the quantum ferromagnetic phase transitions is generically of first order. If the disorder is in an intermediate region, the ferromagnetic phase transition is of second order and effectively characterized by mean-field critical exponents. If the disorder is strong enough the ferromagnetic phase transitions are continuous and are characterized by non-mean-field critical exponents.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/18716",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.rights" : [ {
+                  "value" : "All Rights Reserved.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Quantum ferromagnets",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Quantum phase transitions",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.title" : [ {
+                  "value" : "Phases and Phase Transitions in Quantum Ferromagnets",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Electronic Thesis or Dissertation",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.discipline" : [ {
+                  "value" : "Department of Physics",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.grantor" : [ {
+                  "value" : "University of Oregon",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.level" : [ {
+                  "value" : "doctoral",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "thesis.degree.name" : [ {
+                  "value" : "Ph.D.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T14:21:00.630Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/7917f36f-556e-492c-a860-080b471f2caa"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "The City of PortlandÃ¢  s Transportation Element of the Comprehensive Plan adopted June\r\n21, 1996 recommends developing a Transit Preferential Streets Program as a means of\r\ndealing with congestion and air quality problems within the metropolitan area. It is the\r\ngoal of the Transit Preferential Streets Program to improve transit travel times and\r\nservice by giving priority to transit vehicles where conflicts with autos occur. ", "This report summarizes the findings of a detailed operations analysis of these corridors,\r\nand the solutions that were developed to improve transit travel time and the potential\r\nimpacts associated with their implementation. [From the Document]" ],
+            "dc.title" : [ "Portland : Transit preferential streets program" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "50264f35-c3d4-4d02-8c4a-fa57249f61c2",
+              "uuid" : "50264f35-c3d4-4d02-8c4a-fa57249f61c2",
+              "name" : "Portland : Transit preferential streets program",
+              "handle" : "1794/5673",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Portland (Or.). Office of Transportation",
+                  "language" : "",
+                  "authority" : "88d09349-b2d9-4c07-8429-e13dbcab9c26",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Nelson-Nygaard Consulting Associates",
+                  "language" : "",
+                  "authority" : "4fdd12da-b040-4008-a6e0-3c6608992f20",
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Portland (Or.)",
+                  "language" : "",
+                  "authority" : "a36fec06-8d2a-4926-b770-9f1a672f5ee6",
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "HDR Engineering",
+                  "language" : "",
+                  "authority" : "422db89c-1ef5-42fe-8d15-139382ae402f",
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "SRI/Shapiro, Inc.",
+                  "language" : "",
+                  "authority" : "c57763bf-4ddb-42ff-b319-6e523555d046",
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "Hansen Drafting & Graphics",
+                  "language" : "",
+                  "authority" : "26ac842c-7d51-4773-b754-98394785c59a",
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Bauer, Thomas",
+                  "language" : "",
+                  "authority" : "5f2ee8b5-7420-422f-8ab3-411d21718902",
+                  "confidence" : -1,
+                  "place" : 6
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2008-03-10T19:03:13Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2008-03-10T19:03:13Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "1997-07",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "116 pp. Bookmarks supplied by UO. Includes figures. Published July, 1997. Captured February 26, 2008.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "The City of PortlandÃ¢  s Transportation Element of the Comprehensive Plan adopted June\r\n21, 1996 recommends developing a Transit Preferential Streets Program as a means of\r\ndealing with congestion and air quality problems within the metropolitan area. It is the\r\ngoal of the Transit Preferential Streets Program to improve transit travel times and\r\nservice by giving priority to transit vehicles where conflicts with autos occur. A team of City of Portland staff in association with a Technical Advisory Committee\r\n(TAC) selected the following five corridors for analysis of the effect of transit\r\npreferential strategies:\r\nNE Martin Luther King, Jr. Blvd. (Hawthorne Bridge to N. Lombard Street);\r\nNE Sandy Blvd. (Burnside Bridge to SE 82nd Avenue);\r\nSE Hawthorne Blvd./Foster Road (Hawthorne Bridge to I-205);\r\nSE Division Street (Martin Luther King, Jr. Blvd. to SE 82nd Avenue);\r\nSW Beaverton-Hillsdale Highway/Barbur Blvd. (I-405 to Oleson Road).\r\nThis report summarizes the findings of a detailed operations analysis of these corridors,\r\nand the solutions that were developed to improve transit travel time and the potential\r\nimpacts associated with their implementation. [From the Document]",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.extent" : [ {
+                  "value" : "5801753 bytes",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.format.mimetype" : [ {
+                  "value" : "application/pdf",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "http://www.portlandonline.com/transportation/index.cfm?c=39206&a=69642",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "https://hdl.handle.net/1794/5673",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "City of Portland (Or.)",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Transportation -- Oregon -- Portland -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "City planning -- Oregon -- Portland",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Land use -- Oregon -- Portland -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Urban transportation -- Oregon -- Planning",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Local transit -- Oregon -- Portland",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                } ],
+                "dc.title" : [ {
+                  "value" : "Portland : Transit preferential streets program",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title.alternative" : [ {
+                  "value" : "Transit preferential streets program : Final report",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Book",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T06:03:54.904Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/50264f35-c3d4-4d02-8c4a-fa57249f61c2"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ "Analyzing Suburban Transit Oriented Development" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "83c63d76-0b89-4c30-8814-216628d8b24a",
+              "uuid" : "83c63d76-0b89-4c30-8814-216628d8b24a",
+              "name" : "Analyzing Suburban Transit Oriented Development",
+              "handle" : "1794/8019",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Cloyd, Justin",
+                  "language" : "",
+                  "authority" : "15fef3a5-f104-4bce-8541-d987c87323fc",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2008-12-09T19:48:12Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2008-12-09T19:48:12Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2008-12-06",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "11 p.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "Orenco Station and The Round at Beaverton Central are examined through user surveys. Users at each development were asked to list likes, dislikes, and to rate their immediate area. The history of each development, including project setbacks, is also discussed. Despite each projectÃ¢  s issues, the results concluded that users view each development in a positive light.",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/8019",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "University of Oregon, Dept. of Architecture, Portland Program",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Light rail development",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "User opinion",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Transit oriented development",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Orenco Station",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Beaverton, Hillsboro",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "MAX",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "The Round (Beaverton, Or.)",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Round (Beaverton, Or.)",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 7
+                } ],
+                "dc.title" : [ {
+                  "value" : "Analyzing Suburban Transit Oriented Development",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Other",
+                  "language" : "en",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T17:04:05.363Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/83c63d76-0b89-4c30-8814-216628d8b24a"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.description.abstract" : [ "To accommodate the growth of the City and its transit demand, several fundamental shifts in the design\r\nphilosophy of the system are proposed. The shift of focus described by these recommendations is typically\r\nrequired as communities grow and transit demand grows more intense. " ],
+            "dc.title" : [ "Corvallis : Transit master plan (2006)" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "852fdf4f-9e88-495e-a6fd-918538d26e79",
+              "uuid" : "852fdf4f-9e88-495e-a6fd-918538d26e79",
+              "name" : "Corvallis : Transit master plan (2006)",
+              "handle" : "1794/9466",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "Corvallis (Or.)",
+                  "language" : "",
+                  "authority" : "e9f954a4-75bf-4b9c-be1e-ca502bb02805",
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2009-07-22T17:17:43Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2009-07-22T17:17:43Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2006-12",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "131 pp. Bookmarks supplied by UO. Map, charts, tables figures, illus., appendix. Revised draft published December, 2006. Captured July 9, 2009.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description.abstract" : [ {
+                  "value" : "To accommodate the growth of the City and its transit demand, several fundamental shifts in the design\r\nphilosophy of the system are proposed. The shift of focus described by these recommendations is typically\r\nrequired as communities grow and transit demand grows more intense. [From the Plan]",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "http://www.ci.corvallis.or.us/downloads/pw/DRAFTTransitMasterPlan2006.pdf",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "https://hdl.handle.net/1794/9466",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "City of Corvallis (Or.)",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Transportation -- Oregon -- Corvallis -- Planning",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "City planning -- Oregon -- Corvallis",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Land use -- Oregon -- Corvallis -- Planning",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Local transit -- Oregon -- Corvallis",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                } ],
+                "dc.title" : [ {
+                  "value" : "Corvallis : Transit master plan (2006)",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.title.alternative" : [ {
+                  "value" : "Draft Corvallis Area transit master plan : 2006",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Book",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2024-09-26T17:04:00.543Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/852fdf4f-9e88-495e-a6fd-918538d26e79"
+                }
+              }
+            }
+          }
+        }, {
+          "hitHighlights" : {
+            "dc.title" : [ "Bus rapid transit case studies" ]
+          },
+          "type" : "discover",
+          "_links" : {
+            "indexableObject" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7"
+            }
+          },
+          "_embedded" : {
+            "indexableObject" : {
+              "id" : "88acc91a-9b4e-42dd-b953-2c4d83f306d7",
+              "uuid" : "88acc91a-9b4e-42dd-b953-2c4d83f306d7",
+              "name" : "Bus rapid transit case studies",
+              "handle" : "1794/10504",
+              "metadata" : {
+                "dc.contributor.author" : [ {
+                  "value" : "University of Oregon. Dept. of Planning, Public Policy and Management. Community Planning Workshop",
+                  "language" : "",
+                  "authority" : "f1f0f153-f194-475f-9da6-b504a0b971dc",
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "Parker, Robert, 1960-",
+                  "language" : "",
+                  "authority" : "59e710ae-8db7-42f7-8d50-f251065354d7",
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "Johnson, Bethany",
+                  "language" : "",
+                  "authority" : "5b00df03-ad79-417d-b4d2-6f16cbe456b3",
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Schooley, Sara",
+                  "language" : "",
+                  "authority" : "30002636-a8dd-4acf-83e4-d93ca3b93870",
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Dohrman, Rebekah",
+                  "language" : "",
+                  "authority" : "360e4757-51c1-450c-8b96-679b6bf818a3",
+                  "confidence" : -1,
+                  "place" : 4
+                }, {
+                  "value" : "MacFarland, Kate",
+                  "language" : "",
+                  "authority" : "9438495a-98e3-4a9d-9e9f-18799a50ae26",
+                  "confidence" : -1,
+                  "place" : 5
+                }, {
+                  "value" : "Reed, Terra",
+                  "language" : "",
+                  "authority" : "e4c16a2c-bc27-41bf-a71e-10f54583b733",
+                  "confidence" : -1,
+                  "place" : 6
+                }, {
+                  "value" : "Sande, Jeremy",
+                  "language" : "",
+                  "authority" : "d247acd8-6f51-4a87-9afd-36de4c55f66e",
+                  "confidence" : -1,
+                  "place" : 7
+                } ],
+                "dc.date.accessioned" : [ {
+                  "value" : "2010-07-13T16:18:14Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.available" : [ {
+                  "value" : "2010-07-13T16:18:14Z",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.date.issued" : [ {
+                  "value" : "2009-09",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.description" : [ {
+                  "value" : "40 pp. Tables, figures, illus., appendices.",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.identifier.uri" : [ {
+                  "value" : "https://hdl.handle.net/1794/10504",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.language.iso" : [ {
+                  "value" : "en_US",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.publisher" : [ {
+                  "value" : "Lane Transit District (Lane County, Or.)",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.subject" : [ {
+                  "value" : "Bus rapid transit -- United States",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                }, {
+                  "value" : "BRT",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 1
+                }, {
+                  "value" : "EmX",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 2
+                }, {
+                  "value" : "Emerald Express",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 3
+                }, {
+                  "value" : "Lane Transit District (Lane County, Or.)",
+                  "language" : "",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 4
+                } ],
+                "dc.title" : [ {
+                  "value" : "Bus rapid transit case studies",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ],
+                "dc.type" : [ {
+                  "value" : "Book",
+                  "language" : "en_US",
+                  "authority" : null,
+                  "confidence" : -1,
+                  "place" : 0
+                } ]
+              },
+              "inArchive" : true,
+              "discoverable" : true,
+              "withdrawn" : false,
+              "lastModified" : "2025-12-10T18:43:49.024Z",
+              "entityType" : null,
+              "type" : "item",
+              "_links" : {
+                "accessStatus" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/accessStatus"
+                },
+                "bundles" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/bundles"
+                },
+                "identifiers" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/identifiers"
+                },
+                "mappedCollections" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/mappedCollections"
+                },
+                "owningCollection" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/owningCollection"
+                },
+                "relationships" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/relationships"
+                },
+                "version" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/version"
+                },
+                "templateItemOf" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/templateItemOf"
+                },
+                "thumbnail" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/thumbnail"
+                },
+                "submitter" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7/submitter"
+                },
+                "self" : {
+                  "href" : "https://scholarsbank.uoregon.edu/server/api/core/items/88acc91a-9b4e-42dd-b953-2c4d83f306d7"
+                }
+              }
+            }
+          }
+        } ]
+      },
+      "page" : {
+        "number" : 0,
+        "size" : 20,
+        "totalPages" : 7,
+        "totalElements" : 136
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%3A%28Transitivity%29&page=1"
+        },
+        "last" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%3A%28Transitivity%29&page=6"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%3A%28Transitivity%29"
+        }
+      }
+    },
+    "facets" : [ {
+      "name" : "author",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "minValue" : "2.ink Studio",
+      "maxValue" : "Zyskind, Karen",
+      "openByDefault" : true,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/author?query=dc.title%3A%28Transitivity%29&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/author?query=dc.title%3A%28Transitivity%29&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Network Startup Resource Center (NSRC), University of Oregon",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.author=Network%20Startup%20Resource%20Center%20(NSRC),%20University%20of%20Oregon,equals"
+            }
+          }
+        }, {
+          "label" : "University of Oregon. Dept. of Planning, Public Policy and Management. Community Planning Workshop",
+          "count" : 3,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.author=University%20of%20Oregon.%20Dept.%20of%20Planning,%20Public%20Policy%20and%20Management.%20Community%20Planning%20Workshop,equals"
+            }
+          }
+        }, {
+          "label" : "Hirzel, Hannah",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.author=Hirzel,%20Hannah,equals"
+            }
+          }
+        }, {
+          "label" : "Hixson, Carol G.",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.author=Hixson,%20Carol%20G.,equals"
+            }
+          }
+        }, {
+          "label" : "Hood, Donald",
+          "count" : 2,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.author=Hood,%20Donald,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "subject",
+      "facetType" : "hierarchical",
+      "facetLimit" : 5,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "next" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=dc.title%3A%28Transitivity%29&page=1&size=5"
+        },
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/subject?query=dc.title%3A%28Transitivity%29&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "Transition",
+          "count" : 6,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.subject=Transition,equals"
+            }
+          }
+        }, {
+          "label" : "BGP",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.subject=BGP,equals"
+            }
+          }
+        }, {
+          "label" : "Catalysis",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.subject=Catalysis,equals"
+            }
+          }
+        }, {
+          "label" : "infrastructure development",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.subject=infrastructure%20development,equals"
+            }
+          }
+        }, {
+          "label" : "network connectivity",
+          "count" : 4,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.subject=network%20connectivity,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "dateIssued",
+      "facetType" : "date",
+      "facetLimit" : 5,
+      "minValue" : "0000",
+      "maxValue" : "Spring 2026",
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 5
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/dateIssued?query=dc.title%3A%28Transitivity%29&size=5"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "1980 - 2009",
+          "count" : 27,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.dateIssued=%5B1980%20TO%202009%5D,equals"
+            }
+          }
+        }, {
+          "label" : "2010 - 2027",
+          "count" : 103,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.dateIssued=%5B2010%20TO%202027%5D,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "has_content_in_original_bundle",
+      "facetType" : "standard",
+      "facetLimit" : 2,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 2
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/has_content_in_original_bundle?query=dc.title%3A%28Transitivity%29&size=2"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "true",
+          "count" : 132,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.has_content_in_original_bundle=true,equals"
+            }
+          }
+        } ]
+      }
+    }, {
+      "name" : "entityType",
+      "facetType" : "text",
+      "facetLimit" : 5,
+      "openByDefault" : false,
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/entityType?query=dc.title%3A%28Transitivity%29"
+        }
+      },
+      "_embedded" : {
+        "values" : [ ]
+      }
+    }, {
+      "name" : "access_status",
+      "facetType" : "text",
+      "facetLimit" : 10,
+      "openByDefault" : false,
+      "page" : {
+        "number" : 0,
+        "size" : 10
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://scholarsbank.uoregon.edu/server/api/discover/facets/access_status?query=dc.title%3A%28Transitivity%29&size=10"
+        }
+      },
+      "_embedded" : {
+        "values" : [ {
+          "label" : "open.access",
+          "count" : 130,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.access_status=open.access,equals"
+            }
+          }
+        }, {
+          "label" : "embargo",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.access_status=embargo,equals"
+            }
+          }
+        }, {
+          "label" : "restricted",
+          "count" : 1,
+          "authorityKey" : null,
+          "type" : "discover",
+          "_links" : {
+            "search" : {
+              "href" : "https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=dc.title%253A%2528Transitivity%2529&f.access_status=restricted,equals"
+            }
+          }
+        } ]
+      }
+    } ]
+  }
+}

@@ -1,0 +1,34 @@
+BivalTyp BivalTyp Home Project ↓ Project description Questionnaire Instructions for contributors Team Publications How to read the data Languages ↓ List view Map view Predicates Data overview ↓ Patterns overview Data in one spreadsheet Maps Download List of languages Click on the ‘link’ near the name of a language to open the description. Summary data for languages being prepared
+    for publication can be found in the ‘ Patterns overview ’ section glottocode is the language’s code provided by Glottolog . language is the name of the language. Note that in some cases there is no one-to-one
+                correspondence between language names used in this project and their glottocodes. For example, Finnish
+                and Ingrian Finnish are two different languages for the purposes of this project, but they share the
+                same glottocode ‘finn1318’. macroarea identifies the macro-area (typically subcontinent size) where the language is
+                spoken. The following partition of the world is used in this project: Australia; East and Southeast
+                Asia; Europe; Mesoamerica; North Africa; North America; North and Central Asia; Papunesia; South
+                America; South Asia; Sub-Saharan Africa; West Asia and the Caucasus. family_WALS and genus_WALS contain information on the genealogical
+                affiliation of the language as provided in the World Atlas of Language
+                    Structures Online . Although imperfect in many respects, the system employed by WALS is
+                convenient in that it provides a uniform two-level affiliation for each language, where “family”
+                corresponds to a taxon with a time-depth comparable to that of the Indo-European languages, and “genus”
+                to a taxon with a time-depth comparable to that of the major branches of the Indo-European family, such
+                as Germanic or Celtic. number of nominal cases is the total number of different cases in the language’s nouns
+                according to the description employed in the project. overall N is the total number of patterns that meet the acceptance criteria, see [How to
+                read the data] how to read the data for more detail. transitives and intransitives are the total number of transitive and
+                intransitive patterns respectively. Their sum always equals ‘overall N’. transitivity ratio and intransitivity ratio are coefficients calculated
+                by dividing the number of transitive and intransitive patterns, respectively, by the ‘overall N’. The
+                sum of these two ratios always equals 1. X-locus , Y-locus , and XY-locus are the number of
+                patterns that display oblique encoding of the first argument (X), the second argument (Y), or both
+                predefined arguments of the verb (X and Y) respectively. The sum of these three numbers always equals
+                the total number of intransitives. See How to read the data for more detail
+                on X-, Y- and XY-locus. number of classes is the total number of different valency patterns observed in the
+                data. entropy (nat) measures the degree of diversity observed in the language’s valency class
+                system. Shannon’s entropy (measured in nats) is calculated as follows:
+
+                \[ \displaystyle H = - \sum^{n}_{i=1} \left( \dfrac{|C_i|}{|P|} \right) \log \left( \dfrac{|C_i|}{|P|}
+                \right) \]
+                where \(n\) is the number of different valency patterns observed in the data (‘number of classes’),
+                \(C_i\) is the \(i\)-th valency class, \(P\) is the total number of patterns that meet the acceptance
+                criteria (‘overall N’), and log corresponds to the natural logarithm. The theoretical minimum for
+                \(H\) is 0 (it would be observed in a hypothetical language where all bivalent verbs belong to the same
+                valency class). Higher entropy values correspond to greater levels of diversity. entopy of intransitives is the observed Shannon’s entropy calculated for intransitive
+            patterns only. This measure estimates the degree of diversity in bivalent intransitive classes.

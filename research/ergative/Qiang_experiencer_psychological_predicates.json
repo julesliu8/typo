@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Semantic Hierarchy of Degree Expressions for Psychological Predicates in Yimeng Dialect",
+    "doi": "https://doi.org/10.4236/oalib.1113906",
+    "year": 2025,
+    "authors": [
+      "Feng Chen",
+      "Yimei Feng"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.4236/oalib.1113906",
+        "https://doi.org/10.4236/oalib.1113906"
+      ]
+    ],
+    "abstract": "Psychological predicates describe mental states and cognitive capacities, reflecting a subject's internal experiences, emotional states, and cognitive processes, with their degree semantics exhibiting multi-layered distinctions (high, medium, low).Compared with Mandarin, the degree category of psychological predicates in the Yimeng dialect of Shandong exhibits distinct regional characteristics.Based on field investigations, this study systematically examines the semantic representations of degree and their semantic hierarchy to intensify psychological predicates in the dialect.The findings reveal that the degree category of psychological predicates in the Yimeng dialect encompasses multiple levels, including polar degree, minimal degree, and comparative degree.Notably, polar and high-degree adverbs are predominant, with their semantics largely derived from the perceptual intensity of sensory stimuli and cognitive processing.This not only reflects the psychological reality of degree expressions in psychological predicates but also reveals the dialect community's shared cognitive patterns regarding emotional intensity.The study provides new empirical evidence for the gradability systems of psychological predicates in Chinese dialects."
+  },
+  {
+    "title": "Villain stardom in socialist China: Chen Qiang and the cultural politics of affect",
+    "doi": "https://doi.org/10.1080/17508061.2015.1040287",
+    "year": 2015,
+    "authors": [
+      "Xiaoning Lu"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1080/17508061.2015.1040287",
+        null
+      ],
+      [
+        "https://eprints.soas.ac.uk/19760/1/Lu_19760.pdf",
+        "https://eprints.soas.ac.uk/19760/1/Lu_19760.pdf"
+      ],
+      [
+        "https://soas-repository.worktribe.com/output/396139",
+        "https://soas-repository.worktribe.com/preview/396147/Lu_19760.pdf"
+      ]
+    ],
+    "abstract": "Despite playing various kinds of roles across genres from 1949 to 1965, Chen Qiang acquired stardom mainly due to his remarkable screen performance as villainous landlords in socialist China. His villain stardom is an aberrant case, compared to the majority of film stars in Chinese socialist cinema who encouraged identification and emulation and helped propagate socialist ideology to reform Chinese citizens. Paying special attention to socio-historically specific film exhibition practices and the actor's own reflections on his villain performance, this article argues that Chen's stardom functioned as an important affective technology within a wider and complex Communist propaganda enterprise in that it helped cultivate class hatred necessary for the Communist revolution and socialist land reform campaigns. Through this case study, the article suggests that close engagement with both cultural–historical specificities of cinema and recent critical theories of affect open up a space for researching the diversified star phenomena in contemporary China."
+  },
+  {
+    "title": "INTERPRET: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning",
+    "doi": "https://doi.org/10.15607/rss.2024.xx.034",
+    "year": 2024,
+    "authors": [
+      "Muzhi Han",
+      "Yifeng Zhu",
+      "Song Chun Zhu",
+      "Ying Nian Wu",
+      "Yuke Zhu"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.15607/rss.2024.xx.034",
+        "https://doi.org/10.15607/rss.2024.xx.034"
+      ],
+      [
+        "http://arxiv.org/abs/2405.19758",
+        "https://arxiv.org/pdf/2405.19758"
+      ],
+      [
+        "https://doi.org/10.48550/arxiv.2405.19758",
+        null
+      ]
+    ],
+    "abstract": "Learning abstract state representations and knowledge is crucial for long-horizon robot planning.We present Inter-PreT, an Large Language Model (LLM)-powered framework for robots to learn symbolic predicates from language feedback of human non-experts during embodied interaction.The learned predicates provide relational abstractions of the environment state, facilitating the learning of symbolic operators that capture action preconditions and effects.By compiling the learned predicates and operators into a Planning Domain Definition Language (PDDL) domain on-the-fly, InterPreT allows effective planning toward arbitrary in-domain goals using a PDDL planner.In both simulated and real-world robot manipulation domains, we demonstrate that InterPreT reliably uncovers the key predicates and operators governing the environment dynamics.Although learned from simple training tasks, these predicates and operators exhibit strong generalization to novel tasks with significantly higher complexity.In the most challenging generalization setting, InterPreT attains success rates of 73% in simulation and 40% in the real world, substantially outperforming baseline methods."
+  },
+  {
+    "title": "Applications of psychological science for actionable analytics",
+    "doi": "https://doi.org/10.1145/3236024.3236050",
+    "year": 2018,
+    "authors": [
+      "Di Chen",
+      "Wei Fu",
+      "Rahul Krishna",
+      "Tim Menzies"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1145/3236024.3236050",
+        null
+      ],
+      [
+        "http://arxiv.org/abs/1803.05067",
+        "https://arxiv.org/pdf/1803.05067"
+      ],
+      [
+        "https://doi.org/10.48550/arxiv.1803.05067",
+        null
+      ]
+    ],
+    "abstract": "According to psychological scientists, humans understand models that most match their own internal models, which they characterize as lists of \"heuristic\"s (i.e. lists of very succinct rules). One such heuristic rule generator is the Fast-and-Frugal Trees (FFT) preferred by psychological scientists. Despite their successful use in many applied domains, FFTs have not been applied in software analytics. Accordingly, this paper assesses FFTs for software analytics."
+  },
+  {
+    "title": "Chapter 3 On the syntax of psychological expressions in Japanese: their predicative and adjunctive nature",
+    "doi": "https://doi.org/10.1515/9783110981742-003",
+    "year": 2024,
+    "authors": [
+      "Kaori Miura",
+      "Hideki Kishimoto"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1515/9783110981742-003",
+        null
+      ],
+      [
+        "https://hdl.handle.net/20.500.14094/0100498140",
+        "https://da.lib.kobe-u.ac.jp/da/kernel/0100498140/0100498140.pdf"
+      ]
+    ],
+    "abstract": "This chapter concerns the embedding and adjunction of what we call Psychological Expressions (PEs) derived from adjectives and nominal adjectives. Most typically, these PEs interpretively describe the mental state of the subject of the verb. We will address the question of whether PEs are construed as predicates or adverbial modifiers. Our major claim is that PEs embedded under epistemic verbs are identified as predicates, while the PEs in the non-epistemic verb constructions act as adverbial modifiers. The epistemic verb PE embeds a small clause in which the accusative argument and the PA are contained. The PE cannot be scrambled over the accusative argument, due to the Anti-Locality Principle. In contrast, the non-epistemic PEs may adjoin to VP (object-oriented) or vP (subject-oriented) depending on its semantic orientation. We will argue for this view with recourse to the facts regarding subject honorification and negative focus. In particular, negative focus is argued to provide crucial evidence that the PE undergoes LF movement to form a local adnominal modification relation with an argument so as to identify the argument as its experiencer."
+  },
+  {
+    "title": "The Conceptual Structure of Emotional Experience in Chinese",
+    "doi": "https://doi.org/10.13140/rg.2.2.32968.24327",
+    "year": 1989,
+    "authors": [
+      "Brian King"
+    ],
+    "locations": [
+      [
+        "http://rave.ohiolink.edu/etdc/view?acc_num=osu1487671640057766",
+        "http://rave.ohiolink.edu/etdc/view?acc_num=osu1487671640057766"
+      ],
+      [
+        "http://rave.ohiolink.edu/etdc/view?acc_num=osu1261073114",
+        null
+      ],
+      [
+        "https://doi.org/10.13140/rg.2.2.32968.24327",
+        null
+      ],
+      [
+        "https://www.amazon.com/Conceptual-Structure-Emotional-Experience-Chinese/dp/1897367090",
+        null
+      ]
+    ],
+    "abstract": ""
+  }
+]

@@ -1,0 +1,426 @@
+{
+  "id": "https://openalex.org/W2035327778",
+  "doi": "https://doi.org/10.1515/ling.1983.21.1.123",
+  "title": "The verbs of perception: a typological study",
+  "display_name": "The verbs of perception: a typological study",
+  "publication_year": 1983,
+  "publication_date": "1983-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2035327778",
+    "doi": "https://doi.org/10.1515/ling.1983.21.1.123",
+    "mag": "2035327778"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1515/ling.1983.21.1.123",
+    "doi": "https://doi.org/10.1515/ling.1983.21.1.123",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1515/ling.1983.21.1.123",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S126923661",
+      "display_name": "Linguistics",
+      "issn_l": "0024-3949",
+      "issn": [
+        "0024-3949",
+        "1613-396X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "ddh",
+        "doaj",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310313990",
+      "host_organization_name": "De Gruyter",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Linguistics",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5008577492",
+        "display_name": "Åke Viberg",
+        "orcid": "https://orcid.org/0000-0002-8446-0316",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-8446-0316"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "ÅKE VIBERG",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5008577492"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 0,
+    "currency": "EUR",
+    "value_usd": 0
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 548,
+  "citation_normalized_percentile": {
+    "value": 0.21448999,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "21",
+    "issue": "1",
+    "first_page": "123",
+    "last_page": "162"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12694",
+    "display_name": "Categorization, perception, and language",
+    "score": 0.6563000082969666,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.6563000082969666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Syntax, Semantics, Linguistic Variation",
+      "score": 0.3379000127315521,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.002400000113993883,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/perception-verbs",
+      "display_name": "perception verbs",
+      "score": 0.9179999828338623
+    },
+    {
+      "id": "https://openalex.org/keywords/verb-typology",
+      "display_name": "verb typology",
+      "score": 0.7160000205039978
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-linguistics",
+      "display_name": "cognitive linguistics",
+      "score": 0.4740000069141388
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-metaphor",
+      "display_name": "conceptual metaphor",
+      "score": 0.39800000190734863
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistic-typology",
+      "display_name": "linguistic typology",
+      "score": 0.44699999690055847
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.8333162069320679
+    },
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.5478066205978394
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4531184136867523
+    },
+    {
+      "id": "https://openalex.org/C153578388",
+      "wikidata": "https://www.wikidata.org/wiki/Q351625",
+      "display_name": "Theoretical linguistics",
+      "level": 2,
+      "score": 0.4360661506652832
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.2768900394439697
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1515/ling.1983.21.1.123",
+      "doi": "https://doi.org/10.1515/ling.1983.21.1.123",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1515/ling.1983.21.1.123",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S126923661",
+        "display_name": "Linguistics",
+        "issn_l": "0024-3949",
+        "issn": [
+          "0024-3949",
+          "1613-396X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "ddh",
+          "doaj",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310313990",
+        "host_organization_name": "De Gruyter",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Linguistics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "mag:3140607094",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=12226201",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W4313290976",
+    "https://openalex.org/W2603809534",
+    "https://openalex.org/W3140607094",
+    "https://openalex.org/W128642545",
+    "https://openalex.org/W207728066",
+    "https://openalex.org/W2969786425",
+    "https://openalex.org/W2490690875",
+    "https://openalex.org/W1973691810",
+    "https://openalex.org/W3172642312",
+    "https://openalex.org/W2491452329"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 59
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 35
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 100
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 10
+    }
+  ],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2016-06-24T00:00:00"
+}

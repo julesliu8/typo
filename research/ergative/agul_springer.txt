@@ -1,0 +1,1191 @@
+[PDF PAGE 1]
+DMITRY GANENKOV, TIMUR MAISAK AND SOLMAZ 
+MERDANOVA 
+CHAPTER 8 
+Non-canonical Agent Marking in Agul1 
+1. INTRODUCTION2 
+This paper investigates the means of Agent encoding in Agul, a language from the 
+Lezgic branch of the East Caucasian (Nakh-Daghestanian) family. Agul is spoken 
+by approximately 30 thousand speakers in the Agul and Kurah districts of Southern 
+Daghestan, Russia. Our study is based on the data from the ʜup̅uq’ dialect (spoken 
+by some 600 speakers). 
+Agul is an ergative language with predominantly agglutinative morphology and 
+SOV basic word order. It is a clear example of a ‘role-dominated’ language in terms 
+of Foley & Van Valin (1984): the marking of arguments is semantically motivated, 
+and there are no syntactic mechanisms of changing this marking by means of any 
+voice-like operations like the passive or the antipassive. The Agent of a transitive 
+verb (A) is marked by the Ergative case, the core argument of an intransitive verb 
+(S) and the Patient of a transitive verb (O) are marked by the Absolutive:  
+ 
+(1) ze  dad    mas k̅aw.di-as   χab aldarku-naa 
+  my father. ABS  Moscow- IN.ELAT  back return- RES 
+  ‘My father has come back from Moscow.’ 
+(2) dad.a   guni   ʕut’u-ne 
+  father. ERG bread. ABS eat- PST 
+  ‘Father ate bread.’ 
+ 
+The Ergative and the Absolutive can be regarded as ‘canonical’ means of 
+encoding core arguments in the two major clause types. There are, however, some 
+ 
+1 We thank Michael Daniel, Alice C. Harris, Martin Haspelmath, Seppo Kittilä, Yury Lander, Wolfgang 
+Schulze, and two anonymous reviewers for their valuable comments on earlier versions of the paper, 
+as well as for correcting our English. We are also grateful to all participants of the PIONIER 
+workshop ‘Differential subject marking’ (July 2004, Nijmegen) for fruitful discussion. 
+2 Abbreviations: AD = location near a landmark, ELAT = motion from a landmark, IN = location inside a 
+landmark, LAT = motion towards a landmark, POST = location behind a landmark, SUB/CONT = 
+location under a landmark / in tight contact with a landmark, SUPER = location on a landmark. 
+Singular and essive forms of nouns are not indicated (being formally unmarked). 
+ 
+173 
+H. de Hoop and P. de Swart (eds.), Differential Subject Marking, 173–198. 
+©  2008 Springer. 
+[PDF PAGE 2]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+minor clause types in Agul where other means of marking core arguments are used. 
+As the Absolutive argument is normally present in such clauses, they would be 
+probably treated as ‘extended intransitive’ in R.M.W. Dixon’s approach (see e.g. 
+Dixon and Aikhenvald 2000:3). All other case forms that encode core arguments can 
+be conventionally labelled ‘non-canonical’ means of argument marking. 
+First of all, it is the Dative that marks Experiencers with a number of sentience 
+verbs like ag ̥as ‘see’, unxas ‘hear’, ʜaa ‘know’,  k̅andea ‘love, want, need’ and 
+others, for example: 
+ 
+(3) za-s we  ruš    agu-ne 
+  I- DAT your daughter. ABS see- PST 
+  ‘I saw your daughter.’ 
+ 
+The Possessor is expressed by one of the two locative cases 3 – the Ad-essive 
+(originally referring to location near a landmark) and the Post-essive (referring to 
+location behind a landmark), which distinguish between actual and permanent 
+possession respectively: 
+ 
+(4) za-w  nis=na     guni    fa-a 
+  I- AD cheese. ABS=and bread. ABS AD.be-PRS 
+  ‘I have cheese and bread with me.’ (So, we can take a snack now) 
+(5) za-q   ʡu   ruš=na      sa   gada   qa-a 
+  I- POST two daughter. ABS=and one son. ABS POST.be-PRS 
+  ‘I have two daughters and one son.’ 
+ 
+In fact, many other locative cases can be used as non-canonical means of core 
+argument marking as well: in (6), for example, the Super-essive (originally referring 
+to location on the upper surface of a landmark) is used to encode the participant of 
+the situation ‘fall asleep’, expressed by the lexicalized compound aχun alč aʕ˳as: 
+ 
+(6) šünü k̅.i-l  a χun alč aj-ne 
+  child- SUPER fall asleep- PST 
+  ‘The child fell asleep.’ 
+ 
+Note that in many cases the use of a locative form is correlated with the presence 
+of a certain prefix on the verb (verbal prefixes in Lezgic languages usually have the 
+same origin as locative case markers): cf. above za-w f-aa ‘I have (with me)’, za-q q-
+aa ‘I have (permanently)’, šünük̅i-l al-čajne ‘child fell asleep’. It means that the use 
+of locative cases for encoding of core arguments stems from the conceptual 
+ 
+3 Like the majority of the Lezgic languages, Agul possesses a rich system of locative cases. Locative case 
+markers consist of two parts, the first one specifies the localization of a trajector with respect to a 
+landmark (‘inside’, ‘above’, ‘below’, ‘near’, ‘behind’, etc.), the second one points at the direction of 
+movement (‘to’ vs. ‘from’) or absence of movement (‘at rest’, zero marked). In total, there are 25 case 
+forms in Agul (Ergative, Absolutive, Dative, Comitative and Genitive, and 20 locative forms). 
+174
+[PDF PAGE 3]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+reinterpretation of the original locative construction (thus, in example (4) temporary 
+possession is represented as location near the Possessor as the landmark). 4 
+However, there are locative cases which have undergone a considerable 
+extension of meaning and do not seem to show clear traces of original locative 
+semantics. One can say that these cases are on their way from purely locative to 
+‘grammatical’, or ‘syntactic’ (like the Ergative or the Dative), using the terminology 
+common to the East Caucasian studies. Among them, it is probably the Ad-elative 
+that shows the widest distribution in the domain of non-locative arguments marking 
+(its locative meaning being ‘motion from location near a landmark’). Thus, in (7) 
+below the Ad-elative NP encodes the participant who is involved in the situation 
+unintentionally, in (8) it marks the participant who takes part in the action 
+deliberately, but mistakenly, in (9) it introduces the participant who is capable of 
+doing something, and in (10) it expresses the Causee (in the latter example, the Ad-
+essive case is also possible):5 
+ 
+(7) ruš.a-f-as  ber ʜem  kura-se 
+  girl- AD-ELAT dress. ABS get dirty- FUT 
+‘The girl will unwittingly soil the dress.’ (the little girl was told that she has 
+to be careful, but she cannot remember about that all the time, and she will 
+most probably soil the new dress while playing) 
+(8) za-f-as  gi-s  unaq’u-b xu-ne 
+  I- AD-ELAT that- DAT call-MSD  become- PST 
+‘It so happened that I had to invite him.’ (I did not plan to do this, but when 
+I was inviting other people, he was near, and it would have been impolite 
+not to invite him) 
+(9) za-f-as  k’e ǯ   lik’a-s  xu-ne 
+  I- AD-ELAT letter. ABS write- INF become- PST 
+  ‘I managed to write a letter.’ 
+(10) baw.a   ruš.a-f-as   || ruš.a-w  xed   χa-s   q’u-ne 
+  mother. ERG girl-AD-ELAT  girl- AD water. ABS bring- INF do- PST 
+  ‘Mother made the girl bring water.’ 
+ 
+Note that it is not the case that the Ad-elative encodes a particular participant 
+according to the subcategorization frame of a given verb. Rather, the Ad-elative 
+argument appears in particular constructions, having their own semantics and their 
+own lexical restrictions. Each of the four constructions illustrated in (7)-(10) will be 
+discussed below in more detail: the Involuntary Agent Construction in section 2, the 
+Undesirable Action Construction in section 3, the Possibilitive Construction in 
+section 4, and the Causative Construction in section 5. 
+ 
+4 See also Schulze (to appear) for the discussion of the metaphorical potential of locative forms in Lezgic 
+languages (especially Agul and Udi). 
+5  Locative markers -w (in the Ad-essive) and -f (in the Ad-elative and in verbal prefix) are in 
+complementary distribution and go back to one and the same historical source. 
+175
+[PDF PAGE 4]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+The fact that one and the same formal means, viz. the Ad-elative case, is 
+employed in the constructions listed above does not seem to us accidental. We argue 
+that the Ad-elative in Agul covers a coherent semantic domain, as the participants 
+marked by this case are all agentive in nature. At the same time they are not real 
+(‘canonical’) Agents, which are encoded by the Ergative. In contexts like those 
+presented in (7)-(10) the participants in question lack some of the characteristic 
+agentive features, or Proto-Agent entailments, using the terminology of Dowty 
+(1991). Thus, in a sense, the Ad-Elative should be treated as a canonical means of 
+‘non-canonical Agent’ marking in Agul. 
+It can be readily observed that in all examples given above (apart from (10)) the 
+non-canonically marked NP corresponds to grammatical subject in the English 
+translation (the same would be true if the Russian translations were given). 
+However, in the overview given above we prefer to speak about (canonical or non-
+canonical) ‘core arguments marking’, and not about ‘subject marking’. The reason 
+for this is that the notion of grammatical subject as such (or pivot, in Dixon’s terms) 
+is problematic in Agul. Being a typical role-dominated Daghestanian language, Agul 
+tends to encode clause arguments consistently with  their semantic roles, and it is 
+possible that the very notion of syntactic relations is not applicable to languages of 
+this type (as argued, e.g., in Kibrik 1997, among other works). 
+Nevertheless it seems important to understand whether it is possible to treat the 
+Ad-elative argument as a grammatical subject on the basis of its syntactic behaviour 
+(the alternative may be that it is a sort of ‘external’ clause argument, like the 
+agentive adjunct in passives). In section 6 below we compare syntactic properties of 
+the Ad-elative argument with that of ‘canonical’ Ergative and Absolutive NPs (in A, 
+S and O functions). The conclusion that can be drawn from the comparison is that 
+the Ad-elative argument (especially expressing the Involuntary Agent) does not 
+show different behaviour from the most ‘subject-like’ NPs in Agul. 
+Finally, the general discussion in section 7 concludes the paper. 
+2. THE INVOLUNTARY AGENT CONSTRUCTION 
+The Involuntary Agent Construction has been previously described for the Lezgian 
+language by Haspelmath (1993:291-293) as the construction “in which the Agent is 
+in the Adelative case and the additional meaning is ‘involuntarily, unwittingly, or in 
+a very indirect manner.’” Such a construction is attested in virtually all East 
+Caucasian languages, including Lezgic, Avar-Andic, Tsezic and Lak. The only work 
+dealing with the Involuntary Agent Construction in a typological perspective is 
+Kittilä (2005). 
+Semantically, the Involuntary Agent is an Agent-like participant, but in contrast 
+to the Agent in standard transitive clauses it exhibits a very low degree of control 
+and volitionality. Morphologically, the Involuntary Agent is usually expressed in 
+East Caucasian languages by means of a locative case, which denotes motion from a 
+176
+[PDF PAGE 5]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+landmark.6 The same situation is found in Agul, where the actor of the Involuntary 
+Agent Construction is encoded by the Ad-elative case, which in its spatial use 
+describes motion from location near a landmark, cf. (11): 
+ 
+(11) cil.i-f-as   ha  t ̅-u   čuwal! 
+  wall-
+  ‘Take away the sack from the wall!’ 
+ 
+The following examples illustrate a canonical transitive clause in Agul (12) and 
+the Involuntary Agent Construction with the same verb (13): 
+ 
+(12)  baw.a    ne k̅    at ̅uzu-ne 
+  mother. ERG  milk. ABS  pour out- PST 
+  ‘Mother poured out the milk.’ 
+(13) baw.a-f-as    ne k̅   at ̅uzu-ne 
+  mother- AD-ELAT milk. ABS  pour out- PST 
+  ‘Mother accidentally spilled the milk.’ 
+ 
+The general interpretation of the Involuntary Agent Construction ‘to do 
+something accidentally, unintentionally’ can come out in three different variations: 
+(i) The participant affects the Patient accidentally, without noticing what s/he 
+is doing,  
+(ii)  The participant involuntarily lets something happen by overlooking and not 
+making enough efforts to prevent the situation,  
+(iii)  The participant finally (as a result of efforts) succeeds in doing something, 
+although it is not quite expected. 
+These three readings of the Involuntary Agent Construction are illustrated in the 
+following example: 
+ 
+(14) ruš.a-f-as  ra k̅   daqu-ne 
+  girl- AD-ELAT door. ABS open- PST 
+  a.  The girl accidentally opened the door (because she pushed it with her  
+    elbow while playing with her toys on the floor). 
+  b. (Father  told the girl to hold the door so that the wind could not open it, 
+    but her efforts were not enough) The girl accidentally opened the door // 
+    let the door open. 
+  c.  (All the children tried but no one could open the tightly closed door,  
+    however it so happened that) The girl managed to open the door. 
+ 
+What the three interpretations have in common is that in all of them the actor is 
+not in complete control of the situation, but the lack of control affects different parts 
+of events: in case of the first two readings it is obviously the initiation of an event, 
+ 
+6 Only Lak and Bagwalal possess distinct case markers whose main function is to mark the Involuntary 
+Agent. 
+177
+AD-ELAT take  away-IMP sack.ABS 
+[PDF PAGE 6]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+which is out of control, while in the third reading it is the completion of an event. 
+The difference between the first two readings concerns a degree to which an 
+instigator’s attention is focused on the event instigated. According to the first 
+reading, the Involuntary Agent is a participant who acts fully unintentionally (s/he 
+even may be not aware of the situation taking place), while in the second reading the 
+focus is on the fact that the participant tries to prevent the initiation of an event, but 
+fails to do this. 
+Note that the last reading stands slightly apart from the first and the second, since 
+in this case the action is not involuntary in the strict sense; on the contrary, the 
+participant’s will and efforts are aimed at achieving the result. However, the 
+polysemy found in Agul seems to be quite widespread cross-linguistically. Kittilä 
+(2005) reports that it is also characteristic of similar constructions in a number of 
+languages including, for example, Bagwalal, Finnish and Thompson River Salish.  
+There are quite strong restrictions on the lexical verb and on the Adelative 
+argument in the Involuntary Agent Construction. First of all, not every verb can 
+appear in this construction. The set of verbs that allow the Involuntary Agent 
+includes: 
+(i) intransitive verbs denoting a change of state, cf. Table 1 and example (15), 
+and  
+(ii)  labile verbs (that is, S=O ambitransitives), cf. Table 2 and examples (13)- 
+(14) above. 
+ 
+(15) a. kitab   gulu-ne 
+   book. ABS get lost- PST 
+   ‘The book got lost.’ 
+  b. gada.ji-f-as  kitab   gulu-ne 
+   boy- AD-ELAT book. ABS get lost- PST 
+   ‘The boy lost the book.’ 
+  c. *gada.ji kitab   gulu-ne 
+   boy. ERG book.ABS get lost- PST 
+   ‘The boy lost the book.’ 
+Table 1. Examples of intransitive change-of-state verbs in Agul 
+ac’as ‘fill (intr)’  
+alaʕ ̥as ‘boil over (about milk)’  
+gulas ‘get lost’ 
+ket’as ‘awake’ 
+kuras ‘get dirty’ 
+q’ešas ‘get wet’  
+ruq̅as ‘get dry’ 
+ruʁas ‘get cold’ 
+rutas ‘curdle (about milk)’ 
+t’aʜas ‘swell’  
+178
+[PDF PAGE 7]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+Table 2. Examples of labile verbs in Agul 
+arʕas ‘break (tr, intr)’ 
+at̅uzas ‘spill (tr, intr)’ 
+at’usas ‘stop burning (tr, intr)’ 
+daqas ‘open (tr, intr)’ 
+čurqas ‘explode (tr, intr)’ 
+č’urχas ‘tear apart (tr, intr)’ 
+č’ut’as ‘bend (tr, intr)’ 
+k’es ‘kill/die’ 
+rüxes ‘boil, cook (tr, intr)’ 
+uc’as ‘melt (tr, intr)’ 
+ugas ‘burn (tr, intr)’ 
+ 
+On the contrary, ordinary transitive and non-change-of-state intransitive verbs 
+cannot appear in the Involuntary Agent Construction, cf. (16) and (17): 
+ 
+Transitive verb 
+(16) a. ruš.a  k’e ǯ   lik’i-ne 
+   girl. ERG letter.ABS write- PST 
+   ‘The girl wrote a letter.’ 
+  b. *ruš.a-f-as  k’e ǯ   lik’i-ne 
+   girl- AD-ELAT letter. ABS write- PST 
+   ‘The girl accidentally wrote a letter.’ 
+Intransitive non-change-of-state verb 
+(17) a. ruš χul.a-s  ušu-ne 
+   girl home- DAT go- PST 
+   
+  b. *ruš.a-f-as  χul.a-s  ušu-ne 
+   girl- AD-ELAT home- DAT go- PST 
+   ‘The girl accidentally went home.’ 
+ 
+These examples show that the alternation between the Ergative and the Ad-
+elative marking is possible only for labile verbs, cf. at̅uzas ‘pour out’ with a 
+transitive valence pattern in (12) and an intransitive pattern with the Involuntary 
+Agent in (13). In fact, this also shows that the Involuntary Agent does not just 
+‘replace’ the canonically marked Agent, but instead is introduced in an event as an 
+‘external’ instigator of the whole event, described by the verb. However, even in this 
+case the Involuntary Agent cannot appear in clauses with transitive and non-change-
+of-state intransitive verbs in any of the three readings, cf. examples (16c) and (17c): 
+ 
+179
+‘The girl went home.’ 
+[PDF PAGE 8]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+(16) c. *za-f-as  ruš.a  k’e ǯ   lik’i-ne 
+   I- AD-ELAT girl. ERG letter.ABS write- PST 
+   ‘I accidentally made the girl write a letter.’ 
+(17) c. *za-f-as  ruš  χul.a-s  ušu-ne 
+   I- AD-ELAT girl. ABS home- DAT go- PST 
+   ‘I accidentally made the girl go home.’ 
+ 
+At the same time, the Involuntary Agent Construction was judged possible by 
+native speakers at least with one transitive verb – ʕut’as ‘eat’. In this case the 
+construction is possible only with the third reading (‘manage to do’), cf. example 
+(18): 
+ 
+(18) za-f-as  ruš.a  guni   ʕut’u-ne 
+  I- AD-ELAT girl. ERG bread.ABS eat- PST 
+  ‘I managed to feed the girl with bread.’ 
+ 
+One can suppose that the acceptability of (18), unlike examples like (16c) and 
+(17c), is due to the fact that the Involuntary Agent with the verb ʕut’as ‘eat’ is not 
+just an instigator of the event, but is involved in the caused event as well.  
+The Involuntary Agent is a participant that affects the Patient accidentally and 
+unintentionally. Therefore, it is no surprise that it can be expressed only by NPs 
+denoting human beings. Nouns denoting animals – like cats or dogs – are in 
+principle possible, but less felicitous, as it is hard to say whether an animal does 
+something intentionally or not. Cf. the following example: 
+ 
+(19) ??kitan.i-f-as   / * ǯaq˳ʼ.ala-f-as  dak’ar   ar ʕu-ne 
+  cat- AD-ELAT  bird- AD-ELAT  window. ABS break- PST 
+  ‘The cat / bird accidentally broke the window.’ 
+ 
+In contrast to the standard transitive pattern, the Involuntary Agent Construction 
+does not allow to add adjuncts presupposing a controlling and deliberately acting 
+Agent, such as Instruments or Benefactives (cf. (20)) and adverbs of manner like 
+qülias ‘for spite; to spite smb’, ʡašq̅unaldi ‘willingly, readily’, teʕdidi ‘quickly’ (cf. 
+(21)).  
+ 
+(20)  gada.ji  (*gada.ji-f-as) χew   ʁ ̥an.di-l-di7 /   za-s   ar ʕu-ne 
+  boy. ERG  boy-AD-ELAT nut. ABS  stone-SUPER-LAT  I- DAT  break- PST 
+  ‘The boy broke the nut with a rock / for me.’ 
+(21) ruš.a  (*ruš.a-f-as) te ʕdidi / qülias / ʡašq̅unaldi ber ʜem  č’urχu-ne 
+  girl- ERG girl-AD-ELAT quickly / for spite  / readily  dress. ABS tear- PST 
+  ‘The girl quickly / for spite / readily  tore the dress in pieces.’ 
+ 
+7 The Super-lative case is a regular means of the Instrument encoding in Agul. 
+180
+[PDF PAGE 9]
+NON-CANONICAL AGENT MARKING IN AGUL 
+  
+On the other hand, an NP expressing Force (22) or external circumstances (23) 
+can appear in the construction. Usually, in this case the construction gets the second 
+reading – ‘the participant lets something happen by overlooking and not doing what 
+should be done’ (cf. (22)). 
+ 
+(22)  gada.ji-f-as  kuruš k̅a  kulak.i-q-as   ar ʕu-ne 
+  boy- AD-ELAT mug. ABS  wind- POST-ELAT break-PST 
+‘The boy unwittingly broke the cup because of the wind.’ (e.g. a strong 
+wind blew suddenly, and the boy lost hold of the cup) 
+(23) gada.ji-f-as  baw    gašila    k’i-ne 
+  son- AD-ELAT mother. ABS  of starvation kill/die- PST 
+  ‘Mother died of starvation because of her son.’ (e.g., he didn’t looked after 
+   her) 
+ 
+All these restrictions seem to be clear evidence of low agentivity of a participant 
+marked by the Ad-elative and prove that the behavior of the Involuntary Agent 
+differs to a considerable extent from the behavior of the prototypical Agent. One can 
+conclude from these differences that the Involuntary Agent Construction is a means 
+of decreasing the degree of agentivity. In other words, it is a means of presenting the 
+situation as occurring with the participation of an Agent, but an Agent with 
+attenuated agentivity. Note that this construction is relevant only for prototypical 
+Agents, which are human beings. So, it can be used in case when it is indicated 
+inherent parameters, but at the same time in this particular situation s/he lacks one of 
+the most important features of Agents, that is the total control of the situation. 
+Thus it turns out that the ‘Involuntary Agent’ is not, strictly speaking, an Agent 
+as such (cf. (13) and interpretations i-ii), and it is not necessarily unintentional (cf. 
+interpretation iii above). It is rather a particular participant with a low degree of 
+control which can be introduced in an intransitive event. 
+3. THE UNDESIRABLE ACTION CONSTRUCTION 
+Another construction which is in some respect similar to the Involuntary Agent 
+xas ‘become; happen’.8 Example (24b) illustrates this construction, which in contrast 
+ 
+8 The verb xas ‘become; happen’ is used as an inchoative copula, which is illustrated in (i)-(ii):  
+ (i) ze gada  mü ʕelim  xa-se 
+  my son. ABS  teacher. ABS become- FUT 
+  ‘My son will become a teacher.’ 
+ (ii) če   ʕümür  četin xu-ne 
+  our. INCL life. ABS hard become- PST 
+  ‘Our life became hard.’ 
+ As one of the main auxiliary verbs (along with the stative copulas e ‘be’ and a ‘be located’), xas also 
+forms a number of periphrastic tenses, e.g. the Future Imperfective and the Future Perfective – cf. 
+181
+Construction is formed with the deverbal noun (Masdar) of a verb and the auxiliary 
+explicitly that a participant can be considered as a true Agent according to his/her 
+[PDF PAGE 10]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+to its basic counterpart (24a) has a connotation of an undesirable event, that should 
+have been prevented. The structure of (24b) can be translated literally as ‘the girl’s 
+seeing of a gift happened’. 
+ 
+(24) a. ruš.a-s p ̅adark̅a  agu-ne 
+   girl- DAT gift.ABS  see- PST 
+   ‘The girl saw a gift.’ 
+  b. ruš.a-s  p ̅adark̅a  agu-b   xu-ne 
+   [girl- DAT gift. ABS  see- MSD] become- PST 
+‘It so happened that the girl saw a gift.’ (although she was not supposed 
+to do so) 
+ 
+There are two variants of the Undesirable Action Construction, with difference in 
+argument marking. In the first variant, the main participant is encoded by the case 
+that is required by the lexical verb: cf. the Absolutive with the intransitive verb uʁas 
+‘to fall down (of rain or snow)’ in (25), the Ergative with the transitive verb ʕut’as 
+‘to eat’ in (26), or the Dative with the sentience verb ag˳as ‘to see’ in (24b) above. 
+In this case the construction has an impersonal reading ‘(independenly of anyone’s 
+will) it so happened that’, and is usually used to explain why something that had 
+been previously planned didn’t take place: 
+ 
+(25) Context: – Have you managed to build your new house this year?  
+  – No, we didn’t manage to do this: 
+    ixp ̅-ar   u ʁu-b  xu-ne 
+  [snow- PL.ABS fall- MSD] become- PST 
+‘It so happened that it snowed (so we had to stop building).’ {= lit. Falling 
+of snow happened.} 
+(26)  Context: – Father was keeping the fast, but one day he forgot this, and 
+  dad.a   guni   ʕut’u-b xu-ne 
+  [father. ERG bread.ABS eat- MSD]become-PST 
+  ‘It so happened that he ate bread.’ {= lit. Father’s eating bread happened.} 
+ 
+From the syntactic point of view, this variant of the construction can be probably 
+represented as a one-place predicate xas ‘become; happen’ with a sentential 
+complement (see the bracketing in examples above). There seem to be no 
+restrictions on the semantic or syntactic class of the lexical verb and the semantic 
+role of its main argument with this reading. The only restriction concerns the 
+temporal reference: as the construction in question describes situations which run 
+against the speaker’s expectations, it is most appropriate in the past tense. Present or 
+future time reference is doubtful for the Undesirable Action Construction: 
+                                                                             
+ruχaj xase ‘will be reading’ (with the Imperfective converb of the main verb) and ruχuna xase ‘will 
+have read’ (with the Perfective converb of the main verb). 
+182
+[PDF PAGE 11]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+ 
+(27) ??ruš.a-s   p ̅adark̅a  agu-b   xa-se 
+  [girl- DAT gift. ABS  see- MSD] become- FUT 
+  ‘It will happen so that the girl will see a gift.’ 
+ 
+In the second variant of the Undesirable Action Construction the core argument 
+is marked by the Ad-elative. In this case the construction describes an action in 
+which the participant takes part deliberately, but mistakenly. This is possible in two 
+cases: 
+(i) the participant does not know that s/he should not do something, cf. (28): 
+ 
+(28)  dad.a-f-as    kuruš k̅a   ar ʕu-b  xu-ne 
+ father- AD-ELAT mug. ABS  break- MSD become- PST 
+ ‘Father (deliberately) broke the cup.’ (it turned out later that another cup   
+  should have been broken, but father did not know that) {= lit. From father  
+  breaking the cup happened.} 
+ 
+(ii) the participant does know that s/he should not do something, but the 
+circumstances are such that s/he has to do this, cf. (29): 
+ 
+(29) za-f-as  ušu-b  xu-ne    ge-wur.i-n  χul.a-s 
+  I- AD-ELAT go- MSD become- PST that- PL-GEN  house- DAT 
+‘I went to their place.’ (I knew that I should not visit them, but it so 
+happened that I had to do this) {= From me going to their house happened.} 
+ 
+In contrast to the first type of encoding, here the construction becomes more 
+‘personal’, in the sense that there is a particular participant responsible for the 
+situation. While in the first case (cf. exx. (24)-(26)) the situation as a whole is in 
+focus, construction with the Ad-elative case focuses on the participant who is 
+‘guilty’ of the situation and regrets it. 
+The second strategy of argument marking imposes considerable restrictions both 
+on the lexical verb and on the participant’s semantic role. First of all, only agentive 
+verbs can appear in this variant of the construction (which is in clear contrast to the 
+Involuntary Agent Construction, as shown above). Cf. example (30), which is 
+ungrammatical, since the verb alurq’as ‘fall down, tumble down’ does not allow a 
+controlled interpretation: 
+ 
+(30) *gada.ji-f-as alurq’u-b  xu-ne 
+  boy- AD-ELAT fall down- MSD become-PST 
+‘It so happened that the boy fell down.’ (although he was not supposed to 
+do so) 
+ 
+As for restrictions on the participant, only NPs denoting human beings can 
+appear in the Undesirable Action Construction; animals are highly doubtful in this 
+context (cf. (31)), and inanimate objects are ruled out altogether: 
+183
+[PDF PAGE 12]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+ (31) ?? kitan.i-f-as  ne k̅   u χu-b  xu-ne 
+  cat- AD-ELAT milk. ABS drink- MSD become- PST 
+  ‘It so happened that the cat drank the milk.’ 
+  
+The Ad-elative marking is possible neither for the Experiencer of sentience verbs 
+(cf. (32)), nor for other types of non-canonically marked arguments: 
+ 
+(32) *ruš.a-f-as  p ̅adark̅a  agu-b  xu-ne 
+  girl- AD-ELAT gift. ABS  see- MSD become-PST 
+‘It so happened that the girl saw a gift.’ (although she was not supposed to 
+do so) 
+ 
+In sum, the Ad-elative argument in the Undesirable Action Construction is used 
+true Agent is attenuated as the participant in question has to act not following his/her 
+own will, but being forced by the circumstances, or s/he does not realize the 
+consequences of his/her action. 
+As the examples given above show, the semantics of the Undesirable Action 
+Construction is rather similar (albeit not identical) to that of the Involuntary Agent 
+Construction. However, lexical restrictions on the verb in the Involuntary Agent 
+Construction and the Undesirable Action Construction seem to be in complementary 
+distribution: in the former case only non-agentive verbs can appear in the 
+construction, in the latter case agentive ones. This may point at the possibility of 
+interpreting both constructions as variants of one and the same basic construction. 9 It 
+can be, for example, that the difference in interpretation stems from the difference in 
+the meaning of the verb: while non-agentive change of state verbs favour the 
+involuntary reading (like in ‘accidentally pour out the milk’), it is not available for 
+agentive verbs with which the action is rather presented as intentional but 
+inappropriate. Note the same effect with the use of adverbials like the English 
+accidentally or the Russian slučajno ‘accidentally, by accident’: with verbs denoting 
+non-controlled situations they emphasize the involuntary involvement, and the 
+preferred reading with agentive verbs is ‘do something on purpose but mistakenly’. 
+It is also possible for an agentive verb to have both readings, cf. the following 
+examples from Russian: 
+ 
+(33) a. Ja slu čajno razbil etu čašku 
+   
+   
+ 
+9 Martin Haspelmath seems to be close to this decision in his description of Lezgian data. Pointing that 
+the Lezgian Adelative appears in the Involuntary Agent Construction, he continues with the following 
+observation: “When the involuntary action is expressed by a transitive verb, a periphrastic 
+construction with xun ‘ become, happen’ and the Masdar has to be used” (Haspelmath 1993: 91). 
+Unfortunately, apart from three examples no discussion is provided that could clarify this point. 
+184
+to express a participant who controls the situation and can be regarded as a typical 
+‘I have accidentally broken this cup.’ {I did not notice it standing there.} 
+Agent according to his/her inherent properties. At the same time, its evaluation as a 
+[PDF PAGE 13]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+b. Ja slu čajno pročital eto pis’mo 
+   ‘I have accidentally read this letter.’ {I thought it was addressed to me.} 
+  c. Ja slu čajno otkryl etu dver’ 
+   ‘I have accidentally opened this door.’ {a.  I touched it with my elbow 
+    while passing by; b. I deliberately opened the door, but it turned out later 
+    that it should have been kept closed.} 
+ 
+Still, it does not seem appropriate to treat the Involuntary Agent Construction 
+and the Undesirable Action Construction in Agul as variants because of two reasons. 
+Firstly, verb classes that are allowed by the two constructions are not 
+complementary in the strict sense. It is possible to use some verbs both in the 
+Involuntary Agent Construction and in the Undesirable Action Construction with 
+slight difference in meaning: 
+ 
+(34) a. za-f-as  ber ʜem  č’urχu-ne 
+   I- AD-ELAT shirt. ABS tear- PST 
+   ‘I accidentally tore the shirt.’ 
+  b. za-f-as  ber ʜem  č’urχu-b  xu-ne 
+   I- AD-ELAT shirt. ABS tear- MSD become- PST 
+   ‘It so happened that I tore the shirt.’ (e.g., I needed to dress a wound and 
+     used my shirt for this) 
+ 
+In the second place, even if the distribution of verbs in both constructions was 
+strictly complementary, the formal relation between the two constructions is 
+idiomatic. In particular, it is not quite clear why it is the combination of the Masdar 
+with the verb xas ‘become; happen’ that is used for the Undesirable Action 
+Construction (and why it is not the case, for example, that the Ad-elative argument 
+of the Involuntary Agent Construction is extended to all types of verbs instead). 
+Thus, is seems reasonable to keep the two constructions apart, although they both 
+certainly belong to a wider family of ‘Agent-attenuating’ means in Agul. 
+4. THE POSSIBILITIVE CONSTRUCTION 
+In a number of Lezgic languages (e.g. Lezgian, Agul, Tabassaran, or Udi) there are 
+no modal verbs corresponding in meaning to can or may in English. Possibility is 
+usually described by means of a special construction with the verb ‘become; 
+happen’, in which the sentential complement is headed by the Infinitive and the 
+main participant is encoded by one of the locative cases from the ‘elative’ series – 
+that is, ‘he could do it’ is expressed literally as ‘it became/happened from him to do 
+it’.  
+In Agul it is the Ad-elative case that marks the main participant of the 
+Possibilitive Construction. Examples (35) and (36) show that this construction can 
+be used to express both participant-internal (‘can, be able’) and participant-external 
+185
+[PDF PAGE 14]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+possibility (‘may, be allowed’), using the terms introduced in Auwera & Plungian 
+1998.10 
+ 
+(35) ze  gada.ji-f-as  wa-s    kümek aq’a-s  xa-se 
+  my son- AD-ELAT [you. SG-DAT 
+  ‘My son will be able to help you.’ 
+(36) ilsan.di-f-as   ̅ dua-s    xa-fe-wa? 
+  person- AD-ELAT [Allah- COMIT compete- INF] become- GENER-Q 
+  ‘Is it possible (permitted) for a human being to compete with Allah?’ 
+ 
+The Ad-elative argument of the Possibilitive Construction is not obligatory: 
+when it is absent the sentence is normally interpreted as agentless (‘it is possible 
+that’): 
+ 
+(37) a. ruš.a-f-as  kitab   ru χa-s  xu-ne 
+   girl- AD-ELAT [book. ABS read- INF] become- PST 
+   ‘The girl managed to read the book.’ 
+  b.  kitab   ru χa-s  xu-ne 
+   [book. ABS read- INF] become- PST 
+    
+    language) 
+ 
+The main participant of the Possibilitive Construction does not have to be human 
+(cf. acceptable sentences like ‘the cow managed to jump over a fence’, etc.); 
+however, inanimate participants are definitely ruled out. 
+Thus, there is no alternation of argument marking in the Possibilitive 
+Construction: if present, the main participant is invariably marked by the Ad-elative. 
+There is a formal similarity between the Possibilitive Construction and the 
+Involuntary Agent Construction in that the low agentive animate participant can be 
+omitted from the sentence. However, in this case the situation is not presented as 
+happening autonomously (without any Agent), but is interpreted impersonally – ‘it is 
+possible for someone/anyone to fulfill an action’. 
+5. THE CAUSATIVE CONSTRUCTION 
+We now pass to another use of the Ad-elative (and the Ad-essive) 11 which is a bit 
+different from those described so far. At the same time, the semantic contrast which 
+ 
+10 Epistemic possibility (‘the proposition is judged by the speaker to be probable’) cannot be expressed by 
+means of this construction in Agul; in this case the Future tense of the verb must be used. 
+11 The Ad-essive differs from the Ad-elative in that the former describes the location near a landmark 
+(sometimes the motion toward the goal), not the motion from it. An example of the Ad-essive 
+marking of core non-locative argument was given in (4) above, where it encodes the temporary 
+Possessor. Apart from the temporary Possessor and the Causee, there seem to be no other non-locative 
+uses of this case.  
+186
+allah.ti-qaj  
+help.ABS  do-INF] become- FUT 
+‘It became possible to read the book.’ (e.g. written in an unknown  
+[PDF PAGE 15]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+is associated with the Ad-elative/Ad-essive in the Causative Construction also deals 
+with the degree of agentivity and provides further evidence for treating the Ad-
+elative as a specialized ‘Agent-attenuating’ device. 
+The only productive causativization pattern in Agul is a construction with the 
+auxiliary verb (a)q’as ‘do, make’ and the Infinitive of the main verb. Semantically, 
+‘do’-causatives normally express indirect, or ‘distant’ causation (a more detailed 
+description is provided in Daniel et al. 2004). The Causer is invariably marked by 
+the Ergative; as for the Causee, there are two strategies for its encoding. According 
+to the first one, the actor keeps the case marking assigned by the main predicate; this 
+is illustrated in exx. (38) through (40), where sentences in (b) are periphrastic 
+causatives of sentences in (a):  
+ 
+Intransitive verb 
+(38) a. kitan  hiši-ne 
+   cat. ABS run away- PST 
+   ‘The cat ran away.’ 
+  b. baw.a   kitan  hiša-s    q’u-ne 
+   mother. ERG [cat.ABS ran away-INF] do- PST 
+   ‘Mother made the cat run away.’ (e.g. she made a noise and the cat woke 
+    up) 
+Sentience verb 
+(39) a. dad.a-s  wuri     unxu-ne 
+   father- DAT everything. ABS hear- PST 
+   ‘Father heard everything.’ 
+  b. baw.a   dad.a-s    wuri     unx.a-s  q’u-ne 
+   mother. ERG [father-DAT  everything. ABS hear- INF] do- PST 
+   ‘Mother made father hear everything.’  
+Transitive verb 
+(40) a. gada.ji šurpa   ʕut’u-ne 
+   boy. ERG soup.ABS eat- PST 
+   ‘The boy ate the soup.’ 
+  b. baw.a   gada.ji  šurpa   ʕut’a-s q’u-ne 
+   mother. ERG [boy.ERG soup. ABS eat- INF] do- PST 
+‘Mother made the boy eat the soup.’ (e.g. she threatened not to let him 
+go for a walk) 
+ 
+There is, however, a possibility of encoding the Causee by means of the Ad-
+essive and the Ad-elative cases. Both of them can mark the Causee when an agentive 
+intransitive or a transitive verb appear in the Causative Construction (there seem to 
+be no evident semantic difference between the two cases here): 
+ 
+Intransitive verb 
+(41) baw.a   gada.ji-w // gada.ji-f-as  hiša-s    q’u-ne 
+  mother. ERG boy-AD   boy- AD-ELAT run away- INF do- PST 
+  ‘Mother made the boy run away.’ 
+187
+[PDF PAGE 16]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+Transitive verb 
+(42) baw.a   gada.ji-w // gada.ji-f-as  šurpa   ʕut’a-s q’u-ne 
+  mother. ERG boy-AD   boy- AD-ELAT soup. ABS eat- INF do- PST 
+  ‘Mother made the boy eat the soup.’ 
+ 
+The second strategy of the Causee marking is not possible for verbs with non-
+canonical marking of core arguments – e.g. for sentience verbs with the Experiencer 
+in the Dative: 
+ 
+(43) baw.a   *dad.a-w // *dad.a-f-as   wuri     
+  mother. ERG father-AD father- AD-ELAT everything. ABS hear- INF do-PSG 
+  ‘Mother made father hear everything.’ 
+ 
+It is also not allowed for verbs denoting uncontrolled situations, especially when 
+the Causee is not human. While the first, ‘neutral’ strategy is perfectly available 
+here, the Ad-essive and the Ad-elative are impossible or at best questionable: 
+ 
+(44) dad.a   ruš     // ??ruš.a-w  // *ruš.a-f-as    it ̅arxa-s 
+  father. ERG daughter. ABS  daughter- AD daughter- AD-ELAT fall ill- INF  
+  q’u-ne 
+  do- PST 
+  ‘Father made the daughter fall ill.’ 
+(45) gada.ji dar   // *dar.ala-w // *dar.ala-f-as adarxa-s q’u-ne 
+  boy. ERG tree.ABS  tree- AD   tree- AD-ELAT fall- INF do- PST 
+  ‘The boy made the tree fall down.’ 
+ 
+The use of the Ad-elative is even more restricted than that of the Ad-essive, as 
+only the latter is allowed when the Causee is an animal (cf. (41) above): 
+ 
+(46) baw.a   kitan.i-w //  *kitan.i-f-as hiša-s    q’u-ne 
+  mother. ERG cat-AD   cat- AD-ELAT run away- INF do- PST 
+  ‘Mother made the cat run away.’ 
+ 
+With verbs that allow both types of the Causee encoding, the following semantic 
+contrast can be observed: while the original Ergative or Absolutive marking leaves 
+the opportunity for the autonomous acting of the Causee (making even the 
+permissive reading possible), the choice of the Ad-essive/Ad-elative clearly reduces 
+his/her independence and underlines the dominant role of the Causer. Cf. the 
+following examples, where in sentences under (b) the causee displays less control of 
+the situation than those under (a) (for short, only the Ad-essive variants are given): 
+ 
+188
+unx.a-s q’u-ne 
+[PDF PAGE 17]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+Transitive verb 
+(47) gi   ze  šünü k̅-ar.i   wa k̅.a-n jak̅   ʕut’a-s q’u-ne 
+  that. ERG my children- PL.ERG pig- GEN meat.ABS eat- INF do- PST 
+  a.  ‘S/he let my children eat pork.’ (e.g. s/he forgot that they were not    
+     supposed to do that and cooked pork for them) 
+  b.  ‘S/he permitted my children to eat pork.’ 
+(48) gi   ze  šünü k̅-ar.i-w   wa k̅.a-n jak̅   ʕut’a-s q’u-ne 
+  that. ERG my children- PL-AD  pig- GEN meat.ABS eat- INF do- PST 
+  ‘S/he made my children eat pork’ (although they did not want to) 
+Intransitive verb 
+(49) dad.a   ruš     ra ʁ.una-k   ʁut’a-s   q’.u-ne 
+  father. ERG daughter. ABS sun- SUB/CONT stand-INF do- PST 
+  a.  ‘Father made daughter stand under the sun.’ (e.g. he had forgot to leave 
+     her the key and she could not enter the house)  
+  
+(50)  dad.a   ruš.a-w   ra ʁ.una-k   ʁut’a-s   q’.u-ne 
+  father. ERG daughter- AD  sun- SUB/CONT stand-INF do- PST 
+  ‘Father put daughter under the sun.’ (e.g. as a punishment) 
+ 
+The two strategies of the Causee marking (one keeping original encoding of the 
+argument, the other changing its case to the Ad-essive/Ad-elative) differ with 
+respect to the preferences of their distribution among types of verbs. Transitive verbs 
+12  while 
+intransitives prefer original encoding, as shown in (38b). This may have a syntactic 
+explanation: the occurrence of two Ergative NPs in sentences like (40b) clearly 
+shows that we deal with two transitive clauses here, and the Ad-essive/Ad-elative 
+marking of the Causee reflects a natural change of the Causative Construction from 
+biclausal to monoclausal structure (like in (42)).  
+However, a semantic explanation seems to us more illuminating: as exx. (44)-
+(46) show, the Ad-essive/Ad-elative marking is dispreferred when the Causee shows 
+low agentivity. The Ergative arguments of transitive verbs in Agul are always (real) 
+Agents, so it is quite appropriate to mark them by the Ad-essive/Ad-elative in the 
+Causative Construction. On the contrary, only those intransitives allow this strategy, 
+whose participants are highly agentive (which is not the case in (44) and (45)). The 
+ 
+12 The Ad-essive marking is possible even for the inanimate Causee. Transitive verbs do not normally 
+allow inanimate Ergative NPs in Agul. However, we are aware of one example of such kind: cf. (i), 
+where the same metaphorical conceptualization of ‘catching fire’ is used, as in English: 
+ (i) a. k’ur-ar.i   c’aj  facu-ne 
+   firewood- PL.ERG fire. ABS catch- PST 
+   ‘The firewood caught fire.’ 
+  b. baw.a   ̅   lat’u-na,  
+   mother. ERG kerosene. ABS pour- CONV 
+   k’ur-ar.i    //  k’ur-ar.i-w   c’aj  faca-s  q’u-ne    
+    [firewood- PL.ERG  firewood- PL-AD fire. ABS catch- INF] do-PST 
+   ‘Having poured the kerosene, mother made the firewood catch fire.’ 
+189
+b.  ‘Father permitted daughter to stand under the sun.’ 
+prefer the Ad-essive/Ad-elative marking, exemplified in (42) above,
+naft 
+[PDF PAGE 18]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+impossibility of the Ad-essive/Ad-elative encoding with sentience verbs also favors 
+this explanation. 
+Summarizing, the Ad-essive and the Ad-elative cases can both mark the Causee 
+in the Causative Construction; however, this is possible only in cases when the 
+Causee is highly agentive. The Ad-elative seems to be associated with even higher 
+degree of agentivity, as hinted by native speaker judgments in examples like (44) 
+and (46). 
+Thus, in the case of the Causative Construction the use of the Ad-essive/Ad-
+elative shows that we deal with an inherently agentive participant. At the same time, 
+the choice of this type of marking (and not the original Ergative or Absolutive 
+encoding) points at the agentivity decrease, as the role of the Causee in the situation 
+becomes more subordinate. 
+6. SYNTACTIC STATUS OF AD-ELATIVE NPS MARKING AGENTS 
+As a typical role-dominated language, Agul tends to encode clause arguments 
+consistently with  their semantic roles. So, by and large the marking of core 
+arguments is clearly motivated by their semantics.  
+It is nevertheless interesting to find out whether the Involuntary Agent and other 
+Ad-elative NPs are true syntactic subjects (like, e.g., A marked by the Ergative in 
+transitive clauses), or not. However, many of the traditional syntactic tests for 
+subjecthood (for a list of the tests see, e.g., Onishi 2001) do not apply in Agul. For 
+example, the criterion of antecedent control over reflexive pronouns and 
+relativization do not show even the difference between A/S and O in Agul, and thus 
+cannot shed light on the status of the Ad-elative argument. Some other criteria are 
+applicable only to the verb xas ‘become; happen’, whose core argument is invariably 
+marked by Ad-elative in the Possibilitive Construction (see section 4 above). 
+Following Onishi 2001, we divide subject properties into coding properties and 
+behavioral properties. The former include case marking, constituent word order of 
+core arguments and verbal agreement, while the latter include various syntactic 
+phenomena, such as the ability to control reflexivization, deletion in second 
+conjuncts and controlled infinitives, etc. Now let us look at these tests in more detail. 
+6.1 Coding properties 
+6.1.1 Case marking 
+The Ad-elative is a morphologically peripheral case, so it is not expected to code the 
+grammatical subject. But it is not obvious whether either of the two core cases that 
+canonically mark S, A and O (i.e. the Absolutive and the Ergative) always identify 
+the grammatical subject.  
+It is noteworthy that the Absolutive argument is almost always present in 
+canonical clauses (both transitive and intransitive). This might suggest that the 
+Absolutive is a case of grammatical subject. However, even this criterion fails, since 
+190
+[PDF PAGE 19]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+there are a number of verbs that do not select for arguments in the Absolutive at all. 
+These non-canonical valence patterns are mainly exhibited by sentience predicates, 
+cf. the following examples: 
+ 
+(51) za-s  mik’eldi-a 
+  I- DAT  be cold- PRS 
+  ‘I am cold.’ 
+(52) ze  č̅uč̅u-s   bengiš-ar.i-q-as  guč ’a-adawa 
+  my brother- DAT bear- PL-POST-ELAT be afraid- PRS.NEG 
+  ‘My brother is not afraid of bears.’ 
+ 
+as. 
+This verb has an Absolutive argument which denotes the Instrument, as example 
+(53) demonstrates: 
+ 
+(53) dad.a   degi-s   ʁ ̥an   jar ʜu-ne 
+  father. ERG donkey- DAT stone. ABS hit- PST 
+  ‘Father hit the donkey with a rock.’ 
+ 
+However, this Absolutive argument can be freely omitted (just as the 
+Instrumental NPs in English or Russian) and the following pattern seems to be 
+statistically predominant: 
+ 
+(54) dad.a   degi-s   jar ʜu-ne 
+  father. ERG donkey- DAT hit- PST 
+  ‘Father hit the donkey.’ 
+ 
+All these examples show that the Absolutive cannot be considered as the case of 
+the grammatical subject nor even as an obligatory argument. Thus, in general, we 
+can say that there is no such thing as ‘the case of the grammatical subject’ in Agul, 
+so this criterion does not help us. 
+6.1.2 Constituent word order of core NPs 
+The Ad-elative NP expressing the Involuntary Agent in most neutral contexts 
+precedes other NPs and the verb. The same is true about other arguments 
+corresponding to subjects in English, such as the Ergative expressing A, the 
+Absolutive expressing S, the Dative expressing the Experiencer, the Post-essive 
+expressing the Possessor. But in general, word order in Agul is flexible, and the first 
+position of all these NPs is rather due to the topicality of corresponding semantic 
+roles. As Haspelmath (1993:301) suggests discussing the same situation in Lezgian, 
+word order is determined by information structure rather than by grammatical 
+relations. All variants of basic word order in Agul are in principle possible, so this 
+191
+нAnother piece of evidence comes from the valence pattern of the verb jar
+[PDF PAGE 20]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+criterion does not determine the grammatical subject. Cf. examples (55a)–(55f) 
+illustrating all variants of word order in a transitive clause: 
+ 
+(55) a. timur.a  guni   ʕut’a-a SOV 
+   Timur. ERG bread. ABS eat- PRS 
+  b. timura   ʕut’aa   guni  SVO 
+  c. guni    timura   ʕut’aa OSV 
+  d. guni    ʕut’aa   timura OVS 
+  e. ʕut’aa   timura   guni  VSO 
+  f. ʕut’aa   guni    timura VOS 
+   ‘Timur is eating bread.’ 
+ 
+Thus with respect to word order the Involuntary Agent is close to A/S (being 
+most frequent in sentence-initial position), but the criterion itself is weak due to the 
+discourse-pragmatic nature of word order rules. 
+6.1.3 Verbal agreement 
+Unlike the vast majority of the East Caucasian languages, Agul as well as Lezgian 
+has no agreement on the verb at all (neither noun class agreement, like in most 
+languages of the family, nor person and number agreement like in Tabassaran, 
+Dargi, Lak, Udi, and Akhvakh). 
+6.2 Behavioral properties 
+6.2.1 Antecedent control over reflexive pronouns 
+This parameter is often used to determine subjecthood. However, in Agul the 
+criterion cannot be used for identifying subjects, as it is not necessarily the subject or 
+even a core argument that controls the reflexive pronoun. In general, it seems that 
+the ability of an argument to control reflexive pronouns in Agul is not syntactically 
+determined, but rather depends on pragmatics (particularly the topicality of the 
+corresponding NP). 
+ 
+(56) a. gada.ji i u či   k’i-ne 
+   boy. ERG REFL.ABS die/kill- PST 
+  b. gada i  u č.ii   k’i-ne 
+   boy. ABS REFL.ERG die/kill- PST 
+   ‘A boy has killed himself.’ 
+(57) a. gada.ji-f-as i  u či   k’i-ne 
+   boy- AD-ELAT  REFL.ABS die/kill- PST 
+192
+[PDF PAGE 21]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+  b. gada i  u č.i-f-asi   k’i-ne 
+   boy. ABS REFL-AD-ELAT die/kill-PST 
+   ‘A boy has accidentally killed himself.’ 
+(58) a. dad.a i  u č.i-q-t̅ii    unaq’u-ne gada.ji-s 
+   father. ERG REFL-POST-LAT call- PST  boy- DAT 
+  b. dad.a-q-t ̅ii   u č.ii   unaq’u-ne gada.ji-s 
+   father- POST-LAT REFL-ERG call- PST  boy- DAT 
+   ‘Father i called the boy (to himselfi).’ 
+ 
+As examples (56)–(58) show, any argument including the Ad-elative can control 
+a reflexive pronoun in its own clause. The only important constraint is that the 
+reflexive pronoun must follow the full NP. 
+6.2.2 Relativization 
+In Agul, participles are used to form relative clauses. The criterion cannot be used 
+for identifying subjecthood, as every core and virtually every non-core argument 
+(incl. locative adverbials) can be relativized. 
+ 
+(59)  A (Ergative) 
+  a. [šünü k̅.i-s q ̅enfet i     ] xir  
+   child- DAT candy give. PFPART woman 
+   ‘a woman who gave a candy to a child’ 
+  O (Absolutive) 
+  b. [xir.a    šünü k̅.i-s i     ] q ̅enfet 
+   woman. ERG  child- DAT give. PFPART  candy  
+   ‘candy which a woman gave to a child’ 
+(60)  Experiencer (Dative) 
+  a. [šahar agu    ] šünü k̅  
+   city. ABS see.PFPART  child 
+   ‘a child who saw a city’ 
+  Stimulus (Absolutive) 
+  b. [šünü  k̅.i-s agu    ] šahar 
+   child- DAT see. PFPART   city. ABS 
+   ‘a city which was seen by a child’ 
+(61)  S (Absolutive) 
+  a. [dar.a-l  uq’unaje   ] ǯaq˳ʼ  
+   tree- SUPER sit. RESPART  bird. ABS 
+   ‘a bird which sits on a tree’ 
+   
+193
+[PDF PAGE 22]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+Locative (Super-essive) 
+  b. [ ǯaq˳ʼ  uq’unaje  ] dar 
+   bird. ABS sit.RESPART  tree. ABS 
+   ‘a tree on which a bird sits’ 
+6.2.3 Controller of coreferential omission 
+This test is applicable only to the verb xas ‘become’ in the Possibilitive 
+Construction, and in this case the control is not only admissible but obligatory (cf. 
+examples (35)–(37) above). Other verbs with the Ad-elative argument do not take 
+complement clauses. That is, the criterion points at a subject-like behaviour of the 
+Ad-elative NP, but it is somewhat weak, being applicable only to one verb 
+governing this case. 
+6.2.4 Target of coreferential omission 
+The test is again applicable only to the verb xas ‘become’ in the Possibilitive 
+Construction (62), since omission of subject NP leads to the default agentive reading 
+with labile verbs (63) and to the default agentless reading with other verbs (64). It is 
+impossible to get an involuntary reading in examples (63) and (64): 13 
+ 
+(62) gada.ji-s i agu-ne Ø i    dar.ala-l  al ʁuč’a-s  xu-f 
+  son- DAT  tree-SUPER climb up- INF become- PART] 
+  ‘The boy i saw that (hei) could climb up a tree.’ 
+(63) gada.ji-s i agu-ne Ø i      dak’ar   ar ʕu-f 
+  son- DAT  window.ABS break- PART] 
+  ‘The boy i saw that (hei) broke the window.’ 
+(64) a. gada.ji-s i agu-ne ne k̅   rutu-f 
+   son- DAT  see- PST [milk. ABS curdle- PART] 
+   ‘The boy i saw that the milk curdled.’ 
+  b. *gada.ji-s i agu-ne Ø i    nek̅   rutu-f 
+   son- DAT  see- PST [ AD-ELAT milk. ABS curdle- PART] 
+   ‘The boy i saw that the milk curdled (on himi).’ 
+6.2.5 Controller of ‘same subject’ constraints 
+As true coordinated clauses are almost absent in Agul, we shall look at the syntactic 
+behaviour of arguments in a construction with the perfective converb - na expressing 
+a sequence of actions carried out by the same participant. Whereas high priority 
+ 
+13 The same is true for another potential subject property, viz. the possibility of being used as the 
+addressee of the imperative. 
+194
+see-PST [AD-ELAT  
+see-PST [ERG/*AD-ELAT  
+[PDF PAGE 23]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+arguments – the Absolutive NP of an intransitive clause (65a), the Ergative NP of a 
+transitive clause (65b), and the Experiencer marked by the Dative (65c) – can all 
+control omission of a coreferential argument in a linked clause, O cannot do so 
+(65e). The Involuntary Agent in this respect is an argument with high priority (65d). 
+(65) a. gada i  Ø i  adi-na   ʁarxu-ne 
+   boy. ABS [ABS come- CONV] fall asleep- PST 
+   ‘The boy came and fell asleep.’ 
+  b. gada.ji i Ø i  adi-na   ruš.a-s jar ʜu-ne 
+   boy. ERG [ABS come- CONV] girl- DAT hit-PST 
+   ‘The boy came and hit the girl.’ 
+  c. gada.ji-s i Ø i  adi-na   ruš  agu-ne 
+   boy- DAT  [ ABS come- CONV] girl. ABS see- PST 
+   ‘The boy came and saw the girl.’ 
+  d. gada.ji-f-as i Ø i  adi-na   šüše   ar ʕu-ne 
+   boy- AD-ELAT [ ABS come- CONV] bottle. ABS break- PST 
+   ‘The boy came and accidentally broke the bottle.’ 
+  e. *gada.ji ʜünii  Ø i  qaj-na     uzu-ne 
+   boy. ERG cow.ABS [ABS come back- CONV] milk- PST 
+   ‘The cow came back and the boy milked it.’ 
+6.2.6 Antecedent control over demonstrative pronouns 
+This test gives a sort of ‘inverse’ result: only O can be referred to anaphorically by a 
+demonstrative pronoun, whereas high priority arguments manifest stronger 
+restrictions: in a subordinate clause, they must be anaphorically referred to by a 
+reflexive pronoun.14 The Involuntary Agent as well as another non-canonical subject 
+marked by the Dative, were judged as hardly acceptable controllers, although not 
+impossible altogether. 
+ 
+(66) a. ʡajšati adi-ne  u č.i-si  / *gi-s i  fat’im.i  kümek q’u-b  
+   Aishat come- PST REFL-DAT that- DAT Fatima.ERG help  do- MSD 
+    badala 
+   in order to 
+   ‘Aishat came so that Fatima would help her.’ 
+  b. ʡajšat.ai  i-ne  dad.a-l-di   kitab   ti    u č.i-si  / 
+   Aishat. ERG give-PST father-SUPER-LAT book.ABS this. ERG  REFL-DAT
+    *gi-s i  ge  ru χu-b  badala 
+   that- DAT that  read- MSD in order to 
+   ‘Aishat gave a book to father so that he would read it to her.’ 
+ 
+14 This property of demonstrative pronouns is discussed in more detail in Cardinaletti & Starke (1999). 
+We are grateful to Yakov Testelec for bringing this criterion to our attention. 
+195
+[PDF PAGE 24]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+  c.  ʡajšat.a-si agu-ne u č.i-si  / ??gi-s i fajnaje   kitab 
+   Aishat- DAT see-PST REFL-DAT that- DAT bring.RESPART book.ABS 
+   ‘Aishat saw the book which was brought to her.’ 
+  d. ʡajšat.a-f-asi  gulu-ne u č.i-si  /  ??gi-s i fajnaje   kitab 
+   Aishat- AD-ELAT  lose- PST REFL-DAT  that- DAT bring.RESPART book.ABS 
+   ‘Aishat lost the book which was brought to her.’ 
+  e.  ʡajšat.a  hatu-ne  ruš i    fat’im.i  u či.-si   / gi-s i  
+   Aishat. ERG send-PST  daughter. ABS Fatima. ERG REFL-DAT that- DAT 
+    ber ʜem   ag  ̥arq’u-b badala 
+   dress. ABS  show- MSD in order to 
+   ‘Aishat sent her daughter so that Fatima would show to her the dress.’ 
+ 
+Thus, according to two behavioral criteria, the Involuntary Agent is a high 
+priority argument like A and S (and not like O in transitive clauses). The second 
+(patientive) argument in the Involuntary Agent Construction according to these 
+criteria seems to pattern syntactically as O rather than as A/S: in contrast to A/S, it is 
+very doubtful as a controller of coreferential omission (cf. (65f)), but it can be an 
+antecendent of a demonstrative pronoun in dependent clause (cf. (66f)):  
+ 
+(65) f. ??gada.ji-f-as kitan i  χula-s  Ø i  adi-na   k’i-ne 
+   boy- AD-ELAT cat. ABS [house- DAT ABS come- CONV] kill/die- PST 
+   ‘The cat came into the house and the boy accidentally killed it.’ 
+(66) f. ʜünii  gulu-ne  u či  / ge i ʁušu-nde  gada.ji-f-as 
+   cow. ABS get lost-PST [REFL / that take-RESPART] boy-AD-ELAT 
+   ‘The cow was lost by the boy who bought it.’ 
+ 
+The results of the syntactic tests for S, A, and O, as well as for experiential 
+Datives and Involuntary Agents are summarized in Table 3. 
+196
+[PDF PAGE 25]
+NON-CANONICAL AGENT MARKING IN AGUL 
+ 
+Table 3. Syntactic properties of core arguments and the Involuntary Agent15 
+ S (Abs) A (Erg) Exp (Dat) IA (Ad-El) O (Abs) 
+Word order (first position) 
+ 
++ + + + + 
+Antecedent control over 
+reflexive nouns 
++ + + + + 
+Antecedent control over 
+demonstrative pronouns 
+- - ± ± + 
+Relativization 
+ 
++ + + = A + 
+Controller of coreferential 
+omission 
++ n/a + + (PC) n/a 
+Target of coreferential 
+omission 
++ + + = A - 
+Controller of ‘same 
+subject’ constraints 
++ + + + - 
+7. CONCLUSION 
+We have discussed a number of uses of the Ad-elative and, to a lesser degree, Ad-
+essive cases in Agul. Both of these cases are originally locative, however in the 
+constructions described above they have non-locative uses, viz. they encode one of 
+the main (and predominantly human) participants of the situation. 
+What all these constructions have in common is that one of the ‘Ad’ cases 
+denotes a participant which is inherently agentive, but which in a given situation 
+lacks some important Agent properties. The Involuntary Agent takes part in the 
+situation accidentally and unintentionally, that is s/he does not control it (totally or 
+in part). The Causee in the Causative Construction is also agentive, however s/he 
+acts not by his/her own free will, but being forced but the Causer (the choice of one 
+of the strategies of the Causee encoding reflects the degree of agentivity). The Agent 
+of the Undesirable Action Construction is a bit different as s/he acts deliberately; 
+however,  his/her acting is regarded as inappropriate and the whole situation is 
+presented as being forced by ‘the circumstances’. And the participant of the 
+Possibilitive Construction is close to this broad ‘low agentivity’ zone in that it is 
+presented as only potentially capable of doing something (or as one that is allowed 
+to do it). In sum, all these participants seem to have some problems with ‘volitional 
+involvement in the event or state’, which is the main Proto-Agent entailment in 
+Dowty’s (1991) influential approach. 
+ 
+15 Abbreviations: ‘n/a’: not applicable; ‘=A’: is identical to A; ‘PC’: only relevant for the Possibilitive 
+Construction. 
+197
+Thus the two ‘Ad’ cases in Agul (in particular the Ad-elative) can be considered 
+as a general means of expressing low agentivity of a participant, a means of en-
+coding a participant who is ‘not agentive enough’ to be regarded as a real Agent. 
+[PDF PAGE 26]
+DMITRY GANENKOV, TIMUR MAISAK, SOLMAZ MERDANOVA 
+ 
+alternations’) of their book, among other works. 
+status in different constructions. In the case of the Causative Construction and the 
+Undesirable Action Construction we deal with a true ‘paradigmatic alternation’ in 
+Ackerman & Moore’s terms (as there is a contrast between two types of marking). 
+However, the Involuntary Agent is a sort of ‘extra’ participant of the situation that 
+can occur spontaneously without it and includes at least one S-like participant. As to 
+the Possibilitive Construction, the Ad-elative case is the only means to encode its 
+main participant. 
+REFERENCES 
+Ackerman, F. and J. Moore (2001). Proto-Properties and Grammatical Encoding: A Correspondence 
+Theory of Argument Selection. Stanford: CSLI Publications. 
+Auwera, J. van der and V. Plungian (1998). Modality’s semantic map. Linguistic Typology 2.1, 79-124. 
+Cardinaletti, A. and M. Starke (1999). Responses and demonstratives. Clitics in the Languages of Europe. 
+Empirical Approaches to Language Typology. Ed. by H. van Riemsdijk. Berlin: Mouton de Gruyter. 
+Daniel, M., T. Maisak and S. Merdanova (2004). Causatives, decausatives and lability in Agul. 
+International Symposium on the Typology of Argument Structure and Grammatical Relations in 
+Languages Spoken in Europe and North and Central Asia (LENCA-2). Kazan State University, 
+Tatarstan, Russia, May 11-14. (http://www.ling.helsinki.fi/uhlcs/LENCA/LENCA-2/information/ 
+abstracts.html) 
+Dixon, R.M.W. and A.Y. Aikhenvald (2000). Introduction. Changing valency: Case studies in 
+transitivity. Ed. by Dixon, R.M.W. and A.Y. Aikhenvald. Cambridge: Cambridge University Press. 
+Dowty, D. (1991). Thematic proto-roles and argument selection. Language 67, 547-619. 
+Foley, W. and R. van Valin, Jr. (1984). Functional Syntax and Universal Grammar. Cambridge: 
+Cambridge University Press. 
+Haspelmath, M. (1993). A grammar of Lezgian. Berlin: Mouton de Gruyter. 
+Kibrik, A.E. (1997). Beyond subject and object: Towards a comprehensive relational typology. Linguistic 
+Typology 1.3, 279-346. 
+Onishi, M. (2001). Introduction: Non-canonically marked subjects and objects. Parameters and 
+Properties. Non-canonical Marking of Subjects and Objects. Ed. by A.Y. Aikhenvald, R.M.W. Dixon 
+and M. Onishi. Amsterdam/Philadelphia: John Benjamins. 
+Schulze, W. (to appear). A new model of metaphorization: Case semantics in East Caucasian. Metonymy 
+and Metaphor in Grammar. Ed. by Barcelona, A., K. Panther, G. Radden and L.L. Thorburg.  
+Amsterdam/Philadelphia: John Benjamins. 
+198
+The strategy of expressing semantic contrasts in ‘degree of Agentivity’ by means of 
+“an alternation between canonically-marked subjects and other more oblique 
+encodings” (Ackerman & Moore 2001:141) is well represented in the languages of 
+the world, cf. the data discussed by Ackerman & Moore in chapter 6 (‘Subject 
+Kittilä, S. (2005). A typology of involuntary agent constructions. Word 56.3. 
+N  ote also that the arguments marked by one of the ‘Ad’ cases have different 

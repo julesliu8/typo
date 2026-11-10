@@ -1,0 +1,2489 @@
+[
+  {
+    "id": "https://openalex.org/W2228753854",
+    "doi": "https://doi.org/10.22425/jul.2005.6.2.117",
+    "title": "Desideratives and Person: Constructing a Semantic Map",
+    "display_name": "Desideratives and Person: Constructing a Semantic Map",
+    "relevance_score": 381.49207,
+    "publication_year": 2005,
+    "publication_date": "2005-09-30",
+    "ids": {
+      "openalex": "https://openalex.org/W2228753854",
+      "doi": "https://doi.org/10.22425/jul.2005.6.2.117",
+      "mag": "2228753854"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.22425/jul.2005.6.2.117",
+      "doi": "https://doi.org/10.22425/jul.2005.6.2.117",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.22425/jul.2005.6.2.117",
+      "pdf_url": "http://www.sejongjul.org/download/download_pdf?pid=jul-6-2-117",
+      "source": {
+        "id": "https://openalex.org/S2765010324",
+        "display_name": "Journal of Universal Language",
+        "issn_l": "1598-6381",
+        "issn": [
+          "1598-6381",
+          "2508-5344"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "jufo-1",
+          "kci-registered"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Universal Language",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "http://www.sejongjul.org/download/download_pdf?pid=jul-6-2-117",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5085165236",
+          "display_name": "Toshihiro Sugawara",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I46247651",
+            "display_name": "University of Manitoba",
+            "ror": "https://ror.org/02gfys938",
+            "country_code": "CA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I46247651"
+            ]
+          }
+        ],
+        "countries": [
+          "CA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Toshihiro Sugawara",
+        "raw_affiliation_strings": [
+          "University of Manitoba"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Manitoba",
+            "institution_ids": [
+              "https://openalex.org/I46247651"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5085165236"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I46247651"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 11.2772,
+    "has_fulltext": true,
+    "cited_by_count": 22,
+    "citation_normalized_percentile": {
+      "value": 0.98049663,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "6",
+      "issue": "2",
+      "first_page": "117",
+      "last_page": "153"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Syntax, Semantics, Linguistic Variation",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12694",
+        "display_name": "Categorization, perception, and language",
+        "score": 0.0007999999797903001,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13260",
+        "display_name": "Linguistics and Language Studies",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/grammatical-person",
+        "display_name": "grammatical person",
+        "score": 0.9890000224113464
+      },
+      {
+        "id": "https://openalex.org/keywords/person-marking",
+        "display_name": "person marking",
+        "score": 0.4830000102519989
+      },
+      {
+        "id": "https://openalex.org/keywords/semantic-maps",
+        "display_name": "semantic maps",
+        "score": 0.503000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/conceptual-space",
+        "display_name": "conceptual space",
+        "score": 0.8820000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-linguistic-comparison",
+        "display_name": "cross-linguistic comparison",
+        "score": 0.7490000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/japanese",
+        "display_name": "Japanese",
+        "score": 0.4729999899864197
+      },
+      {
+        "id": "https://openalex.org/keywords/korean-language",
+        "display_name": "Korean language",
+        "score": 0.9950000047683716
+      },
+      {
+        "id": "https://openalex.org/keywords/samoan",
+        "display_name": "Samoan",
+        "score": 0.9309999942779541
+      },
+      {
+        "id": "https://openalex.org/keywords/tagalog",
+        "display_name": "Tagalog",
+        "score": 0.972000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/clitics",
+        "display_name": "clitics",
+        "score": 0.6790000200271606
+      },
+      {
+        "id": "https://openalex.org/keywords/third-person-pronouns",
+        "display_name": "third-person pronouns",
+        "score": 0.628000020980835
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.7442473769187927
+      },
+      {
+        "id": "https://openalex.org/C2778551981",
+        "wikidata": "https://www.wikidata.org/wiki/Q36224",
+        "display_name": "Pronoun",
+        "level": 2,
+        "score": 0.728364109992981
+      },
+      {
+        "id": "https://openalex.org/C2764733",
+        "wikidata": "https://www.wikidata.org/wiki/Q7631398",
+        "display_name": "Subject pronoun",
+        "level": 3,
+        "score": 0.6290338039398193
+      },
+      {
+        "id": "https://openalex.org/C2777855551",
+        "wikidata": "https://www.wikidata.org/wiki/Q12310021",
+        "display_name": "Subject (documents)",
+        "level": 2,
+        "score": 0.6184298396110535
+      },
+      {
+        "id": "https://openalex.org/C3018176237",
+        "wikidata": "https://www.wikidata.org/wiki/Q5397000",
+        "display_name": "First person",
+        "level": 2,
+        "score": 0.6017439365386963
+      },
+      {
+        "id": "https://openalex.org/C24184978",
+        "wikidata": "https://www.wikidata.org/wiki/Q468801",
+        "display_name": "Personal pronoun",
+        "level": 2,
+        "score": 0.5888547301292419
+      },
+      {
+        "id": "https://openalex.org/C121934690",
+        "wikidata": "https://www.wikidata.org/wiki/Q1084",
+        "display_name": "Noun",
+        "level": 2,
+        "score": 0.5706204175949097
+      },
+      {
+        "id": "https://openalex.org/C2779388314",
+        "wikidata": "https://www.wikidata.org/wiki/Q34057",
+        "display_name": "Tagalog",
+        "level": 2,
+        "score": 0.554942786693573
+      },
+      {
+        "id": "https://openalex.org/C3019064422",
+        "wikidata": "https://www.wikidata.org/wiki/Q1181947",
+        "display_name": "Third person",
+        "level": 2,
+        "score": 0.5265358090400696
+      },
+      {
+        "id": "https://openalex.org/C99361443",
+        "wikidata": "https://www.wikidata.org/wiki/Q7075064",
+        "display_name": "Object pronoun",
+        "level": 3,
+        "score": 0.5189154148101807
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5064424276351929
+      },
+      {
+        "id": "https://openalex.org/C206977991",
+        "wikidata": "https://www.wikidata.org/wiki/Q980357",
+        "display_name": "Grammatical category",
+        "level": 3,
+        "score": 0.5056908130645752
+      },
+      {
+        "id": "https://openalex.org/C13077596",
+        "wikidata": "https://www.wikidata.org/wiki/Q340015",
+        "display_name": "Deixis",
+        "level": 2,
+        "score": 0.47322332859039307
+      },
+      {
+        "id": "https://openalex.org/C159403335",
+        "wikidata": "https://www.wikidata.org/wiki/Q207857",
+        "display_name": "Inflection",
+        "level": 2,
+        "score": 0.45843157172203064
+      },
+      {
+        "id": "https://openalex.org/C2778572836",
+        "wikidata": "https://www.wikidata.org/wiki/Q380933",
+        "display_name": "Space (punctuation)",
+        "level": 2,
+        "score": 0.42262402176856995
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3058285117149353
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.09137064218521118
+      },
+      {
+        "id": "https://openalex.org/C161191863",
+        "wikidata": "https://www.wikidata.org/wiki/Q199655",
+        "display_name": "Library science",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.22425/jul.2005.6.2.117",
+        "doi": "https://doi.org/10.22425/jul.2005.6.2.117",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.22425/jul.2005.6.2.117",
+        "pdf_url": "http://www.sejongjul.org/download/download_pdf?pid=jul-6-2-117",
+        "source": {
+          "id": "https://openalex.org/S2765010324",
+          "display_name": "Journal of Universal Language",
+          "issn_l": "1598-6381",
+          "issn": [
+            "1598-6381",
+            "2508-5344"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "kci-registered"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Universal Language",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.22425/jul.2005.6.2.117",
+      "doi": "https://doi.org/10.22425/jul.2005.6.2.117",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.22425/jul.2005.6.2.117",
+      "pdf_url": "http://www.sejongjul.org/download/download_pdf?pid=jul-6-2-117",
+      "source": {
+        "id": "https://openalex.org/S2765010324",
+        "display_name": "Journal of Universal Language",
+        "issn_l": "1598-6381",
+        "issn": [
+          "1598-6381",
+          "2508-5344"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "jufo-1",
+          "kci-registered"
+        ],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Universal Language",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2228753854.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2228753854.grobid-xml"
+    },
+    "referenced_works_count": 30,
+    "referenced_works": [
+      "https://openalex.org/W57987483",
+      "https://openalex.org/W582855317",
+      "https://openalex.org/W1513338298",
+      "https://openalex.org/W1526764246",
+      "https://openalex.org/W1559010669",
+      "https://openalex.org/W1568546078",
+      "https://openalex.org/W1568886291",
+      "https://openalex.org/W1967826392",
+      "https://openalex.org/W1968052763",
+      "https://openalex.org/W1972403002",
+      "https://openalex.org/W1988592213",
+      "https://openalex.org/W2004455881",
+      "https://openalex.org/W2034660568",
+      "https://openalex.org/W2041378150",
+      "https://openalex.org/W2049702014",
+      "https://openalex.org/W2223095229",
+      "https://openalex.org/W2264581726",
+      "https://openalex.org/W2337762945",
+      "https://openalex.org/W2460838103",
+      "https://openalex.org/W2489534459",
+      "https://openalex.org/W2501651925",
+      "https://openalex.org/W4235328885",
+      "https://openalex.org/W4240102833",
+      "https://openalex.org/W4244229854",
+      "https://openalex.org/W4256239074",
+      "https://openalex.org/W4285719527",
+      "https://openalex.org/W4298419326",
+      "https://openalex.org/W6629797155",
+      "https://openalex.org/W6808350143",
+      "https://openalex.org/W6822901733"
+    ],
+    "related_works": [
+      "https://openalex.org/W7098457157",
+      "https://openalex.org/W7015568961",
+      "https://openalex.org/W1991878223",
+      "https://openalex.org/W2507005673",
+      "https://openalex.org/W7048264352",
+      "https://openalex.org/W7219530975",
+      "https://openalex.org/W659572235",
+      "https://openalex.org/W4320915181",
+      "https://openalex.org/W6943844667",
+      "https://openalex.org/W2223095229"
+    ],
+    "abstract_inverted_index": {
+      ">This": [
+        0
+      ],
+      "paper": [
+        1
+      ],
+      "examines": [
+        2
+      ],
+      "the": [
+        3,
+        58,
+        75,
+        97,
+        108,
+        124,
+        133,
+        149,
+        175
+      ],
+      "implications": [
+        4
+      ],
+      "of": [
+        5,
+        60,
+        77,
+        135
+      ],
+      "grammatical": [
+        6,
+        21,
+        48,
+        54
+      ],
+      "person": [
+        7,
+        39,
+        55,
+        82,
+        92,
+        101,
+        126,
+        143
+      ],
+      "for": [
+        8,
+        171
+      ],
+      "desiderative": [
+        9,
+        61,
+        78,
+        114
+      ],
+      "constructions": [
+        10,
+        62
+      ],
+      "from": [
+        11,
+        88,
+        107,
+        138
+      ],
+      "a": [
+        12,
+        24,
+        129,
+        156,
+        166
+      ],
+      "cross-linguistic": [
+        13
+      ],
+      "perspective.": [
+        14
+      ],
+      "It": [
+        15
+      ],
+      "is": [
+        16,
+        84,
+        160,
+        169
+      ],
+      "widely": [
+        17
+      ],
+      "known": [
+        18
+      ],
+      "that": [
+        19,
+        53,
+        89,
+        123
+      ],
+      "some": [
+        20
+      ],
+      "systems": [
+        22
+      ],
+      "in": [
+        23,
+        44,
+        63,
+        95,
+        113,
+        121,
+        152,
+        162,
+        178
+      ],
+      "language,": [
+        25
+      ],
+      "such": [
+        26,
+        47,
+        68
+      ],
+      "as": [
+        27,
+        69
+      ],
+      "pronoun": [
+        28,
+        127
+      ],
+      "systems,": [
+        29,
+        35,
+        49
+      ],
+      "number": [
+        30,
+        111
+      ],
+      "distinction,": [
+        31
+      ],
+      "and": [
+        32,
+        73,
+        99,
+        141,
+        165
+      ],
+      "case": [
+        33
+      ],
+      "marking": [
+        34
+      ],
+      "are": [
+        36,
+        104,
+        181
+      ],
+      "sensitive": [
+        37
+      ],
+      "to": [
+        38,
+        46,
+        147
+      ],
+      "differences.": [
+        40
+      ],
+      "In": [
+        41,
+        66,
+        116,
+        145
+      ],
+      "this": [
+        42,
+        163,
+        179
+      ],
+      "study,": [
+        43,
+        164
+      ],
+      "addition": [
+        45
+      ],
+      "it": [
+        50,
+        118
+      ],
+      "was": [
+        51,
+        119
+      ],
+      "found": [
+        52,
+        120,
+        151,
+        177
+      ],
+      "also": [
+        56
+      ],
+      "affects": [
+        57
+      ],
+      "form": [
+        59,
+        76
+      ],
+      "several": [
+        64
+      ],
+      "languages.": [
+        65
+      ],
+      "languages": [
+        67
+      ],
+      "Japanese,": [
+        70
+      ],
+      "Korean,": [
+        71
+      ],
+      "Hua,": [
+        72
+      ],
+      "Cocopa,": [
+        74
+      ],
+      "construction": [
+        79
+      ],
+      "with": [
+        80,
+        90
+      ],
+      "third": [
+        81,
+        125
+      ],
+      "subject": [
+        83
+      ],
+      "somewhat": [
+        85
+      ],
+      "differently": [
+        86,
+        106
+      ],
+      "constructed": [
+        87
+      ],
+      "first/second": [
+        91
+      ],
+      "subject.": [
+        93
+      ],
+      "Also,": [
+        94
+      ],
+      "Samoan,": [
+        96
+      ],
+      "first": [
+        98
+      ],
+      "second": [
+        100
+      ],
+      "singular": [
+        102
+      ],
+      "clitics": [
+        103,
+        112
+      ],
+      "treated": [
+        105
+      ],
+      "other": [
+        109,
+        142
+      ],
+      "person/": [
+        110
+      ],
+      "constructions.": [
+        115
+      ],
+      "addition,": [
+        117
+      ],
+      "Tagalog": [
+        122
+      ],
+      "shows": [
+        128
+      ],
+      "different": [
+        130
+      ],
+      "pattern": [
+        131
+      ],
+      "regarding": [
+        132
+      ],
+      "use": [
+        134
+      ],
+      "enclitic": [
+        136
+      ],
+      "sana": [
+        137
+      ],
+      "lexical": [
+        139
+      ],
+      "nouns": [
+        140
+      ],
+      "pronouns.": [
+        144
+      ],
+      "order": [
+        146
+      ],
+      "capture": [
+        148
+      ],
+      "phenomena": [
+        150
+      ],
+      "these": [
+        153
+      ],
+      "languages,": [
+        154
+      ],
+      "then,": [
+        155
+      ],
+      "semantic": [
+        157
+      ],
+      "map": [
+        158
+      ],
+      "model": [
+        159
+      ],
+      "adopted": [
+        161
+      ],
+      "conceptual": [
+        167
+      ],
+      "space": [
+        168
+      ],
+      "proposed": [
+        170
+      ],
+      "desideratives": [
+        172
+      ],
+      "within": [
+        173
+      ],
+      "which": [
+        174
+      ],
+      "distinctions": [
+        176
+      ],
+      "study": [
+        180
+      ],
+      "represented.": [
+        182
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-04T10:54:05.112534",
+    "created_date": "2016-06-24T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W4410515255",
+    "doi": "https://doi.org/10.1080/00048402.2025.2477275",
+    "title": "Desiderative Lockeanism",
+    "display_name": "Desiderative Lockeanism",
+    "relevance_score": 46.47252,
+    "publication_year": 2025,
+    "publication_date": "2025-05-20",
+    "ids": {
+      "openalex": "https://openalex.org/W4410515255",
+      "doi": "https://doi.org/10.1080/00048402.2025.2477275"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/00048402.2025.2477275",
+      "doi": "https://doi.org/10.1080/00048402.2025.2477275",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/00048402.2025.2477275",
+      "pdf_url": "https://semanticsarchive.net/Archive/WMzOWU2O/Lassiter-diss-Measurement-Modality.pdf",
+      "source": {
+        "id": "https://openalex.org/S98189702",
+        "display_name": "Australasian Journal of Philosophy",
+        "issn_l": "0004-8402",
+        "issn": [
+          "0004-8402",
+          "1470-6828",
+          "1471-6828"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847",
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Routledge",
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Australasian Journal of Philosophy",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://semanticsarchive.net/Archive/WMzOWU2O/Lassiter-diss-Measurement-Modality.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5070318179",
+          "display_name": "Milo Phillips-Brown",
+          "orcid": "https://orcid.org/0000-0003-2223-9445",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2223-9445"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98677209",
+            "display_name": "University of Edinburgh",
+            "ror": "https://ror.org/01nrxwf90",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I98677209"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Milo Phillips-Brown",
+        "raw_affiliation_strings": [
+          "University of Edinburgh"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2223-9445",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Edinburgh",
+            "institution_ids": [
+              "https://openalex.org/I98677209"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5070318179"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I98677209"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.4797,
+    "has_fulltext": true,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.92532309,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 94
+    },
+    "biblio": {
+      "volume": "103",
+      "issue": "3",
+      "first_page": "740",
+      "last_page": "755"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10297",
+      "display_name": "Philosophical Ethics and Theory",
+      "score": 0.5288000106811523,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10297",
+        "display_name": "Philosophical Ethics and Theory",
+        "score": 0.5288000106811523,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10258",
+        "display_name": "Philosophy and Theoretical Science",
+        "score": 0.32350000739097595,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11477",
+        "display_name": "Epistemology, Ethics, and Metaphysics",
+        "score": 0.0803999975323677,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/desire",
+        "display_name": "desire",
+        "score": 0.48100000619888306
+      },
+      {
+        "id": "https://openalex.org/keywords/context-dependence",
+        "display_name": "context sensitivity",
+        "score": 0.8970000147819519
+      },
+      {
+        "id": "https://openalex.org/keywords/decision-theory",
+        "display_name": "decision theory",
+        "score": 0.7400000095367432
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.5126792192459106
+      }
+    ],
+    "mesh": [],
+    "locations_count": 4,
+    "locations": [
+      {
+        "id": "doi:10.1080/00048402.2025.2477275",
+        "doi": "https://doi.org/10.1080/00048402.2025.2477275",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/00048402.2025.2477275",
+        "pdf_url": "https://semanticsarchive.net/Archive/WMzOWU2O/Lassiter-diss-Measurement-Modality.pdf",
+        "source": {
+          "id": "https://openalex.org/S98189702",
+          "display_name": "Australasian Journal of Philosophy",
+          "issn_l": "0004-8402",
+          "issn": [
+            "0004-8402",
+            "1470-6828",
+            "1471-6828"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319847",
+          "host_organization_name": "Routledge",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319847",
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Routledge",
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Australasian Journal of Philosophy",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pure.ed.ac.uk:openaire/a9926cb5-81e1-4ae1-99bc-b9f7cec32b3d",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.research.ed.ac.uk/en/publications/a9926cb5-81e1-4ae1-99bc-b9f7cec32b3d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400321",
+          "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I98677209",
+          "host_organization_name": "University of Edinburgh",
+          "host_organization_lineage": [
+            "https://openalex.org/I98677209"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Phillips-Brown, M 2025, 'Desiderative Lockeanism', Australasian Journal of Philosophy, vol. 103, no. 3, pp. 740-755. https://doi.org/10.1080/00048402.2025.2477275",
+        "raw_type": "info:eu-repo/semantics/publishedVersion"
+      },
+      {
+        "id": "pmh:oai:philarchive.org/rec/PHIDLO-2",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://philarchive.org/rec/PHIDLO-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402130",
+          "display_name": "PhilPapers (PhilPapers Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:philpapers.org/rec/PHIDLO-2",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://philpapers.org/rec/PHIDLO-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402130",
+          "display_name": "PhilPapers (PhilPapers Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1080/00048402.2025.2477275",
+      "doi": "https://doi.org/10.1080/00048402.2025.2477275",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/00048402.2025.2477275",
+      "pdf_url": "https://semanticsarchive.net/Archive/WMzOWU2O/Lassiter-diss-Measurement-Modality.pdf",
+      "source": {
+        "id": "https://openalex.org/S98189702",
+        "display_name": "Australasian Journal of Philosophy",
+        "issn_l": "0004-8402",
+        "issn": [
+          "0004-8402",
+          "1470-6828",
+          "1471-6828"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319847",
+        "host_organization_name": "Routledge",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319847",
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Routledge",
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Australasian Journal of Philosophy",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4410515255.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4410515255.grobid-xml"
+    },
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W6169389",
+      "https://openalex.org/W409802150",
+      "https://openalex.org/W658996635",
+      "https://openalex.org/W1504553351",
+      "https://openalex.org/W1526352565",
+      "https://openalex.org/W1553732697",
+      "https://openalex.org/W1600250683",
+      "https://openalex.org/W1951797032",
+      "https://openalex.org/W1977974954",
+      "https://openalex.org/W1985467645",
+      "https://openalex.org/W2055580538",
+      "https://openalex.org/W2070401102",
+      "https://openalex.org/W2124902738",
+      "https://openalex.org/W2128511900",
+      "https://openalex.org/W2154641895",
+      "https://openalex.org/W2485392068",
+      "https://openalex.org/W2519140846",
+      "https://openalex.org/W2922110770",
+      "https://openalex.org/W2935984685",
+      "https://openalex.org/W3032913159",
+      "https://openalex.org/W3127016489",
+      "https://openalex.org/W3169314969",
+      "https://openalex.org/W3196488243",
+      "https://openalex.org/W4249710172",
+      "https://openalex.org/W4323022824",
+      "https://openalex.org/W4364862134",
+      "https://openalex.org/W6600250200"
+    ],
+    "related_works": [
+      "https://openalex.org/W3127016489",
+      "https://openalex.org/W4376617691",
+      "https://openalex.org/W2097332945",
+      "https://openalex.org/W7013249012",
+      "https://openalex.org/W4364862134",
+      "https://openalex.org/W2550123643",
+      "https://openalex.org/W4399788962",
+      "https://openalex.org/W2340441035",
+      "https://openalex.org/W4293243742",
+      "https://openalex.org/W628252883"
+    ],
+    "abstract_inverted_index": {
+      "According": [
+        0
+      ],
+      "to": [
+        1,
+        25,
+        54,
+        76
+      ],
+      "the": [
+        2,
+        14,
+        78
+      ],
+      "Desiderative": [
+        3,
+        31,
+        73,
+        111
+      ],
+      "Lockean": [
+        4,
+        32,
+        112
+      ],
+      "Thesis,": [
+        5
+      ],
+      "there": [
+        6
+      ],
+      "are": [
+        7
+      ],
+      "necessary": [
+        8
+      ],
+      "and": [
+        9
+      ],
+      "sufficient": [
+        10
+      ],
+      "conditions,": [
+        11
+      ],
+      "stated": [
+        12
+      ],
+      "in": [
+        13,
+        38,
+        59,
+        80
+      ],
+      "terms": [
+        15
+      ],
+      "of": [
+        16,
+        62,
+        103
+      ],
+      "decision": [
+        17
+      ],
+      "theory,": [
+        18
+      ],
+      "for": [
+        19
+      ],
+      "when": [
+        20
+      ],
+      "one": [
+        21
+      ],
+      "is": [
+        22,
+        36,
+        51
+      ],
+      "truly": [
+        23,
+        52
+      ],
+      "said": [
+        24,
+        53
+      ],
+      "want.": [
+        26
+      ],
+      "I": [
+        27,
+        89
+      ],
+      "advance": [
+        28
+      ],
+      "a": [
+        29,
+        45,
+        49,
+        60,
+        64,
+        85,
+        94,
+        101
+      ],
+      "new": [
+        30
+      ],
+      "view.": [
+        33
+      ],
+      "My": [
+        34
+      ],
+      "view": [
+        35,
+        97
+      ],
+      "distinctive": [
+        37
+      ],
+      "being": [
+        39
+      ],
+      "doubly": [
+        40,
+        95
+      ],
+      "context-sensitive.": [
+        41
+      ],
+      "Want": [
+        42
+      ],
+      "ascriptions": [
+        43,
+        82
+      ],
+      "exhibit": [
+        44
+      ],
+      "remarkable": [
+        46
+      ],
+      "context-sensitivity:": [
+        47
+      ],
+      "what": [
+        48
+      ],
+      "person": [
+        50
+      ],
+      "want": [
+        55,
+        81
+      ],
+      "varies": [
+        56
+      ],
+      "by": [
+        57,
+        83,
+        108
+      ],
+      "context": [
+        58
+      ],
+      "variety": [
+        61
+      ],
+      "ways,": [
+        63
+      ],
+      "fact": [
+        65
+      ],
+      "that": [
+        66,
+        105
+      ],
+      "has": [
+        67
+      ],
+      "not": [
+        68
+      ],
+      "been": [
+        69
+      ],
+      "fully": [
+        70
+      ],
+      "appreciated.": [
+        71
+      ],
+      "Others": [
+        72
+      ],
+      "Lockeans": [
+        74
+      ],
+      "attempt": [
+        75
+      ],
+      "capture": [
+        77
+      ],
+      "context-sensitivity": [
+        79
+      ],
+      "positing": [
+        84
+      ],
+      "single": [
+        86
+      ],
+      "context-sensitive": [
+        87,
+        96
+      ],
+      "parameter.": [
+        88
+      ],
+      "posit": [
+        90
+      ],
+      "two.": [
+        91
+      ],
+      "Only": [
+        92
+      ],
+      "with": [
+        93
+      ],
+      "can": [
+        98
+      ],
+      "we": [
+        99
+      ],
+      "explain": [
+        100
+      ],
+      "range": [
+        102
+      ],
+      "facts": [
+        104
+      ],
+      "go": [
+        106
+      ],
+      "unexplained": [
+        107
+      ],
+      "all": [
+        109
+      ],
+      "other": [
+        110
+      ],
+      "views.": [
+        113
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-04T10:54:05.112534",
+    "created_date": "2025-05-21T00:00:00"
+  },
+  {
+    "id": "https://openalex.org/W2117836574",
+    "doi": null,
+    "title": "ON HISTORICAL SEMANTIC CHANGES OF THE THAI MORPHEME HÂJ",
+    "display_name": "ON HISTORICAL SEMANTIC CHANGES OF THE THAI MORPHEME HÂJ",
+    "relevance_score": 23.147696,
+    "publication_year": 2012,
+    "publication_date": "2012-12-01",
+    "ids": {
+      "openalex": "https://openalex.org/W2117836574",
+      "mag": "2117836574"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/9542",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1885/9542",
+      "pdf_url": "http://hdl.handle.net/1885/9542",
+      "source": {
+        "id": "https://openalex.org/S4306402539",
+        "display_name": "ANU Open Research (Australian National University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I118347636",
+        "host_organization_name": "Australian National University",
+        "host_organization_lineage": [
+          "https://openalex.org/I118347636"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of the Southeast Asian Linguistics Society (JSEALS) 5 (2012): 126-141",
+      "raw_type": "Journal article"
+    },
+    "volume": null,
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://hdl.handle.net/1885/9542",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5101151298",
+          "display_name": "Kiyoko Takahashi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "Kiyoko Takahashi",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5101151298"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 2.2311,
+    "has_fulltext": true,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.91955621,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 94
+    },
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Syntax, Semantics, Linguistic Variation",
+      "score": 0.9603999853134155,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10034",
+        "display_name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.9603999853134155,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12768",
+        "display_name": "Linguistics and language evolution",
+        "score": 0.02979999966919422,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13156",
+        "display_name": "Historical Linguistics and Language Studies",
+        "score": 0.0052999998442828655,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1203",
+          "display_name": "Language and Linguistics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/thai-language",
+        "display_name": "Thai language",
+        "score": 0.7120000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/historical-semantics",
+        "display_name": "historical semantics",
+        "score": 0.8420000076293945
+      },
+      {
+        "id": "https://openalex.org/keywords/grammaticalization",
+        "display_name": "grammaticalization",
+        "score": 0.9610000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/complementizers",
+        "display_name": "complementizers",
+        "score": 0.8309999704360962
+      },
+      {
+        "id": "https://openalex.org/keywords/diachronic-corpus",
+        "display_name": "diachronic corpus",
+        "score": 0.7400000095367432
+      },
+      {
+        "id": "https://openalex.org/keywords/change-of-location",
+        "display_name": "change of location",
+        "score": 0.6480000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/state-change",
+        "display_name": "state change",
+        "score": 0.9509999752044678
+      },
+      {
+        "id": "https://openalex.org/keywords/irrealis",
+        "display_name": "irrealis",
+        "score": 0.6959999799728394
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777453737",
+        "wikidata": "https://www.wikidata.org/wiki/Q1121559",
+        "display_name": "Complementizer",
+        "level": 3,
+        "score": 0.8480292558670044
+      },
+      {
+        "id": "https://openalex.org/C2776397901",
+        "wikidata": "https://www.wikidata.org/wiki/Q24905",
+        "display_name": "Verb",
+        "level": 2,
+        "score": 0.7798317670822144
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.7206501960754395
+      },
+      {
+        "id": "https://openalex.org/C165297611",
+        "wikidata": "https://www.wikidata.org/wiki/Q43249",
+        "display_name": "Morpheme",
+        "level": 2,
+        "score": 0.70936119556427
+      },
+      {
+        "id": "https://openalex.org/C2778254764",
+        "wikidata": "https://www.wikidata.org/wiki/Q7940204",
+        "display_name": "Volition (linguistics)",
+        "level": 2,
+        "score": 0.6284828782081604
+      },
+      {
+        "id": "https://openalex.org/C135756266",
+        "wikidata": "https://www.wikidata.org/wiki/Q1358208",
+        "display_name": "Grammaticalization",
+        "level": 2,
+        "score": 0.6001911163330078
+      },
+      {
+        "id": "https://openalex.org/C112313634",
+        "wikidata": "https://www.wikidata.org/wiki/Q7886648",
+        "display_name": "Complement (music)",
+        "level": 5,
+        "score": 0.501732587814331
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.4763096570968628
+      },
+      {
+        "id": "https://openalex.org/C67277372",
+        "wikidata": "https://www.wikidata.org/wiki/Q7449085",
+        "display_name": "Semantic role labeling",
+        "level": 3,
+        "score": 0.4560948610305786
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.2710897922515869
+      },
+      {
+        "id": "https://openalex.org/C2777530160",
+        "wikidata": "https://www.wikidata.org/wiki/Q41796",
+        "display_name": "Sentence",
+        "level": 2,
+        "score": 0.18244445323944092
+      },
+      {
+        "id": "https://openalex.org/C127716648",
+        "wikidata": "https://www.wikidata.org/wiki/Q104053",
+        "display_name": "Phenotype",
+        "level": 3,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C104317684",
+        "wikidata": "https://www.wikidata.org/wiki/Q7187",
+        "display_name": "Gene",
+        "level": 2,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C188082640",
+        "wikidata": "https://www.wikidata.org/wiki/Q1780899",
+        "display_name": "Complementation",
+        "level": 4,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/9542",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/1885/9542",
+        "pdf_url": "http://hdl.handle.net/1885/9542",
+        "source": {
+          "id": "https://openalex.org/S4306402539",
+          "display_name": "ANU Open Research (Australian National University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I118347636",
+          "host_organization_name": "Australian National University",
+          "host_organization_lineage": [
+            "https://openalex.org/I118347636"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Journal of the Southeast Asian Linguistics Society (JSEALS) 5 (2012): 126-141",
+        "raw_type": "Journal article"
+      },
+      {
+        "id": "mag:2117836574",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://pacling.anu.edu.au/series/SEALS-PDFs/takahashi2012historical.pdf",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/9542",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1885/9542",
+      "pdf_url": "http://hdl.handle.net/1885/9542",
+      "source": {
+        "id": "https://openalex.org/S4306402539",
+        "display_name": "ANU Open Research (Australian National University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I118347636",
+        "host_organization_name": "Australian National University",
+        "host_organization_lineage": [
+          "https://openalex.org/I118347636"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of the Southeast Asian Linguistics Society (JSEALS) 5 (2012): 126-141",
+      "raw_type": "Journal article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W2117836574.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W2117836574.grobid-xml"
+    },
+    "referenced_works_count": 12,
+    "referenced_works": [
+      "https://openalex.org/W19487551",
+      "https://openalex.org/W257095814",
+      "https://openalex.org/W602965030",
+      "https://openalex.org/W610493955",
+      "https://openalex.org/W1486572223",
+      "https://openalex.org/W1968060331",
+      "https://openalex.org/W1973363032",
+      "https://openalex.org/W2013343361",
+      "https://openalex.org/W2098520883",
+      "https://openalex.org/W2488865046",
+      "https://openalex.org/W2500418505",
+      "https://openalex.org/W4252394759"
+    ],
+    "related_works": [
+      "https://openalex.org/W2233086505",
+      "https://openalex.org/W7220350914",
+      "https://openalex.org/W7220014880",
+      "https://openalex.org/W7215554767",
+      "https://openalex.org/W7220125880",
+      "https://openalex.org/W2382927836",
+      "https://openalex.org/W2925181917",
+      "https://openalex.org/W2375905499",
+      "https://openalex.org/W2239436019",
+      "https://openalex.org/W817514007"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0
+      ],
+      "present": [
+        1
+      ],
+      "paper": [
+        2
+      ],
+      "investigates": [
+        3
+      ],
+      "historical": [
+        4
+      ],
+      "semantic": [
+        5,
+        126
+      ],
+      "changes": [
+        6,
+        127
+      ],
+      "of": [
+        7,
+        17,
+        27,
+        48,
+        57,
+        65,
+        82,
+        99,
+        115,
+        128
+      ],
+      "the": [
+        8,
+        25,
+        28,
+        32,
+        37,
+        44,
+        113,
+        116
+      ],
+      "Thai": [
+        9,
+        21
+      ],
+      "multifunctional": [
+        10
+      ],
+      "\\nmorpheme": [
+        11
+      ],
+      "hâj": [
+        12,
+        18,
+        49,
+        129
+      ],
+      "by": [
+        13
+      ],
+      "analyzing": [
+        14
+      ],
+      "actual": [
+        15
+      ],
+      "tokens": [
+        16
+      ],
+      "expressions": [
+        19
+      ],
+      "in": [
+        20
+      ],
+      "inscriptions": [
+        22
+      ],
+      "\\nproduced": [
+        23
+      ],
+      "from": [
+        24
+      ],
+      "end": [
+        26
+      ],
+      "thirteenth": [
+        29
+      ],
+      "century1": [
+        30
+      ],
+      "through": [
+        31
+      ],
+      "twentieth": [
+        33
+      ],
+      "century.": [
+        34
+      ],
+      "Having": [
+        35
+      ],
+      "examined": [
+        36
+      ],
+      "diachronic": [
+        38
+      ],
+      "corpus": [
+        39
+      ],
+      "data,": [
+        40
+      ],
+      "I": [
+        41,
+        110
+      ],
+      "consider": [
+        42
+      ],
+      "that": [
+        43,
+        112
+      ],
+      "following": [
+        45
+      ],
+      "grammaticalization": [
+        46
+      ],
+      "pathway": [
+        47
+      ],
+      "is": [
+        50
+      ],
+      "most": [
+        51
+      ],
+      "plausible:": [
+        52
+      ],
+      "(a)": [
+        53
+      ],
+      "verb": [
+        54
+      ],
+      "for": [
+        55,
+        63,
+        75,
+        96
+      ],
+      "change": [
+        56,
+        64
+      ],
+      "location": [
+        58
+      ],
+      "(caused": [
+        59
+      ],
+      "motion)": [
+        60
+      ],
+      ">": [
+        61,
+        69,
+        90
+      ],
+      "(b)verb": [
+        62
+      ],
+      "state": [
+        66
+      ],
+      "(induced": [
+        67
+      ],
+      "situation)": [
+        68
+      ],
+      "(c)": [
+        70
+      ],
+      "complementizer": [
+        71,
+        92
+      ],
+      "preceding": [
+        72,
+        93
+      ],
+      "complement": [
+        73,
+        94
+      ],
+      "\\nclause": [
+        74
+      ],
+      "either": [
+        76
+      ],
+      "a": [
+        77
+      ],
+      "non-volitional": [
+        78
+      ],
+      "or": [
+        79
+      ],
+      "volitional": [
+        80,
+        97
+      ],
+      "situation": [
+        81,
+        98
+      ],
+      "irrealis2": [
+        83
+      ],
+      "(such": [
+        84,
+        101
+      ],
+      "as": [
+        85,
+        102
+      ],
+      "inducive": [
+        86
+      ],
+      "and": [
+        87,
+        104
+      ],
+      "desiderative": [
+        88
+      ],
+      "situations)": [
+        89
+      ],
+      "(d)": [
+        91
+      ],
+      "clause": [
+        95
+      ],
+      "irrealis": [
+        100
+      ],
+      "permissive": [
+        103
+      ],
+      "directive/coercive": [
+        105
+      ],
+      "situations).": [
+        106
+      ],
+      "On": [
+        107
+      ],
+      "this": [
+        108
+      ],
+      "basis,": [
+        109
+      ],
+      "\\nassume": [
+        111
+      ],
+      "notion": [
+        114
+      ],
+      "event": [
+        117
+      ],
+      "participant’s": [
+        118
+      ],
+      "volition": [
+        119
+      ],
+      "had": [
+        120
+      ],
+      "nothing": [
+        121
+      ],
+      "to": [
+        122
+      ],
+      "do": [
+        123
+      ],
+      "with": [
+        124
+      ],
+      "early": [
+        125
+      ],
+      "constructions.": [
+        130
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-04T10:54:05.112534",
+    "created_date": "2016-06-24T00:00:00"
+  }
+]

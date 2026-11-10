@@ -1,0 +1,169 @@
+[
+  {
+    "title": "A Grammar of Hinuq",
+    "doi": "https://doi.org/10.1515/9783110303971",
+    "year": 2013,
+    "authors": [
+      "Diana Forker"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1515/9783110303971",
+        null
+      ],
+      [
+        "https://doi.org/10.1515/9783110303971",
+        null
+      ]
+    ],
+    "abstract": "This is the first thorough description of the Nakh-Daghestanian language Hinuq. Hinuq has about 600 speakers living primarily in a single village in the Caucasus mountains in southern Russia (Daghestan). During several fieldwork trips, the author collected an extensive corpus of texts. Based on the data, Forker provides a comprehensive analysis of Hinuq grammar with reference to other Nakh-Daghestanian languages, to Caucasian studies and to typological and general linguistic topics."
+  },
+  {
+    "title": "Finiteness in Hinuq",
+    "doi": "https://doi.org/10.1349/ps1.1537-0852.a.391",
+    "year": 2011,
+    "authors": [
+      "Diana Forker"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1349/ps1.1537-0852.a.391",
+        "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/document/837"
+      ],
+      [
+        "https://doaj.org/article/1cebfbe6dec4428f9e517fbb68395283",
+        null
+      ],
+      [
+        "http://edoc.mpg.de/580270",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-000F-F442-C",
+        null
+      ]
+    ],
+    "abstract": "Hinuq (Nakh-Daghestanian language family, Caucasus, Russia) has a rich system of verbal forms.In independent/main clauses there are seven synthetic TAM forms, 20 periphrastic TAM forms, and two heterogeneous TAM forms that cannot be attributed clearly to one of these two groups.In dependent clauses there are about twenty forms that serve adverbial function, attributive function (i.e.headed and headless relative clauses) or complement function.To these forms belong suffixed forms that are traditionally called participles, adverbial participles, Infinitive and Masdar.In this paper I analyze Hinuq verb forms and clause types with respect to categories and phenomena that have been associated with finiteness.I will explore which of the criteria actually apply to Hinuq and whether they form a cluster that could be subsumed under the notion of finiteness."
+  },
+  {
+    "title": "From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars",
+    "doi": "https://doi.org/10.48550/arxiv.2411.15577",
+    "year": 2024,
+    "authors": [
+      "Kornilov, Albert",
+      "Tatiana Shavrina"
+    ],
+    "locations": [
+      [
+        "http://arxiv.org/abs/2411.15577",
+        "https://arxiv.org/pdf/2411.15577"
+      ],
+      [
+        "https://doi.org/10.48550/arxiv.2411.15577",
+        null
+      ]
+    ],
+    "abstract": "Recent advances in language modeling have demonstrated significant improvements in zero-shot capabilities, including in-context learning, instruction following, and machine translation for extremely under-resourced languages (Tanzer et al., 2024). However, many languages with limited written resources rely primarily on formal descriptions of grammar and vocabulary. In this paper, we introduce a set of benchmarks to evaluate how well models can extract and classify information from the complex descriptions found in linguistic grammars. We present a Retrieval-Augmented Generation (RAG)-based approach that leverages these descriptions for downstream tasks such as machine translation. Our benchmarks encompass linguistic descriptions for 248 languages across 142 language families, focusing on typological features from WALS and Grambank. This set of benchmarks offers the first comprehensive evaluation of language models' in-context ability to accurately interpret and extract linguistic features, providing a critical resource for scaling NLP to low-resource languages. The code and data are publicly available at \\url{https://github.com/al-the-eigenvalue/RAG-on-grammars}."
+  },
+  {
+    "title": "The Grammar of Impoliteness",
+    "doi": "https://doi.org/10.1515/9783111477084",
+    "year": 2025,
+    "authors": [
+      "Daniël van Olmen",
+      "Andersson, Marta",
+      "Jonathan Culpeper",
+      "Giomi, Riccardo",
+      "De Gruyter Mouton"
+    ],
+    "locations": [
+      [
+        "https://doi.org/10.1515/9783111477084",
+        "https://www.degruyterbrill.com/document/doi/10.1515/9783111477084/pdf"
+      ],
+      [
+        "https://handle.uba.uva.nl/personal/pure/en/publications/the-grammar-of-impoliteness(62d02123-67cb-41fa-9adf-02483d98e480).html",
+        null
+      ],
+      [
+        "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-575485",
+        null
+      ],
+      [
+        "https://doi.org/10.1515/9783111477084",
+        null
+      ],
+      [
+        "https://research.wu.ac.at/de/publications/55deacd3-1dfc-48fd-92e2-d5c3e9f42454",
+        null
+      ]
+    ],
+    "abstract": "The dominant view in linguistics nowadays is that impoliteness is purely a matter of situational assessments by speech participants. This volume challenges that orthodoxy. Bringing together studies on structures that convey insults, threats and more in a wide range of languages, it shows that there is, in fact, a formal side to impoliteness. The volume reveals shared features of and sources for grammatical expressions of impoliteness, explores ways in which their impolite character can be established and offers new insights into their diachrony."
+  },
+  {
+    "title": "A grammar of Sanzhi Dargwa",
+    "doi": "https://doi.org/10.17169/refubium-26569",
+    "year": 2019,
+    "authors": [
+      "Diana Forker"
+    ],
+    "locations": [
+      [
+        "https://refubium.fu-berlin.de/handle/fub188/26811",
+        "https://refubium.fu-berlin.de/handle/fub188/26811"
+      ],
+      [
+        "https://directory.doabooks.org/handle/20.500.12854/35674",
+        null
+      ],
+      [
+        "https://doi.org/10.17169/refubium-26569",
+        null
+      ],
+      [
+        "https://doi.org/10.5281/zenodo.3339224",
+        null
+      ],
+      [
+        "https://doi.org/10.5281/zenodo.3339225",
+        null
+      ],
+      [
+        "https://library.oapen.org/bitstream/20.500.12657/43560/1/external_content.pdf",
+        null
+      ]
+    ],
+    "abstract": "Sanzhi Dargwa belongs to the Dargwa (Dargi) languages (ISO dar; Glottocode darg1242) which form a subgroup of the Nakh-Daghestanian language family. Sanzhi Dargwa is spoken by approximately 250 speakers and is severely endangered. This book is the first comprehensive descriptive grammar of Sanzhi, written from a typological perspective. It treats all major levels of grammar (phonology, morphology, syntax) and also information structure. Sanzhi Dargwa is structurally similar to other East Caucasian languages, in particular Dargwa languages. It has a relatively large consonant inventory including pharyngeal and ejective consonants. Sanzhi morphology is concatenative and mainly suffixing. The language exhibits a mixture of dependent-marking in the form of a rich case inventory and head-marking in the form of verbal agreement. Nouns are divided into three genders. Verbal inflection conflates tense/aspect/mood/evidentiality in a rich array of synthetic and analytic verb forms as well as participles, converbs, a masdar, and infinitive and some other forms used in analytic tenses and subordinate clauses. Salient traits of the grammar are two independently operating agreement systems: gender/number agreement and person agreement. Within the nominal domain, modifiers agree with the head nominal in gender/number. Agreement within the clausal domain is mainly controlled by the argument in the absolutive case. Person agreement operates only at the clausal level and according to the person hierarchy 1, 2 > 3. Sanzhi has ergative alignment in the form of gender/number agreement and ergative case marking. The most frequent word order at the clause level is APV, though all other logically possible word orders are also attested. In subordinate clauses, word order is almost exclusively head-final."
+  },
+  {
+    "title": "Variation in stem formation in Tsezic languages",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Diana Forker"
+    ],
+    "locations": [
+      [
+        "http://hrcak.srce.hr/55663",
+        "http://hrcak.srce.hr/55663"
+      ],
+      [
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.535.6148",
+        null
+      ],
+      [
+        "http://edoc.mpg.de/523841",
+        null
+      ],
+      [
+        "http://hdl.handle.net/11858/00-001M-0000-000F-F72B-8",
+        null
+      ],
+      [
+        "http://pubman.mpdl.mpg.de/pubman/item/escidoc:1552864",
+        null
+      ]
+    ],
+    "abstract": "The Tsezic languages are a group of closely related languages that form one branch of the Avar-Andic-Tsezic grouping within the Nakh-Daghestanian language family. They can be divided into East Tsezic, comprising Hunzib and Bezhta, and West Tsezic, comprising Khwarshi, Tsez and Hinuq."
+  }
+]

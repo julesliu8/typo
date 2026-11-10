@@ -1,0 +1,1285 @@
+
+[PDF PAGE 1]
+ Linguistic Typology 2014; 18(1): 51 – 81
+Diana Forker
+Are there subject anaphors?
+Abstract: A generally accepted universal property of anaphors in reflexive and re-
+ciprocal constructions is that they cannot occur in the subject position of a main 
+clause with a non-subject binder in the same clause. In this article a number of 
+languages are examined that have reflexive elements resembling subjects. But it 
+is argued that some of them can be shown not to be anaphoric pronouns or never 
+to occur in the subject position of active main clauses. Even those languages such 
+as Sanzhi Dargwa (Nakh-Daghestanian) in which anaphoric pronouns can fulfill 
+more prominent semantic functions than their binders are claimed not to have 
+subject anaphors simply because they do not have subjects. The article also offers 
+a semantic explanation for why anaphors can and sometimes even must occur 
+as agents and experiencers in reflexive (and reciprocal) constructions in Sanzhi 
+Dargwa and in other related languages.
+Keywords: alignment, anaphora, binding, case, grammatical relations, logophor, 
+Nakh-Daghestanian, reciprocal, reflexive, syntax, transitivity
+DOI 10.1515/lingty-2014-0003
+Received: 7 May 2013. Revised: 3 December 2013
+1  Universal properties of reflexive and reciprocal 
+constructions
+It is widely assumed that antecedents in clause-bound reflexive and reciprocal 
+constructions cannot be more prominent – i.e., be higher on a hierarchy of gram-
+matical roles or semantic functions or having more subject properties – than the 
+reflexives and reciprocals. Various ungrammatical English sentences such as (1) 
+have been listed, and numerous papers on reflexive and reciprocal constructions 
+cite equally ungrammatical sentences from other European and non-European 
+languages.
+   
+Diana Forker: Allgemeine Sprachwissenschaft, Otto-Friedrich-Universität Bamberg, Obere 
+Karolinenstraße 8, 96049 Bamberg, Germany; Cairns Institute, James Cook University, PO Box 
+6811, Cairns Old 4870, Australia; e-mail: diana.forker@uni-bamberg.de
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 2]
+ 
+52   Diana Forker  
+(1) a. *Himself/Herself washed/hit/praised/saw John.
+ b. * Each other washed/hit/praised/saw the girls.
+We can formulate the principle from which the ungrammaticality of (1) is as -
+sumed to follow as (2).
+(2) Control Principle (henceforth CP): 
+ No language has locally bound reflexive or reciprocal pronouns in subject 
+position.
+Before we turn to the main issue of this article, the universal validity of CP , the 
+term “subject” needs to be clarified at least roughly. I adopt the clustering or  
+feature-based definition of subject that lies at the heart of most discussions 
+of subjects in typology (cf. Keenan 1976, LaPolla 1993, Givón 1997 , Van Valin & 
+LaPolla 1997: 250–270, Onishi 2001). Languages are said to have subjects when-
+ever they have a relatively large number of arguments that share certain prop -
+erties across a cluster of constructions, or, in other words, that are privileged 
+arguments within their constructions. To be privileged in this sense means to 
+show special behavior in morphology, syntax, semantics, or discourse structure. 
+I assume that the central factors for the notion of subject are morphosyntactic. 
+The most widely employed morphosyntactic properties for identifying subjects 
+are dependent marking (case, adpositions), head-marking (verbal indexing), va-
+lency changing operations (passivization, antipassivization), relativization site, 
+conjunction reduction, raising and control, quantifier floating, switch-reference 
+marking, anaphora1 binding, and possessor ascension.
+For an argument to be semantically privileged means that it bears certain se-
+mantic roles or functions (e.g., agent in contrast to patient). The role of semantic 
+functions in reflexive constructions will be dealt with in Section 4.4. If we want 
+to claim that an argument exhibits special discourse behavior, we need to make 
+reference to notions such as givenness and topic, usually referring to tendencies 
+that can be easily overridden; therefore, discourse factors will not be taken into 
+consideration here. By adopting a definition of subject that is based on features 
+it should be clear that there cannot be a straightforward dichotomy between lan-
+guages with and without subjects. Rather there are languages in which certain 
+classes of arguments have more or fewer subject properties depending on which 
+and how many constructions are used to prove their privileged status.
+1 In this article I use the term “anaphor” only in reference to reflexive and reciprocal pronouns. 
+I will also use the terms “binder” for the antecedent of an anaphor and “bindee” for referring to 
+the anaphors themselves.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 3]
+ Are there subject anaphors?   53
+The Control Principle (2) has been explicitly claimed to be universally valid 
+not only by more formally-oriented, but also by functionally-oriented linguists 
+and typologists:2
+[. . .] it is always the object or patient noun phrase which exhibits any special marking for 
+reflexivization. (Faltz 1985: 28)
+In every ergative language, as in every accusative language, the ‘antecedent’, i.e. the con-
+troller, of reflexivity is A (or S, where it is extended to intransitives). This appears to be 
+a universal and is related to the universal category of subject – that role which semanti-
+cally controls the activity is also the grammatical controller in a reflexive construction [. . .] 
+(Dixon 1994: 138–139)3
+The more clearly two arguments differ in prominence, the easier it is for the more prominent 
+argument to antecede the anaphor. Less prominent arguments cannot antecede more prom-
+inent arguments. (Haspelmath 2007: 2096)
+If, of the two arguments involved in a reflexive or reciprocal construction, one is in subject 
+function, then that argument will be the controller. (Dixon 2012: 152)
+In Generative Grammar, the CP is usually attributed to c-command and Prin-
+ciple A (“ An anaphor must be bound within its governing category”) of the Bind-
+ing Theory (Chomsky 1981). Their combination assures that reflexive and recipro-
+cal pronouns have antecedents within the same clause and that they are not the 
+subjects of their clauses. Since their first formulation, these principles, including 
+the c-command constraint, have been investigated and restated over and over, 
+usually without questioning or challenging the CP which follows from Binding 
+Theory. For instance, Pollard & Sag (1992: 266) write that “[a]n anaphor must be 
+coindexed with a less oblique coargument, if there is one”. Similar claims of the 
+validity of CP can be found in Bresnan (2000: 218), de Vos (2007), Marelj (2011), 
+and many more. The Reflexivity Theory of Reuland (2011) rejects the Binding 
+Theory and proposes a new model that, though still making use of c-command, 
+dispenses with Principle A. Reuland admits the possibility of subject anaphors if 
+the anaphors fulfill certain morphosyntactic characteristics. The applicability of 
+his model to the languages treated in this article will be discussed in Section 4.5.
+The CP formulated as in (2) considers only syntactic prominence. Falk (2009) 
+differentiates between prominence in terms of grammatical roles (= functional 
+status) and prominence in terms of semantic functions (= argument status). If the 
+2 See also Evans (2008: 61), though he restricts CP to reciprocals involving free NP expressions.
+3 This version has found its way into the Universals Archive at the University of Konstanz (http://
+typo.uni-konstanz.de/archive/intro/).
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 4]
+ 
+54   Diana Forker  
+binder of an anaphor is not the subject, it must at least fulfill the more prominent 
+semantic function.
+The antecedent of an anaphora must be the most prominent element in its clause. This 
+prominence can be either in terms of functional status or argument status. [. . .] Crucially, 
+there appears to be no language in which the P argument outranks the A for the purposes of 
+anaphora. (Falk 2009: 62, 66)
+Only a few scholars have called into question the validity of the CP by iden-
+tifying reflexive constructions that posit problems (cf. Everaert 2000, 2011, 2013; 
+Postal & Ross 2009). Albanian and Georgian are repeatedly cited relevant lan-
+guages. Albanian has nominative-accusative case marking, with subjects marked 
+by the nominative and objects by the accusative. In (3a) the subject is an NP con-
+trolling the reflexive pronoun in object position. In contrast, in (3b) the reflexive 
+pronoun occupies subject position and is controlled by an NP in the dative.
+(3) Albanian (Indo-European)
+ a. mësuesi nuk e duroi më veten
+  teacher neg clit endure. act more refl.acc
+  ‘The teacher could not endure himself any longer.’ (Hubbard 1983: 68)
+ b.  vetja nuk iu durua më mësuesit
+  refl.nom neg clit endure.nact  more teacher.dat
+  ‘The teacher could not endure himself any longer.’ (Hubbard 1983: 68)
+Similarly in Georgian, which has ergative-absolutive case marking in some of its 
+TAM forms, the pronoun šen in (4a) is in the ergative and controls the complex 
+reflexive phrase šeni tavi in the absolutive. This example can be contrasted with 
+(4b) where the reflexive phrase takes ergative and the controlling pronoun abso-
+lutive case marking.
+(4) Georgian (Kartvelian)
+ a. šen ac’ame šen-i tav-i
+  2sg.erg tormented 2sg.poss-nom refl-nom
+  ‘You tormented yourself.’ or ‘You made yourself suffer.’ (Amiridze 2003)
+ b.  šen-ma tav-ma gac’ama (šen)
+  2sg.poss-erg refl-erg tormented (2sg)
+  ‘It was yourself who tormented you.’ or ‘It was yourself who made you 
+suffer.’ (Amiridze 2003)
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 5]
+ Are there subject anaphors?   55
+ In principle, there are three possible alternatives for explaining away con-
+structions that seem to contradict the CP:
+(i) the constructions do not contain anaphors, but use other pronouns or no pro-
+nouns at all for the expression of reflexivity and reciprocality;
+(ii) the subject positions in which anaphors can occur are not real subject 
+positions;
+(iii) the language does not have subjects.
+In this article I explore all three alternatives. I will largely restrict myself to reflex-
+ive constructions. Although reflexive and reciprocal pronouns are often treated 
+together as anaphors, with the CP assumed to be valid for both, this does not 
+need to be the case. A number of authors have argued that reflexive and recipro-
+cal constructions should be analyzed separately because they differ in their syn-
+tactic properties (cf. Lebeaux 1983, Heim et al. 1991, Everaert 2000, Bhat 2004: 
+85–87). This is partially true for the languages investigated here. However, I will 
+take a short look at reciprocal pronouns as far as this is relevant for the investi-
+gation of the CP .
+The structure of the article is as follows: In Section 2 I will discuss Albanian, 
+Georgian, and similar examples, and show that for these languages alterna-
+tive explanations of the types (i) and (ii) are available. In Section 3 I will add a 
+third type of language to the discussion that appears to have subject anaphors, 
+coming from the Oceanic and Nakh-Daghestanian families. Section 4 provides a 
+detailed case study of reflexive anaphors and grammatical relations in one Nakh- 
+Daghestanian language (Sanzhi Dargwa), including syntactic, semantic, and 
+pragmatic attempts to explain the particularities of reflexivization. Section 5 dis-
+cusses subject anaphors in reciprocal constructions and Section 6 concludes. 
+2 Are there subject anaphors?
+2.1 Derived subjects: Albanian and Toba Batak
+In Albanian some transitive predicates with nominative subjects and accusative 
+direct objects (5a) have derived counterparts in which what functions as the sub-
+ject in the transitive clause is marked by the dative, and the former direct object 
+takes the nominative case (5b). The latter construction, called “inverse” by Hub -
+bard (1983), is only available with a restricted set of verbs, e.g., ‘surprise’, ‘feel 
+sorry for’, ‘endure’, ‘believe’, ‘like’, ‘annoy’, ‘seem’, and a few more. With some 
+of these verbs the inverse construction is optional (e.g., ‘believe’, ‘annoy’), with 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 6]
+ 
+56   Diana Forker  
+others (e.g., ‘feel sorry for’, ‘seem’) it is obligatory. 4 As Hubbard himself notes, 
+these verbs denote mental activities and have experiencers as subjects. Not all 
+psych verbs undergo inversion. In the constructions with nominative and dative 
+(5b), the verb must be marked as being non-active.
+(5) Albanian (Indo-European)
+ a. Agimi e kujton kengën
+  Agimi clit remembers. act song. acc
+  ‘ Agimi remembers the song.’ (Postal & Ross 2009: 12, cited from Hubbard 
+1980: 84)
+ b.  kenga i kujtohet Agimit
+  song clit remembers.nact  Agimi.dat
+  ‘ Agimi remembers the song.’ (Postal & Ross 2009: 12, cited from Hubbard 
+1980: 84)
+If inverse constructions contain reflexive pronouns, then they must occur in the 
+nominative case position and their antecedents must take the dative (6a, 3b), the 
+reverse being ungrammatical (6b). 
+(6) Albanian (Indo-European)
+ a. vetja iu çudit Agimit
+  refl.nom clit surprised Agimi.dat
+  ‘ Agimi surprised himself.’ (Postal & Ross 2009: 12, cited from Hubbard 
+1980: 90–91)
+ b. * Agimi iu çudit vetes
+  *Agimi clit surprised refl.dat
+  Intended meaning: ‘ Agimi surprised himself.’ (Postal & Ross 2009: 12, 
+cited from Hubbard 1980: 90–91)
+Furthermore, in passive sentences of ditransitive predicates and reflexives, the re-
+flexive pronoun is marked again with the nominative and its antecedent appears 
+in the dative, never the other way around (7).
+(7) Albanian (Indo-European)
+ vetja i përshkrua Agimit prej gruasë
+ refl.nom clit described.nact  Agimi.dat  by woman
+ ‘Himself was described to Agim by the woman.’ (Hubbard 1983: 67)
+4 See Hubbard (1985: 83–87) for a more extended list of these predicates.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 7]
+ Are there subject anaphors?   57
+Postal & Ross (2009), following Hubbard (1980), analyze (3b), (6a), and (7) as 
+intransitive clauses that have been derived from their transitive counterparts by 
+means of a special morphological marking on the verb (non-active marking) and 
+by changing the grammatical roles and the case marking of the arguments. That 
+is, the nominative arguments in (3b), (5b), (6a), and (7) are derived subjects. 5 
+Initial non-derived subjects such as the nominative in (5a) or (8a) cannot be ex -
+pressed by reflexive pronouns:
+(8) Albanian (Indo-European)
+ a. Agimi pa veten në pasqyrë
+  Agimi see refl.acc in mirror
+  ‘ Agimi sees himself in the mirror.’ (Hubbard 1983: 64–65)
+ b. * vetja pa Agimin në pasqyrë
+  *refl.nom see Agimin.acc in mirror
+  Intended meaning: ‘ Agimi sees himself in the mirror.’ (Hubbard 1983: 
+64–65)
+ Albanian is not the only language that permits subject anaphors if they occur 
+in passives. In Toba Batak (Austronesian), the passive subject can be a reflex -
+ive (dirina (sandiri)) bound by the passive agent (si-Torus) (9a), or the other way 
+around (9b). The grammatical roles are indicated by word order; in the passive 
+the agent must immediately follow the verb. In the active voice the reflexive can 
+never be a subject. 
+(9) Toba Batak (Austronesian)
+ a. di-ida si-Torus dirina (sandiri)
+  pass-see hon-Torus refl
+  ‘Himself was seen by Torus.’ (Cole & Hermon 2008: 174)
+ b.  di-ida [dirina (sandiri)] si-John
+  pass-see refl hon-John
+  ‘John was seen by himself.’ (Cole & Hermon 2008: 174)
+ Albanian and Toba Batak demonstrate that anaphors may occur in the posi-
+tion of derived subjects such as nominal subjects of passive constructions or sub-
+jects in inverse constructions. These subjects maintain certain subject properties 
+(e.g., being marked for nominative case), but they are not full-fledged subjects 
+5 Alternatively it has been claimed that in (3b), (5b), and (6a) the NPs marked with the dative are 
+subjects and the anaphors objects (Woolford 1999: 270). In this case the Albanian data would not 
+be relevant for the question of subject anaphors.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 8]
+ 
+58   Diana Forker  
+(e.g., verbs show default 3rd person singular agreement in Albanian) and they 
+are not agents. Furthermore, verbs in such constructions need special marking 
+(non-active in Albanian and passive in Toba Batak). This means that a modified 
+version of the CP is needed so as to be compatible with the Albanian and Toba 
+Batak evidence:
+(10) CP1:  
+No language has locally bound reflexive pronouns in non-derived subject 
+position.
+ A short look at semantic roles is also revealing. The Albanian data are not 
+problematic since in the inverse construction the experiencer (the NP in the 
+dative) controls the stimulus (the anaphor in the nominative). This means that 
+the more prominent semantic function acts as the binder and the less prominent 
+function as the bindee, which is what we expect. For Toba Batak a determination 
+of the semantic roles is still needed.
+2.2 Nominal anaphors: Modern Greek, Basque, and Georgian
+In Georgian, Modern Greek, and Basque reflexivization is expressed by means of a 
+reflexive phrase. In the examples indicated by square brackets in the glosses, this 
+phrase contains a head noun with the meaning ‘head’ in Georgian and Basque, 
+and ‘self’ in Greek. In reflexive constructions the head noun is obligatorily  
+accompanied by a possessive pronoun and an additional definite article in Greek. 
+In Greek, which follows a nominative-accusative pattern, the reflexive phrase is 
+allowed to occur in the nominative case as the subject of its clause with a binder 
+in the dative or in the accusative (11a, b). In Georgian and Basque, which have  
+ergative alignment, the reflexive can occur in the ergative controlled by an op -
+tional NP in the absolutive.6 Like in Albanian, usually not all verbs permit nom-
+inative or ergative anaphors. For instance, in Georgian dative experiencer verbs 
+are not allowed at all in this construction (Amiridze 2006: 212, 227 –228). In Greek, 
+normally only unaccusative psych verbs with derived subjects permit nominative 
+reflexives (Anagnostopoulou & Everaert 1999). Similar restrictions are found in 
+Basque (de Rijk 2008: 367).
+6 Grammatical relations in Georgian are complicated and controversially debated. I follow 
+Harris (1981: 276) who analyzes ergative arguments as in (4a, b) and (12) as (initial) subjects.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 9]
+ Are there subject anaphors?   59
+(11) Greek (Indo-European)
+ a. o eaftos tui tu aresi tu Petrui
+  [the refl.nom his] clit.dat likes the Petros.dat
+  ‘Himself pleases/appeals to Petros.’ (Anagnostopoulou & Everaert 1999: 
+108)
+ b. o eaftos tui ton provlimatizi/apasxoli/enoxli ton
+  [the refl.nom his] clit.acc puzzles/worries/bothers the
+  Petro i
+  Peter. acc
+  ‘Peter puzzles/worries/bothers himself.’ (Postal & Ross 2009)
+(12) Georgian (Kartvelian)
+ čemi-ma tav-ma m-i-xsn-a
+ [1sg.poss-erg refl-erg] 1sg.nom-prv-save-3sg.erg.aor.indic
+ (mei) 
+ 1sg.nom
+ ‘[Something related to] myself saved me.’ (i.e., my past doings, personal 
+charm, etc. helped me to escape)7 (Amiridze 2006: 195)
+(13) Basque (isolate)
+ neurei buruak _i izutu nau
+ [1sg.gen head.erg] 1sg.abs frightened aux.1sg.abs.3sg.erg
+ ‘I have frightened myself.’ (Everaert 2000: 71)
+ The reason why reflexive phrases can occupy the subject position in these 
+three languages is their structure. Outside of reflexive constructions, the heads 
+of these constructions are used as ordinary nouns. For instance, the Greek reflex-
+ive phrase o eaftos tu is referential; it permits a reified substantive reading (‘his/
+her self’), which is the reason why it can occur without antecedent (see Horrocks 
+1994: 94). Even within the reflexive construction the heads preserve a range of 
+nominal properties, like triggering agreement on the verb. It is only the possessive 
+pronoun that agrees with the antecedent and thus induces the reflexive reading. 
+Therefore, Iatridou (1988) proposes indexing along the following lines:
+7 As can be seen in this example, reflexive constructions with reversed case marking do not have 
+exactly the same reading as their ordinary counterparts in Georgian. Amiridze (2006: 226–238) 
+describes this as “aspect/property” reading of the anaphors (4b), (12). She adds that the subject 
+in the ergative in reflexive (and reciprocal) constructions is not an agent anymore, but rather a 
+cause, and the nominative object is a theme or stimulus. On such an analysis Georgian does not 
+violate the CP , not only for structural reasons but also for semantic reasons since (4b) and (12) do 
+not have a reflexive interpretation.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 10]
+ 
+60   Diana Forker  
+(14) Greek (Indo-European)
+ o Costas i ton j θavmazi [ton eafton tui]j
+ the Costa clit.acc admires the refl.acc his
+ ‘Coastas admires himself.’, lit. ‘Costasi admires itj [the self of himi]j.’ 
+(Iatridou 1988: 700)
+ The same indexing can be adopted for Georgian (Everaert 2001, Reuland 
+2011: 264) and Basque (Everaert 2000). The indexing makes it clear that it is 
+actually only the possessive pronoun that establishes the coreference between 
+reflexive phrase and binder. This means that Georgian, Greek, and Basque re-
+flexive constructions rather resemble English sentences such as His (own) intel -
+ligence frightens John (Horrocks 1994: 94) or German sentences such as Das/sein 
+eigene(s) Selbst erschreckte Jan. And the Georgian and Basque reflexive construc-
+tions in (12) and (13) can be paraphrased with ‘My head saved me’ and ‘My head 
+has frightened (me)’. In such sentences there are no subject anaphors, but only 
+possessor anaphors. Therefore, (11) to (13) do not constitute counterexamples 
+to the CP . It remains open to further research whether languages with similarly 
+structured reflexive phrases also permit subject anaphors. Since according to 
+Schladt (2000) the vast majority of his 148 languages sample has reflexive con-
+structions grammaticalized from body part terms, nouns such as ‘self’, ‘person’, 
+or ‘soul’, this is what one would expect.8 
+8 However, this expectation might be disappointed. I was able to test four more languages with 
+body part reflexives, the Omotic language Wolaitta, the Semitic languages Amharic and Modern 
+Hebrew, and Yoruba. The first three languages do not seem to allow subject anaphors. For Yoruba 
+some exceptions seem possible. Yoruba makes use of reflexive phrases containing the word ara 
+‘body’ and a possessive pronoun: 
+(i) o fi ìyà jẹ araà rẹ
+ 2sg take suffering eat [body.poss 2sg.poss]
+ ‘You punished yourself.’ or ‘You made yourself suffer.’ (Joseph D. Atoyebi, personal 
+communication)
+Subject anaphors are allowed if the reflexive occurs in apposition with a nominalized NP (ii) in 
+which the reflexive is nevertheless the head of the subject phrase. As can be seen from the trans-
+lation in (ii), the construction with the reflexive in subject position differs slightly in its semantics 
+from (i), where the reflexive functions as object.
+(ii) ológògóró araà rẹ fi ìyà jẹ araà rẹ
+ drunk [body.poss 2sg.poss] take suffering eat [body.poss 2sg.poss]
+ ‘Your drunken self punished yourself.’ or ‘Your drunken self made yourself to suffer.’ (Joseph 
+D. Atoyebi, personal communication)
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 11]
+ Are there subject anaphors?   61
+3  A third type of “subject anaphors”: Oceanic and 
+Nakh-Daghestanian languages
+The third type of reflexive constructions potentially violating the CP (and also CP1) 
+has largely been neglected in the literature. In these constructions what looks 
+like reflexive pronouns function as agents of transitive clauses or experi encers  
+of affective clauses, but they do not have the structure of possessive phrases 
+and there is no verbal derivation whatsoever involved. Such constructions are 
+found in a number of Oceanic languages including Samoan, Tuvaluan, and East  
+Futunan and are very common in Nakh-Daghestanian languages. 
+In reflexive constructions of Oceanic languages (cf. Moyse-Faurie 2003, 2008, 
+2011) pronouns can be in the absolutive or ergative (15, 16). In the Samoan exam-
+ple (16) word order is fixed, i.e., the binder must precede the bindee.
+(15) Tuvaluan (Oceanic)
+ a. ne taa nee Lusi a ia loa
+  pst strike erg Lusi [ abs 3sg int]
+  ‘Lusi killed himself/??him.’ (Besnier 2000: 203)
+ b. ne taa a Lusi nee ia loa
+  pst strike abs Lusi [erg 3sg int]
+  ‘Lusi killed himself/??him.’ (Besnier 2000: 203)
+(16) Samoan (Oceanic)
+ a. sa sogi e Ioane ia lava
+  pst cut erg John [3sg int]
+  ‘John cut himself.’ (Chapin 1970: 369, Mosel 1991: 179)
+ b. sa sogi Ioane e ia lava
+  pst cut John [erg 3sg int]
+  ‘John cut himself.’ (Chapin 1970: 369, Mosel 1991: 179)
+However, the pronouns employed in these constructions are not special reflex -
+ive pronouns, but ordinary 3rd person pronouns (Mosel & Hovdhaugen 1992: 
+121, Besnier 2000: 374–376), normally accompanied by emphatic or intensifying 
+particles.9
+Now, do examples (15b) and (16b) challenge the CP? This does not seem to be 
+the case. First, it is not clear whether the notion of “subject” or similar notions are 
+9 See Moyse-Faurie (2008) for an overview of the use of intensifying or emphatic particles in 
+reflexive constructions in Oceanic languages.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 12]
+ 
+62   Diana Forker  
+applicable to the Oceanic languages. It has been argued that Samoan lacks the 
+category of subject (Mosel 1987 , Mosel & Hovdhaugen 1992: 717). Moyse-Faurie’s 
+(2003) analysis of East Futunan points in the same direction. In this case the lan-
+guages would not have subject anaphors simply because they lack subjects at all.
+Second, as mentioned above the pronouns used in reflexive constructions are 
+in fact normal 3rd person pronouns that do not necessarily express reflexivity – in 
+which case they do not qualify as anaphors. In fact, it is rather common for lan-
+guages of that area to make use of personal pronouns in reflexive constructions, 
+often in combination with intensifiers. At this point it becomes obvious that the 
+origin of reflexive pronouns and their grammaticalization paths matter. If it is 
+possible to use an ordinary personal pronoun in a reflexive construction, then 
+one should not be surprised to also find it in subject position. If an additional 
+marker such as an intensifier is needed to trigger the reflexive reading, this might 
+lead to restrictions on the possible positions of the pronoun-intensifier complex. 
+When the pronoun-intensifier complex fully grammaticalizes into a purely reflex-
+ive pronoun that can no longer be separated into two parts, then we get a full-
+fledged anaphor which, according to the CP , should no longer be possible to occur 
+in subject position. It is possible that some Oceanic languages are in the middle of 
+such a grammaticalization process.
+A more serious threat to the CP are the Nakh-Daghestanian languages. Reflex-
+ive constructions in Nakh-Daghestanian are mainly expressed through complex 
+reflexive pronouns that consist of reduplicated logophoric pronouns.10 Some lan-
+guages also allow simple logophoric pronouns to occur in reflexive constructions, 
+but since this is not the norm I will restrict myself to complex pronouns. There 
+is no marking of reflexivity on verbs. Nakh-Daghestanian reflexive constructions 
+exhibit a very peculiar characteristic because they allow reflexive pronouns to 
+be the experiencers and in some languages even the agents of their clause. 11 For 
+instance, in (17a) the binder is in the dative functioning as experiencer, and the 
+anaphor in the absolutive fulfilling the role of the stimulus. In (17b) the case 
+marking is reversed; the anaphor is now in the dative, the case which is normally 
+reserved for the higher role. I will call this phenomenon reversal of marking.
+10 Logophoric pronouns are pronouns used in subordinate clauses that indicate coreference 
+with the subject of the main clause, and the predicate in the main clause is a verb of speech, 
+thought, knowledge, or emotion.
+11 The same is true for reciprocal pronouns, see Section 5.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 13]
+ Are there subject anaphors?   63
+(17) Lezgian12 (Nakh-Daghestanian)
+ a. Alidiz wičiz_wič k’anzawa
+  Ali.dat  refl love.impf
+  ‘ Ali loves himself.’
+ b. Ali wič_wičiz k’anzawa
+  Ali refl.dat love.impf
+  ‘ Ali loves himself.’
+ The question to be answered now is whether the Nakh-Daghestanian exam-
+ples represent serious challenges to the CP or whether an alternative explanation 
+is available. 
+4  Anaphors and grammatical roles in 
+Nakh-Daghestanian
+4.1 A case study of Sanzhi Dargwa
+Reflexive constructions as in the Lezgian examples (17a, b) are found in the  
+majority of the Nakh-Daghestanian languages. Kibrik (1997: 284, 300–301) cites 
+instances from Icari Dargwa, and many more examples primarily from Chama-
+lal, Tindi, and Archi are provided in Kibrik (2003). Ljutikova (1997) presents an 
+account of Tsakhur reflexives. Yamada (2004, 2013) analyzes Avar reciprocal con-
+structions that exhibit the same phenomenon, and Comrie et al. (2011) explore 
+reflexive and reciprocal constructions in the Tsezic languages. Furthermore, re-
+flexive (and reciprocal) constructions illustrating the reversal of roles are also 
+found in recent grammars of Bagvalal (Ljutikova 2001), Tsakhur (Toldova 1999), 
+Icari Dargwa (Sumbatova & Mutalov 2003: 166–171), Khwarshi (Khalilova 2009: 
+428–453), and Hinuq (Forker 2013: 671–674).
+In this section I will analyze reflexive constructions in Sanzhi Dargwa. Sanzhi 
+Dargwa makes use of simple and complex pronouns in reflexive constructions. 
+The simple pronouns are not specialized reflexive pronouns, but rather logophors 
+that are also widely used outside the local domain of reflexivization (see Table 1 
+for a partial paradigm). If an appropriate discourse referent has been established,  
+they can be used like personal pronouns. They can even refer to 1st or 2nd  
+12 This and all following unattributed examples from Nakh-Daghestanian languages have been 
+gathered by the author during fieldwork in Daghestan. 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 14]
+ 
+64   Diana Forker  
+persons since these are speech act participants and therefore always established. 
+They also occur in long distance reflexivization. They are clearly morphologically 
+and syntactically distinct from demonstrative pronouns. The latter distinguish 
+various forms according to the location of the referent of the pronoun. Demon-
+strative pronouns never occur in local reflexive constructions and can modify 
+nouns. Logophoric pronouns do not modify nouns and in contrast to demonstra-
+tive pronouns are marked for gender (in the absolutive). Thus, the pronouns used 
+in reflexive constructions of Sanzhi Dargwa are not personal or demonstrative 
+pronouns, in contrast to Oceanic languages, nor are they nouns or of nominal 
+origin, in contrast to Greek, Georgian, or Basque. 
+In the following section I will only analyze complex reflexive pronouns. They 
+come in two types depending on the case marking of one of the parts. One part 
+of a complex reflexive pronoun, usually, but not necessarily the first part, either 
+copies the case of the binder (Table 1 displays these pronouns with an ergative 
+binder) or is in the genitive. 
+The complex reflexive pronouns are in complementary distribution with  
+personal or demonstrative pronouns and pattern with reflexives in other lan-
+guages. The complex reflexive pronouns must be locally bound (18a). The usual 
+c-command requirement holds, i.e., a possessor cannot control a reflexive pro -
+noun (18b). 
+(18) a. Madina-j b-ikː-ul=ca-b [aba cinij ca-r
+  Madina-dat  n-want-cvb=cop-n mother refl.dat refl-f
+  či<r>až-ib-le]
+  see<f>-pret-cvb
+  ‘Madina i wants that the motherj sees herself*i/j.’
+ b. Madina-la aba cinij ca-r či<r>ig-ul=ca-r
+  Madina- gen mother refl.dat refl-f see<f>-cvb=cop-f
+  ‘Madina’s i motherj sees herself*i/j.’ 
+Table 1: Reflexive pronouns in Sanzhi Dargwa
+Simple reflexives (logophors) Complex reflexives (singular)
+Singular Plural Case copying Genitive reflexive 
+Absolutive ca-w /-r /-b ca-b /-d cinni ca-w/-r /-b cinna ca-w/-r /-b
+Ergative cinni čul cinni ca-w/-r /-b cinna cinni
+Genitive cinna čula cinni cinna #
+Dative cinij čuj cinni cinij cinna cinij
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 15]
+ Are there subject anaphors?   65
+Within a ditransitive construction the direct or the indirect object can func -
+tion as binder (although simple reflexive pronouns would be preferred in such 
+examples):
+(19) a. Patʼimat-li Rašid i surraticːe-w cin-na ciniji
+  Patimat-erg Rashid picture.in-m refl-gen refl.dat
+  či<w>ižaq-ul-de
+  show<m>-cvb-pst
+  ‘Patimat showed Rashidi to himselfi on the picture.’
+ b. Patʼimat-li či<w>ižaq-ul-de Arsen-ni-ji surrat-le-w
+  Patimat-erg show<m>-cvb-pst Arsen-obl-dat picture-spr-m
+  či-w i  cinij ca-w
+  on-m refl.dat refl-m
+  ‘Patimat showed to Arseni himselfi on the picture.’
+The reflexive pronoun is interpreted as a bound variable:
+(20) har durħuˁ-j cin-na ca-w či<w>až-ib
+ every boy-dat  refl-gen refl-m see<m>-pret
+ ‘Every boy saw himself.’
+ With transitive and affective 13 predicates the distribution of the cases in 
+reflexive constructions is free, i.e., either the binder or the pronoun takes the  
+ergative or the dative case suffix:
+(21) a. Rasul-li cin-ni ca-w / cin-na ca-w
+  Rasul-erg refl-erg refl-m  refl-gen refl-m
+  gap.w.irq’-ul=ca-w
+  praise.m-cvb=cop-m
+  ‘Rasul is praising himself.’
+ b. Rasul ca-w cin-ni / cin-na cin-ni
+  Rasul refl-m refl-erg  refl-gen refl-erg
+  gap.w.irq’-ul=ca-w
+  praise.m-cvb=cop-m
+  ‘Rasul is praising himself.’
+13 Affective predicates require an argument in the dative that is normally an experiencer and 
+a second argument in the absolutive that mostly functions as the stimulus. Affective predicates 
+include verbs such as ‘see’, ‘hear’, ‘know’, or ‘want, like’.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 16]
+ 
+66   Diana Forker  
+ c. Rasul-li-j cinij ca-w / cin-na ca-w
+  Rasul- obl-dat refl.dat refl-m  refl-gen refl-m
+  čiːg-ul=ca-w
+  see.m-cvb=cop-m
+  ‘Rasul sees himself.’
+ d. Rasul cinij ca-w / cin-na cinij
+  Rasul refl.dat refl-m  refl-gen refl.dat
+  čiːg-ul=ca-w
+  praise.m-cvb=cop-m
+  ‘Rasul sees himself.’
+There is no semantic or pragmatic difference between reflexive constructions with  
+standard and with reversed marking. This is true independently of the valency  
+pattern of the predicate. The semantic differences between reflexive constructions  
+with standard and with reversed marking that have been reported for other Nakh- 
+Daghestanian languages have not been attested (further discussion in Section 4.3). 
+The reversal of the marking is prohibited for co-arguments of extended 
+intransitive verbs that are marked with spatial cases. For example, ‘believe’  
+requires an argument in the absolutive and another argument in the dative. The 
+binder of the reflexive pronoun must be in the absolutive (22a), and any change 
+in case marking leads to ungrammaticality (22b). (A similar restriction has been 
+observed for the Oceanic language East Futunan (Moyse-Faurie 2003: 12).) 
+(22) a. Šamil či<w.w>irχ-ul=ca-w cin-na cinij
+  Shamil believe<m>-cvb=cop-m refl-gen refl.dat
+  ‘Shamil believes in himself.’
+ b. * Šamil-li-j či<w.w>irχ-ul=ca-w cin-na ca-w
+  *Shamil-obl-dat believe<m>-cvb=cop-m refl-gen refl-m
+  Intended meaning: ‘Shamil believes in himself.’
+ There are some restrictions on word order, concerning both standard reflex -
+ive constructions and those with reversed marking, but most of the logically avail-
+able positions for binder and reflexive pronoun are permissible. For instance,  
+examples (21a, b) could also be reordered as in (23): 
+(23) a. Rasul-li ca-w cin-ni gap.w.irq’-ul=ca-w
+ b. Rasul cin-ni ca-w gap.w.irq’-ul=ca-w
+ c. cin-ni Rasul ca-w gap.w.irq’-ul=ca-w
+ d. ca-w cin-ni Rasul gap.w.irq’-ul=ca-w
+  ‘Rasul is praising himself.’ 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 17]
+ Are there subject anaphors?   67
+This means that the internal order of the case-copying reflexive pronoun is free, 
+the pronoun can also be split up and precede the binder under certain circum-
+stances. However, there are certain restrictions on pronouns preceding the binder 
+(24a), and not every split is allowed (24b). Furthermore, the internal order of the 
+genitive reflexive pronoun cannot be changed (24c).
+(24) a. *cin-ni ca-w Rasul-li gap.w.irq’-ul=ca-w
+ b. * cin-ni gap.w.irq’-ul=ca-w Rasul ca-w
+ c. *Rasul-li ca-w cin-na gap.w.irq’-ul=ca-w
+  Intended meaning: ‘Rasul is praising himself.’
+The freedom of word order is probably a result of the fact that the part of the 
+complex reflexive pronoun that copies the case from the binder functions as an 
+emphatic reflexive that is added to the simple logophor and thus enforces the re-
+flexive interpretation. In other words, the two parts of the case-copying reflexive 
+pronoun are independent of each other and do not form one word or one constit-
+uent. The situation is different with the genitive reflexive which really does form 
+one constituent since the genitive reflexive on its own does not have an indepen-
+dent function.
+In sum, in Sanzhi Dargwa reflexive constructions the anaphors can clearly 
+function as A (agents and experiencers). These constructions are not derived 
+or inverted, but plain reflexive constructions with basic transitive and affective 
+verbs. Under certain circumstances these anaphors can also precede their bind -
+ers. Since the anaphors are not personal or demonstrative pronouns, but must be 
+locally bound, the Sanzhi Dargwa data look like a violation of the CP (and CP1). 
+However, this line of argumentation is crucially dependent on whether the notion 
+of subject can be applied to Sanzhi Dargwa. 
+4.2 Does Sanzhi Dargwa have subjects?
+Nakh-Daghestanian languages including Sanzhi Dargwa have rich case systems 
+and semantic roles such as agent, patient, experiencer, stimulus, recipient, etc. are  
+formally marked by means of case suffixes. But the question to answer before we 
+can claim that Sanzhi Dargwa has or does not have subject anaphors is whether 
+there are enough indications for grouping privileged S and A arguments in vari-
+ous constructions together under the heading of subject. In order to answer this 
+question it is necessary to go through some tests. I will pick out the most common 
+tests for subjecthood and apply them to Sanzhi Dargwa. 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 18]
+ 
+68   Diana Forker  
+Concerning morphological marking, Sanzhi Dargwa has ergative case mark-
+ing. Only S can unambiguously be identified by its case marking, which is always 
+absolutive. In contrast, A can be marked with the absolutive, ergative, or dative, 
+and O with the absolutive, dative, or certain spatial cases. Sanzhi Dargwa shows 
+gender/number agreement with arguments in the absolutive, which can be, de-
+pending on the predicate type, S, A, or O. Furthermore, it has person agreement 
+with many verb forms. With intransitive predicates agreement is triggered by the S 
+argument, and with transitive predicates either by A or O, according to the person 
+hierarchy 2 > 1 > 3. Thus, if there is a 2nd person argument (regardless of whether it 
+is A or O), the verb takes a 2nd person agreement. There are no agreement suffixes 
+for 3rd persons. Word order is in principle free, though A-O-V is preferred. 
+Dixon (1994: 131) notes that the imperative is not a useful subjecthood test 
+since in most, if not all, ergative languages the addressee is the agent in the ergative 
+and not the absolutive patient. Sanzhi Dargwa behaves accordingly: A arguments 
+can be addressees of imperatives, but never O arguments. Relativization does 
+not single out any syntactic position or grammatical relation, because almost all  
+positions can be relativized, including S, A, O, and G, as is typical for Nakh- 
+Daghestanian languages (cf. Daniel & Lander 2012). 
+(25) a. [ _ kːalkːi-le-r či-r kajč-ib-il] durħuˁ
+  abs tree-spr-abl on- abl fall.m-pret-ptcp boy
+  ‘the boy who fell from the tree’ (S)
+ b. [ _ tʼamsːa b-arqʼ-ib-il] rursːi 
+  erg carpet n-make-pret-ptcp girl
+  ‘the girl who made the carpet’ (A)
+ c. [rursːi-l _ b-arqʼ-ib-il] tʼamsːa 
+  girl-erg abs n-make-pret-ptcp carpet
+  ‘the carpet made by the girl’ (O)
+ In control constructions A and O (as well as S) are controlled by an argument 
+from the matrix clause: 
+(26) a. Murad-li-j a-b-ikː-ul-de [ _ ʡaˁli qːurt<w>arqʼ-ij]
+  Murad- obl-dat neg-n-want- cvb-pst erg Ali push<m>-inf
+  ‘Murad did not want to push Ali.’ (controllee = A) 
+ b. Murad-li-j b-ikː-ul=ca-b [ _ Madina či<r>až-ij]
+  Murad -obl-dat n-want- cvb=cop-n dat Madina see<f>-inf
+  ‘Murad wants to see Madina.’ (controllee = A)
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 19]
+ Are there subject anaphors?   69
+ c. Murad-li-j b-ikː-ul-de [ʡaˁli-l _ gap<w>arq’-ij]
+  Murad- obl-dat n-want-cvb-pst Ali-erg abs praise<m>-inf
+  ‘Murad i wanted Ali to praise himi.’ (controllee = O)
+ d. Murad-li-j b-ikː-ul=ca-b [Madina-j _
+  Murad- obl-dat n-want-cvb=cop-n Madina-dat abs
+  či<w>až-ib-le]
+  see<m>-pret-cvb
+  ‘Murad i wants Madina to see himi.’ (controllee = O)
+The situation is different in raising constructions, because here only S and A can 
+be raised to the matrix clause: 
+(27) a. Madina r-aʔašː-ib [ _ ħaˁħaˁ<r>ik’-ul]
+  Madina f-begin-pret abs laugh<f>-cvb
+  ‘Madina began to laugh.’ (controllee = S)
+ b. Murad w-aʔašː-ib [ _ maˁʡlun-te kerx-ul]
+  Murad m-begin-pret erg snake-pl kill- cvb
+  ‘Murad began to kill snakes.’ (controllee = A)
+ c. Murad w-aʔašː-ib [ _ maˁʡaˁlim čiːrʁ-ij]
+  Murad m-begin-pret dat teacher understand-inf
+  ‘Murad began to understand the teacher.’ (controllee = A)
+O arguments cannot be raised (28). This means that there is a weak indication for 
+subjecthood with S/A arguments as subjects.
+(28) a. *maˁʡlun-te d-aʔašː-ib [Murad-li _ kerx-ul]
+  *snake-pl npl -begin-pret Murad-erg abs kill- cvb
+  Intended meaning: ‘The snakes began to be killed by Murad.’
+ b. * maˁʡaˁlim w-aʔašː-ib [Murad-li-j _ čiːrʁ-ij]
+  *teacher m-begin-pret Murad- obl-dat abs understand-inf
+  Intended meaning: ‘The teacher began to be understood by Murad.’
+ As the counterpart to coordination in European languages, Nakh- 
+Daghestanian languages use converb constructions. Coreferent arguments are 
+left covert in one of the clauses (preferably, but not necessarily, in the converb 
+clause). Again, these constructions do not unequivocally indicate a category of 
+subject. An overt S argument in the first clause can correspond to a covert A or 
+O in the second clause (29a, b). If the first clause contains two arguments A and 
+O, then an implicit S in the second clause can be coreferent with any of these  
+two arguments. However, coreference with O is less preferable, i.e., in (29c) the S 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 20]
+ 
+70   Diana Forker  
+argument in the second clause can be coreferent with O in the first clause, or with 
+another argument previously established in the context. 14 In contrast, in (29d) 
+coreference between the A in the first clause and S in the second clause is the 
+preferred reading, and coreference with a 3rd person is rather unlikely. 
+(29) a. abai sa<r>eʁ-ib-le, _i Madina r-aχː-un
+  mother come<f>-pret-cvb erg Madina f-feed-pret
+  ‘Mother came and fed Madina.’ (S = A)
+ b. rursːii sa<r>eʁ-ib, aba-l _i r-aχː-un
+  daughter come<f>-pret mother-erg abs f-feed-pret
+  ‘The daughter came and the mother fed (her).’ (S = O)
+ c. atːa-j Madina i či<r>až-ib-le, _i/j razi r-iχ-ub
+  father-dat  Madina see<f>-pret-cvb abs happy f-become-pret
+  ‘Father saw Madina and (she) got happy.’ (O = S)
+ d. Murad-li-ji Madina či<r>až-ib-le, _i ag-ur
+  Murad- obl-dat Madina see<f>-pret-cvb abs go- pret
+  ‘Murad saw Madina and went away.’ (A = S)
+ To sum up, there is no justification for establishing a category of  
+ergative-alignment subject comprising S and O. The only indication for syntac -
+tic accusativity and the corresponding subject category comprising S and A are 
+raising constructions. Reflexivization fits into this wider picture in the sense that 
+it does not single out S and A as opposed to O. It only establishes a split within 
+A and O between those A arguments that are marked by ergative or dative on the 
+one hand and those that are marked by the absolutive on the other hand. Thus, 
+Sanzhi Dargwa is only morphologically ergative. This claim is not surprising; it 
+has been made repeatedly by Kibrik (1997 , 2003) and other scholars for various 
+other Nakh-Daghestanian languages (Nichols 1980, Crisp 1983, Haspelmath 1991, 
+Comrie et al. 2011). 
+From this follows that Sanzhi Dargwa does not contradict the CP (or CP1) 
+since this principle is only stated in terms of grammatical relations. If the CP 
+would be formulated with regard to semantic functions Sanzhi Dargwa would 
+represent a violation since the semantic functions of agent and experiencer can 
+be taken over by anaphors. Explanations for the reversed case marking will 
+occupy us next. 
+14 Coreference with A in the first clause is excluded due to the feminine agreement on the verb 
+in the second clause.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 21]
+ Are there subject anaphors?   71
+4.3 A pragmatic account of reversed marking
+Ljutikova (1997 , 1999, 2000) and also Toldova (1999) explain the reversal of case 
+marking in Tsakhur reflexive constructions with the notions of “empathy focus” 
+and “point of view”. The antecedent NP of an anaphor is within the scope of an 
+empathy focus. For instance, in (30a) the antecedent is the agent, and the speaker 
+looks at the situation from the point of view of the agent. In contrast, in (30b) the 
+patient is the antecedent, and the speaker looks at the situation from the point of 
+view of the patient. The reduplicated reflexive stresses the grammatical role of the 
+antecedent. This observation corresponds to similar statements on Icari Dargwa 
+examples in Kibrik (1997).
+(30) Tsakhur (Nakh-Daghestanian)
+ a. Xorbi himaʔa, bajram-eː wuǯ-eː wuǯ get-u,
+  lie do.proh Bajram-erg refl.m-erg refl.m beat-pfv
+  še-na deš
+  other- att cop.neg
+  ‘Don’t deceive (me), Bajram beat himself and no other.’ (Bajram didn’t 
+beat any other person.) (Ljutikova 1999: 246)
+ b. Xorbi himaʔa, bajram wuǯ-eː wuǯ get-u menni
+  lie do.proh Bajram refl.m-erg refl.m beat-pfv more
+  šawa-ǯa-r deš
+  who. erg-restr-m cop.neg
+  ‘Don’t deceive (me), Bajram beat himself and no other.’ (No other person 
+beat Bajram.) (Ljutikova 1999: 246)
+ Ljutikova (1999) continues that the canonical situation is when the most 
+agentive role in a clause is in the empathy focus (30a). The canonical reflexive 
+construction with the antecedent fulfilling the most agentive role permits a wider 
+range of syntactic and semantic environments. If a non-agentive semantic role is 
+emphasized, the result is a more marked construction (30b). Some semantic roles 
+such as beneficiary, addressee, and location are so weak that one can hardly look 
+at a situation from their point of view (31b).
+(31) Tsakhur (Nakh-Daghestanian)
+ a. rasul wuǯ ǯu-l-e jišonaʔ-a-wo-r
+  Rasul refl.m refl.m.obl-spr-abl talk-ipfv-cop-m
+  ‘Rasul is talking to himself.’ (Ljutikova 1999: 247)
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 22]
+ 
+72   Diana Forker  
+ b. * rasul-u-l-e wuǯ ǯu-l-e jišonaʔ-a-wo-r
+  *Rasul-obl-spr-abl refl.m refl.m.obl-spr-abl talk-ipfv-cop-m
+  Intended meaning: ‘Rasul is talking to himself.’ (Ljutikova 1999: 247)
+ However, Ljutikova’s approach has a number of disadvantages. First, the dif-
+ference in semantics that she describes for Tsakhur examples such as (30a, b) 
+can be grasped only in special contexts and does not seem to be so salient in 
+most of the other languages investigated. For instance, Yamada (2013) discusses 
+Avar reciprocal constructions with reversed case marking which were simply  
+ambiguous between an agent-focus and a patient-focus reading, with the ambi-
+guity unresolved by case marking. The same is true for Sanzhi Dargwa and other 
+Nakh-Daghestanian languages that I have tested (Avar, Lezgian, Hinuq, Tsez, and 
+Lak). In general, my informants could not find any semantic or pragmatic differ -
+ences between constructions with standard and with reversed marking, not even 
+if special contexts were given or phrases such as ‘more than X’ were added. Even 
+in Tsakhur the semantic difference seems rather be due to the last part of the 
+sentence. For instance, (30b) contains the negative indefinite pronoun šawaǯar 
+‘nobody’ marked with the ergative, which therefore must be compared to the pre-
+ceding reflexive pronoun in the ergative. Second, this approach is very vague. 
+Ljutikova does not elaborate on the term “empathy focus”, and it is not obvi- 
+ous in which sense beneficiaries or locations are weaker than agents. Third, the 
+approach cannot explain why with some constructions in some languages a re-
+versal of case marking is obligatory: e.g., in Bezhta reciprocal constructions with 
+transitive and affective predicates only reversed case marking is allowed (Comrie 
+et al. 2011).
+4.4 A semantic account for the reversed marking
+For many languages discussed so far it is not so much the canonical transitive 
+verbs with agent and patient-like arguments, but rather affective verbs, psych 
+verbs, verbs with non-canonical agents, etc. which permit the reversed case 
+marking. In fact, in Nakh-Daghestanian languages clear tendencies can be ob -
+served: all languages for which reversed case marking is attested allow it with 
+affective verbs requiring experiencers and stimulus arguments, but only some 
+languages allow it with transitive verbs that require agents and patients. For ex -
+ample, Sanzhi Dargwa has reversed case marking with transitive and affective 
+verbs and complex reflexive pronouns. With simple reflexive pronouns only af -
+fective verbs permit both types of case marking (32a, b). With transitive verbs 
+and simple reflexives only the standard case marking pattern is possible (32c, d).
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 23]
+ Are there subject anaphors?   73
+(32) Sanzhi Dargwa (Nakh-Daghestanian)
+ a. itij ca-w či<w>ig-ul=ca-w
+  3sg.dat refl-m see<m>-cvb=cop-m
+  ‘He i sees himselfi.’ or ‘Hei sees himj.’
+ b. it cinij či<w>ig-ul=ca-w
+  3sg refl.dat see<m>-cvb=cop-m
+  ‘He i sees himselfi.’ or ‘Hei sees himj.’
+ c. itil ca-w gap.w.irq’-ul=ca-w
+  3sg.erg refl-m praise.m-cvb=cop-m
+  ‘He i is praising himselfi.’ or ‘Hei is praising himj.’
+ d. it cin-ni gap.w.irq’-ul=ca-w
+  3sg refl-erg praise.m-cvb=cop-m
+  ‘He i is praising himj.’, ‘*Hei is praising himselfi.’ 
+ The strongest restrictions concern bivalent verbs of the extended intransitive 
+type which have one goal, source, or location-like argument. In Sanzhi Dargwa 
+as in most other Nakh-Daghestanian languages, these verbs permit only standard 
+case marking patterns (22b), (32b). The tendencies may be explained by the fol -
+lowing hierarchy of semantic functions (see also Ljutikova (2001) for a similar 
+suggestion for Tsakhur):
+(33) agent < experiencer, non-canonical agent < stimulus < patient < goal 
+The closer two semantic functions are on the hierarchy, the more properties they 
+share; the further apart they are, the fewer properties they share. Arguments of 
+transitive verbs, i.e., agents and patients, share at most very few properties. The 
+same can be said about the arguments of extended intransitive verbs such as 
+‘look at’ which have experiencers/non-canonical agents and goals as arguments 
+that share very few to no properties. In contrast, experiencers and stimuli are 
+very close on the hierarchy of semantic functions because they lack many of the 
+properties that oppose agents to patients. For instance, experiencers do not cause 
+an event or change of state, and stimuli are not causally affected nor do they 
+undergo a change of state. Movement cannot be said to be a typical property of  
+experiencers, and stimuli are not typically stationary. Experiencers are sentient, 
+but usually not volitional. 
+Semantic functions that are more similar to each other can be more easily 
+reversed in reflexive constructions in which one and the same referent(s) have 
+two semantic functions at the same time. In a sentence such as Peter knows  
+himself experiencer and stimulus have the same referent; the semantic roles are 
+not especially useful as identifiers for the arguments here because they are so 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 24]
+ 
+74   Diana Forker  
+similar. If, as in Sanzhi Dargwa, the grammar does not link semantic functions 
+to grammatical roles which would in other languages preclude the anaphor from 
+occurring in certain positions, the distribution of semantic roles can be variable. 
+Although for Albanian, Greek, Georgian, and Basque morphosyntactic expla-
+nations for the existence of apparent subject anaphors were provided, it is never-
+theless worth noting that also in these languages only certain verb classes license 
+anaphors in derived subject positions or other nominal elements as subjects in 
+reflexive constructions.15 These verb classes typically have arguments with the 
+semantic functions of experiencers and stimuli or non-canonical agents. 
+4.5 Reuland’s new syntactic approach to reflexivity
+As mentioned in the introduction, Reuland (2011) dismisses Chomsky’s Binding 
+Theory and comes up with a new model for reflexivity, building on Reinhardt 
+& Reuland (1993) and other previous works. He does not deny the possibility of 
+subject anaphors, and cites Modern Greek and Georgian as relevant languages  
+(Reuland 2011: 263–264). According to Reuland, the possibility of subject 
+anaphors depends on the morphosyntactic features for which the anaphor is 
+specified. If it lacks certain features, such as gender and number as German sich 
+does, it is excluded from the subject position in simple finite clauses. Since the 
+Greek and Georgian anaphors have the structure of possessive NPs and are fully 
+feature-specified, they can occur in subject position. Reuland’s model further 
+does not exclude the possibility of other types of complex anaphors in subject 
+position, as long as they are sufficiently specified for φ-features. Tsakhur wuǯ wuǯ 
+is classified as a complex anaphor that involves pronoun doubling (Reuland 2011: 
+207 , 236). The only Tsakhur example that Reuland cites has canonical case mark-
+ing, and reversed case marking remains unexplained (Reuland 2011: 379). How -
+ever, it seems that within Reuland’s model the reversal of case marking is made  
+possible by the morphosyntactic features carried by the Nakh-Daghestanian 
+anaphors. They are specified for gender, number, case, and partially for person. 
+This allows them to take over a larger variety of positions in the clause than 
+anaphors in other languages. Nevertheless, it remains to be explained why 
+transitive predicates behave differently from affective predicates with respect to 
+the reversal of case marking. As shown in Section 4.4 above, in Sanzhi Dargwa 
+only the complex reflexive but not the simple reflexive pronoun can occur in the  
+15 This also applies to the Oceanic languages. For Toba Batak the only example cited has the 
+verb ‘see’, which also takes an experiencer and a stimulus argument.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 25]
+ Are there subject anaphors?   75
+ergative position, though both pronouns carry exactly the same features. In other 
+Nakh-Daghestanian languages not even complex reflexives permit reversed case 
+marking with transitive predicates, though with affective predicates this is easily 
+possible (cf. Forker 2013: 671–674 on Hinuq).
+5 A note on reciprocal constructions
+Most linguists working on anaphora assume that the CP is valid for both reflexive 
+and reciprocal constructions. However, there is ample indication that reflexives 
+and reciprocals quite often differ in their morphological and syntactic proper -
+ties. In this Section I will briefly discuss reciprocals that are similar to the reflex -
+ive constructions in the languages investigated here. I exclude Basque, because 
+the reciprocal pronoun cannot occur in the ergative position (de Rijk 2008: 368), 
+and the Oceanic languages, because they usually do not make use of recipro -
+cal pronouns (cf. Mosel & Hovdhaugen 1992: 180–184, 191; Besnier 2000: 212; 
+Moyse-Faurie 2008). 
+In Greek, subject reciprocals seem to be ungrammatical. In the standard re-
+ciprocal construction the antecedent is in the nominative case and triggers verb 
+agreement (34a). If the case marking is reversed the result is an ungrammatical or 
+at least very marginal sentence (35b). 
+(34) Greek (Indo-European)
+ a. o Petros ke i Maria provlimatizun o enas ton
+  the Peter and the Maria trouble.3pl the one the.acc
+  allo
+  other.acc
+  ‘Peter and Mary trouble each other.’ (Harris Hadjidas, personal 
+communication)
+ b. * ton Petro ke ti Maria provlimatizi o
+  *the.acc Peter. acc and the. acc Maria. acc trouble. 3sg the 
+  enas ton allo
+  one the.acc other. acc
+  Intended meaning: ‘Peter and Mary trouble each other.’ (Harris 
+Hadjidas, personal communication)
+ Georgian and partially Albanian permit reciprocal pronouns in subject  
+position. In Georgian, the use of reciprocal pronouns as subjects leads to a similar 
+change in meaning as already observed with reflexive pronouns (Amiridze 2006: 
+214). In Albanian, at least the verb pëlqej ‘like’ seems to permit subject anaphors, 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 26]
+ 
+76   Diana Forker  
+and possibly also some of the other verbs that can occur in the inverse construc -
+tion. Compare (35a), where the binder is in the nominative and the reciprocal in 
+the dative, with (35b), where the case marking is reversed. The nominative argu-
+ment triggers plural verb agreement in both cases. 
+(35) Albanian (Indo-European)
+ a. burrat i pëlqejnë njëri_tjerit
+  man.pl clit like rec.dat
+  ‘The men like each other.’ (Dalina Kallulli, personal communication)
+ b. burrave u pëlqejnë njëri_tjetri
+  man.pl.dat clit like rec.nom
+  ‘The men like each other.’ (Dalina Kallulli, personal communication)
+ In Nakh-Daghestanian languages reciprocal constructions basically follow 
+the same case-marking rules as reflexive pronouns and exhibit the same syntactic 
+behavior, including the reversal of case marking. Reciprocal pronouns are struc-
+turally similar to complex reflexives because they also consist of two parts, the 
+reduplicated numeral ‘one’. 
+(36) Sanzhi Dargwa (Nakh-Daghestanian)
+ a. Madina-l=ra Dinara-l=ra calli ca / calla ca
+  Madina-erg=and Dinara-erg=and one.erg one  one.gen one 
+  gap.b.irq’-i
+  praise.hpl-pst
+  ‘Madina and Dinara praised each other.’
+ b. Murad=ra Rašid=ra calli ca / calla calli 
+  Murad=and Rashid=and one.erg one  one.gen one.erg
+  qːurt.b.ik’-ul=ca-b
+  push.hpl-cvb=cop-hpl 
+  ‘Murad and Rashid are pushing each other.’ 
+ c. Musa=ra Murad=ra callij ca b-alχ-u
+  Musa=and Murad=and one.dat  one hpl -know-prs
+  ‘Musa and Murad know each other.’
+ d. Musa-j=ra Murad-li-j=ra callij ca b-alχ-u
+  Musa-dat =and Murad- obl-dat=and one.dat  one hpl -know-prs
+  ‘Musa and Murad know each other.’
+In (37), where the binder of the reciprocal is a quantificational expression, it 
+is shown that the reciprocal pronoun expresses variable binding and not just 
+coreference. 
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 27]
+ Are there subject anaphors?   77
+(37) Sanzhi Dargwa (Nakh-Daghestanian)
+ li<b>il durħ-n-a-j callij ca b-alχ-u
+ all<hpl> boy-pl-obl-dat one.dat  one hpl -know-prs
+ ‘ All boys know each other.’
+ To conclude, it seems that the same conclusions can be drawn for recipro -
+cals as for reflexive constructions, namely that they do not occur in non-derived 
+subject positions. In all languages in which reciprocals occur in unexpected 
+positions they are morphologically complex, consisting of a reduplicated form 
+of the numeral ‘one’ (Georgian, Nakh-Daghestanian) or a complex phrase with 
+the literal translation ‘(the) one (the) other’ (Albanian), which suggests that the 
+morphological structure and the origin of the reciprocals heavily influence their  
+syntactic behavior.
+6 Conclusion
+In this article I have tried to answer the question whether there are subject 
+anaphors. The short answer is no, at least not in non-derived subject positions. 
+To date no language has been found that has reflexive (or reciprocal) pronouns 
+in non-derived subject position in clause-bound reflexive or reciprocal construc-
+tions. Constructions that appear to have subject anaphors can be analyzed as 
+either containing nominals or personal pronouns instead of anaphoric pronouns, 
+as containing only derived subjects, or as lacking subjects altogether. 
+Even if there are no subject anaphors, reflexivization (and reciprocalization) 
+may still be used as a diagnostic for subjecthood. However, the test is now differ-
+ent from the traditional assumption (“anaphors are bound by subjects”), which 
+has long been shown to give the wrong results. Instead, the test works as follows: 
+whatever position of a bivalent verb cannot be fulfilled by an anaphor is the sub-
+ject position. If we cannot identify such a position in a given language, we can 
+take this as an argument for saying that the language lacks subjects.
+With respect to semantic roles, I have shown that there are languages in 
+which anaphors can be agents controlled by patientive NPs. One such example 
+is the Nakh-Daghestanian language Sanzhi Dargwa. I have also argued that re-
+flexive constructions in this language as well as in a number of other languages  
+(Albanian, Greek, Georgian, Basque) show a somewhat particular behavior, such 
+as reversed case marking, if the predicate is an affective or psych verb (‘see’, 
+‘hear’, ‘remember’, ‘endure’, ‘torment’, etc.), and that this is because of the  
+semantic closeness of the experiencer and the stimulus function.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 28]
+ 
+78   Diana Forker  
+Acknowledgements: I want to thank my colleagues Azab Amha, David Gil, Joseph 
+Dele Atoyebi, Harris Hadjidas, and Dalina Kallulli for providing examples of  
+reflexive and reciprocal constructions in their languages and discussing them 
+with me. Further thanks go to three anonymous referees, Geoffrey Haig, Hisanari 
+Yamada, Grant Aiton, and Frans Plank for comments and suggestions. For the 
+Nakh-Daghestanian data I wish to express my deepest attitudes to Marina Mago-
+medova and Gadzhimurad Gadzhimuradov without whom I would not have been 
+able to write this article.
+Abbreviations: 1/2/3 = 1st/2nd/3rd person; abl = ablative; abs = absolutive; acc  
+= accusative; act = active voice; aor = aorist; att = attributive; aux = auxiliary; 
+clit = clitic; cop = copula; cvb = converb; dat = dative; erg = ergative; f = femi-
+nine; gen = genitive; hon = honorific; hpl = human plural; impf = imperfective; 
+in = location ‘in’; indic = indicative; inf = infinitive; int = intensifier; ipfv = im-
+perfective; m = masculine; n = neuter; nact  = non-active voice; neg = negation; 
+nom = nominative; npl = neuter plural; obl = oblique stem; pass = passive; pfv 
+= perfective; pl = plural; poss = possessive; pret = preterite; proh = prohibitive; 
+prs = present; prv  = pre-radical vowel; pst = past; ptcp = participle; rec = re -
+ciprocal; refl = reflexive; restr = restrictive; sg = singular; spr = location ‘on’.
+References
+Amiridze, Nino. 2003. The anaphor agreement effect and Georgian anaphors. In Claire 
+Beyssade, Olivier Bonami, Patricia Cabredo Hofherr & Francis Corblin (eds.), Empirical 
+issues in formal syntax and semantics 4, 99–114. Paris: Presses de l’Université 
+Paris-Sorbonne.
+Amiridze, Nino. 2006. Reflexivization strategies in Georgian. Utrecht: LOT.
+Anagnostopoulou, Elena & Martin Everaert. 1999. Towards a more complete typology of 
+anaphoric expressions. Linguistic Inquiry 30. 97–119.
+Besnier, Niko. 2000. Tuvaluan, a Polynesian language of the Central Pacific. London: 
+Routledge.
+Bhat, D. N. S. 2004. Pronouns. Oxford: Oxford University Press.
+Bresnan, Joan. 2000. Lexical-functional syntax. London: Blackwell.
+Chapin, Paul G. 1970. Samoan pronominalization. Language 46. 366–378.
+Chomsky, Noam. 1981. Lectures on government and binding. Dordrecht: Foris.
+Cole, Peter & Gabriella Hermon. 2008. VP raising in a VOS language. Syntax 11. 144–197.
+Comrie, Bernard, Diana Forker & Zaira Khalilova. 2011. Alignment typology, reflexives, and 
+reciprocals in Tsezic languages. Berkeley Linguistics Society 37. 32–51.
+Crisp, Simon. 1983. Subject marking in some languages of Daghestan. Papers in Linguistics 16. 
+203–216.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 29]
+ Are there subject anaphors?   79
+Daniel, Michael & Yury Lander. 2012. Relative clauses and processing complexity. Talk at the 
+conference “Typology, Theory: Caucasus”, Istanbul.
+de Rijk, Rudolf P . G. 2008. Standard Basque: A progressive grammar. Cambridge, MA: MIT 
+Press.
+de Vos, Mark. 2007. Towards a definition of SUBJECT in binding domains and subject-oriented 
+anaphors. Stellenbosch Papers in Linguistics 37. 23–65.
+Dixon, R. M. W. 1994. Ergativity. Cambridge: Cambridge University Press.
+Dixon, R. M. W. 2012. Basic linguistic theory: Further grammatical topics. Oxford: Oxford 
+University Press.
+Evans, Nicholas. 2008. Reciprocal constructions: Towards a structural typology. In König & Gast 
+(eds.) 2008, 33–104.
+Everaert, Martin. 2000. Types of anaphoric expressions: Reflexives and reciprocals. In Zygmunt 
+Frajzyngier & Traci S. Curl (eds.), Reciprocals: Forms and function, 63–85. Amsterdam: 
+Benjamins.
+Everaert, Martin. 2001. Paradigmatic restrictions on anaphors. West Coast Conference on 
+Formal Linguistics 20. 178–191.
+Everaert, Martin. 2011. Anaphoric dependencies and the quest for universals. Talk at the 44th 
+Annual Meeting of the Societas Linguistica Europaea, Logroño.
+Everaert, Martin. 2013. The criteria for reﬂexivization. In Dunstan Brown, Marina Chumakina & 
+Greville G. Corbett (eds.), Canonical morphology and syntax, 190–206. Oxford: Oxford 
+University Press.
+Falk, Yehuda N. 2009. Subjects and universal grammar: An explanatory theory. Cambridge: 
+Cambridge University Press.
+Faltz, Leonard M. 1985. Reflexivization: A study in universal syntax. New York: Garland.
+Forker, Diana. 2013. A grammar of Hinuq. Berlin: de Gruyter.
+Frajzyngier, Zygmunt & Traci S. Curl (eds.). 2000. Reflexives: Forms and functions. Amsterdam: 
+Benjamins.
+Givón, Talmy. 1997. Introduction. In Talmy Givón (ed.), Grammatical relations: A functionalist 
+perspective, 1–84. Amsterdam: Benjamins. 
+Harris, Alice C. 1981. Georgian syntax: A study in relational grammar. Cambridge: Cambridge 
+University Press.
+Haspelmath, Martin. 1991. On the question of deep ergativity: The evidence from Lezgian. 
+Papiere zur Linguistik 44/45. 5–27.
+Haspelmath, Martin. 2007. Further remarks on reciprocal constructions. In Vladimir P . Nedjalkov 
+(ed.), Reciprocal constructions, 2087–2115. Amsterdam: Benjamins.
+Heim, Irene, Howard Lasnik & Robert May. 1991. Reciprocity and plurality. Linguistic Inquiry 22. 
+63–101.
+Horrocks, Geoffrey. 1994. Subjects and configurationality: Modern Greek clause structure. 
+Journal of Linguistics 30. 81–109.
+Hubbard, Philip. 1980. The syntax of the Albanian verb complex. San Diego: University of 
+California at San Diego doctoral dissertation.
+Hubbard, Philip. 1983. Albanian reflexives: Violations of proposed universals. Kansas Working 
+Papers in Linguistics 8. 63–71.
+Hubbard, Philip. 1985. The syntax of the Albanian verb complex. New York: Garland.
+Iatridou, Sabine. 1988. Clitics, anaphors, and a problem of coindexation. Linguistic Inquiry 19. 
+698–703.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 30]
+ 
+80   Diana Forker  
+Keenan, Edward. 1976. Towards a universal definition of ‘subject’. In Charles N. Li (ed.), Subject 
+and topic, 305–333. New York: Academic Press.
+Khalilova, Zaira. 2009. A grammar of Khwarshi. Utrecht: LOT.
+Kibrik, Aleksandr E. 1997. Beyond subject and object: towards a comprehensive relational 
+typology. Linguistic Typology 1. 279–346.
+Kibrik, Aleksandr E. 2003. Konstanty i peremennye jazyka. [Constants and variables of 
+language.] St. Petersburg: Aletheia.
+Kibrik, Aleksandr E. (ed.). 1999. Èlementy caxurskogo jazyka v tipologičeskom osveščenii. 
+[Elements of Tsakhur from a typological perspective.] Moskva: Nasledie.
+König, Ekkehard & Volker Gast (eds.). 2008. Reciprocals and reflexives: Theoretical and 
+typological explorations. Berlin: Mouton de Gruyter.
+LaPolla, Randy J. 1993. Arguments against ‘subject’ and ‘object’ as viable concepts in Chinese. 
+Bulletin of the Institute of History and Philology, Academia Sinica 63. 759–813.
+Lebeaux, David. 1983. A distributional difference between reciprocals and reflexives. Linguistic 
+Inquiry 14. 723–730.
+Ljutikova, Ekaterina A. 1997. Refleksivy i èmfaza. [Reflexives and emphasis.] Voprosy 
+jazykoznanija 1997(6). 49–74.
+Ljutikova, Ekaterina A. 1999. Èmfatičeskoe mestoimenie wuž. [The emphatic pronoun wuž.] In 
+Kibrik (ed.) 1999, 620–629.
+Ljutikova, Ekaterina A. 2000. Reflexives and emphasis in Tsaxur. In Frajzyngier & Curl (eds.) 
+2000, 227–255.
+Ljutikova, Ekaterina A. 2001. Anaforičeskie sredstva. [Anaphoric means.] In Aleksandr E. Kibrik 
+(ed.), Bagvalinskij jazyk, 615–681. Moskva: Nasledie.
+Marelj, Marijana. 2011. Bound-variable anaphora and Left Branch Condition. Syntax 14. 
+205–229.
+Mosel, Ulrike. 1987. Subject in Samoan. In Donald C. Laycock & Werner Winter (eds.), A world of 
+language: Papers presented to Professor S. A. Wurm on his 65th birthday (Pacific 
+Linguistics C-100), 455–479. Canberra: Australian National University.
+Mosel, Ulrike. 1991. Transitivity and reflexivity in Samoan. Australian Journal of Linguistics 11. 
+175–194.
+Mosel, Ulrike & Even Hovdhaugen. 1992. Samoan reference grammar. Oslo: Scandinavian 
+University Press.
+Moyse-Faurie, Claire. 2003. The ergative features of Papuan and Austronesian languages. In 
+Francisco Queixalós (ed.), Ergatividade na Amazônia II. Paris: Centre d’Etudes des Langues 
+Indigènes d’Amérique.
+Moyse-Faurie, Claire. 2008. Constructions expressing middle, reflexive and reciprocal 
+situations in some Oceanic languages. In König & Gast (eds.) 2008, 105–168.
+Moyse-Faurie, Claire. 2011. Reflexives markers in Oceanic languages. Talk at the workshop “The 
+world of reflexives”, Universiteit Utrecht, Utrecht, 25–27 August 2011.
+Nichols, Johanna. 1980. Control and ergativity in Chechen. Chicago Linguistic Society 16. 
+259–268.
+Onishi, Masayuki. 2001. Non-canonically marked subjects and objects: Parameters and 
+Properties. In Alexandra Y . Aikhenvald, R. M. W. Dixon & Masayuki Onishi (eds.), 
+Non-canonical marking of subjects and objects, 1–52. Amsterdam: Benjamins.
+Pollard, Carl J. & Ivan A. Sag. 1992. Anaphors in English and the scope of binding theory. 
+Linguistic Inquiry 23. 261–303.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM
+
+[PDF PAGE 31]
+ Are there subject anaphors?   81
+Postal, Paul M. & John R. Ross. 2009. Inverse reflexives. In William D. Lewis, Simin Karimi, Heidi 
+Harley & Scott O. Farrar (eds.), Time and again: Theoretical perspectives on formal 
+linguistics; in honor of D. Terence Langendoen, 3–36. Amsterdam: Benjamins.
+Reinhardt, Tanya & Eric Reuland. 1993. Reflexivity. Linguistic Inquiry 24. 657–720.
+Reuland, Eric. 2011. Anaphora and language design. Cambridge, MA: MIT Press.
+Schladt, Mathias. 2000. The typology and grammaticalization of reflexives. In Frajzyngier & 
+Curl (eds.) 2000, 103–124.
+Sumbatova, Nina R. & Rasul O. Mutalov. 2003. A grammar of Icari Dargwa. München: Lincom 
+Europa.
+Toldova, Svetlana J. 1999. Mestoimennye sredstva podderžanija referencii. [Pronouns as means 
+for reference tracking.] In Kibrik (ed.) 1999, 629–674.
+Van Valin, Robert D. & Randy J. LaPolla. 1997. Syntax: Structure, meaning, and function. 
+Cambridge: Cambridge University Press.
+Woolford, Ellen. 1999. More on the anaphor agreement effect. Linguistic Inquiry 30. 257–287.
+Yamada, Hisanari. 2004. On the ergative reciprocal tsotsaz construction in Standard Avar. Talk 
+at the international symposium “The typology of argument structure and grammatical 
+relations in languages spoken in Europe and North and Central Asia” (LENCA-2), Kazanskij 
+gosudarstvennyj universitet, Kazan’, 11–14 May 2004.
+Yamada, Hisanari. 2013. Reciprocal constructions in Avar. Lingua 126. 150–171.
+Brought to you by | James Cook University
+Authenticated
+Download Date | 1/23/15 3:53 AM

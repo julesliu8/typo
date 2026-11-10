@@ -1,0 +1,3 @@
+('khanina2008record', '403 Client Error: Forbidden for url: https://pure.mpg.de/pubman/item/item_1554544')
+('viberg2019record', "HTTPSConnectionPool(host='uu.diva-portal.org', port=443): Max retries exceeded with url: /smash/record.jsf?pid=diva2:1374745 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))")
+('emotionmap2022journal', '202 ', [])

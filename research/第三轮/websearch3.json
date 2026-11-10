@@ -1,0 +1,19 @@
+[
+  "\"Kathmandu\" \"Newar\" \"dative\" \"know\"",
+  200,
+  "Google Search 若您在數秒內仍未能自動跳轉，請點擊 這裏 。 如果你在存取「Google 搜尋」時遇到問題，請 按一下這裡 或傳送 意見 。",
+  [
+    [
+      "這裏",
+      "/httpservice/retry/enablejs?sei=iRzrauH1D-aivr0P54awgA0"
+    ],
+    [
+      "按一下這裡",
+      "/search?q=%22Kathmandu%22+%22Newar%22+%22dative%22+%22know%22&sca_esv=f0f7d3a8a529a5b8&ie=UTF-8&sxsrf=AKL5yDh2v6tJ8Z6t7AfEBWvA08-D_hjdfw:1793793161266&emsg=SG_REL&sei=iRzrauH1D-aivr0P54awgA0"
+    ],
+    [
+      "意見",
+      "https://support.google.com/websearch"
+    ]
+  ]
+]

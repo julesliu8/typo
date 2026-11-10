@@ -1,0 +1,850 @@
+[PDF PAGE 1]
+Title
+An argument for the focus-based approach to the
+nominative object constructions in Japanese
+Author(s)
+Yamaguchi, Maiko
+Citation
+OUCCL(Osaka University Papers in Comparative
+Contrastive Linguistics). 2025, 2, p. 145-162
+Version Type
+VoR
+URL
+https://doi.org/10.18910/103066
+rights
+Note
+The University of Osaka Institutional Knowledge Archive : OUKA
+The University of Osaka Institutional Knowledge Archive : OUKA
+https://ir.library.osaka-u.ac.jp/
+The University of Osaka
+[PDF PAGE 2]
+An argument for the focus-based approach to the nominative object constructions in 
+Japanese 
+Maiko Yamaguchi* 
+Abstract   This article examines nominative object construction and its related 
+issues. In traditional observations, nominative objects are associated only with a 
+wide-scope reading (Tada 1992, Koizumi 2008). However, Nomura (2005) argues 
+that there are also cases in which nominative objects can assume a narrow scope 
+with respect to the stative predicate (marked scope). Moritake (2022) elegantly 
+accounts for the multiple scope readings of nominative objects and the narrow 
+reading of accusative objects through focus-based movement analysis and Up-
+ward Agree (Zeijlstra 2012). However, the marked scope of the accusative object 
+counterpart is considered unobtainable in Moritake’s work. This study examines 
+how similar to nominative objects, accusative objects can also take a wide- scope 
+reading (non-default reading) if the context is appropriately provided. More pre-
+cisely, notwithstanding the strong preference for the default reading, marked 
+reading is possible in principle. Unlike Moritake (2022), this study contends that 
+a wide scope reading comes from an exhaustive listing focus feature that is li-
+censed in the CP area. It is worth mentioning that nominative case marking can be 
+not only an indicator of a structural Case, but also an indicator of focus. In Old 
+Japanese (around 8th to 9th century), Miyagawa (2012) report s that the Japanese 
+accusative case was used as an emphatic marker because it could be attached to 
+non-nominals. Similarly, Oe (1972) indicates that nominative object is likely to 
+be associated with the NP (object)-focus reading (whereas accusative objects are 
+associated with VP focus). Additionally, Mihara (2022) remarks that nominative 
+objects tend to bear focused reading. Cross-linguistically, in present day Korean 
+too, nominative object is bearing focused meaning compared to the accusative 
+object (c.f. Ishida 2023). Based on this perspective, this study provides a plausible 
+supporting account for the focus-based analysis of nominative object construc-
+tions in consistent manner. Accordingly, this article suggests some adjustments to 
+Moritake’s (2022) analysis to reflect the informants’ judgments and my assump-
+tions. Additionally, some implications to acceptability shifts in the 
+nominative/genitive conversion is also considered.  
+Keywords: nominative object, multiple nominative, focus, topic, exhaustive list-
+ing focus reading, focus-based analysis 
+ Introduction  
+Nominative object construction has gained the attention of researchers due to its ambivalent 
+nature. Although nominative objects are logical objects (Koizumi 2008, Mihara 2022), they bear 
+the same morphological marking as that of grammatical subjects. In general, complex forms of 
+* First and foremost, many thanks go to the editors: Eri Tanaka, Masashi Yamaguchi, and Kenta Mizutani, for
+patiently waiting for my belated article and also for their kind supports in completing this. Without their support
+I would not have made it. I would also like to thank my seminar students who provided me with candid comments
+regarding the data. Their judgements and interpretations were quite inspirational.  Finally, I am thoroughly in-
+debted to Professor Sadayuki Okada for his many years of academic guidance. I would never have been able to
+finish my degree without his guidance in the first place. Hopefully, I will return what I learned from him through
+teaching my students. Maiko Yamaguchi (m-yamaguchi@m.ndsu.ac.jp).
+145
+[PDF PAGE 3]
+ 
+  
+stative predicates allow for nominative/accusative conversion. Yet, Mihara (2022) states that sim-
+ple form stative predicates only allow nominative case morphology on the grammatical object.  
+ 
+(1)  simple form (Mihara 2022:149 with modifications including glosses) 
+ a .   Hanako-wa  tennis (ga/*o)  heta-da. 
+       Hanako-TOP tennis-NOM/ACC bad at 
+      ‘Hanako is bad at tennis.’ 
+    b.  Taroo-wa  coffee-ga/*o  sukida. 
+      Taroo-TOP  coffee-NOM/ACC like 
+      ‘Taroo likes coffee.’ 
+(2)  complex form (Mihara 2022:149 with modifications including glosses) 
+  a.   Boku-wa   kono CD (ga/o)  kai-tai. 
+         I -TOP     this CD  NOM/ACC  buy-want to 
+       ‘ I want to buy this CD.’ 
+    b.  Uchino   Musume-wa  moo  Eigo-ga/o   hanas-eru. 
+         Home-GEN   daughter  already English-NOM/ACC speak/can 
+         ‘My daughter can already speak English.’ 
+  
+For the complex form, accusative case-marking was considered default1. Moreover, Mi-
+hara mentions that the availability of NOM/ACC conversion is affected by several contextual 
+restrictions, such as the locality between the nominative object and the predicate (Shibatani 
+1978), and the transitivity of the predicates (Iori 1995)2.  
+ 
+1 However, Maki and Morishima (2004) reported that accusative object becomes acceptable thorough embedding 
+under a nominal or fronting operation.  
+2 As to the transitivitiy restriction, even though a complex form is used in (i), if the predicate’s influence onto 
+the object is strong, it is said to repel the nominative marking on the object.  
+ 
+(i) (Iori 1995:56, Mihara 2022:150 with some modifications) 
+ naze ore-*ga/o   koroshi-tai-nda.     
+     w hy  I-NOM/ACC  kill-want to-COP  
+    ‘Why do you want to kill me?’ 
+  
+  Admitting that the predicate is bearing high transitivity, but the main reason why this sentence is considered to 
+be even more degraded should be the processing load/confounding factors. For instance, if ore is marked with 
+nominative case, it can assume either an Agent reading (subject) or a Patient/Theme reading (object). Personally, 
+it is rather difficult to interpret this nominative ore with the grammatical object reading. If the Agent nominal 
+overtly shows up as in ‘ naze omae-wa ore-ga koroshi-tainnda?’, ‘why do you (overt) want to kill me? ’ the 
+nominative case-marking does not sound bad at all to this author. 6 out of 9 informants agreed to my judgment. 
+The rest of them commented that it is puzzling to decide which one of the two arguments (ore or omae) becomes 
+an Agent in (i).  
+However, if we apply Moritake’s (2022) s analysis, the Agent theta-role that is originated in V (in this case kill), 
+is rendered into the Experiencer after the stative affix is introduced into the structure. In principle, degradation 
+in acceptability should not be expected as it is already suggested in my informants’ judgements. 
+When sufficient contextual information is provided to (i), my informants judged this sentence as acceptable (8 
+out of 9 informants.) In the subject enforcing context, they could obtain the subject reading and 7 out of 9 in-
+formants said felicitous. 
+Incidentally, Mihara (2022) presented less confounding instance than Iori (1995) and for Mihara, it is judged as 
+ungrammatical with the nominative case morphology. However, to my ear, (ii) does not sound degraded at all, 
+compared to the example in (i).  
+(ii) supposedly less confounding instance (Mihara 2022:150, with some modifications including judgement.) 
+ Ano biru-ga/o   kowashi-tai. 
+  That building-NOM/ACC  destroy-want to. 
+‘I want to destroy that building.’   
+146
+[PDF PAGE 4]
+ 
+  
+This study considers the requirement for complex predicates regarding the nominative object 
+construction. Specifically, if the predicates allow stative reading, and if they are followed by sta-
+tive/potential affixes, they are , in principle, candidates for holding the nominative object 
+construction. 
+Incidentally, it is worth mentioning that accusative marking is reported to be preferred over 
+the nominative case in the embedded context primarily due to the processing load (Nambu et al. 
+2020). 
+Regarding the identity of the nominative case marking on the object, I argue that it is structural 
+and sometimes bears an exhaustive listing focus by moving to CP. Although there are analyses in 
+which nominative case-marking is attributable to P (Mihara 2022) or inherent Case (Niinuma and 
+Taguchi 2009), I do not adopt these in this study because they have serious problems3.  
+As for how to license this nominative case, no agreement has been reached either. 
+There are numerous licensing approaches, so a non-extensive list is provided: licensing by the 
+stative affix and T (Tada 1992); licensing by T (Koizumi 1994, 2008, Nomura 2005); licensing 
+either by T or by predication (nominative object in the latter case is considered a major subject and 
+an inherent Case.) (Niinuma and Taguchi 2009); licensing by stative predicates (Kuno1973); li-
+censing by the interpretable Case feature of C (φ-feature agreement is considered absent in 
+Japanese in this account, and focus movement triggers movement to the TP spec.) (Moritake 
+2022); nominative case is P and the nominative object is PP Mihara (2022). 
+Most of these approaches above account for the default scope reading of the nominative ob-
+ject (a wide reading with respect to the stative affix). Among these, the empirical and theoretical 
+coverage of Moritake (2022) was the most extensive4. Therefore, my analysis was adapted from 
+Moritake’s (2022). In the next section, relevant approaches and problems are presented. The re-
+mainder of this paper is organized as follows: In Section 2, relevant scope facts with nominative 
+objects, and precedent researchers’ analyses and problems are introduced. Section 3 reviews Mori-
+take’s analysis. Section 4 presents my proposal, and Section 5 examines the implications. Finally, 
+Section 6 concludes. 
+ Precedent Analyses 
+In this section, relevant scope facts are provided from previous research. Subsequently, the 
+essential approaches are presented. Their inherent problems are also considered. 
+2.1. Scope facts around nominative objects and accusative objects 
+First, we introduce a  standard case of nominative object construction. As briefly mentioned 
+in the last section, nominative objects tend to take wide scope compared to the stative affix when 
+the focus sensitive particle like ‘dake’ only is attached to the objects. Most researchers argue that 
+wide scope reading is the only form of reading. In the preceding analyses, the accusative case-
+marked counterpart has unanimously low scope with respect to the stative/potential affix. 
+ 
+ 
+3 Specifically, Niinuma and Taguchi (2009) assumes two types of nominative cases in Japanese: structural nom-
+inative Case (which is associated with non -focus reading or neutral description reading (c.f. Kuno 1973)), and 
+inherent Case, which is licensed by the sentential predicate since it is considered a major subject and it is associ-
+ated with the exhaustive-listing focus reading. Although I agree with them in that exhaustive-listing focus should 
+be licensed in the CP area, I do not think it as inherent Case nor a major subject. Arguments against major subject 
+approach can be found in Koizumi (2008). Regarding P -analysis of the nominative case, it would suffice to 
+mention that nominative objects can be associated with floating quantifiers but PPs cannot.  (c.f. Moritake 2022, 
+Koizumi 2008, Miyagawa et al. 2019) 
+4 More accurately, Moritake (2022) accounts for both wide and narrow readings of the nominative object and the 
+narrow-only reading of the accusative object.  
+ 
+147
+[PDF PAGE 5]
+ 
+  
+(3)  (Moritake 2002: 2) 
+   a.   John-ga  migime-dake-o   tumor-e-ru. 
+      John- NOM right eye-only-ACC  close-can-PRES 
+     ‘John can close only his right eye.’ 
+(i) can > only (John can wink his right eye.) 
+ (ii)?*only>can (It is only his right eye that he can close.) 
+  b.   John-ga  migime-dake-ga    tumor-e-ru. 
+       John- NOM  right eye-only-NOM close-can-PRES 
+      ‘John can close only his right eye.’ 
+  (i)* can>only, (ii) only>can  
+ 
+As Kuno (1973) remarks, if the predicate is presented without a stative affix, nominative 
+case marking is not obtainable. In this sense, Kuno argues that this stative predicate is the 
+source of nominative case marking of an object. Tada (1992) uses AgrO to license the accu-
+sative Case and the combination of AgrO and a stative suffix assigns nominative Case to the 
+object.  Case licensing is performed through a spec-head relation, so objects undergo move-
+ments and obtain Case at the landing sites. This analysis captures the wide scope reading of 
+the nominative object in (3b) and the low scope reading of the accusative object in (3a). How-
+ever, as Koizumi (2008:150) states, “It is not clear at all why nominative Case should be 
+licensed by two distinct sets of categories as different as Tense and stative predicates.” Koi-
+zumi also points out that Tada’s (1992) analysis faces a problem when negation is introduced 
+into the structure. In Tada’s analysis, nominative objects are located roughly in the VP; it 
+cannot capture the actual wide scope reading of the nominative objects when negation is in-
+troduced into the structure. Owing to space limitations, I will not go into any further detail.  
+Koizumi (1994) also adopts spec-head licensing for the nominative Case. To obtain a 
+nominative Case, movement is obligatory. The negation problem can be entertained by using 
+Koizumi’s approach. However, as Moritake (2022) notes, Koizumi’s (1994) may face prob-
+lems for its obligatory movement. Moritake demonstrates that the nominative Case of the 
+object can be obtained without moving to TP-spec.  
+Subsequently, regarding the non-default reading of the nominative object, Nomura (2005) 
+argues that a low scope reading of the nominative object can be obtained if provided with a 
+supporting context. 
+ 
+(4) (Nomura 2005: 176): narrow scope reading of the nominative object is obtainable. 
+ Taro-ga  koyubi-dake-ga  mage-rare-ru no wa      shitteita-ga, 
+ Taro- NOM pinkie-only-NOM  crook-can-PRES NML-TOP  knew-but 
+ (kare-ga) kusuriyubi-dake-mo  mage-rare-ru  no-ni- wa odoroita 
+ he- NOM   ring-finger-only-also  crook-can-PRES NML-DAT -TOP surprised 
+ I have known that Taro can crook only his pinkie but I am  
+ surprised that he can also crook only his ring finger.' ("can > only" reading is possible) 
+ 
+The low scope reading presented by Nomura (2005) cannot be considered in most of the 
+preceding analyses. In the following sections, we will observe how to account for non-default 
+readings.  
+ 
+ Points from Moritake’s (2022) Analysis 
+In this section, the points central to my analysis will be reviewed.  
+ 
+148
+[PDF PAGE 6]
+ 
+  
+3.1. Case assignment does not involve phi-feature agreement in Japanese 
+Since Japanese has multiple case phenomena, such as multiple nominative case construc-
+tions, the phi feature agreement is said to be absent in Japanese. Thus, in Moritake’s approach, 
+phi-feature agreement is irrelevant to Case assignment (c.f. Saito 2016). 
+Instead, Case assignment is completed through agreement. He adopts an upward agree-
+ment system (Zeijlstra 2012). uCase on the DP is licensed by the interpretive features of each 
+phase head: C bears NOM and v*P bears ACC.  
+ 
+(5)  (Moritake 2022:17) structure for the accusative object  
+  
+ 
+In the structure above, v* assigns an accusative Case to the object and there is no room 
+for the object to be marked as nominative Case.  
+Further derivation of the accusative object up to the CP in Motitake (2022) is as follows: 
+ 
+(6) (Moritake 2022:21) Further derivation to the CP domain 
+ 
+ 
+The movement of the subject to the spec of TP is rooted in EPP, since Moritake adopts 
+Miyagawa’s (2001) idea that EPP can be satisfied either by subjects or objects. Interestingly, 
+the theta role of the object is assigned twice: First at the spec of v*P (Agent) and then at the 
+spec of ssP (Experiencer). Moritake assumes that the multiple theta role is permissible. Here, 
+the uninterpretable feature of an object is licensed from the interpretable Case feature (ACC) 
+of v* through upward agree, and accusative Case is assigned to the object. The subject under-
+goes an agree relation with C’s interpretable Case feature and the nominative Case is licensed. 
+Moritake’s analysis consistently captures the low scope reading of the accusative object with 
+respect to the stative suffix. 
+The following is his structure for the (3a). 
+ 
+(7) (Moritake 2022: 21) accusative object 
+ 
+ 
+ 
+Moritake assumes that an accusative object can bear focus, but is licensed inside the do-
+main of v*P. For Moritake, the accusative object always takes a narrow scope compared to the 
+stative predicate. The focus feature is inherited from v* to V and the object moves to spec VP. 
+149
+[PDF PAGE 7]
+ 
+  
+This involves movement from complement to spec of the same head. Normally, complement 
+to spec of the same projection is ruled out by anti-locality (c.f. Bošković 2015). Anti-locality 
+is a condition that rules out too short movement. According to Bošković (2015: 2) “Move must 
+cross at least one full phrase (not just a segment).” However, a head movement is applied to 
+V-to-v*, so the movement itself seems feasible.  
+While it is evident that there is a VP/v*P focus reading of the accusative object, I have a 
+different view. According to Oe (1972), accusative objects are both compatible with the NP-
+focus reading (exhaustive-listing reading) and other focus reading: non-NP, v*P (or VP) as a 
+whole is being focused.  
+As the informants also perceived a wide reading of the accusative object in a similar sen-
+tence as (3a) 5, at least for some speakers who accept ed the wide reading of the accusative 
+object further consideration is required, if we adopt Moritake’s (2022). 
+3.2. Derivation for the nominative object 
+Subsequently, the derivation of the nominative object counterpart is observed. Because 
+the objects are marked as nominative case, the accusative case assignment function must be 
+voided. To do this, Moritake (2022) initially applies Epstein, Kitahara and Seely (EKS)’s 
+(2016) external pair-Merge for V and v*. The consequence of th is operation is to render v* 
+invisible to the syntactic operation, and the accusative case-assignment ability is lost during 
+the process. Moritake maintains that the external pair-Merge cancels the v*P phase. Regarding 
+the initial application of the external pair-Merge of V and v*, in nominative object construction, 
+Moritake emphasizes that the presence of the stative predicate is quintessential on top of the 
+external pair-Merge of V to v* to make the nominative object possible. To overcome this, 
+Moritake applies an external pair-Merge to the stative suffix (ss) and v*. Here, accusative Case 
+assignment capacity of v* is also removed.  
+ 
+(8) (Moritake 2022:19) updated version of the external pair-Merge application 
+ 
+With this attempt, as presented above, it no longer needs to mention the necessity of the 
+stative suffix independent of the external pair-Merge. 
+The following is Moritake’s derivation for the nominative object. 
+ 
+(9) (Moritake 2022: 22) 
+ 
+ 
+A characteristic of this derivation is that the external argument (or theta role) is absent, as 
+well as v*’s Case licensing/assigning property. This is achieved by the external pair-Merge of 
+ 
+5 When the sentence is provided with a supporting context, five out of nine informants commented that this wide 
+scope reading of the nominative object is felicitous with respect to the possibility/stative affix. (non-default read-
+ing of the accusative object) . In a similar vein , non-default reading of the nominative subject (can> only 
+nominative object) was obtainable to my informants if it is provided with the right context. They mentioned that 
+the narrow scope reading was forced from the context, though it is not natural. 
+150
+[PDF PAGE 8]
+ 
+  
+the stative suffix with v*. It seems that the head movement of V toward the amalgam <ss, v*> 
+is also posited here. With the introduction of T, the subject is raised to its spec, probably be-
+cause of the EPP. Then, when C is introduced into the derivation, it forms an agree relation 
+with the subject and the object through upward agree, and their Case is assigned as the nomi-
+native Case. Looking at the output, essentially the same effect from the multiple Agree 
+operation is obtainable here (Hiraiwa 2005, Koizumi 2008). Since spec-head agreement is 
+only adopted for focus feature licensing, nominative objects can get nominative Case inside 
+the VP, thereby low scope reading of the nominative object can be entertained in Moritake’s 
+analysis. When the nominative object takes a wider scope with respect to stative affix and 
+(negation), a wide reading is reported to be achieved from the focus-based movement to the 
+TP-spec. Moritake assumes that focus feature licensing is performed by the spec-head relation. 
+Moreover, he assumes that the focus feature, which originated in C, is inherited by T. However, 
+since he assumes that the TP-spec is already a place for the subject and the EPP is supposedly 
+met at that spec, moving the nominative object to the same Spec means admitting the existence 
+of multiple specs. When we look at his actual derivation of the example (10) the nominative 
+object is raised to the inner spec of TP (seemingly like a tucking-in operation)6. Although his 
+derivation captures the wide scope reading of a nominative object, several questions remain. 
+Since the focus on this object is presumably an exhaustive listing type of focus, how can we 
+make sure to focus only on the nominative object because both subjects and objects are located 
+in TP-spec? Moreover, as Kuno (1973) points out, the left-most nominative case-marked ele-
+ment is likely to receive this exhaustive listing focus if multiple nominative cases appear in a 
+sentence7. Looking at his structure, it seems to predict the nominative subject, rather than the 
+nominative object should be focused. Alternatively, if multiple agree is possible with focus 
+licensing, both subjects and nominative objects should be exhaustively focused, which would 
+incur an odd interpretation from the actual reading (In a natural reading, only a nominative 
+object is being focalized, and the subject is read as a presentational phrase that is in sync with 
+a topic reading). However, for Moritake, the multiple focus reading seems permissible. It then 
+follows that his structure for the wide scope of nominative object construction could use more 
+adjustments to derive the other reading. Since Moritake suggests that the focus feature is li-
+censed by spec-head relation, topic type feature and focus type feature should be associated 
+with distinct heads rather than a shared head. In the next section, I would like to touch on this 
+issue. 
+ 
+(10) (Moritake 2022: 23) derivation when the nominative object is focused 
+ 
+ 
+ 
+6 Whether tucking-in is a universal operation or not is not considered here. (c.f. Paillé 2021). 
+7 According to (Kuno 1973: 67), “when there is more than one NP-ga in a sentence that can potentially receive 
+the exhaustive-listing interpretation, the leftmost one takes precedence, and the rest are interpretable only as 
+neutral description.” 
+151
+[PDF PAGE 9]
+ 
+  
+Next, non-default readings and Moritake’s views are observed. 
+3.3. Non default reading (wide reading of the accusative object) is absent 
+Moritake takes the position that a wide scope reading of the accusative object is absent be-
+cause the focus feature of the accusative object is licensed v*P internally. Specifically, the focus 
+feature of v* is inherited by V, and the object is moved to the VP-spec position. Moritake suggests 
+that a head movement takes place from V to v*; essentially, the focus feature of the accusative 
+object is licensed in the v*P spec. Once the focus feature is licensed with the accusative object, no 
+further movement is operative for this element because of the criterial freezing effect of Rizzi 
+(2006). 
+His structure for the focused accusative object is given as (11). 
+ 
+(11) (Moritake 2022: 26) obligatory narrow reading of the focused accusative object with 
+respect to the stative suffix 
+ 
+ 
+This accounts for the obligatory low scope reading of the accusative object in Nomura’s (2005) 
+example. 
+Incidentally, Koizumi (2008) suggest s an  Agree-based approach to nominative object 
+construction. There, he adopts Hiraiwa’s (2001) Multiple Agree and Multiple Move to derive 
+multiple nominative Case occurrences in this structure. After the Multiple Agree is done 
+among T, the subject and the object, multiple movements to the TP-spec are triggered by the 
+EPP. However, Koizumi’s (2008) approach also predicts doubly focused readings of the sub-
+ject and the object if TP-spec was the locus for the focus, in accordance with Moritake’s (2022). 
+Some adjustments are also required to make a non-focused reading of the subject for his anal-
+ysis. 
+Next, another non-default reading (a narrow reading of the nominative object) is reviewed. 
+3.4. Narrow scope reading of the nominative subject is less preferred 
+Moritake’s stance toward the narrow scope reading of the nominative subject, which is 
+said to be possible in Nomura (2005) is possible, but nonetheless unnatural or sounds degraded 
+compared to the accusative counterpart. To explain why such a non-default reading is difficult 
+to obtain, he mentions that the scope of the element that has undergone focus-based movement 
+tends to be fixed at the landing site (surface scope). In Nomura’s example, although the nom-
+inative subject has moved to TP-spec for focus reasons due to the narrow scope reading 
+enforcing context, the actual scope interpretation of the nominative subject is done in the VP 
+internal position. Thus, Moritake states that degraded judgments with this reading are attribut-
+able to the scope mismatches. 
+ 
+ 
+ 
+ 
+ 
+152
+[PDF PAGE 10]
+ 
+  
+(12) (Moritake 2022:25) scope mismatch between the focus licensing position and the ac-
+tual interpretation position 
+ 
+Additionally, it could be considered that the phonological feature of the copy and the 
+semantic feature of the copy are read off at different positions due to the enforcing context. In 
+the next section, I propose adjustments to the Moritake’s analysis.  
+3.5. Another Important Aspect in Moritake (2022): dialectal variation  
+Before discussing the analysis, I would briefly mention another crucial aspect introduced 
+in Moritake (2022), as it will be particularly relevant when we consider the focus property of 
+nominative objects later.  
+According to Moritake (2022), interpretive differences on nominative c ase-marked ele-
+ments can be found in both standard Japanese (SJ) and Kumamoto Japanese (KJ). However, 
+unlike SJ, KJ exhibits morphological differences according to the interpretation: the vP-inter-
+nal non-focus reading with - no marking and exhaustive listing focus reading in TP-spec. H e 
+takes the view that ga/no are both nominative markers, but that they exhibit different morphol-
+ogies, whether they bear focus meaning or not. In addition, no is considered an anti-
+focus(/topic) marker (c.f. Nishioka 2019), and when it is marked with no, the nominative ob-
+ject is reported to remain in vP in the non-embedded context.  
+Later, I argue that these case-marking distinctions, according to the reading of the nomi-
+native case, are observable even in SJ, though it is strictly restricted to the nominal context 
+and the positional indication can be drawn indirectly. 
+ My Analyses 
+After an alternative adjustment to the external pair-Merge application for nominative ob-
+ject construction is presented, derivations using the proposed analysis are provided. 
+4.1. Similar but distinct Morphological Operation 
+In this section, I attempt to capture the same phenomena based on Moritake’s (2022) ap-
+proach to the nominative object construction.  
+First, instead of an external pair-Merge, I would assume that the morphological operation 
+for v* and the stative suffix takes place prior to the numeration. If my understanding of EKS 
+(2016) and Moritake (2022) is correct, what is being affixed to goes invisible to syntax with 
+this external pair-Merge. In EKS (2016), an external pair-Merge occurs between V and v*: 
+<V, v*> in English. V is said to undergo an external pair-Merge to v*. What is interesting 
+about the external pair-Merge is that unlike head movement in syntax, which is a domain 
+extending, and argument augmenting operation, external pair-Merge can be considered a do-
+main reducing operation, since after this operation, v*P is cancelled.  
+Putting aside English, let us consider Moritake’s (2022) application of this operation in 
+Japanese. I have no objections to applying pre-syntactic morphological operations to v* and 
+ss. However, when taking Japanese morphological order into consideration, Moritake’s (2022) 
+external pair-Merge applied to  ss and v* seems a bit odd. Note that in Japanese, stative 
+153
+[PDF PAGE 11]
+ 
+  
+predicates actually follow verbal or light verbal elements, which is noticeable in the case of a 
+causative instance, as in (V-sase-rare-ru) V-CAUSE-POTENTIAL SUFFIX-PRESENT. For an exter-
+nal pair-Merge, what is being attached to becomes invisible; this point may not be a serious 
+problem, but if we resurrect more traditional morphological operation, when two elements are 
+merged or combined, what is on the right-hand side tends to have the qualifications to decide 
+the category of the derivatives as a whole. If external pair-Merge is a type of morphological 
+operation, it is reasonable to expect these aspects to occur in the derived amalgam. According 
+to Williams (1981:248), “In morphology, we define the head of a morphologically complex 
+word to be the righthand member of the word…Call this definition the Righthand Head Rule 
+(RHR).” For Williams, suffixes are qualified for heads and they decide the derivative’ s cate-
+gory as in (13). Here, what is placed righthand (suffix) is the head that determines the category 
+N.  
+ 
+(13) (Williams 1981:249) 
+  
+ 
+ 
+The following is the structure of the pre-syntactic morphological merger. 
+ 
+(14) morphological merger to  v* and stative suffix: ss 
+ 
+ 
+Following the righthand head rule, suffixes become the head of the derivative and the category 
+of the derivative is determined by the properties of the suffix. Putting in more recent term, we 
+suggest that suffixes are qualified as labelers in a morphological setting. ss projects and deter-
+mines the label of the amalgam. In this way, the invisible property of v* and the morphological 
+order emerge effortlessly.  
+Again, because the external pair-Merge is a pre-syntactic operation, there should be no 
+contradictions in positing a similar morphological operation, when we combine v* and ss pre-
+syntactically. In fact, the righthand head rule derives the most coveted results of the external 
+pair-Merge without positing extra assumptions: the invisibility of v* and the necessary absence 
+of the accusative Case assigning property. Since what is projected is on the right side, the 
+property of the suffix remains and projects. In this study, the stative predicate has an Experi-
+encer subject, and does not assign an accusative Case. Thus, traditional morphological 
+operations are viable.  
+Therefore, I am not calling this operation an external pair-Merge, but instead assume it to 
+be a pre-syntactic morphological merger, meaning the ultimate outcome should be the same 
+as the external pair-Merge: cancellation of the v*P and the absence of the accusative Case 
+assigning property. To avoid confusion, I’ll call the derivative as “ ss amalgam” and write as 
+“ssa” in my derivation. 
+Hence, although I mostly agree with Moritake (2022) and would like to adopt most parts, 
+there are few differences. The difference is regarding the locus of the exhaustive listing type 
+of the focus licensing position, the composition of the ss amalgam, and the treatment of the 
+wide scope reading of the accusative object with respect to the stative affix.  
+154
+[PDF PAGE 12]
+ 
+  
+Let us consider the wide scope reading of the accusative object. Recall that Nomura 
+(2005) mentions that context helps derive the non-default reading of the nominative subject 
+(narrow reading). A similar effect is observed in the context of an accusative object.  
+4.2. Accusative case marking and exhaustive-listing reading 
+Matsui (2008) reports that even if nominative case-marking is impermissible with the 
+neutral description (non-focus) reading, an exhaustive-listing reading permits NOM/ACC con-
+version, as in (15-16). Here too, the supporting context seems effective in deriving an 
+exhaustive-listing reading. 
+ 
+(15) (Matsui 2008: 102) In the case non-focus reading doesn’t accept nominative object  
+ Musuko-*ga/o isha-ni si- ta-katta. 
+ My son-* NOM/ACC doctor-DAT become-want-PAST 
+ ‘I wanted my son to become a doctor.’ 
+(16)  (c.f. Matsui 2008:103, Niinuma and Taguchi 2009:129) 
+ Exhaustive listing reading with the supporting context: 
+A: I hear that your daughter is studying at a medical school. She will take over your 
+clinic when she graduates.  
+ B: Hontoowa, (musume-de naku) musuko-o/-ga   isha-ni shi- ta-katta.     
+   Actually,    my daughter-be  not  my son- ACC/-NOM doctor-DAT  become-want-PAST 
+    ‘In fact, I wanted my son to become a doctor, not my daughter.’ 
+ 
+The point here is that accusative case-marked items can bear the exhaustive-listing read-
+ing type of focus 8. Like Ueno (2017), I assume that the exhaustive-listing type of focus is 
+licensed in the CP area, specifically, (FocP), and that the aboutness topic is licensed at TopP, 
+which is located higher than FocP.  
+In this case, these features are preferably licensed by spec-head relations, by moving an 
+element to these specifiers and interpreting them at that position. 
+Of course, when phonological and semantic features are interpreted in the same position, 
+their interpretation is more readily obtainable, thereby inducing the default (preferred reading). 
+In contrast, inverse reading (phonological and semantic features interpreted separately) re-
+quires more processing load and is less preferred. However, the latter interpretation becomes 
+feasible with the help of context.  
+4.3. Derivations 
+Based on Moritake (2022) and the judgements result obtained from my informants, I al-
+locate structures to the possible interpretations.  
+Firstly, I present default readings for the following sentences from Koizumi (2008). The fol-
+lowing contexts are provided by the author. 
+ 
+(17) (Koizumi 2008:154): wide reading is not obtainable for Koizumi (2008) 
+ a.  Kiyomi- wa  migime-dake-o   tumur-e-ru. 
+  Kiyomi- TOP  right eye-only- ACC  close- can-PRES 
+  Lit: 'Kiyomi cannot close only his right eye.' 
+ 
+8 My informants said that the case markers are less likely to be omitted in this exa mple (16) and genitive case-
+marking is out unless it is interpreted as possessive, which ensue s quite bizarre reading. In fact, one of my in-
+formants is a speaker of Kyushu dialect who has a similar ga/no conversion pattern presented in Moritake (2022). 
+She says in her dialect, too no-marking is impossible in this case, meaning that this sentence is strictly interpreted 
+as the exhaustive-listing reading and nominative and accusative case-marked elements are both outside of the vP 
+phase. They are both interpreted in the CP area. 
+155
+[PDF PAGE 13]
+ 
+  
+   [can > only] 'Kiyomi can wink his right eye.' 
+  * [only> can] 'It is only the right eye that Kiyomi cannot close.' 
+ b.   Kiyomi- wa  migime-dake-ga  tumur-e-ru. 
+   Kiyomi- TOP  right.eye-only- NOM  close- can-PRES 
+  # [can > only] 'Kiyomi can wink his right eye.' 
+   [only > can] 'It is only the right eye that Kiyomi cannot close.' 
+(18) Provided contexts to my informants  
+ ( wide reading of the object inducing context) 
+Kiyomi has undergone surgery on her left eye and is still under the effect of anesthesia. 
+ ( narrow reading of the object inducing context) 
+ Kiyomi often wink s. 
+ 
+Unlike Koizumi (2008), the informants said that both readings were obtainable for the accu-
+sative object. If the sentence in (17) is presented with the supporting context provided above, 
+a wider reading of the accusative object can be obtained. With regard to the narrow reading of 
+the subject, the default reading is strong for them, and the non-default reading was possible, 
+but sounds unnatural for them 9. Despite sounding unnatural, as long as it is an obtainable 
+reading, I would regard the narrow reading of the subject as a possible interpretation. 
+4.4. Narrow reading of the accusative object 
+Without prior context, the accusative object is read as being non-exhaustively focused. 
+Here, even though only, a focus sensitive item is attached, it would only be interpreted as the 
+non-exhaustive listing type of focus, possibly in v*P10. 
+ 
+(19)  Narrow scope reading of the accusative object (non-exhaustive-listing focus reading) 
+ 
+ 
+Regarding the core derivation of the accusative object, I follow Moritake (2022): Both seman-
+tic and phonological features are interpreted at the same position. Again, I assume that the 
+default reading of the accusative object does not bear NP focus. Even if it appears with a focus 
+sensitive particle, only the predicate as a whole is focused on at best, and it is a non-exhaustive 
+listing type of focus that does not require movement to the CP area. Hence, I do not assume 
+NP scrambling for this type. Therefore, I do not use split-CP here. 
+ 
+4.5. Wide readings of the nominative objects 
+There are two possible default readings of the nominative objects. 
+ 
+9 In the narrow reading-inducing context, I ask them to dispose of the eye-surgery context from their minds. Yet, 
+somehow, they find the narrow reading of the nominative subject pretty unnatural though it is obtainable.  
+10 I am not against with Moritake (2022) in positing a focus licensing position in v*P, but I do not consider this 
+position as the locus for licensing an exhaustive-listing type of focus.  
+156
+[PDF PAGE 14]
+ 
+  
+The first is the double focus reading, as indicated by Moritake (2022) and the topic-focus 
+reading presented in this paper. Other than the external pair-Merge, and licensing position of 
+focus, I adopt Moritake’s (2022) approach. 
+ 
+(20)  The nominative elements are doubly focused 
+ 
+Here, both nominative subject and accusative object are exhaustively focused. Unlike Mori-
+take (2022), I did not use tucking-in option, and the exhaustive-listing focus is licensed in the 
+multiple specs of FocP. 
+The other wide scope reading of the nominative object is presented as follows. 
+ 
+(21)  nominative subject is interpreted more or less like a topic 
+ 
+ 
+In this reading, the nominative subject does not bear an exhaustive-listing type of focus and 
+works as a sort of topic item.11 Personally, the latter reading is more natural to the former 
+(double focus) reading. This demonstrates that there is a strong tendency for the nominative 
+object to attract an exhaustive-listing type of focus, and thereby, the general pattern (the left-
+most nominative element gets focused) is overridden, meaning that nominative objects are 
+more likely to be focused than nominative subjects.  
+Next, non-default readings will be considered. 
+ 
+11 In passing, Kuno (1973) reported that nominative marker and topic marker are neutralized in the embedded 
+context. Interpretation-wise, I do not perceive any difference if I change the nominative case -marking of the 
+nominative subject with the topic marker: wa. Of course, it is not in an embedded context, but to the extent my 
+interpretation is correct, I would assume that ga-marked items, too can bear topicality even in the root clause.  
+(Kuno 1973: 56) 
+The distinction between the thematic wa and the descriptive ga and the exhaustive-listing ga becomes neutralized 
+in subordinate clauses. All three are realized as ga. 
+157
+[PDF PAGE 15]
+ 
+  
+4.6. Structures for the non-default readings: wide scope reading of the accusative object  
+Here, we consider what happens in the non-default wide reading of the accusative object. 
+ 
+(22)  wide scope reading of the accusative object with respect to ss 
+ 
+ 
+Recall that accusative c ase-marked items can bear a neutral or focused reading. As pre-
+sented above, in some stative predicates, Matsui (2008) argues that in the non-exhaustive-
+listing sense, the nominative object was not allowed, and only accusative case marking was 
+possible. In contrast, as we have already observed, in the exhaustive-listing sense, both nomi-
+native and accusative cases are acceptable, meaning that accusative case is read as non-focus 
+as default, but it can bear an exhaustive-listing reading like nominative case. This indicates 
+that nominative objects are likely to be interpreted as having an exhaustive-listing type. 
+Therefore, if nothing goes wrong, nominative objects are prone to take a wider scope and 
+the accusative object assumes a narrow scope with respect to the stative predicate or negation. 
+Therefore, a non-default reading of the nominative object ( a narrow reading) is difficult to 
+obtain if it is not for the appropriate context. Conversely, accusative objects are likely to be 
+interpreted in the v*P area because they are usually associated with non-focus reading. Even 
+if the focus licensing position is in the v*P domain, I assume that this is not an exhaustive-
+listing type of focus that can be licensed. Like Oe (1972), in the case of accusative object, only 
+the predicate as a whole can be focused in VP/ v*P. To get the exhaustive-listing reading, I 
+assume that “covert scrambling” of the accusative object takes place. I call it covert not be-
+cause it undergoes LF movement but because it is not audible and it has an inverse scope 
+reading (sound and meaning are interpreted in distinct positions). Therefore, although the 
+movement itself is operated, and the copy is present in the CP area, and its semantic feature is 
+interpreted at the landing site, its sound or phonological feature is interpreted at the base (low) 
+position, implying that it is not audible, that is, inverse scope reading. Here, because the scram-
+bled copy meets the exhaustive-listing reading, its semantic feature is interpreted in the CP 
+(FocP) area. However, it is somehow pronounced in the original position. Since its semantic 
+and phonetic features are interpreted in the distinct positions, a wide scope reading of the 
+accusative object reading is less preferred, probably because of the processing factor, if it were 
+not for a good context to support it. In this sense, what is suggested in Moritake (2022:25) 
+sounds right in that “focus-moved elements tend to take its scope at its surface position.” In 
+the same reasoning, personally, if the overt scrambling is applied to this accusative object, a 
+wide reading is more easily obtainable 12. However, to the extent that my informants had no 
+ 
+12 The application of scrambling that feeds the Case -assignment is reported in Kasai (2018). Here, instead of 
+Case, focus feature is licensed through this operation, although it is covertly done here, since it is not pronounced 
+at the scrambled position. 
+158
+[PDF PAGE 16]
+ 
+  
+problem getting this wide scope reading of the accusative object when it is supported by the 
+context, I think my reasoning is on the right track.13 
+4.7. Structure for the non-default reading: narrow scope reading of the nominative ob-
+ject 
+The following structure shows narrow reading of the nominative object.  
+ 
+(23)  Narrow scope reading of the nominative object 
+ 
+ 
+A similar story to the previous subsection should be directly applicable to this derivation. 
+Here too, the phonological and semantic features are interpreted separately: the phonological 
+feature is read off in spec-FocP, and the semantic feature is interpreted at the base position. 
+Hence, an inverse scope is derived14. At any rate, these non-default readings would cost much 
+more processing load, and would be acceptable with the help of a supporting (enforcing) con-
+text.  
+ Implications from the NOM/GEN conversion: nominative object tends to bear exhaus-
+tive listing reading more often than the nominative subject? 
+In this section, we will observe that standard Japanese (SJ) also has a way to distinguish be-
+tween focused and non-focus ed reading morphologically, at least indirectly, by examining 
+Niinuma and Taguchi. In the latter part of this section, the possibility of subject/object asym-
+metry in NOM/GEN conversion is briefly discussed. We consider the following example.  
+ 
+(24) (Niinuma and Taguchi 2009:130) neutral reading of the nominative object 
+ a.   Watashi-ga  biiru-ga    nomi-ta-i 
+   I- NOM   beer- NOM drink-want-PRES 
+   'I want to drink beer 
+ b.   neutral reading allows NOM/GEN conversion  
+   Watashi-ga  biiru-no   nomi- ta-i     wake    
+   I- NOM        beer- GEN  drink-want-PRES  reason 
+   'the reason that I want to drink beer' (neutral description reading) 
+ 
+ 
+13 It could also be considered this way. Since a focus sensitive item only is attached to the accusative object, this 
+item is attracted to the location in which certain focus feature is licensed: v*P. Although the exhaustive listing 
+feature that comes from the accusative object is not met, this initial association might be negatively affecting the 
+scrambling of the accusative object as a whole to the CP area. Therefore, only the semantic feature of the accu-
+sative object is scrambled to the CP area, and the sound feature is read off at its base  position. Whether partial 
+feature scrambling is a viable option or not will not be further pursued, since it is outside the realm of this paper.  
+14 I would not call the scrambling of the nominative object to spec-FocP as covert, since it is pronounced at the 
+landing site. Maybe simple scrambling and the inverse scope (feature interpretation at the distinct position) might 
+be more appropriate word to describe this fact. 
+159
+[PDF PAGE 17]
+ 
+  
+Niinuma and Taguchi (2009) argue that the nominative object disallows NOM/GEN con-
+version when interpreted as an exhaustive-listing focus. For them, when the nominative object 
+bears a focus reading, this is considered an inherent Case (details aside).  Thus, the inherent 
+Case rejects case alternation. Note that the non-focused nominative object is considered to be 
+licensed by T, and bears a structural nominative Case for them. Hence, according to their 
+reasoning, the structural Case (neutral reading) does not prevent it from undergoing c ase al-
+ternation as in (24).  
+However, I would argue that what is reported in KJ is also happening in this case. Recall 
+from Moritake (2022) that no acts as an anti-focus marker in KJ, and if the nominative object 
+is marked with no, it is supposed to remain in the vP area in the root clause. The reason 
+NOM/GEN conversion is infelicitous in standard Japanese can be explained in the same manner. 
+Hence, even in a standard dialect, no can function as an anti-focus element in the embedded 
+object. Being non-focused, the no-marked object should be located in vP, as in KJ.  
+However, the so-called neutral description reading of nominative objects may not be that 
+common15. Even in cases where NOM/GEN conversion is allowed in the object position, as 
+presented above (24), my informants find the sentence odd. This may be related to generation 
+gap. In a recent study, NOM/GEN conversion decreased (Niikuni et al. 2017). If so, the younger 
+the informants, the more acceptability judgements might be influenced by this trend. However, 
+this prediction was not clearly observed, at least in the NOM/GEN conversion of subject nomi-
+nals by my informants. Even among younger informants, the NOM/GEN conversion of the 
+grammatical subject was not judged as ungrammatical16. However, a sharp dislike (degrada-
+tion) of acceptability was found for nominative object conversion. This indicates that there 
+might be an asymmetry between the NOM/GEN conversion of the subject and the object. Also, 
+no being an anti-focus maker in standard Japanese seems solid since when the nominative 
+object is directly followed by the focus sensitive particle like  dake ‘only,’ the acceptability 
+was lowest. Furthermore, even when the focus sensitive particle is not attached to it, if the 
+context enforces the focus meaning, no version of the object in the embedded situation receives 
+lower acceptability compared with the one without such a context. If this is on the right track, 
+then this fact lends further support to the proposed assumption that exhaustive-listing focus 
+prevents case alternation. This is incompatible with the anti-focus marker no and the KJ’s 
+morphological distinctions can be found in the SJ, especially in the embedded context. This 
+indirectly supports the view that a focus reading is licensed in the CP area of the matrix clause. 
+Furthermore, this may suggest that nominative objects are more likely to bear focus than sub-
+jects. Regarding the possibility of subject/object asymmetry in terms of the acceptability of 
+the NOM/GEN conversion, I would leave this for future work. 
+ Concluding Remarks 
+This study proposed possible adjustments to Moritake’s (2022) study. After observing 
+prior researchers’ analyses and their problems, I decided that the range of data covered in 
+Moritake (2022) was the most extensive. However, several aspects require adjustment. To 
+derive a more natural morphological word order, some adjustments we made to the composi-
+tion of the pre-syntactic morphological operation of v* and the stative/potential suffix. Instead 
+of an external pair-Merge, a more traditional morphological rule is adopted for this operation 
+to derive the same output. Other diversions can be found in the locus of the licensing position 
+ 
+15 Recall Matsui (2008) also claims that nominative objects have two readings: neutral description and exhaus-
+tive-listing readings (c.f. Kuno 1973). According to Matsui, with a certain stative predicate, the object can be 
+marked with nominative case, only when it has an exhaustive-listing focus reading.  
+16 As of 2025, my informants aged from 19 to 21 and it has been more than 15 years has passed from their article. 
+160
+[PDF PAGE 18]
+of the exhaustive-listing focus, as well as the topic: the treatment of the non-default readings, 
+the wide scope reading of the accusative object and the narrow scope reading of the nominative 
+object. In this process, I also provided another interpretation of the default reading of the nom-
+inative subject: the nominative subject is interpreted as a topic. I suggested that even in a 
+matrix clause, nominative case-marked elements can serve as topics. This alternative reading 
+supports the assumption that nominative objects tend to attract exhaustive-listing focus. I then 
+looked at cases where no was used as an anti-focus marker in the embedded object position in 
+SJ. This reveal ed that SJ has a morphologically distinct way of exhibiting the focused and 
+non-focused status of an object. I briefly touched on the issue of NOM/GEN conversion related 
+to the possibility of subject/object asymmetry. Although the implications are still speculative, 
+I was able make some natural adjustments to the precedent research’s account to further extend 
+the coverage of the analysis. 
+References 
+Bošković, Željko. 2015. On the timing of labeling: Deducing Comp-trace effects, the Subject Con-
+dition, the Adjunct Condition, and tucking in from labeling. Ms., University of Connecticut, 
+Storrs. 
+Epstein, Samuel D., Hisatsugu Kitahara & T. Daniel Seely 2016. Phase-Cancellation by Pair-
+Merge of Heads. The Linguistic Review 33, 87–102. 
+Hiraiwa, Ken. 2001. Multiple Agree and the Defective Intervention Constraint in Japanese. MIT 
+Working Papers in Linguistics 40, 67–80. 
+Iori, Isao. 1995. Ga-shitai and o-shitai: A note on Case-alternation in Japanese. Nihongo Kyooiku 
+86, 52–64.  
+Kasai, Hironobu. 2018. Case valuation after scrambling: Nominative objects in Japanese. Glossa
+127, 1–29. 
+Koizumi, Masatoshi. 1994. Nominative objects: The role of TP in Japanese. In Masatoshi Koizumi 
+& Hiroyuki Ura (eds.), Proceedings of the first formal approaches to Japanese linguistics 
+(FAJL 1), 211–230. Cambridge, MA: MITWPL. 
+Koizumi, Masatoshi. 2008. Nominative object. In Shigeru, Miyagawa & Mamoru, Saito (eds.),  
+The Oxford Handbook of Japanese Linguistics, 141–164. New York: Oxford University Press. 
+Kuno, Susumu. 1973. The Structures on Japanese Language. Cambridge, MA: MIT Press. 
+Maki, Hideki & Tamami Morishima. 2004. A statistical analysis of the Nominative/Accusative 
+alternation in Japanese: A preliminary study. Gifudaigaku chiikikagakubu kenkyuuhookoku 
+14, 49-86. http://hdl.handle.net/20.500.12099/4560. 
+Matsui, Haruko. 2008. Nominative objects restriction in Japanese causative constructions. Tsu-
+kuba oyoo gengogaku kenkyu [Tsukuba applied linguistic research], 15 101–14. 
+Mihara, Kenichi. 2022. Nihongo Koobun Taizen Vol. 2. [The Encyclopedia of Japanese Construc-
+tions Dai 2 kan.] Tokyo: Kuroshio Publisher.  
+Miyagawa, Shigeru. 2001. The EPP, scrambling, and WH-in-situ. In Michael, Kenstowicz (ed.), 
+Ken Hale: A Life in Language, 293–338. Cambridge, MA: MIT Press.  
+Miyagawa, Shigeru. 2012. Case, argument structure, and word order. New York: Routledge. 
+Miyagawa, Shigeru, Danfeng, Wu, & Masatoshi, Koizumi. 2019. Inducing and blocking labeling. 
+Glossa 141, 1–26. 
+Moritake, Nozomi. 2022. A focus-based analysis of Nominative objects in Japanese. Lingua 278, 
+1-31. 
+Nambu, Satoshi, Shin-ichiro Sano, & David Yoshikazu Oshima. 2020. The Nominative-to-Accu-
+sative shift in Modern Japanese: A diachronic observation. In Shin Fukuda, Shoichi Iwasaki, 
+161
+[PDF PAGE 19]
+Sun-Ah Jun, Sung-Ock Sohn, Susan Strauss, and Kie Zuraw (eds.), In Proceedings of the 
+26th Japanese/Korean Linguistics Conference. 1–12. CSLI Publications. https://web.stan-
+ford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK26/Nambu.pdf. 
+Niikuni, Keiyu, Yuuich, Wada, & Yoshiki. Ogawa 2017. Nominative-Genitive Conversion and 
+Language Change Still in Progress: Evidence from Acceptability Judgements by Different 
+Age Groups. Cognitive Studies, 24 (3), 395–409. 
+Niinuma, Fumikazu & Shigeki Taguchi. 2006. The Licensing of Nominative Case in Japanese: 
+Evidence from Ga/No Conversion. Proceedings of the 8th Seoul International Conference on 
+Generative Grammar 197–212.  
+Niinuma, Fumikazu & Shigeki Taguchi. 2009. On the relationship between Nominative Objects 
+and Major Subjects in Japanese. Language & Information Society 10, 121–145. 
+Nishioka, Nobuaki. 2019. Discourse-configurationality and the scope of negation. Nanzan Lin-
+guistics 14, 25–55. 
+Nomura, Masashi. 2005. Nominative case and agree(ment), Doctoral dissertation, University of 
+Connecticut. 
+Oe, Saburo. 1973. Ganbo-no tai no maedeno o to ga no kootai. [ga/no conversion before desider-
+atives.] Bungakukenkyu 70, 1–11. 
+Paillé, Mathieu. 2021. Tucking-in and pivot-third word order. In Henrison, Hsieh & Keely New 
+(eds.), Proceedings of the Twenty-Seventh Meeting of the Austronesian Formal Linguistics 
+Association (AFLA), 83–97. London, ON: University of Western Ontario. 
+Rizzi, Luigi. 2006. On the Form of Chains: Criterial Positions and ECP effects. In Wh-Movement: 
+Moving on, ed. by Lisa Cheng and Norbert Corver, 97-133, Cambridge, MA: MIT Press. 
+Saito, Mamoru. 2016. (A) case for labeling: Labeling in languages without phi-feature agreement. 
+The Linguistic Review 33. 129–175. 
+Ueno, Takafumi. 2017. Nihongoniokeru wa-ku to ga-kaku no toogo kinoonitsuite: Itariagono CP 
+Layer tono taishoo. [The Syntactic Function of “Wa” Phrases and the “Ga” Case in Japanese: 
+Contrastive Study of the CP Layer with Italian.] Hiroshima daigaku bungakukenkyuka ron-
+shuu,[Hiroshima university school of letters collected papers] Vol. 77, 31–50. 
+Williams, Edwin. 1981. On the Notions of Lexically Related and Head of a Word. Linguistic In-
+quiry, 12, 245–274. 
+Zeijlstra, Hedde. 2012. There is only one way to agree. The Linguistic Review, 29 (3), 491–539. 
+Radio Program 
+Ishida, Michiyo. 2023. NHK radio mainichi hangul kooza [everyday Korean lesson], lesson 58, 
+June, 28th. 
+162

@@ -1,0 +1,166 @@
+<h2>The data table</h2>
+<div id="options" style="display: grid; width: 450px;">
+    <div>
+        <span><label for="russian_meta">Show Russian meta columns: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+    </div>
+</div><br/>
+<div id="table"></div>
+<script>
+    function addSmallCaps(str) {
+        // Remove personal names from Hebrew.
+        str = str.replace(/(Pinchas)|(Menachem)|(Miriam)/g, 'PN');
+
+        let re = /([A-Z]+\d*)/g,
+            result = str;
+        // Replace longest matches first.
+        let matches = Array.from(str.matchAll(re));
+        for (let i = matches.length-1; i >= 0; i--) {
+            matches[i] = matches[i][0];
+        }
+        matches.sort((a, b) => {
+            if (a.length > b.length)
+                return -1;
+            else if (a.length < b.length)
+                return 1;
+            else
+                return 0;
+        })
+        for (const match of matches) {
+            result = result.replace(
+                match,
+                `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
+        }
+        return result;
+    }
+
+    let DataFrame = dfjs.DataFrame,
+        // Add a dummy destroy method for the first redraw.
+        table = {
+            destroy: () => {}
+        },
+        showRussianMeta = false;
+
+    // For column subsetting.
+    let columnNames = fullData[0];
+    fullDf = new DataFrame(
+        fullData.slice(1),
+        columnNames
+    );
+
+    function getLanguageLink(lang_external) {
+        const iidx = languageData[0].indexOf('language'),
+            eidx = languageData[0].indexOf('language_external');
+        let language;
+        for (const row of languageData) {
+            if (row[eidx] === lang_external) {
+                language = row[iidx];
+                break;
+            }
+        }
+        if (language === undefined)
+            throw `Could not locate language ${lang_external} in the language table.`;
+        return `<a class="table-link" href="../../languages/descriptions/${language}.html">link</a>`
+    }
+
+    function getPredicateLink(predicate) {
+        let filename = predicate.replace(/[# ]/g, '') + '.html';
+        return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
+    }
+
+    function redraw() {
+        showRussianMeta = byId('russian_meta').checked;
+
+        // Show/hide Russian meta.
+        let cols = [];
+        for (const col of fullDf.listColumns()) {
+            if (col === 'predicate_label_ru' ||
+                col === 'glosses_ru' ||
+                col === 'back_translation_ru') {
+                if (byId('russian_meta').checked)
+                    cols.push(col);
+            } else {
+                cols.push(col);
+            }
+        }
+
+        // Add link columns
+        let currentDf = fullDf.select(...cols);
+        const langIdx = cols.indexOf('language');
+        cols.splice(langIdx+1, 0, 'language_link');
+        const predicateIdx = cols.indexOf('predicate');
+        cols.splice(predicateIdx+1, 0, 'predicate_link');
+        currentDf = currentDf.restructure(cols);
+
+        // Process glosses and links
+        currentDf = currentDf.chain(
+            row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))),
+            row => row.set('language_link', getLanguageLink(row.get('language'))),
+            row => row.set('predicate_link', getPredicateLink(row.get('predicate')))
+        );
+        if (byId('russian_meta').checked)
+            currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
+
+        let columns = cols.map(
+            colname => colname === 'glosses_en' ||
+                       colname === 'glosses_ru' ||
+                       colname === 'language_link' ||
+                       colname === 'predicate_link' ||
+                       colname === 'comments' ?
+                {renderer: 'html'} :
+                {renderer: 'text'}
+            );
+
+        let colnames = cols.map(colname => {
+            switch (colname) {
+                case 'language':
+                case 'predicate':
+                case 'verb':
+                case 'locus':
+                case 'sentence':
+                case 'comments':
+                    return colname.charAt(0).toUpperCase() + colname.slice(1);
+                case 'language_link':
+                case 'predicate_link':
+                    return 'Link';
+                case 'valency_pattern':
+                    return 'Valency pattern';
+                case 'glosses_en':
+                    return 'Glosses';
+                case 'back_translation_en':
+                    return 'Back translation';
+                case 'glosses_ru':
+                    return 'Russian glosses';
+                case 'back_translation_ru':
+                    return 'Back translation to Russian';
+                case 'verb_original_orthography':
+                    return 'Verb in original orthography';
+                case 'sentence_original_orthography':
+                    return 'Sentence in original orthography';
+                case 'predicate_label_ru':
+                    return 'Russian predicate tag'
+                default:
+                    return colname
+            }   
+        })
+
+        let container = byId('table');
+
+        table.destroy();
+        table = new Handsontable(container, {
+            licenseKey: 'non-commercial-and-evaluation',
+            data: currentDf.toArray(),
+            colHeaders: colnames,
+            editor: false,
+            rowHeaders: false,
+            filters: true,
+            dropdownMenu: [
+                'filter_by_condition',
+                'filter_by_value',
+                'filter_action_bar'
+            ],
+            columns: columns,
+            columnSorting: true
+        });
+    }
+    document.addEventListener('DOMContentLoaded', redraw);
+</script>

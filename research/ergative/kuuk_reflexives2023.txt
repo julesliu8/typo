@@ -1,0 +1,857 @@
+[PDF PAGE 1]
+Chapter 22
+Reflexive constructions in Kuuk
+Thaayorre
+Alice R. Gaby
+Monash University
+Kuuk Thaayorre is an Aboriginal language of the west coast of Cape York Penin-
+sula, Australia. Self-directed events may be described by a number of distinct Kuuk
+Thaayorre constructions, which may include one or more of the following forms:
+a reflexive voice suffix on the verb (-e); a reciprocal voice suffix on the verb (-rr);
+a reflexive pronoun, a self-intensifier pronoun; or an inherently reflexive verb. Al-
+ternatively, overt marking of reflexivity may be absent, with the self-directedness
+of the event left to inference. In addition to providing an overview of the various
+forms of reflexive marking in Kuuk Thaayorre, this chapter surveys the range of
+event types encoded by these forms. For example, the verbal reflexivizer often sig-
+nals that multiple argument roles map to the subject argument, whether agent +
+patient, agent + beneficiary, agent + causer, and more. In many cases, it is only a
+subset (e.g. a body part) or the agent-subject that is acted upon, so the coreference
+of agent and patient roles is incomplete. In other cases, reflexive forms are used to
+signal the subject argument’s heightened involvement in and/or affectedness by
+the event, whether or not they are agent of that event. Lastly, just as reciprocal
+morphology is found in the description of some reflexive events, so too is the ver-
+bal reflexivizer employed to describe some reciprocal events. This curious pattern
+of polyfunctionality may find its origins in the deep history of these forms; the
+final section of this chapter considers possible cognates and the semantic ranges
+of reflexive forms across the Pama-Nyungan family and the Australian continent
+more broadly.
+1 Introduction
+Kuuk Thaayorre is the language of the Thaayorre people, whose lands include
+the Aboriginal Shire of Pormpuraaw on the west coast of Australia’s Cape York
+Alice R. Gaby. 2023. Reflexive constructions in Kuuk Thaayorre. In Katarzyna
+Janic, Nicoletta Puddu & Martin Haspelmath (eds.),Reflexive constructions in
+the world’s languages, 567–585. Berlin: Language Science Press.DOI: 10.5281/
+zenodo.7874972
+
+[PDF PAGE 2]
+Alice R. Gaby
+Peninsula (see Figure1). It belongs to the Paman subgroup of the Pama-Nyungan
+language family. While some children are presently growing up as fluent speak-
+ers of Kuuk Thaayorre, the various policies promoting English through church,
+school and government services since colonization have had a dramatic impact
+upon language transmission. The number of people for whom Kuuk Thaayorre is
+a language of daily communication is declining, currently estimated at ~200. This
+chapter draws on narratives, recorded conversations and elicited data, which I
+compiled in collaboration with more than 30 Kuuk Thaayorre language experts
+between 2002 and 2008. It also draws on the rich example sentences included
+in Hall’s (1968, 1972) theses and a dictionary created by Hall and Tom Foote1
+(Foote & Hall 1992). Dictionary examples were neither glossed nor translated in
+the original; glosses and translations are provided by the present author, and
+some examples modified to align with the orthography and morphological anal-
+ysis adopted throughout this chapter. The transcriptions and glosses of examples
+from the theses Allen Hall have been likewise modified for orthographic and/or
+analytical consistency.
+CC-BY-SA Sebastian Nordhoff, base map byhttps://commons.wikimedia.org/wiki/user:lokal_profil
+https://upload.wikimedia.org/wikipedia/commons/2/25/Australia_map%2C_States-simple.svg
+Figure 1: Map of Australia, showing location of Pormpuraaw
+Kuuk Thaayorre is a predominantly dependent-marking language. The core
+syntactic functions are signalled by the case-marking of noun phrases, and op-
+tionally by pronominal enclitics to the verb. The redundant apposition of coref-
+erential pronouns and noun phrases is a common rhetorical device. Conversely,
+1Mr Tom Foote was a Kuuk Thaayorre language expert and teacher in the school bilingual
+program.
+568
+[PDF PAGE 3]
+22 Reflexive constructions in Kuuk Thaayorre
+core arguments are freely and frequently elided; neither subject nor object needs
+to be overtly realized in the clause. Word order is not employed to distinguish
+grammatical relations; subject, object and verb may occur in any order. Order
+within the noun phrase is more fixed, and only the final2 constituent of an NP in-
+flects for case. For nouns, the ergative case distinguishes transitive subjects from
+unmarked (absolutive) transitive objects and intransitive subjects. For pronouns,
+the accusative form of transitive objects is distinguished from the nominative
+(transitive and intransitive) subject form.
+§2 begins with an overview of the Kuuk Thaayorre personal pronominal par-
+adigm (§2.1), before detailing the forms of the reflexive pronouns (§2.2). §2.3
+presents the Kuuk Thaayorre self-intensifier pronouns which, while they do
+not encode reflexivity as such, feature in clauses that would be translated by
+reflexive clauses in some other languages. The next section (§3) moves to con-
+sider verbal coding of reflexivity. Kuuk Thaayorre verbs obligatorily inflect
+for tense/aspect, in addition to hosting optional person-number enclitics cross-
+referencing the subject and/or object. Derivational morphology on the verb in-
+cludes a valency-increasing (causative/applicative) morpheme, two associated
+motion morphemes, the reflexive voice suffix (§3.1), and the reciprocal voice suf-
+fix (§3.2). §4 follows with an overview of the range of event types coded by reflex-
+ive forms, including seemingly reciprocal events (§4.6). §5 considers the converse;
+the use of reciprocal morphology to code self-directed events. Reflexive marking
+can be said to be optional, inasmuch as there is no one-to-one correspondence
+between reflexive semantics and the verbal reflexivizer and/or reflexive pronoun.
+§6 concludes the chapter with a consideration of Kuuk Thaayorre reflexive con-
+structions in the comparative context of Australian Aboriginal languages more
+broadly.
+2 Pronouns
+2.1 Personal pronouns
+The Kuuk Thaayorre paradigm of personal pronouns distinguishes 1st/2nd/3rd
+person and singular/dual/plural number. Inclusive/exclusive 1st person pronouns
+are distinguished for nonsingular numbers. The nominative forms of each per-
+son/number/clusivity combination are presented in Table1.
+Personal pronouns inflect for case, reflecting the role of the pronoun in the
+clause. As mentioned in §1), the same case form (nominative) is used for both
+2Except where the final constituent is an adnominal demonstrative, in which case the penulti-
+mate constituent inflects for case.
+569
+[PDF PAGE 4]
+Alice R. Gaby
+Table 1: Kuuk Thaayorre personal pronouns (nominative case forms)
+1st person 2nd person 3 rd person
+sg ngay nhunt nhul
+du ngal (inclusive), ngali (exclusive) nhip pul
+pl ngamp (inclusive), ngancn (exclusive) nhurr peln
+Table 2: 1st person singular pronouns (all cases)
+nom ngay
+acc nganh
+gen ngathn
+dat ngathun
+abl ngathnma
+intransitive and transitive subjects. This and the further four case forms are il-
+lustrated for the 1st person singular pronoun in Table2.
+2.2 Reflexive pronouns
+The etymology of reflexive pronouns is evident from their formal resemblance
+to the corresponding genitive and nominative pronoun forms, as demonstrated
+in Table3.
+Table 3: Singular pronouns (reflexive, genitive, and nominative forms)
+Reflexive Genitive Nominative
+1sg ngathnay ~ngathney ngathn ngay
+2sg nhangknunt nhangkn nhunt
+3sg nhangnul nhangn nhul
+Table 3 represents the full set of attested reflexive pronouns, which can be said
+to distinguish number only inasmuch as they require a singular interpretation.3
+3In special cases, a singular number reflexive pronoun appears in a clause with a non-singular
+subject, see §5 discussion.
+570
+[PDF PAGE 5]
+22 Reflexive constructions in Kuuk Thaayorre
+There are no nonsingular (dual or plural) reflexive pronouns; reflexive clauses
+with nonsingular subjects are coded as such by other means (e.g. the verbal re-
+flexivizer, verbal reciprocalizer, a lexical reflexive verb, but not a non-reflexive
+object pronoun), or left to inference (seeHaspelmath 2023: section n. [this vol-
+ume]).
+Reflexive pronouns may be the sole marker of a reflexive clause (1),4 or they
+may combine with the verbal reflexivizer (or reciprocalizer, §5) to reinforce the
+reflexive meaning (2).
+(1) ngay
+1sg(nom)
+wash-m
+wash-tr
+rirk-r
+do-pst.pfv
+ngathney
+1sg.refl
+‘I washed myself. ’ [GJ25Oct2002, Elicitation]
+(2) ngay
+1sg(nom)
+yup
+soon
+ngathnay
+1sg.refl
+rinth-e-nha
+squeeze-refl-sbjv
+‘I want to squeeze my [blackhead]. ’ (Hall 1972: 121)
+Indeed, due to the frequent repetition of noun phrases noted above, it is not
+unusual for the same reflexive pronoun to appear more than once in the same
+clause, with or without a co-occurrent verbal reflexivizer, as in (3).
+(3) nhul
+3sg(nom)
+nhangnul
+3sg.refl
+nhaanhath-e
+look.at-refl:npst
+nhangnul
+3sg.refl
+koowmiing
+face(abs)
+‘he is looking at his face (in a mirror). ’ (Hall 1972: 379)
+The combination of Kuuk Thaayorre’s flexible constituent order, the ambiva-
+lent transitivity of reflexive clauses (§3.1), the frequent apposition of coreferential
+noun phrases, and /or argument ellipsis, makes it difficult to establish whether
+reflexive pronouns occupy subject, object or oblique position. Their formal re-
+semblance to the nominative case personal pronouns might suggest they are
+apposed to the subject argument. However, this is insufficient reason to posit
+Kuuk Thaayorre as an exception to the strong typological tendency for reflexive
+pronouns to fill the object or oblique position.
+2.3 Self-intensifier pronouns
+Kuuk Thaayorre intensifier pronouns are formed by the reduplication of the nom-
+inative case form of the corresponding personal pronoun plus suffixation of a
+rhotic (either a retroflex approximant or tap/trill, depending on the pronoun).
+4In (1), rirk is a light verb frequently used with English loan verbs.
+571
+[PDF PAGE 6]
+Alice R. Gaby
+These pronouns do not encode reflexivity as such. However, events that are de-
+scribed by means of reflexive clauses in other languages may be described by
+clauses including a self-intensifier pronoun in Kuuk Thaayorre. In particular, self-
+intensifiers may be used to stress the lack of involvement of any external agent
+in (‘extroverted’) events that typically involve transfer of energy. For example,
+(4) was uttered in the description of an elicitation video stimulus that presented
+a piece of cloth spontaneously tearing down the middle, as if by magic (note: the
+translation is given in the original speaker’s own words).
+(4) mimp
+cloth(abs)
+ith
+that
+nhulnhulr
+3sgemph
+thaariic-r
+tear-pst.pfv
+‘that piece of material is tearing up itself. ’ [EN03Dec2002, Elicitation]
+While the inanimate piece of cloth does not truly act upon itself in a canonical
+reflexive sense, it is notable that the speaker employs a reflexive clause in her
+English description of the same clip.
+3 Verbs
+The primary means of coding reflexivity are the reflexive pronouns (introduced
+above; §2.2) and the verbal reflexivizer (§3.1). However, self-directed actions may
+be also encoded by reciprocal morphology (§3.2) and both non-reflexive and in-
+herently reflexive verbs (§3.3).
+3.1 Verbal reflexivizer
+The Kuuk Thaayorre reflexive voice marker (or “reflexivizer”) takes the form of
+a derivational suffix with allophones -e and -ey. It occupies the same position
+in the verb as the reciprocalizer and valency-increasing morpheme, immediately
+following the verb root (plus verbalizer, for denominal verbs), as in (5).5
+(5) yuur
+hand(abs)
+yak-ey-r
+cut-refl-pst.pfv
+‘[she] cut [her] hand. ’ [EF15Dec2002, Elicitation]
+5Note that the body part apposition construction, in which the body partyuur ‘hand’ is here ap-
+posed to the whole/possessor/subject in the same case, is analogous to the ‘external possession’
+constructions of other languages. This construction is considered further in §4.3.
+572
+[PDF PAGE 7]
+22 Reflexive constructions in Kuuk Thaayorre
+The reflexivizer must precede any tense/aspect/mood inflection and, where
+present, the associated motion suffixes. The reflexivizer and valency-increasing
+morpheme may combine in either order (6), but the reflexivizer and reciprocalizer
+do not co-occur in the same verbal word (seeGaby & Kuuk Thaayorre language
+experts 2017: 292–300).
+(6) ngay
+1sg(nom)
+ngathney
+1sg.refl
+mungka-n-ey-r
+consume-v^-refl-pst.pfv
+merrethen
+medicine(abs)
+‘I made myself swallow the medicine. ’ (Hall 1972: 392)
+The effect of reflexive derivation on clausal transitivity is not straightforward.
+In transitive clauses, a subject NP receives ergative case-marking. Following re-
+flexivization, this subject NP is typically in unmarked absolutive case, as in (7).
+(7) kuta
+dog(abs)
+ngith
+that
+pathath-e
+bite:rdp-refl:npst
+‘that dog is biting himself. ’ [AC21Aug2002, Conversation]
+However, in other cases the ergative marking is retained. This is usually the
+case when the clause includes an overt object (as in8) or instrument (as in9).6
+(8) John-i
+John-erg
+yuur
+hand(abs)
+theerng-ey-r
+hit-refl-pst.pfv
+‘John hit himself on the hand. ’ [GJ11Jan2004, Elicitation]
+(9) John-i
+John-erg
+yuur-u
+hand-erg
+theerng-ey-r
+hit-refl-pst.pfv
+‘he hit himself with [his own] hand. ’ [GJ11Jan2004, Elicitation]
+However, it is not as simple as the presence/absence of an overt object argu-
+ment determining the presence/absence of ergative marking on the subject. In
+examples like (10), the subject is in absolutive case in spite of the presence of an
+absolutive-case object NP,yiin ‘itch’.
+(10) kuta
+dog(abs)
+ith
+that
+yiin=p
+itch(abs)=prag
+pathath-e
+bite:rdp-refl:npst
+‘that dog keeps biting itself. ’ [AC21Aug2002, Conversation]
+6Note that instrumental adjuncts also receive ergative case-marking in Kuuk Thaayorre.
+573
+[PDF PAGE 8]
+Alice R. Gaby
+Mixed indicators of transitivity are found in reciprocal as well as reflexive
+clauses in Kuuk Thaayorre and many other Australian Aboriginal languages, as
+discussed in detail byEvans et al. (2007). “Optional ergativity” – i.e. the ergative
+marking of some intransitive subjects and/or lack of ergative marking of some
+transitive subjects – is also a broader feature of Kuuk Thaayorre grammar (see
+Gaby 2008b, 2010).
+3.2 Verbal reciprocalizer
+The reciprocalizer,-rr, occurs in the same position in the verb as the reflexivizer
+(§3.1). While it primarily functions to encode symmetric (“reciprocal”) events,
+such as (11), the verbal reciprocalizer is also found in the description of self-
+directed (“reflexive”) events, such as (12–13).7
+(11) Harry
+Harry
+pul
+du(nom)
+Micki-n
+Micky-erg
+melnkelnkarr
+tomorrow
+nhaath-rr-nan
+see-recp-go&
+‘Harry and Micky will see each other tomorrow. ’ [EF15Dec2002,
+Elicitation]
+(12) peln
+3pl(nom)
+nhangnma
+3sg.abl
+koowmiing
+face(abs)
+reepon-rr-nam
+hide-recp-p.ipfv
+‘they were hiding their faces from him. ’ (Hall 1972: 392)
+(13) iirra
+to.there
+thakrwuthurr
+promptly
+yarr
+go-imp
+meeren-rr-nan
+show-recp-go&
+pam
+man
+pork-a
+big-dat
+‘go and report to the boss immediately. ’ (Foote & Hall 1992: 333)
+Further, a number of lexicalized, semantically reflexive verbs exhibit what ap-
+pears to be a relic of the verbal reciprocalizer. Compare, for example,wothoth
+‘wipe’ versuswothothrr ‘wash oneself’, orpuunm ‘pity’ versuspuunmrr ‘grieve’
+(Foote & Hall 1992: 310). §5 describes the range of self-directed actions marked
+by the reciprocalizer.
+3.3 Non-reflexive and inherently reflexive verbs
+Introverted verbs expressing autopathic actions are typically expressed by non-
+reflexive clauses. For example, descriptions of dressing are never marked by ei-
+ther the pronominal or verbal reflexivizer, but rather by means of the verbrok
+7Note that (13) involved a trivalent verb, where the reciprocalizer binds the direct object, what
+is shown, rather than the recipient, to whom it is shown.
+574
+[PDF PAGE 9]
+22 Reflexive constructions in Kuuk Thaayorre
+‘enter’. In its basic usage, this verb’s argument structure comprises an intransitive
+subject (encoding the theme) and dative-marked oblique argument (encoding the
+goal), as seen in example (14) below. In descriptions of dressing and adornment,
+however, the agent-theme is encoded as intransitive subject (in nominative/ab-
+solutive case) but the article of clothing/adornment is encoded as direct object
+(in absolutive case). This verb is used even in cases such as (15), where the agent-
+subject does not truly ‘enter’ the glasses in the way that one enters a dress or
+coat.
+(14) hall-ak
+hall-dat
+ulp=okun
+dem:adr.prox=dub
+rok-nhan
+enter-go:npst
+‘they might go into the hall [in a cyclone]. ’ [GJ03Apr2004, Conversation]
+(15) nhul
+3sgnom
+meer+kay
+eye+metal(abs)
+rok-r
+enter-pst.pfv
+‘he put on glasses. ’ [GJ18Jan2004, Elicitation]
+In conservative varieties of Kuuk Thaayorre, autopathic events of washing are
+described by means of the non-reflexive compound verbskoo+munth ‘wash one’s
+own face’ (cf.koow ‘nose, upper face’,munth ‘sink’) andminc+munth ‘wash one-
+self’ (cf.minc ‘body’). Younger speakers, however, commonly employ the English
+loan wash (paired with the light verb obligatory for loan verbs) and a reflexive
+pronoun, as in (1) above. Kuuk Thaayorre possesses several “inherently reflex-
+ive” verbs; extroverted and introverted verb roots ending in /e/, which is likely a
+frozen relic of the verbal reflexivizer. For example,koope ‘wait’;kongke ‘copulate’
+(Foote & Hall 1992: 218);ngaathe ‘feel, experience’; andwene ‘become’.
+4 Reflexive functions
+Across all its uses, the reflexive pronoun marks that the agent-subject is affected
+by their own actions. No such monosemous definition is available for the verbal
+reflexivizer, which spans a range of functions as outlined below. The reflexive
+pronoun appears with many of these functions, too, but always contributing the
+meaning that the agent is affected by their own actions. We begin in §4.1 with
+a consideration of the core reflexive function; indicating coreference of agent-
+subject and patient. We then move to consider cases of coreference between the
+agent-subject and three different oblique argument roles; the beneficiary/mal-
+eficiary (§4.2.1), causer (§4.2.2), and recipient (§4.2.3). §4.3 details the reflexive
+coding of events in which the agent-subject moves their whole body, or acts
+575
+[PDF PAGE 10]
+Alice R. Gaby
+upon one body part in particular. §4.4 considers the use of reflexive marking to
+emphasize that the agent-subject is intensely involved in and/or affected by the
+action they take. §4.5 surveys the passive-like function of reflexive marking to
+foreground an affected patient (in the absence of any syntactic passive operation).
+Lastly, §4.6 demonstrates the use of reflexive morphology to encode apparently
+reciprocal events.
+4.1 Coreference of agent-subject and patient
+Under the working definition of reflexivity adopted here, the core function of
+reflexive marking is to indicate coreference of the two argument roles that would
+map to the subject and direct object of the non-reflexivized verb respectively.
+Thus, in example (16), the one man both touches and is touched, and in (17) the
+one man both pities and is pitied.
+(16) nhul
+3sg(nom)
+yarriy
+thus
+katp-ey-r,
+grasp-refl-pst.pfv
+‘iitharrkoo,
+wow
+kam
+blood
+inh!’
+dem:sp.prox
+‘he touched himself like this [and realized] “hey, there’s blood here!”’
+[GJ03Feb2004, Narrative DarwinTrip]
+(17) nhangnul
+3sg.refl
+puunm-rr-r
+pity-recp-pst.pfv
+‘[he] pitied himself. ’ (Foote & Hall 1992: 310)
+This subject-object coreference may be coded by the verbal reflexivizer (16), re-
+flexive pronoun (22 below), both (2 above) or some other combination of markers,
+such as reflexive pronoun plus verbal reciprocalizer (17).
+4.2 Coreference of agent and an oblique role
+4.2.1 Agent + beneficiary/maleficiary
+As well as signalling the coreference of agent and patient arguments, the reflexive
+pronoun may be used to indicate that the agent-subject is also the beneficiary of
+their own action. This function, illustrated by example (18), is only attested for
+the reflexive pronoun, not the verbal suffix.
+(18) ngay
+1sg(erg)
+ngok
+water(acc)
+mi’irr
+pick.up.pst.pfv
+ngathaney
+1sg.refl
+‘I got myself some water. ’ (Hall 1972: 379)
+576
+[PDF PAGE 11]
+22 Reflexive constructions in Kuuk Thaayorre
+Attribution of the converse maleficiary role to the agent-subject may likewise
+be indicated by the pronominal, but not verbal, reflexivizer, as shown in (19).
+(19) plate
+plate(acc)
+ulp
+dem:adr.prox
+nhangnul
+3sg.refl
+thiika-rr
+break-pst.pfv
+‘[that kid] broke his own plate. ’ [GJ12Jan2004, Elicitation]
+On first glance, the reflexive pronoun in (19) might be thought to mark the
+agent-subject as the possessor of the patient, rather than a negatively-affected
+maleficiary. However, the coreference of agent-subject and possessor of the pa-
+tient-object is not signalled by reflexive marking where the agent is not also
+beneficiary or maleficiary. Such possessors are encoded by the standard genitive
+pronouns, as in (20).
+(20) pamthaaw
+friend
+nhangn
+3sg.gen(abs)
+kaar
+neg
+nhaawr
+see:pst.pfv
+nhul?
+3sg(nom)
+‘didn’t he see his friends?’ (Hall 1972: 65)
+4.2.2 Agent + causer
+The Kuuk Thaayorre valency-increasing morpheme (glossed v^) makes intran-
+sitive verb roots transitive and transitive verb roots ditransitive by adding an
+argument with a semantic role determined by the verb root. Where it is a causer
+that is introduced, the causer (now encoded as subject) may be marked as coref-
+erential with the causee-agent by means of the verbal reflexivizer, as in (21).
+(21) ngay
+1sg(erg)
+ngathney
+1sg.refl
+mungka-n-ey-r
+consume-v^-refl-pst.pfv
+merrethen
+medicine(acc)
+‘I made myself swallow the medicine. ’ (Hall 1972: 392)
+4.2.3 Agent + recipient
+My corpus contains no examples of the verbal reflexivizer being used to mark
+coreference of agent-subject and recipient. This is a function generally achieved
+by means of the reflexive pronoun, as seen in (22).
+(22) nhul
+3sg(nom)
+nhangnul
+3sg.refl
+riiranmrr
+alone
+yik-r
+say-pst.pfv
+‘he talks [sic] to himself alone. ’ (Hall 1972: 503)
+577
+[PDF PAGE 12]
+Alice R. Gaby
+4.3 Body-part and whole body actions
+Many reflexive clauses describe the agent-subject acting upon a part of their own
+body. There is thus only partial coreference of agent and patient arguments in
+examples like (23).
+(23) pam-al
+man-erg
+ith
+that
+koow
+nose(abs)
+katpatp-e
+grasp:rdp-refl:npst
+‘that man is holding [his] nose. ’ [FT10Feb2004, RcpPilot8]
+The body part may have the role of instrument (aligning with the agent), rather
+than patient, as seen in examples (8–9) above and (24) below. As with core re-
+flexive clauses, the partial coreference of agent and body part patient/instrument
+may be signalled by a range of forms (alone or in combination), including the ver-
+bal (23) and pronominal (24) reflexivizers.
+(24) parr-an
+child-erg
+nhul
+3sg(nom)
+yangkar
+leg(abs)
+wiiyth
+sore(abs)
+thaa+rinthi-rr
+mouth+squeeze-pst.pfv
+yuur-u
+hand-erg
+nhangnul
+3sg.refl
+‘the boy squeezed himself on the leg with his finger. ’ (Hall 1972: 379)
+Events which may be framed as an agent’s reflexively acting upon their own
+body part in other languages are instead expressed via same-case apposition of
+the noun phrases representing whole and part in Kuuk Thaayorre. Thus in (25),
+both the whole dog (as agent) and his head part (as theme) are encoded by distinct
+noun phrases in the nominative case assigned to the subject ofrok ‘enter’ (see
+§3.3 for further discussion of this verb). (For a detailed description of part-whole
+apposition in Kuuk Thaayorre, seeGaby & Kuuk Thaayorre language experts
+2017: 237–240).
+(25) kuta
+dog(nom)
+nhul
+3sg(nom)
+paant
+head(nom)
+glass-ak
+glass-dat
+rok-r
+enter-pst.pfv
+‘the dog put his head into the jar. ’ [MF17Sep2002, Narrative FrogStory]
+Actions affecting a body part are not always clearly distinguishable from ac-
+tions affecting the whole body. For example, the subject participant of (16) above
+only touched one part of himself (his arm), but this body part was not explicitly
+mentioned. In other cases, such as (26), it is clearly, though implicitly, the agent’s
+whole body that is affected by their action.
+578
+[PDF PAGE 13]
+22 Reflexive constructions in Kuuk Thaayorre
+(26) nhunt
+2sg(nom)
+koorrkorr
+behind:rdp
+thaat
+wide
+pirk-rr
+push-recp:imp
+ngathun
+1sg.dat
+‘move yourself along there a bit for me. ’ (Hall 1972: 446)
+4.4 Intensification/affected agent
+The etymological connection between self-intensifiers and reflexive pronouns
+has been well documented (Faltz 1985; König & Siemund 2000), though we have
+already seen that the Kuuk Thaayorre reflexive pronouns are distinct from the
+paradigm of self-intensifier pronouns (§2.2 and §2.3). The verbal reflexivizer,
+however, can be used with an effect of intensification. Compare, for example,
+(27) below with the English reflexive expression ‘to eat oneself sick’.8
+(27) nhunt
+2sg(nom)
+thaaw+murm
+mouth+sink
+paath-ey-r
+bite-refl-pst.pfv
+may-im
+veg-abl
+‘You really hogged into that food [i.e. ate greedily] you did. ’ (Hall 1972:
+504)
+4.5 Medio-passive
+Unsurprisingly, given the ergative-absolutive case frame of noun-headed NPs
+and the free ellipsis of core arguments, Kuuk Thaayorre has no syntactic oper-
+ation akin to a passive. However, the reflexive voice may be employed to fore-
+ground the affected patient in a passive-like construction (Geniušienė 1987; Kem-
+mer 1993), as seen in examples (28–29).
+(28) nhul
+3sg(nom)
+Jesus
+Jesus(abs)
+werngka
+middle
+yongk-e-nham
+hang-refl-pst.ipfv
+‘Jesus was hanging in the middle. ’ (Hall 1972: 137)
+(29) yangan
+hair(abs)
+kaal-ak
+ear-dat
+kath-ey-r
+bind-refl-pst.pfv
+‘[his] hair was tied over [his] ears. ’ [GJ15Oct2002, Elicitation BowPed46]
+Note that the (unmarked) absolutive case form ofyangan ‘hair’ in (29) permits
+two syntactic analyses. Under the first,yangan is the direct object representing
+the patient affected by the actions of some unmentioned agent (i.e ‘[someone]
+tied [his] hair over [his] ears’). Under the second,yangan is either the intransitive
+subject, possibly in apposition to an elided NP representing the whole agent-
+subject (i.e. ‘[he] tied [his own] hair over [his] ears’).
+8Generic nouns, such asmay ’vegetable food’ in (27), are glossed in small caps.
+579
+[PDF PAGE 14]
+Alice R. Gaby
+4.6 Reciprocal use of the reflexivizer
+Where a reflexive-marked verb combines with a non-singular subject, it is not
+necessary that both agent and patient roles be ascribed to each participant en-
+coded as subject, it is sufficient that just one participant is both agent and patient
+of the action described. Example (30), for instance, could describe a single woman
+painting both herself and her sister, according to the language expert consulted.
+(30) ngali
+1du:excl(nom)
+muul-thurr
+white.ochre-erg
+werk-ey-r
+rub-refl-pst.pfv
+‘we two painted ourselves and/or each other with white ochre. ’
+[EF15Dec2002, Elicitation – modelled onHall 1972]
+This ‘collective reflexive’ usage may be a bridging context for the use of the
+verbal reflexivizer to describe apparently reciprocal events, such as (31–32).9 In
+these events, while each subject participant is both agent and patient of the action
+described, they are not patient of the same subevent of which they are agent.
+That is to say, they do not act upon themselves, but rather one another. In (31),
+for example, each of the two people encoded by the dual subject pronoun leans
+upon the other, not upon him/herself.
+(31) pul
+3du(nom)
+mut-u
+back-dat
+thaayooyongk-e
+lean:rdp-refl:npst
+‘they are leaning (on each other) back to back. ’ [FT10Feb2004, Elicitation
+RCP12]
+(32) pul
+du(nom)
+runc-ey-r
+impact-refl-pst.pfv
+‘they two collided with one another. ’ [FT10Feb2004, Elicitation RCP22]
+Such events typically receive reflexive marking only where one or more of
+the following conditions are met: (i) there is close physical contact between par-
+ticipants, or intimate non-physical contact (such as staring into one another’s
+eyes); (ii) participants synchronize or closely coordinate their actions; (iii) there
+is a blurring of roles (it is unimportant and/or unspecified which of the subject
+participant(s) play the roles of agent and/or patient). For further examples and
+discussion seeGaby (2011).
+9The verb rootrunc in (32) denotes a broad range of events of impact, including stabbing, kick-
+ing, crushing, falling to the ground, and more.
+580
+[PDF PAGE 15]
+22 Reflexive constructions in Kuuk Thaayorre
+5 Self-directed actions marked by the reciprocalizer
+As mentioned in §4.5, the verbal reflexivizer may appear in clauses in which an
+external agent is backgrounded, unimportant or absent. It is perhaps for this rea-
+son that self-directed events in which the agent-subject acts upon themself with
+unexpected or heightened agency are marked by reciprocal, rather than reflexive,
+voice marking on the verb. For example, a woman’s breaking her foot by acciden-
+tally treading in a hole or knocking a heavy object onto it might be described by
+means of the verbal reflexivizer. But a woman taking her foot in her hands and
+deliberately breaking it is described by pairing the verbal reciprocalizer with the
+reflexive pronoun, as shown in (33).
+(33) paanth-u
+woman-erg
+thamr
+foot(abs)
+nhangnul
+3sg.refl
+thiik-rr-r
+break-recp-pst.pfv
+‘the woman broke her own feet. ’ [GJ11Jan2004, Elicitation]
+Similarly, a typical event of falling or lying down would be described by in-
+transitive verb forms such aswont ‘fall’ orwun ‘lie’, but a pragmatically unusual
+event of throwing oneself to the ground receives reciprocal marking paired with
+the reflexive pronoun, (34).
+(34) nhunt
+2sg(nom)
+nhangknunt
+2sg.refl
+thunp-rr
+throw-recp:imp
+ii-rr-kop
+there-towards-below
+raak-un
+ground-dat
+‘throw yourself down onto the ground!’ (Foote & Hall 1992: 360)
+It is possible that revealing one’s own weaknesses (as in35) is more unusual than
+pointing out the weaknesses of others. However, in the Bible translation work
+conducted by Allen Hall and Tom Foote (on which Hall’s two theses andFoote &
+Hall 1992were based), at least, the reciprocal verb stemkunanpunrr is relatively
+high frequency, with meanings including ‘testify’, ‘repent’, ‘confess’, ‘admit’, and
+‘give an account of’.
+(35) ngamp
+1pl:incl(nom)
+yiirryirram
+severally
+nhanganul
+3sg.refl
+kunanpun-rr-nan
+reveal-recp-go&:npst
+nhangun
+3sg.dat
+‘We each will give an account of ourselves to Him. ’ (Hall 1972: 392)
+It may not be possible to motivate each instance of reciprocal marking of self-
+directed events in terms of pragmatic unusualness, as some such verb stems (such
+as kunanpunrr) seem at least partially lexicalized.
+Example (35) is interesting for another reason. It was mentioned in §2.2 that
+reflexive pronouns – which are exclusively singular in number – may combine
+581
+[PDF PAGE 16]
+Alice R. Gaby
+with non-singular subject NPs. In (35), the plural subject pronoun (ngamp ‘we’)
+combines with a singular reflexive pronoun (nhangnul ‘him/herself’) to stress
+that each participant is both agent and patient of a single subevent. The inclusion
+of the reflexive pronoun is necessary not only to stress the strict, individual self-
+directness of the event described, but also to differentiate the intended reflexive
+reading from the basic reciprocal meaning suggested by the verbal morphology.
+See Gaby (2008a, 2011) for a more detailed consideration of the relationship
+between the verbal reflexivizer and verbal reciprocalizer and the events they en-
+code.
+6 Kuuk Thaayorre in context
+The forms and functions of reflexive marking in Kuuk Thaayorre are not un-
+usual in the local typological context. Among Australian Aboriginal languages,
+it is commonplace for verbal reflexivizers to be highly polysemous, frequently
+including reciprocity within their semantic range (Gaby 2023). It is likewise com-
+mon for a reflexive pronoun to optionally combine with a verbal reflexivizer to
+force a strictly reflexive interpretation. These similarities are not attributable
+to shared inheritance, however. Though a proto-Australian “reflexive/intransi-
+tivizer suffix” with the form *-DHirri-y10 was proposed byDixon (1980: 447), a
+common ancestor to Australia’s 250+ Indigenous languages remains elusive and
+controversial (see, e.g.,Harvey & Mailhammer 2017). The Kuuk Thaayorre ver-
+bal reciprocalizer,-rr, might be a reflex of*DHirri-y, along with any number of
+synchronic reflexive and/or reciprocalizers that include the tap/trill segment (for
+example Arrernte-rre; Bāgandji-dhirri; Bininj Gun-Wok-rr; Djabugay -nydyirri;;
+Jiwarli -rri; Martuthunira-yarri; Panyjima -rri; Rembarrnga-rroe; Wirangu-ri).
+So too might the Kuuk Thaayorre verbal reflexivizer, -e, ultimately derive from
+the high vowel + palatal glide at the end of Dixon’s reconstructed form, along
+with reflexive morphemes in other Australian languages which take the form of a
+high front vowel/glide (for example, Bunuba-iy; Djabugay-yi; Guugu Yimidhirr
+-:yi; Kunbarlang -yi; Ndjébbana -yi; Ngandi-i ~ -yi). In the absence of a detailed
+account of sound change and genealogical relatedness of the relevant languages,
+though, there is insufficient support for asserting the cognacy of these mono- or
+bi-segmental morphemes.
+The etymological source of the Kuuk Thaayorre reflexive pronoun is more
+transparent. As outlined in §2.2, these pronouns are formally related to both the
+nominative-form personal pronouns and the genitive pronominal paradigm. This
+10The digraph ‘DH’ here represents a laminal stop at either dental or palatal place of articulation.
+582
+[PDF PAGE 17]
+22 Reflexive constructions in Kuuk Thaayorre
+may suggest an original bridging context in which the agent-subject encoded by
+the nominative-form pronoun acts upon a part or the whole of their body, en-
+coded (at least in part) by the genitive pronoun, or in which the agent-subject is
+coreferential with the recipient/beneficiary/maleficiary of their action, coded as
+possessor. Unlike other reflexive pronouns (both in Australia and beyond), the
+contrast with a distinct set of self-intensifier pronouns rules out the latter as an
+etymological source. The Kuuk Thaayorre reflexive pronouns are also notable
+for their being limited to singular number, apparently linked to their strictly en-
+tailing that each agent-subject participant acts upon him/herself individually.
+Acknowledgments
+I gratefully acknowledge the collaboration of the many Kuuk Thaayorre lan-
+guage experts who contributed to the data cited and to my understanding of
+the underlying grammar analyzed herein. The particular examples presented in
+this chapter were contributed by the following language experts, whose initials
+are provided in the source code beside the relevant example: Alfred Charlie; Eliz-
+abeth Foote; Myrtle Foote; Albert Jack; Gilbert Jack; Elizabeth Norman; Freddy
+Tyore. I am also grateful to the editors and reviewers for their helpful comments.
+Abbreviations
+This chapter follows the Leipzig Glossing Rules (Comrie et al. 2008). Additional
+abbreviations used are:
+dem:adr.prox addressee-proximal
+adnominal
+demonstrative
+dem:sp.prox speaker-proximal
+adnominal
+demonstrative
+emph emphatic
+go& associated motion verbal
+suffix
+npst nonpast
+p.ipfv past imperfective
+p.pfv past perfective
+prag pragmatic enclitic
+rdp reduplicated
+v^ valence increasing suffix
+583
+[PDF PAGE 18]
+Alice R. Gaby
+References
+Comrie, Bernard, Martin Haspelmath & Balthasar Bickel. 2008.The Leipzig gloss-
+ing rules: Conventions for interlinear morpheme-by-morpheme glosses. Depart-
+ment of Linguistics of the Max Planck Institute for Evolutionary Anthropology
+& Department of Linguistics of Leipzig University. Leipzig.
+Dixon, R. M. W. 1980.The languages of Australia. Cambridge: Cambridge Univer-
+sity Press.
+Evans, Nicholas, Alice R. Gaby & Rachel Nordlinger. 2007. Valency mismatches
+and the coding of reciprocity in Australian languages.LinguisticTypology 11(3).
+541–597.
+Faltz, Leonard M. 1985.Reflexivization: A study in universal syntax. New York:
+Garland.
+Foote, Tom & Allen H. Hall. 1992.Kuuk Thaayorre dictionary: Thaayorre/English.
+Toowoomba: Jolen Press.
+Gaby, Alice R. 2008a. Distinguishing reciprocals from reflexives in Kuuk Thaay-
+orre. In Ekkehard König & Volker Gast (eds.),Reciprocals and reflexives: Theo-
+retical and typological explorations, 259–288. Berlin: Mouton de Gruyter.
+Gaby, Alice R. 2008b. Pragmatically case-marked: Non-syntactic functions of the
+Thaayorre ergative suffix. In Ilana Mushin & Brett Baker (eds.),Discourse and
+grammar in Australian languages, 111–135. Amsterdam: John Benjamins.
+Gaby, Alice R. 2010. From discourse to syntax and back: The lifecycle of Kuuk
+Thaayorre ergative morphology. Lingua (Optional Ergative Marking) 120(7).
+1677–1692.
+Gaby, Alice R. 2011. Reciprocal-marked and marked reciprocal events in kuuk
+thaayorre. In Nicholas Evans, Alice Gaby, Stephen Levinson & Asifa Majid
+(eds.), Reciprocals and semantic typology. Amsterdam: John Benjamins.
+Gaby, Alice R. 2023. Reflexives and reciprocals. In Claire Bowern (ed.),TheOxford
+guide to Australian languages. Oxford: Oxford University Press.
+Gaby, Alice R. & Kuuk Thaayorre language experts. 2017.A grammar of Kuuk
+Thaayorre. (15 December, 2016). Berlin: Mouton de Gruyter.
+Geniušienė, Emma Š. 1987.The typology of reflexives. Berlin: Mouton de Gruyter.
+Hall, Allen H. 1968.A depth-study of the Thaayorre language of the Edward River
+tribe, Cape York Peninsula: Being a description of the phonology with a brief
+grammatical outline and samples of lexicon and oral literature. University of
+Queensland. (MA thesis).
+Hall, Allen H. 1972.A study of the Thaayorre language of the Edward River tribe,
+Cape York Peninsula, Queensland: Being a description of the grammar. Brisbane:
+University of Queensland. (Doctoral dissertation).
+584
+[PDF PAGE 19]
+22 Reflexive constructions in Kuuk Thaayorre
+Harvey, Mark & Robert Mailhammer. 2017. Reconstructing remote relationships:
+Proto-Australian noun class prefixation.Diachronica 34(4). 470–515.
+Haspelmath, Martin. 2023. Comparing reflexive constructions in the world’s lan-
+guages. In Katarzyna Janic, Nicoletta Puddu & Martin Haspelmath (eds.),Re-
+flexive constructions in the world’s languages, 19–62. Berlin: Language Science
+Press. DOI: 10.5281/zenodo.7874925.
+Kemmer, Suzanne. 1993.The middle voice. Amsterdam: John Benjamins.
+König, Ekkehard & Peter Siemund. 2000. Intensifiers and reflexives: A typological
+perspective. In Zygmunt Frajzyngier & Traci S. Curl (eds.),Reflexives: Forms
+and functions, 41–74. Amsterdam: John Benjamins.
+585
+[PDF PAGE 20]

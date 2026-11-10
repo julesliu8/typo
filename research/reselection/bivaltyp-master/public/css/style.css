@@ -1,0 +1,424 @@
+/* Tag styles */
+
+/* use Charis SIL - Regular in .woff format */
+@font-face {
+    font-family: 'CharisSILW';
+    src: url(CharisSIL-R.woff);
+}
+  
+/* use Charis SIL - Italic in .woff format */
+@font-face {
+    font-family: 'CharisSILW';
+    font-style: italic;
+    src: url(CharisSIL-I.woff);
+}
+
+@font-face {
+    font-family: 'CharisSILW';
+    font-weight: bold;
+    src: url(CharisSIL-B.woff);
+}
+
+@font-face {
+    font-family: 'CharisSILW';
+    font-weight: bold;
+    font-style: italic;
+    src: url(CharisSIL-BI.woff);
+}
+
+@font-face {
+    font-family: 'SF Mono';
+    src: url(SFMono-Regular.otf);
+}
+
+@font-face {
+    font-family: 'Consolas';
+    src: url(Consolas.woff);
+}
+
+@font-face {
+    font-family: 'Liberation Mono'; 
+    src: url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.eot"); 
+    src: url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.eot?#iefix") 
+         format("embedded-opentype"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.woff2") 
+         format("woff2"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.woff") 
+         format("woff"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.ttf") 
+         format("truetype"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.svg#Liberation Mono") 
+         format("svg"); 
+} 
+
+body {
+    font-family: 'Noto Serif', serif;
+    font-size: 12pt;
+    padding: 15px 30px 50px 0;
+    background-color: beige;
+    margin: 0;
+}
+
+pre, code {
+    font-family: 'SF Mono', 'Consolas', 'Liberation Mono', monospace;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+p, li {
+    max-width: 800px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+img {
+    height: 230px;
+}
+
+td {
+    padding: 5px;
+}
+
+/* Class styles */
+
+a.table-link, a.table-link:visited {
+    color: blue;
+}
+
+.txt {
+    max-width: 800px;
+}
+
+.menu-element {
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.submenu {
+    background-color: beige;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 5px;
+    display: none;
+    z-index: 1000;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    min-width: 100px;
+}
+
+.menu-button {
+    /* font-variant: small-caps; */
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    padding-right: 7px;
+    cursor: pointer;
+}
+
+.menu-button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.submenu .menu-button {
+    background-color: transparent;
+    padding: 3px;
+    border-radius: 2px;
+}
+
+.submenu .menu-button:hover {
+    background-color: black;
+}
+
+.options-row {
+    grid-row: auto;
+    background-color: rgb(230, 230, 230);
+    margin-bottom: 3px;
+    padding: 3px;
+}
+
+.gloss {
+    font-variant: small-caps;
+}
+
+.predicate-name {
+    font-weight: bold;
+}
+
+.predicate-translation::before {
+    content: "(";
+}
+
+.predicate-translation::after {
+    content: ")";
+}
+
+.predicate-translation, .example-word {
+    font-style: italic;
+}
+
+.example-word, .predicate-translation {
+    font-family: 'CharisSILW';
+    font-size: 14pt !important;
+}
+
+.example-word, .example-translation {
+    background-color: white;
+}
+
+.example-gloss {
+    background-color: rgb(240,240,240);
+    font-size: 0;
+}
+
+td.example-gloss span {
+    font-size: 12pt;
+}
+
+td.stimulus-sentence, td.predicate-prop {
+    padding: 0;
+}
+
+.examples-header {
+    font-size: 0;
+}
+
+p.examples-header span {
+    font-size: 12pt;
+}
+
+p.examples-header a {
+    font-size: 12pt;
+}
+
+p.example-comment {
+    max-width: 400px;
+    font-style: italic;
+}
+
+.predicate-info {
+    padding-left: 15px;
+    display: flex;
+    align-items: flex-start;
+}
+
+table.example {
+    margin-top: 5px;
+}
+
+td.predicate-info-table {
+    background-color: rgb(245,245,245);
+}
+
+.example-info-div {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.b {
+    font-weight: bold;
+}
+
+div.circle {
+    border-width: 1px;
+    border-color: black;
+    border-radius: 8px;
+    border-style: solid;
+    width: 8px;
+    height: 8px;
+}
+
+div.circle-active {
+    background-color: #00b33c;
+}
+
+div.circle-inactive {
+    background-color: lightgrey;
+}
+
+div.circle-red { background-color: red; }
+div.circle-blue { background-color: blue; }
+div.circle-yellow { background-color: yellow; }
+div.circle-black { background-color: black; }
+div.circle-grey { background-color: lightgrey; }
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.it {
+    font-style: italic;
+}
+
+.sc {
+    font-variant: small-caps;
+}
+
+.stimulus-sentence {
+    font-size: 0;
+}
+
+.stimulus-sentence span {
+    font-size: 12pt;
+}
+
+.bg {
+    background-color: #fafaff;
+}
+
+.predicate-prop {
+    display: inline-block;
+    width: 200px;
+}
+
+.ru {
+    display: none;
+}
+
+/* By-id styles */
+
+#title-div {
+    padding-left: 30px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title-div img {
+    height: 70px;
+}
+
+#main {
+    margin-top: 50px;
+    padding-left: 30px;
+}
+
+#menu {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: calc(100% - 25px);
+    padding-left: 25px;
+    position: absolute;
+}
+
+#table {
+    font-size: smaller;
+}
+
+div#map {
+    width: 100%;
+    height: 600px;
+    z-index: 1;
+}
+
+div#error-link-div {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 35px;
+    border-radius: 3px;
+    border: 1px dotted black;
+    height: 0;
+}
+
+div.lang-button {
+    display: inline-block;
+    padding: 2px;
+    border-radius: 3px;
+    background-color: palegoldenrod;
+    margin: 3px;
+    cursor: pointer;
+}
+
+img.doi {
+    width: 186px;
+    height: 20px;
+}
+
+div.circle {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+.very-high-ratio {
+    background-color: red;
+}
+
+.high-ratio {
+    background-color: #ff8000;
+}
+
+.moderate-ratio {
+    background-color: #ffbf00;
+}
+
+.low-ratio {
+    background-color: #ffff00;
+}
+
+.very-low-ratio {
+    background-color: white;
+}
+
+.before-table + table {    
+    border-collapse: collapse;
+    border: 0 !important;;
+}
+
+.before-table + table >* td, th  {
+    border: 0;
+    margin: 0;
+    padding: 5px;
+    font-family: 'CharisSILW';
+}
+
+.before-table + table >* th {
+    background-color: white;
+}
+
+.before-table + table >* tr:nth-child(even) {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.before-table + table >* tr:nth-child(odd) {
+    background-color: #ededed;
+    padding: 0;
+    margin: 0;
+}
