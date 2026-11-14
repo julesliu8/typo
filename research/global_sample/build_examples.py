@@ -120,6 +120,6 @@ P2 保留 Bafut 来源中的第二过去时标签；不凭本例确定其具体�
 完整书目、语言采样与缺口见配套分析文件。PDF 原文和数据库原始记录保留在 research/global_sample/，早期 Kakataibo 与相关 Panoan 材料在 research/ergative/。所有中文翻译为本次据来源英语回译及上下文所作的意译。
 '''
 
-target = ROOT/'心理谓词_全球扩样_莱比锡例句库.md'
+target = ROOT/'90_历史方案/02_扩样阶段/心理谓词_全球扩样_莱比锡例句库.md'
 target.write_text(intro.replace('COUNT',str(count))+'\n'.join(out)+end)
 print(f'{count} examples -> {target}')

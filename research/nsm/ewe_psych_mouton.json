@@ -1,0 +1,1316 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4815,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2026-10-02T23:27:22Z",
+          "timestamp": 1790983642142,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "2-3",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        },
+        "DOI": "10.1515/cogl.1995.6.2-3.139",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2009-10-08T15:02:43Z",
+          "timestamp": 1255014163000
+        },
+        "page": "139-182",
+        "source": "Crossref",
+        "is-referenced-by-count": 31,
+        "title": [
+          "The linguistic construction of space in Ewe"
+        ],
+        "prefix": "10.1515",
+        "volume": "6",
+        "author": [
+          {
+            "given": "FELIX K.",
+            "family": "AMEKA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "cogl"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/cogl.1995.6.2-3.139/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/cogl.1995.6.2-3.139/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              6
+            ]
+          ],
+          "date-time": "2023-01-06T15:39:21Z",
+          "timestamp": 1673019561000
+        },
+        "score": 27.927769,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/cogl.1995.6.2-3.139/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2-3",
+          "published-online": {
+            "date-parts": [
+              [
+                2009,
+                10,
+                8
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                1995
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1515/cogl.1995.6.2-3.139"
+        ],
+        "URL": "https://doi.org/10.1515/cogl.1995.6.2-3.139",
+        "ISSN": [
+          "0936-5907",
+          "1613-3641"
+        ],
+        "issn-type": [
+          {
+            "value": "0936-5907",
+            "type": "print"
+          },
+          {
+            "value": "1613-3641",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              23
+            ]
+          ],
+          "date-time": "2025-12-23T18:53:56Z",
+          "timestamp": 1766516036738
+        },
+        "reference-count": 1,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              19
+            ]
+          ]
+        },
+        "DOI": "10.1515/cog.2007.012",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2007-09-25T11:32:28Z",
+          "timestamp": 1190719948000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Cut and break verbs in Ewe and the causative alternation construction"
+        ],
+        "prefix": "10.1515",
+        "volume": "18",
+        "author": [
+          {
+            "given": "Felix K",
+            "family": "Ameka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "James",
+            "family": "Essegbey",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "reference": [
+          {
+            "issue": "2",
+            "key": "p_11",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.1515/COG.2007.005",
+            "volume": "18",
+            "author": "Majid Asifa",
+            "journal-title": "Cognitive Linguistics"
+          }
+        ],
+        "container-title": [
+          "Cognitive Linguistics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/j/cogl.2007.18.issue-2/cog.2007.012/cog.2007.012.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2021-02-28T03:08:38Z",
+          "timestamp": 1614481718000
+        },
+        "score": 26.996933,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/COG.2007.012/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              19
+            ]
+          ]
+        },
+        "references-count": 1,
+        "journal-issue": {
+          "issue": "2"
+        },
+        "URL": "https://doi.org/10.1515/cog.2007.012",
+        "ISSN": [
+          "0936-5907",
+          "1613-3641"
+        ],
+        "issn-type": [
+          {
+            "value": "0936-5907",
+            "type": "print"
+          },
+          {
+            "value": "1613-3641",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              22
+            ]
+          ],
+          "date-time": "2026-01-22T17:45:15Z",
+          "timestamp": 1769103915133,
+          "version": "3.49.0"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1991
+            ]
+          ]
+        },
+        "DOI": "10.1515/jall.1991.12.2.143",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              13
+            ]
+          ],
+          "date-time": "2009-10-13T14:13:47Z",
+          "timestamp": 1255443227000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+          "How Discourse Particles Mean: The Gase of the Ewe “Terminal” Particles"
+        ],
+        "prefix": "10.1515",
+        "volume": "12",
+        "author": [
+          {
+            "given": "FELIX",
+            "family": "AMEKA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Journal of African Languages and Linguistics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jall.1991.12.2.143/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2021-04-22T01:18:42Z",
+          "timestamp": 1619054322000
+        },
+        "score": 25.6922,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jall.1991.12.2.143/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1991
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2"
+        },
+        "URL": "https://doi.org/10.1515/jall.1991.12.2.143",
+        "ISSN": [
+          "0167-6164",
+          "1613-3811"
+        ],
+        "issn-type": [
+          {
+            "value": "0167-6164",
+            "type": "print"
+          },
+          {
+            "value": "1613-3811",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1991
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:28:53Z",
+          "timestamp": 1794392933035,
+          "version": "4.9.0"
+        },
+        "publisher-location": "Berlin, Boston",
+        "reference-count": 10,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110822137",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1996,
+              1,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110822137.783",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              8,
+              16
+            ]
+          ],
+          "date-time": "2011-08-16T09:47:16Z",
+          "timestamp": 1313488036000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Body parts in Ewe grammar"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Felix",
+            "family": "Ameka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "reference": [
+          {
+            "key": "p_1",
+            "first-page": "300",
+            "author": "Allan Edward J",
+            "year": "1975",
+            "journal-title": "Afrika und Ubersee L I"
+          },
+          {
+            "key": "p_11",
+            "first-page": "341",
+            "author": "Benjamin Geoffrey",
+            "year": "1994",
+            "journal-title": "William Foley (ed.)"
+          },
+          {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/ling.1984.22.4.437"
+          },
+          {
+            "key": "p_13",
+            "first-page": "1",
+            "volume": "1",
+            "author": "Boas Franz",
+            "year": "1918",
+            "journal-title": "Bureau of American Ethnology. Bulletin 40, part"
+          },
+          {
+            "key": "p_14",
+            "first-page": "143",
+            "author": "Bogusoawski Andrzej",
+            "year": "1970",
+            "journal-title": "Greimas - Jakobson - Mayenowa (eds.)"
+          },
+          {
+            "issue": "1",
+            "key": "p_15",
+            "first-page": "15",
+            "volume": "10",
+            "year": "1989",
+            "journal-title": "Quaderni dt Semantica"
+          },
+          {
+            "key": "p_19",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.3765/bls.v15i0.1734",
+            "volume": "15",
+            "year": "1989",
+            "journal-title": "Berkeley Linguistic Society"
+          },
+          {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/sl.10.2.03cla"
+          },
+          {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/jall.1985.7.2.131"
+          },
+          {
+            "issue": "2",
+            "key": "p_23",
+            "first-page": "141",
+            "volume": "10",
+            "author": "Clements George N",
+            "year": "1979",
+            "journal-title": "Journal of West African Languages"
+          }
+        ],
+        "container-title": [
+          "The Grammar of Inalienability"
+        ],
+        "link": [
+          {
+            "URL": "http://www.degruyter.com/view/books/9783110822137/9783110822137.783/9783110822137.783.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110822137.783/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2021-04-20T22:57:13Z",
+          "timestamp": 1618959433000
+        },
+        "score": 25.424541,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110822137.783/html"
+          }
+        },
+        "editor": [
+          {
+            "given": "Hilary",
+            "family": "Chappell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          },
+          {
+            "given": "William",
+            "family": "McGregor",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1996,
+              1,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110822137"
+        ],
+        "references-count": 10,
+        "URL": "https://doi.org/10.1515/9783110822137.783",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110822137",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              1,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              13
+            ]
+          ],
+          "date-time": "2026-11-13T06:02:19Z",
+          "timestamp": 1794549739199,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter",
+        "isbn-type": [
+          {
+            "value": "9783110132649",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1996,
+              9,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110132649.1.3.130",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              13
+            ]
+          ],
+          "date-time": "2017-09-13T10:35:59Z",
+          "timestamp": 1505298959000
+        },
+        "page": "130-138",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Semantics"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Felix",
+            "family": "Ameka",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Leiden"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Wilkins",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nijmegen (The Netherlands)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Kontaktlinguistik"
+        ],
+        "link": [
+          {
+            "URL": "http://www.degruyter.com/view/books/9783110132649.1/9783110132649.1.3.130/9783110132649.1.3.130.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110132649.1.3.130/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110132649.1.3.130/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2024-07-11T16:52:15Z",
+          "timestamp": 1720716735000
+        },
+        "score": 18.01886,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110132649.1.3.130/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1996,
+              9,
+              2
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110132649"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110132649.1.3.130",
+          "10.1515/9783110132649.1"
+        ],
+        "URL": "https://doi.org/10.1515/9783110132649.1.3.130",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110132649.1",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              9,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              14
+            ]
+          ],
+          "date-time": "2025-05-14T04:48:15Z",
+          "timestamp": 1747198095146,
+          "version": "3.40.5"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              25
+            ]
+          ]
+        },
+        "DOI": "10.1515/jall-2022-8894",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2022-09-09T21:48:17Z",
+          "timestamp": 1662760097000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Editorial"
+        ],
+        "prefix": "10.1515",
+        "volume": "43",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9442-6675",
+            "authenticated-orcid": false,
+            "given": "Felix K.",
+            "family": "Ameka",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Leiden University Centre for Linguistics , PB 9515, 2300 RA Leiden , The Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of African Languages and Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jall-2022-8894/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jall-2022-8894/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2023-04-01T09:16:09Z",
+          "timestamp": 1680340569000
+        },
+        "score": 17.282902,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jall-2022-8894/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                25
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1515/jall-2022-8894"
+        ],
+        "URL": "https://doi.org/10.1515/jall-2022-8894",
+        "ISSN": [
+          "0167-6164",
+          "1613-3811"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0167-6164"
+          },
+          {
+            "type": "electronic",
+            "value": "1613-3811"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T18:12:54Z",
+          "timestamp": 1794507174794,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783111306452",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1907,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783111694191-003",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              10,
+              20
+            ]
+          ],
+          "date-time": "2015-10-20T06:19:38Z",
+          "timestamp": 1445321978000
+        },
+        "page": "7*-8*",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Weitere Hilfsmittel zum Studium der Ewe-Sprache"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Grammatik der Ewe-Sprache"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783111694191-003/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783111694191-003/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2021-04-21T13:29:12Z",
+          "timestamp": 1619011752000
+        },
+        "score": 17.156256,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783111694191-003/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1907,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783111306452"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783111694191-003",
+          "10.1515/9783111694191"
+        ],
+        "URL": "https://doi.org/10.1515/9783111694191-003",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783111694191",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1907,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T02:29:52Z",
+          "timestamp": 1794364192824,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "Mouton de Gruyter",
+        "isbn-type": [
+          {
+            "value": "9783110196283",
+            "type": "print"
+          },
+          {
+            "value": "9783110199192",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              12,
+              19
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110199192.107",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              26
+            ]
+          ],
+          "date-time": "2009-05-26T03:32:26Z",
+          "timestamp": 1243308746000
+        },
+        "page": "107-122",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Grammatical borrowing in Likpe (Sɛkpɛlé)"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Felix K.",
+            "family": "Ameka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Grammatical Borrowing in Cross-Linguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110199192.107/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110199192.107/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              29
+            ]
+          ],
+          "date-time": "2026-06-29T18:33:37Z",
+          "timestamp": 1782758017000
+        },
+        "score": 16.897993,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110199192.107/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              12,
+              19
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110196283",
+          "9783110199192"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110199192.107",
+          "10.1515/9783110199192"
+        ],
+        "URL": "https://doi.org/10.1515/9783110199192.107",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110199192",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              12,
+              19
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

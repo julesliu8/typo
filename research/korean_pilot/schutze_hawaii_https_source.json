@@ -1,0 +1,6 @@
+{
+  "name": "schutze_hawaii_https",
+  "url": "https://www.hawaii.edu/korean/archive/lit/schutze.01.pdf",
+  "accessed": "2026-11-13",
+  "error": "HTTPSConnectionPool(host='www.hawaii.edu', port=443): Max retries exceeded with url: /korean/archive/lit/schutze.01.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)')))"
+}

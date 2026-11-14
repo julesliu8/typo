@@ -3,3 +3,6 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Local recovery snapshots from project organization
+.project_backups/

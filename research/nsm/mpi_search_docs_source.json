@@ -1,0 +1,5 @@
+{
+  "name": "mpi_search_docs",
+  "url": "https://pure.mpg.de/rest/items/search?q=title%3D%22Body%20and%20Mind%20in%20the%20Trobriand%20Islands%22&size=10",
+  "error": "500 Server Error: Internal Server Error for url: https://pure.mpg.de/rest/items/search?q=title%3D%22Body%20and%20Mind%20in%20the%20Trobriand%20Islands%22&size=10"
+}

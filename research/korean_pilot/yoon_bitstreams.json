@@ -1,0 +1,59 @@
+{
+  "_embedded": {
+    "bitstreams": [
+      {
+        "id": "3eea2b25-62fa-4b04-8b91-9228a5e2cbc2",
+        "uuid": "3eea2b25-62fa-4b04-8b91-9228a5e2cbc2",
+        "name": "b21939391-Yoon_K.pdf",
+        "handle": null,
+        "metadata": {
+          "dc.title": [
+            {
+              "value": "b21939391-Yoon_K.pdf",
+              "language": null,
+              "authority": null,
+              "confidence": -1,
+              "place": 0
+            }
+          ]
+        },
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 322122370,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "afccb14140e2f886ec7cdedc519fc7f1"
+        },
+        "sequenceId": 2,
+        "type": "bitstream",
+        "_links": {
+          "content": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3eea2b25-62fa-4b04-8b91-9228a5e2cbc2/content"
+          },
+          "bundle": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3eea2b25-62fa-4b04-8b91-9228a5e2cbc2/bundle"
+          },
+          "format": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3eea2b25-62fa-4b04-8b91-9228a5e2cbc2/format"
+          },
+          "thumbnail": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3eea2b25-62fa-4b04-8b91-9228a5e2cbc2/thumbnail"
+          },
+          "self": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/3eea2b25-62fa-4b04-8b91-9228a5e2cbc2"
+          }
+        }
+      }
+    ]
+  },
+  "page": {
+    "number": 0,
+    "size": 20,
+    "totalPages": 1,
+    "totalElements": 1
+  },
+  "_links": {
+    "self": {
+      "href": "https://openresearch-repository.anu.edu.au/server/api/core/bundles/9cb4b95a-c2df-4911-9cfd-6ac9975c8d81/bitstreams"
+    }
+  }
+}

@@ -1,0 +1,1011 @@
+
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<meta charset="utf-8"/>
+<meta content="*" http-equiv="Access-Control-Allow-Origin"/>
+<meta content="*" http-equiv="Access-Control-Allow-Headers"/>
+<meta content="GET, POST, OPTIONS" http-equiv="Access-Control-Allow-Methods"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/css" http-equiv="Content-Style-type"/>
+<meta content="text/javascript" http-equiv="content-script-type"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="no-cache" http-equiv="Cache-Control"/>
+<meta content="no-store" http-equiv="Cache-Control"/>
+<meta content="must-revalidate" http-equiv="Cache-Control"/>
+<meta content="0" http-equiv="Expires"/>
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport"/>
+<link href="/media7/img/favicon.ico" rel="shortcut icon"/>
+<link href="http://purl.org/dc/elements/1.1/" rel="schema.DC"/>
+<meta content="http://hdl.handle.net/11094/92900" name="DC.identifier"/>
+<meta content="text" name="DCMI資源タイプ"/>
+<meta content="大阪大学, 2023, 博士論文" name="DCTERMS.bibliographicCitation"/>
+<meta content="Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach" name="DC.title"/>
+<meta content="日本語における ‘happy-like’ feelings の概念化：Natural Semantic Metalanguage によるアプローチ" name="DC.title"/>
+<meta content="ニホンゴニオケルハッピーライクフィーリングノガイネンカ：ナチュラルセマンティックメタラングエージニヨルアプローチ" name="DC.title"/>
+<meta content="坂場, 大道" name="DC.creator"/>
+<meta content="サカバ, ヒロミチ" name="DC.creator"/>
+<meta content="eng" name="DC.language" scheme="DCTERMS.RFC1766"/>
+<meta content="text" name="DC.type" scheme="DCTERMS.DCMIType"/>
+<meta content="2023-06-30" name="DCTERMS.issued" scheme="DCTERMS.W3CDTF"/>
+<meta content="application/pdf" name="DC.format"/>
+<meta content="Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach" name="citation_title"/>
+<meta content="坂場, 大道" name="citation_author"/>
+<meta content="eng" name="citation_language"/>
+<meta content="https://hdl.handle.net/11094/92900" name="citation_public_url"/>
+<meta content="2023-06-30" name="citation_date"/>
+<meta content="https://ir.library.osaka-u.ac.jp/repo/ouka/all/92900/33673_Abstract.pdf" name="citation_pdf_url"/>
+<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Thesis", "name": "Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach", "author": [{"@type": "Person", "name": ["坂場, 大道"]}], "datePublished": "2023-06-30", "sourceOrganization": "大阪大学", "inSupportOf": "博士（言語文化学）14401甲第22997号", "identifier": "https://hdl.handle.net/11094/92900" }</script>
+<link href="/media7/css/mmd_style.css?version=20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/mmd_style_custom.css?version=20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/mmd_icon.css?version=20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/yamm.css?version=20240819" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+//<![CDATA[
+	var media_url="/media7/"; // MEDIA_URL
+	var repository_url="/ouka/"; // REPOSITORY_URL
+	var url_length=repository_url.length; // REPOSITORY_URLの文字列長
+//]]>
+</script>
+<script charset="UTF-8" src="/media7/js/jquery.min.js?20240819" type="text/javascript"></script>
+<script charset="utf-8" src="/media7/js/jquery-ui.min.js?20240819" type="text/javascript"></script>
+<script charset="UTF-8" src="/media7/js/longPressBlocker.js?20240819" type="text/javascript"></script>
+<script charset="utf-8" src="/media7/js/bootstrap.min.js?20240819" type="text/javascript"></script>
+<script charset="utf-8" src="/media7/js/repository.js?version=20240819" type="text/javascript"></script>
+<script charset="utf-8" src="/media7/js/pagetop.js?20240819" type="text/javascript"></script>
+<script src="/media7/js/datatables.min.js?20240819" type="text/javascript"></script>
+<script charset="utf-8" src="/media7/js/remodal.min.js?20240819" type="text/javascript"></script>
+<link href="/media7/css/remodal-default-theme.css?20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/remodal-default-theme_custom.css?20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/remodal.css?20240819" rel="stylesheet" type="text/css"/>
+<link href="/media7/css/remodal_custom.css?20240819" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+	//<![CDATA[
+		$(document).ready( function() {
+			
+				$('#fileList').dataTable({
+					"bFilter":false
+					,"bInfo":false
+					,"bPaginate":false
+					,"bAutoWidth":false
+					,"responsive":true
+					,"ordering": false
+				});
+			
+			/* 詳細情報ブロック表示制御 */
+			
+				$('#md_bb_change').show();
+				
+					view_accordion_detail('.bb_chang',0);
+				
+			
+
+			
+			
+		});
+		
+		
+
+		function backList(req, s_group) {
+			var	obj = document.forms[0];
+			var newObj = new Object();
+			var srch_url = '/search/simple/?';
+			var cur_url = location.href;
+			mid = cur_url.indexOf(repository_url);
+			var mode = obj.mode.value;
+
+			newObj.lang = obj.lang.value;
+			newObj.mode = mode;
+			newObj.opkey = obj.opkey.value;
+			newObj.start = obj.start.value;
+
+			if (obj.chk_schema.value != '') {
+				newObj.chk_schema = obj.chk_schema.value;
+			}
+
+			if (mode == '2') {
+				newObj.facet_key = obj.facet_key.value;
+				newObj.next_facet = 'list';
+				srch_url = '/' + obj.facet_key.value + '/?';
+			} else {
+				if (obj.cate_schema.value != '') {
+					newObj.cate_schema = obj.cate_schema.value;
+				}
+				if (obj.flflg.value == '1'){
+					newObj.srch_flflg = "1";
+				}
+				if (obj.bodytextflg && obj.bodytextflg.value == '1') {
+					newObj.srch_bodytextflg = "1";
+				}
+				if (obj.cflg && obj.cflg.value == '1') {
+					newObj.cflg = "1";
+				}
+				if (obj.codeno) {
+					newObj.codeno = obj.codeno.value;
+				}
+				newObj.req = req;
+
+				if (mode == '1') {
+					srch_url = '/search/advanced/?';
+					
+						setCodeQueryFromHidden(obj, newObj);
+					
+				}
+			}
+
+			location.href = cur_url.substring(0, mid + url_length) + s_group + srch_url + $.param(newObj);
+			return false;
+		}
+
+		/* view detail info */
+		function view_info(block_id,view_txt,view_span,show,hide){
+			var obj_bb = $(block_id);
+			var obj_txt = $(view_txt);
+			var obj_span = $(view_span);
+			var plus = 'icon-mmd_open-2';
+			var minus = 'icon-mmd_close-2';
+
+			if( obj_bb.is(":visible")) {
+				obj_txt.html(show);
+				obj_span.removeClass(minus).addClass(plus);
+			}else{
+				obj_txt.html(hide);
+				obj_span.removeClass(plus).addClass(minus);
+			}
+		}
+
+		function view_accordion_detail(accordion_disp,first_dsp){
+			$(accordion_disp).on("click", function() {
+				$(this).next().slideToggle();
+			}).next().hide();
+
+			if(first_dsp == 1){
+				$(accordion_disp+':first').next().show();
+			} else {
+				$(accordion_disp+':first').next().hide();
+			}
+		}
+
+		
+			// getクエリをHidden項目から生成
+			function setCodeQueryFromHidden(obj, newObj) {
+				
+			}
+		
+		
+		
+			/* remodal.jsを使用 */
+			function chkhash(flnm, format) {
+				const chkhashUrl = '/repo/repo_chkhash/?lang=0&s_group=all&metapid=92900&file_info=' + flnm + '.' + format;
+				const chkhashDialogObj = $("#chkhash_container");
+				chkhashDialogObj.empty();
+				chkhashDialogObj.html('<center><div class=\"dummy_div_s\"><img class=\"img_loading\"  src=\"/media7/img/icon_loading.gif\"></div></center>');
+				chkhashDialogObj.remodal().open();
+
+				$.ajax({
+					type: "GET",
+					url: chkhashUrl,
+					async:true,
+					cache:false,
+					success: function(msg,response) {
+						chkhashDialogObj.empty();
+						chkhashDialogObj.html(msg);
+					}
+				});
+			}
+		
+	//]]>
+	</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#cate_browse,#browse,#ranking,#archive,#us_service").on("click", function (event){
+		<!--ハンバーガーメニューのプルダウンが開いているときにメニュークリックされたら-->
+		if($('#mmd-extra-link-menu').hasClass('collapse in')) {
+			<!--閉じるだけして抜ける-->
+			$('#mmd-extra-link-menu').collapse('hide');
+			event.preventDefault();
+		}
+	});
+	$('#global-nav').on('shown.bs.dropdown', function() {
+		$('.dropdown-backdrop').remove();
+	});
+});
+</script>
+<!-- title -->
+<title>大阪大学学術情報庫OUKA</title>
+</head>
+<body class="mmd_ja" id="pageTop">
+<div id="sidr-wrapper">
+<!-- header -->
+<header class="hidden-print" id="header">
+<div class="container">
+<div class="row">
+<div class="col-xs-9 col-md-9">
+<h1 id="logo">
+<a href="JavaScript:displayTop('logo')">
+<img alt="大阪大学学術情報庫OUKA" class="img-responsive" height="80px" src="/image/ir_hp_logo1.png" width="400px"/>
+</a>
+</h1>
+</div>
+<div class="col-xs-3 col-md-3">
+<span class="us_login_btn">
+<button class="btn btn-login pull-right" type="button"><a href="https://ir-deposit.library.osaka-u.ac.jp/" target="_blank"><span class="icon-mmd_login size-large" hidden-xs=""></span><span class="hidden-xs">リポジトリ</span>登録支援システム</a></button>
+</span>
+<div class="clearfix" id="header-help-nav">
+<a class="btn hidden-xs" href="/media7/htm/mmd_keyboard.html" id="nav-input" onclick="MojiOpen(this.href, 'all');return false;">入力補助<br/><span class="icon-mmd_input size-large"></span></a>
+<a class="btn" href="" id="nav-english" onclick="LangChange('0');return false;">English<br/><span class="icon-mmd_english size-large"></span></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- navigation -->
+<nav class="navbar navbar-inverse yamm clearfix hidden-print" id="global-nav" role="navigation">
+<div class="container">
+<div class="navbar-header mmd-left-menu">
+<div class="dropdown yamm-fw navbar-brand">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle navbar-brand-btn" data-toggle="dropdown" href="#" id="subhead_search" role="button">
+<span class="icon-mmd_search size-large"></span><span class="nav-text">検索画面選択</span></a>
+<ul aria-labelledby="subhead_search" class="dropdown-menu" id="search-menu">
+<li><a href="/repo/ouka/all/">すべて検索</a></li>
+<li><a href="/repo/ouka/thesis/">博士論文のみ検索</a></li>
+<li><a href="/repo/ouka/rare/">貴重書のみ検索</a></li>
+<li><a href="/repo/ouka/data/">研究データのみ検索</a></li>
+</ul><!--/.dropdown-menu-->
+</div><!--/.dropdown-->
+<div class="dropdown yamm-fw navbar-brand">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle navbar-brand-btn" data-toggle="dropdown" href="#" id="info" role="button">
+<span class="icon-mmd_info size-large"></span><span class="nav-text">利用案内</span></a>
+<ul aria-labelledby="info" class="dropdown-menu" id="info-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+<li><a href="/portal/about.html">OUKAについて</a></li>
+<li><a href="/portal/rights.html">著作権・利用条件について</a></li>
+<li><a href="/portal/doctoral_tips.html">博士論文検索のヒント</a></li>
+<li><a href="/portal/link.html">リンク集</a></li>
+</ul>
+<ul class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+<li><a href="/portal/self-archive.html">研究成果の登録</a></li>
+<li><a href="/portal/deposit.html">リポジトリ登録支援システム</a></li>
+<li><a href="/portal/doctoral.html">博士論文の登録</a></li>
+<li><a href="/portal/kiyou.html">紀要論文（学内刊行物）の登録</a></li>
+<li><a href="/portal/doi.html">DOIの付与</a></li>
+<li><a href="/portal/question.html">よくある質問（Q&amp;A）</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="dropdown yamm-fw navbar-brand">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle navbar-brand-btn" data-toggle="dropdown" href="#" id="browse" role="button">
+<span class="icon-mmd_title-ranking size-large"></span><span class="nav-text">収録雑誌一覧</span></a>
+<ul aria-labelledby="browse" class="dropdown-menu" id="browse-menu">
+<li><a href="JavaScript:browseClick('title')">収録雑誌すべて</a></li>
+<li><a href="/repo/ouka/all/cate_browse/?codeno=journal">大阪大学刊行物</a></li>
+</ul><!--/.dropdown-menu-->
+</div><!--/.dropdown-->
+<div class="dropdown yamm-fw navbar-brand">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle navbar-brand-btn" data-toggle="dropdown" href="#" id="ranking" role="button">
+<span class="icon-mmd_crown size-large"></span> <span class="nav-text">ランキング</span></a>
+<ul aria-labelledby="ranking" class="dropdown-menu" id="ranking-menu">
+<li>
+<a href="JavaScript:rankingClick('0')">アクセスランキング</a>
+</li>
+<li>
+<a href="JavaScript:rankingClick('1')">ダウンロードランキング</a>
+</li>
+</ul><!--/.dropdown-menu-->
+</div><!--/.dropdown-->
+</div><!--/.mmd-left-menu-->
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed navbar-toggle-btn" data-target="#mmd-extra-link-menu" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-option-horizontal"></span>
+<span class="nav-text hidden-md hidden-lg">その他</span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="mmd-extra-link-menu">
+<ul class="nav navbar-nav mmd-right-menu">
+<li>
+<a href="https://www.library.osaka-u.ac.jp/" rel="noopener noreferrer" target="_blank">附属図書館</a>
+</li>
+</ul><!--/.mmd-right-menu-->
+</div><!--/#mmd-extra-link-menu-->
+<!-- /self -->
+<!-- /self -->
+</div>
+</nav><!-- /navigation -->
+<div id="content-wrapper">
+<div id="contents">
+<div class="container maCont clearfix">
+<form action="" id="disp" method="post" onsubmit="return false;"><input name="csrfmiddlewaretoken" type="hidden" value="EFlDJ5FGJION9O4FPUiUkB5PRQu4Pa9DUpj7i0cY0D3hogKKSuOoZRUd2CL84GdE"/>
+<div class="content_detail" id="content">
+<div class="disp_bibinf">
+<h1>Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach</h1>
+<p>坂場, 大道</p>
+</div>
+<div class="accessCntBox">
+<p>アクセス数:<span>871</span>件<span>（<span>2026-11-13</span> 00:06 集計</span>）</p>
+</div>
+<table class="handleURL">
+<tr>
+<td class="l_items">
+<script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>
+<span class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-handle="11094/92900"></span>
+<span class="handle-sns-btn">
+<a class="sns-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//hdl.handle.net/11094/92900&amp;src=sdkpreparse" rel="noopener noreferrer" target="_blank"><span class="icon-mmd_sns-facebook"></span></a>
+<a class="sns-x" href="https://twitter.com/intent/tweet?text=Conceptualization%20of%20%E2%80%98Happy-like%E2%80%99%20Feelings%20in%20Japanese%3A%20A%20Natural%20Semantic%20Metalanguage%20Approach%0a&amp;url=https%3A//hdl.handle.net/11094/92900" rel="noopener noreferrer" target="_blank"><span class="icon-mmd_sns-x"></span></a>
+</span>
+</td>
+<td class="r_items">
+<strong>固定URL: https://hdl.handle.net/11094/92900</strong>
+</td>
+</tr>
+</table>
+<h3 class="topic">
+					閲覧可能ファイル <span class="icon-mmd_thesis size-small"></span>
+</h3>
+<table id="fileList">
+<thead>
+<tr>
+<th class="filenm">ファイル</th>
+<th class="format">フォーマット</th>
+<th class="rstrctlvl">利用条件</th>
+<th class="size">サイズ</th>
+<th class="dlcnt">閲覧回数</th>
+<th class="flpublicdt">利用開始日</th>
+<th class="flintro">説明</th>
+<th class="chkhash">information</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="filenm">
+<a href="./33673_Abstract.pdf" target="_blank">33673_Abstract</a>
+</td>
+<td class="format">
+										pdf
+									</td>
+<td class="rstrctlvl">
+											なし
+										</td>
+<td class="size">330 KB</td>
+<td class="dlcnt">
+										
+											440
+										
+									</td>
+<td class="flpublicdt">
+										2023.10.31
+									</td>
+<td class="flintro">
+</td>
+<td class="chkhash text-center">
+											
+												 
+											
+										</td>
+</tr>
+</tbody>
+</table>
+<div class="remodal" data-remodal-id="terms_dialog" id="terms_container"></div>
+<input id="terms_agreed" name="terms_agreed" type="hidden" value=""/>
+<span class="hide" id="terms_hidden_fields"></span>
+<div class="remodal" data-remodal-id="chkhash_dialog" id="chkhash_container"></div>
+<h3 class="topic">論文情報</h3>
+<p class="export_btn_space">
+<a href="/repo/repo_fileout/?lang=0&amp;s_group=all&amp;list_bibid=92900&amp;list_datatype=MD1000&amp;check=1" onclick="SubWinOpen(this.href,'repo_fileout_pop',450,500);return false;">
+<span class="icon-mmd_file"></span>ファイル出力</a>
+<a href="/repo/repo_endnote/?lang=0&amp;s_group=all&amp;list_bibid=92900&amp;list_datatype=MD1000&amp;check=1" onclick="SubWinOpen(this.href,'repo_endnote_pop',450,400);return false;">
+<span class="icon-mmd_endnote"></span>EndNote Basic出力</a>
+<a href="/repo/repo_mendeley/?lang=0&amp;s_group=all&amp;list_bibid=92900&amp;list_datatype=MD1000&amp;check=1" onclick="SubWinOpen(this.href,'repo_mendeley_pop',335,800);return false;">
+<img class="mendeley-btn" src="/media7/img/icon_mendeley.png"/>Mendeley出力</a>
+</p>
+<table class="simple_data_block" summary="基本">
+<tr>
+<th class="md_1001" rowspan="3">タイトル</th>
+<td class="md_1001 first_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_1001 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														日本語における ‘happy-like’ feelings の概念化：Natural Semantic Metalanguage によるアプローチ
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_1001 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														ニホンゴニオケルハッピーライクフィーリングノガイネンカ：ナチュラルセマンティックメタラングエージニヨルアプローチ
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1003" rowspan="1">著者</th>
+<td class="md_1003">
+<div class="metadata_block depth2 loop_last">
+<div class="child_data_label value_exist">著者名</div>
+<div class="metadata_value child_data_value">
+<a href="/repo/ouka/all/search/advanced/?mode=1&amp;lang=0&amp;kywd1=%E5%9D%82%E5%A0%B4%2C+%E5%A4%A7%E9%81%93&amp;con1=alkey" target="_self">坂場, 大道</a>
+															
+														
+													
+												
+													; 
+													
+														
+															
+																<a href="/repo/ouka/all/search/advanced/?mode=1&amp;lang=0&amp;kywd1=%E3%82%B5%E3%82%AB%E3%83%90%2C+%E3%83%92%E3%83%AD%E3%83%9F%E3%83%81&amp;con1=alkey" target="_self">サカバ, ヒロミチ</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1037" rowspan="1">学位名</th>
+<td class="md_1037">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														博士（言語文化学）
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1038" rowspan="1">学位授与年月日</th>
+<td class="md_1038">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														2023-06-30
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1039" rowspan="1">学位授与機関</th>
+<td class="md_1039">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														大阪大学
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1040" rowspan="1">研究科</th>
+<td class="md_1040">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														言語文化
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1041" rowspan="1">専攻</th>
+<td class="md_1041">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														言語文化
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1042" rowspan="1">学位授与番号</th>
+<td class="md_1042">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														14401甲第22997号
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1043" rowspan="1">学位記番号</th>
+<td class="md_1043">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														33673
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1051" rowspan="1">言語</th>
+<td class="md_1051">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														英語
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1053" rowspan="1">ハンドルURL</th>
+<td class="md_1053">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+<a href="https://hdl.handle.net/11094/92900" rel="noopener noreferrer" target="_blank">https://hdl.handle.net/11094/92900</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1119" rowspan="1">アクセス権</th>
+<td class="md_1119">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+		
+														open access
+		
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1133" rowspan="1">カテゴリ</th>
+<td class="md_1133">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+<a href="javascript:categoryClick('100030110027', '1000', 'all', '', '1');">博士論文 / （旧）言語文化研究科 / 2023年度</a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1134" rowspan="2">注記</th>
+<td class="md_1134 first_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+														
+															
+																やむを得ない事由があると学位審査研究科が承認したため、全文に代えてその内容の要約を公開しています。全文のご利用をご希望の場合は、<a href="https://www.library.osaka-u.ac.jp/thesis/#closed">大阪大学の博士論文について</a>をご参照ください。
+															
+														
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_1134 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+												
+													
+													
+														
+															
+																Only the abstract of the doctoral thesis, instead of the full text, is available due to an unavoidable reason which was accepted by the degree-awarding graduate school. If you would like to read the full text, please refer to <a href="https://www.library.osaka-u.ac.jp/en/thesis_eng/#closed">Doctoral Theses of Osaka University</a>.
+															
+														
+													
+												
+											</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="bb_chang" id="md_bb_change" onclick="javascript:view_info('#md_block', '#view_bb_txt','#view_bb_class', '論文詳細を表示', '論文詳細を非表示');" style="display:none;">
+<h3 class="topic">
+<em id="view_bb_txt">論文詳細を表示</em> <a href="javascript:void(0);"><span class="icon-mmd_open-2 size-small" id="view_bb_class"></span></a>
+</h3>
+</div><!-- /bb_chang -->
+<div id="md_block" style="display:none;">
+<div id="bb_block_detail">
+<table class="detail_data_block" summary="詳細">
+<tr>
+<th class="md_1124" rowspan="1">資源タイプ</th>
+<td class="md_1124">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	博士論文
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1125" rowspan="1">ローカル資源タイプ</th>
+<td class="md_1125">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	博士論文
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_1126" rowspan="1">DCMI資源タイプ</th>
+<td class="md_1126">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	text
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991137" rowspan="1">DCTERMS.bibliographicCitation</th>
+<td class="md_9991137">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	大阪大学, 2023, 博士論文
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991138" rowspan="3">DC.title</th>
+<td class="md_9991138 first_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_9991138 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	日本語における ‘happy-like’ feelings の概念化：Natural Semantic Metalanguage によるアプローチ
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_9991138 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	ニホンゴニオケルハッピーライクフィーリングノガイネンカ：ナチュラルセマンティックメタラングエージニヨルアプローチ
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991140" rowspan="2">DC.creator</th>
+<td class="md_9991140 first_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	坂場, 大道
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="md_9991140 continued_data">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	サカバ, ヒロミチ
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991143" rowspan="1">DC.language' scheme='DCTERMS.RFC1766</th>
+<td class="md_9991143">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	英語
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991144" rowspan="1">DC.type' scheme='DCTERMS.DCMIType</th>
+<td class="md_9991144">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	text
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991158" rowspan="1">DCTERMS.issued' scheme='DCTERMS.W3CDTF</th>
+<td class="md_9991158">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	2023-06-30
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991163" rowspan="1">DC.format</th>
+<td class="md_9991163">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	92900
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991164" rowspan="1">citation_title</th>
+<td class="md_9991164">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	Conceptualization of ‘Happy-like’ Feelings in Japanese: A Natural Semantic Metalanguage Approach
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991165" rowspan="1">citation_author</th>
+<td class="md_9991165">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	坂場, 大道
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991167" rowspan="1">citation_language</th>
+<td class="md_9991167">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	英語
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991177" rowspan="1">citation_public_url</th>
+<td class="md_9991177">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	https://hdl.handle.net/11094/92900
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+<tr>
+<th class="md_9991184" rowspan="1">citation_date</th>
+<td class="md_9991184">
+<div class="metadata_block depth1 loop_last">
+<div class="metadata_value">
+															
+																
+																
+																	2023-06-30
+																
+															
+														</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<p class="panel-body panel-button">
+<button class="btn-ordinary leftIcon" onclick="return displayTop();">
+<span class="btnIcon glyphicon glyphicon-home"></span>
+<span class="btnLabel">ホームへ戻る</span>
+</button>
+</p>
+<input name="lang" type="hidden" value="0"/>
+<input name="mode" type="hidden" value=""/>
+<input name="category" type="hidden" value="100030110027"/>
+<input name="req" type="hidden" value=""/>
+<input name="start" type="hidden" value=""/>
+<input name="opkey" type="hidden" value=""/>
+<input name="upmetapid" type="hidden" value=""/>
+<input name="idx" type="hidden" value=""/>
+<input name="cidx" type="hidden" value=""/>
+<input name="flflg" type="hidden" value=""/>
+<input name="bodytextflg" type="hidden" value=""/>
+<input name="chk_schema" type="hidden" value=""/>
+<input name="cate_schema" type="hidden" value=""/>
+<input name="facet_key" type="hidden" value=""/>
+<input name="list_datatype" type="hidden" value="MD1000"/>
+<input name="list_bibid" type="hidden" value="92900"/>
+<input name="check" type="hidden" value="1"/>
+<input name="cate_inherit_flg" type="hidden" value="0"/>
+<input name="search_code_flg" type="hidden" value="1"/>
+<input name="s_group_op" type="hidden" value=""/>
+<input name="cflg" type="hidden" value=""/>
+<input name="codeno" type="hidden" value=""/>
+</div>
+</form></div><!-- /mainBox -->
+
+</div><!-- /maCont -->
+</div><!-- /contens -->
+</div><!-- /content-wrapper -->
+<div id="mmd_detail_aera"></div><!-- この行だけは消してはいけない -->
+<footer class="hidden-print" id="footer">
+<div id="copyright">
+<p class="pull-left copyright_area">© 2022- The University of Osaka Libraries</p>
+</div>
+</footer>
+<!-- /container -->
+<a class="pagetop hidden-print" href="#" title="Back to Page Top"><span class="icon-mmd_btn-top"></span></a>
+
+</body>
+</html>

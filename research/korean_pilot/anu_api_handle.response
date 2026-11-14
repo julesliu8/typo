@@ -1,0 +1,192 @@
+{
+  "id" : "451bc5d6-4b78-4e8d-8b80-2e5fd9771450",
+  "uuid" : "451bc5d6-4b78-4e8d-8b80-2e5fd9771450",
+  "name" : "Constructing a Korean natural semantic metalanguage",
+  "handle" : "1885/151145",
+  "metadata" : {
+    "dc.contributor.author" : [ {
+      "value" : "Yoon, Kyung-Joo",
+      "language" : null,
+      "authority" : "a9f115f0-5ee1-4266-a1c3-adb1f50313c6",
+      "confidence" : 300,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2018-11-22T00:07:24Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.available" : [ {
+      "value" : "2018-11-22T00:07:24Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.copyright" : [ {
+      "value" : "2003",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.issued" : [ {
+      "value" : "2003",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.updated" : [ {
+      "value" : "2018-11-21T07:08:13Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.format.extent" : [ {
+      "value" : "xii, 345 leaves",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.other" : [ {
+      "value" : "b2193939",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "http://hdl.handle.net/1885/151145",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.language.iso" : [ {
+      "value" : "en_AU",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights" : [ {
+      "value" : "Author retains copyright",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject.lcc" : [ {
+      "value" : "PL923.Y66 2003",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject.lcsh" : [ {
+      "value" : "Korean language Semantics",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Metalanguage",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    } ],
+    "dc.title" : [ {
+      "value" : "Constructing a Korean natural semantic metalanguage",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "Thesis (PhD)",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dcterms.accessRights" : [ {
+      "value" : "Open Access",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.description.notes" : [ {
+      "value" : "Thesis (Ph.D.)--Australian National University, 2003",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.identifier.doi" : [ {
+      "value" : "10.25911/5d5158f90d84d",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.mintdoi" : [ {
+      "value" : "mint",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.type.status" : [ {
+      "value" : "Accepted Version",
+      "language" : "en_AU",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2020-02-04T21:57:22.427+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/bundles"
+    },
+    "identifiers" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/relationships"
+    },
+    "version" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450/thumbnail"
+    },
+    "self" : {
+      "href" : "https://openresearch-repository.anu.edu.au/server/api/core/items/451bc5d6-4b78-4e8d-8b80-2e5fd9771450"
+    }
+  }
+}

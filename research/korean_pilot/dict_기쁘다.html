@@ -1,0 +1,1972 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <style>
+        .senseLink {
+            background-color: #FFFCB7 !important;
+        }
+    </style>
+    
+
+
+
+<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>한국어기초사전</title>
+    <link rel="shortcut icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/images/mobIcon/android-icon-72x72.png"/>
+	<link rel="icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link type="text/css" rel="stylesheet" href="/css/2020_style.css">
+	<link type="text/css" rel="stylesheet" href="/css/print-preview.css">
+	<link type="text/css" rel="stylesheet" href="/css/jquery-ui-1.10.4.css">
+	<link type="text/css" rel="stylesheet" href="/VK/css/new_small/keyboard.css">
+	
+	<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/common.js"></script>
+	<script type="text/javascript" src="/js/2020_common.js"></script>
+	<script type="text/javascript" src="/js/DQCommon.js"></script>
+	<script type="text/javascript" src="/js/soundmanager2.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/dropzone.js"></script>
+	<script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.sliderkit.1.9.2.pack.js"></script>
+	<script type="text/javascript" src="/js/print/jquery.print-preview.js"></script>
+	<script type="text/javascript" src="/js/MD5.js"></script>
+	<script type="text/javascript" src="/js/url.min.js"></script>
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&vk_skin=new_small" ></script>
+	<script type="text/javascript" src="/js/player.js"></script>
+	<script type="text/javascript" src="/VK/extensions/scriptqueue.js" ></script>
+	<script type="text/javascript" src="/VK/extensions/e.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/virtualkeyboard.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/layouts/layouts.js" onload="return 1;" charset="UTF-8"></script>
+	
+	<script type="text/javascript" src="/js/smallDic_dqCommon.js"></script>
+	<script type="text/javascript" src="/js/head_dqAutoCompleteCommon.js"></script> 
+	
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&amp;vk_skin=new_small"></script>
+	
+	
+	
+	<script type="text/javascript">
+		var winLoc = window.location.toString();
+		if (winLoc.match(/flash9/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 9
+			});
+			if (winLoc.match(/highperformance/i)) {
+				soundManager.setup({
+					useHighPerformance : true
+				});
+			}
+		} else if (winLoc.match(/flash8/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 8
+			});
+		}
+		soundManager.setup({
+			useFlashBlock : true,
+			url : '/js/',
+			html5PollingInterval : (winLoc.match(/html5PollingInterval/i) ? 20
+					: null),
+			debugMode : false,
+			consoleOnly : false
+		});
+		soundManager.onready(function(oStatus) {
+			if (!oStatus.success) {
+				return false;
+			}
+			if (soundManager.flashVersion > 8) {
+				t = window.setInterval(checkRAM, 500);
+				document.getElementById('flash-ram-use').style.display = 'inline';
+				checkRAM();
+			}
+		});
+		function checkRAM() {
+			if (soundManager.supported()) {
+				var ram = (soundManager.getMemoryUse() / 1024 / 1024).toFixed(2);
+				if (!isNaN(ram)) {
+					document.getElementById('flash-ram-use').innerHTML = ram
+							+ ' MB';
+				} else {
+					document.getElementById('flash-ram-use').style.display = 'none';
+				}
+			}
+		}
+
+		$(function () {
+			$("a.print").printPreview()
+		})
+
+	</script>
+    
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="e2e92421-0ebe-4370-8e34-7c369e8a4785" />
+<script type="text/javascript">
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+		type: 'GET',
+		dataType:'json',
+		beforeSend: function (xhr) {
+	         const csrf = $("meta[name='_csrf']").attr("content");
+	         const csrf_header = $("meta[name='_csrf_header']").attr("content");
+	         xhr.setRequestHeader(csrf_header, csrf);
+	      },
+		async: false,
+		success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+				var returnData = data.jsonList[0].returnData;
+				for(var i=returnData.length-1; i>=0; i--){
+					var html  = "";
+						html += "<li id='myWord_"+returnData[i].word_no+"'>";
+						html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+						if(returnData[i].sup_no != "0"){
+							html += "<sup>"+returnData[i].sup_no+"</sup>";							
+						}else{
+							html += "<sup>&nbsp;</sup>";
+						}
+						html +="</span></a>";
+						html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+						html += "<img src='/images/2020/btn_del.png' alt='단어 삭제'/>";
+						html += "</a>";
+						html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+						html += "</li>";
+					$("#myWordList").append(html);
+				}
+				var btnHtml = "";
+
+				$("#myWordList").parent().append(btnHtml);
+			}
+		}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    				$("#myWordList").parent().find("button").remove();
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    		}
+    	}
+    });
+}
+
+function fnTwitter(){
+	var text = "기쁘다";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+function fnFaceBook(){
+	var text = "기쁘다";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+
+//한글 비교
+function fnKoreanCompare(str){
+	var hangul = /[ㄱ-힣]/g;
+	var checkData = str.match(hangul);
+	var returnFlag = false;
+	
+	if(checkData != null){
+		returnFlag = true;
+	}
+	
+	return returnFlag;
+}
+</script>
+    <meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="e2e92421-0ebe-4370-8e34-7c369e8a4785" />
+</head>
+<body>
+<div id="wrap" class="manyLang eng">
+    
+
+
+<!--누리집 배너 -->
+<div id="header-top">
+    <div class="toggle-wrap">
+        <div class="toggle-head">
+            <div class="inner">
+                <div class="head_text">
+                    <img class="flag" src="/images/gov_banner/header_flag.png" alt="국기아이콘" />
+                    <span class="nuri-txt">이 누리집은 대한민국 공식 전자정부 누리집입니다.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- header -->
+<div id="header">
+    <div class="header_wrap group">
+        <div class="top_wrap">
+            <ul class="top_left manyLang6">
+                <li><a href="/eng/dicSearch/actCategory">Search by Category</a></li>
+                <li><a href="javascript:fnSmallDic();">Small Window Dictionary <i class="ri-checkbox-multiple-blank-line icon_window"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="captchaSound" style="display:none;"></div>
+<!-- //.header -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var location = document.location.pathname.split("/");
+        location = location[location.length - 1];
+
+        switch(location) {
+            case 'mainAction':
+                $("title").text("Korean - English dictionary");
+                break;
+            case 'search':
+                $("title").text("Korean - English dictionary - Search Results");
+                break;
+            case 'SearchView':
+                $("title").text("Korean - English dictionary - View Dictionary");
+                break;
+        }
+        $("a.print").printPreview();
+
+    });
+
+    //작은창 사전
+    function fnSmallDic(){
+        WinOpen("/eng/smallDic/mainAction","smallDic",440,690);
+    }
+
+    // 검색시 체크
+    function checkSearch() {
+        var query = document.mainSearchF.mainSearchWord.value;
+        var altTitle = "Please enter search item.";
+        var altTitle2 = "Please enter search item.";
+
+        if(checkStr(query, " ", "") == 0) {
+            alert(altTitle);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+
+        if(!checkInvalidStr(query)) {
+            alert(altTitle2);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+        document.mainSearchF.submit();
+    }
+</script>
+
+    <!-- container -->
+    <div id="container" class="accessArea">
+        <div class="inner">
+
+            <!-- 상단 검색창 -->
+            
+
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="e2e92421-0ebe-4370-8e34-7c369e8a4785" />
+<!-- search_wrap -->
+<div class="search_wrap notPrint">	
+	<h1 class="logo"><a href="/eng/mainAction"><img src="/images/2020/manyLang/eng_logo_s.jpg" alt="Basic Korean Dictionary"></a></h1>
+	<form name="mainSearchF">
+		<input type="hidden" name="nation" value="eng"/>
+		<input type="hidden" name="nationCode" value="6"/>
+		<input type="hidden" name="ParaWordNo" value=""/>
+		<!-- search_area -->
+		<div id="search_area" class="w500">
+			<div id="search_box">
+				<div class="search_form">
+					<input type="text" id="mainSearchWord" name="mainSearchWord" class="search_input search_query manyLang6" onkeypress="return handleEnter(1,event);" onmousedown="dq_setTextbox('1',event);" onkeydown="dq_setTextbox('1',event);" value="" title="Search word" placeholder="Please enter a word in Korean or English." autocomplete="off">
+				</div>
+				<!-- 자동완성 -->
+				<div class="search_auto_box">
+					<div class="auto_list" id="main_auto_complet" onmouseover="dq_setMouseon();" onmouseout="dq_setMouseoff();">
+					</div>
+				</div>
+				<!--//.자동완성 -->
+			</div>
+			<a href="javascript:fnMultiLanKeyBoardOpen('US');" class="keyboard"><img id="dq_keyboard" src="/images/2020/manyLang/btn_text.png"></a>
+			<a href="javascript:fnSearchWord();" class="search_btn"><i class="ri-search-line"></i><span class="blind">Search</span></a>
+			<a href="/eng/dicSearchDetail/searchDetailWords" class="btn_detail manyLang6">Advanced Search <i class="ri-arrow-right-s-line"></i></a>
+			<script type="text/javascript" src="/js/index_dqAutoCompleteCommon.js"></script>
+			<script type="text/javascript" src="/js/index_dqAutoComplete.js"></script>
+		</div>
+		<!-- //.search_area -->
+		<input type="hidden" name="_csrf" value="e2e92421-0ebe-4370-8e34-7c369e8a4785" />
+	</form>
+</div>
+
+
+<style type="text/css" media="screen,print">
+#languageSelect select {width:auto; height:25px; font-size:10pt}
+
+.ui-dialog .ui-dialog-title {margin:0;}
+.ui-widget-header {border:none;background:white;}
+.ui-dialog .ui-dialog-titlebar {position:relative;}
+.ui-dialog .ui-dialog-titlebar:before {content:"";position:absolute;left:0;top:40px;width:100%;height:1px;background:#396eb3;}
+
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }
+.selectable { list-style-type: none; margin: 0; padding: 0;}
+.selectable li {border: 1px solid #999;background: #fff;padding: 1px;float: left;width: 24px;height: 24px;text-align: center;cursor:pointer;}
+
+.ui-dialog .ui-dialog-titlebar{padding :0 0;}
+
+.adminStat {border-top:solid 2px #7da2de}
+.adminStat th,.adminStat td.txt_center{padding:0;text-indent:0}
+.adminStat th{background-color:#f3f3f3;text-align:center}
+.adminStat td{height:35px;background-color:#fafafa;text-align:center}
+.adminStat th.top_bd{border-top:solid 2px #d3d3d3}
+.adminStat th.start{border-left:1px solid #d3d3d3}
+.adminStat th.end{border-right:1px solid #fff}
+
+.tab_win_keyboard {width:100%;display:inline-block;}
+.tab_win_keyboard li a {float:left;display:inline-block;width:35%;height:40px;line-height:38px;background:#eff2f5;border:1px solid #ccc;border-bottom:none !important;
+	border-radius:10px 10px 0 0;box-sizing:border-box;font-size:16px;text-align:center;border-left:0;}
+.tab_win_keyboard li:first-child a {border-left:1px solid #ccc}
+.tab_win_keyboard li a.selected {font-weight:bold;color:#fff;background:#396eb3;border:1px solid #396eb3;}
+
+a.btn_gray_keyboard1{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard2{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard3{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard4{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard5{display:inline-block; background:#fff;padding:0px 7px 2px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard6{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard7{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard8{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard9{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard10{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+
+#languageSelect select{border:1px solid #a9a6a6;color:#333; padding:3px;}
+
+::-webkit-input-placeholder {
+   color: #666;
+}
+:-moz-placeholder { /* Firefox 18- */
+   color: #666;  
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #666;  
+}
+:-ms-input-placeholder {  
+   color: #666;  
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: none;
+	background: none;
+	font-weight: normal;
+	color: #555555;
+}
+
+.ui-state-default .ui-icon {
+	background-image: none;
+}
+.ui-widget-header .ui-icon {
+	background-image: none;
+}
+
+.ui-icon,
+.ui-widget-content .ui-icon {
+	background-image: none;
+}
+
+
+.ui-widget-header .ui-state-default {
+	background: #e6e6e6 url(/images/2020/keyboard_close.png) 50% 50% repeat-x;
+}
+
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-left,
+.ui-corner-tl {
+	border-top-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-right,
+.ui-corner-tr {
+	border-top-right-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-left,
+.ui-corner-bl {
+	border-bottom-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-right,
+.ui-corner-br {
+	border-bottom-right-radius: 10px;
+}
+
+.ui-widget-content {
+	border:1px solid #396eb3;
+	background: #ffffff url(/images/jquery/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+	color: #222222;
+}
+</style>
+<script type="text/javascript">
+$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+    _title: function (title) {
+        if (!this.options.title) {
+            title.html("&#160;");
+        }
+        title.html(this.options.title);
+    }
+}));
+
+$(document).ready( function() {
+    $(".selectable > li").click(function() {
+        var tempKeyword = $("#mainSearchWord").val();
+        tempKeyword = tempKeyword + $(this).text();
+        
+        $("#mainSearchWord").val(tempKeyword);
+    });
+    
+    $("#mainSearchWord").bind("keyup",function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $("#mainSearchWord").bind("keydown",function(e){
+        if (!(event.keyCode >=37 && event.keyCode<=40)) {
+             $("#engLanguageLayer").hide();
+        }
+    });
+    
+    $("#td").click(function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $(".languageKey").click(function(){
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(0,returnFocusValue.length-1);
+        $("#mainSearchWord").val(lastWord+$(this).text()+$("#mainSearchWord").val().substr(returnFocusValue.length,$("#mainSearchWord").val().length));
+        
+        $("#engLanguageLayer > ol").hide();
+    });
+    
+    fnMultiLanKeyBoardOpen('US');
+    $(".ui-dialog").hide();
+});
+
+var dialogIsOpen = false;
+
+function fnMultiLanKeyBoardOpen(type){
+    if(dialogIsOpen){
+        $("#keyboardLayer").dialog("close");
+        dialogIsOpen = false;
+    }else{
+        VirtualKeyboard.toggle('mainSearchWord','td');
+    }
+    
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+    }else{
+    	
+    	var filter = [];
+		filter.push("EN");
+		VirtualKeyboard.setVisibleLayoutCodes(filter);
+		VirtualKeyboard.switchLayout("US US");
+		
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }   
+
+    $( "#keyboardLayer" ).dialog({
+        open: function() { 
+            $(this).parents('.ui-dialog').attr('tabindex', -1)[0].focus();
+            dialogIsOpen = true;
+        }, 
+        width: 588,
+        title:"<div class=\"tab_wrap_keyboard\"><ul class=\"tab_win_keyboard manyLang6\"><li><a href=\"javascript:fnMultiLanKeyBoardChange('US');\" id=\"keyboardTab1\">English</a></li><li><a href=\"javascript:fnMultiLanKeyBoardChange('KR');\" id=\"keyboardTab2\">Korean</a></li></ul></div>",
+        modal: false,
+        resizable : false,
+        position: {my: 'top', at: 'top+250'}
+    });
+    
+    if(type == "KR"){
+    	$("#keyboardTab1").removeClass("selected");
+		$("#keyboardTab2").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("manyLangTha");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("manyLang6");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }
+        
+    }else{
+    	$("#keyboardTab2").removeClass("selected");
+		$("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLang6");   
+        }
+        
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnMultiLanKeyBoardChange(type){
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+    }else{
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }
+    
+    if(type == "KR"){
+        $("#kb_langselector > optgroup > option").eq(2).remove();
+        
+        $("#keyboardTab1").removeClass("selected");
+        $("#keyboardTab2").addClass("selected");
+        
+        $("#kb_langselector").addClass("koreaLang");
+        $("#kb_langselector").removeClass("manyLang6");
+        
+        
+        $("#virtualKeyboard").find("span").addClass("koreaLang");
+        $("#virtualKeyboard").find("span").removeClass("manyLang6");
+        
+        
+    }else{
+        $("#keyboardTab2").removeClass("selected");
+        $("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+        
+        $("#virtualKeyboard").find("span").removeClass("koreaLang");
+        $("#kb_langselector").removeClass("koreaLang");
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnOneTextClear(){
+    var tempKeyword = $("#mainSearchWord").val();
+    tempKeyword = tempKeyword.substring(0, tempKeyword.length - 1);
+    $("#mainSearchWord").val(tempKeyword);  
+}
+
+function fnReturnFocusValue(){
+    var myField =  eval(document.getElementById("mainSearchWord"));
+    var focusValue = "";
+    if(document.selection) {
+        //IE support
+        myField.focus();
+        var range = document.selection.createRange();
+        focusValue = range.text;
+    }else if (myField.selectionStart || myField.selectionStart == '0') {
+        //MOZILLA/NETSCAPE support
+        var startPos = myField.selectionStart;
+        focusValue = myField.value.substr(0,startPos); 
+    }else{
+        focusValue = myField.value;
+    }   
+    return focusValue;
+}
+
+//언어 선택시
+function fnFontChange(){
+    if("eng" == "tha"){
+        $("#virtualKeyboard").find("span").addClass("manyLangTha");
+    }else{
+        $("#virtualKeyboard").find("span").addClass("manyLang6");
+    }
+}
+</script>
+<div id="keyboardLayer" style="display:none;border: none;">
+    <div id="languageSelect"  style="margin-left: -10px;margin-bottom: 5px;"></div>  
+    <div id="onetextClearBtn" class="manyLang6" style="text-align: right;margin-top: -25px;margin-right:-7px;">
+        <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+    </div>
+    <div id="td" style="margin-left: -18px;direction: ltr;" class="manyLang6" ></div>
+    <div id="vietnameseKeyboard"class="gray" style="margin-top:5px;display:none;'">
+        <div class="manyLang6" style="text-align: right;margin-top: -10px;">
+            <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+        </div>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Phụ âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">b</li>
+                        <li class="ui-state-default">c</li>
+                        <li class="ui-state-default">d</li>
+                        <li class="ui-state-default">đ</li>
+                        <li class="ui-state-default">g</li>
+                        <li class="ui-state-default">h</li>
+                        <li class="ui-state-default">k</li>
+                        <li class="ui-state-default">l</li>
+                        <li class="ui-state-default">m</li>
+                        <li class="ui-state-default">n</li>
+                        <li class="ui-state-default">p</li>
+                        <li class="ui-state-default">q</li>
+                        <li class="ui-state-default">r</li>
+                        <li class="ui-state-default">s</li>
+                        <li class="ui-state-default">t</li>
+                        <li class="ui-state-default">v</li>
+                        <li class="ui-state-default">x</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">f</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">j</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">w</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">z</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Nguyên âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">a</li>
+                        <li class="ui-state-default">á</li>
+                        <li class="ui-state-default">à</li>
+                        <li class="ui-state-default">ả</li>
+                        <li class="ui-state-default">ã</li>
+                        <li class="ui-state-default">ạ</li>
+                        <li class="ui-state-default">ă</li>
+                        <li class="ui-state-default">ắ</li>
+                        <li class="ui-state-default">ằ</li>
+                        <li class="ui-state-default">ẳ</li>
+                        <li class="ui-state-default">ẵ</li>
+                        <li class="ui-state-default">ặ</li>
+                        <li class="ui-state-default">â</li>
+                        <li class="ui-state-default">ấ</li>
+                        <li class="ui-state-default">ầ</li>
+                        <li class="ui-state-default">ẩ</li>
+                        <li class="ui-state-default">ẫ</li>
+                        <li class="ui-state-default">ậ</li>
+                        <li class="ui-state-default">o</li>
+                        <li class="ui-state-default">ó</li>
+                        <li class="ui-state-default">ò</li>
+                        <li class="ui-state-default">ỏ</li>
+                        <li class="ui-state-default">õ</li>
+                        <li class="ui-state-default">ọ</li>
+                        <li class="ui-state-default">ô</li>
+                        <li class="ui-state-default">ố</li>
+                        <li class="ui-state-default">ồ</li>
+                        <li class="ui-state-default">ổ</li>
+                        <li class="ui-state-default">ỗ</li>
+                        <li class="ui-state-default">ộ</li>
+                        <li class="ui-state-default">ơ</li>
+                        <li class="ui-state-default">ớ</li>
+                        <li class="ui-state-default">ờ</li>
+                        <li class="ui-state-default">ở</li>
+                        <li class="ui-state-default">ỡ</li>
+                        <li class="ui-state-default">ợ</li>
+                        
+                        <li class="ui-state-default">e</li>
+                        <li class="ui-state-default">é</li>
+                        <li class="ui-state-default">è</li>
+                        <li class="ui-state-default">ẻ</li>
+                        <li class="ui-state-default">ẽ</li>
+                        <li class="ui-state-default">ẹ</li>
+                        <li class="ui-state-default">ê</li>
+                        <li class="ui-state-default">ế</li>
+                        <li class="ui-state-default">ề</li>
+                        <li class="ui-state-default">ể</li>
+                        <li class="ui-state-default">ễ</li>
+                        <li class="ui-state-default">ệ</li>
+                        <li class="ui-state-default">u</li>
+                        <li class="ui-state-default">ú</li>
+                        <li class="ui-state-default">ù</li>
+                        <li class="ui-state-default">ủ</li>
+                        <li class="ui-state-default">ũ</li>
+                        <li class="ui-state-default">ụ</li>
+                        <li class="ui-state-default">ư</li>
+                        <li class="ui-state-default">ứ</li>
+                        <li class="ui-state-default">ừ</li>
+                        <li class="ui-state-default">ử</li>
+                        <li class="ui-state-default">ữ</li>
+                        <li class="ui-state-default">ự</li>
+                        <li class="ui-state-default">i</li>
+                        <li class="ui-state-default">í</li>
+                        <li class="ui-state-default">ì</li>
+                        <li class="ui-state-default">ỉ</li>
+                        <li class="ui-state-default">ĩ</li>
+                        <li class="ui-state-default">ị</li>
+                        <li class="ui-state-default">y</li>
+                        <li class="ui-state-default">ý</li>
+                        <li class="ui-state-default">ỳ</li>
+                        <li class="ui-state-default">ỷ</li>
+                        <li class="ui-state-default">ỹ</li>
+                        <li class="ui-state-default">ỵ</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="fraLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="fraType_a" style="display:none;">
+        <li class="ui-state-default languageKey languageKey">à</li>
+        <li class="ui-state-default languageKey">â</li>
+        <li class="ui-state-default languageKey">æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_A" style="display:none;">
+        <li class="ui-state-default languageKey">À</li>
+        <li class="ui-state-default languageKey">Â</li>
+        <li class="ui-state-default languageKey">Æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_c" style="display:none;">
+        <li class="ui-state-default languageKey">ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_C" style="display:none;">
+        <li class="ui-state-default languageKey">Ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+        <li class="ui-state-default languageKey">è</li>
+        <li class="ui-state-default languageKey">ë</li>
+        <li class="ui-state-default languageKey">ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+        <li class="ui-state-default languageKey">È</li>
+        <li class="ui-state-default languageKey">Ë</li>
+        <li class="ui-state-default languageKey">Ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_i" style="display:none;">
+        <li class="ui-state-default languageKey">î</li>
+        <li class="ui-state-default languageKey">ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Î</li>
+        <li class="ui-state-default languageKey">Ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ô</li>
+        <li class="ui-state-default languageKey">œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ô</li>
+        <li class="ui-state-default languageKey">Œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ù</li>
+        <li class="ui-state-default languageKey">û</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="fraType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ù</li>
+        <li class="ui-state-default languageKey">Û</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+</div>
+<div id="spaLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="spaType_a" style="display:none;">
+        <li class="ui-state-default languageKey">á</li>
+    </ol>
+    <ol class="selectable" id="spaType_A" style="display:none;">
+        <li class="ui-state-default languageKey">Á</li>
+    </ol>
+    <ol class="selectable" id="spaType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+    </ol>
+    <ol class="selectable" id="spaType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+    </ol>
+    <ol class="selectable" id="spaType_i" style="display:none;">
+        <li class="ui-state-default languageKey">í</li>
+    </ol>
+    <ol class="selectable" id="spaType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Í</li>
+    </ol>
+    <ol class="selectable" id="spaType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ú</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ú</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_n" style="display:none;">
+        <li class="ui-state-default languageKey">ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_N" style="display:none;">
+        <li class="ui-state-default languageKey">Ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_s!" style="display:none;">
+        <li class="ui-state-default languageKey">¡</li>
+    </ol>
+    <ol class="selectable" id="spaType_s?" style="display:none;">
+        <li class="ui-state-default languageKey">¿</li>
+    </ol>
+</div>
+<span id="textWidth" style="display:none;"></span>
+<!--//.search_wrap -->
+<script type="text/javascript">
+$(document).ready(function(){
+	//검색
+	$("form[name=mainSearchF]").find("input[name=mainSearchWord]").keypress(function(e){
+		if(e.keyCode === 13){
+			
+			checkSearch();
+			
+			if($.trim($(this).val()) != ""){
+				$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+		    	$("form[name=mainSearchF]").submit();
+			}
+		}	
+	});
+	
+	//자세히 찾기 검색조건 열고 닫기
+	$('.btn_detail_global').click(function(){
+		if($(this).is('.on')){
+			$(this).text('Hide Conditions');
+			$(this).removeClass('on');
+			$('.datail_form').slideDown();
+		} else{
+		   $(this).text('View Conditions');
+		   $(this).addClass('on');
+		   $('.datail_form').slideUp();
+		};
+		return false;
+	});	
+});
+
+//찾기
+function fnSearchWord(){
+	
+	checkSearch();
+	
+	if($.trim($("form[name=mainSearchF]").find("input[name=mainSearchWord]").val()) != ""){
+		$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+    	$("form[name=mainSearchF]").submit();
+	}
+}
+
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+    	type: 'GET',
+    	dataType:'json',
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	async: false,
+    	success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+    			var returnData = data.jsonList[0].returnData;
+    			for(var i=returnData.length-1; i>=0; i--){
+    				var html  = "";
+    				html += "<li id='myWord_"+returnData[i].word_no+"'>";
+					html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+					if(returnData[i].sup_no != "0"){
+						html += "<sup>"+returnData[i].sup_no+"</sup>";							
+					}else{
+						html += "<sup>&nbsp;</sup>";
+					}
+					html +="</span></a>";
+					html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+					html += "<img src='/images/2020/btn_del.png'/>";
+					html += "</a>";
+					html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+					html += "</li>";
+					
+    				$("#myWordList").append(html);
+    			}
+    			
+    			var btnHtml = "";
+    			btnHtml += "<div class='myword_btn mt10 manyLang6'>";
+    			btnHtml += " <a href='javascript:fnDeleteWord(\"all\");' class='btn_sm navyL del'><i class='ri-subtract-line'></i> Delete All</a>";
+    			btnHtml += "</div>";
+    			
+    			if($("#myWordList > li").length > 0){
+    				$("#myWordList").parent().append(btnHtml);
+    			}
+    		}
+    	}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    			
+    			if($("#myWordList > li").length <= 0){
+					$("#myWordList").parent().find(".btn_sm").remove();
+				}
+    		}
+    	}
+    });
+}
+
+//트위터
+function fnTwitter(){
+	var text = "기쁘다";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+//페이스북
+function fnFaceBook(){
+	var text = "기쁘다";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+</script>
+
+            <!-- content_wrap -->
+            <div class="content_wrap">
+                <form name="searchViewForm" method="get">
+                    <input type="hidden" name="divSearch" value="defViewGlobal"/>
+                    <input type="hidden" name="ParaWordNo" value="40078"/>
+                    <input type="hidden" name="subWordSeq" id="subWordSeq" value="" title="부표제어 번호"/>
+                    <input type="hidden" name="nationCode" value="6"/>
+                    <input type="hidden" name="ParaNationCode" value="6"/>
+                    <input type="hidden" name="nation" value="eng"/>
+                    <div class="sub_left notab"><!-- 상단에 탭메뉴 없을 시 notab 추가 -->
+                        <div class="result_title group notPrint">
+                            <div class="floatR">
+                                <div class="btnS_area">
+                                    <a href="javascript:fnDownload();" class="btn btnS navyL down"><i
+                                        class="ri-arrow-down-line"></i> <span
+                                        class="manyLang6">Download</span></a>
+                                    <a href="#plus" class="btn btnS navyL zoomin plus"
+                                       title="Larger">가</a>
+                                    <a href="#minus" class="btn btnS navyL zoomout minus"
+                                       title="Smaller">가</a>
+                                    <a href="#print" class="btn btnS navyL sns print"
+                                       title="Print"><span class="blind">Print</span></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="search_detail mt25">
+                            <div class="word_explain_tit ">
+                                <div class="head_tit group">
+                                    <div>
+                                        <span class="word_head">기쁘다</span>
+                                        
+
+                                        
+                                            
+					        					<span class="star ml7">
+					        						<i class="ri-star-s-fill"></i><i class="ri-star-s-fill"></i><i
+                                                    class="ri-star-s-fill"></i>
+					        					</span>
+                                            
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+
+                                
+                                    <div class="word_head_box">
+                                        
+                                            <dl>
+                                                <dt class="manyLang6">Pronunciation</dt>
+                                                <dd><span class="search_sub">[기쁘다<a href="javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyNy8zNDQwOS9TTkQwMDAwMjMxMTIubXAz');" class="sound"><i class="ri-volume-up-fill"></i><span class="blind">듣기</span></a>]</span></dd>
+                                            </dl>
+                                        
+
+                                        
+                                            <dl>
+                                                <dt class="manyLang6">Application</dt>
+                                                <dd><span class="search_sub">기쁜[기쁜], 기뻐[기뻐], 기쁘니[기쁘니], 기쁩니다[기쁨니다]</span></dd>
+                                            </dl>
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+                                            <dl>
+                                                <dt class="manyLang6">Part of Speech</dt>
+                                                <dd>
+						        					<span class="word_att_type1">
+						        						
+					        							
+                                                            
+                                                                
+                                                                    「형용사」
+                                                                
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+						        										<span class="manyLang6 ml5">
+												       						
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                    Adjective
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                            
+																		</span>
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                            
+                                                        
+						        					</span>
+                                                </dd>
+                                            </dl>
+                                        
+                                    </div>
+                                
+                            </div>
+
+                            <!-- 내용 보기 -->
+                            <div class="search_detail_view">
+                                <!-- explain -->
+                                <div class="detail_list">
+                                    
+                                        <div class="explain_list">
+                                            
+                                                
+                                                    <p class="multiTrans manyLang6 mb10 printArea">
+                                                        
+                                                        
+                                                            
+                                                                happy; glad
+                                                            
+                                                            
+                                                        
+                                                    </p>
+                                                    <p class="senseDef ml20 printArea">
+													<span class="senseDefNo" style="display:none;">
+														
+													</span>
+                                                            기분이 매우 좋고 즐겁다.
+                                                    </p>
+                                                    <p class="multiSenseDef manyLang6 ml20 printArea">
+                                                        Feeling very good and in a good mood.
+                                                    </p>
+                                                
+                                                
+                                            
+                                            <ul class="dot printArea">
+                                                
+                                                
+
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                                <li><B>기쁜</B> 마음.</li>
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                                <li><B>기쁜</B> 일.</li>
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                                <li><B>기쁘게</B> 노래하다.</li>
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                                <li><B>기쁘게</B> 맞아 주다.</li>
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                                <li>승리가 <B>기쁘다</B>.</li>
+                                                            
+                                                            
+                                                        
+                                                        
+                                                            
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                                <li class="moreExample0"
+                                                                    style="display:none;">우승이 <B>기쁘다</B>.</li>
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                                <li class="moreExample0"
+                                                                    style="display:none;">합격이 <B>기쁘다</B>.</li>
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                                <li class="moreExample0"
+                                                                    style="display:none;">뛸 듯이 <B>기쁘다</B>.</li>
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+
+                                                
+                                                    
+                                                        <li>마음이 너무 <B>기뻐요</B>.</li>
+                                                    
+                                                
+                                                    
+                                                        <li>나는 이번 시험에서 일 등을 해서 매우 <B>기뻤다</B>.</li>
+                                                    
+                                                
+                                                    
+                                                        <li>지수는 평소 갖고 싶었던 옷을 선물로 받아서 아주 <B>기뻤다</B>.</li>
+                                                    
+                                                
+                                                    
+                                                        <li>승규는 온 가족이 함께 웃고 사랑할 수 있는 지금 이 순간이 무척 <B>기쁘다</B>.</li>
+                                                    
+                                                
+
+                                                
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+
+                                                
+                                                
+                                                    
+                                                
+                                                    
+                                                
+
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                                    <li>
+                                                                    가: 우리가 이렇게 다시 만나게 되어서 정말 <B>기뻐요</B>.<br/>
+                                                                
+                                                                
+                                                            
+                                                            
+                                                        
+                                                    
+                                                        
+                                                            
+                                                                
+                                                                나: 저도 정말 반갑고 기분 좋습니다.<br/>
+                                                                    </li>
+                                                                
+                                                            
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+
+                                                
+                                            </ul>
+
+                                            
+                                                <a id="btnBox0" href="javascript:fnMoreExView('0');"
+                                                   class="btn_explain"><span id="spanBox0" class="manyLang6">See More</span></a>
+                                            
+
+                                            <!-- 문형 결과가 있을때 증가값으로 조건 검사 -->
+                                            
+
+                                            
+                                                
+                                                    
+                                                
+                                            
+
+                                            <!-- 유의어 반대말이 있을때 증가값 조건 검사 -->
+                                            
+
+                                            
+                                                
+                                                
+                                                    
+                                                        
+                                                    
+                                                        
+                                                            
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                        
+                                                    
+                                                
+                                            
+
+                                            <!-- 자세히 보기 시작 -->
+                                            
+                                                <!-- word_detail_view -->
+                                                <div class="heading_wrap printArea">
+
+                                                    <!-- 의미 참조 -->
+                                                    
+
+                                                    <!-- 문형 -->
+                                                    
+                                                        <dl>
+                                                            <dt><span class="manyLang6">Sentence</span></dt>
+                                                            <dd>
+                                                                
+                                                                
+                                                                    
+                                                                        
+                                                                            
+                                                                            
+                                                                                
+                                                                                
+                                                                            
+                                                                        
+                                                                    
+                                                                
+
+                                                                
+                                                                    1이 2가 기쁘다
+                                                                
+                                                            </dd>
+                                                        </dl>
+                                                    
+
+                                                    <!-- 문형 참고 -->
+                                                    
+
+                                                    <!-- 관련어 -->
+                                                    
+                                                        
+                                                            
+                                                            
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                        <dl>
+                                                                            <dt>
+																			<span class="manyLang6">
+																				
+                                                                                    
+                                                                                    
+                                                                                        Antonym
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                
+																			</span>
+                                                                            </dt>
+                                                                            <dd>
+                                                                                
+                                                                                     <a href="javascript:checkSubmit('65103');" class="undL">슬프다</a>
+                                                                            </dd>
+                                                                        </dl>
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                </div>
+                                            
+                                            <!-- 자세히 보기 끝 -->
+                                        </div>
+
+                                        
+                                        
+                                        
+                                        
+
+                                        
+
+                                        
+                                    
+                                </div>
+
+                                <!-- 의견보내기 : start -->
+                                <div class="detail_list notPrint">
+                                    <p class="alC mb20"><a href="#"
+                                                           class="btn btnB blue btn_com_many manyLang6 on">Send opinion</a></p>
+                                    <div class="comment_send manyLang6" style="display:none;">
+                                        <!-- boardList -->
+                                        <table class="boardComm alL">
+                                            <caption>Send opinion</caption>
+                                            <colgroup>
+                                                <col class="wf20">
+                                                <col>
+                                            </colgroup>
+                                            <tbody>
+                                            <tr>
+                                                <th scope="row"><label for="captchaNumber">Security Characters</label></th>
+                                                <td>
+                                                    <div>
+                                                        <span id="captcha" class="captchaImg"></span>
+                                                        <span class="btnS_area ml10">
+						                        			<a href="javascript:fnListeningKorea('K');"
+                                                               class="btn btnS navyL volume">
+						                        				<i class="ri-volume-down-line"></i> 
+						                        				Play audio
+						                        			</a>
+						                        			<a href="javascript:fnRefershCaptcha('captcha');"
+                                                               class="btn btnS navyL refresh">
+						                        				<i class="ri-refresh-line"></i> 
+						                        				Refresh
+						                        			</a>
+						                        		</span>
+                                                    </div>
+                                                    <p>
+                                                        <input type="text" name="captchaNumber" id="captchaNumber"
+                                                               class="wf50 mt10"
+                                                               title="Security Characters">
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><label for="comment_user_name">Name</label></th>
+                                                <td>
+                                                    <input type="text" data-count="128" id="comment_user_name"
+                                                           name="comment_user_name"
+                                                           title="Name"/>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><label for="comment_title">Title</label></th>
+                                                <td><input type="text" name="comment_title" id="comment_title"
+                                                           title="Title"></td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><label for="wordComment">Content</label></th>
+                                                <td>
+                                                    <textarea name="wordComment" id="wordComment" class="wf80"
+                                                              title="Content"></textarea>
+                                                    <a href="javascript:fnWordsCommentSave('40078');"
+                                                       class="btn_comm ml10"><p>Send opinion</p>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                        <div class="star_wrap">
+                                            <p>We are looking forward to receiving your opinions regarding dictionary content.<br>(Although we are not able to reply, we will refer to your opinion for dictionary content development and supplementation.)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- //의견보내기 : end -->
+
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- sub_right -->
+                    <div class="sub_right notPrint">
+                        <div class="div_wrap bg manyLang6">
+                            <div class="title">View Mode</div>
+                            <ul class="radiobox row">
+                                <li><input type="radio" name="viewTypes" id="viewAll"
+                                           onclick="javascript:fnViewSelect('A');" checked="checked"/><label
+                                    for="viewAll">Korean + English</label></li>
+                                <li><input type="radio" name="viewTypes" id="viewKorean"
+                                           onclick="javascript:fnViewSelect('K');"/><label
+                                    for="viewKorean">Korean</label></li>
+                                <li><input type="radio" name="viewTypes" id="viewMultilan"
+                                           onclick="javascript:fnViewSelect('M');"/><label
+                                    for="viewMultilan">English</label></li>
+                            </ul>
+                        </div>
+                        <div class="div_wrap">
+                            <div class="title manyLang6">My Search History</div>
+                            <ul id="myWordList" class="myword_list"></ul>
+                        </div>
+                        <!-- 네이버 배너 -->
+                        <div class="div_wrap bg banner manyLang6">
+                            <a href="http://www.naverfoundation.org" target="_blank">
+                                <div class="banner_naver">
+                                    Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.
+                                    <img src="/images/2020/banner_naver.png" alt="naver 문화재단" class="mt5">
+                                </div>
+                            </a>
+                        </div>
+                        <!-- //네이버 배너 -->
+                    </div>
+                    <input type="hidden" name="_csrf" value="e2e92421-0ebe-4370-8e34-7c369e8a4785" />
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- //container -->
+    
+
+<!-- footer -->
+<div id="footer">
+    <div class="footer_wrap">
+        <div class="foot_menu manyLang6">
+            <a href="https://korean.go.kr" class="logo"><img src="/images/2020/manyLang/eng_footer_logo.png" alt="National Institute of Korean Language" /></a>
+            <ul>
+                <li><a href="/eng/help/helpList">Help</a></li>
+                <li><a href="/eng/guide/guideList">Translation guideline</a></li>
+                <li><a href="/eng/kboardPolicy/copyRightTermsInfo">Copyright Policy</a></li>
+                <li><a href="/eng/board/kboardListUserAction?&notice_category=engDic">Notice</a></li>
+                <li><a href="/eng/openApi/openApiInfo">Open API</a></li>
+                <li><a href="/eng/comment/commentErrorReport">Suggestion</a></li>
+            </ul>
+        </div>
+        <div class="family select">
+            <select id="Buttom_Global_nationCode" name="Button_Global_nationCode" class="manyLang6">
+                <option value="KR">Basic Korean Dictionary</option>
+                <option value="KR_HOME">National Institute of Korean Language</option>
+            </select>
+            <a href="javascript:javascript:buttomSite();" class="goBtn manyLang6">Move</a>
+        </div>
+    </div>
+</div>
+<!-- //.footer -->
+
+</div>
+
+
+</body>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //내가 살펴본 단어 목록
+        fnMyViewWordList();
+
+        //보안문자 생성
+        fnRefershCaptcha("captcha");
+
+
+        //다국어사전 의견 보내기 클릭
+        $('.btn_com_many').click(function () {
+            if ($(this).is('.on')) {
+                $(this).text("Send opinion");
+                $(this).removeClass('on');
+                $('.comment_send').slideDown();
+            } else {
+                $(this).text("Send opinion");
+                $(this).addClass('on');
+                $('.comment_send').slideUp();
+            }
+            ;
+            return false;
+        });
+
+
+        //검색 결과에서 속담/관용구 탭에서 선택시 자동 스크롤
+        if ("W" == "P") {
+            var currentPosition = $(".idiom_adage").position().top;
+            $('html,body').animate({scrollTop: currentPosition}, 1);
+        }
+
+        //부표제어 링크시
+        if ("" != null && "" != "") {
+
+            var currentPosition = $("#subword_").offset().top - 10;
+            $("html, body").animate({scrollTop: currentPosition}, 1);
+            $("#subword_").addClass("senseLink");
+            $("#subword_").find(".gray_heading").addClass("senseLink");
+            $("#subword_").find(".gray_heading").css("border-top", "0px");
+        }
+    });
+
+    function checkSubmit(word_no) {
+        $("input[name=ParaWordNo]").val(word_no);
+        $("form[name=searchViewForm]").attr("action", "/eng/dicSearch/SearchView");
+        $("form[name=searchViewForm]").submit();
+    }
+
+    function fnSubwordDetailView(word_no, subword_seq) {
+        $("input[name=ParaWordNo]").val(word_no);
+        $("input[name=subWordSeq]").val(subword_seq);
+        $("form[name=searchViewForm]").attr("action", "/eng/dicSearch/SearchView");
+        $("form[name=searchViewForm]").submit();
+    }
+
+    //용례 Display
+    function fnMoreExView(index) {
+        if ($("#btnBox" + index).is('.on')) {
+            $("#btnBox" + index).removeClass('on');
+            $("#spanBox" + index).text("See More");
+            $(".moreExample" + index).hide();
+        } else {
+            $("#btnBox" + index).addClass("on");
+            $("#spanBox" + index).text("Close");
+            $(".moreExample" + index).show();
+        }
+    }
+
+    function fnViewMultiMedia(searchKindValue, fileNo, senseSeq, multiMediaSeq, study_file_seq) {
+        var url;
+        if (searchKindValue == "image") {
+            url = "/eng/dicSearch/viewImageConfirm?searchKindValue=" + searchKindValue + "&ParaWordNo=40078&ParaSenseSeq=" + senseSeq + "&multiMediaSeq=" + multiMediaSeq + "&study_file_seq=" + study_file_seq;
+        } else if (searchKindValue == "video") {
+            url = "/eng/dicSearch/viewMovieConfirm?searchKindValue=" + searchKindValue + "&ParaWordNo=40078&ParaSenseSeq=" + senseSeq + "&multiMediaSeq=" + multiMediaSeq;
+        } else if (searchKindValue == "sound") {
+            url = "/eng/dicSearch/viewSoundConfirm?searchKindValue=" + searchKindValue + "&ParaWordNo=40078&ParaSenseSeq=" + senseSeq + "&multiMediaSeq=" + multiMediaSeq;
+        }
+
+        fnWindowOpen(url, "target_multiMedia", 850, 850, "yes");
+
+    }
+
+    //의견보기 저장
+    function fnWordsCommentSave(word_no) {
+        var comment_user_name = $("input[name=comment_user_name]").val();
+        var comment_title = $("input[name=comment_title]").val();
+        var captchaNumber = $("input[name=captchaNumber]").val();
+        var content = $("textarea[name=wordComment]").val();
+
+        if ($.trim(captchaNumber) == "") {
+            alert("Please write your security characters");
+            $("input[name=captchaNumber]").focus();
+        } else if ($.trim(comment_user_name) == "") {
+            alert("Enter your name.");
+            $("input[name=comment_user_name]").focus();
+        } else if ($.trim(comment_title) == "") {
+            alert("Please enter the title.");
+            $("input[name=comment_title]").focus();
+        } else if ($.trim(content) == "") {
+            alert("Please write your suggestion");
+            $("textarea[name=wordComment]").focus();
+        } else {
+            $.ajax({
+                url: '/captcha/compareCaptcha',
+                type: 'POST',
+                dataType: 'json',
+                data: 'captchaNumber=' + captchaNumber,
+                beforeSend: function (xhr) {
+                    const csrf = $("meta[name='_csrf']").attr("content");
+                    const csrf_header = $("meta[name='_csrf_header']").attr("content");
+                    xhr.setRequestHeader(csrf_header, csrf);
+                 },
+                success: function (data) {
+                    if (data.Result == "Y") {
+                        $.ajax({
+                            url: '/eng/comment/insertWordsComment',
+                            type: 'POST',
+                            dataType: 'json',
+                            data: {
+                                word_no: word_no
+                                , comment_user_name: comment_user_name
+                                , comment_title: comment_title
+                                , content: content
+                            },
+                            beforeSend: function (xhr) {
+                                const csrf = $("meta[name='_csrf']").attr("content");
+                                const csrf_header = $("meta[name='_csrf_header']").attr("content");
+                                xhr.setRequestHeader(csrf_header, csrf);
+                             },
+                            success: function (data) {
+                                if (data.Result == "Y") {
+                                    alert("Your opinion has been sent");
+                                    $("input[name=comment_user_name]").val("");
+                                    $("input[name=comment_title]").val("");
+                                    $("input[name=captchaNumber]").val("");
+                                    $("textarea[name=wordComment]").val("");
+                                    $(".btn_comment").removeClass("on");
+                                    $(".comment_send").removeClass("on");
+                                    $("form[name=searchViewForm]").attr("action", "/eng/dicSearch/SearchView");
+                                    $("form[name=searchViewForm]").submit();
+                                } else {
+                                    alert("ERROR");
+                                }
+                            },
+                            error: function (data) {
+                                alert("ERROR");
+                                $("input[name=comment_user_name]").val("");
+                                $("input[name=comment_title]").val("");
+                                $("input[name=captchaNumber]").val("");
+                                $("textarea[name=wordComment]").val("");
+                                fnRefershCaptcha("captcha");
+                            }
+                        });
+                    } else {
+                        alert("The letters are not matched.");
+                        $("input[name=captchaNumber]").val("");
+                        $("input[name=captchaNumber]").focus();
+                        fnRefershCaptcha("captcha");
+                    }
+                }
+            });
+        }
+    }
+
+    //어휘 링크
+    function fnWordsLink(word_no) {
+        fnWindowOpen("/eng/dicSearch/wordLinkViewPopup?ParaWordNo=" + word_no, "wordLinkViewPopup", "700", "500", "no");
+    }
+
+    function fnViewSelect(type) {
+        if (type == "A") {
+            $(".multiTrans").show();
+            $(".multiTrans").css("margin-bottom", "13px");
+            $(".multiSenseDef").show();
+            $(".senseDef").show();
+            $(".senseDef").addClass("ml20");
+            /* $(".senseDef").css("line-height","20px"); */
+            $(".senseDefNo").hide();
+            $(".subMultiTrans").show();
+            /* $(".subMultiTrans").css("margin-bottom","-5px"); */
+            $(".subMultiSenseDef").show();
+            $(".subSenseDef").show();
+            $(".subSenseDefNo").hide();
+            $(".subSenseDef").addClass("ml20");
+            /* $(".examplesUl").css("margin-bottom","10px");
+            $(".examplesUl").css("margin-left","20px");
+            $(".idiomDiv").css("padding-top","0px");
+            $(".subwordDetailViewDiv").css("margin-top","0px");
+            $(".subwordDetailViewDiv").css("margin-left","0px"); */
+        } else if (type == "K") {
+            $(".multiTrans").hide();
+            $(".multiSenseDef").hide();
+            $(".senseDef").show();
+            $(".senseDef").removeClass("ml20");
+            /* $(".senseDef").css("line-height","20px"); */
+            $(".senseDefNo").show();
+            $(".subMultiTrans").hide();
+            $(".subMultiSenseDef").hide();
+            $(".subSenseDef").show();
+            $(".subSenseDefNo").show();
+            $(".subSenseDef").removeClass("ml20");
+            /* $(".examplesUl").css("margin-bottom","-20px");
+            $(".examplesUl").css("margin-left","35px");
+            $(".idiomDiv").css("padding-top","25px");
+            $(".subwordDetailViewDiv").css("margin-top","35px");
+            $(".subwordDetailViewDiv").css("margin-bottom","0px");
+            $(".subwordDetailViewDiv").css("margin-left","15px"); */
+        } else if (type == "M") {
+            $(".multiTrans").show();
+            $(".multiSenseDef").show();
+            $(".senseDef").hide();
+            $(".subMultiTrans").show();
+            $(".subMultiSenseDef").show();
+            $(".subSenseDef").hide();
+            /* $(".examplesUl").css("margin-bottom","0px");
+            $(".examplesUl").css("margin-left","20px");
+            $(".idiomDiv").css("padding-top","25px");
+            $(".subwordDetailViewDiv").css("margin-top","0px");
+            $(".subwordDetailViewDiv").css("margin-left","5px"); */
+        }
+    }
+
+    function fnDownload() {
+        $("form[name=searchViewForm]").attr("action", "/dicSearch/viewDownload");
+        $("form[name=searchViewForm]").submit();
+    }
+</script>
+
+</html>

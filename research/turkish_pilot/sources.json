@@ -1,0 +1,46 @@
+{
+  "BIV": {
+    "title": "Ovsjannikova, Maria. 2020. Bivalent patterns in Turkish. BivalTyp. Consultant: Enes Taştan.",
+    "url": "https://bivaltyp.info/languages/descriptions/Turkish.html",
+    "kind": "elicited_database",
+    "file": "bivaltyp_selected.json"
+  },
+  "GK": {
+    "title": "Göksel, Aslı & Celia Kerslake. 2005. Turkish: A Comprehensive Grammar. Routledge.",
+    "url": "https://doi.org/10.4324/9780203340769",
+    "kind": "reference_grammar",
+    "file": "goksel_kerslake2005.txt",
+    "pdf": "goksel_kerslake2005.pdf"
+  },
+  "K": {
+    "title": "Kornfilt, Jaklin. 1997. Turkish. Routledge (Descriptive Grammars).",
+    "url": "https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Turkic/Turkish%20%28Kornfilt%29.pdf",
+    "kind": "reference_grammar",
+    "file": "kornfilt1997.txt",
+    "pdf": "kornfilt1997.pdf"
+  },
+  "ETG": {
+    "title": "Demir, Halit. 2025-10-04. Turkish Verb Conjugation: Hoşuna Gitmek. Easy Turkish Grammar.",
+    "url": "https://www.easyturkishgrammar.com/post/turkish-verb-conjugation-ho%C5%9Funa-gitmek",
+    "kind": "teaching",
+    "file": "etg_hosuna.txt"
+  },
+  "EL": {
+    "title": "Elon.io. Likes, Dislikes, and Hobbies.",
+    "url": "https://elon.io/grammar/turkish/expressions/likes-hobbies",
+    "kind": "teaching_secondary",
+    "file": "elon_like.txt"
+  },
+  "TF": {
+    "title": "Le Roux, Nicolas. 2026-01 (updated). How to Introduce Yourself in Turkish. TurkishFluent.",
+    "url": "https://turkishfluent.com/blog/how-to-introduce-yourself-in-turkish/",
+    "kind": "teaching_secondary",
+    "file": "introductions.txt"
+  },
+  "SU": {
+    "title": "gazeteSU, Sabancı Üniversitesi. Öğretim Üyemiz Raha Akhavan, ABD’deki yüzme başarısını gazeteSU’ya anlattı.",
+    "url": "https://gazetesu.sabanciuniv.edu/tr/ogretim-uyemiz-raha-akhavan-abddeki-yuzme-basarisini-gazetesuya-anlatti",
+    "kind": "native_interview",
+    "file": "sabanci_bayil.txt"
+  }
+}

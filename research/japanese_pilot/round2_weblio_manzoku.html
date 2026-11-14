@@ -1,0 +1,1992 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- DataLayer -->
+<script>
+    
+    dataLayer = [{
+        
+        'member':'non-member',
+        'splitTest': 'A'
+    }];
+</script>
+<!-- /DataLayer -->
+<!-- Start Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i) {
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;
+        j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCM52W');
+</script>
+<!-- End Google Tag Manager -->
+<script>
+    
+
+// define Monetization Provider
+class CustomMonetizationProvider {
+    async initialize(initializeParams) {
+        return {initializeSuccess: true, apiVersionInUse: "1.0.0", signInMonetizationPortalSupported: false};
+    }
+    async getUserEntitlementState() {
+        return googlefc.monetization.UserEntitlementStateEnum.ENTITLED_NO;
+    }
+    async monetize(monetizeParams) {
+        window.location.href = 'https://uwl.weblio.jp/ps/';
+    }
+    async destroy(destructionParams) {
+        console.log('Custom provider is no longer initialized.');
+    }
+}
+
+// register Monetization Provider
+window.googlefc = window.googlefc || {};
+window.googlefc.monetization = window.googlefc.monetization || {};
+window.googlefc.monetization.providerRegistry = window.googlefc.monetization.providerRegistry || new Map();
+window.googlefc.monetization.providerRegistry.set('publisherCustom', new CustomMonetizationProvider());
+</script>
+
+<!-- Geniee Wrapper Head Tag -->
+<script>
+  window.gnshbrequest = window.gnshbrequest || {cmd:[]};
+  window.gnshbrequest.cmd.push(function(){
+    window.gnshbrequest.forceInternalRequest();
+  });
+</script>
+<script async src="https://cpt.geniee.jp/hb/v1/869/2920/wrapper.min.js"></script>
+<!-- /Geniee Wrapper Head Tag -->
+
+<!-- DFP head -->
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<!-- /DFP head -->
+
+<script>
+    googletag.cmd.push(function () {
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_sentence_RightTop_300x600',
+            [300, 600],
+            'div-gpt-ad-1635315849039-0'
+        ).addService(googletag.pubads());
+        
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_sentence_MiddleLeft_336x280',
+            [336, 280],
+            'div-gpt-ad-1635315689686-0'
+        ).addService(googletag.pubads());
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_sentence_MiddleRight_336x280',
+            [336, 280],
+            'div-gpt-ad-1635315732493-0'
+        ).addService(googletag.pubads());
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_sentence_FooterLeft_336x280',
+            [336, 280],
+            'div-gpt-ad-1635315771398-0'
+        ).addService(googletag.pubads());
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_sentence_FooterRight_336x280',
+            [336, 280],
+            'div-gpt-ad-1635315810692-0'
+        ).addService(googletag.pubads());
+        
+        googletag.defineSlot(
+            '/2211331/Weblio_PC_ejje_Overlay_728x90',
+            [728, 90],
+            'div-gpt-ad-1635315447702-0'
+        ).addService(googletag.pubads());
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+
+<!-- Define callback function -->
+<script type="text/javascript">
+    var readyBids = {
+        prebid: false,
+        google: false
+    };
+    var failSafeTimeout = 3e3;
+    var launchAdServer = function () {
+        if (!readyBids.prebid) {
+            return;
+        }
+        requestAdServer();
+    };
+    var requestAdServer = function () {
+        if (!readyBids.google) {
+            readyBids.google = true;
+            googletag.cmd.push(function () {
+                pbjs.que.push(function () {
+                    pbjs.setTargetingForGPTAsync();
+                });
+                googletag.pubads().refresh();
+            });
+        }
+    };
+</script>
+<!-- /Define callback function -->
+
+<script src="https://flux-cdn.com/client/weblio/flux_weblio_TM.min.js" type="text/javascript" id="prebid-express"
+        data-prex="on"></script>
+<!-- prebidを動かすために必要なタグ -->
+<script type="text/javascript">
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+</script>
+
+<script type="text/javascript">
+    var headerBiddingCall = function () {
+        prebidBidder();
+    }
+    headerBiddingCall();
+    setTimeout(function () {
+        if (readyBids.google === false) {
+            requestAdServer();
+        }
+    }, failSafeTimeout);
+</script>
+<script type="text/javascript">
+(function($) {
+var weblioAdsByGoogle = window.weblioAdsByGoogle = window.weblioAdsByGoogle || [];
+$(function() {
+  for (var i = 0; i < weblioAdsByGoogle.length; ++i) {
+    (adsbygoogle = window.adsbygoogle || []).push(weblioAdsByGoogle[i]);
+  }
+});
+})(jQuery);
+</script>
+<link rel="manifest" href="https://ejje.weblio.jp/manifest.json"/>
+<link rel="icon" sizes="144x144" href="https://cdn.weblio.jp/e7/img/favicon/ejje.png"/>
+<link rel="apple-touch-icon" href="https://cdn.weblio.jp/e7/img/favicon/ejje/safari/apple-touch-icon.png"/>
+<meta name="msapplication-square70x70logo" content="https://cdn.weblio.jp/e7/img/favicon/ejje/ie/site-tile-70x70.png"/>
+<meta name="msapplication-square150x150logo" content="https://cdn.weblio.jp/e7/img/favicon/ejje/ie/site-tile-150x150.png"/>
+<meta name="msapplication-wide310x150logo" content="https://cdn.weblio.jp/e7/img/favicon/ejje/ie/site-tile-310x150.png"/>
+<meta name="msapplication-square310x310logo" content="https://cdn.weblio.jp/e7/img/favicon/ejje/ie/site-tile-310x310.png"/>
+<title>「満足」に関連した英語例文の一覧と使い方 - Weblio英語例文検索</title>
+<meta name="description" content="「満足」に関連した英語例文の一覧と使い方">
+<meta name="keywords" content="満足,英語例文,英語例文検索,一覧,使い方">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@weblio">
+<meta name="twitter:title" content="weblio英語例文検索">
+<meta name="twitter:description" content="満足">
+<meta name="twitter:image" content="https://cdn.weblio.jp/e7/img/icons/logo.png">
+<meta name="robots" content="noindex" />
+<link rel="canonical" href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3"/>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css"
+      href="https://cdn.weblio.jp/e7/styles/pc/ejje/sentence/content/root.css?tst=2026111109">
+<script type="text/javascript" src="https://cdn.weblio.jp/e7/script/ejje.js?tst=2026111109" charset="UTF-8"></script>
+<style>
+    /* main_ad.css 始め */
+    .adH a {
+        background: url(https://cdn.weblio.jp/e7/img/iconArrRd.png) no-repeat left 0.1em;
+        margin-right: 10px;
+        padding-left: 12px;
+    }
+    .adW a {
+        background: url(https://cdn.weblio.jp/e7/img/iconArrRd.png) no-repeat left 0.2em;
+        margin-right: 10px;
+        padding-left: 12px;
+    }
+    .wrpCmp {
+        border: #0066cc solid;
+        border-width: 0 0 1px 0;
+        height: 25px;
+        margin: 15px 0 5px 0;
+    }
+    .wrpCmp p {
+        border: #0066cc solid;
+        border-width: 0 0 0 5px;
+        font-size: 1.3em;
+        height: 20px;
+        margin: 0;
+        padding: 0 0 3px 5px;
+    }
+    .wrpCmpCom {
+        border: #de7d29 solid;
+        border-width: 0 0 1px 0;
+        height: 25px;
+        margin: 15px 0 5px 0;
+    }
+    .wrpCmpCom p {
+        border: #de7d29 solid;
+        border-width: 0 0 0 5px;
+        font-size: 1.3em;
+        height: 20px;
+        margin: 0;
+        padding: 0 0 3px 5px;
+    }
+    .adU a {
+        background: url(https://cdn.weblio.jp/e7/img/iconCrcRd.png) no-repeat left 0.1em;
+        font-size: 1.1em;
+        font-weight: bold;
+        padding-left: 1.2em;
+    }
+    .wrpIMCmp {
+        border: #0066cc solid;
+        border-width: 0 0 1px 0;
+        height: 25px;
+        margin: 5px 0 5px 0;
+    }
+    .wrpIMCmp p {
+        border: #0066cc solid;
+        border-width: 0 0 0 5px;
+        font-size: 1.1em;
+        font-weight: bolder;
+        height: 18px;
+        margin: 0;
+        padding: 2px 0 5px 5px;
+    }
+    .wrpIMCmpCom {
+        border: #de7d29 solid;
+        border-width: 0 0 1px 0;
+        height: 25px;
+        margin: 5px 0 5px 0;
+    }
+    .wrpIMCmpCom p {
+        border: #de7d29 solid;
+        border-width: 0 0 0 5px;
+        font-size: 1.1em;
+        font-weight: bolder;
+        height: 18px;
+        margin: 0;
+        padding: 2px 0 5px 5px;
+    }
+    .adHI .adHicn, .adFI .adHicn, .adFISb .adHicn, .adFIBIcn .adHicn {
+        color: #e30000;
+        font-size: 11px;
+    }
+    .adFISb .adHIcn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconYkP.png);
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        display: block;
+        float: left;
+        height: 13px;
+        margin: 3px 0 0 0;
+        padding: 0 0 0 0;
+        width: 14px;
+    }
+    .adFIBIcn .adHIcn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconYkP.png);
+        background-position: -14px 0;
+        background-repeat: no-repeat;
+        display: block;
+        float: left;
+        height: 13px;
+        margin: 3px 0 0 0;
+        padding: 0 0 0 0;
+        width: 14px;
+    }
+    .adFISbWrpTwo .adFISb .adHIcn, .adFISbWrpTwo .adFIBIcn .adHIcn {
+        margin: 7px 0 0 0;
+    }
+    .adFISbWrpTwo .adHSpl {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/wRenew/iconPntPk.png);
+        background-position: left center;
+        background-repeat: no-repeat;
+        padding-left: 10px;
+    }
+    .adFISbWrpTwo .adHSpl {
+        padding-left: 12px;
+    }
+    .adFISbWrpThree .adFISb .adHIcn, .adFISbWrpThree .adFIBIcn .adHIcn {
+        margin: 7px 0 0 0;
+    }
+    .adFISbWrpFt .adFIIcn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/adBoxArrow.png);
+        background-repeat: no-repeat;
+        height: 40px;
+        width: 40px;
+    }
+    .topAdIMM a {
+        background: url(https://cdn.weblio.jp/e7/img/iconPrRd.png) no-repeat left 0.1em;
+        font-size: 0.9em;
+        padding-left: 2.2em;
+    }
+    .ocmAdHIcnImg {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/wRenew/iconPntPk.png);
+        background-position: left center;
+        background-repeat: no-repeat;
+        height: 10px;
+        padding-left: 10px;
+        width: 6px;
+    }
+    /* main_ad.css 終り */
+    /* side_ad.css 始り */
+    .topAdIMGSp a {
+        background: url(https://cdn.weblio.jp/e7/img/iconCrcRd.png) no-repeat left 0.1em;
+        font-size: 0.9em;
+        font-weight: bold;
+        padding-left: 1.2em;
+    }
+    .sideBoxBRHCom {
+        background-color: #feaa15;
+        border: #e38e00 solid;
+        border-width: 0 0 1px 0;
+        color: #fff;
+        font-weight: bold;
+        margin: 0;
+        padding: 5px 3px 5px 7px;
+        text-align: left;
+    }
+    .sideBoxBRCCom {
+        background-color: #fff;
+        border: #ccc solid;
+        border-width: 0 1px 1px 1px;
+        margin-bottom: 10px;
+        padding: 5px;
+        text-align: left;
+    }
+    /* スマート翻訳への誘導リンクボックス開始 */
+    .sideBxStGyH {
+        background-color: #ccc;
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/bgSideBxStGy.png);
+        background-position: 0 0;
+        background-repeat: repeat-x;
+        border: #666 solid 1px;
+        color: #fff;
+        height: 24px;
+    }
+    /* スマート翻訳への誘導リンクボックス終了 */
+    /* Adobe Reader プラグインへの誘導リンクボックス開始 */
+    .sideBxAdbH {
+        background-color: #ccc;
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/bgSideBxStGy.png);
+        background-position: 0 0;
+        background-repeat: repeat-x;
+        border: #666 solid 1px;
+        color: #fff;
+        height: 24px;
+    }
+    /* Adobe Reader プラグインへの誘導リンクボックス開始 */
+    /* Chrome Extensionへの誘導リンクボックス開始 */
+    .sideBxCrmExH {
+        background-color: #ccc;
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/bgSideBxStGy.png);
+        background-position: 0 0;
+        background-repeat: repeat-x;
+        border: #666 solid 1px;
+        color: #fff;
+        height: 24px;
+    }
+    /* Chrome Extensionへの誘導リンクボックス終了 */
+    /* side_ad.css 終り */
+    /*  side_menu_renew.css 始め */
+    .sideBoxHCom {
+        background-color: #ffefd6;
+        color: #000;
+        font-weight: bold;
+        margin: 0;
+        padding: 5px 0;
+        text-align: left;
+    }
+    .kanaAlpha {
+        display: block;
+        font-family: "ＭＳ ゴシック", "平成角ゴシック", monospace;
+        font-size: 13px;
+        margin: 0 0 10px 7px;
+        line-height: 1.85em;
+        text-align: left;
+    }
+    .bulb0 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    .bulb1 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 -12px;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    .bulb2 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 -24px;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    .bulb3 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 -36px;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    .bulb4 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 -48px;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    .bulb5 {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/iconBLB.png);
+        background-position: 0 -60px;
+        background-repeat: no-repeat;
+        height: 0%;
+        margin: 0 0 0 0;
+        padding: 0 49px 1px 0;
+        position: relative;
+        top: -2px;
+    }
+    /* 類語辞典 英語辞典 中国語辞典 開始 */
+    .sideBxStApHCmn {
+        background-color: #ccc;
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/bgSideBxStGy.png);
+        background-position: 0 0;
+        background-repeat: repeat-x;
+        border: #666 solid 1px;
+        color: #fff;
+        height: 24px;
+        padding: 0;
+        margin: 0;
+        _width: 300px;
+    }
+    /* 類語辞典 英語辞典 中国語辞典 終了 */
+    /* 書籍音声データダウンロードページ開始 */
+    .sideBxPblshDlH {
+        background-color: #ccc;
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/bgSideBxStGy.png);
+        background-position: 0 0;
+        background-repeat: repeat-x;
+        border: #666 solid 1px;
+        color: #fff;
+        height: 24px;
+        margin: 0;
+        padding: 0;
+        _width: 300px;
+    }
+    /* /書籍音声データダウンロードページ終了 */
+    /* 201605 コンテンツのモジュール化 開始 */
+    .hideModuleBtn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/hideDictBrown.png);
+        background-position: right center;
+        background-repeat: no-repeat;
+        cursor: hand;
+        cursor: pointer;
+        height: 28px;
+        margin: 0 5px 0 auto;
+        width: 28px;
+    }
+    /* /201605 コンテンツのモジュール化 終了 */
+    /*  side_menu_renew.css 終り */
+    /*  ejje_common_head_renew.css 始め */
+    .formBoxIClIcn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/cancel_cray.png);
+        background-position: 8px;
+        background-repeat: no-repeat;
+        border-radius: 0 4px 4px 0;
+        cursor: pointer;
+        display: block;
+        height: 38px;
+        margin-left: -2px; /* border-radius設定時、IE11だと隣接要素との間に薄く線が入る（隙間ができる）バグへの対応 */
+        width: 39px;
+    }
+    .formSelect {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background: url(https://cdn.weblio.jp/e7/img/icons/arrow_gray.png) 97% 50% no-repeat #fff;
+        border-radius: 3px;
+        font-size: 16px;
+        font-weight: bold;
+        height: 40px;
+        margin: 10px 3px 10px 6px;
+        padding-left: 2px;
+        vertical-align: middle;
+        width: 145px;
+    }
+    #headForm{
+        margin: 0 auto;
+        width: 1100px;
+    }
+    #headForm *{
+        border-spacing: 0;
+    }
+    /*  ejje_common_head_renew.css 終り */
+    /*  ejje_foot_fix_bar.css 始め */
+    .footFixBarEiconX {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/X.png);
+        background-position: 0 30px;
+        background-repeat: no-repeat;
+        background-size: 13px 13px;
+        padding: 25px 4px 30px 10px;
+    }
+    /*  ejje_foot_fix_bar.css 終り */
+    /*  ejje_side_user_info.css 始め */
+    .premium-service-button.free {
+        background: url(https://cdn.weblio.jp/e7/img/icons/userinfo-premium-service-button.png) no-repeat center center;
+    }
+    .premium-service-button.non {
+        background: url(https://cdn.weblio.jp/e7/img/icons/userinfo-premium-service-button.png) no-repeat center center;
+    }
+    /*  ejje_side_user_info.css 終り */
+    /*  banner.css 始め */
+    .footer_banner ul.features li.search-history:before {
+        background-image: url(https://cdn.weblio.jp/e7/img/banner/history.png);
+    }
+    .footer_banner ul.features li.vocab-test:before {
+        background-image: url(https://cdn.weblio.jp/e7/img/banner/vocab.png);
+    }
+    .footer_banner ul.features li.folders:before {
+        background-image: url(https://cdn.weblio.jp/e7/img/banner/folders.png);
+    }
+    .footer_banner ul.features li.ads:before {
+        background-image: url(https://cdn.weblio.jp/e7/img/banner/ad.png);
+    }
+    /*  banner.css 終り */
+    /*  ejje_content_renew.css 始め */
+    .noRtTtl {
+        background-image: url(https://cdn.weblio.jp/e7/img/iconArrCrcRed.png);
+        background-position: left center;
+        background-repeat: no-repeat;
+        font-weight: bold;
+        margin-bottom: 5px;
+        padding-left: 18px;
+    }
+    .ertaTtl {
+        background-image: url(https://cdn.weblio.jp/e7/img/iconArrCrcRed.png);
+        background-position: left center;
+        background-repeat: no-repeat;
+        font-weight: bold;
+        padding-left: 20px;
+    }
+    #safesearchBtn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/safeSearchBtn.png);
+        background-repeat: no-repeat;
+        cursor: hand;
+        cursor: pointer;
+        font-size: 12px;
+        height: 24px;
+        margin: 0 0 0 auto;
+        padding: 6px 0 0 8px;
+        text-align: left;
+        width: 134px;
+    }
+    /** ★IE以外のブラウザは下記により直上の指定を上書き **/
+    :root * > #safesearchBtn {
+        height: 18px;
+        width: 123px;
+    }
+    .safesearchS {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/safeSearchSlct.png);
+        background-position: 4px center;
+        background-repeat: no-repeat;
+    }
+    .adLMIMAd .adHIcn {
+        background-image: url(https://cdn.weblio.jp/e7/img/ad/iconAdArw.png);
+        background-repeat: no-repeat;
+        background-position: 3px 3px;
+        margin: 0;
+        padding-left: 15px;
+    }
+    .hideDictBtn {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/hideDictBrown.png);
+        background-position: right center;
+        background-repeat: no-repeat;
+        cursor: hand;
+        cursor: pointer;
+        height: 28px;
+        margin: 0 0 0 auto;
+        width: 28px;
+    }
+    .treeBoxC a:link,
+    .treeBoxC a:visited,
+    .treeBoxC a:active {
+        font-family: "ＭＳ ゴシック", "平成角ゴシック", monospace;
+        line-height: 1.5em;
+        padding: 8px;
+    }
+    #searchSettingsWrp select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background: url(https://cdn.weblio.jp/e7/img/icons/carretdown.png) 97% 50%/12px 12px no-repeat #fff;
+        border-radius: 5px;
+        height: 25px;
+        margin: 12px 0;
+        vertical-align: middle;
+        width: 310px;
+    }
+    #pin-guide-close {
+        background-image: url(https://cdn.weblio.jp/e7/img/icons/hidePopBrown.png);
+        background-position: right center;
+        background-repeat: no-repeat;
+        cursor: pointer;
+        display: block;
+        height: 20px;
+        width: 20px;
+    }
+    /*  ejje_content_renew.css 終り */
+    /*  ejje_common_modal.css 始め */
+    .modal-wrapper.for-non-member-by-history-and-pinned-content table tr:nth-child(1) td:nth-child(3) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/test.png) no-repeat center center;
+    }
+    .modal-wrapper.for-non-member-by-history-and-pinned-content table tr:nth-child(1) td:nth-child(2) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/edit.png) no-repeat center center;
+    }
+    .modal-wrapper.for-non-member-by-history-and-pinned-content table tr:nth-child(1) td:nth-child(1) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/price-tag.png) no-repeat center center;
+    }
+    .modal-wrapper.for-non-member-by-sentence-index table tr:nth-child(1) td:nth-child(1) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/file.png) no-repeat center center;
+    }
+    .modal-wrapper.for-non-member-by-sentence-index table tr:nth-child(1) td:nth-child(2) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/edit.png) no-repeat center center;
+    }
+    .modal-wrapper.for-non-member-by-sentence-index table tr:nth-child(1) td:nth-child(3) {
+        background: url(https://cdn.weblio.jp/e7/img/icons/open_book.png) no-repeat center center;
+    }
+    /*  ejje_common_modal.css 終り */
+    /* sentence_content_renew.css 始め */
+    #safesearchBtn {
+      background-color: #564c46;
+      background-image: none;
+      border-bottom: #000 solid 2px;
+      border-radius: 3px;
+      color: #fff;
+      padding: 3px 0 3px 5px;
+      text-align:center;
+    }
+    /* 例文検索条件のタイトル兼アコーディオンのトグル */
+    .sntRelBTitle {
+      background-color: #ecded0;
+      border: none;
+      color: #534a42;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 600;
+      padding: 15px 0 15px 20px;
+      position: relative;
+      text-align: left;
+      width: 100%;
+    }
+    .sntRelBTitle:after {
+      content: ' ◀';
+      position: absolute;
+      right: 1em;
+    }
+    .sntRelBTitle.open:after {
+      content: ' ▼';
+    }
+    #cnjStcR select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      background: url(https://cdn.weblio.jp/e7/img/icons/arrow_gray.png) 4% 50%/8px 8px no-repeat #fff;
+      border-radius: 5px;
+      box-shadow: -2px 2px 4px #afacac;
+      height: 55px;
+      padding-left: 25px;
+      vertical-align: middle;
+      width: 210px;
+    }
+    .slct-btn {
+      background: url(https://cdn.weblio.jp/e7/img/icons/arrow_down_dark_gray.png) 97% 50%/10px 8px no-repeat #fff;
+      border: 1px solid #aaa;
+      border-radius: 5px;
+      box-shadow: 0 0 2px #afacac;
+      color: #444;
+      cursor: pointer;
+      display: block;
+      font-size: 11px;
+      height: 25px;
+      line-height: 26px;
+      overflow: hidden;
+      padding: 0 0 0 10px;
+      text-align: left;
+      text-decoration: none;
+      vertical-align: middle;
+      white-space: nowrap;
+      width: 285px;
+    }
+    .slct-chk-lst input[type="checkbox"]:checked + label:before {
+      background: url(https://cdn.weblio.jp/e7/img/icons/checkbox_dark_grey_white_check.png) no-repeat center center;
+      background-color: #fff;
+      background-size: 12px 12px;
+    }
+    /* sentence_content_renew.css 終り */
+</style>
+</head>
+<body>
+<!-- Start Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCM52W" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- ヘッダ-->
+<div ID=headWrp>
+
+<a href="javascript:vaid(0)" id="loginStatus" data-login="false" data-premium="false"></a>
+
+<div ID=headTabWrp>
+<div ID=headTab>
+
+<table ID=logoBar>
+<tr>
+<td ID=logo>
+<div id="logoTxtWrp" class="">
+<a href="https://ejje.weblio.jp/sentence/" title="英語例文検索 ～ビジネスメールや英文の手紙の文例～ - Weblio辞書">
+<img src="https://cdn.weblio.jp/e7/img/icons/logo.png" alt="英語例文検索 ～ビジネスメールや英文の手紙の文例～ - Weblio辞書" class="">
+</a>
+<div class=logoTxt>英語例文</div>
+</div>
+</td>
+<td>
+<div ID=logoBarTE>
+1153万例文収録！</div></td>
+<td class=headTabTd>
+<div ID=submenuBoxWrp>
+<table>
+<tr>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://ejje.weblio.jp/content');" id=CONTENT class="formBoxENo ">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://ejje.weblio.jp/content');" href="https://ejje.weblio.jp/" title="英和・和英辞典">英和和英辞典</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://ejje.weblio.jp/sentence/'" id=SENTENCE class="formBoxENo  formBoxENoSelf">
+<a href="https://ejje.weblio.jp/sentence/" title="英語例文">英語例文</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://ejje.weblio.jp/english-thesaurus/content/');" id=ENGLISH_THESAURUS class="formBoxENo ">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://ejje.weblio.jp/english-thesaurus/content/');" href="https://ejje.weblio.jp/english-thesaurus/" title="英語類語">英語類語</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://ejje.weblio.jp/concordance/'" id=CONCORDANCE class="formBoxENo ">
+<a href="https://ejje.weblio.jp/concordance/" title="共起表現">共起表現</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free'" id=UWL class="formBoxENo ">
+<a href="https://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free" title="英単語帳">英単語帳</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://uwl.weblio.jp/vocab-index'" id=UWL_VOCAB class="formBoxENo gtm-glb-vocab_test">
+<a href="https://uwl.weblio.jp/vocab-index" title="英語力診断">英語力診断</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://translate.weblio.jp/'" id=TRANSLATE class="formBoxENo gtm-glb-trns">
+<a href="https://translate.weblio.jp/" title="英語翻訳">英語翻訳</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://eikaiwa.weblio.jp/'" id=WEBLIO_EIKAIWA class="formBoxENo ">
+<a href="https://eikaiwa.weblio.jp/" title="オンライン英会話">オンライン英会話</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://ninja.weblio.jp/'" id=NINJA_EIKAIWA class="formBoxENo ">
+<a href="https://ninja.weblio.jp/" title="英語コーチングを探す">英語コーチングを探す</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://all-eikaiwa.com/'" id=ALL_EIKAIWA class="formBoxENo ">
+<a href="https://all-eikaiwa.com/" title="英会話教室を探す">英会話教室を探す</a>
+</td>
+<td class=emptyTd></td>
+<td class=emptyTd></td>
+</tr>
+</table>
+</div>
+</td>
+<td class=headMidashiE>
+<div class=headMidashiES><h1 title="「満足」に関連した英語例文の一覧と使い方 - Weblio英語例文検索">「満足」に関連した英語例文の一覧と使い方 - Weblio英語例文検索</h1></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+
+<div ID=headFormWrp>
+<div id=headForm>
+
+<table>
+<tr>
+<td>
+<form action="https://ejje.weblio.jp/sentence/content/" method="get" name="f">
+<table class=formBoxIWrp>
+<tr>
+<td id="headTurboLink"><p id="turbo" status="0"><img src="https://cdn.weblio.jp/e7/img/icons/turbo_off.png" alt="" class="formBoxLEFxFmBtn"></p></td><td class=formBoxInputTd><input maxlength="2048" type="text" name="query" class=formBoxITxt id=searchWord value="満足" onFocus="erasePlaceholder(this);" onBlur="showPlaceholder(this);"></td>
+<td class=formBoxClearTd><div class=formBoxIClIcnNonWrp><div class="combo_txt_clr formBoxIClIcnNon" onclick="setFormFocus();"></div></div></td>
+<td ID=headFixBxTR>
+<input type="submit" value="項目を検索" class=formButton onclick="erasePlaceholder(document.getElementById('searchWord'));" onmousedown="displayPushedButton(this, 0, 2);" onmouseup="this.setAttribute('style', '');" onmouseover="changeBackgroundColor(this, '#766c66');" onmouseout="this.setAttribute('style', '');">
+</td>
+<td><b ID=komado onclick="return formBoxSmWin('https://ejje.weblio.jp/small/sentence/content/%E6%BA%80%E8%B6%B3')"><img src="https://cdn.weblio.jp/e7/img/icons/computer.png" alt="" class=formBoxLEFxFmBtn><br>小窓モード</b></td>
+</tr>
+</table>
+</form>
+</td>
+<td onclick="window.location='https://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium'" class="formBoxRGHT">
+<img src="https://cdn.weblio.jp/e7/img/icons/premium-badge.png" alt=""><br>
+<a href="https://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium" title="プレミアム">プレミアム</a>
+</td>
+<td onclick="setFormFocus();ht(this, 'https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" class="formBoxRGHT">
+<img src="https://cdn.weblio.jp/e7/img/icons/login.png" alt=""><br>
+<a onclick="setFormFocus();return cu(this, 'https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login" title="ログイン">ログイン</a>
+</td>
+<td onclick="popUpLoginWindow('https://ejje.weblio.jp/dict-order-setting');" class="formBoxRGHT">
+<img src="https://cdn.weblio.jp/e7/img/icons/gear-arrow.png" alt="設定" title="設定">
+<p class=configBottom>設定</p>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+</div>
+
+<script type="text/javascript"><!--
+$(document).ready(function(){
+
+});
+
+//--></script>
+<!-- ヘッダ -->
+<div ID=contentWrp>
+    <div ID=contentBodyWrp>
+        <div ID=contentBody>
+            <!-- コンテント -->
+            <div ID=main>
+                <div class="topic minimize">
+                    <!-- interest_match_relevant_zone_start -->
+<div ID=topicWrp><a href="https://www.weblio.jp/" title="辞典・百科事典の検索サービス - Weblio辞書">Weblio 辞書</a> &gt; <a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">英和辞典・和英辞典</a> &gt; <a href="https://ejje.weblio.jp/content/%E6%BA%80%E8%B6%B3" title="満足">満足の意味・解説</a> &gt; 満足に関連した英語例文</div>
+<!-- interest_match_relevant_zone_end --></div>
+                <br class=clrBc>
+
+                <!-- interest_match_relevant_zone_start -->
+                <button id="sntRelAccordionButton" class="sntRelBTitle"><span>例文検索の条件設定<span><span class="accordion-line"></span></button><div id="sntRelWrp" style="display: none;"><div id="sntRelB"><p class="sntRelDescription">「カテゴリ」「情報源」を複数指定しての検索が可能になりました。（<a href="https://uwl.weblio.jp/ps/index?wpm_source=weblio&amp;wpm_campaign=premium&amp;wpm_medium=link&amp;wpm_content=non_sentence_premiumtextlink"><span>プレミアム会員</span></a>限定）</p><form action="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3" method="post" name="mltSlctSchFrm"><table><tr><td id="catIdNrwL">カテゴリ</td><td id="catIdNrwR"><div id="catIdNrwRL"><div><div class="slct-chk-lst"><ul><li class="lower-item"><input type="checkbox" name="catId" value="business" id="input-business" checked><label for="input-business">ビジネス (192)</label></li><input type="hidden" name="catIdCount" value="business_192"><li class="lower-item"><input type="checkbox" name="catId" value="law" id="input-law" checked><label for="input-law">法律 (5)</label></li><input type="hidden" name="catIdCount" value="law_5"><li class="lower-item"><input type="checkbox" name="catId" value="finance" id="input-finance" checked><label for="input-finance">金融 (22)</label></li><input type="hidden" name="catIdCount" value="finance_22"><li class="lower-item"><input type="checkbox" name="catId" value="computer" id="input-computer" checked><label for="input-computer">コンピュータ・IT (24)</label></li><input type="hidden" name="catIdCount" value="computer_24"><li class="lower-item"><input type="checkbox" name="catId" value="daily" id="input-daily" checked><label for="input-daily">日常 (463)</label></li><input type="hidden" name="catIdCount" value="daily_463"><li class="lower-item"><input type="checkbox" name="catId" value="idiom" id="input-idiom" checked><label for="input-idiom">ことわざ・名言 (1)</label></li><input type="hidden" name="catIdCount" value="idiom_1"></ul></div></div></div></td></tr><tr></tr><tr><td id="grpIdNrwL">情報源</td><td id="grpIdNrwR"><div id="grpIdNrwRL"><div><span id="grpId-nr-slt-src"><span></span>個の情報源を選択中</span><button type="button" id="grpIdNrw-btn" class="grpIdBtnNrm">情報源を選択</button><div id="grpIdNrw-container" class="grpIdNrw-modal"><div class="grpIdNrw-modal-content"><div class="grpIdNrw-modal-header"><span class="close-modal-btn">&times;</span><h2>情報源を選択</h2></div><div id="grpIdNrw-modal-body" class="slct-chk-lst"><ul><table><tr><td><li class="item-all"><input type="checkbox" id="grpIdItemAll"><label for="grpIdItemAll"><b>すべての情報源</b></label></li></td></tr><tr><td><li class="upper-item"><input type="checkbox" value="general" id="input-general"><label for="input-general"><b>総合的な情報源</b></label></li></td></tr><tr><td id="left-list"><li class="lower-item"><input type="checkbox" name="grpId" value="weblio_kenej" id="input-weblio_kenej" checked><label for="input-weblio_kenej">研究社 新英和中辞典 (75)</label></li><input type="hidden" name="grpIdCount" value="weblio_kenej_75"><li class="lower-item"><input type="checkbox" name="grpId" value="weblio_kenje" id="input-weblio_kenje" checked><label for="input-weblio_kenje">研究社 新和英中辞典 (23)</label></li><input type="hidden" name="grpIdCount" value="weblio_kenje_23"><li class="lower-item"><input type="checkbox" name="grpId" value="org_business_sentence" id="input-org_business_sentence" checked><label for="input-org_business_sentence">Weblioビジネス英語例文 (2)</label></li><input type="hidden" name="grpIdCount" value="org_business_sentence_2"><li class="lower-item"><input type="checkbox" name="grpId" value="org_email_sentence" id="input-org_email_sentence" checked><label for="input-org_email_sentence">Weblio Email例文集 (187)</label></li><input type="hidden" name="grpIdCount" value="org_email_sentence_187"><li class="lower-item"><input type="checkbox" name="grpId" value="org_basic_sentence" id="input-org_basic_sentence" checked><label for="input-org_basic_sentence">Weblio英語基本例文集 (21)</label></li><input type="hidden" name="grpIdCount" value="org_basic_sentence_21"></td><td id="right-list"><li class="lower-item"><input type="checkbox" name="grpId" value="catch_a_wave" id="input-catch_a_wave" checked><label for="input-catch_a_wave">浜島書店 Catch a Wave (64)</label></li><input type="hidden" name="grpIdCount" value="catch_a_wave_64"><li class="lower-item"><input type="checkbox" name="grpId" value="org_email_template_sentence" id="input-org_email_template_sentence" checked><label for="input-org_email_template_sentence">Weblioビジネス英文メールテンプレート文例集 (3)</label></li><input type="hidden" name="grpIdCount" value="org_email_template_sentence_3"><li class="lower-item"><input type="checkbox" name="grpId" value="kotowaza_kyokun" id="input-kotowaza_kyokun" checked><label for="input-kotowaza_kyokun">英語ことわざ教訓辞典 (1)</label></li><input type="hidden" name="grpIdCount" value="kotowaza_kyokun_1"><li class="lower-item"><input type="checkbox" name="grpId" value="egate_eiwa_jiten" id="input-egate_eiwa_jiten" checked><label for="input-egate_eiwa_jiten">Eゲイト英和辞典 (49)</label></li><input type="hidden" name="grpIdCount" value="egate_eiwa_jiten_49"><li class="lower-item"><input type="checkbox" name="grpId" value="gihodo_shuppan" id="input-gihodo_shuppan" checked><label for="input-gihodo_shuppan">英語論文検索例文集 (12)</label></li><input type="hidden" name="grpIdCount" value="gihodo_shuppan_12"></td></tr><tr><td><li class="upper-item"><input type="checkbox" value="technical" id="input-technical"><label for="input-technical"><b>専門的な情報源</b></label></li></td></tr><tr><td id="left-list"><li class="lower-item"><input type="checkbox" name="grpId" value="org_jijieigoreibun_sentence" id="input-org_jijieigoreibun_sentence" checked><label for="input-org_jijieigoreibun_sentence">時事英語例文集 (3)</label></li><input type="hidden" name="grpIdCount" value="org_jijieigoreibun_sentence_3"><li class="lower-item"><input type="checkbox" name="grpId" value="weblio_stwdj" id="input-weblio_stwdj" checked><label for="input-weblio_stwdj">斎藤和英大辞典 (69)</label></li><input type="hidden" name="grpIdCount" value="weblio_stwdj_69"><li class="lower-item"><input type="checkbox" name="grpId" value="weblio_kggjr" id="input-weblio_kggjr" checked><label for="input-weblio_kggjr">科学技術論文動詞集 (4)</label></li><input type="hidden" name="grpIdCount" value="weblio_kggjr_4"><li class="lower-item"><input type="checkbox" name="grpId" value="weblio_tteba" id="input-weblio_tteba" checked><label for="input-weblio_tteba">Tatoeba例文 (316)</label></li><input type="hidden" name="grpIdCount" value="weblio_tteba_316"><li class="lower-item"><input type="checkbox" name="grpId" value="wordnet_ja" id="input-wordnet_ja" checked><label for="input-wordnet_ja">日本語WordNet (169)</label></li><input type="hidden" name="grpIdCount" value="wordnet_ja_169"><li class="lower-item"><input type="checkbox" name="grpId" value="computer_yogo" id="input-computer_yogo" checked><label for="input-computer_yogo">コンピューター用語辞典 (8)</label></li><input type="hidden" name="grpIdCount" value="computer_yogo_8"><li class="lower-item"><input type="checkbox" name="grpId" value="edr_nichiei_taiyaku" id="input-edr_nichiei_taiyaku" checked><label for="input-edr_nichiei_taiyaku">EDR日英対訳辞書 (63)</label></li><input type="hidden" name="grpIdCount" value="edr_nichiei_taiyaku_63"><li class="lower-item"><input type="checkbox" name="grpId" value="pdq_gan_yogo" id="input-pdq_gan_yogo" checked><label for="input-pdq_gan_yogo">PDQ®がん用語辞書 英語版 (3)</label></li><input type="hidden" name="grpIdCount" value="pdq_gan_yogo_3"><li class="lower-item"><input type="checkbox" name="grpId" value="ryokou_business_eikaiwa_honyaku" id="input-ryokou_business_eikaiwa_honyaku" checked><label for="input-ryokou_business_eikaiwa_honyaku">旅行・ビジネス英会話翻訳例文 (27)</label></li><input type="hidden" name="grpIdCount" value="ryokou_business_eikaiwa_honyaku_27"></td><td id="right-list"><li class="lower-item"><input type="checkbox" name="grpId" value="tanaka_corpus" id="input-tanaka_corpus" checked><label for="input-tanaka_corpus">Tanaka Corpus (253)</label></li><input type="hidden" name="grpIdCount" value="tanaka_corpus_253"><li class="lower-item"><input type="checkbox" name="grpId" value="japanese_law" id="input-japanese_law" checked><label for="input-japanese_law">日本法令外国語訳データベースシステム (5)</label></li><input type="hidden" name="grpIdCount" value="japanese_law_5"><li class="lower-item"><input type="checkbox" name="grpId" value="ossdocs_freebsd" id="input-ossdocs_freebsd" checked><label for="input-ossdocs_freebsd">FreeBSD (8)</label></li><input type="hidden" name="grpIdCount" value="ossdocs_freebsd_8"><li class="lower-item"><input type="checkbox" name="grpId" value="ossdocs_gentoolinux" id="input-ossdocs_gentoolinux" checked><label for="input-ossdocs_gentoolinux">Gentoo Linux (4)</label></li><input type="hidden" name="grpIdCount" value="ossdocs_gentoolinux_4"><li class="lower-item"><input type="checkbox" name="grpId" value="ossdocs_jm" id="input-ossdocs_jm" checked><label for="input-ossdocs_jm">JM (2)</label></li><input type="hidden" name="grpIdCount" value="ossdocs_jm_2"><li class="lower-item"><input type="checkbox" name="grpId" value="ossdocs_xfree86" id="input-ossdocs_xfree86" checked><label for="input-ossdocs_xfree86">XFree86 (2)</label></li><input type="hidden" name="grpIdCount" value="ossdocs_xfree86_2"><li class="lower-item"><input type="checkbox" name="grpId" value="wikipedia_kyoto" id="input-wikipedia_kyoto" checked><label for="input-wikipedia_kyoto">Wikipedia日英京都関連文書対訳コーパス (82)</label></li><input type="hidden" name="grpIdCount" value="wikipedia_kyoto_82"><li class="lower-item"><input type="checkbox" name="grpId" value="nichieichu_kihonnbun" id="input-nichieichu_kihonnbun" checked><label for="input-nichieichu_kihonnbun">京大-NICT 日英中基本文データ (2)</label></li><input type="hidden" name="grpIdCount" value="nichieichu_kihonnbun_2"><li class="lower-item"><input type="checkbox" name="grpId" value="eiga_kaigai_drama_eigo_jimaku_taiyaku_jisho" id="input-eiga_kaigai_drama_eigo_jimaku_taiyaku_jisho" checked><label for="input-eiga_kaigai_drama_eigo_jimaku_taiyaku_jisho">映画・海外ドラマ英語字幕翻訳辞書 (433)</label></li><input type="hidden" name="grpIdCount" value="eiga_kaigai_drama_eigo_jimaku_taiyaku_jisho_433"></td></tr><tr><td><li class="upper-item"><input type="checkbox" value="government_agency" id="input-government_agency"><label for="input-government_agency"><b>官公庁発表資料</b></label></li></td></tr><tr><td id="left-list"><li class="lower-item"><input type="checkbox" name="grpId" value="financial_services_agency" id="input-financial_services_agency" checked><label for="input-financial_services_agency">金融庁 (2)</label></li><input type="hidden" name="grpIdCount" value="financial_services_agency_2"><li class="lower-item"><input type="checkbox" name="grpId" value="ministry_of_finance" id="input-ministry_of_finance" checked><label for="input-ministry_of_finance">財務省 (20)</label></li><input type="hidden" name="grpIdCount" value="ministry_of_finance_20"><li class="lower-item"><input type="checkbox" name="grpId" value="japan_patent_office" id="input-japan_patent_office" checked><label for="input-japan_patent_office">特許庁 (92)</label></li><input type="hidden" name="grpIdCount" value="japan_patent_office_92"></td><td id="right-list"><li class="lower-item"><input type="checkbox" name="grpId" value="published_patents" id="input-published_patents" checked><label for="input-published_patents">特許庁 (8910)</label></li><input type="hidden" name="grpIdCount" value="published_patents_8910"><li class="lower-item"><input type="checkbox" name="grpId" value="ministry_of_economy_trade_and_industry" id="input-ministry_of_economy_trade_and_industry" checked><label for="input-ministry_of_economy_trade_and_industry">経済産業省 (134)</label></li><input type="hidden" name="grpIdCount" value="ministry_of_economy_trade_and_industry_134"><li class="lower-item"><input type="checkbox" name="grpId" value="ministry_of_health_labour_and_welfare" id="input-ministry_of_health_labour_and_welfare" checked><label for="input-ministry_of_health_labour_and_welfare">厚生労働省 (40)</label></li><input type="hidden" name="grpIdCount" value="ministry_of_health_labour_and_welfare_40"></td></tr><tr><td><li class="upper-item"><input type="checkbox" value="literature" id="input-literature"><label for="input-literature"><b>書籍・作品</b></label></li></td></tr><tr><td id="left-list"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_blue" id="input-doto_uchiyama_blue" checked><label for="input-doto_uchiyama_blue">Arthur Conan Doyle『ブルー・カーバンクル』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_blue_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_workmanship" id="input-doto_uchiyama_workmanship" checked><label for="input-doto_uchiyama_workmanship">Thorstein Veblen『ワークマンシップの本能と労働の煩わしさ』 (4)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_workmanship_4"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_scandal" id="input-doto_uchiyama_scandal" checked><label for="input-doto_uchiyama_scandal">Arthur Conan Doyle『ボヘミアの醜聞』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_scandal_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_fire" id="input-doto_uchiyama_fire" checked><label for="input-doto_uchiyama_fire">Jack London『火を起こす』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_fire_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_curriculum" id="input-doto_uchiyama_curriculum" checked><label for="input-doto_uchiyama_curriculum">Ian Johnston『科学のカリキュラムで創造説？』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_curriculum_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_world" id="input-doto_uchiyama_world" checked><label for="input-doto_uchiyama_world">JULES VERNE『80日間世界一周』 (8)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_world_8"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_shadow" id="input-doto_uchiyama_shadow" checked><label for="input-doto_uchiyama_shadow">JACK LONDON『影と光』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_shadow_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_tragedy" id="input-doto_uchiyama_tragedy" checked><label for="input-doto_uchiyama_tragedy">O Henry『ハーレムの悲劇』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_tragedy_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_dog" id="input-doto_uchiyama_dog" checked><label for="input-doto_uchiyama_dog">Ouida『フランダースの犬』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_dog_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_peter2" id="input-doto_uchiyama_peter2" checked><label for="input-doto_uchiyama_peter2">James Matthew Barrie『ケンジントン公園のピーターパン』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_peter2_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_milverton" id="input-doto_uchiyama_milverton" checked><label for="input-doto_uchiyama_milverton">Arthur Conan Doyle『チャールズ・オーガスタス・ミルヴァートン』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_milverton_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_builder" id="input-doto_uchiyama_builder" checked><label for="input-doto_uchiyama_builder">Arthur Conan Doyle『ノーウッドの建築家』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_builder_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_homesteading" id="input-doto_uchiyama_homesteading" checked><label for="input-doto_uchiyama_homesteading">Eric S. Raymond『ノウアスフィアの開墾』 (5)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_homesteading_5"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_oz" id="input-doto_uchiyama_oz" checked><label for="input-doto_uchiyama_oz">L. Frank Baum『オズの魔法使い』 (8)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_oz_8"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_hyde" id="input-doto_uchiyama_hyde" checked><label for="input-doto_uchiyama_hyde">Robert Louis Stevenson『ジキルとハイド』 (5)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_hyde_5"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_timemachine" id="input-doto_uchiyama_timemachine" checked><label for="input-doto_uchiyama_timemachine">H. G. Wells『タイムマシン』 (5)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_timemachine_5"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_christ" id="input-doto_uchiyama_christ" checked><label for="input-doto_uchiyama_christ">Thomas a Kempis『キリストにならいて』 (8)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_christ_8"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_leaf" id="input-doto_uchiyama_leaf" checked><label for="input-doto_uchiyama_leaf">O Henry『最後の一枚の葉』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_leaf_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_great" id="input-doto_uchiyama_great" checked><label for="input-doto_uchiyama_great">F. Scott Fitzgerald『グレイト・ギャツビー』 (9)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_great_9"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_quartet" id="input-doto_uchiyama_quartet" checked><label for="input-doto_uchiyama_quartet">Virginia Woolf『弦楽四重奏』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_quartet_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_monday" id="input-doto_uchiyama_monday" checked><label for="input-doto_uchiyama_monday">Virginia Woolf『月曜日か火曜日』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_monday_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_snake" id="input-doto_uchiyama_snake" checked><label for="input-doto_uchiyama_snake">Ambrose Bierce『男と蛇』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_snake_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_alice2" id="input-doto_uchiyama_alice2" checked><label for="input-doto_uchiyama_alice2">LEWIS CARROLL『鏡の国のアリス』 (3)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_alice2_3"></td><td id="right-list"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_alice" id="input-doto_uchiyama_alice" checked><label for="input-doto_uchiyama_alice">Lewis Carroll『不思議の国のアリス』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_alice_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_sisters" id="input-doto_uchiyama_sisters" checked><label for="input-doto_uchiyama_sisters">James Joyce『姉妹』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_sisters_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_counterpart" id="input-doto_uchiyama_counterpart" checked><label for="input-doto_uchiyama_counterpart">James Joyce『カウンターパーツ』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_counterpart_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_gallant" id="input-doto_uchiyama_gallant" checked><label for="input-doto_uchiyama_gallant">James Joyce『二人の色男』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_gallant_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_grace" id="input-doto_uchiyama_grace" checked><label for="input-doto_uchiyama_grace">James Joyce『恩寵』 (4)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_grace_4"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_boarding" id="input-doto_uchiyama_boarding" checked><label for="input-doto_uchiyama_boarding">James Joyce『下宿屋』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_boarding_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_race" id="input-doto_uchiyama_race" checked><label for="input-doto_uchiyama_race">James Joyce『レースの後に』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_race_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_amother" id="input-doto_uchiyama_amother" checked><label for="input-doto_uchiyama_amother">James Joyce『母親』 (3)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_amother_3"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_ivy" id="input-doto_uchiyama_ivy" checked><label for="input-doto_uchiyama_ivy">James Joyce『アイビーデイの委員会室』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_ivy_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_advn" id="input-doto_uchiyama_advn" checked><label for="input-doto_uchiyama_advn">Arthur Conan Doyle『シャーロック・ホームズの冒険』 (3)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_advn_3"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_darwin" id="input-doto_uchiyama_darwin" checked><label for="input-doto_uchiyama_darwin">Thomas H. Huxley『ダーウィン仮説』 (4)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_darwin_4"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_liberty" id="input-doto_uchiyama_liberty" checked><label for="input-doto_uchiyama_liberty">John Stuart Mill『自由について』 (22)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_liberty_22"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_belfast" id="input-doto_uchiyama_belfast" checked><label for="input-doto_uchiyama_belfast">John Tyndall『英国科学協会ベルファースト総会での演説』 (13)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_belfast_13"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_ownership" id="input-doto_uchiyama_ownership" checked><label for="input-doto_uchiyama_ownership">Thorstein Veblen『所有権の起源』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_ownership_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_island" id="input-doto_uchiyama_island" checked><label for="input-doto_uchiyama_island">Robert Louis Stevenson『宝島』 (3)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_island_3"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_peter" id="input-doto_uchiyama_peter" checked><label for="input-doto_uchiyama_peter">James Matthew Barrie『ピーターパンとウェンディ』 (7)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_peter_7"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_dealer" id="input-doto_uchiyama_dealer" checked><label for="input-doto_uchiyama_dealer">D. H. Lawrence『馬商の娘』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_dealer_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_prussian" id="input-doto_uchiyama_prussian" checked><label for="input-doto_uchiyama_prussian">D. H. Lawrence『プロシア士官』 (3)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_prussian_3"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_fisherman" id="input-doto_uchiyama_fisherman" checked><label for="input-doto_uchiyama_fisherman">Gilbert K. Chesterton『釣り人の習慣』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_fisherman_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_uchiyama_boy" id="input-doto_uchiyama_boy" checked><label for="input-doto_uchiyama_boy">G.K. Chesterton『少年の心』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_uchiyama_boy_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_handmade_crito" id="input-doto_handmade_crito" checked><label for="input-doto_handmade_crito">Plato『クリトン』 (2)</label></li><input type="hidden" name="grpIdCount" value="doto_handmade_crito_2"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_handmade_the_corpus_delicti" id="input-doto_handmade_the_corpus_delicti" checked><label for="input-doto_handmade_the_corpus_delicti">Melville Davisson Post『罪体』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_handmade_the_corpus_delicti_1"><li class="lower-item"><input type="checkbox" name="grpId" value="doto_handmade_the_chemical_history_of_a_candle" id="input-doto_handmade_the_chemical_history_of_a_candle" checked><label for="input-doto_handmade_the_chemical_history_of_a_candle">Michael Faraday『ロウソクの科学』 (1)</label></li><input type="hidden" name="grpIdCount" value="doto_handmade_the_chemical_history_of_a_candle_1"></td></tr><tr><td><li class="upper-item"><input type="checkbox" value="denmo_seisho" id="input-denmo_seisho"><label for="input-denmo_seisho"><b>電網聖書</b></label></li></td></tr><tr><td id="left-list"><li class="lower-item"><input type="checkbox" name="grpId" value="denmo_seisho_3john" id="input-denmo_seisho_3john" checked><label for="input-denmo_seisho_3john">ヨハネの第三の手紙 (1)</label></li><input type="hidden" name="grpIdCount" value="denmo_seisho_3john_1"><li class="lower-item"><input type="checkbox" name="grpId" value="denmo_seisho_hebrews" id="input-denmo_seisho_hebrews" checked><label for="input-denmo_seisho_hebrews">ヘブライ人への手紙 (1)</label></li><input type="hidden" name="grpIdCount" value="denmo_seisho_hebrews_1"></td><td id="right-list"><li class="lower-item"><input type="checkbox" name="grpId" value="denmo_seisho_mark" id="input-denmo_seisho_mark" checked><label for="input-denmo_seisho_mark">マルコによる福音書 (2)</label></li><input type="hidden" name="grpIdCount" value="denmo_seisho_mark_2"><li class="lower-item"><input type="checkbox" name="grpId" value="denmo_seisho_matthew" id="input-denmo_seisho_matthew" checked><label for="input-denmo_seisho_matthew">マタイによる福音書 (1)</label></li><input type="hidden" name="grpIdCount" value="denmo_seisho_matthew_1"></td></tr></table></ul></div><div class="grpIdNrw-modal-footer"><span id="close-footer-modal" class="close-modal-btn">閉じる</span></div></div></div></div></div></td></tr></table><div class="grpBtnNrmBC"><input type="submit" id="grpIdSearchBtnBL" class="grpIdBtnNrm" value="検索"><span id="grpIdNrwRR"><a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3">条件をリセット</a></span></div></form></div></div>
+
+<div id=safesearchBtnWrp><div id=safesearchBtn onclick="showSafeSearchPullDown(this, 'safesearchPdm')">セーフサーチ：オン <i class="fa fa-caret-down" aria-hidden="true"></i></div></div>
+<div id=safesearchPdm>
+<p id=safesearchOn class=safesearchS>不適切な検索結果を除外する</p>
+<p id=safesearchOff class=safesearchNS><a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3?safe=false">不適切な検索結果を除外しない</a></p>
+<p id=safesearchDesc><a href="https://ejje.weblio.jp/tips/guide/help/%E3%82%BB%E3%83%BC%E3%83%95%E3%82%B5%E3%83%BC%E3%83%81%E3%82%92%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%AA%E3%83%95%E3%81%AB%E3%81%99%E3%82%8B">セーフサーチ</a>について</p>
+</div>
+
+<div class="subMenuTop"><div class=subMenuTWrp><table class=subMenuT><tr class=subMenuTR><td class=subMenuOff><a class=sb-anchor-content href="https://ejje.weblio.jp/content/%E6%BA%80%E8%B6%B3">意味</a></td><td class=subMenuOn>例文</td><td class=subMenuOff><a class=sb-anchor-english-thesaurus href="https://ejje.weblio.jp/english-thesaurus/content/%E6%BA%80%E8%B6%B3">類語</a></td><td class=subMenuEmp>&nbsp;</td></tr></table></div></div>
+<div class="mainBlock">
+                            <div class="qotH">
+    <h2 class="qotHT">
+        満足<span>を含む例文一覧と使い方</span>
+            </h2>
+    <p class=qotHTR>該当件数&nbsp;:&nbsp;<b>11246</b>件</p>
+    <br class="clr">
+</div>
+<br class="clrBc">
+<div class="kijiWrp">
+    <div class="kiji">
+        <div class="pgntionWrp">
+                <span class="TargetPage">1</span>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/2" rel="nofollow">
+            2</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/3" rel="nofollow">
+            3</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/4" rel="nofollow">
+            4</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/5" rel="nofollow">
+            5</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/6" rel="nofollow">
+            6</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/7" rel="nofollow">
+            7</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/8" rel="nofollow">
+            8</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/9" rel="nofollow">
+            9</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/10" rel="nofollow">
+            10</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/11" rel="nofollow">
+            11</a>
+    <span class="tripleDot">...</span>.
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/224" rel="nofollow">
+            224</a>
+   <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/225" rel="nofollow">
+            225</a>
+   <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/2">
+        次へ＞
+    </a>
+<br>
+
+</div>
+        <span class="qotHS">例文</span>
+            <div class="qotC">
+                <p class="qotCJJ">
+                        <b><b>満足</b></b>の<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EGATE_EIWA_JITEN',-1,'satisfactory','%E6%BA%80%E8%B6%B3%E3%81%AE')">例文帳に追加</a></span>
+</p>
+                    <p class="qotCJE">
+                        <a href="https://ejje.weblio.jp/content/satisfactory" title="satisfactoryの意味" class=crosslink>satisfactory</a><span>&nbsp;-&nbsp;Eゲイト英和辞典</span>
+                    </p>
+                </div>
+        <div class="qotC">
+                <p class="qotCJJ">
+                        <b><b>満足</b></b>な結果.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'a+pleasing+result','%E6%BA%80%E8%B6%B3%E3%81%AA%E7%B5%90%E6%9E%9C.')">例文帳に追加</a></span>
+</p>
+                    <p class="qotCJE">
+                        a <a href="https://ejje.weblio.jp/content/pleasing" title="pleasingの意味" class=crosslink>pleasing</a> <a href="https://ejje.weblio.jp/content/result" title="resultの意味" class=crosslink>result</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/26a053660615fefb423f3e70973f61d9.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+                    </p>
+                </div>
+        <div class="qotC">
+                <p class="qotCJJ">
+                        <b><b>満足</b></b>に思う<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+feel+satisfaction','%E6%BA%80%E8%B6%B3%E3%81%AB%E6%80%9D%E3%81%86')">例文帳に追加</a></span>
+</p>
+                    <p class="qotCJE">
+                        <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/feel" title="feelの意味" class=crosslink>feel</a> <a href="https://ejje.weblio.jp/content/satisfaction" title="satisfactionの意味" class=crosslink>satisfaction</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/b3a429f073eaa31956cd6880354269d7.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+                    </p>
+                </div>
+        <div class="qotC">
+                <p class="qotCJJ">
+                        <b><b>満足</b></b>する<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+be+satisfied+with+something','%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B')">例文帳に追加</a></span>
+</p>
+                    <p class="qotCJE">
+                        <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> with something<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/c4772d4a6c12c7ec9d8b6f7aff9fd4f2.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+                    </p>
+                </div>
+        <span class="qotHS">例文</span>
+            <div class="qotC">
+                <p class="qotCJJ">
+                        <b><b>満足</b></b>させる<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+supply+or+satisfy','%E6%BA%80%E8%B6%B3%E3%81%95%E3%81%9B%E3%82%8B')">例文帳に追加</a></span>
+</p>
+                    <p class="qotCJE">
+                        <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/supply" title="supplyの意味" class=crosslink>supply</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/satisfy" title="satisfyの意味" class=crosslink>satisfy</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/cfbce472a4abaae6199adf0477ba8da6.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+                    </p>
+                </div>
+        </div>
+    <br class="clr">
+</div>
+</div>
+                        <div class="adBlock flex-rectangle-ads-frame">
+            <div class="gliaplayer-container"
+                 data-slot="weblio_ejje_desktop">
+            </div>
+            <script src="https://player.gliacloud.com/player/weblio_ejje_desktop" async></script>
+        </div>
+    <div class="mainBlock">
+                            <span class="qotHS">例文</span>
+    <div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>のいく結果<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'Results+of+excellence','%E6%BA%80%E8%B6%B3%E3%81%AE%E3%81%84%E3%81%8F%E7%B5%90%E6%9E%9C')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/Results" title="Resultsの意味" class=crosslink>Results</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/excellence" title="excellenceの意味" class=crosslink>excellence</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/0203fa5ffe478d7dc818ce1d5f851d16.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                私は<b><b>満足</b></b>した<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'I+was+satisfied.','%E7%A7%81%E3%81%AF%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%9F')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/I+was+satisfied." title="I was satisfied.の意味" class=crosslink>I was satisfied.</a><span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>している人.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'a+contented+person','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                a <a href="https://ejje.weblio.jp/content/contented" title="contentedの意味" class=crosslink>contented</a> <a href="https://ejje.weblio.jp/content/person" title="personの意味" class=crosslink>person</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/950303f61b66337f2bb08001acc8cbf1.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>した客.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'a+satisfied+customer','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%9F%E5%AE%A2.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                a <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> <a href="https://ejje.weblio.jp/content/customer" title="customerの意味" class=crosslink>customer</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/d1a6098a730537751be3c726e91b932b.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<span class="qotHS">例文</span>
+    <div class="qotC">
+        <p class="qotCJJ">
+                自ら<b><b>満足</b></b>する<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+be+satisfied','%E8%87%AA%E3%82%89%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/ab1ca6ba11c6e421f744a75ac227cbaa.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+</div>
+                        <div class="adBlock flex-rectangle-ads-frame">
+                            <div id="div-gpt-ad-1635315689686-0" class=""  style="height:280px; width:336px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315689686-0');
+            });
+        </script>
+    </div>
+<div id="div-gpt-ad-1635315732493-0" class=""  style="height:280px; width:336px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315732493-0');
+            });
+        </script>
+    </div>
+</div>
+                        <div class="mainBlock">
+                            <span class="qotHS">例文</span>
+    <div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>するさま<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'the+state+of+being+satisfied','%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B%E3%81%95%E3%81%BE')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/the+state" title="the stateの意味" class=crosslink>the state</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/being" title="beingの意味" class=crosslink>being</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/e9912021c94bbde164a27f7dd5024472.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>そうですね。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'You+look+contented.','%E6%BA%80%E8%B6%B3%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                You <a href="https://ejje.weblio.jp/content/look" title="lookの意味" class=crosslink>look</a> contented.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/e63dac1f7c65fdc760120cef53461c28.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                皆<b><b>満足</b></b>だった。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'All+were+satisfied.','%E7%9A%86%E6%BA%80%E8%B6%B3%E3%81%A0%E3%81%A3%E3%81%9F%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                All were satisfied.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/3ccd03b07c98adb4eb5a992c35842fe3.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>のいく結果<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EGATE_EIWA_JITEN',-1,'a+gratifying+result','%E6%BA%80%E8%B6%B3%E3%81%AE%E3%81%84%E3%81%8F%E7%B5%90%E6%9E%9C')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                a <a href="https://ejje.weblio.jp/content/gratifying" title="gratifyingの意味" class=crosslink>gratifying</a> <a href="https://ejje.weblio.jp/content/result" title="resultの意味" class=crosslink>result</a><span>&nbsp;-&nbsp;Eゲイト英和辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>感が得られない。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'I+can%27t+get+a+sense+of+satisfaction.','%E6%BA%80%E8%B6%B3%E6%84%9F%E3%81%8C%E5%BE%97%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/I+can" title="I canの意味" class=crosslink>I can</a>&#39;t <a href="https://ejje.weblio.jp/content/get+a" title="get aの意味" class=crosslink>get a</a> <a href="https://ejje.weblio.jp/content/sense" title="senseの意味" class=crosslink>sense</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> satisfaction.<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                彼は<b><b>満足</b></b>していない。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'He+is+not+satisfied.','%E5%BD%BC%E3%81%AF%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/He+is" title="He isの意味" class=crosslink>He is</a> <a href="https://ejje.weblio.jp/content/not" title="notの意味" class=crosslink>not</a> satisfied.<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>度調査<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'a+survey+on+the+degree+of+satisfaction','%E6%BA%80%E8%B6%B3%E5%BA%A6%E8%AA%BF%E6%9F%BB')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                a <a href="https://ejje.weblio.jp/content/survey" title="surveyの意味" class=crosslink>survey</a> <a href="https://ejje.weblio.jp/content/on+the" title="on theの意味" class=crosslink>on the</a> <a href="https://ejje.weblio.jp/content/degree+of" title="degree ofの意味" class=crosslink>degree of</a> <a href="https://ejje.weblio.jp/content/satisfaction" title="satisfactionの意味" class=crosslink>satisfaction</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/9e73b2953f8f4bfaee3d6cb0e3dca717.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                私はとても<b><b>満足</b></b>です。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'I+am+very+satisfied.','%E7%A7%81%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%99%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/I+am" title="I amの意味" class=crosslink>I am</a> <a href="https://ejje.weblio.jp/content/very" title="veryの意味" class=crosslink>very</a> satisfied.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/3cda332f90c5741d2b3796dc76758503.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                私は大<b><b>満足</b></b>です。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'I+am+very+satisfied.','%E7%A7%81%E3%81%AF%E5%A4%A7%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%99%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/I+am" title="I amの意味" class=crosslink>I am</a> <a href="https://ejje.weblio.jp/content/very" title="veryの意味" class=crosslink>very</a> satisfied.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/3cda332f90c5741d2b3796dc76758503.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                従業員<b><b>満足</b></b>度調査<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'employee+satisfaction+research','%E5%BE%93%E6%A5%AD%E5%93%A1%E6%BA%80%E8%B6%B3%E5%BA%A6%E8%AA%BF%E6%9F%BB')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/employee+satisfaction" title="employee satisfactionの意味" class=crosslink>employee satisfaction</a> <a href="https://ejje.weblio.jp/content/research" title="researchの意味" class=crosslink>research</a><span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                私はとても<b><b>満足</b></b>でした。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'I+was+very+satisfied.','%E7%A7%81%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                I was <a href="https://ejje.weblio.jp/content/very" title="veryの意味" class=crosslink>very</a> satisfied.<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>して生活する.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'live+in+content','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6%E7%94%9F%E6%B4%BB%E3%81%99%E3%82%8B.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/live+in" title="live inの意味" class=crosslink>live in</a> <a href="https://ejje.weblio.jp/content/content" title="contentの意味" class=crosslink>content</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/2298650c59e6e5e4b768b1a8841be269.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>そうにほほえむ.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'smile+with+content','%E6%BA%80%E8%B6%B3%E3%81%9D%E3%81%86%E3%81%AB%E3%81%BB%E3%81%BB%E3%81%88%E3%82%80.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/smile" title="smileの意味" class=crosslink>smile</a> with <a href="https://ejje.weblio.jp/content/content" title="contentの意味" class=crosslink>content</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/4ae858acef4c11c2b4e024e229f41817.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                好奇心を<b><b>満足</b></b>させる.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'satisfy+one%27s+curiosity','%E5%A5%BD%E5%A5%87%E5%BF%83%E3%82%92%E6%BA%80%E8%B6%B3%E3%81%95%E3%81%9B%E3%82%8B.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/satisfy" title="satisfyの意味" class=crosslink>satisfy</a> one&#39;s <a href="https://ejje.weblio.jp/content/curiosity" title="curiosityの意味" class=crosslink>curiosity</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/21962e71c21e81a12ed2f987e3b56100.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                さも[いかにも]<b><b>満足</b></b>そうに.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'with+evident+satisfaction','%E3%81%95%E3%82%82%5B%E3%81%84%E3%81%8B%E3%81%AB%E3%82%82%5D%E6%BA%80%E8%B6%B3%E3%81%9D%E3%81%86%E3%81%AB.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                with <a href="https://ejje.weblio.jp/content/evident" title="evidentの意味" class=crosslink>evident</a> <a href="https://ejje.weblio.jp/content/satisfaction" title="satisfactionの意味" class=crosslink>satisfaction</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/ebbf051d536988097e4e29b501023b31.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>した口調で.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'in+a+gratified+tone','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%9F%E5%8F%A3%E8%AA%BF%E3%81%A7.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/in+a" title="in aの意味" class=crosslink>in a</a> <a href="https://ejje.weblio.jp/content/gratified" title="gratifiedの意味" class=crosslink>gratified</a> <a href="https://ejje.weblio.jp/content/tone" title="toneの意味" class=crosslink>tone</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/d9bdc5d55cff6f7195f33cf278ab6617.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                …と知って<b><b>満足</b></b>です.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'It+gratifies+me+to+learn%E2%80%A6','%E2%80%A6%E3%81%A8%E7%9F%A5%E3%81%A3%E3%81%A6%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%99.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/It" title="Itの意味" class=crosslink>It</a> <a href="https://ejje.weblio.jp/content/gratifies" title="gratifiesの意味" class=crosslink>gratifies</a> <a href="https://ejje.weblio.jp/content/me+to" title="me toの意味" class=crosslink>me to</a> <a href="https://ejje.weblio.jp/content/learn" title="learnの意味" class=crosslink>learn</a><a href="https://ejje.weblio.jp/content/%E2%80%A6" title="…の英語" class=crosslink>…</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/dc09c4b9d791ab92d2a6539538c8d104.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                非常に<b><b>満足</b></b>して.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'with+great+%5Bmuch%5D+satisfaction','%E9%9D%9E%E5%B8%B8%E3%81%AB%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                with <a href="https://ejje.weblio.jp/content/great" title="greatの意味" class=crosslink>great</a> [<a href="https://ejje.weblio.jp/content/much" title="muchの意味" class=crosslink>much</a>] <a href="https://ejje.weblio.jp/content/satisfaction" title="satisfactionの意味" class=crosslink>satisfaction</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/a630497f2bc09f4604a94516f328e087.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                …と知って<b><b>満足</b></b>である.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'It%27s+a+satisfaction+to+know+that%E2%80%A6','%E2%80%A6%E3%81%A8%E7%9F%A5%E3%81%A3%E3%81%A6%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%82%E3%82%8B.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/It" title="Itの意味" class=crosslink>It</a>&#39;<a href="https://ejje.weblio.jp/content/s+a" title="s aの意味" class=crosslink>s a</a> <a href="https://ejje.weblio.jp/content/satisfaction" title="satisfactionの意味" class=crosslink>satisfaction</a> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/know" title="knowの意味" class=crosslink>know</a> <a href="https://ejje.weblio.jp/content/that%E2%80%A6" title="that…の英語" class=crosslink>that…</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/0d19facc6039563f0bd9e25763015d75.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                彼は強いて<b><b>満足</b></b>した.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'He+willed+himself+into+contentment.','%E5%BD%BC%E3%81%AF%E5%BC%B7%E3%81%84%E3%81%A6%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%9F.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/He" title="Heの意味" class=crosslink>He</a> <a href="https://ejje.weblio.jp/content/willed" title="willedの意味" class=crosslink>willed</a> <a href="https://ejje.weblio.jp/content/himself" title="himselfの意味" class=crosslink>himself</a> into contentment.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/0b95e2f59a396050a4abeb47844cdb9b.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新英和中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                結果は不<b><b>満足</b></b>であった.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENJE',-1,'The+result+was+unsatisfactory+%5Bdisappointing%5D.','%E7%B5%90%E6%9E%9C%E3%81%AF%E4%B8%8D%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                The <a href="https://ejje.weblio.jp/content/result" title="resultの意味" class=crosslink>result</a> was <a href="https://ejje.weblio.jp/content/unsatisfactory" title="unsatisfactoryの意味" class=crosslink>unsatisfactory</a> [<a href="https://ejje.weblio.jp/content/disappointing" title="disappointingの意味" class=crosslink>disappointing</a>].<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/e2f0ef03163c03c8f28572cf4fea1bad.mp3?groupId=WEBLIO_KENJE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新和英中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                幸福は<b><b>満足</b></b>にある.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENJE',-1,'Happiness+consists+in+contentment.','%E5%B9%B8%E7%A6%8F%E3%81%AF%E6%BA%80%E8%B6%B3%E3%81%AB%E3%81%82%E3%82%8B.')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/Happiness" title="Happinessの意味" class=crosslink>Happiness</a> <a href="https://ejje.weblio.jp/content/consists" title="consistsの意味" class=crosslink>consists</a> <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> contentment.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/b7cb9453fd6d98cdc8b0c8b319e48db5.mp3?groupId=WEBLIO_KENJE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;研究社 新和英中辞典</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>出来ない点<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'the+point+at+which+a+person+becomes+dissatisfied','%E6%BA%80%E8%B6%B3%E5%87%BA%E6%9D%A5%E3%81%AA%E3%81%84%E7%82%B9')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/the+point" title="the pointの意味" class=crosslink>the point</a> <a href="https://ejje.weblio.jp/content/at" title="atの意味" class=crosslink>at</a> which a <a href="https://ejje.weblio.jp/content/person" title="personの意味" class=crosslink>person</a> <a href="https://ejje.weblio.jp/content/becomes" title="becomesの意味" class=crosslink>becomes</a> <a href="https://ejje.weblio.jp/content/dissatisfied" title="dissatisfiedの意味" class=crosslink>dissatisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/81be19a51905caba3325c8d4562391ce.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                不<b><b>満足</b></b>に感じるさま<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'of+a+person%2C+feeling+dissatisfaction','%E4%B8%8D%E6%BA%80%E8%B6%B3%E3%81%AB%E6%84%9F%E3%81%98%E3%82%8B%E3%81%95%E3%81%BE')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/of+a" title="of aの意味" class=crosslink>of a</a> <a href="https://ejje.weblio.jp/content/person" title="personの意味" class=crosslink>person</a>, <a href="https://ejje.weblio.jp/content/feeling" title="feelingの意味" class=crosslink>feeling</a> <a href="https://ejje.weblio.jp/content/dissatisfaction" title="dissatisfactionの意味" class=crosslink>dissatisfaction</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/30273221944d21d1d8cea47193b9f5c9.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                十分に<b><b>満足</b></b>する<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+be+completely+satisfied','%E5%8D%81%E5%88%86%E3%81%AB%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/completely" title="completelyの意味" class=crosslink>completely</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/2ad20d5c2822bb50f7e7ed273a91a87f.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                自己<b><b>満足</b></b>であること<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'the+condition+of+feeling+self-satisfied','%E8%87%AA%E5%B7%B1%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                the <a href="https://ejje.weblio.jp/content/condition" title="conditionの意味" class=crosslink>condition</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/feeling" title="feelingの意味" class=crosslink>feeling</a> <a href="https://ejje.weblio.jp/content/self-satisfied" title="self-satisfiedの意味" class=crosslink>self-satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/0246c983a1e64ed9a583195b9442b9d7.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>でないこと<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'a+state+of+being+dissatisfied+with','%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/a+state" title="a stateの意味" class=crosslink>a state</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/being+dissatisfied" title="being dissatisfiedの意味" class=crosslink>being dissatisfied</a> with<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/bf7b48638aa166ea064704a69b9b76cb.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                ほくほく<b><b>満足</b></b>するさま<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'being+pleased+with+oneself','%E3%81%BB%E3%81%8F%E3%81%BB%E3%81%8F%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B%E3%81%95%E3%81%BE')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/being" title="beingの意味" class=crosslink>being</a> <a href="https://ejje.weblio.jp/content/pleased+with+oneself" title="pleased with oneselfの意味" class=crosslink>pleased with oneself</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/9e45cf7a77b1f236f42ad760bfa90293.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>してよろこぶ<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+be+very+pleased+and+satisfied','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6%E3%82%88%E3%82%8D%E3%81%93%E3%81%B6')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/very" title="veryの意味" class=crosslink>very</a> <a href="https://ejje.weblio.jp/content/pleased" title="pleasedの意味" class=crosslink>pleased</a> and <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/1d6f20f772a47a750c9a4d87919c49a0.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>しないでいるさま<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'in+an+unsatisfactory+manner','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%AA%E3%81%84%E3%81%A7%E3%81%84%E3%82%8B%E3%81%95%E3%81%BE')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> <a href="https://ejje.weblio.jp/content/an" title="anの意味" class=crosslink>an</a> <a href="https://ejje.weblio.jp/content/unsatisfactory" title="unsatisfactoryの意味" class=crosslink>unsatisfactory</a> <a href="https://ejje.weblio.jp/content/manner" title="mannerの意味" class=crosslink>manner</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/ca6d3f50dadc556c9534968b91b60ee2.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                <b><b>満足</b></b>したという感じ<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'a+desire+that+has+been+satisfied','%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E6%84%9F%E3%81%98')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                a <a href="https://ejje.weblio.jp/content/desire" title="desireの意味" class=crosslink>desire</a> that <a href="https://ejje.weblio.jp/content/has+been" title="has beenの意味" class=crosslink>has been</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a><i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/81facfe9833eab4bc905b8ac0b2ff4e1.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                十分<b><b>満足</b></b>する<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EDR_NICHIEI_TAIYAKU',-1,'to+be+very+satisfied+with+someone','%E5%8D%81%E5%88%86%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/very" title="veryの意味" class=crosslink>very</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> with someone<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/dd4a2e91b153b2fbf70d93f8a39dfc99.mp3?groupId=EDR_NICHIEI_TAIYAKU" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;EDR日英対訳辞書</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                彼は地位に<b><b>満足</b></b>だ。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'He+enjoys+his+position.','%E5%BD%BC%E3%81%AF%E5%9C%B0%E4%BD%8D%E3%81%AB%E6%BA%80%E8%B6%B3%E3%81%A0%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/He" title="Heの意味" class=crosslink>He</a> <a href="https://ejje.weblio.jp/content/enjoys" title="enjoysの意味" class=crosslink>enjoys</a> his position.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/f29cdf288d02d17f6480b49e743a1f8f.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                だれも<b><b>満足</b></b>しなかった。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'None+were+satisfied.','%E3%81%A0%E3%82%8C%E3%82%82%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                None were satisfied.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/becd21006b2fdda53c040eb4e6a35f05.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                すべてに<b><b>満足</b></b>です。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'I+am+satisfied+with+everything.','%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AB%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%99%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/I+am" title="I amの意味" class=crosslink>I am</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> with everything.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/5a8f83089539e3fd68ca80bb9587ada2.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                あなたは<b><b>満足</b></b>していますか、それとも不<b><b>満足</b></b>ですか。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'Are+you+satisfied+or+dissatisfied%3F','%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E6%BA%80%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E3%80%81%E3%81%9D%E3%82%8C%E3%81%A8%E3%82%82%E4%B8%8D%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                Are you <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/dissatisfied" title="dissatisfiedの意味" class=crosslink>dissatisfied</a>?<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/611d2ad95cafbe0d3e909c0e4c5d898f.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Tanaka Corpus</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                その結果は彼を<b><b>満足</b></b>させた<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'The+result+satisfied+him.','%E3%81%9D%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%AF%E5%BD%BC%E3%82%92%E6%BA%80%E8%B6%B3%E3%81%95%E3%81%9B%E3%81%9F')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                The <a href="https://ejje.weblio.jp/content/result" title="resultの意味" class=crosslink>result</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> him.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/7e91dbc1d3052bf2895dbc89ce2958f6.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                事態の現状に<b><b>満足</b></b>するな。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'Don%27t+be+satisfied+the+existing+state+of+affairs.','%E4%BA%8B%E6%85%8B%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%AB%E6%BA%80%E8%B6%B3%E3%81%99%E3%82%8B%E3%81%AA%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/Don" title="Donの意味" class=crosslink>Don</a>&#39;<a href="https://ejje.weblio.jp/content/t+be" title="t beの意味" class=crosslink>t be</a> <a href="https://ejje.weblio.jp/content/satisfied" title="satisfiedの意味" class=crosslink>satisfied</a> the <a href="https://ejje.weblio.jp/content/existing+state" title="existing stateの意味" class=crosslink>existing state</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> affairs.<i class="fa fa-volume-up sentenceAudioIcon">
+        <audio class=sentenceAudio controls="controls" preload="none">
+            <source src="https://cdn.weblio.jp/e8/audio/89f67662a16b2af428f8ddb38a28424f.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg">
+        </audio>
+    </i>
+<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="qotC">
+        <p class="qotCJJ">
+                それは私達の要求を<b><b>満足</b></b>させる。<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'It+satisfies+our+request.','%E3%81%9D%E3%82%8C%E3%81%AF%E7%A7%81%E9%81%94%E3%81%AE%E8%A6%81%E6%B1%82%E3%82%92%E6%BA%80%E8%B6%B3%E3%81%95%E3%81%9B%E3%82%8B%E3%80%82')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/It" title="Itの意味" class=crosslink>It</a> <a href="https://ejje.weblio.jp/content/satisfies" title="satisfiesの意味" class=crosslink>satisfies</a> our request.<span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<span class="qotHS">例文</span>
+    <div class="qotC">
+        <p class="qotCJJ">
+                従業員の<b><b>満足</b></b>度の測定<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'measuring+the+employee+satisfaction','%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%AE%E6%BA%80%E8%B6%B3%E5%BA%A6%E3%81%AE%E6%B8%AC%E5%AE%9A')">例文帳に追加</a></span>
+</p>
+            <p class="qotCJE">
+                <a href="https://ejje.weblio.jp/content/measuring" title="measuringの意味" class=crosslink>measuring</a> the <a href="https://ejje.weblio.jp/content/employee+satisfaction" title="employee satisfactionの意味" class=crosslink>employee satisfaction</a><span>&nbsp;-&nbsp;Weblio Email例文集</span>
+            </p>
+        </div>
+<div class="pgntionWrp">
+        <span class="TargetPage">1</span>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/2" rel="nofollow">
+            2</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/3" rel="nofollow">
+            3</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/4" rel="nofollow">
+            4</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/5" rel="nofollow">
+            5</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/6" rel="nofollow">
+            6</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/7" rel="nofollow">
+            7</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/8" rel="nofollow">
+            8</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/9" rel="nofollow">
+            9</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/10" rel="nofollow">
+            10</a>
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/11" rel="nofollow">
+            11</a>
+    <span class="tripleDot">...</span>.
+    <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/224" rel="nofollow">
+            224</a>
+   <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/225" rel="nofollow">
+            225</a>
+   <a href="https://ejje.weblio.jp/sentence/content/%E6%BA%80%E8%B6%B3/2">
+        次へ＞
+    </a>
+<br>
+
+</div>
+</div>
+                    <div class="subMenu"><div class=subMenuTWrp><table class=subMenuT><tr class=subMenuTR><td class=subMenuOff><a class=sb-anchor-content href="https://ejje.weblio.jp/content/%E6%BA%80%E8%B6%B3">意味</a></td><td class=subMenuOn>例文</td><td class=subMenuOff><a class=sb-anchor-english-thesaurus href="https://ejje.weblio.jp/english-thesaurus/content/%E6%BA%80%E8%B6%B3">類語</a></td><td class=subMenuEmp>&nbsp;</td></tr></table></div></div>
+<div class=topic><table><tr>
+<td class=topicL>
+<span class=wListSn><a href="https://ejje.weblio.jp/sentence/category/" title="索引トップ">索引トップ</a></span><span class=wListSn><a href="https://ejje.weblio.jp/sentence/category/aa/1" title="用語の索引">用語の索引</a></span>
+</td>
+</tr></table></div>
+<!-- interest_match_relevant_zone_end -->
+                <div class="adBlock flex-rectangle-ads-frame">
+                        <div id="div-gpt-ad-1635315771398-0" class=""  style="height:280px; width:336px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315771398-0');
+            });
+        </script>
+    </div>
+<div id="div-gpt-ad-1635315810692-0" class=""  style="height:280px; width:336px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315810692-0');
+            });
+        </script>
+    </div>
+</div>
+                <hr class=hrDot>
+                <br>
+                <div class=mainBlock>
+                    <form method="post" action="https://translate.weblio.jp/" name="translate">
+<div ID=trnsBxLg>
+<div class=trnsBxH>
+<div class=trnsBxHCnt>
+<table class=trnsBxHT>
+<tr>
+<td class=trnsBxHTL>
+<h2><img src="https://cdn.weblio.jp/e7/img/icons/translation_mini.png" alt="" class=icon><a href="https://translate.weblio.jp/" title="英語翻訳" target="_blank">英語翻訳</a></h2>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class=trnsBxB>
+<div class=trnsBxBCnt>
+<textarea name="originalText" cols="76" rows="10" class=trnslBxTx></textarea>
+</div>
+</div>
+<div class=trnslBtnWrp>
+<input type="submit" class="trnslBtn commonBtn" value="翻訳する" onmousedown="displayPushedButton(this, 0, 2);" onmouseup="this.setAttribute('style', '');" onmouseover="changeBackgroundColor(this, '#faa044');" onmouseout="this.setAttribute('style', '');">
+<input type="hidden" name="lp" value="EJ" checked>
+</div>
+</div>
+</form>
+<script type="text/javascript">
+$(document).ready(function(){
+    var transDispMsg = 'ここに翻訳したい文章を入力して下さい';
+    $('.trnslBxTx').show(function(){
+        if ($(this).val() == transDispMsg || $(this).val() == '') {
+            $(this).css({color:'#ccc'}).val(transDispMsg);
+        }
+    }).focus(function(){
+        if ($(this).val() == transDispMsg) {
+            $(this).css({color:'black'}).val('');
+        }
+    }).blur(function(){
+        if ($(this).val() == '') {
+            $(this).css({color:'#ccc'}).val(transDispMsg);
+        }
+    });
+    $('.trnslBtn').click(function() {
+        var trnsTxt = $('.trnslBxTx');
+        if (trnsTxt.val() == transDispMsg) {
+            trnsTxt.val('');
+        }
+    });
+});
+</script>
+</div>
+                <!-- コピーライト -->
+                <div class="mainBlock copyRtWrp"><hr class=copyRtHr><table class=copyRtTbl><tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr><tr><td><div class=copyRtWrp><a href="https://www.weblio.jp/redirect?url=https%3A%2F%2Fwww.kenkyusha.co.jp%2F&amp;etd=c7d6be6d1fe627e4"><img src="https://cdn.weblio.jp/e7/img/lg_kejje.png" alt="研究社 新和英中辞典"></a></div></td><td>Copyright (c) 1995-2026 Kenkyusha Co., Ltd. All rights reserved.</td></tr></table><table class=copyRtTbl><tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr><tr><td><div class=copyRtWrp><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fwww.edrdg.org%2Fwiki%2Findex.php%2FTanaka_Corpus&amp;etd=a432fadfacd86c90">TANAKA Corpus</a></div></td><td>Tanaka Corpusのコンテンツは、特に明示されている場合を除いて、次のライセンスに従います：<br><img src="https://cdn.weblio.jp/e7/img/lg_cc_by_20.png" alt="">&nbsp;<a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F2.0%2Ffr%2Fdeed.en_GB&amp;etd=cdea3827bdc47cf4">Creative Commons Attribution (CC-BY) 2.0 France.</a></td></tr></table><table class=copyRtTbl><tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr><tr><td><div class=copyRtWrp><a href="https://www.weblio.jp/redirect?url=https%3A%2F%2Fwww.kenkyusha.co.jp%2F&amp;etd=c7d6be6d1fe627e4"><img src="https://cdn.weblio.jp/e7/img/lg_kejje.png" alt="研究社 新英和中辞典"></a></div></td><td>Copyright (c) 1995-2026 Kenkyusha Co., Ltd. All rights reserved.</td></tr></table><table class=copyRtTbl><tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr><tr><td><div class=copyRtWrp><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fwww2.nict.go.jp%2Fout-promotion%2Ftechtransfer%2FEDR%2FJ_index.html&amp;etd=41e5bf2d7ebabcad"><img src="https://cdn.weblio.jp/e7/img/lgcr_edrnt.png" alt="EDR日英対訳辞書"></a></div></td><td>Copyright &copy; National Institute of Information and Communications Technology. All Rights Reserved.</td></tr></table><table class=copyRtTbl><tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr><tr><td><div class=copyRtWrp><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fwww.benesse.co.jp%2F&amp;etd=55ef67ba38d8c4c8"><img src="https://cdn.weblio.jp/e7/img/lg_egtej.png" alt="Eゲイト英和辞典"></a></div></td><td>Copyright &copy; Benesse Holdings, Inc. All rights reserved.</td></tr></table></div><!-- コピーライト -->
+            </div>
+            <!-- コンテント -->
+
+            <!-- サイド -->
+            <div ID=side style="margin-top:30px;">
+
+    <div class=sideBlock>
+            <div class=indexSideAdTop>
+                <div id="div-gpt-ad-1635315849039-0" class=""  style="margin: 0 auto; height: 600px; width: 300px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315849039-0');
+            });
+        </script>
+    </div>
+</div>
+        </div>
+    <div class="sideBlock userInfoBoxR">
+        <div class="userInfo">
+    <b>こんにちは&nbsp;ゲスト&nbsp;さん</b>
+    <table>
+        <tr>
+            <td class="left-cell">
+                <a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-icon_abatar&amp;wpm_campaign=ejje_top_icon_abatar">
+                    <img src="https://cdn.weblio.jp/e7/img/icons/avatar.png" alt="" class="icon" onmouseover="this.style.opacity='0.5'; this.style.filter='alpha(opacity=50)';" onmouseout="this.style.opacity='1.0'; this.style.filter='alpha(opacity=100)';">
+                </a><br>
+                <a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-under_icon_login&amp;wpm_campaign=ejje_top_under_icon_login" title="" style="font-size:12px;font-weight:bold;" class="userInfoLoginLink">ログイン</a><br>
+                </td>
+            <td class="right-cell">
+                <p class="free-description"><span>Weblio会員<span class="small">(無料)</span></span>になると</p>
+                    <div class="merits">
+                        <p><img src="https://cdn.weblio.jp/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">検索履歴を保存できる！</p>
+                        <p><img src="https://cdn.weblio.jp/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">語彙力診断の実施回数増加！</p>
+                    </div>
+                    <a class="free-button gtm-freeReg-up" onclick="setFormFocus();return cu(this, 'https://accounts.weblio.jp/uwl/register/user-entry')" href="https://accounts.weblio.jp/uwl/register/user-entry" title="">
+                        <img alt="無料会員に登録する" src="https://cdn.weblio.jp/e7/img/icons/icon_free_register_pc_button.png">
+                    </a>
+                </td>
+        </tr>
+
+        </table>
+    <a class="premium-service-button non" href="https://uwl.weblio.jp/ps/index" target="_blank"></a>
+    </div>
+</div>
+    <div id=pinned-content-placeholder></div>
+    <script type="text/javascript">PinnedManager.init("#pinned-content-placeholder");PinnedManager.render();</script>
+    <div class=sideBlock>
+        <form method="post" action="https://translate.weblio.jp/" name="translate" target="_blank">
+<div ID=trnsBxWRP>
+<div ID=trnsBxH>
+<div ID=trnsBxHCnt>
+<table ID=trnsBxHT>
+<tr>
+<td ID=trnsBxHTL><img src="https://cdn.weblio.jp/e7/img/icons/trans.png" alt=""></td>
+<td ID=trnsBxHTC><b><a href="https://translate.weblio.jp/" title="テキスト翻訳" target="_blank">テキスト翻訳</a></b></td>
+<td ID=trnsBxHTR><a href="https://translate.weblio.jp/" title="テキスト翻訳" target="_blank">Weblio翻訳</a></td>
+</tr>
+</table>
+</div>
+</div>
+<div ID=trnsBxB>
+<div ID=trnsBxBCnt>
+<textarea name="originalText" cols="38" rows="10" id="originalTextArea" class=trnsBxTx></textarea>
+</div>
+</div>
+<table ID=trnsBxBT>
+<tr>
+<td ID=trnsBxBTC>
+<input type="radio" name="lp" value="EJ" checked>英→日
+<input type="radio" name="lp" value="JE" style="margin-left:30px;">日→英</td>
+<td ID=trnsBxBTR>
+<input type="image" src="https://cdn.weblio.jp/e7/img/icons/transButton.png" alt="翻訳する" class=trnsBtn style="margin-left:35px;">
+</td>
+</tr>
+</table>
+</div>
+</form>
+<script type="text/javascript">
+var dispMsg = ''.replace(/<br>/g, '\n');
+var $orgTxtArea = $('#originalTextArea');
+$orgTxtArea.focus(function() {
+	if (this.value.replace(/\r?\n/g, '') == dispMsg.replace(/\r?\n/g, '')) {
+		this.value = '';
+	}
+}).blur(function() {
+	if (this.value == '') {
+		this.value = dispMsg;
+	}
+});
+document.getElementById('originalTextArea').value = dispMsg;
+</script>
+</div>
+    <div class=sideBlock>
+        <div style="text-align:center;">
+    <a href="https://ejje.weblio.jp/adobe-plug-in/" title="" target="_blank">
+        <img src="https://cdn.weblio.jp/e7/img/ad/adobe-plugin-icon-leftimg.png" alt="">
+    </a>
+</div>
+
+</div>
+    <div class="sideBlock userInfoBoxR">
+            <div class="userInfo">
+    <b>こんにちは&nbsp;ゲスト&nbsp;さん</b>
+    <table>
+        <tr>
+            <td class="left-cell">
+                <a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-icon_abatar&amp;wpm_campaign=ejje_top_icon_abatar">
+                    <img src="https://cdn.weblio.jp/e7/img/icons/avatar.png" alt="" class="icon" onmouseover="this.style.opacity='0.5'; this.style.filter='alpha(opacity=50)';" onmouseout="this.style.opacity='1.0'; this.style.filter='alpha(opacity=100)';">
+                </a><br>
+                <a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fsentence%2Fcontent%2F%25E6%25BA%2580%25E8%25B6%25B3&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-under_icon_login&amp;wpm_campaign=ejje_top_under_icon_login" title="" style="font-size:12px;font-weight:bold;" class="userInfoLoginLink">ログイン</a><br>
+                </td>
+            <td class="right-cell">
+                <p class="free-description"><span>Weblio会員<span class="small">(無料)</span></span>になると</p>
+                    <div class="merits">
+                        <p><img src="https://cdn.weblio.jp/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">検索履歴を保存できる！</p>
+                        <p><img src="https://cdn.weblio.jp/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">語彙力診断の実施回数増加！</p>
+                    </div>
+                    <a class="free-button gtm-freeReg-up" onclick="setFormFocus();return cu(this, 'https://accounts.weblio.jp/uwl/register/user-entry')" href="https://accounts.weblio.jp/uwl/register/user-entry" title="">
+                        <img alt="無料会員に登録する" src="https://cdn.weblio.jp/e7/img/icons/icon_free_register_pc_button.png">
+                    </a>
+                </td>
+        </tr>
+
+        </table>
+    <a class="premium-service-button non" href="https://uwl.weblio.jp/ps/index" target="_blank"></a>
+    </div>
+</div>
+    </div>
+<!-- サイド -->
+
+            <br class=clr>
+        </div>
+    </div>
+    <!-- コンテント -->
+
+    <div id="footFixAdBar">
+        <div class="footFixBarW">
+            <div id="div-gpt-ad-1635315447702-0" class=""  style="width: 728px; height: 90px;">
+    <script>
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-1635315447702-0');
+            });
+        </script>
+    </div>
+</div>
+    </div>
+    <div ID=footWrp>
+<div ID=foot>
+
+<table ID=footBox summary="フッタリンクのテーブル">
+<tr>
+<td>
+<div class="fb-page" data-href="https://www.facebook.com/weblio" data-width="370" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" style="padding-bottom:15px;"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/weblio/"><a href="https://www.facebook.com/weblio/">Weblio英和・和英辞典</a></blockquote></div></div>
+<div style="width:470px;">
+<div style="display:inline-block;">
+<b class=footBoxH>
+ご利用にあたって
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/ejje/endictionary/e_info/e_i_dictionary/h0115">Weblio英和・和英辞典とは</a></p>
+<p><a href="https://help.weblio.jp/ejje/endictionary/e_guide/e_g_dictionary/h0120">検索の仕方</a></p>
+<p><a href="https://www.weblio.jp/info/terms.jsp">利用規約</a></p>
+<p><a href="https://gras-group.co.jp/privacy-policy/">プライバシーポリシー</a></p>
+<p><a href="https://www.weblio.jp/info/sitemap.jsp">サイトマップ</a></p>
+<p><a href="https://www.weblio.jp">辞書総合TOP</a></p>
+<p><a href="https://help.weblio.jp/ejje">ヘルプ</a></p>
+<p><a href="https://help.weblio.jp/www/company/c_info/h0259" title="クッキー・アクセスデータについて">クッキー・アクセスデータについて</a></p>
+</div>
+<b class=footBoxH>
+便利な機能
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/ejje/company/c_info/h0004">ウェブリオのアプリ</a></p>
+</div>
+</div>
+<div style="display:inline-block; padding:2px 0 0 40px; vertical-align:top; word-wrap:break-word;">
+<b class=footBoxH>
+お問合せ・ご要望
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/feedback">お問い合わせ</a></p>
+</div>
+<b class=footBoxH>
+会社概要
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://gras-group.co.jp/">公式企業ページ</a></p>
+<p><a href="https://gras-group.co.jp/company/">会社情報</a></p>
+<p><a href="https://gras-group.co.jp/careers/">採用情報</a></p>
+</div>
+</div>
+</div>
+</td>
+<td>
+<b class=footBoxH>
+ウェブリオのサービス
+</b>
+<div class=footBoxB>
+<p><a href="https://www.weblio.jp/" title="辞典・百科事典の検索サービス - Weblio辞書">Weblio 辞書</a></p>
+<p><a href="https://thesaurus.weblio.jp/" title="類語辞典・シソーラス・対義語 - Weblio辞書">類語・対義語辞典</a></p>
+<p><a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">英和辞典・和英辞典</a></p>
+<p><a href="https://translate.weblio.jp/" title="Weblio 翻訳">Weblio翻訳</a></p>
+<p><a href="https://eikaiwa.weblio.jp/" title="オンライン英会話">オンライン英会話</a></p>
+<p><a href="https://cjjc.weblio.jp/" title="中国語辞書 - Weblio日中中日辞典">日中中日辞典</a></p>
+<p><a href="https://kjjk.weblio.jp/" title="韓国語辞書 - Weblio日韓韓日辞典">日韓韓日辞典</a></p>
+<p><a href="https://fjjf.weblio.jp/" title="フランス語辞書 - Weblioフランス語辞典">フランス語辞典</a></p>
+<p><a href="https://njjn.weblio.jp/" title="インドネシア語辞書 - Weblioインドネシア語辞典">インドネシア語辞典</a></p>
+<p><a href="https://tjjt.weblio.jp/" title="タイ語辞書 - Weblioタイ語辞典">タイ語辞典</a></p>
+<p><a href="https://vjjv.weblio.jp/" title="ベトナム語辞書 - Weblioベトナム語辞典">ベトナム語辞典</a></p>
+<p><a href="https://kobun.weblio.jp/" title="古文辞書 - Weblio古語辞典">古語辞典</a></p>
+<p><a href="https://qa.weblio.jp/" title="英語の質問箱">英語の質問箱</a></p>
+<p><a href="https://ninja.weblio.jp/" title="英語コーチング比較・口コミなら「忍者英会話」">英語コーチング比較・口コミなら「忍者英会話」</a></p>
+<p><a href="https://all-eikaiwa.com/" title="オンライン英会話比較・口コミなら「ALL英会話」">オンライン英会話比較・口コミなら「ALL英会話」</a></p>
+<p><a href="https://eikaiwa.weblio.jp/school/" title="学校向けオンライン英会話|中学・高校への学校導入支援">学校向けオンライン英会話|中学・高校への学校導入支援</a></p>
+<p><a href="https://ejje.weblio.jp/lpage/new-words/" title="英和和英辞典に新しく追加された用語一覧">英和和英辞典に新しく追加された用語一覧</a></p>
+<p><a href="https://ejje.weblio.jp/lpage/renewal-words/" title="英和和英辞典で最近更新された用語一覧">英和和英辞典で最近更新された用語一覧</a></p>
+<p><a href="https://kodomoeigobu.co.jp/media/" title="英会話カフェ - オンライン英会話や英会話教室を解説！みんなの英語学習サイト">英会話カフェ - オンライン英会話や英会話教室を解説！みんなの英語学習サイト</a></p>
+<p><a href="https://ouchibu-navi.com/" title="おうち部 | 不登校でも、持病があっても、人生なんとかなってます！">おうち部 | 不登校でも、持病があっても、人生なんとかなってます！</a></p>
+<p><a href="https://englishhub.jp/" title="おすすめ英会話・英語学習法の比較・ランキング- English Hub">おすすめ英会話・英語学習法の比較・ランキング- English Hub</a></p>
+</div>
+</td>
+<td>
+
+<div id=fdbkWrp>
+    <b class="inqryTtl" id="fdbkTtl">Weblioへのご意見をお待ちしております</b>
+    <div class="fdbkLink">
+        <a href="https://forms.gle/27NEFFXjMwj7rKuM8" target="_blank" rel="noopener noreferrer">Weblioへのご意見はこちら</a>
+    </div>
+    <p>※辞書についてのお問合せは、「<a href="https://help.weblio.jp/ejje/company/c_faq/c003">よくある質問</a>」もご参照ください。</p>
+</div>
+<div class="footer_banner free">
+  <div class="title">
+    Weblio会員<span class="small">(無料)</span>なら便利機能が満載!
+  </div>
+  <div class="content">
+    <ul class="features">
+      <li class="search-history">
+        <strong>検索履歴</strong>を保存できる
+      </li>
+      <li class="vocab-test">
+        診断テスト回数が2回から<strong>4回に増加</strong>
+      </li>
+    </ul>
+    <a href="https://accounts.weblio.jp/uwl/register/user-entry?serviceStr=uwl" class="button">
+      <img src="https://cdn.weblio.jp/e7/img/banner/free-button.png" alt="Weblio会員登録(無料)" />
+    </a>
+  </div>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+<div ID=footBottomWrp>
+<div ID=footBottom>
+
+<p ID=footCr>&copy;2026&nbsp;GRAS Group, Inc.<a href="https://ejje.weblio.jp/index.rdf" title="RSS">RSS</a>
+</p>
+
+</div>
+</div>
+
+<script type="text/javascript">
+    var cookieName = "1w_";
+    var MAX_AGE = 60 * 60 * 24 * 7;
+    if (false) {
+        cookieName = cookieName + "turbo";
+    } else if (true) {
+        cookieName = cookieName + 'sentence';
+    }
+    if (cookieName.length > 3) {
+        document.cookie = cookieName + '=1;path=' + '/' + ';max-age=' + MAX_AGE;
+    }
+</script>
+<script type="text/javascript"
+        src="https://cdn.weblio.jp/e7/script/include/free_or_premium_registration_cookie.js?tst=2026111109"></script>
+<script>
+    deleteFreeOrPremiumRegistrationCookie(false, 'conversion_free_reg03ee56fc5f60ec2332bef51eb777a36d', 'weblio.jp');
+    deleteFreeOrPremiumRegistrationCookie(false, 'conversion_premium_reg03ee56fc5f60ec2332bef51eb777a36d', 'weblio.jp');
+</script>
+
+
+<span style="display:none;" id="memberState">non-member</span>
+<div id="fb-root"></div>
+    <script type="text/javascript">(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+<p id="queryIdName" style="display:none;">満足</p>
+</div>
+
+<script type="text/javascript" src="https://cdn.weblio.jp/e7/script/include/sentence_multi_select_search.js?tst=2026111109" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cdn.weblio.jp/e7/script/include/modal_multi_select_group_id_search.js?tst=2026111109" charset="UTF-8"></script>
+<script type="text/javascript" src="https://cdn.weblio.jp/e7/script/include/html5_audio.js?tst=2026111109" charset="UTF-8"></script>
+</body>
+</html>

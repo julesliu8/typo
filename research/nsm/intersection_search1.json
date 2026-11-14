@@ -1,0 +1,22 @@
+[
+  {
+    "q": "site:nsm-approach.net Lao emotions",
+    "error": "HTTPSConnectionPool(host='search.yahoo.co.jp', port=443): Max retries exceeded with url: /search?p=site%3Ansm-approach.net+Lao+emotions&ei=UTF-8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  },
+  {
+    "q": "site:nsm-approach.net Koromu emotions",
+    "error": "HTTPSConnectionPool(host='search.yahoo.co.jp', port=443): Max retries exceeded with url: /search?p=site%3Ansm-approach.net+Koromu+emotions&ei=UTF-8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  },
+  {
+    "q": "\"Longgu\" \"Mouton Grammar Library\"",
+    "error": "HTTPSConnectionPool(host='search.yahoo.co.jp', port=443): Max retries exceeded with url: /search?p=%22Longgu%22+%22Mouton+Grammar+Library%22&ei=UTF-8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  },
+  {
+    "q": "\"Mouton Grammar Library\" \"Natural Semantic Metalanguage\"",
+    "error": "HTTPSConnectionPool(host='search.yahoo.co.jp', port=443): Max retries exceeded with url: /search?p=%22Mouton+Grammar+Library%22+%22Natural+Semantic+Metalanguage%22&ei=UTF-8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  },
+  {
+    "q": "site:nsm-approach.net \"Kayardild\"",
+    "error": "HTTPSConnectionPool(host='search.yahoo.co.jp', port=443): Max retries exceeded with url: /search?p=site%3Ansm-approach.net+%22Kayardild%22&ei=UTF-8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+  }
+]

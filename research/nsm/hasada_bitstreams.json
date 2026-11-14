@@ -1,0 +1,68 @@
+{
+  "_embedded": {
+    "bitstreams": [
+      {
+        "id": "31a5f747-2702-4674-929b-5464bae0d186",
+        "uuid": "31a5f747-2702-4674-929b-5464bae0d186",
+        "name": "Hasada_R_2000.pdf",
+        "handle": null,
+        "metadata": {
+          "dc.source": [
+            {
+              "value": "/usr/local/dspace/app/upload/Z:\\Digital_Repositories\\Digital Theses\\LegacyTheses_DSpace\\_Restricted Theses Collection\\Hasada, R\\Hasada_R_2000.pdf",
+              "language": null,
+              "authority": null,
+              "confidence": -1,
+              "place": 0
+            }
+          ],
+          "dc.title": [
+            {
+              "value": "Hasada_R_2000.pdf",
+              "language": null,
+              "authority": null,
+              "confidence": -1,
+              "place": 0
+            }
+          ]
+        },
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 33902776,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "ea3d580a71aaa780179ab75e4f23cb43"
+        },
+        "sequenceId": 2,
+        "type": "bitstream",
+        "_links": {
+          "content": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/31a5f747-2702-4674-929b-5464bae0d186/content"
+          },
+          "bundle": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/31a5f747-2702-4674-929b-5464bae0d186/bundle"
+          },
+          "format": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/31a5f747-2702-4674-929b-5464bae0d186/format"
+          },
+          "thumbnail": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/31a5f747-2702-4674-929b-5464bae0d186/thumbnail"
+          },
+          "self": {
+            "href": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/31a5f747-2702-4674-929b-5464bae0d186"
+          }
+        }
+      }
+    ]
+  },
+  "page": {
+    "number": 0,
+    "size": 20,
+    "totalPages": 1,
+    "totalElements": 1
+  },
+  "_links": {
+    "self": {
+      "href": "https://openresearch-repository.anu.edu.au/server/api/core/bundles/13f30658-e1e7-43d5-8b41-78c5e07581b4/bitstreams"
+    }
+  }
+}

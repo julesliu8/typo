@@ -1,0 +1,522 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2026-09-21T16:41:09Z",
+      "timestamp": 1790008869973,
+      "version": "4.0.1"
+    },
+    "reference-count": 53,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              3
+            ]
+          ],
+          "date-time": "2008-01-03T00:00:00Z",
+          "timestamp": 1199318400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 3595,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ethos"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:p>This article discusses how the Trobriand Islanders speak about body and mind. It addresses the following questions: do the linguistic data fit into theories about lexical universals of body‐part terminology? Can we make inferences about the Trobrianders' conceptualization of psychological and physical states on the basis of these data? If a Trobriand Islander sees these idioms as external manifestations of inner states, then can we interpret them as a kind of ethnopsychological theory about the body and its role for emotions, knowledge, thought, memory, and so on? Can these idioms be understood as representation of Trobriand ethnopsychological theory?</jats:p>",
+    "DOI": "10.1525/eth.1998.26.1.73",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          23
+        ]
+      ],
+      "date-time": "2004-11-23T16:40:39Z",
+      "timestamp": 1101228039000
+    },
+    "page": "73-104",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Body and Mind in the Trobriand Islands"
+    ],
+    "prefix": "10.1111",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Gunter",
+        "family": "Senft",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_1",
+        "volume-title": "The Degradation of the Democratic Dogma",
+        "author": "Adams Henry",
+        "year": "1919"
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "volume-title": "Modernity and Progress: Fitzgerald, Hemingway, Orwell",
+        "author": "Berman Ronald",
+        "year": "2005"
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "first-page": "1",
+        "volume-title": "Gatsby Major Literary Characters. Ed. Harold Bloom",
+        "author": "Bloom Harold",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "volume-title": "The Restless Universe. 2nd rev.",
+        "author": "Born Max",
+        "year": "1951"
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "volume-title": "The Ascent of Man",
+        "author": "Bronowski J",
+        "year": "1973"
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "volume-title": "New Essays on The Great Gatsby",
+        "author": "Bruccoli Matthew J.",
+        "year": "1985"
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "volume-title": "The Longing for Home: Recollections and Reflections",
+        "author": "Buechner Frederick",
+        "year": "1996"
+      },
+      {
+        "key": "e_1_2_1_9_1",
+        "volume-title": "Modern Times, Modern Places",
+        "author": "Conrad Peter",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_1_10_1",
+        "volume-title": "The Man in the High Castle",
+        "author": "Dick Philip K",
+        "year": "1962"
+      },
+      {
+        "key": "e_1_2_1_11_1",
+        "volume-title": "Time Out of Joint",
+        "author": "Dick Philip K",
+        "year": "1959"
+      },
+      {
+        "key": "e_1_2_1_12_1",
+        "volume-title": "Calendar: Humanity's Epic Struggle to Determine a True and Accurate Year",
+        "author": "Duncan David E",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_1_13_1",
+        "volume-title": "The Nature of the Physical World",
+        "author": "Eddington Arthur Stanley",
+        "year": "1928"
+      },
+      {
+        "key": "e_1_2_1_14_1",
+        "volume-title": "The Complete Poems and Plays, 1909–1950",
+        "author": "Eliot T. S",
+        "year": "1980"
+      },
+      {
+        "key": "e_1_2_1_15_1",
+        "volume-title": "The Great Gatsby",
+        "author": "Scott Fitzgerald F.",
+        "year": "1925"
+      },
+      {
+        "key": "e_1_2_1_16_1",
+        "volume-title": "Einstein's Clocks and Poincare's Maps: Empires of Time",
+        "author": "Galison Peter",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_1_17_1",
+        "volume-title": "Elements of Physical Chemistry. 2nd ed.",
+        "author": "Glasstone Samuel",
+        "year": "1960"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_1_18_1",
+        "first-page": "9",
+        "article-title": "\"'A Palpable Gift of Time': The Convergence of World Standard Time and Mass Advertising in Henry James's The Ambassadors.\"",
+        "volume": "69",
+        "author": "Hama Mark",
+        "year": "2004",
+        "journal-title": "South Atlantic Review"
+      },
+      {
+        "key": "e_1_2_1_19_1",
+        "volume-title": "The Universe in a Nutshell",
+        "author": "Hawking Stephen",
+        "year": "2001"
+      },
+      {
+        "key": "e_1_2_1_20_1",
+        "first-page": "261",
+        "volume-title": "Thematic Origins of Scientific Thought: Kepler to Einstein",
+        "author": "Holton Gerald",
+        "year": "1973"
+      },
+      {
+        "key": "e_1_2_1_21_1",
+        "volume-title": "The Ambassadors",
+        "author": "James Henry",
+        "year": "1903"
+      },
+      {
+        "key": "e_1_2_1_22_1",
+        "volume-title": "Ulysses",
+        "author": "Joyce James",
+        "year": "1922"
+      },
+      {
+        "key": "e_1_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/jml.2000.0041"
+      },
+      {
+        "key": "e_1_2_1_24_1",
+        "volume-title": "A Cultural History of Causality: Science, Murder Novels, and Systems of Thought",
+        "author": "Kern Stephen",
+        "year": "2004"
+      },
+      {
+        "key": "e_1_2_1_25_1",
+        "volume-title": "The Culture of Time and Space 1880–1918",
+        "author": "Kern Stephen",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_2_1_26_1",
+        "volume-title": "The Twentieth‐Century Novel: An Introduction",
+        "author": "Kershner R. B",
+        "year": "1997"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_2_1_27_1",
+        "first-page": "10",
+        "article-title": "“The Two Cultures Today.”",
+        "volume": "12",
+        "author": "Kimball Roger",
+        "year": "1994",
+        "journal-title": "New Criterion"
+      },
+      {
+        "key": "e_1_2_1_28_1",
+        "volume-title": "The Structure of Scientific Revolutions",
+        "author": "Kuhn Thomas S",
+        "year": "1962"
+      },
+      {
+        "key": "e_1_2_1_29_1",
+        "volume-title": "Selected Poems",
+        "author": "Lawrence D. H",
+        "year": "1950"
+      },
+      {
+        "key": "e_1_2_1_30_1",
+        "volume-title": "The Pilgrim's Regress: An Allegorical Apology for Christianity, Reason and Romanticism",
+        "author": "Lewis C. S",
+        "year": "1943"
+      },
+      {
+        "key": "e_1_2_1_31_1",
+        "volume-title": "The Theory of the Novel",
+        "author": "Lukacs Georg",
+        "year": "1920"
+      },
+      {
+        "key": "e_1_2_1_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3828/extr.2002.43.1.04"
+      },
+      {
+        "key": "e_1_2_1_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470776155"
+      },
+      {
+        "key": "e_1_2_1_34_1",
+        "volume-title": "Time in Literature",
+        "author": "Meyerhoff Hans",
+        "year": "1968"
+      },
+      {
+        "key": "e_1_2_1_35_1",
+        "volume-title": "Lolita",
+        "author": "Nabokov Vladimir",
+        "year": "1955"
+      },
+      {
+        "key": "e_1_2_1_36_1",
+        "volume-title": "Subtle Is the Lord: The Science and the Life of Albert Einstein",
+        "author": "Pais Abraham",
+        "year": "1982"
+      },
+      {
+        "key": "e_1_2_1_37_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "vii",
+        "DOI": "10.1515/9781400818211-001",
+        "volume-title": "Einstein's Miraculous Year: Five Papers that Changed the Face of Physics",
+        "author": "Penrose Roger",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_1_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.3050617"
+      },
+      {
+        "key": "e_1_2_1_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.3060577"
+      },
+      {
+        "key": "e_1_2_1_40_1",
+        "first-page": "206",
+        "volume-title": "Objective Knowledge: An Evolutionary Approach",
+        "author": "Popper Karl R",
+        "year": "1972"
+      },
+      {
+        "key": "e_1_2_1_41_1",
+        "volume-title": "The Crying of Lot",
+        "author": "Pynchon Thomas",
+        "year": "1966"
+      },
+      {
+        "key": "e_1_2_1_42_1",
+        "first-page": "79",
+        "volume-title": "Slow Learner: Early Stories",
+        "author": "Pynchon Thomas",
+        "year": "1985"
+      },
+      {
+        "key": "e_1_2_1_43_1",
+        "volume-title": "Time and Narrative. Vol. 2.",
+        "author": "Ricoeur Paul",
+        "year": "1985"
+      },
+      {
+        "key": "e_1_2_1_44_1",
+        "volume-title": "Narrative Fiction: Contemporary Poetics. 2nd ed.",
+        "author": "Rimmon‐Kenan Shlomith",
+        "year": "2002"
+      },
+      {
+        "key": "e_1_2_1_45_1",
+        "volume-title": "The Longing for Home",
+        "author": "Rouner Leroy S.",
+        "year": "1996"
+      },
+      {
+        "key": "e_1_2_1_46_1",
+        "volume-title": "The Two Cultures and the Scientific Revolution",
+        "author": "Snow C. P",
+        "year": "1959"
+      },
+      {
+        "key": "e_1_2_1_47_1",
+        "volume-title": "The Illustrated Longitude",
+        "author": "Sobel Dava",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_1_48_1",
+        "first-page": "81",
+        "volume-title": "The Great Gatsby.\" Gatsby Major Literary Characters. Ed. Harold Bloom",
+        "author": "Scott Robert Ian",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_1_49_1",
+        "volume-title": "The Decline of the West: Form and Actuality",
+        "author": "Spengler Oswald",
+        "year": "1918"
+      },
+      {
+        "key": "e_1_2_1_50_1",
+        "first-page": "55",
+        "volume-title": "\"Gatsby and the Hole in Time.\" Gatsby. Major Literary Characters",
+        "author": "Stallman R. W",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_1_51_1",
+        "first-page": "5",
+        "volume-title": "The Monsters and the Critics and Other Essays Ed. Christopher Tolkien",
+        "author": "Tolkien J. R. R",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_1_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1867235"
+      },
+      {
+        "key": "e_1_2_1_53_1",
+        "volume-title": "Einstein's Wake: Relativity, Metaphor, and Modernist Literature",
+        "author": "Whitworth Michael H",
+        "year": "2002"
+      },
+      {
+        "key": "e_1_2_1_54_1",
+        "volume-title": "The Complete Poems of W. B. Yeats",
+        "author": "Yeats William Butler",
+        "year": "1996"
+      }
+    ],
+    "container-title": [
+      "Ethos"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1525%2Feth.1998.26.1.73",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/eth.1998.26.1.73",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2023-10-27T21:55:27Z",
+      "timestamp": 1698443727000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/eth.1998.26.1.73"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          3
+        ]
+      ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1525/eth.1998.26.1.73"
+    ],
+    "URL": "https://doi.org/10.1525/eth.1998.26.1.73",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0091-2131",
+      "1548-1352"
+    ],
+    "issn-type": [
+      {
+        "value": "0091-2131",
+        "type": "print"
+      },
+      {
+        "value": "1548-1352",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          3
+        ]
+      ]
+    }
+  }
+}

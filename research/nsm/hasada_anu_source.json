@@ -1,0 +1,5 @@
+{
+  "name": "hasada_anu",
+  "url": "https://openresearch-repository.anu.edu.au/items/bbfefa88-fd07-433c-955c-e5164d936246",
+  "error": "HTTPSConnectionPool(host='openresearch-repository.anu.edu.au', port=443): Max retries exceeded with url: /items/bbfefa88-fd07-433c-955c-e5164d936246 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+}

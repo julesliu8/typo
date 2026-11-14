@@ -1,0 +1,169 @@
+{
+  "objectId": "item_58041",
+  "versionNumber": 2,
+  "modificationDate": "2010-01-26T13:41:26.320+00:00",
+  "versionState": "RELEASED",
+  "versionPid": "hdl:11858/00-001M-0000-0013-1813-4",
+  "modifier": {
+    "objectId": "user_56312"
+  },
+  "lastModificationDate": "2010-01-26T13:41:26.320+00:00",
+  "publicState": "RELEASED",
+  "objectPid": "hdl:11858/00-001M-0000-0013-1812-6",
+  "creator": {
+    "objectId": "user_56312"
+  },
+  "context": {
+    "objectId": "ctx_57277",
+    "name": "MPIPL import context",
+    "lastModificationDate": "2011-10-27T11:30:02.965+00:00",
+    "creationDate": "2009-03-26T16:08:56.488+00:00",
+    "creator": {
+      "objectId": "user_user42"
+    },
+    "modifier": {
+      "objectId": "user_user42"
+    }
+  },
+  "creationDate": "2009-03-26T17:25:35.743+00:00",
+  "latestRelease": {
+    "objectId": "item_58041",
+    "versionNumber": 2,
+    "modificationDate": "2010-01-26T13:41:26.320+00:00",
+    "versionState": "RELEASED",
+    "versionPid": "hdl:11858/00-001M-0000-0013-1813-4",
+    "modifier": {
+      "objectId": "user_56312"
+    }
+  },
+  "latestVersion": {
+    "objectId": "item_58041",
+    "versionNumber": 2,
+    "modificationDate": "2010-01-26T13:41:26.320+00:00",
+    "versionState": "RELEASED",
+    "versionPid": "hdl:11858/00-001M-0000-0013-1813-4",
+    "modifier": {
+      "objectId": "user_56312"
+    }
+  },
+  "localTags": [
+    ""
+  ],
+  "metadata": {
+    "title": "Combinatoric properties of natural semantic metalanguage expressions in Lao",
+    "creators": [
+      {
+        "person": {
+          "completeName": "N. J. Enfield",
+          "givenName": "N. J.",
+          "familyName": "Enfield",
+          "organizations": [
+            {
+              "identifier": "ou_55204",
+              "name": "Language and Cognition Group, MPI for Psycholinguistics, Max Planck Society",
+              "identifierPath": [
+                "ou_55204",
+                "ou_55201",
+                "ou_persistent13"
+              ]
+            },
+            {
+              "identifier": "ou_55223",
+              "name": "Event Representation, MPI for Psycholinguistics, Max Planck Society",
+              "identifierPath": [
+                "ou_55223",
+                "ou_55201",
+                "ou_persistent13"
+              ]
+            }
+          ],
+          "identifier": {
+            "id": "/persons/resource/persons51",
+            "type": "CONE"
+          }
+        },
+        "role": "AUTHOR",
+        "type": "PERSON"
+      }
+    ],
+    "datePublishedInPrint": "2002",
+    "genre": "BOOK_ITEM",
+    "identifiers": [
+      {
+        "id": "26232",
+        "type": "EDOC"
+      },
+      {
+        "id": "90-272-3064-1",
+        "type": "ISBN"
+      }
+    ],
+    "languages": [
+      "eng"
+    ],
+    "sources": [
+      {
+        "title": "Meaning and universal grammar: Theory and empirical findings",
+        "creators": [
+          {
+            "person": {
+              "completeName": "Cliff Goddard",
+              "givenName": "Cliff",
+              "familyName": "Goddard"
+            },
+            "role": "EDITOR",
+            "type": "PERSON"
+          },
+          {
+            "person": {
+              "completeName": "Anna Wierzbicka",
+              "givenName": "Anna",
+              "familyName": "Wierzbicka"
+            },
+            "role": "EDITOR",
+            "type": "PERSON"
+          }
+        ],
+        "volume": "2",
+        "startPage": "145",
+        "endPage": "256",
+        "publishingInfo": {
+          "place": "Amsterdam",
+          "publisher": "John Benjamins"
+        },
+        "genre": "BOOK"
+      }
+    ],
+    "subjects": [
+      {}
+    ]
+  },
+  "files": [
+    {
+      "objectId": "file_218036",
+      "name": "Enfield_2002_Combinatoric properties of natural semantic metalanguage expressions in Lao.pdf",
+      "creationDate": "2010-01-26T13:41:22.193+00:00",
+      "creator": {
+        "objectId": "user_56312"
+      },
+      "visibility": "PUBLIC",
+      "content": "/rest/items/item_58041_2/component/file_218036/content",
+      "storage": "INTERNAL_MANAGED",
+      "checksum": "ef9f0f8d34fbe1038989ff1502bd286c",
+      "checksumAlgorithm": "MD5",
+      "mimeType": "application/pdf",
+      "size": 4385517,
+      "metadata": {
+        "title": "Enfield_2002_Combinatoric properties of natural semantic metalanguage expressions in Lao.pdf",
+        "contentCategory": "publisher-version",
+        "formats": [
+          {
+            "value": "application/pdf",
+            "type": "dcterms:IMT"
+          }
+        ],
+        "size": 4385517
+      }
+    }
+  ]
+}

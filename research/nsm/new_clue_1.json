@@ -1,0 +1,1365 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4498185,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T19:56:27Z",
+          "timestamp": 1794513387623,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Cross-linguistic semantics – investigating how languages package and express meanings differently – is central to the linguistic quest to understand the nature of human language. This set of studies explores and demonstrates cross-linguistic semantics as practised in the natural semantic metalanguage (NSM) framework, originated by Anna Wierzbicka. The opening chapters give a state-of-the-art overview of the NSM model, propose several theoretical innovations and advance a number of original analyses in connection with names and naming, clefts and other specificational sentences, and discourse anaphora. Subsequent chapters describe and analyse diverse phenomena in ten languages from multiple families, geographical locations, and cultural settings around the globe. Three substantial studies document how the metalanguage of NSM semantic primes can be realised in languages of widely differing types: Amharic (Ethiopia), Korean, and East Cree. Each constitutes a lexicogrammatical portrait in miniature of the language concerned. Other chapters probe topics such as inalienable possession in Koromu (Papua New Guinea), epistemic verbs in Swedish, hyperpolysemy in Bunuba (Australia), the expression of \"momentariness\" in Berber, ethnogeometry in Makasai (East Timor), value concepts in Russian, and “virtuous emotions” in Japanese. This book will be valuable for linguists working on language description, lexical semantics, or the semantics of grammar, for advanced students of linguistics, and for others interested in language universals and language diversity.</jats:p>",
+        "DOI": "10.1075/slcs.102",
+        "type": "edited-book",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2013-12-16T23:11:34Z",
+          "timestamp": 1387235494000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 80,
+        "title": [
+          "Cross-Linguistic Semantics"
+        ],
+        "prefix": "10.1075",
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.jbe-platform.com/deliver/fulltext/9789027291370.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T14:34:54Z",
+          "timestamp": 1751553294000
+        },
+        "score": 43.31893,
+        "resource": {
+          "primary": {
+            "URL": "http://www.jbe-platform.com/content/books/9789027291370"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "editor": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of New England"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "has-part": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.02lis",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.03lis",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.01ack",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.05god",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.15elo",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.17bro",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.11jun",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.07god",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.18pri",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.06god",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.09amb",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.14god",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.10yoo",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.19gla",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.20has",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102.13kni",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:39:10Z",
+          "timestamp": 1794472750223,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.07god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T03:41:33Z",
+          "timestamp": 1395632493000
+        },
+        "page": "59-81",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "3. Towards a systematic table of semantic elements"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:56Z",
+          "timestamp": 1751538896000
+        },
+        "score": 37.8036,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.07god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.07god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.07god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:39:09Z",
+          "timestamp": 1794472749957,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.05god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T03:41:33Z",
+          "timestamp": 1395632493000
+        },
+        "page": "1-34",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+          "1. Natural Semantic Metalanguage: The state of the art"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:56Z",
+          "timestamp": 1751538896000
+        },
+        "score": 37.34725,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.05god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.05god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.05god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:37:36Z",
+          "timestamp": 1794472656572,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.14god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T03:41:33Z",
+          "timestamp": 1395632493000
+        },
+        "page": "225-240",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "8. Re-thinking THINK in contrastive perspective: Swedish vs. English"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Susanna",
+            "family": "Karlsson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:57Z",
+          "timestamp": 1751538897000
+        },
+        "score": 35.9895,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.14god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.14god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.14god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:36:51Z",
+          "timestamp": 1794472611385,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.06god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T03:41:33Z",
+          "timestamp": 1395632493000
+        },
+        "page": "35-57",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "2. New semantic primes and new syntactic frames: \"Specificational BE\" and \"abstract THIS/IT\""
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6074-7865",
+            "authenticated-orcid": true,
+            "given": "Anna",
+            "family": "Wierzbicka",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:56Z",
+          "timestamp": 1751538896000
+        },
+        "score": 34.422997,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.06god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.06god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.06god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T12:03:18Z",
+          "timestamp": 1794484998711,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.01ack",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2014-09-17T10:26:26Z",
+          "timestamp": 1410949586000
+        },
+        "page": "xi-xi",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Acknowledgements"
+        ],
+        "prefix": "10.1075",
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:55Z",
+          "timestamp": 1751538895000
+        },
+        "score": 31.484365,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.01ack"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.01ack/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "subtitle": [
+          ""
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.01ack",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              4
+            ]
+          ],
+          "date-time": "2025-07-04T04:07:55Z",
+          "timestamp": 1751602075897,
+          "version": "3.41.0"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9789027205698"
+          },
+          {
+            "type": "electronic",
+            "value": "9789027291370"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.prelim",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              22
+            ]
+          ],
+          "date-time": "2024-12-22T17:34:18Z",
+          "timestamp": 1734888858000
+        },
+        "page": "i-iv",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Prelim pages"
+        ],
+        "prefix": "10.1075",
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T14:34:54Z",
+          "timestamp": 1751553294000
+        },
+        "score": 31.010706,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.prelim"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.prelim/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.prelim",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0165-7763"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:07:55Z",
+          "timestamp": 1794391675151,
+          "version": "4.9.0"
+        },
+        "publisher-location": "Berlin, Boston",
+        "reference-count": 9,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110226614",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1515/9783110226614.268",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2011-07-25T11:56:42Z",
+          "timestamp": 1311595002000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "13. Methods in cross-linguistic semantics"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Lisa",
+            "family": "Matthewson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "reference": [
+          {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1005331423820"
+          },
+          {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/464314"
+          },
+          {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF00985041"
+          },
+          {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jos/ffh029"
+          },
+          {
+            "key": "p_21",
+            "first-page": "281",
+            "volume": "1",
+            "author": "Carden Guy",
+            "year": "1970",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1026527925514"
+          },
+          {
+            "key": "p_53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/sl.1.1.04dix"
+          },
+          {
+            "key": "p_61",
+            "author": "Faller Martina",
+            "year": "2007",
+            "journal-title": "Journal of Semantics 243"
+          },
+          {
+            "key": "p_101",
+            "author": "Lin Jo-Wang",
+            "year": "2006",
+            "journal-title": "Journal of Semantics 23"
+          }
+        ],
+        "container-title": [
+          "Semantics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110226614.268/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2021-04-20T16:15:53Z",
+          "timestamp": 1618935353000
+        },
+        "score": 30.700117,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110226614.268/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110226614"
+        ],
+        "references-count": 9,
+        "URL": "https://doi.org/10.1515/9783110226614.268",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110226614",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        6
+      ]
+    ],
+    "date-time": "2026-05-06T01:56:41Z",
+    "timestamp": 1778032601941,
+    "version": "3.51.4"
+  },
+  "reference-count": 47,
+  "publisher": "Informa UK Limited",
+  "issue": "4",
+  "funder": [
+    {
+      "DOI": "10.13039/501100002241",
+      "name": "JST SPRING",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "JPMJSP2138"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "JPMJSP2138"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002241",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.tandfonline.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Australian Journal of Linguistics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1080/07268602.2023.2296487",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        30
+      ]
+    ],
+    "date-time": "2024-01-30T12:54:16Z",
+    "timestamp": 1706619256000
+  },
+  "page": "283-313",
+  "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Conceptualization of “happy-like” feelings in Japanese and its relevance to a semantic typology of emotion concepts"
+  ],
+  "prefix": "10.1080",
+  "volume": "43",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0005-9859-009X",
+      "authenticated-orcid": false,
+      "given": "Hiromichi",
+      "family": "Sakaba",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Ritsumeikan University"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "301",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        30
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_5_2_1",
+      "first-page": "223",
+      "volume-title": "Evidentiality: The linguistic coding of epistemology",
+      "author": "Aoki H.",
+      "year": "1986",
+      "unstructured": "Aoki, H. (1986). Evidentials in Japanese. In W. Chafe & J. Nichols (Eds.), Evidentiality: The linguistic coding of epistemology (pp. 223–236). Ablex Publishing Corporation."
+    },
+    {
+      "key": "e_1_3_5_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/ijolc.1.2.05asa"
+    },
+    {
+      "key": "e_1_3_5_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/pbns.277.09asa"
+    },
+    {
+      "key": "e_1_3_5_5_1",
+      "volume-title": "How emotions are made: The secret life of the brain",
+      "author": "Barrett L. F.",
+      "year": "2017",
+      "unstructured": "Barrett, L. F. (2017). How emotions are made: The secret life of the brain. Houghton Mifflin Harcourt."
+    },
+    {
+      "key": "e_1_3_5_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2044-8295.1983.tb01842.x"
+    },
+    {
+      "key": "e_1_3_5_7_1",
+      "volume-title": "Darwin and facial expression: A century of research in review",
+      "author": "Ekman P.",
+      "year": "1973",
+      "unstructured": "Ekman, P. (1973). Cross-cultural studies of facial expression. In P. Ekman (Ed.), Darwin and facial expression: A century of research in review (pp. 169–222). Academic Press."
+    },
+    {
+      "key": "e_1_3_5_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-295X.99.3.550"
+    },
+    {
+      "key": "e_1_3_5_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1136/sbmj.0405184"
+    },
+    {
+      "key": "e_1_3_5_10_1",
+      "volume-title": "The nature of emotion: Fundamental questions",
+      "author": "Ekman P.",
+      "year": "1994",
+      "unstructured": "Ekman, P., & Davidson, R. J. (Eds). (1994). The nature of emotion: Fundamental questions. Oxford University Press."
+    },
+    {
+      "key": "e_1_3_5_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/pc.10.1-2"
+    },
+    {
+      "key": "e_1_3_5_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21159/nvjs.08.02"
+    },
+    {
+      "key": "e_1_3_5_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1354067X9512009"
+    },
+    {
+      "key": "e_1_3_5_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1525/eth.1996.24.3.02a00020"
+    },
+    {
+      "key": "e_1_3_5_15_1",
+      "volume-title": "Semantic analysis: A practical introduction",
+      "author": "Goddard C.",
+      "year": "2011",
+      "unstructured": "Goddard, C. (2011). Semantic analysis: A practical introduction. Oxford University Press."
+    },
+    {
+      "key": "e_1_3_5_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/pbns.241.06god"
+    },
+    {
+      "key": "e_1_3_5_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/rcl.13.2.02god"
+    },
+    {
+      "key": "e_1_3_5_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1163/9789004357723"
+    },
+    {
+      "key": "e_1_3_5_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9783110347524-024"
+    },
+    {
+      "key": "e_1_3_5_20_1",
+      "volume-title": "Words and meanings: Lexical semantics across domains, languages, and cultures",
+      "author": "Goddard C.",
+      "year": "2014",
+      "unstructured": "Goddard, C., & Wierzbicka, A. (2014). Words and meanings: Lexical semantics across domains, languages, and cultures. Oxford University Press."
+    },
+    {
+      "key": "e_1_3_5_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/bct.84"
+    },
+    {
+      "key": "e_1_3_5_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9783110880168"
+    },
+    {
+      "key": "e_1_3_5_23_1",
+      "volume-title": "The social construction of emotions",
+      "author": "Harré R.",
+      "year": "1986",
+      "unstructured": "Harré, R. (Ed.). (1986). The social construction of emotions. Basil Blackwell."
+    },
+    {
+      "key": "e_1_3_5_25_1",
+      "volume-title": "Nihongo gakushuu tsukaiwake jiten effective Japanese usage guide: A concise explanation of frequently confused words and phrases",
+      "author": "Hirose M.",
+      "year": "1994",
+      "unstructured": "Hirose, M., & Shooji, K. (Eds). (1994). Nihongo gakushuu tsukaiwake jiten effective Japanese usage guide: A concise explanation of frequently confused words and phrases. Koodansha."
+    },
+    {
+      "key": "e_1_3_5_26_1",
+      "first-page": "143",
+      "volume-title": "Nihongo: Imi to bunpou no fukei (Kunihiro Tetsuya Kyoju Koki Kinenronbunshu)",
+      "author": "Kikuchi Y.",
+      "year": "2000",
+      "unstructured": "Kikuchi, Y. (2000). Tanoshii to ureshii [Tanoshii and ureshii]. In S. Yamada, Y. Kikuchi, & Y. Momiyama (Eds.), Nihongo: Imi to bunpou no fukei (Kunihiro Tetsuya Kyoju Koki Kinenronbunshu) (pp. 143–159). Hitsuji Shobo."
+    },
+    {
+      "key": "e_1_3_5_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1207/s15327868ms0601_2"
+    },
+    {
+      "key": "e_1_3_5_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/bct.84.03lev"
+    },
+    {
+      "key": "e_1_3_5_29_1",
+      "volume-title": "Japanese words and their uses",
+      "author": "Miura A.",
+      "year": "1983",
+      "unstructured": "Miura, A. (1983). Japanese words and their uses. Charles E. Tuttle Company."
+    },
+    {
+      "key": "e_1_3_5_30_1",
+      "volume-title": "Kiso nihongo jiten",
+      "author": "Morita Y.",
+      "year": "1993",
+      "unstructured": "Morita, Y. (1993). Kiso nihongo jiten [Basic Japanese dictionary] (5th ed.). Kadokawa Shoten.",
+      "edition": "5"
+    },
+    {
+      "issue": "3",
+      "key": "e_1_3_5_31_1",
+      "first-page": "44",
+      "article-title": "Meishi to keiyoushi no kyokai [Boundaries between nouns and adjectives]",
+      "volume": "27",
+      "author": "Muraki S.",
+      "year": "1998",
+      "unstructured": "Muraki, S. (1998). Meishi to keiyoushi no kyokai [Boundaries between nouns and adjectives]. Gengo, 27(3), 44–49.",
+      "journal-title": "Gengo"
+    },
+    {
+      "key": "e_1_3_5_32_1",
+      "volume-title": "Kanjo hyougen shin jiten",
+      "author": "Nakamura A.",
+      "year": "2022",
+      "unstructured": "Nakamura, A. (2022). Kanjo hyougen shin jiten [The new dictionary of expressions of emotions]. Tokyodo."
+    },
+    {
+      "key": "e_1_3_5_33_1",
+      "volume-title": "Keiyooshi no imi: Yoohoo no kijutsuteki kenkyuu",
+      "author": "Nishio T.",
+      "year": "1972",
+      "unstructured": "Nishio, T. (1972). Keiyooshi no imi: Yoohoo no kijutsuteki kenkyuu [Meaning of adjectives: A descriptive study of usage]. Shuuei Shuppan."
+    },
+    {
+      "key": "e_1_3_5_34_1",
+      "first-page": "14",
+      "article-title": "Yorokobi tanoshimi no kotoba [Words for happiness and joy]",
+      "volume": "12",
+      "author": "Nishio T.",
+      "year": "1993",
+      "unstructured": "Nishio, T. (1993). Yorokobi tanoshimi no kotoba [Words for happiness and joy]. Nihongogaku, 12, 14–22.",
+      "journal-title": "Nihongogaku"
+    },
+    {
+      "key": "e_1_3_5_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02699938708408362"
+    },
+    {
+      "key": "e_1_3_5_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4324/9781315708744"
+    },
+    {
+      "key": "e_1_3_5_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02699930902793462"
+    },
+    {
+      "key": "e_1_3_5_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1207/S15327957PSPR0504_2"
+    },
+    {
+      "key": "e_1_3_5_39_1",
+      "volume-title": "Nihongo no shintakusu to imi I",
+      "author": "Teramura H.",
+      "year": "1982",
+      "unstructured": "Teramura, H. (1982). Nihongo no shintakusu to imi I [Japanese syntax and meaning I]. Kuroshio Publishers."
+    },
+    {
+      "key": "e_1_3_5_40_1",
+      "volume-title": "Semantic primitives",
+      "author": "Wierzbicka A.",
+      "year": "1972",
+      "unstructured": "Wierzbicka, A. (1972). Semantic primitives. Athenaum."
+    },
+    {
+      "key": "e_1_3_5_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/10152-004"
+    },
+    {
+      "key": "e_1_3_5_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511521256"
+    },
+    {
+      "key": "e_1_3_5_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/acprof:oso/9780195174748.001.0001"
+    },
+    {
+      "key": "e_1_3_5_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1754073910361983"
+    },
+    {
+      "key": "e_1_3_5_45_1",
+      "first-page": "155",
+      "volume-title": "Word and Language (Slovo i Jazyk)",
+      "author": "Wierzbicka A.",
+      "year": "2011",
+      "unstructured": "Wierzbicka, A. (2011). What’s wrong with “happiness studies”? The cultural semantics of happiness, bonheur, gluck and scast’e. In I. M. Boguslavskij, L. L. Iomdin, & L. P. Krysin (Eds.), Word and Language (Slovo i Jazyk) (pp. 155–171). Jazyki Slavjanskoj Kultury."
+    },
+    {
+      "key": "e_1_3_5_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.22363/2687-0088-2021-25-2-317-342"
+    },
+    {
+      "key": "e_1_3_5_47_1",
+      "first-page": "112",
+      "volume-title": "Kotoba no imi 3–jisho ni kai tenai koto",
+      "author": "Yamada S.",
+      "year": "1982",
+      "unstructured": "Yamada, S. (1982). Ureshii tanoshii [Ureshii and tanoshii]. In T. Kunihiro (Ed.), Kotoba no imi 3–jisho ni kai tenai koto (pp. 112–120). Heibonsha."
+    },
+    {
+      "key": "e_1_3_5_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1163/9789047411659_s004"
+    },
+    {
+      "key": "e_1_3_5_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1075/bct.84.04ye"
+    }
+  ],
+  "container-title": [
+    "Australian Journal of Linguistics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07268602.2023.2296487",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        24
+      ]
+    ],
+    "date-time": "2024-09-24T19:30:53Z",
+    "timestamp": 1727206253000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.tandfonline.com/doi/full/10.1080/07268602.2023.2296487"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        2
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1080/07268602.2023.2296487"
+  ],
+  "URL": "https://doi.org/10.1080/07268602.2023.2296487",
+  "relation": {},
+  "ISSN": [
+    "0726-8602",
+    "1469-2996"
+  ],
+  "issn-type": [
+    {
+      "value": "0726-8602",
+      "type": "print"
+    },
+    {
+      "value": "1469-2996",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+      "order": 1,
+      "name": "peerreview_statement",
+      "label": "Peer Review Statement"
+    },
+    {
+      "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=cajl20",
+      "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=cajl20",
+      "order": 2,
+      "name": "aims_and_scope_url",
+      "label": "Aim & Scope"
+    },
+    {
+      "value": "2023-10-01",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2023-12-13",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-01-30",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

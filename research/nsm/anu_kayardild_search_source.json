@@ -1,0 +1,5 @@
+{
+  "name": "anu_kayardild_search",
+  "url": "https://openresearch-repository.anu.edu.au/server/api/discover/search/objects?query=Kayardild%20Evans%20semantic&size=10",
+  "error": "HTTPSConnectionPool(host='openresearch-repository.anu.edu.au', port=443): Read timed out. (read timeout=35)"
+}

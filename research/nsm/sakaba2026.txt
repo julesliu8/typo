@@ -1,0 +1,1254 @@
+[PDF PAGE 1]
+ 
+Russian Journal of Linguistics  
+ISSN 2687-0088 (Print), ISSN 2686-8024 (Online) 
+2026 Vol. 30 No. 1  204–229 
+http://journals.rudn.ru/linguistics 
+ 
+204 
+ 
+ 
+ 
+https://doi.org/10.22363/2687-0088-42740   
+EDN: AJYEXX 
+Research article / Научная статья 
+ 
+Conceptualization of emotion in Japanese: Adjectives vs. verbs 
+ 
+Hiromichi SAKABA  ∗ 
+ 
+Doshisha University, Kyoto, Japan
+claudia.zbenovich@gmail.com 
+ 
+Abstract 
+Japanese has formally corresponding adjective–verb pairs that express emotion, e.g. kanashii (sad) 
+and kanashimu (to grieve). Previous studies have pointed out that these forms are used in different 
+contexts; however, little attention has been paid to  their semantic differen ces. By contrast, studies 
+on languages such as Russian and English have highlighted clear distinctions between adjectives 
+and verbs in the conceptualization of emotion. To address this gap, the paper aims to reveal the 
+differences in the conceptualization of emotion between adjectives and verbs in Japanese.  Thestudy 
+analyzed nine adjective–verb pairs in Japanese  and investigated their differences from three 
+perspectives: (i) the cause of emotion, (ii) the object of emotion, and (iii) the expression of emotion. 
+The Natural Semantic Metalanguage (NSM) fram ework was employed to capture the semantic 
+structures of emotion concepts. This study proposed the semantic template for emotion verbs, which 
+helps systematically analyze the meaning of Japanese emotion terms. Additionally, it explored why 
+emotion verbs in Japanese are used less frequently than their adjectival counterparts, despite lexical 
+availability. This was examined in light of cultural attitudes toward emotion in Japanese society. 
+The findings contribute to a deeper understanding of how speakers of different languages 
+conceptualize and categorize emotional experiences, which has important implications for the future 
+development of lexical typology in emotion. 
+Keywords: emotion, emotion adjectives, emotion verbs, semantics, Natural Semantic Metalanguage 
+(NSM), Japanese 
+ 
+For citation: 
+Sakaba, Hiromichi. 2026 Conceptualization of emotion in Japanese: Adjectives vs. verbs.  
+Russian Journal of Linguistics  30 (1). 204–229. https://doi.org/10.22363/2687-0088-42740  
+EDN: AJYEXX 
+ 
+ 
+ 
+ 
+© Hiromichi Sakaba, 2026 
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License 
+https://creativecommons.org/licenses/by-nc/4.0/legalcode 
+ 
+
+[PDF PAGE 2]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+205 
+Концептуализация эмоций  
+в японских прилагательных и глаголах 
+ 
+Хиромичи САКАБА  
+ 
+Университет Досися, Киото, Япония 
+claudia.zbenovich@gmail.com 
+ 
+Аннотация 
+В японском языке существуют формально соответствующие пары прилагательное-глагол, 
+выражающие эмоции, например, kanashii (грустный) и kanashimu (печалиться). Предыдущие 
+исследования указывали на то, что эти формы используются в разных контекстах, однако их 
+семантическим различиям уделялось мало внимания. Исследования таких языков, как рус-
+ский и английский, выявили четкие различия между прилагательными и глаголами в концеп-
+туализации эмоций. Цель данного исследования – выявить различия в концептуализации  
+эмоций в японских прилагательных и глаголах. Были проанализированы девять пар прилага-
+тельное-глагол в японском языке и исследованы их различия с трех точек зрения: (1) причина 
+эмоции, (2) объект эмоции и (3) выражение эмоции. Для описания семантических структур 
+эмоций использовался Естественный семантический метаязык (ЕСМ/NSM). В данном иссле-
+довании предложена семантическая модель для глаголов, обозначающих эмоции, которая  
+помогает систематически анализировать значение японских лексем, описывающих эмоции. 
+Кроме того, выявлено, почему глаголы, обозначающие эмоции, в японском языке использу-
+ются реже, чем соотвествующие им прилагательные, несмотря на их лексическую доступ-
+ность. Этот вопрос был рассмотрен в свете культурных установок по отношению к эмоциям 
+в японском обществе. Полученные результаты способствуют более глубокому пониманию 
+того, как носители разных языков концептуализируют и классифицируют эмоциональные пе-
+реживания, что имеет важное значение для дальнейшего развития лексической типологии в 
+области эмоций. 
+Ключевые слова: эмоция, прилагательные, обозначающие эмоции, глаголы, обозначающие 
+эмоции, культурная семантика, Естественный семантический метаязык (NSM), японский 
+язык 
+ 
+Для цитирования: 
+Sakaba H. Conceptualization of emotion in Japanese: Adjectives vs. verbs.  Russian Journal  
+of Linguistics.  2026. Vol. 30. № 1. P. 204–229. https://doi.org/10.22363/2687-0088-42740  
+EDN: AJYEXX 
+ 
+1. Introduction 
+While adjectives represent properties and verbs represent actions, emotions 
+can be encoded by both (Croft 1991, Wierzbicka 1995). However, few studies have 
+discussed the semantic differences between such formally corresponding adjective–
+verb pairs in Japanese. According to Teramura (1982: 140),  Japanese emotion 
+adjectives express “emotional states” or “emotional judgments,” whereas emotion 
+verbs convey “temporal movement of mi nd” or “active movement of emotion.” 
+Nevertheless, this distinction does not address how formally corresponding emotion 
+adjectives and verbs differ in meaning. 
+
+[PDF PAGE 3]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+206 
+It has been pointed out that emotion adjectives are used with a first-person 
+subject, while verbs are used more with a non-first-person subject when they are 
+predicates in the non-past te nse (Nitta 1998, Teramura 1982).  1  However, such 
+differences fall short of accounting for their distincti on. Corpus data from the 
+Balanced Corpus of Contempo rary Written Japanese (BCCWJ) 2 suggest that the 
+choice between adjectives and verbs is not strictly determined by the subject. In 
+(2a), the verb kanashimu (grieve) is felicitously used with the first-person subject, 
+whereas in (1b), the adjective kanashii (sad) is felicitously used with the third-
+person subject.3 
+ 
+(1) a. Watashi-wa jinrui-no          tameni  kanashimi, mata, haiyū-no   tameni 
+     1 SG-TOP      humanity-GEN for        mourn         also   actor-GEN for  
+     hokoritaku  omou  nodearu.                                          (V) 
+     proud          think  COP 
+     ‘I mourn for humanity and also feel proud for actors.’ 
+     (Kishida Kunio, ‘ Katarareru kotoba’ no bi) 
+     b. Otona-no  sukikatte-wa        kodomo-wa   kanashii.     (Adj.) 
+     adult- GEN  selfishness-TOP  child-TOP       sad 
+       ‘Children are sad about the selfishness of adults.’        (FC2Blog) 
+ 
+These examples highlight the need to  examine the semantic differences 
+between formally corresponding Japanese emotion adjectives and verbs. 
+This paper aims to reveal the differen ces in the conceptualization of emotion 
+between adjectives and verbs in Japane se. The paper is organized as follows. 
+Section 2 reviews previous studies on the three differences between emotion 
+adjectives and verbs: (i) the cause, (ii) the object, and (iii) the expression. Section 
+3 presents the methodology used in the analysis, Natural Semantic Metalanguage 
+(NSM). It provides data on the adjective –verb pairs that express emotions in 
+Japanese, along with their frequency of use, as obtained from the corpora. Section 
+4 offers a semantic analysis and sheds light on the meanings shared by Japanese 
+emotion verbs. Section 5 re-examines the conceptualization of emotion in Japanese 
+from the perspective of cultural attitudes toward emotions. Section 6 concludes the 
+paper. 
+ 
+2. Previous studies 
+2.1. The cause of emotion 
+Semantic differences between emotion adjectives and verbs have been the 
+subject of discussion in both Russian a nd English. Contrary to the conventional 
+assumption that the relationship between word class and meaning was arbitrary, 
+ 
+1 Although this phenomenon is known as “person restriction,” scholars have not yet reached a 
+consensus on why it occurs specifically in the domain of emotion (Wang 2013). 
+2 https://clrd.ninjal.ac.jp/bccwj/en/ 
+3 Each sentence remains acceptable even if the subject is changed: the use of a third-person subject 
+in (2a) or a first-person subject in (2b) does not affect acceptability. 
+[PDF PAGE 4]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+207 
+Wierzbicka (1995) argued that  the differences in word class were systematically 
+correlated with differences  in meaning. In (2), a lthough the Russian adjective živ 
+and the verb živu are used in the same sentence, one of which is negated, the 
+sentence is acceptable. The examples in (3a, b), cited from Tolstoy (1985), illustrate 
+that altering the verb to an adjective can render the sentence unacceptable. 
+ 
+(2) Ja živ, no ne živu. 
+‘I am alive, but I do not live.’ 
+(3) a. Živu durno. 
+    ‘I live badly.’                      (Tolstoy 1985: 58) 
+ b. *Ja živ durno. 
+      ‘I am alive badly.’ 
+ 
+These examples show the semantic differences between the adjective živ and 
+the verb živu, which are common among adjective–verb pairs in Russian. 
+Wierzbicka also cited ex amples from English to support her claim. The 
+following English near-synonyms differ in their meaning, which is related to word 
+class. 
+ 
+(4) a. Mary is worrying about something. 
+ b. Mary is worried about something.          (Wierzbicka 1995: 225) 
+ 
+Examples (4a, b) differ in the conceptualization of the cause of emotion. When 
+the verbal phrase is worrying about  expresses a mental action, the cause is 
+interpreted as Mary consciously th inking about something. Conversely, the 
+adjectival phrase (pseudo-participles) is worried about expresses a state in which 
+the cause is interpreted as external. In  this case, the feeling is triggered by 
+something. 
+Another difference is that the words occur with different types of collocations. 
+As verbs refer to a process, verbs of emotion can co-occur with aspectual verbs such 
+as start or stop (Wierzbicka 1995). However, the passive emotional state, expressed 
+by adjectives, lacks emotional boundaries and is less likely to occur with aspectual 
+verbs.4 Hence, there are significant differences in the number of observed examples 
+in the corpus. Table 1 presents a summary of the raw frequencies of the verbal 
+phrases {to worry/worrying} about and the adjectival phrases {to be worried/being 
+worried} about that follow the present and past tense forms of the verbs start and 
+stop, based on data from the Corpus of Contemporary American English (COCA).5 
+Table 1 shows that a number of examples of the verbal phrase worry about co-
+occurring with start or stop were observed, whereas few examples of the adjectival 
+phrase to be worried  about were detected. Thus, adj ective–verb pairs expressing 
+emotion in Russian and English represent different conceptualizations. 
+ 
+ 
+4 This is consistent with Langacker’s (2008) claim that adjectives profile “atemporal relation,” 
+whereas verbs profile “process.” 
+5 As both the verbs start and stop can be followed by infinitives and gerunds, phrases in both forms 
+were included in the search. 
+[PDF PAGE 5]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+208 
+Table 1. The number of co-occurrences with aspectual verbs 
+ 
+Aspectual Verbs Verbal/Adj ectival Phrase Frequency 
+Start (ed) {to worry/worrying} about 332 {to be worried/being worried} about 0 
+Stop (ped) {to worry/worrying} about 626 {to be worried/being worried} about 3 
+ 
+2.2. The object of emotion 
+Emotion adjectives and formally corresponding verbs in Japanese differ in the 
+nouns they take as the object of the emotion. They use different case markers when 
+taking the object of the emotion. Japa nese emotion verbs are used in the 
+construction “N-o + emotion verbs,” where -o indicates the accusative case. 
+Japanese emotion adjectives are used  in the construction “N-ga + emotion 
+adjectives.” While -ga is primarily used as the nominative case marker, it can mark 
+the object as well. In both cases, N represents the object toward which one feels the 
+emotion. 
+Kato (2001) examined the differences  in the object of emotion taken by 
+Japanese emotion adjectives and verbs. Below is a comparison of the acceptability 
+of verbs and adjectives when they take the same noun as their object. 
+ 
+(5) a.  Ryokou-o        tanoshimu.       (V) 
+  traveling- ACC enjoy 
+  ‘I enjoy traveling.’ 
+ b.  Ryokou-ga       tanoshii.          (Adj.) 
+  traveling- NOM fun 
+  ‘I have fun when traveling.’ 
+(6) a.  Yoka-o                  tanoshimu.  (V) 
+  leisure.time- ACC  enjoy 
+  ‘I enjoy leisure time.’ 
+ b. * Yoka-ga                 tanoshii.    (Adj.) 
+  leisure.time- NOM fun 
+  ‘I have fun in my leisure time.’         (Kato 2001: 50) 
+ 
+As in (5a, b), both the verb tanoshimu (enjoy) and the adjective tanoshii (fun) 
+take the noun ryokou (traveling) as the object. However, in (6a, b), yoka (leisure 
+time) can co-occur with the verb tanoshimu (enjoy), yet not with the adjective 
+tanoshii (fun). Kato (2001) attempted to account for the differences in acceptability 
+between these adjectives and verbs based on sentence predictability. As “traveling” 
+is likely to evoke a good f eeling, which is enjoyable, the addressee can expect a 
+word that expresses a good feeling to follow the noun. Ho wever, whether “leisure 
+time” is enjoyable or not depends on how  it is spent. Hence, the use of tanoshii 
+(fun) is unacceptable in (7b) because the addressee cannot sufficiently predict the 
+situation from the sentence. 
+Thus, Japanese emotion adjectives and verbs differ in the nouns they can take 
+as objects of emotion. Compared to verbs, adjectives are more limited in the nouns 
+they can take as objects. 
+[PDF PAGE 6]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+209 
+2.3. The expression of emotion 
+Whether the emotions designated by emotion verbs are expressed through 
+action has been discussed at the indivi dual verb level. A lthough the feelings 
+described by English verbs such as rejoice or grieve are normally expressed through 
+actions such as laughing or crying, it is not impossible to experience these feelings 
+without such actions. This suggests that  emotions expressed by English verbs do 
+not necessarily involve physical movement (Wierzbicka 1995). 
+While there is no general discussion about the expression of emotion with 
+Japanese verbs, some studies have examined the meaning of the verb yorokobu 
+(rejoice). They have made two conflicting claims about its expression of the feeling. 
+Nishio (1993) claimed that the feeli ng does not always appear on the surface 
+because the feeling cannot be observed by others when it occurs with the adverbial 
+phrase shinchu hisokani (secretly in one’s heart), as follows: 
+ 
+(7) Shinchu hisokani yorokobu. 
+ in.heart  secretly  rejoice 
+ ‘I secretly rejoice in my heart.’    (Nishio 1993: 16) 
+ 
+In (7), the experien cer keeps the feeling inside without revealing it to others. 
+This implies that the feeling expressed by yorokobu (rejoice) is not always 
+expressed in action. 
+In contrast, Caluianu (2005) stated that yorokobu (rejoice) involved action 
+based on the selective restriction with the adverb hadeni (showily). As this adverb 
+modifies the manner of actions, it can only be used with verbs that involve actions. 
+Consider (8a, b), in which all the verbs express feelings: 
+ 
+(8) a.  Hade-ni  {yorokobu/ kowagaru/ kanashimu} 
+  ‘To showily {rejoice/ frighten/ grieve}’ 
+ b. *Hade-ni  {konomu/ osoreru/ kirau/ aisuru} 
+  ‘To showily {like/ fear/ dislike/ love}’          (Caluianu 2005: 8) 
+ 
+While the adverb hadeni (showily) can occur with the verb yorokobu (rejoice), 
+it cannot occur with verbs such as konomu (like) or osoreru (fear). Verbs such as  
+yorokobu (rejoice) or kowagaru (frighten) involve phys ical actions, such as 
+movements of the hands and feet. However, verbs such as konomu (like) and kirau 
+(dislike) express states of  liking or disliking. Hence,  based on the acceptability 
+difference, Caluianu (2005) maintained that yorokobu (rejoice) involved action. 
+Sakaba (2023), summarizing these oppos ing arguments, conc luded that the 
+feeling described by the verb yorokobu (rejoice) was expressed in action, because 
+Nishio’s (1993) counterexamples were accounted for by the principle of coercion. 
+It involved a process of reinterpretation, triggered by “a mismatch between the 
+semantic properties of a selector” (Lauwers & Willems 2011: 1219). Although the 
+feeling designated by yorokobu (rejoice) in (7) cannot be observed by others, it does 
+not contradict the cla im that the feeling of yorokobu (rejoice) involves action, as 
+the adverb shinchu hisokani (secretly in one’s heart) temporarily cancels this aspect. 
+[PDF PAGE 7]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+210 
+In fact, the adverb shinchu hisokani (secretly in one’s heart) could act as a 
+selector to coerce the inherent semantic properties of a selected element when it 
+occurred with other action verbs. Fo r example, the action described by himei-o 
+ageru (scream) in (9) involved some physic al movement to make a loud sound. 
+However, the movement described by th e verb was temporarily canceled in the 
+following example: 
+ 
+(9) Shinchu hisokani himei-o        ageta       Juzaburo 
+ in.heart  secretly  scream- ACC raise.PST  Juzabro 
+ ‘Juzaburo, who screamed secretly in his heart.’   (Akagi Tsuyoshi, 
+Teito tantei monogatari) 
+ 
+This suggests that Juzaburo screamed in his mind, without actually making a 
+sound, to avoid being noticed by ot hers. In contrast, the adverb hadeni (showily) 
+does not cause coercion. As seen in (9b), it does not coerce verbs expressing a state 
+to become verbs expressing an action. This suggests that examining the co-
+occurrence with the adverb hadeni (showily) can determine whether the emotion 
+expressed by the verb inherently involves action, while the co-occurrence with the 
+adverb shinchu hisokani (secretly in one’s heart) cannot serve as a criterion for this 
+judgment. 
+Thus, the feeling described by yorokobu (rejoice) is expressed in action unless 
+it occurs with words or phrases that coerce this aspect. Examining the co-occurrence 
+with the adverb hadeni (showily) can determine whether the feeling designated by 
+verbs involves actions. 
+ 
+2.4. Summary of previous studies 
+Section 2.1 discussed the differences  in the cause of emotion between 
+adjectives and verbs in Russian and Eng lish, suggesting that similar patterns may 
+be observed in Japanese. Section 2.2 discussed that the objects of emotion taken by 
+adjectives and verbs in Japanese are diffe rent, and attempts were made to account 
+for this difference in relation to predictability. However, why predictability affects 
+the acceptability of adjectives but not verbs has not been examined. Section 2.3 
+explored the expression of emotion designated by verbs. However, further 
+examination is required to investigate the physical movement involved in emotion 
+verbs in Japanese. 
+ 
+3. Methodology and data 
+3.1. Natural Semantic Metalanguage (NSM) 
+This study employs the NSM as a framework (Wierzbicka 1996) to capture the 
+meaning of emotion concepts. It descri bes the meaning of words by decomposing 
+them into a set of the simplest concep ts. There are 65 concepts called “semantic 
+[PDF PAGE 8]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+211 
+primes” (e.g., I, SOMEONE, THINK, FEEL, etc.) that are considered universal.6 The list 
+has been updated based on research conducted in over 30 languages from different 
+language families (Goddard & Wierzbicka 2014, Wierzbicka 2021). 
+NSM serves two purposes. First, it enables the description of subtle differences 
+in the conceptualization of emotion con cepts. Second, it identif ies the similarities 
+and differences in meaning across languages through the concepts present in nearly 
+all languages. NSM has been applied in several cross-linguistic studies of emotion 
+concepts (Enfield & Wierzbicka 2002, Gladkova 2010, 2022, Goddard & Ye 2016, 
+Harkins & Wierzbicka 2001, Levisen 2024, Wierzbicka 1999, 2018), including 
+Japanese (Asano-Cavanagh 2014, 2017, Habib & Sakaba 2025, Sakaba 2023). 
+ 
+3.2. Semantic template 
+The definitions of words that consist of  semantic primes are called “semantic 
+explications.” Some explications are based on the “semantic template,” which is a 
+structure of components shared by explicati ons for words of a particular class or 
+subclass. It allows a precise comparison of words with similar meanings. Consider 
+the following semantic template for emo tion adjectives in combination with a 
+copular verb:7 
+ 
+(10) Semantic template for English emotion adjectives with the verb 
+“to be”: 
+ Someone X was happy, angry, sad, … (at this time) 
+ a.  this someone thought like this at this time:  
+ b.  “____ 
+        ____”                                                                                 [model thought] 
+ c. because of this, this someone felt something (very) good/bad    [feeling]  
+         like people often feel when they think like this                                [typicality]  
+ (Goddard 2018: 72) 
+ 
+The template consists of three components from (a) to (c), which explain the 
+process by which an emotion is aroused. (a ) indicates that the person in question 
+“thought like this,” and (b) corresponds to the content of the thought [model 
+thought]. (c) suggests that someone who thought like (b) felt what people typically 
+feel when they think like that. 
+While Wierzbicka (1995) provided partial semantic components for English 
+emotion verbs, templates fo r emotion verbs had not been  presented. At that time, 
+the concept of templates had not yet b een developed. Hence, this study proposes 
+templates for emotion verbs in Japanese by comparing them with emotion 
+adjectives. 
+ 
+6 Semantic primes have been presented in several languages, including Japanese (Asano-Cavanagh 
+& Farese 2015). This study uses the English vers ion of semantic primes to facilitate comparison 
+with the template for English emotion adjectives. 
+7 Even among English emotion adjectives, some requ ire slightly different templates. For example, 
+disgust requires a component related to “the ones that involve part of the body” (Goddard 2018: 76). 
+For more details on the explication of disgust, see Goddard (2014). 
+[PDF PAGE 9]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+212 
+3.3. Data 
+Given the vast number of Ja panese emotion verbs, th is study limits its scope 
+to representative pairs of formally related adjectives and verbs. Japanese adjectives 
+are traditionally classified into  two types based on meaning: (i) kanjo keiyoushi 
+(emotion adjectives) and (ii) zokusei keiyoushi (attribute adjectives). However, it is 
+difficult to draw a sharp distinction between them, as is evident from different 
+studies proposing different cr iteria for categories of emotion adjectives (Kitahara 
+2010, Murakami 2017, Nitta 1998, Teramura 1982, Yamaoka 2000, 2002). 
+This study employs Murakami’s (2017: 38) definition that emotion adjectives 
+are “adjectives which can express emotions or senses.” Based on this definition, 88 
+out of the 642 commonly used adjectives  selected from the former Japanese 
+Language Proficiency Test Level 1 were  categorized as emotion adjectives. Using 
+NLB (NINJAL-LWP for BCCWJ), the onlin e search system for BCCWJ, verbs 
+morphologically derived from these 88 adjectives were searched. Table 2 presents 
+the nine pairs of emotion adjectives and verbs derived from the adjectives by adding 
+the suffix -mu.8 
+ 
+Table 2. Pairs of emotion adjectives and verbs in Japanese 
+ 
+Adjectives Verbs 
+tanoshii (fun) tanoshimu (enjoy) 
+ureshii (happy) yorokobu (†ureshimu) (rejoice) 
+kanashii (sad) kanashimu (grieve) 
+kurushii (distressed) kurushimu (suffer) 
+natsukashii (nostalgic) natsukashimu (miss) 
+kuyashii (regretful) kuyamu (regret) 
+urayamashii (envious) urayamu (envy) 
+oshii (disappointed) oshimu (yearn) 
+nikui (hateful) nikumu (hate) 
+ 
+A comparison of the usage frequency of  each word shows that the emotion 
+adjectives are more commonly used than verbs. Table 3 lists the raw frequency of 
+pairs of emotion adjectives and verbs, in cluding conjugated and past tense forms, 
+verified by NLB. The relative frequencies in parentheses represent the ratio of each 
+verb and adjective pair, w ith the total set at 100%, and are rounded to the second 
+decimal place. 
+The adjectives occur more frequently, except for the verb nikumu (hate). 9 
+Relatedly, some verbs that formally correspond to emotion adjectives are no longer 
+ 
+8 Since the dagger symb ol (†) indicates that ureshimu (rejoice) is obsolete, Table 2 lists yorokobu 
+(rejoice), as the corresponding verb for the adjective ureshii (happy) in modern Japanese. Although 
+the suffix -garu can transform adjectives in to verbs (e.g., the adjective kowai (scary) into the verb 
+kowagaru (fear)), such verbs are excluded from this analysis because they introduce additional 
+meaning. 
+9 This is presumably because the verb nikumu (hate) is primarily used in written language, and the 
+data in Table 3 are based on a written-language co rpus. In the Corpus of Spontaneous Japanese 
+[PDF PAGE 10]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+213 
+commonly used in modern Japanese. In addition to ureshimu (rejoice), hossuru 
+(want) (the verbal form of the adjective hoshii) is found only in proverbs, and the 
+verb suku (like) (the verbal form of the adjective sukida) is no longer in common 
+use (Teramura 1982: 144). Although Japanese has a larger vocabulary of emotion 
+verbs than English, it is still more common to express emotion using adjectives. 
+ 
+Table 3. Frequency of emotion adjectives and verbs in Japanese 
+ 
+Adjectives Frequency Verbs Frequency SUM (Adj + V) 
+tanoshii (fun) 12,472 (59.49) tanoshimu (enjoy) 8,492 (40.51) 20,964 
+ureshii (happy) 10,593 (64.02) yorokobu (rejoice) 5,953 (35.98) 16,546 
+kanashii (sad) 3,676 (83.93) kanashimu (grieve) 704 (16.07) 4,380 
+kurushii (distressed) 3,206 (60.51) kurushimu (suffer) 2,092 (39.49) 5,298 
+natsukashii (nostalgic) 2,435 (95.19) natsukashimu (miss) 123 (4.81) 2,558 
+kuyashii (regretful) 1,713 (83.56) kuyamu (regret) 337 (16.44) 2,050 
+urayamashii (envious) 1,226 (89.42) urayamu (envy) 145 (10.58) 1,371 
+oshii (disappointed) 1,090 (61.06) oshimu (yearn) 695 (38.94) 1,785 
+nikui (hateful) 314 (30.84) nikumu (hate) 704 (69.16) 1,018 
+ 
+4. Semantic analysis 
+This section explores the differences in conceptualization between the nine 
+adjective–verb pairs from three perspectives: (i) the cause, (ii) the object, and (iii) 
+the expression. However, examining the di fferences in the cause of emotion in 
+Japanese is challenging. Unlike English, where co-occurrence with aspectual verbs 
+provides insight, Japanese adjectives do not directly follow the verbs. 
+This study adopted an alternative approach by examining the differences in the 
+object of emotion between adjectives and verbs to infer the differences in their 
+cause of emotion. As shown in Section 2.2, Japanese emotion adjectives are limited 
+in the nouns they can take as objects compared to emotion verbs. 
+ 
+(11) a.  Yoka-o                  tanoshimu.  (V) 
+ leisure.time- ACC  enjoy 
+ ‘I enjoy leisure time.’ 
+ b. * Yoka-ga                 tanoshii.  (Adj.) 
+ leisure time- NOM  fun 
+ ‘I have fun in my leisure time.’        (Kato 2001: 50) 
+ 
+Kato’s (2001) explanation is insuffici ent to account for the differences in 
+acceptability between (11a) and (11b). Instead, the difference stems from the 
+different conceptualization of the cause of feelings. (11a) is acceptable because the 
+emotion verb tanoshimu (enjoy) presents feelings as action, and its cause lies in the 
+experiencer’s conscious thoughts. Even though the object of emotion does not cause 
+good feelings, the experiencer can have a good feeling through their effort. In 
+contrast, the adjective tanoshii (fun) describes the feelings as a state. As the feeling 
+is dependent on an external cause, (11b) is unacceptable. This accounts for why the 
+ 
+(CSJ), the adjective nikui (hateful) appears 11 times, more than the verb nikumu (hate), which 
+appears six times (NINJAL 2024). 
+[PDF PAGE 11]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+214 
+verb tanoshimu (enjoy) can be used independently of the nature of the preceding 
+nouns, unlike the adjective tanoshii (fun). 
+ 
+4.1. The cause and the object of emotion 
+This section examines differences in the cause and the object of emotion 
+between the adjective–verb pairs in Japanese by searching the corpus for the 
+constructions (“N-ga + emotion adjectives” and “N-o + emotion verbs”). The nine 
+pairs can be roughly divide d into three types: whethe r the feeling is generally 
+considered “good,” “bad,” or “neither” (Table 4). 
+ 
+Table 4. Three types of emotion adjectives and verbs in Japanese 
+ 
+ Adjectives Verbs 
+Good feelings tanoshii (fun) tanoshimu (enjoy) ureshii (happy) yorokobu (rejoice) 
+Bad feelings 
+kanashii (sad) kanashimu (grieve) 
+kurushii (distressed) kurushimu (suffer) 
+kuyashii (regretful) kuyamu (regret) 
+nikui (hateful) nikumu  (hate) 
+Neutral feelings 
+natsukashii (nostalgic) natsukashimu (miss) 
+urayamashii (envious) urayamu (envy) 
+oshii (disappointed) oshimu (yearn) 
+ 
+The following subsections focus on illustrative examples from corpus searches 
+where nouns that do not evoke the correspond ing feeling, appear as the object of 
+emotion (e.g., nouns that normally evoke nega tive feelings used as the object of 
+“good feelings”). Within each category, the adjective–verb pairs will be examined 
+in order of frequency. 
+Japanese linguistic data are mainly taken from the BCCWJ, a balanced corpus 
+of contemporary written Japanese from varied media. However, due to the limited 
+examples, when illustrative examples could not be found, they were taken from the 
+Tsukuba Web Corpus (TWC). It is a corpus of approximately 1.1 billion words, 
+with data from Japanese websites. The examples cited from the TWC are marked 
+as (TWC). Each example includes the author’s name and the book’s title; where the 
+author’s name is unknown, only the name of the website is provided. 
+ 
+4.1.1.  Good feelings 
+4.1.1.1. Tanoshii (Adj.) and tanoshimu (V) 
+The Japanese adjective tanoshii (fun) and verb tanoshimu (enjoy) express 
+positive feelings. The corpus suggests that nouns that evoke such feelings, such as 
+jinsei (life) or tabi (trip), are likely to be used as the object. However, in (13), the 
+noun fujiyū (not free), which normally evokes bad feelings, is used as the object of 
+the verb tanoshimu (enjoy). 
+ 
+ 
+[PDF PAGE 12]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+215 
+(12) Fujiyū-o          tanoshimu  kurai-no     seishinteki yutori-o 
+ not.free- ACC     enjoy          about- GEN   mental      space-ACC 
+ motsukoto-ga, seik ōsuru  ryūgaku-no           hiketsu da    to   omoimasu. 
+ to.have- NOM   succeed     study.abroad-GEN secret   COP  that think.POL 
+‘I think having the mental space to en joy the lack of freedom is the 
+secret to a successful study abroad experience.’ (Chishima Eiichi, 
+Etsugozasso) 
+ 
+(12) serves as a message of encouragem ent or inspiration to the reader. While 
+“being not free” evokes discomfort, here, it encourages the reader to adopt a 
+positive attitude even in such situations. This positive feeling, caused by the effort 
+of the experiencer, is expressed by the verb tanoshimu (enjoy). Out of 1,237 
+instances of “N-ga + tanoshii” in NLB, fujiyū (being not free) does not appear at 
+all. Replacing the verb tanoshimu (enjoy) with the adjective tanoshii (fun) in (12) 
+makes the sentence sound unnatural, unless the experiencer is someone who enjoys 
+not being free without effort (Fujiyū-ga tanoshii. “I have fun when I am not free.”). 
+The adjective tanoshii (fun) is generally used in  conjunction with nouns that 
+evoke a sense of enjoyment. In (14), it is employed to describe a feeling triggered 
+by the occurrence of a favorable situation. 
+ 
+(13) Ironna   hito       to     aeru        kara       tanoshii 
+ various  people  with meet.can because  fun 
+‘I have fun because I can meet various people’ 
+(Akishima Yuriko, Anaunsa wa naze kietanoka) 
+ 
+The expression kara (because) indicates that the subsequent phrase, “meeting 
+various people,” is the cause of the positive emotion. Thus, the verb tanoshimu 
+(enjoy) can take nouns as the object that normally evoke bad feelings, whereas the 
+adjective tanoshii (fun) is restricted to use wi th nouns that evoke a sense of 
+enjoyment. 
+ 
+4.1.1.2. Ureshii (Adj.) and yorokobu (V) 
+The adjective ureshii (happy) and the verb yorokobu (rejoice) co-occur with 
+nouns that evoke a positive feeling, such as egao (smile) or shōri (victory). In the 
+following example, fukō (unhappiness) appears as the object. 
+ 
+(14) Tanin-no     fukou-o              yorokonde yūetsukan  ni  hitaru     hito 
+ others- GEN misfortune-ACC  rejoice       superiority  in  immerse person 
+  ‘A person who rejoices in others’ misfortune and immerses in a sense of 
+superiority’ (Oshiete! Goo: TWC) 
+ 
+Though others’ misfortune evokes bad fee lings, a person in (15) experiences 
+positive emotions to feel superior. Since this emotion is triggered by a mindset, it 
+is designated by a verb. There are 1,057 instances of “N-o + yorokobu” in NLB, 
+with four instances of fukō (misfortune). In contrast , there are 1,116 instances of 
+“N-ga + ureshii” in the corpus; however, fukō (misfortune) does not occur at all. 
+[PDF PAGE 13]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+216 
+When fukō (misfortune) is used as the object with the adjective, the sentence sounds 
+unnatural (Fukou-ga ureshii “I am happy about being unfortunate”). 
+The adjective ureshii (happy) is used with nouns that are generally associated 
+with eliciting positive feelin gs. In (16), it designates an emotion triggered by an 
+external cause. 
+ 
+(15) Kyo-wa     iikoto           bakaride  ureshii. 
+ today- TOP good things  full of       happy 
+ ‘I am happy that today is full of good things.’   (Yahoo! Blog) 
+ 
+In (16), the occurrence of multiple pos itive events causes the experiencer to 
+feel a pleasant emotion. Thus, as in the case of tanoshii (fun) and tanoshimu (enjoy), 
+the verb yorokobu (rejoice) can take a noun that evokes a bad feeling as the object, 
+unlike the adjective ureshii (happy). 
+ 
+4.1.2. Bad feelings 
+4.1.2.1. Kanashii (Adj.) and kanashimu (V) 
+The adjective kanashii (sad) and the verb kanashimu (grieve) refer to negative 
+feelings, and nouns that evoke  such feelings, such as shi (death) or wakare 
+(separation), are commonly used as  the object. However, the noun hito no 
+kanashimi (other people’s sadness) is used in the following example: 
+ 
+(16) Hito-no       kanashimi-o isshoni   kanashimu koto-no dekiru 
+ person- GEN sadness-ACC together grieve         to-GEN   can 
+ ningen-ni    narou     to     omoimashita. 
+ person- DAT become  that   think.POL.PST 
+ ‘I thought I would become a person who can grieve together with others.’  
+ (Setouchi Jakucho, Jakuan dayori) 
+ 
+The sorrow of others who are not related to oneself does not affect people. (17) 
+expresses the author’s desire to become a kind-hearted person who can feel sorrow 
+for others. This feeling is caused by one’s  conscious thought and is expressed by 
+the verb kanashimu (grieve). Though there are 215 instances of “N2-ga + kanashii” 
+in NLB, there are no instances of a noun th at does not evoke such feelings used as 
+the object. Replacing the verb kanashimu (grieve) with the adjective kanashii (sad) 
+results in an unnatural expression (Hito no kanashimi-ga kanashii “I feel sad about 
+other people’s sadness”). 
+The adjective kanashii (sad) is used with nouns that evoke sadness. In the 
+following example, it describes an emotion triggered by an external cause. 
+ 
+(17) Yatto    aeta  noni,     anna        fuu-ni     wakarete  shimau nante… tottemo kanashii. 
+ finally  met  though  that.kind  way- DAT  separate  end.up  such      very      sad 
+ ‘Even though we finally met, to pa rt in such a way… I’m so sad.’  
+ (Kashiwa Tetsu, Aishiteru monogatari) 
+ 
+[PDF PAGE 14]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+217 
+The separation from someone the experi encer met after a long time brings a 
+strong emotional reac tion. The adjective kanashii (sad) describes this emotion, 
+which forcefully emerges due to an external cause. Thus, the verb kanashimu 
+(grieve) can take nouns as the object that do not evoke sadness, while the adjective 
+kanashii (sad) does not. 
+ 
+4.1.2.2. Kurushii (Adj.) and kurushimu (V) 
+The adjective kurushii (distressed) and the verb kurushimu (suffer) take nouns 
+that evoke these feelings as the object. However, th e following example takes a 
+noun that does not cause this feeling, kurushimanakuteii koto (things they do not 
+need to suffer for): 
+ 
+(18) Kurushimanakuteii          koto-o        wazawaza     kurushindeiru  nodesu. 
+ suffer. NEG.don’t have to  thing-ACC   deliberately  suffer.PROG        COP.POL 
+ Oya-no       omoikomi-ga, muyouna   kurushimi-o   tsukuridashiteiru nodesu.  
+ parent- GEN belief-NOM    unnecessary suffering-ACC creat.PROG      COP.POL  
+ ‘They deliberately suffer for things they do not need to suffer for. The 
+beliefs of the parents create unnecessary suffering.’ (Oya ryoku shūchū 
+kōgi: TWC) 
+ 
+The author believes that parents suffer from emotions they do not need to suffer 
+because of their misconceptions. The verb kurushimu (suffer) describes the feeling 
+caused by their conscious thoughts. Th ere are 464 instan ces of “N-ga + kurushii” 
+in NLB; however, none use a noun as in th e above example. Replacing the verb 
+with the adjectiv e in (19) result s in an unnatural expression ( Kurushimanakuteii 
+koto-ga kurushii “I feel distressed by things I shouldn’t have to suffer through”). 
+The adjective kurushii (distressed) is used with nouns that are commonly 
+associated with suffering, as follows: 
+ 
+(19) Netsu-ga     tsuzuite,  darukute    kurushii. 
+ fever- NOM  continue  sluggish     distressed 
+ ‘The fever continues, and I feel sluggish and distressed.’ 
+ (It ō Eiki, Hito wa shineba gomi ni naru) 
+ 
+The experiencer is placed in a physically and emotionally taxing situation due 
+to a prolonged fever, which imposes a sense of suffering. In this context, kurushii 
+(distressed) is used for a feeling caused by fever. While the verb kurushimu (suffer) 
+can take objects that do not inherently evoke emotional pain, the adjective kurushii 
+(distressed) is used with nouns that are semantically associated with suffering. 
+ 
+4.1.2.3. Kuyashii (Adj.) and kuyamu (V) 
+The adjective kuyashii (regretful) and the verb kuyamu (regret) take nouns that 
+evoke such emotions as the object. Nevertheless, the noun arayurukoto (everything) 
+is used in the following example: 
+ 
+ 
+[PDF PAGE 15]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+218 
+(20) Fumanda    to   omou hito-wa,      jibun-no       jinsei-o  kōkaisuru   bakaride,  
+ dissatisfied that think person- TOP  oneself-GEN   life-ACC lament   only   
+ arayurukoto-o   kuyande bakari iru. 
+ everything- ACC regret      only    be 
+ ‘Those who think they are dissatisfi ed only lament their own lives and 
+always regret everything.’ (Agawa Sawako, Agawa sawako no 
+omiaihōrōki) 
+ 
+People do not regret everything because it would hinder their ability to live 
+their lives. The author argues that people dissatisfied with life regret everything 
+because of a mindset that focuses only on the negative. They would not have this 
+feeling if they had the right mindset. As the emotion is believed to be caused by the 
+experiencer, the feeling is expressed by a verb. In NLB, there are 137 instances of 
+“N-ga + kuyashii,” in which there are no objects like (21). Replacing the verb with 
+an adjective results in an unnatural expression ( Arayurukoto-ga kuyashii “I am 
+regretful about everything”). 
+The adjective kuyashii (regretful) is used with nouns that denote situations 
+likely to evoke regret or frustration: 
+ 
+(21) Sensei-ga         nani-o        itteirunoka   rikai                  dekinai. 
+ teacher- NOM    what-ACC   saying           understanding  cannot.do 
+ Wakaranai        koto-ga       kuyashii. 
+ not.understand  thing- NOM  frustrating 
+ ‘I cannot understand what the teacher is  saying. I feel frustrated that I do 
+not understand.’ (Matsuoka Yayoi, Itte kimasu!) 
+ 
+The experiencer has negative feelings  because she cannot understand the 
+teacher’s remarks. This places the experiencer in a state where they feel the emotion 
+designated by the adjective kuyashii (regretful). While the verb kuyamu (regret) can 
+take objects that do not inherently evoke such feelings, the adjective kuyashii 
+(regretful) co-occurs only with  nouns that are semantically  associated with regret 
+or frustration. 
+ 
+4.1.2.4. Nikui (Adj.) and nikumu (V) 
+Both the adjective nikui (hateful) and the verb nikumu (hate) are used in the 
+following example, which quotes a phrase used as a teaching about how one should 
+not hate the sinner. 
+ 
+(22) “Tsumi-o nikunde hito-o       nikumazu” to   iu  ga, sonoyōna koto-ga kanō nanoka. 
+   sin- ACC hate       person-ACC hate.not     that say but  such   hing-NOM possible COP 
+ “They say ‘hate the sin, not the sinner,’ but is that possible?” 
+  (Horiuchi Issei, Kokoro no megusuri) 
+ 
+The phrase intends to consci ously direct emotion towa rd the sin to suppress 
+hatred toward the criminal. This emotional state is subject to the experiencer’s 
+conscious thought and is lexicalized by the verb nikumu (hate). Replacing it with 
+[PDF PAGE 16]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+219 
+the adjective nikui (hateful) reduces its acceptability ( Tsumi-ga nikui “Sin is 
+hateful”). 
+The adjective nikui (hateful) is used with nouns  that denote situations or 
+entities likely to provoke hatred. In the following example, the experiencer is 
+overtaken by a sense of hatred, which is described by the adjective. 
+ 
+(23) Hito-no         ii        fuufu-o         kurushimeteiru   yatsura-ga  yappari   nikui. 
+ person- GEN  good   couple- ACC   tormenting         guys-NOM    after.all   hateful 
+ ‘I find those who are tormenting the kind-hearted couple hateful.’  
+ (Izumiya Shigeru, Togi sumasareta rokkan) 
+ 
+The experiencer finds themselves over whelmed by negative feelings toward 
+people who cause suffering to good people. While the verb nikumu (hate) can take 
+objects that do not inherently evoke such emotions, the adjective nikui (hateful) co-
+occurs only with nouns that are semantically associated with hatred. 
+ 
+4.1.3.  Neutral feelings 
+4.1.3.1. Natsukashii (Adj.) and natsukashimu (V) 
+The adjective natsukashii (nostalgic) and the verb natsukashimu (miss) take 
+nouns that describe a place or time familiar to the experiencer, such as “hometown” 
+or “era.” However, in the following example, otozureta koto no nai basho (a place 
+I have never been to) is used as the object. 
+ 
+(24) Kono ongaku-o   kiki    nagara, otozureta  koto-no     nai     basho-o,  
+this    music-ACC listen while     visit.PST   thing-GEN  not    place-ACC 
+boku-wa nandomo       natsukashimu. 
+1SG-TOP many.times    miss 
+ ‘While listening to this music, I always  miss the place I have never visited.’  
+ (From seaside: TWC) 
+ 
+The feeling is not evoked by the place  because the experiencer has never 
+visited it. Through music, the experiencer consciously generates the feelings of the 
+place. This feeling is expressed by the verb natsukashimu (miss). In NLB, there are 
+208 instances of “N-ga + natsukashii.” However, there are no examples like the one 
+mentioned above, and replacing  the verb with an adje ctive makes the expression 
+unnatural (Otozureta koto no nai basho-ga natsukashii “I feel nostalgic for a place 
+I’ve never been.”). The adjective natsukashii (nostalgic) is used  with nouns that 
+evoke nostalgia. 
+ 
+(25) Sarasaratoshita   suna-no   tezawari-wa,  kodomo-no koro-no 
+ smooth                sand- GEN  texture-TOP   child-GEN    time-GEN 
+ kioku-to          musubitsuiteite,     naniyara     natsukashii. 
+ memory-with  connected  somehow    nostalgic 
+ ‘I feel nostalgic when I touch the smooth sand, as it is connected to 
+childhood memories.’ (Nihon sazō renmei, Sandokurafuto nyūmon) 
+ 
+[PDF PAGE 17]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+220 
+The tactile sensation of touching sand evokes childhood memories and elicits 
+a sense of nostalgia, expressed through the adjective natsukashii (nostalgic). While 
+the verb natsukashimu (miss) can take objects that do not inherently evoke nostalgic 
+feelings, the adjective natsukashii (nostalgic) co-occurs only with nouns 
+semantically associated with nostalgia. 
+ 
+4.1.3.2. Urayamashii (Adj.) and urayamu (V) 
+The adjective urayamashii (envious) and the verb urayamu (envy) often take 
+a person who possesses qualities admired by the subject as the object. In the 
+following example, the phrase shinda monotachi (those who died) is used as the 
+object. 
+ 
+(26) Kannan-wa     tsuzuki,   soshite karera-wa kurikaeshi, 
+ harshness- TOP continue and      3PL-TOP     repeatedly 
+ shinda   monotachi-o urayanda nodatta. 
+ die- PST  people-ACC   envy.PST  COP.PST 
+ ‘The harshness continued, and they repe atedly envied those who had died.’  
+ (Aoyama Masahide, Saigo no kiseki) 
+ 
+Generally, the deceased are not objects of envy. However, kannan (harshness) 
+indicates that the reality is so harsh that  the experiencer envies the deceased, who 
+cannot feel this harshness. This feeling is described by a verb because the cause of 
+this emotion is the mental state of the experiencer who envies the dead. Replacing 
+it with an adjective reduces its acceptability (Shinda monotachi-ga urayamashii “I 
+am envious of those who died”). 
+The adjective urayamashii (envious) is used with nouns that denote situations 
+or attributes likely to evoke envy. Consider the following example: 
+ 
+(27) Hada-ga   kireina       no-ga      urayamashii. 
+ skin- NOM  beautiful   that-ACC  envious 
+ ‘I feel envious of her beautiful skin.’  (Shibata Yoshiki, R-0 amour) 
+ 
+The experiencer directs a gaze of envy toward another person’s beautiful skin 
+and finds themselves unable to suppre ss the feeling of e nvy. While the verb 
+urayamu (envy) can take objects that do not evoke such emotions, the adjective 
+urayamashii (envious) co-occurs only with nouns that are semantically associated 
+with envy. 
+ 
+4.1.3.3. Oshii (Adj.) and oshimu (V) 
+The adjective-verb pair oshii (disappointed) and oshimu (yearn) takes objects 
+such as life or parting. In (29), the noun shinshoku (sleep and meals) is used as the 
+object of the verb oshimu (yearn). 
+ 
+(28) Shinshoku-o                oshinde shuzaisuru hodo-no      ōkina jiken 
+ sleep.and.meals- ACC   yearn    report         extent-GEN  big     incident 
+‘Major incidents that necessitated sacrificing sleep or meals’ 
+[PDF PAGE 18]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+221 
+ (Hokkaidōshinbun shuzai han, Nihon keisatsu to uragane) 
+ 
+Since sleep and eating are essential activities, they are not regarded as actions 
+to regret. In (29), the aut hor, a journalist, considers incidents so important and 
+urgent that he feels his time is too valuable to be spent on essential activities. Since 
+this feeling is caused by conscious thought, it is designated by the verb oshimu 
+(yearn). Replacing it with an adjective reduces its acceptability (Shinshoku-ga oshii 
+“I find it regrettable to spend time on sleep and meals”). 
+The adjective oshii (disappointed) is used with nouns that represent valuable 
+or meaningful entities whose loss is likely to evoke emotional reluctance or regret. 
+Consider the following example: 
+ 
+(29) Atarashii   kutsu  demo  nai  kedo,     suteteshimau    no-wa     oshii. 
+ new           shoes  even   not  though  throw.away      that- TOP  regretful 
+ ‘I feel regretful about throwing them away, even though they’re not 
+new shoes.’ (Tanaka Komimasa, Yashi no tabi) 
+ 
+The experiencer is hesitant  to discard a pair of s hoes because they are still 
+usable. The usefulness of the shoes gives ri se to a sense of hesitation described by 
+the adjective oshii (disappointed). While the verb oshimu (yearn) can take objects 
+that do not evoke such emotions, the adjective oshii (disappointed) co-occurs only 
+with nouns that are semantically associated with such feelings. 
+ 
+4.1.4.  Summary 
+This section examined adjective–verb pairs that expressed “good,” “bad,” and 
+“neutral” feelings, focusing on the types of nouns they take as objects. Verbs 
+expressing “good feelings” take nouns that evoke negative emotions, reflecting the 
+belief that positive attitudes toward negative experiences enhance life satisfaction. 
+In contrast, there is little incentive in embracing negative feelings; therefore, verbs 
+expressing them rarely take positive stimuli as objects. Overall, emotion verbs are 
+more flexible in co-occurring with nouns that evoke opposite or unrelated feelings 
+than emotion adjectives. 
+The difference in the objects that verb s and adjectives can take reflects the 
+difference in conceptualization of the cause of emotion. Emotion verbs can take a 
+wider variety of nouns as objects because the emotion is caused by the experiencer, 
+and the type of emotion is independent of the object. In contrast, adjectives cannot 
+co-occur with such nouns because the emotion is triggered by an external cause, 
+and the type of emotion is dependen t on the object. Thus, the difference in 
+conceptualization of the cause of emoti on between adjectives and verbs is also 
+observed in Japanese.10 
+ 
+10 This analysis is consistent with findings on emotion nouns in Japanese. Such nouns can be derived 
+from adjectives or verbs and exhibit the charact eristics of their source class. De-verbal emotion 
+nouns can co-occur with nouns that evoke opposite or unrelated feelings, whereas de-adjectival 
+emotion nouns are less likely to do so (Sakaba 2024). 
+[PDF PAGE 19]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+222 
+4.2. The expression of emotion in Japanese emotion verbs 
+Section 2 showed that the feelings  described by the Japanese verb yorokobu 
+(rejoice) involved physical movement. As the verb kanashimu (grieve) can occur 
+with the adverb hadeni (showily) per Calaianu (2005), it is considered to be 
+expressed in action. 
+This section examines whether the remaining seven verbs (excluding yorokobu 
+(rejoice) and kanashimu (grieve)) involve movement  based on the co-occurrence 
+with the adverb hadeni (showily). As shown below, some verbs can co-occur with 
+it, while others cannot. 
+ 
+(30) a. Hade-ni {tanoshimu/ kurushimu/ kuyamu} 
+  ‘To showily {enjoy/suffer/regret}’ 
+ b. ??Hade-ni  {nikumu/ natsukashimu/ urayamu/ oshimu} 
+     ‘To showily {hate/miss/envy/yearn}’ 
+ 
+The feelings designated by tanoshimu (enjoy), kurushimu (suffer), and kuyamu 
+(regret) involve physical m ovement. In contrast, the feelings described by the 
+remaining verbs do not always manifest  on the surface. They can be contained 
+within an internal state, allowing the individual to experience them without being 
+noticed by others. Hence, Japanese emoti on verbs differ in how the emotions are 
+manifested. Among the adjective–verb pair s examined in this study, half of the 
+verbs involve physical movement, while the others do not. 
+ 
+4.3. Semantic template for Japanese emotion verbs 
+This study explored the di fferences in the concep tualization of emotion 
+between adjective–verb pairs, focusing on the cause, object, and expression of 
+emotion. Section 4.1 argued that emotions expressed by adjectives were the result 
+of an external cause, while those expressed by verbs stemmed from the 
+experiencer’s conscious thought. Section 4.2  showed that emotions described by 
+some Japanese verbs involved physical movement, while others did not. Based on 
+these findings, the study pr oposes the following templa te for Japanese emotion 
+verbs: 
+ 
+(31) Semantic template for Japanese emotion verbs; 
+ Someone X tanoshinda, yorokonda… (at this time) 
+ a. this someone wanted to do something 
+because of this, this someone thought like this at this time: 
+ b. “____ 
+                 ____”                                                                                   [model thought] 
+ c. because of this, this someone felt something (very) good/bad        [feeling]  
+              like people often feel when they think like this                             [typicality] 
+ d. this someone wanted to do something because of this              [expression] 
+ 
+This shares the basic structure of the template for English emotion adjectives, 
+in which the experiencer feels a certai n emotion as a result of a model thought. 
+[PDF PAGE 20]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+223 
+However, they differ in the cause and the expression of emotion. Component (a) 
+states “this someone wanted to do someth ing” and “because of this, this someone 
+thought like this at this time,” representing the cause of emotion where the 
+experiencer holds the thought by their will. The feeling is the result of the thoughts 
+voluntarily directed at a certain object. 
+Furthermore, some Japanese emotion verbs involve physical movement, while 
+others do not. As discussed in Section 2.3, the feeling expressed by English verbs, 
+such as rejoice, often involves physical movement, although not always. The NSM 
+explications for these words include the component “X wanted to do something 
+because of that,” which invites the inference that the feeling is expressed in action 
+(Wierzbicka 1995: 226). This semantic component is employed as component (d), 
+as the feeling designated by Japanese verbs is not always expressed in action. 
+To illustrate the applic ability of this template , we propose the following 
+explications for the adjective kanashii (sad) and the verb kanashimu (grieve):  
+ 
+(32) Someone X was kanashii (at this time) 
+ a. this someone thought like this at this time: 
+ b.  “something bad happened  
+                          I don’t want this” 
+ c. because of this, this someone felt something bad  
+                          like people often feel when they think like this 
+(33) Someone X kanashinda (at this time) 
+a. this someone wanted to do something  
+ because of this, this someone t hought like this at this time: 
+b. “something bad happened  
+ I don’t want this” 
+c. because of this, this someone felt something bad  
+ like people often feel when they think like this 
+d. this someone wanted to do something because of this 
+ 
+The explications for both words share components (b) and (c), which means 
+that the experiencer feels (c) as a result of thinking (b). In both cases, something 
+undesirable happens to the experiencer, wh ich the experiencer did not wish for. 
+However, they differ in components (a) and (d), which represent the cause and the 
+expression of the emotion. The use of the verb kanashimu (grieve) suggests that the 
+experiencer is consciously holding a particular thought and involves physical 
+movement, such as crying or crouching. 
+These explications clarify the differen ces in meaning between the adjective 
+kanashii (sad) and the verb kanashimu (grieve), as illustrated in the example cited 
+in the Introduction. 
+ 
+(34) Kanashii  toki-nya    kanashimi-nasai 
+ sad           time- TOP   grieve- IMP.POL 
+ ‘When you are sad, grieve. ’ 
+ 
+Unlike the adjective kanashii (sad), the verb kanashimu (grieve) implies that 
+the experiencer actively interprets the situation as negative. This is reflected in the 
+[PDF PAGE 21]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+224 
+semantic component “this someone wanted to do something” and the emotion is 
+likely to be expressed through action (“ this someone wanted to do something 
+because of this”). The lyrics convey the message that, even in the face of negative 
+situations, one should not suppress the resulting emotions but rather recognize and 
+express them. 
+The proposed template allows us to systematically anal yze the semantic 
+structures of Japanese emotion concep ts by capturing both the similarities in 
+meaning shared by emotion verbs and the di fferences in meaning of each emotion 
+concept. However, further investigation is needed to determine its applicability to 
+emotion verbs in other languages, as their meaning is not uniform across 
+languages.11 
+ 
+5. Discussion 
+This section re-examines the conceptualization of emotion in Japanese through 
+the lens of Japanese culture. Particular ly, it considers whet her the relatively 
+infrequent use of emotion verbs, despite their lexical richness, might be shaped by 
+cultural norms that discourage overt emotional expression.  
+The study of the language of emoti on deepens our understanding of human 
+nature and sheds light on the mechanis ms of human language and communication 
+(Alba-Juez & Larina 2018, Mackenzie & Al ba-Juez 2019). In this context, cross-
+linguistic comparisons reveal that langua ges differ in their preferred ways of 
+conceptualizing emotion. English predo minantly employs adjectives or pseudo-
+adjectives to express emotion. It contains relatively few intransitive emotion verbs, 
+such as grieve, rejoice, and pine, which have become less common in modern usage. 
+Other intransitive emotion verbs, such as sulk, fret, fume, or rave, often carry 
+negative or disapproving connotations (W ierzbicka 1995). In contrast, Russian 
+possesses numerous adjective–verb pairs for emotion, and emotions are commonly 
+expressed through verbs rather than adject ives (Wierzbicka 1999: 18). This cross-
+linguistic variation is further illu strated by Dziwirek and Lewandowska-
+Tomaszczyk (2010), who compared the lexi calization of six types of emotions—
+anger, fear, sadness, like, joy, and dislik e/disgust—through a corpus study. Their 
+findings show that Polish uses transitive verbs to express emotions more frequently 
+than English. 
+As shown in Section 3.3, Japanese po ssesses a richer inve ntory of emotion 
+verbs than English; however, their usage remains significantly lower than that of 
+emotion adjectives. This discrepancy suggests the presence of linguistic or cultural 
+constraints that discourage the use of emotion verbs, which invite inferences about 
+the expression of emotion. Specifically, the limited use of emotion verbs in 
+ 
+11 It should be noted that this study is limited to emotion verbs where the experiencer is the subject. 
+English has two types of emotion verbs: experiencer-subject verbs, such as like or admire, and 
+experiencer-object verbs, such as please or scare. Because they differ in causal-aspectual semantic 
+type, different templates may be needed for experiencer-object verbs; experiencer-subject verbs are 
+“purely stative,” whereas experiencer-object verbs are “causative” (Croft 1991: 215). 
+[PDF PAGE 22]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+225 
+Japanese may be attributed  to cultural norms that discourage overt emotional 
+expression. This view is supported by the following observation: 
+ 
+(35) In social interaction, Japanese people generally are expected to restrain, 
+if not suppress, the strong or direct expression of emotion. Those who 
+cannot control their emotion are considered to be immature a human 
+beings. Strong expression (verbal or nonverbal) of such negative 
+emotions as anger, disgust, or c ontempt could embarrass other people. 
+Direct expression of sorrow or fear could cause feelings of insecurity in 
+other people. Expression of even happiness should be controlled so that 
+it does not displease other people. (Honna & Hoffer 1989: 88–90) 
+ 
+Hence, Japanese culture encourages people to refrain from expressing both 
+negative and positive emotions. The following corpus example illustrates how such 
+values are reflected in everyday communicative practices. 
+ 
+(36) Umarete  hajimete   houseki-o   moratte,  ureshikatta.  Shikashi  haha-no           
+ born        first.time   jewel- ACC  receive    happy.PST       but         mother-GEN   
+ mae-de     mujakini       yorokobanai   youni     shita.   
+ in.front.of        innocently    rejoice. NEG     way       did    
+ Musume-wa     musume-de   ki-o            tsukatteiru   noda.   
+ daughter- TOP   daughter-as   mind-ACC  use.PROG     COP 
+‘I was happy to receive a jewel for the first time in my life. But I tried 
+not to rejoice in front of my mother. As her daughter, I was being 
+considerate.’ (Matsumoto Yuko, Hana no nedoko) 
+ 
+The daughter feels ureshii (happy), upon receiving je welry for the first time, 
+but refrains from expressing this em otion to avoid upsetting her mother. 
+Consequently, the emotion verb yorokobu (rejoice) is used in its negative form, 
+reflecting a deliberate effort to refrai n from the expression of emotion. Thus, 
+Japanese people are “trained from childhood on to suppress external signs of high 
+emotion and to control carefully expressions of pleasure or pain, anger, or joy, love, 
+or hate” (Brosnahan 1990: 99). This high lights how cultural values may suppress 
+situations that are typically conceptualized through emotion verbs.  
+However, this factor alone does not fully account for the low frequency of 
+emotion verbs. If it were the primary cau se, verbs explicitly involving emotional 
+expression would occur less frequently than those that do not. Since this is not the 
+case, cultural constraints should be regard ed as only one factor  influencing verb 
+usage. Identifying additional factors remains an key direction for future research. 
+Hence, the relatively infrequent use of emotion verbs in Japanese, despite their 
+lexical availability, may be attributed to culturally embedded values that discourage 
+the overt expression of em otion. Speakers of different languages prefer different 
+grammatical forms for conceptualizing em otion, and these preferences reflect 
+underlying cultural values. 
+ 
+ 
+ 
+[PDF PAGE 23]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+226 
+6. Concluding remarks and remaining issues 
+This study investigated three differences  in the conceptualization of emotion 
+between adjectives and verbs in Japanese: (i) the cause of the emotion, (ii) the object 
+of the emotion, and (iii) the expression of the emotion. It focused on nine adjective–
+verb pairs, selected from 88 adjectives based on definitions from previous studies. 
+While verbs can be used with nouns that evoke the opposite or unrelated feelings, 
+adjectives do not co-occur  with such nouns. This di fference suggests that the 
+feelings designated by verbs are caused by the experiencer’s conscious thought, 
+whereas the feelings designa ted by adjectives are trigge red by an external cause. 
+Furthermore, the feelings expressed by some verbs involve physical movement, 
+while others do not. 
+Based on these differences, this study proposed a semantic  template for 
+Japanese emotion verbs, highlighting both the similarities and differences in the 
+meanings of emotion concepts. It has been  suggested that the relatively infrequent 
+use of emotion verbs in Japanese, despite their lexical richness, may be linked to 
+cultural norms that place a negative value on emotional expression. These 
+observations imply that the way emotions are conceptualized reflects culturally 
+preferred communication styles, which vary across linguistic communities. 
+Investigating how differen t languages lexicalize em otions illuminates the 
+relationship between language and emotion, contributing to a deeper understanding 
+of cross-linguistic variation in the use of different grammatical forms for expressing 
+emotion. Further inquiry into this relationship would clarify the factors influencing 
+the frequency and distribution of emotion terms, as well as the cultural motivations 
+underlying these patterns. 
+Furthermore, additional i nvestigations are needed to determine whether the 
+semantic template proposed in this study applies to other Japa nese emotion verbs 
+or to emotion verbs in other languages. As this study employed a method based on 
+the possibility of comparison with formally corresponding adjectives, it is necessary 
+to consider alternative methods to verify the a pplicability of the template to verbs 
+that do not have corresponding adjectives. 
+ 
+Data Availability Statement 
+This paper is based on the referenced resources available in the public domain. 
+ 
+Acknowledgements 
+I would like to express my sincere gratitude to Tatiana Larina and the anonymous reviewers 
+for their thoughtful and constr uctive feedback, which significantly contributed to refining 
+the arguments presented in this paper. 
+ 
+ 
+ 
+ 
+ 
+[PDF PAGE 24]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+227 
+References  
+Alba-Juez, Laura & Tatiana Larina. 2018. Language and emotion: Discourse-pragmatic 
+perspectives. Russian Journal of Linguistics 22 (1). 9–37. https://doi.org/10.22363/2312-
+9182-2018-22-1-9-37  
+ Asano-Cavanagh, Yuko. 2014. Japanese interpretations of ‘pain’ and the use of psychomimes. 
+International Journal of Language and Culture  1  (2). 216–238. 
+https://doi.org/10.1075/ijolc.1.2.05asa 
+Asano-Cavanagh, Yuko. 2017. Kawaii discourse: The semantics of a Japanese cultural keyword 
+and its social elaboration. In Levisen Carsten & Sophia Waters (eds.), Cultural keywords 
+in discourse, 211–234. Amsterdam: John Benjamins Publishing Company. 
+Asano-Cavanagh, Yuko & Gian Marco Farese. 2015. Japanese semantic primes.  Retrieved 
+from: https://Nsm-Approach.Net/Resources (Accessed on Feb. 1, 2025). 
+Brosnahan, Leget. 1990. Japanese and English Gesture. Tokyo: Taishukan. 
+Caluianu, Daniela. 2005. Emotion scripts and the grammar of emotions in Japanese.  
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.68&rep=rep1&type=pdf  
+Croft, William. 1991. Syntactic Categories and Grammatical Relations: The Cognitive 
+Organization of Information. Chicago: University of Chicago Press. 
+Dziwirek, Katarzyna & Barbara Lewandowska-Tomaszczyk. 2010. Complex Emotions and 
+Grammatical Mismatches: A Contrastive Corpus-Based Study . Berlin: De Gruyter 
+Mouton. 
+Enfield, Nick. J. & Anna Wierzbicka (eds.). 2002. The body in the description of emotion. 
+Special Issue of Pragmatics & Cognition 10 (1/2). 1–25.  
+Goddard, Cliff. 2014. On ‘disgust.’ In Fabienne H. Baider & Georgeta Cislaru (eds.), Linguistic 
+approaches to emotions in context, 73–98. Amsterdam: John Benjamins. 
+Goddard, Cliff. 2018. Ten Lectures on Natural Semantic Metalanguage. Leiden: Brill. 
+Goddard, Cliff & Anna Wierzbicka. 2014. Words and Meanings: Lexical Semantics across 
+Domains, Languages, and Cultures. Oxford: Oxford University Press.  
+Goddard, Cliff & Zhengdao Ye (eds.). 2016. ‘ Happiness’ and ‘Pain’ across Languages and 
+Cultures. Amsterdam: John Benjamins. 
+Gladkova, Anna. 2010.  Sympathy, compassion, and empathy in English and Russian: A 
+linguistic and cultural analysis. Culture & Psychology 16 (2). 267–285. 
+Gladkova, Anna. 2022. Emotions and attitudes in present day Russian through the prism of new 
+words: Cultural semantics of zhest’ and related concepts. Russian Journal of Linguistics 
+26 (4). 970–994. https://doi.org/10.22363/2687-0088-32167  
+Habib, Sandy & Hiromichi Sakaba. 2025. Translating the biblical key word ḥeseḏ into Arabic 
+and Japanese: A theological and comparative semantic study. Russian Journal of 
+Linguistics 29 (3). 607–630. https://doi.org/10.22363/2687-0088-42740 
+Harkins, Jean & Anna Wierzbicka (eds.). 2001. Emotions in Crosslinguistic Perspective . 
+Berlin: Mouton de Gruyter.  
+Kato, Yukiko. 2001. Kanjo Hyogen ni okeru doshi to sono shuhen [Verbs of expressions for 
+emotion and their surroundings]. Bulletin of Gifu University International Student Center. 
+47–59. Gifu University International Student Center.  
+Lauwers, Peter & Dominique Willems. 2011 Coer cion: Definition and challenges, current 
+approaches, and new trends. Linguistics 49 (6). 1219–1235. 
+Levisen, Carsten. 2024. Postcolonial Semantics: Meaning and Metalanguage in a Multipolar 
+World. Berlin, Boston: De Gruyter. https://doi.org/10.1515/9783111337432 
+Mackenzie, John Lachlan & Laura Alba-Juez (eds.). 2019. Emotion in Discourse [Pragmatics 
+and Beyond New Series 302]. Amsterdam/Philadelphia: John Benjamins Publishing 
+Company. 
+[PDF PAGE 25]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+228 
+Murakami, Kae. 2017. Kanjo keiyoushi no youhou: Gendai nihongo ni okeru shiyou  jittai. 
+[Usage of Emotion Adjectives: Actual Usage in Modern Japanese]. Tokyo: Kasama Shoin. 
+Nishio, Toraya. 1993. Yorokobi tanoshimi no kotoba [Words for happiness and joy]. 
+Nihongogaku 12. 14–22. 
+Nitta, Yoshio. 1998. Nihongo bunpo ni okeru keiyoshi [Adjectives in Japanese grammar]. 
+Gekkan gengo 27 (3). 26–35. Tokyo: Taishukan. 
+Sakaba, Hiomichi. 2023. Conceptualization of “happy-like” feelings in Japanese and its 
+relevance to a semantic typology of emotion concepts. Australian Journal of Linguistics  
+43 (4). 283–313. https://doi.org/10.1080/07268602.2023.2296487 
+Wang, An. 2013. Taisho gengogaku no kanten kara mita ninsho seigen no fuhen-sei: Hinaka 
+kanjo hyogen no taisho o toushite [The universality of person restriction from the 
+perspective of contrastive linguistics: Through the contrast of Sino-Japanese emotion 
+expressions]. Kokusaigaku Kenkyu 2 (1). 95–105. 
+Wierzbicka, Anna. 1995. Adjectives vs verbs: The iconicity of part-of-speech membership. In 
+Marge E. Landsberg (ed.), Syntactic iconicity and linguistic freezes, 223–245. Berlin: De 
+Gruyter. 
+Wierzbicka, Anna. 1996. Semantics: Primes and Universals. Oxford: Oxford University Press. 
+Wierzbicka, Anna. 1999. Emotions across Languages and Cultures . Cambridge: Cambridge 
+University Press. 
+Wierzbicka, Anna. 2018. Emotions of Jesus. Russian Journal of Linguistics  22 (1). 38–53. 
+https://doi.org/10.22363/2312-9182-2018-22-1-38-53  
+Wierzbicka, Anna. 2021. “Semantic Primitives”, fifty years later. Russian Journal of 
+Linguistics 25 (2). 317–342. doi.org/10.22363/2687-0088-2021-25-2-317-342 
+Yamaoka, Masaki. 2002. Kanjo byosha doshi no goi to bunpoteki tokucho [Vocabulary and 
+grammatical features of emotion describing verbs]. Nihongo Nihon Bungaku 12. 23–54. 
+ 
+Corpora, dictionaries and others sources  
+Davies, Mark. 2008-. The corpus of contemporary American English (COCA). Available online 
+at https://www.english-corpora.org/coca/ 
+Honna, Nobuyuki & Bates Hoffer. (eds). 1989. An English dictionary of Japanese ways of 
+thinking. Tokyo: Yuhikaku. 
+Langacker, Ronald. W. 2008. Cognitive grammar: A basic introduction . Oxford: Oxford 
+University Press. 
+Kitahara, Yasuo. 2010. Nihongo no keiyoushi  [Adjectives in the Japanese language]. Tokyo: 
+Taishukan Shoten. 
+National Institute for Japanese Language and Linguistics (NINJAL). 2024. Corpus of 
+Spontaneous Japanese  (version 2018.01, Chunagon version 2.7.2). 
+https://chunagon.ninjal.ac.jp/csj/search 
+Tolstoy, Leo. 1985. Dnevniki. Sobranie so činenij ν dvadcati dvux tomax [Collected works in 
+twenty-two volumes]. Vol. 22. [Diaries]. In his Moscow: Xudožestvennaja Literatura.  
+Teramura, Hideo. 1982. Nihongo no shintakusu to imi I  [Japanese syntax and meaning I]. 
+Tokyo: Kuroshio Publishers.  
+Yamaoka, Masaki. 2000. Nihongo no jutsugo to bun kino [Japanese predicates and sentence 
+functions]. Nihongo kenkyu sosho 13. Tokyo: Kuroshio Publishers.  
+ 
+Article history:   
+Received: 4 February 2025  
+Accepted: 25 January 2026 
+ 
+[PDF PAGE 26]
+Hiromichi Sakaba. 2026. Russian Journal of Linguistics 30 (1). 204–229 
+229 
+Bionote: 
+ 
+Hiromichi SAKABA is an Assistant Professor at the Faculty of Global Communications, 
+Doshisha University, Japan. He has served as a visiting researcher at the Australian 
+National University. His research interests involve semantics, cognitive linguistics, 
+language and culture interface, and cross- cultural communication. His current work 
+primarily focuses on the conceptualization of  emotion through the framework of the 
+Natural Semantic Metalanguage approach. 
+e-mail: hsakaba@mail.doshisha.ac.jp 
+https://orcid.org/0009-0005-9859-009X 
+ 
+Сведения об авторе: 
+ 
+Хиромичи САКАБА — доцент факультета глобальных коммуникаций 
+Университета Досися, Япония. Работал приглашенным исследователем в 
+Австралийском национальном университете. Его научные интересы включают 
+семантику, когнитивную лингвистику, взаимодействие языка и культуры, а также 
+межкультурную коммуникацию. В настоящее время его исследования в основном 
+сосредоточены на концептуализации эмоций в рамках подхода Естественного 
+семантического метаязыка.  
+e-mail: hsakaba@mail.doshisha.ac.jp  
+https://orcid.org/0009-0005-9859-009X 
+ 
+ 

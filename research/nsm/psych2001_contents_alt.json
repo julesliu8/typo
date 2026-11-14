@@ -1,0 +1,3649 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 63481,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:19Z",
+          "timestamp": 1794382819762,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.337",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "337-358",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+          "A culturally salient Polish emotion: Przykro (pron. pshickro)"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Anna",
+            "family": "Wierzbicka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.337/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.337/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:57Z",
+          "timestamp": 1776355557000
+        },
+        "score": 32.497116,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.337/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.337",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.337",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:41:19Z",
+          "timestamp": 1794382879111,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.149",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "149-166",
+        "source": "Crossref",
+        "is-referenced-by-count": 68,
+        "title": [
+          "Linguistic evidence for a Lao perspective on facial expression of emotion"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "N. J.",
+            "family": "Enfield",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.149/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.149/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:54Z",
+          "timestamp": 1776355554000
+        },
+        "score": 32.41279,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.149/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.149",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.149",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:17Z",
+          "timestamp": 1794382817412,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.69",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "69-114",
+        "source": "Crossref",
+        "is-referenced-by-count": 68,
+        "title": [
+          "Emotions and the nature of persons in Mbula"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Robert D.",
+            "family": "Bugenhagen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.69/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.69/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:53Z",
+          "timestamp": 1776355553000
+        },
+        "score": 32.31147,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.69/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.69",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.69",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:41:18Z",
+          "timestamp": 1794382878943,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.405",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "405-412",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Subject and name index"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.405/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.405/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:55Z",
+          "timestamp": 1776355555000
+        },
+        "score": 32.288635,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.405/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.405",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.405",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:41:19Z",
+          "timestamp": 1794382879122,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.197",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "197-216",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Talking about anger in Central Australia"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Jean",
+            "family": "Harkins",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.197/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.197/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:55Z",
+          "timestamp": 1776355555000
+        },
+        "score": 32.105198,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.197/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.197",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.197",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:19Z",
+          "timestamp": 1794382819765,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.359",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "359-404",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+          "An inquiry into “sadness” in Chinese"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Zhengdao",
+            "family": "Ye",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.359/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.359/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:56Z",
+          "timestamp": 1776355556000
+        },
+        "score": 32.105198,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.359/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.359",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.359",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:25Z",
+          "timestamp": 1794382825112,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.413",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "413-422",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Words and phrases index"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.413/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.413/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:53Z",
+          "timestamp": 1776355553000
+        },
+        "score": 32.105198,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.413/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.413",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.413",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:25Z",
+          "timestamp": 1794382825201,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.115",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "115-148",
+        "source": "Crossref",
+        "is-referenced-by-count": 78,
+        "title": [
+          "Why Germans don't feel “anger”"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Uwe",
+            "family": "Durst",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.115/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.115/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:57Z",
+          "timestamp": 1776355557000
+        },
+        "score": 32.07415,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.115/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.115",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.115",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:20Z",
+          "timestamp": 1794382820381,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.167",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "167-196",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Hati: A key word in the Malay vocabulary of emotion"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:56Z",
+          "timestamp": 1776355556000
+        },
+        "score": 31.915218,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.167",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.167",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:19Z",
+          "timestamp": 1794382819786,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.fm",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "I-VI",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "I-VI"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.fm/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.fm/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:54Z",
+          "timestamp": 1776355554000
+        },
+        "score": 31.903706,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.fm/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.fm",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.fm",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:13Z",
+          "timestamp": 1794382813865,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.217",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "217-254",
+        "source": "Crossref",
+        "is-referenced-by-count": 70,
+        "title": [
+          "Meanings of Japanese sound-symbolic emotion words"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Rie",
+            "family": "Hasada",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.217/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.217/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:55Z",
+          "timestamp": 1776355555000
+        },
+        "score": 31.851227,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.217/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.217",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.217",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:25Z",
+          "timestamp": 1794382825047,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.291",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "291-336",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+          "Human emotions viewed through the Russian language"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Irina B.",
+            "family": "Levontina",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anna A.",
+            "family": "Zalizniak",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.291/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.291/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:56Z",
+          "timestamp": 1776355556000
+        },
+        "score": 31.851227,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.291/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.291",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.291",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:20Z",
+          "timestamp": 1794382820298,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.255",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "255-290",
+        "source": "Crossref",
+        "is-referenced-by-count": 69,
+        "title": [
+          "Concepts of anger in Chinese"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Paweł",
+            "family": "Kornacki",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.255/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.255/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:55Z",
+          "timestamp": 1776355555000
+        },
+        "score": 31.826344,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.255/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.255",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.255",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:51Z",
+          "timestamp": 1794382851765,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.1",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "1-34",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Introduction"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Anna",
+            "family": "Wierzbicka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jean",
+            "family": "Harkins",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.1/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.1/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:54Z",
+          "timestamp": 1776355554000
+        },
+        "score": 31.826344,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.1/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.1",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.1",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:13Z",
+          "timestamp": 1794382813860,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.35",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "35-68",
+        "source": "Crossref",
+        "is-referenced-by-count": 75,
+        "title": [
+          "Testing emotional universals in Amharic"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Mengistu",
+            "family": "Amberber",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.35/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.35/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:57Z",
+          "timestamp": 1776355557000
+        },
+        "score": 31.824646,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.35/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.35",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.35",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:47Z",
+          "timestamp": 1774927907093,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_008",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "113-129",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Production Of Agreement In English And Japanese: Animacy Effects {Or Lack Thereof)"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Janet L.",
+            "family": "Nicol",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s008.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:05Z",
+          "timestamp": 1774924145000
+        },
+        "score": 21.06128,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s008.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_008",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:48Z",
+          "timestamp": 1774927908675,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_002",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "From Alexander To Wilhelm Von Humboldt: A Crosslinguistic Perspective"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Dieter",
+            "family": "Hillert",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s002.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:03Z",
+          "timestamp": 1774924143000
+        },
+        "score": 21.06128,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s002.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_002",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:32:06Z",
+          "timestamp": 1774927926680,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_020",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "345-377",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+          "The Development of Sentence Comprehension In Italian And Serbocroatian: Local Versus Distributed Cues"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Anton Ella",
+            "family": "Devescovi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Simonetta",
+            "family": "D'Amico",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Stan",
+            "family": "Smith",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ivo",
+            "family": "Mimica",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Elizabeth",
+            "family": "Bates",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s020.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:09Z",
+          "timestamp": 1774924149000
+        },
+        "score": 20.722076,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s020.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_020",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:37Z",
+          "timestamp": 1774927897952,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_014",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "227-245",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Time Course Of Attachment Decisions: Evidence From French"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Joel",
+            "family": "Pynte",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s014.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:02Z",
+          "timestamp": 1774924142000
+        },
+        "score": 20.692242,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s014.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_014",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:51Z",
+          "timestamp": 1774927911791,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_018",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "313-335",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+          "Challenges To Recent Theories Of Crosslinguistic Variation In Parsing: Evidence From Dutch"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Don C.",
+            "family": "Mitchell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Marc",
+            "family": "Brysbaert",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s018.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:04Z",
+          "timestamp": 1774924144000
+        },
+        "score": 20.616581,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s018.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_018",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:56Z",
+          "timestamp": 1774927916407,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_016",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "265-291",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "The Dimensional Conception Of Space And The Use Of Dimensional Prepositions In Different Languages"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Theo",
+            "family": "Herrmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Joachim",
+            "family": "Grabowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s016.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:07Z",
+          "timestamp": 1774924147000
+        },
+        "score": 20.616581,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s016.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_016",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:46Z",
+          "timestamp": 1774927906495,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_017",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "293-312",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+          "Syntactic Ambiguity Resolution In German"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Barbara",
+            "family": "Hemforth",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lars",
+            "family": "Konieczny",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Christoph",
+            "family": "Scheepers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Gerhard",
+            "family": "Strube",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s017.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:04Z",
+          "timestamp": 1774924144000
+        },
+        "score": 20.423874,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s017.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_017",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:41Z",
+          "timestamp": 1774927901001,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_005",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "55-69",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Comprehension Repair In The Processing Of A Short Oral Discourse Involving A Lexically Ambiguous Word"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Giyoo",
+            "family": "Hatano",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Keiko",
+            "family": "Kuhara-Kojima",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s005.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:03Z",
+          "timestamp": 1774924143000
+        },
+        "score": 20.423874,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s005.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_005",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:31:46Z",
+          "timestamp": 1774927906487,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_007",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "95-111",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "The Processing Of Empty Subjects In English And Japanese"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Tsutomu",
+            "family": "Sakamoto",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Matthew",
+            "family": "Walenski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s007.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:02Z",
+          "timestamp": 1774924142000
+        },
+        "score": 20.38494,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s007.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_007",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T03:32:01Z",
+          "timestamp": 1774927921642,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "BRILL",
+        "isbn-type": [
+          {
+            "value": "9780585492230",
+            "type": "electronic"
+          },
+          {
+            "value": "9780126135312",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1163/9780585492230_013",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2020-04-20T22:27:28Z",
+          "timestamp": 1587421648000
+        },
+        "page": "211-225",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Accounting For Crosslinguistic Variation: A Constraint-Based Perspective"
+        ],
+        "prefix": "10.1163",
+        "author": [
+          {
+            "given": "Robert",
+            "family": "Thornton",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mariela",
+            "family": "Gil",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Maryellen C.",
+            "family": "Macdonald",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Sentence Processing: A Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s013.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://brill.com/downloadpdf/title/23200",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T02:29:08Z",
+          "timestamp": 1774924148000
+        },
+        "score": 20.341042,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/book/edcoll/9780585492230/B9780585492230-s013.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780585492230",
+          "9780126135312"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/9780585492230_013",
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

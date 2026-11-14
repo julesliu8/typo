@@ -1,0 +1,810 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 8,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2022-03-30T21:20:42Z",
+          "timestamp": 1648675242925
+        },
+        "reference-count": 0,
+        "publisher": "De Gruyter",
+        "isbn-type": [
+          {
+            "value": "9781501510953",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              18
+            ]
+          ]
+        },
+        "DOI": "10.1515/9781501510953",
+        "type": "book",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2019-11-22T09:02:35Z",
+          "timestamp": 1574413355000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Koromu (Kesawai)"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Carol",
+            "family": "Priestley",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              20
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/title/540952",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9781501510953/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              16
+            ]
+          ],
+          "date-time": "2022-02-16T12:17:57Z",
+          "timestamp": 1645013877000
+        },
+        "score": 45.405323,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9781501510953/html"
+          }
+        },
+        "subtitle": [
+          "Grammar and Information Structure of a New Guinea Language"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              18
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781501510953"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9781501510953"
+        ],
+        "URL": "https://doi.org/10.1515/9781501510953",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              18
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:40:40Z",
+          "timestamp": 1794472840571,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027223913",
+            "type": "print"
+          },
+          {
+            "value": "9789027273604",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              7,
+              24
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This chapter examines different types of time expressed in Koromu (Kesawai), a Papuan language, to show the interaction of time expressions with cultural and environmental contexts and to investigate semantic description. Meanings are explicated in a metalanguage based on semantic primitives (cf. Wierzbicka 1996; Goddard 2008; Gladkova, this volume). The discovery of natural semantic metalanguage (NSM) temporal primes and investigation of semantic molecules, non-primitive meanings that occur within the meaning of other concepts, promotes comparative and contrastive semantic description. The finding of culture-specific concepts referring to ‘time-’ and ‘event-based’ time intervals (cf. da Silva Sinha et al., this volume), linear and cyclical time (cf. Charlier, this volume), suggests that a range of expressions need consideration when cultural perspectives are assessed.</jats:p>",
+        "DOI": "10.1075/hcp.37.12pri",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T12:28:16Z",
+          "timestamp": 1395664096000
+        },
+        "page": "143-165",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "7. Koromu temporal expressions"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "given": "Carol",
+            "family": "Priestley",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              29
+            ]
+          ]
+        },
+        "container-title": [
+          "Human Cognitive Processing",
+          "Space and Time in Languages and Cultures"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              2
+            ]
+          ],
+          "date-time": "2025-07-02T15:35:11Z",
+          "timestamp": 1751470511000
+        },
+        "score": 19.953178,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/hcp.37.12pri"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/hcp.37.12pri/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "subtitle": [
+          "Semantic and cultural perspectives"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              29
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027223913",
+          "9789027273604"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/hcp.37.12pri",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/hcp.37",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "1387-6724"
+        ],
+        "issn-type": [
+          {
+            "value": "1387-6724",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2025-10-08T14:59:34Z",
+          "timestamp": 1759935574048
+        },
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "issue": "1-2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P&amp;C"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              8,
+              5
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This paper describes several emotion expressions in Koromu, a language of Papua New Guinea. As in other languages, emotions can be expressed by reference to body events and processes. Bodily images are used for common and pertinent emotion expressions in Koromu and the alternative grammatical constructions in which some of these expressions occur enable speakers to express varying emotions while still indicating that there are shared semantic components between the expressions. In addition, as the emotion expressions are examined and their meanings explicated, a number of universal concepts and components of meaning can be observed. A study of these language specific expressions therefore contributes to a cross-linguistic understanding of the relationship between emotion and the body.</jats:p>",
+        "DOI": "10.1075/pc.10.12.11pri",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2007,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2007-10-03T10:37:28Z",
+          "timestamp": 1191407848000
+        },
+        "page": "243-270",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Insides and emotion in Koromu"
+        ],
+        "prefix": "10.1075",
+        "volume": "10",
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Pragmatics &amp; Cognition",
+          "Pragmatics and Cognition"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              28
+            ]
+          ],
+          "date-time": "2016-04-28T20:27:07Z",
+          "timestamp": 1461875227000
+        },
+        "score": 19.851263,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/pc.10.12.11pri"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        },
+        "references-count": 0,
+        "issue-title": [
+          "The Body in Description of Emotion"
+        ],
+        "journal-issue": {
+          "issue": "1-2",
+          "published-online": {
+            "date-parts": [
+              [
+                2002,
+                7,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2002,
+                8,
+                5
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1075/pc.10.12.11pri",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0929-0907",
+          "1569-9943"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0929-0907"
+          },
+          {
+            "type": "electronic",
+            "value": "1569-9943"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2025-10-08T15:04:57Z",
+          "timestamp": 1759935897007,
+          "version": "3.37.3"
+        },
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "issue": "1-2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ],
+              "date-time": "2002-07-11T00:00:00Z",
+              "timestamp": 1026345600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://benjamins.com/content/customers/rights"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P&amp;C"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              8,
+              5
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This paper describes several emotion expressions in Koromu, a language of Papua New Guinea. As in other languages, emotions can be\n                    expressed by reference to body events and processes. Bodily images are used for common and pertinent emotion expressions in Koromu\n                    and the alternative grammatical constructions in which some of these expressions occur enable speakers to express varying emotions\n                    while still indicating that there are shared semantic components between the expressions. In addition, as the emotion expressions\n                    are examined and their meanings explicated, a number of universal concepts and components of meaning can be observed. A study of\n                    these language specific expressions therefore contributes to a cross-linguistic understanding of the relationship between emotion\n                    and the body.</jats:p>",
+        "DOI": "10.1075/pc.10.1-2.11pri",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              2,
+              27
+            ]
+          ],
+          "date-time": "2014-02-27T11:41:47Z",
+          "timestamp": 1393501307000
+        },
+        "page": "243-270",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Insides and emotion in Koromu"
+        ],
+        "prefix": "10.1075",
+        "volume": "10",
+        "author": [
+          {
+            "given": "Carol",
+            "family": "Priestley",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Australian National University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Pragmatics &amp; Cognition",
+          "Pragmatics and Cognition"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.jbe-platform.com/deliver/fulltext/pc.10.1-2.11pri.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              9
+            ]
+          ],
+          "date-time": "2023-01-09T13:24:16Z",
+          "timestamp": 1673270656000
+        },
+        "score": 19.780895,
+        "resource": {
+          "primary": {
+            "URL": "http://www.jbe-platform.com/content/journals/10.1075/pc.10.1-2.11pri"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        },
+        "references-count": 0,
+        "issue-title": [
+          "The Body in Description of Emotion"
+        ],
+        "journal-issue": {
+          "issue": "1-2",
+          "published-online": {
+            "date-parts": [
+              [
+                2002,
+                7,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2002,
+                8,
+                5
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1075/pc.10.1-2.11pri",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0929-0907",
+          "1569-9943"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0929-0907"
+          },
+          {
+            "type": "electronic",
+            "value": "1569-9943"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              7,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:38:53Z",
+          "timestamp": 1794472733031,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027205698",
+            "type": "print"
+          },
+          {
+            "value": "9789027291370",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.102.18pri",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T03:41:33Z",
+          "timestamp": 1395632493000
+        },
+        "page": "277-299",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "11. The semantics of \"inalienable possession\" in Koromu (PNG)"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "given": "Carol",
+            "family": "Priestley",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Cross-Linguistic Semantics"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:34:58Z",
+          "timestamp": 1751538898000
+        },
+        "score": 16.14769,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.102.18pri"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.102.18pri/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027205698",
+          "9789027291370"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.102.18pri",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.102",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              10
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

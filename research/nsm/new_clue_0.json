@@ -1,0 +1,1554 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1914636,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:39:48Z",
+          "timestamp": 1794472788337,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027230287",
+            "type": "print"
+          },
+          {
+            "value": "9781556193774",
+            "type": "print"
+          },
+          {
+            "value": "9789027285782",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.25.12eva",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T04:38:57Z",
+          "timestamp": 1395635937000
+        },
+        "page": "203-228",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "8 Kayardild"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "given": "Nicholas",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              4,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Semantic and Lexical Universals"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:21:37Z",
+          "timestamp": 1751538097000
+        },
+        "score": 36.693638,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.25.12eva"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.25.12eva/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027230287",
+          "9781556193774",
+          "9789027285782"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.25.12eva",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.25",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2026-11-10T19:42:20Z",
+          "timestamp": 1794339740559,
+          "version": "4.9.0"
+        },
+        "reference-count": 3,
+        "publisher": "Elsevier",
+        "isbn-type": [
+          {
+            "value": "9780080448541",
+            "type": "print"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2006,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2006-01-01T00:00:00Z",
+              "timestamp": 1136073600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "DOI": "10.1016/b0-08-044854-2/04936-1",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2006-04-05T11:30:00Z",
+          "timestamp": 1144236600000
+        },
+        "page": "168-170",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Kayardild"
+        ],
+        "prefix": "10.1016",
+        "author": [
+          {
+            "given": "N.",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/B0-08-044854-2/04936-1_b0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07268608808599390",
+            "article-title": "Multiple case-marking in Australian languages",
+            "volume": "8",
+            "author": "Dench",
+            "year": "1988",
+            "journal-title": "Australian Journal of Linguistics"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04936-1_b0002",
+            "series-title": "A grammar of Kayardild, with historical-comparative notes on Tangkic",
+            "author": "Evans",
+            "year": "1995"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04936-1_b0003",
+            "series-title": "Double case: agreement by Suffixaufnahme",
+            "year": "1995"
+          }
+        ],
+        "container-title": [
+          "Encyclopedia of Language &amp; Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:B0080448542049361?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:B0080448542049361?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2018-11-26T19:54:14Z",
+          "timestamp": 1543262054000
+        },
+        "score": 27.163784,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/B0080448542049361"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780080448541"
+        ],
+        "references-count": 3,
+        "URL": "https://doi.org/10.1016/b0-08-044854-2/04936-1",
+        "published": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:22:26Z",
+          "timestamp": 1794392546971,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110127959",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110873733",
+        "type": "edited-book",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              17
+            ]
+          ],
+          "date-time": "2011-05-17T10:33:48Z",
+          "timestamp": 1305628428000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 191,
+        "title": [
+          "A Grammar of Kayardild"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Nicholas D.",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/title/3449",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110873733/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2021-04-21T02:10:03Z",
+          "timestamp": 1618971003000
+        },
+        "score": 26.175266,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110873733/html"
+          }
+        },
+        "subtitle": [
+          "With Historical-Comparative Notes on Tangkic"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110127959"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110873733"
+        ],
+        "URL": "https://doi.org/10.1515/9783110873733",
+        "relation": {
+          "has-part": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.801",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.558",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.233",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.fm",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.298",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.829",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.550",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.488",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.636",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.188",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.560",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.820",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.1",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.826",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.451",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.832",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.84",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.398",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.122",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.252",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.313",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733.570",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              18
+            ]
+          ],
+          "date-time": "2026-06-18T11:35:54Z",
+          "timestamp": 1781782554430,
+          "version": "3.54.5"
+        },
+        "publisher-location": "ISCA",
+        "reference-count": 0,
+        "publisher": "ISCA",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.21437/speechprosody.2002-59",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              16
+            ]
+          ],
+          "date-time": "2024-01-16T12:16:31Z",
+          "timestamp": 1705407391000
+        },
+        "page": "295-298",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Left-edge tonal events in Kayardild (australian) - a typological perspective"
+        ],
+        "prefix": "10.21437",
+        "author": [
+          {
+            "given": "Janet",
+            "family": "Fletcher",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicholas",
+            "family": "Evans",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Erich",
+            "family": "Round",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "8866",
+        "published-online": {
+          "date-parts": [
+            [
+              2002,
+              4,
+              11
+            ]
+          ]
+        },
+        "event": {
+          "name": "Speech Prosody 2002",
+          "acronym": "speechprosody_2002"
+        },
+        "container-title": [
+          "Speech Prosody 2002"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              16
+            ]
+          ],
+          "date-time": "2024-01-16T12:17:07Z",
+          "timestamp": 1705407427000
+        },
+        "score": 23.664865,
+        "resource": {
+          "primary": {
+            "URL": "https://www.isca-archive.org/speechprosody_2002/fletcher02_speechprosody.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2002,
+              4,
+              11
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.21437/speechprosody.2002-59",
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              4,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2026-04-22T14:51:04Z",
+          "timestamp": 1776869464862,
+          "version": "3.51.2"
+        },
+        "reference-count": 31,
+        "publisher": "Wiley",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2003,
+                  7,
+                  17
+                ]
+              ],
+              "date-time": "2003-07-17T00:00:00Z",
+              "timestamp": 1058400000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Trans of the Philol Soc"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              8
+            ]
+          ]
+        },
+        "abstract": "<jats:p>‘that rarity, nouns…, those most reluctant agreers, aggreeing in case, of all categories’ (Plank 1995: 32)</jats:p><jats:p>In this paper I describe a number of agreement‐type phenomena in the Australian language Kayardild, and assess them against existing definitions, stating both the boundaries of what is to be considered agreement, and characteristics of prototypical agreement phenomena. Though conforming, prima facie, to definitions of agreement that stress semantically based covariance in inflections on different words, the Kayardild phenomena considered here pose a number of challenges to accepted views of agreement: the rich possibilities for stacking case‐like agreement inflections emanating from different syntactic levels, the fact that inflections resulting from agreement may change the word class of their host, and the semantic categories involved, in particular tense/aspect/mood, which have been claimed not to be agreement categories on nominals. Two types of inflection, in particular—‘modal case’ and ‘associating case’—lie somewhere between prototypical agreement and prototypical government. Like agreement, but unlike government, they are triggered by inflectional rather than lexical features of the head, and appear on more than one constituent; like government, but unlike agreement, the semantic categories on head and dependent are not isomorphic. Other types of inflection, though unusual in the categories involved, the possibility of recursion, and their effects on the host's word class, are close to prototypical in terms of how they fare in Corbett's proposed tests for canonical agreement.</jats:p>",
+        "DOI": "10.1111/1467-968x.00118",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2003,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2003-07-17T12:01:46Z",
+          "timestamp": 1058443306000
+        },
+        "page": "203-234",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Typologies of agreement: some problems from Kayardild"
+        ],
+        "prefix": "10.1111",
+        "volume": "101",
+        "author": [
+          {
+            "given": "Nicholas",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2003,
+              7,
+              17
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_2_2_2_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268609608599530"
+          },
+          {
+            "key": "e_1_2_2_3_1",
+            "first-page": "175",
+            "article-title": "‘O vozmoz̆nosti opredelenija lingvistic̆eskix ponjatij’",
+            "volume": "6",
+            "author": "Apresjan Juri J.",
+            "year": "1982",
+            "journal-title": "Russian Linguistics"
+          },
+          {
+            "key": "e_1_2_2_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1467-968X.00117"
+          },
+          {
+            "key": "e_1_2_2_5_1",
+            "volume-title": "Studies in Theoretical Morphology: Selected Papers from the Third Mediterranean Morphology Meeting, Barcelona 2001",
+            "author": "Corbett Greville G."
+          },
+          {
+            "key": "e_1_2_2_6_1",
+            "volume-title": "The Cambridge Encyclopaedia of Language",
+            "author": "Crystal David",
+            "year": "1997"
+          },
+          {
+            "key": "e_1_2_2_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268608808599390"
+          },
+          {
+            "key": "e_1_2_2_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/tsl.15.11eva"
+          },
+          {
+            "key": "e_1_2_2_9_1",
+            "volume-title": "Kayardild Dictionary and Ethnothesaurus",
+            "author": "Evans Nicholas D.",
+            "year": "1992"
+          },
+          {
+            "key": "e_1_2_2_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110872835.243"
+          },
+          {
+            "key": "e_1_2_2_11_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110873733"
+          },
+          {
+            "key": "e_1_2_2_12_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "396",
+            "DOI": "10.1093/oso/9780195087758.003.0015",
+            "volume-title": "Double Case: Agreement by Suffixaufnahme",
+            "author": "Evans Nicholas D.",
+            "year": "1995"
+          },
+          {
+            "key": "e_1_2_2_13_1",
+            "first-page": "401",
+            "volume-title": "Current Trends in Linguistics 8: Linguistics in Oceania",
+            "author": "Hale Ken",
+            "year": "1973"
+          },
+          {
+            "key": "e_1_2_2_14_1",
+            "first-page": "12",
+            "volume-title": "Lardil Dictionary",
+            "author": "Hale Ken",
+            "year": "1997"
+          },
+          {
+            "key": "e_1_2_2_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9781139166959.009"
+          },
+          {
+            "key": "e_1_2_2_16_1",
+            "first-page": "190",
+            "volume-title": "Handbook of Australian Languages",
+            "author": "Keen Sandra",
+            "year": "1983"
+          },
+          {
+            "key": "e_1_2_2_17_1",
+            "volume-title": "Topics in Lardil grammar",
+            "author": "Klokeid Terry",
+            "year": "1976"
+          },
+          {
+            "key": "e_1_2_2_18_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "732",
+            "DOI": "10.1515/9783110111286.1.10.732",
+            "volume-title": "Morphology: a Handbook on Inflection and Word Formation",
+            "author": "Lehmann Christian",
+            "year": "2000"
+          },
+          {
+            "key": "e_1_2_2_19_1",
+            "volume-title": "Theoretical Linguistics",
+            "author": "Lyons John",
+            "year": "1968"
+          },
+          {
+            "key": "e_1_2_2_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0024-3841(81)90061-9"
+          },
+          {
+            "key": "e_1_2_2_21_1",
+            "volume-title": "Oxford Concise Dictionary of Linguistics",
+            "author": "Matthews P. H.",
+            "year": "1997"
+          },
+          {
+            "key": "e_1_2_2_22_1",
+            "volume-title": "Cows de Morphologie Generale, vol. 2. Deuxieme Partie: Significations Morphologiques",
+            "author": "Mel′ĉuk Igor",
+            "year": "1994"
+          },
+          {
+            "key": "e_1_2_2_23_1",
+            "volume-title": "Cours de Morphologie Generale, vol. 3. Troisieme Partie: Moyens Morphologiques. Quatrieme Partie: Syntactiques Morphologiques",
+            "author": "MEL′ĈUK Igor",
+            "year": "1996"
+          },
+          {
+            "key": "e_1_2_2_24_1",
+            "volume-title": "Cours de Morphologie Generale, vol. 4. Cinquieme Partie: Signes Morphologiques",
+            "author": "MEL′ĈUK Igor",
+            "year": "1997"
+          },
+          {
+            "key": "e_1_2_2_25_1",
+            "first-page": "331",
+            "volume-title": "Universals of Human Language, vol. 4, Syntax",
+            "author": "Moravcsik Edith",
+            "year": "1978"
+          },
+          {
+            "key": "e_1_2_2_26_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1093/oso/9780195087758.003.0017",
+            "volume-title": "Double Case: Agreement by Suffixaufnahme",
+            "author": "Moravcsik Edith A.",
+            "year": "1995"
+          },
+          {
+            "key": "e_1_2_2_27_1",
+            "volume-title": "Constructive Case: Evidence from Australian Languages",
+            "author": "Nordlinger Rachel",
+            "year": "1998"
+          },
+          {
+            "key": "e_1_2_2_28_1",
+            "first-page": "197",
+            "volume-title": "Proceedings of the LFG Conference, Berkeley, July 2000",
+            "author": "Nordlinger Rachel",
+            "year": "2000"
+          },
+          {
+            "key": "e_1_2_2_29_1",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780195087758.001.0001",
+            "volume-title": "Double Case: Agreement by Suffixaufnahme",
+            "author": "Plank Frans",
+            "year": "1995"
+          },
+          {
+            "key": "e_1_2_2_30_1",
+            "first-page": "236",
+            "article-title": "‘An information‐based theory of agreement’",
+            "author": "Pollard Carl",
+            "year": "1988",
+            "journal-title": "CLS 24, Parasession on Agreement"
+          },
+          {
+            "key": "e_1_2_2_31_1",
+            "first-page": "585",
+            "volume-title": "Universals of Human Language: IV: Syntax",
+            "author": "Steele Susan",
+            "year": "1978"
+          },
+          {
+            "key": "e_1_2_2_32_1",
+            "volume-title": "Linguistic categorization: Prototypes in Linguistic Theory",
+            "author": "Taylor John R.",
+            "year": "1995"
+          }
+        ],
+        "container-title": [
+          "Transactions of the Philological Society"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1467-968X.00118",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-968X.00118",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              10
+            ]
+          ],
+          "date-time": "2024-01-10T08:56:20Z",
+          "timestamp": 1704876980000
+        },
+        "score": 23.145079,
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.00118"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              7,
+              17
+            ]
+          ]
+        },
+        "references-count": 31,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2003,
+                8
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1111/1467-968X.00118"
+        ],
+        "URL": "https://doi.org/10.1111/1467-968x.00118",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0079-1636",
+          "1467-968X"
+        ],
+        "issn-type": [
+          {
+            "value": "0079-1636",
+            "type": "print"
+          },
+          {
+            "value": "1467-968X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              7,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              18
+            ]
+          ],
+          "date-time": "2026-06-18T11:35:53Z",
+          "timestamp": 1781782553808,
+          "version": "3.54.5"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University PressNew York, NY",
+        "isbn-type": [
+          {
+            "value": "9780195087758",
+            "type": "print"
+          },
+          {
+            "value": "9780197721575",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995,
+              6,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Kayardild is an Australian language belonging to the Tangkic group of non Pama-Nyungan languages, spoken on Bentinck Island in the southern Gulf of Carpentaria; only about twenty speakers remain. Other members of the group are Lardil, Yukulta, and Yangkaal, the latter two now extinct and the former with just a few very old speakers. As Figure 15.1 shows, the typological division into ergative and non-ergative languages cross-cuts the genetic classification. Yukulta is the most conservative Tangkic language, preserving ergative morphology found in proto-Tangkic; Lardil is typologically similar to Kayardild.</jats:p>",
+        "DOI": "10.1093/oso/9780195087758.003.0015",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2023-11-01T07:41:49Z",
+          "timestamp": 1698824509000
+        },
+        "page": "396-428",
+        "source": "Crossref",
+        "is-referenced-by-count": 21,
+        "title": [
+          "Multiple Case in Kayardild: Anti-iconic Suffix Ordering and the Diachronic Filter"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Nick",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "container-title": [
+          "Double Case"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://academic.oup.com/book/chapter-pdf/52195807/isbn-9780195087758-book-part-15.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              9
+            ]
+          ],
+          "date-time": "2025-10-09T19:40:40Z",
+          "timestamp": 1760038840000
+        },
+        "score": 23.083385,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/48164/chapter/421268820"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1995,
+              6,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780195087758",
+          "9780197721575"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/oso/9780195087758.003.0015",
+        "published": {
+          "date-parts": [
+            [
+              1995,
+              6,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2022-10-12T17:11:13Z",
+          "timestamp": 1665594673003
+        },
+        "reference-count": 3,
+        "publisher": "John Benjamins Publishing Company",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "SL"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1075/sl.22.2.12dix",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2011-01-05T04:56:47Z",
+          "timestamp": 1294203407000
+        },
+        "page": "507-515",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Review of Evans (1995): A grammar of Kayardild, with historical-comparative notes on Tangkic"
+        ],
+        "prefix": "10.1075",
+        "volume": "22",
+        "author": [
+          {
+            "given": "R.M.W.",
+            "family": "Dixon",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Australian National University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2012,
+              7,
+              19
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "CIT0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1515/9783111418797-018",
+            "article-title": "Deep-surface canonical disparities in relation to analysis and change: an Australian example",
+            "volume-title": "Current Trends in Linguistics, Vol XI: Diachronic, areal and typological linguistics",
+            "author": "Hale",
+            "year": "1973"
+          },
+          {
+            "key": "CIT0002",
+            "volume-title": "A preliminary dictionary of Lardil",
+            "author": "Hale",
+            "year": "1981"
+          },
+          {
+            "key": "CIT0003",
+            "first-page": "190",
+            "article-title": "Yukulta",
+            "volume-title": "Handbook of Australian Languages",
+            "author": "Keen",
+            "year": "1983"
+          }
+        ],
+        "container-title": [
+          "Studies in Language"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.jbe-platform.com/deliver/fulltext/sl.22.2.12dix.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              19
+            ]
+          ],
+          "date-time": "2020-10-19T15:23:15Z",
+          "timestamp": 1603120995000
+        },
+        "score": 22.82095,
+        "resource": {
+          "primary": {
+            "URL": "http://www.jbe-platform.com/content/journals/10.1075/sl.22.2.12dix"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        },
+        "references-count": 3,
+        "journal-issue": {
+          "issue": "2",
+          "published-online": {
+            "date-parts": [
+              [
+                2012,
+                7,
+                19
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                1998,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1075/sl.22.2.12dix",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0378-4177",
+          "1569-9978"
+        ],
+        "issn-type": [
+          {
+            "value": "0378-4177",
+            "type": "print"
+          },
+          {
+            "value": "1569-9978",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T08:58:59Z",
+          "timestamp": 1794387539426,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "De Gruyter Mouton",
+        "isbn-type": [
+          {
+            "value": "9783110873733",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110873733.636",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              17
+            ]
+          ],
+          "date-time": "2011-05-17T10:33:48Z",
+          "timestamp": 1305628428000
+        },
+        "page": "636-800",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Kayardild-English Dictionary"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Kayardild"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9783110873733/10.1515/9783110873733.636.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110873733.636/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2021-04-21T02:10:12Z",
+          "timestamp": 1618971012000
+        },
+        "score": 22.3572,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110873733.636/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110873733"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1515/9783110873733.636",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110873733",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              31
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

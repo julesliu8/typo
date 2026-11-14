@@ -1,0 +1,27 @@
+
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<link rel="shortcut icon" href="/images/common/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/images/common/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>한국어기초사전 - 404</title>
+<style type="text/css" media="screen,print">
+	@import url("/css/content.css");       
+</style>
+</head>
+<body style="overflow-y:hidden !important; background:none !important;">
+	<div class="error">
+		<p class="logo_w"></p>
+		<div class="message">
+        	<p class="message_b mt_40">죄송합니다. 요청하신 페이지를 찾을 수 없습니다.</p>
+        	<p class="message mt_30">페이지 주소가 잘못 입력되었거나, 변경 혹은 삭제되어 요청하신 페이지를 찾을 수 없습니다.</p>
+        	<p class="message mt_30">입력하신 페이지의 주소가 정확한지 다시 한번 확인해 주시기 바랍니다.</p>
+       		<div class="btn_div mt_40">
+       			<a href="/kor" class="btn b_blue medium">첫 화면으로 이동하기</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

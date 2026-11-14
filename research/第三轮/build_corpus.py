@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,csv,re,collections
-root=Path('/Users/jessicac/Documents/FU!DAN!!/学习/typology')
+root=Path(__file__).resolve().parents[2]
 D=[]
 def a(id,lang,topic,form,gloss,trans,src,loc,frame,note='',status='已核全文'):
  D.append(dict(id=id,language=lang,topic=topic,form=form,gloss=gloss,translation=trans,source=src,location=loc,frame=frame,note=note,status=status))
@@ -162,6 +162,6 @@ parts.append('''
 6. Dolakha 目前仍缺可直接核实的完整 FEAR / LIKE 双论元句；Kathmandu 的资料只能作亲缘对照，不能填进 Dolakha 的空格。Dolakha G2017:439 的 DAT-subject 概述须另与完整例句对应，D04 按译文没有显性 E，且须核对正文 DAT-subject 概述与该例的分析。
 7. 不在这一轮提出星号祖语句或原始格范式；共享模式、候选同源词根与历史构拟是三个证据强度不同的问题。
 ''')
-(root/'心理谓词_五点位及亲缘语言_莱比锡例句库.md').write_text(''.join(parts))
-with (root/'心理谓词_构式对照矩阵.csv').open('w',encoding='utf-8-sig',newline='') as f:
+(root/'90_历史方案/01_作通格阶段/心理谓词_五点位及亲缘语言_莱比锡例句库.md').write_text(''.join(parts))
+with (root/'04_数据/历史数据/心理谓词_构式对照矩阵.csv').open('w',encoding='utf-8-sig',newline='') as f:
  w=csv.DictWriter(f,fieldnames=list(D[0]));w.writeheader();w.writerows(D)

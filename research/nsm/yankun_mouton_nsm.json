@@ -1,0 +1,2799 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 95300,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2026-11-10T19:42:22Z",
+          "timestamp": 1794339742390,
+          "version": "4.9.0"
+        },
+        "reference-count": 11,
+        "publisher": "Elsevier",
+        "isbn-type": [
+          {
+            "value": "9780080448541",
+            "type": "print"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2006,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2006-01-01T00:00:00Z",
+              "timestamp": 1136073600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2006,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2006-01-01T00:00:00Z",
+              "timestamp": 1136073600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "DOI": "10.1016/b0-08-044854-2/04943-9",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2006-04-05T11:31:39Z",
+          "timestamp": 1144236699000
+        },
+        "page": "609-612",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Pitjantjatjara/Yankunytjatjara"
+        ],
+        "prefix": "10.1016",
+        "author": [
+          {
+            "given": "C.",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0001",
+            "series-title": "Categories, constituents, and constituent order in Pitjantjatjara, an Aboriginal language of Australia",
+            "author": "Bowe",
+            "year": "1990"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0002",
+            "series-title": "An introduction to the Western Desert Language",
+            "author": "Douglas",
+            "year": "1958"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0003",
+            "series-title": "Wangka wiru: a handbook for the Pitjantjatjara language learner",
+            "author": "Eckert",
+            "year": "1988"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0004",
+            "series-title": "Yankunytjatjara grammar",
+            "author": "Goddard",
+            "year": "1986"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0005",
+            "first-page": "27",
+            "article-title": "Emergent genres of reportage and advocacy in the Pitjantjatjara print media",
+            "volume": "2",
+            "author": "Goddard",
+            "year": "1990",
+            "journal-title": "Australian Aboriginal Studies"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/B0-08-044854-2/04943-9_b0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1080/07268609208599472",
+            "article-title": "Traditional Yankunytjatjara ways of speaking – a semantic perspective",
+            "volume": "12",
+            "author": "Goddard",
+            "year": "1992",
+            "journal-title": "Australian Journal of Linguistics"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0007",
+            "series-title": "Pitjantjatjara/Yankunytjatjara to English dictionary",
+            "author": "Goddard",
+            "year": "1996"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0008",
+            "series-title": "Punu: Yankunytjatjara plant use",
+            "year": "1985"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0009",
+            "series-title": "Narrative as social practice: Anglo-Western and Australian Aboriginal oral traditions",
+            "author": "Klapproth",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0010",
+            "series-title": "Alive and Kicking: Areyonga Teenage Pitjantjatjara",
+            "author": "Langlois",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/B0-08-044854-2/04943-9_b0011",
+            "series-title": "The Western Desert code: an Australian cryptogrammar",
+            "author": "Rose",
+            "year": "2001"
+          }
+        ],
+        "container-title": [
+          "Encyclopedia of Language &amp; Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:B0080448542049439?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:B0080448542049439?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2025-09-11T18:49:52Z",
+          "timestamp": 1757616592000
+        },
+        "score": 30.77467,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/B0080448542049439"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780080448541"
+        ],
+        "references-count": 11,
+        "URL": "https://doi.org/10.1016/b0-08-044854-2/04943-9",
+        "published": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2026-02-06T20:51:54Z",
+          "timestamp": 1770411114644,
+          "version": "3.49.0"
+        },
+        "reference-count": 35,
+        "publisher": "Informa UK Limited",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Australian Journal of Linguistics"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1992,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1080/07268609208599472",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              14
+            ]
+          ],
+          "date-time": "2008-08-14T18:12:31Z",
+          "timestamp": 1218737551000
+        },
+        "page": "93-122",
+        "source": "Crossref",
+        "is-referenced-by-count": 18,
+        "title": [
+          "Traditional yankunytjatjara ways of speaking ‐ a semantic perspective"
+        ],
+        "prefix": "10.1080",
+        "volume": "12",
+        "author": [
+          {
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "reference": [
+          {
+            "key": "CIT0001",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0378-2166(87)90135-4"
+          },
+          {
+            "key": "CIT0002",
+            "volume-title": "The world of the first Australians.",
+            "author": "Berndt R.M.",
+            "year": "1977",
+            "edition": "2"
+          },
+          {
+            "key": "CIT0003",
+            "volume-title": "Questions and politeness",
+            "author": "Brown Penelope",
+            "year": "1978"
+          },
+          {
+            "key": "CIT0004",
+            "volume-title": "Wangka Wiru: A handbook for the Pitjantjatjara language learner",
+            "author": "Eckert Paul",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0005",
+            "first-page": "201",
+            "author": "Elkin A.P.",
+            "year": "1940",
+            "journal-title": "Oceania"
+          },
+          {
+            "key": "CIT0006",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139084987",
+            "volume-title": "The Dyirbal language of North Queensland",
+            "author": "Dixon RMW",
+            "year": "1972"
+          },
+          {
+            "key": "CIT0007",
+            "volume-title": "Yankunytjatjara grammar (2nd edition)",
+            "author": "Goddard Cliff",
+            "year": "1985"
+          },
+          {
+            "key": "CIT0008",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268609008599444"
+          },
+          {
+            "key": "CIT0009",
+            "volume-title": "PitjantjatjaralYankunytjatjara to English dictionary",
+            "author": "Goddard Cliff",
+            "year": "1992",
+            "edition": "2"
+          },
+          {
+            "key": "CIT0010",
+            "author": "Goddard Cliff",
+            "journal-title": "Anthropological Linguistic"
+          },
+          {
+            "key": "CIT0011",
+            "volume-title": "Lexical and semanticuniversals",
+            "author": "Goddard Cliff"
+          },
+          {
+            "key": "CIT0012",
+            "volume-title": "Timeless transformation: Women, men and history in the Australian Western Desert",
+            "author": "Hamilton Annette",
+            "year": "1979"
+          },
+          {
+            "key": "CIT0013",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268609008599445"
+          },
+          {
+            "key": "CIT0014",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0047404500007600"
+          },
+          {
+            "key": "CIT0015",
+            "first-page": "433",
+            "volume-title": "Explorations in the Ethnography of Speaking",
+            "author": "Hymes Dell",
+            "year": "1974"
+          },
+          {
+            "key": "CIT0016",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/aa.1979.81.4.02a00020"
+          },
+          {
+            "key": "CIT0017",
+            "volume-title": "Patterns of Change, Change of Patterns",
+            "author": "Johnson Steve",
+            "year": "1991"
+          },
+          {
+            "key": "CIT0018",
+            "volume-title": "Understanding interaction in Central Australia",
+            "author": "Liberman Kenneth",
+            "year": "1985"
+          },
+          {
+            "key": "CIT0019",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/00664677.1980.9967335"
+          },
+          {
+            "key": "CIT0020",
+            "series-title": "Oceanic Linguistics Monographs No. 24",
+            "first-page": "86",
+            "volume-title": "The languages of kinship in Aboriginal Australia",
+            "author": "McConvell Patrick",
+            "year": "1982"
+          },
+          {
+            "key": "CIT0021",
+            "volume-title": "Pintupi country, Pintupi self: sentiment, place and politics among Western Desert Aborigines",
+            "author": "Myers Fred R.",
+            "year": "1976"
+          },
+          {
+            "key": "CIT0022",
+            "series-title": "Oceanic Monograph 1",
+            "volume-title": "Social organisation of Australian tribes",
+            "author": "Radcliffe‐Brown A. R.",
+            "year": "1931"
+          },
+          {
+            "key": "CIT0023",
+            "first-page": "90",
+            "volume-title": "Structure and function in primitive society",
+            "author": "Radcliffe‐Brown A. R.",
+            "year": "1952"
+          },
+          {
+            "key": "CIT0024",
+            "first-page": "29",
+            "volume": "8",
+            "author": "Smith Ian",
+            "year": "1986",
+            "journal-title": "Journal of the Atlantic Provinces Linguistics Society"
+          },
+          {
+            "key": "CIT0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.1002/j.1834-4461.1937.tb00385.x",
+            "volume": "7",
+            "author": "Stanner W.E.H.",
+            "year": "1937",
+            "journal-title": "Oceania"
+          },
+          {
+            "key": "CIT0026",
+            "series-title": "Oceanic Linguistics Monographs No. 24",
+            "first-page": "182",
+            "volume-title": "The languages of kinship in Aboriginal Australia",
+            "author": "Sutton Peter",
+            "year": "1982"
+          },
+          {
+            "key": "CIT0027",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/aa.1935.37.3.02a00100"
+          },
+          {
+            "key": "CIT0028",
+            "volume-title": "Australian Aboriginal social organisation",
+            "author": "Turner David H.",
+            "year": "1980"
+          },
+          {
+            "key": "CIT0029",
+            "volume-title": "The Mardudjara Aborigines, Living the dream in Australia's desert",
+            "author": "Tonkinson Robert",
+            "year": "1978"
+          },
+          {
+            "key": "CIT0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1002/j.1834-4461.1981.tb01482.x",
+            "volume": "52",
+            "author": "White Isobel",
+            "year": "1981",
+            "journal-title": "Oceania"
+          },
+          {
+            "key": "CIT0031",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/ling.1989.27.4.731"
+          },
+          {
+            "key": "CIT0032",
+            "volume-title": "Meaning and grammar",
+            "author": "Wierzbicka Anna",
+            "year": "1990"
+          },
+          {
+            "key": "CIT0033",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/9783112329764",
+            "volume-title": "Cross‐cultural pragmatics: the semantics of social interaction",
+            "author": "Wierzbicka Anna",
+            "year": "1991"
+          },
+          {
+            "key": "CIT0034",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780195073256.001.0001",
+            "volume-title": "Semantics, culture and cognition",
+            "author": "Wierzbicka Anna",
+            "year": "1992"
+          },
+          {
+            "key": "CIT0035",
+            "volume-title": "The comparative method reviewed",
+            "author": "Wilkins David"
+          }
+        ],
+        "container-title": [
+          "Australian Journal of Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.tandfonline.com/doi/pdf/10.1080/07268609208599472",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              29
+            ]
+          ],
+          "date-time": "2024-02-29T09:34:26Z",
+          "timestamp": 1709199266000
+        },
+        "score": 26.017254,
+        "resource": {
+          "primary": {
+            "URL": "http://www.tandfonline.com/doi/abs/10.1080/07268609208599472"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1992,
+              6
+            ]
+          ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                1992,
+                6
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1080/07268609208599472"
+        ],
+        "URL": "https://doi.org/10.1080/07268609208599472",
+        "ISSN": [
+          "0726-8602",
+          "1469-2996"
+        ],
+        "issn-type": [
+          {
+            "value": "0726-8602",
+            "type": "print"
+          },
+          {
+            "value": "1469-2996",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1992,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2025-11-27T10:31:54Z",
+          "timestamp": 1764239514656
+        },
+        "reference-count": 27,
+        "publisher": "Informa UK Limited",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Australian Journal of Linguistics"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1990,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1080/07268609008599444",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              14
+            ]
+          ],
+          "date-time": "2008-08-14T18:12:08Z",
+          "timestamp": 1218737528000
+        },
+        "page": "257-292",
+        "source": "Crossref",
+        "is-referenced-by-count": 11,
+        "title": [
+          "The lexical semantics of “good feelings” in Yankunytjatjara"
+        ],
+        "prefix": "10.1080",
+        "volume": "10",
+        "author": [
+          {
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "reference": [
+          {
+            "key": "CIT0001",
+            "volume-title": "Tjukurpa Palya. Kuwaritja munu Irititja",
+            "year": "1987"
+          },
+          {
+            "key": "CIT0002",
+            "volume-title": "Semantyczne pojecie liczebnika",
+            "author": "Bogusl‐awski Andrzej",
+            "year": "1965"
+          },
+          {
+            "key": "CIT0003",
+            "volume-title": "Ngurra Walytja: Country of my spirit",
+            "author": "Downing Jim",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0004",
+            "volume-title": "Wangka Wiru: A handbook for the Pitjantjatjara language‐learner",
+            "author": "Eckert Paul",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0005",
+            "unstructured": "Evans, Nicholas. On the unimportance of CAUSE of Kayardild. Paper presented at the Australian Linguistics Society Conference. University of Adelaide."
+          },
+          {
+            "key": "CIT0006",
+            "volume-title": "Yankunytjatjara grammar",
+            "author": "Goddard Cliff",
+            "year": "1985"
+          },
+          {
+            "key": "CIT0007",
+            "volume-title": "A basic Pitjantjatjara/Yankunytjatjara to English dictionary",
+            "author": "Goddard Cliff",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0008",
+            "first-page": "51",
+            "volume": "10",
+            "author": "Goddard Cliff",
+            "year": "1989",
+            "journal-title": "di Semantica"
+          },
+          {
+            "key": "CIT0009",
+            "unstructured": "Goddard, Cliff. The natural semantics of love (or, how can you say ‘I love you’ in Yankunytjatjara). Paper presented to the Australian Linguistics Society Conference. Monash University."
+          },
+          {
+            "key": "CIT0010",
+            "author": "Goddard Cliff",
+            "journal-title": "Man"
+          },
+          {
+            "key": "CIT0011",
+            "volume-title": "The social construction of emotions",
+            "author": "Harré Rom",
+            "year": "1986"
+          },
+          {
+            "key": "CIT0012",
+            "volume-title": "The people in between",
+            "author": "Hilliard Winnifred",
+            "year": "1968"
+          },
+          {
+            "key": "CIT0013",
+            "first-page": "17",
+            "volume-title": "Kinship studies in the Morgan Centennial Year",
+            "author": "Keesing Roger M.",
+            "year": "1972"
+          },
+          {
+            "key": "CIT0014",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7208/chicago/9780226219783.001.0001",
+            "volume-title": "Unnatural emotions",
+            "author": "Lutz Catherine",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0015",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511609244"
+          },
+          {
+            "key": "CIT0016",
+            "volume-title": "Pintupi country, Pintupi self: sentiment, place and politics among Western Desert Aborigines",
+            "author": "Myers Fred R.",
+            "year": "1986"
+          },
+          {
+            "key": "CIT0017",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2802595"
+          },
+          {
+            "key": "CIT0018",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511571299"
+          },
+          {
+            "key": "CIT0019",
+            "volume-title": "Growing up the country",
+            "author": "Toyne Phillip",
+            "year": "1984"
+          },
+          {
+            "key": "CIT0020",
+            "volume-title": "Semantic primitives",
+            "author": "Wierzbicka Anna",
+            "year": "1972"
+          },
+          {
+            "key": "CIT0021",
+            "volume-title": "Lingua mentalis. The semantics of natural language",
+            "author": "Wierzbicka Anna",
+            "year": "1980"
+          },
+          {
+            "key": "CIT0022",
+            "volume-title": "Lexicography and conceptual analysis",
+            "author": "Wierzbicka Anna",
+            "year": "1985"
+          },
+          {
+            "key": "CIT0023",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/aa.1986.88.3.02a00030"
+          },
+          {
+            "key": "CIT0024",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1075/slcs.18",
+            "volume-title": "The semantics of grammar",
+            "author": "Wierzbicka Anna",
+            "year": "1988"
+          },
+          {
+            "key": "CIT0025",
+            "first-page": "103",
+            "volume": "10",
+            "author": "Wierzbicka Anna",
+            "year": "1989",
+            "journal-title": "Quaderni di Semantica"
+          },
+          {
+            "key": "CIT0026",
+            "first-page": "309",
+            "volume": "10",
+            "author": "Wierzbicka Anna",
+            "year": "1989",
+            "journal-title": "Quaderni di Semantica"
+          },
+          {
+            "key": "CIT0028",
+            "volume-title": "Meaning and grammar",
+            "author": "Wierzbicka Anna",
+            "year": "1990"
+          }
+        ],
+        "container-title": [
+          "Australian Journal of Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.tandfonline.com/doi/pdf/10.1080/07268609008599444",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              13
+            ]
+          ],
+          "date-time": "2019-05-13T10:42:48Z",
+          "timestamp": 1557744168000
+        },
+        "score": 25.996452,
+        "resource": {
+          "primary": {
+            "URL": "http://www.tandfonline.com/doi/abs/10.1080/07268609008599444"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1990,
+              12
+            ]
+          ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                1990,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1080/07268609008599444"
+        ],
+        "URL": "https://doi.org/10.1080/07268609008599444",
+        "ISSN": [
+          "0726-8602",
+          "1469-2996"
+        ],
+        "issn-type": [
+          {
+            "value": "0726-8602",
+            "type": "print"
+          },
+          {
+            "value": "1469-2996",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1990,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:39:48Z",
+          "timestamp": 1794472788450,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027230287",
+            "type": "print"
+          },
+          {
+            "value": "9781556193774",
+            "type": "print"
+          },
+          {
+            "value": "9789027285782",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1075/slcs.25.13god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T04:38:57Z",
+          "timestamp": 1395635937000
+        },
+        "page": "229-262",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+          "9 Lexical Primitives in Yankunytjatjara"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              4,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Studies in Language Companion Series",
+          "Semantic and Lexical Universals"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T10:21:37Z",
+          "timestamp": 1751538097000
+        },
+        "score": 24.323168,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/slcs.25.13god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/slcs.25.13god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027230287",
+          "9781556193774",
+          "9789027285782"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/slcs.25.13god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/slcs.25",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0165-7763"
+        ],
+        "issn-type": [
+          {
+            "value": "0165-7763",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1994,
+              5,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:39:59Z",
+          "timestamp": 1794472799629,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 0,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027228871",
+            "type": "print"
+          },
+          {
+            "value": "9781556190162",
+            "type": "print"
+          },
+          {
+            "value": "9789027228888",
+            "type": "print"
+          },
+          {
+            "value": "9781556190179",
+            "type": "print"
+          },
+          {
+            "value": "9789027278616",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1988,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1075/tsl.15.08god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2014-03-24T05:01:22Z",
+          "timestamp": 1395637282000
+        },
+        "page": "177-192",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Verb Serialisation and the Circumstantial Construction in Yankunytjatjara"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              10,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Typological Studies in Language",
+          "Complex Sentence Constructions in Australian Languages"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T11:25:17Z",
+          "timestamp": 1751541917000
+        },
+        "score": 24.16235,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/tsl.15.08god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/tsl.15.08god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1988,
+              1,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027228871",
+          "9781556190162",
+          "9789027228888",
+          "9781556190179",
+          "9789027278616"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1075/tsl.15.08god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/tsl.15",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0167-7373"
+        ],
+        "issn-type": [
+          {
+            "value": "0167-7373",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1988,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2026-11-10T20:03:20Z",
+          "timestamp": 1794341000077,
+          "version": "4.9.0"
+        },
+        "publisher-location": "New York",
+        "reference-count": 0,
+        "publisher": "Dodd, Mead & Co",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1037/11074-020",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2006-07-11T08:26:26Z",
+          "timestamp": 1152606386000
+        },
+        "page": "140-157",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Complex emotions."
+        ],
+        "prefix": "10.1037",
+        "author": [
+          {
+            "given": "Henry Herbert",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "15",
+        "container-title": [
+          "Psychology of the normal and subnormal."
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://psycnet.apa.org/books/11074/020.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              23
+            ]
+          ],
+          "date-time": "2024-02-23T12:41:06Z",
+          "timestamp": 1708692066000
+        },
+        "score": 22.481903,
+        "resource": {
+          "primary": {
+            "URL": "https://content.apa.org/books/11074-020"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "alternative-id": [
+          "2006-07529-020",
+          "2006-07529-000"
+        ],
+        "URL": "https://doi.org/10.1037/11074-020",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1037/11074-000",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2026-09-29T22:08:12Z",
+          "timestamp": 1790719692518,
+          "version": "4.1.0"
+        },
+        "publisher-location": "London",
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Routledge",
+        "isbn-type": [
+          {
+            "value": "9780367822873",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.4324/9780367822873-28",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2022-09-01T18:08:14Z",
+          "timestamp": 1662055694000
+        },
+        "page": "472-484",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Joy and Happiness in Hittite Texts"
+        ],
+        "prefix": "10.4324",
+        "author": [
+          {
+            "given": "Alice",
+            "family": "Mouton",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "container-title": [
+          "The Routledge Handbook of Emotions in the Ancient Near East"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2022-09-01T18:08:41Z",
+          "timestamp": 1662055721000
+        },
+        "score": 20.62915,
+        "resource": {
+          "primary": {
+            "URL": "https://www.taylorfrancis.com/books/9780367822873/chapters/10.4324/9780367822873-28"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780367822873"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.4324/9780367822873-28",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              27
+            ]
+          ],
+          "date-time": "2026-05-27T15:24:16Z",
+          "timestamp": 1779895456902,
+          "version": "3.53.1"
+        },
+        "reference-count": 75,
+        "publisher": "Wiley",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  10,
+                  28
+                ]
+              ],
+              "date-time": "2009-10-28T00:00:00Z",
+              "timestamp": 1256688000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 4805,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Ethos"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1996,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1525/eth.1996.24.3.02a00020",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              11,
+              23
+            ]
+          ],
+          "date-time": "2004-11-23T16:38:34Z",
+          "timestamp": 1101227914000
+        },
+        "page": "426-464",
+        "source": "Crossref",
+        "is-referenced-by-count": 51,
+        "title": [
+          "The “Social Emotions” of Malay (Bahasa Melayu)"
+        ],
+        "prefix": "10.1111",
+        "volume": "24",
+        "author": [
+          {
+            "given": "CLIFF",
+            "family": "GODDARD",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              28
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_2_1_2_1",
+            "unstructured": "AdibahAmin1969Malam Perhitungan. Tenggara:38–51. Originally published in Mastika Sept. 1960. (MP)."
+          },
+          {
+            "key": "e_1_2_1_3_1",
+            "first-page": "54",
+            "article-title": "Malam Kemalangan",
+            "volume": "48",
+            "author": "Anonymous",
+            "year": "1991",
+            "journal-title": "Jenakarama"
+          },
+          {
+            "key": "e_1_2_1_4_1",
+            "first-page": "27",
+            "volume-title": "Sayembara III Cerpen Hadiah Esso‐Gapena",
+            "author": "Haji Abdullah Azizi",
+            "year": "1982"
+          },
+          {
+            "issue": "1",
+            "key": "e_1_2_1_5_1",
+            "first-page": "81",
+            "article-title": "Tulang Pekasam Ikan Puyu",
+            "volume": "36",
+            "author": "Haji Abdullah Azizi",
+            "year": "1992",
+            "journal-title": "Jurnal Dewan Bahasa"
+          },
+          {
+            "key": "e_1_2_1_6_1",
+            "first-page": "36",
+            "article-title": "Bunga Bunga Surat",
+            "volume": "48",
+            "author": "Azzam",
+            "year": "1991",
+            "journal-title": "Jenakarama"
+          },
+          {
+            "key": "e_1_2_1_7_1",
+            "volume-title": "Tiga Dara Pingitan",
+            "author": "Cabai",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_8_1",
+            "first-page": "14",
+            "volume-title": "Sayembara III Cerpen Hadiah Esso‐Gapena",
+            "author": "Masnah Rais Datin",
+            "year": "1982"
+          },
+          {
+            "key": "e_1_2_1_9_1",
+            "first-page": "11",
+            "article-title": "Amir",
+            "volume": "216",
+            "author": "Gayour",
+            "year": "1992",
+            "journal-title": "Gelihati"
+          },
+          {
+            "key": "e_1_2_1_10_1",
+            "volume-title": "Budak Kampung",
+            "author": "Lat",
+            "year": "1979"
+          },
+          {
+            "key": "e_1_2_1_11_1",
+            "volume-title": "Mat Som",
+            "author": "Lat",
+            "year": "1989"
+          },
+          {
+            "key": "e_1_2_1_12_1",
+            "volume-title": "Banjir Di Mata Kemarau Di Hati",
+            "author": "Mh Melipriapapa",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_13_1",
+            "volume-title": "Rindu Yang Tidak Tertuai",
+            "author": "Nasir Lily Haslina",
+            "year": "1989"
+          },
+          {
+            "key": "e_1_2_1_14_1",
+            "first-page": "10",
+            "article-title": "C.I.N.T.A",
+            "volume": "191",
+            "author": "Awang Nazri",
+            "year": "1991",
+            "journal-title": "Gelihati"
+          },
+          {
+            "key": "e_1_2_1_15_1",
+            "volume-title": "Tan Tin Tun",
+            "author": "Rejabhad",
+            "year": "1992"
+          },
+          {
+            "key": "e_1_2_1_16_1",
+            "first-page": "34",
+            "article-title": "Putar Alam",
+            "volume": "192",
+            "author": "Osman Shamsuddin",
+            "year": "1991",
+            "journal-title": "Gelihati"
+          },
+          {
+            "key": "e_1_2_1_17_1",
+            "first-page": "33",
+            "volume-title": "Sayembara IV Cerpen Hadiah Esso‐Gapena",
+            "author": "Mohd Shapiai",
+            "year": "1983"
+          },
+          {
+            "key": "e_1_2_1_18_1",
+            "volume-title": "Aku Budak Minang",
+            "author": "Ujang",
+            "year": "1988"
+          },
+          {
+            "key": "e_1_2_1_19_1",
+            "volume-title": "Mega di Langit Barat",
+            "author": "Haji Baharuddin Zaidah",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_20_1",
+            "first-page": "8",
+            "article-title": "Masa depan orang cacat semakin cerah",
+            "volume": "6",
+            "author": "Abdul Ghani Zamiah",
+            "year": "1991",
+            "journal-title": "Utusan Malaysia, February"
+          },
+          {
+            "key": "e_1_2_1_21_1",
+            "volume-title": "Kamus Pelajar Bahasa Malaysia",
+            "author": "Hussain Amdun",
+            "year": "1987"
+          },
+          {
+            "key": "e_1_2_1_22_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0378-2166(87)90135-4"
+          },
+          {
+            "key": "e_1_2_1_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/jall.1991.12.2.143"
+          },
+          {
+            "key": "e_1_2_1_24_1",
+            "first-page": "2",
+            "article-title": "Interjections. Theme Issue",
+            "volume": "18",
+            "author": "Ameka Felix",
+            "year": "1992",
+            "journal-title": "Journal of Pragmatics"
+          },
+          {
+            "key": "e_1_2_1_25_1",
+            "volume-title": "Malay in Its Sociocultural Context",
+            "author": "Haji Omar Asmah",
+            "year": "1987"
+          },
+          {
+            "key": "e_1_2_1_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4612-5743-1"
+          },
+          {
+            "key": "e_1_2_1_27_1",
+            "volume-title": "Never in Anger: Portrait of an Eskimo Family",
+            "author": "Briggs J. L.",
+            "year": "1970"
+          },
+          {
+            "key": "e_1_2_1_28_1",
+            "volume-title": "Acts of Meaning",
+            "author": "Bruner Jerome",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/ling.1986.24.6.1025"
+          },
+          {
+            "key": "e_1_2_1_30_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/sl.10.2.02cha"
+          },
+          {
+            "key": "e_1_2_1_31_1",
+            "first-page": "563",
+            "volume-title": "Partizipation: Das sprachliche Erfassen von Sachverhalten",
+            "author": "Chappell Hilary",
+            "year": "1991"
+          },
+          {
+            "key": "e_1_2_1_32_1",
+            "volume-title": "A Malay‐English English‐Malay Dictionary",
+            "author": "Coope A. E.",
+            "year": "1991"
+          },
+          {
+            "key": "e_1_2_1_33_1",
+            "volume-title": "Alam Pantun Melayu: Studies on the Malay Pantun",
+            "author": "Daillie François‐Rene",
+            "year": "1988"
+          },
+          {
+            "key": "e_1_2_1_34_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/B978-1-4832-3041-2.50010-5"
+          },
+          {
+            "key": "e_1_2_1_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/slcs.25.10dil"
+          },
+          {
+            "key": "e_1_2_1_36_1",
+            "volume-title": "[1959] Malay Kinship and Marriage in Singapore",
+            "author": "Djamour Judith",
+            "year": "1965"
+          },
+          {
+            "key": "e_1_2_1_37_1",
+            "volume-title": "[1929] Malay Poisons and Charm Cures",
+            "author": "Gimlette J. D.",
+            "year": "1991"
+          },
+          {
+            "key": "e_1_2_1_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/08351817909370468"
+          },
+          {
+            "key": "e_1_2_1_39_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268609008599444"
+          },
+          {
+            "key": "e_1_2_1_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2803832"
+          },
+          {
+            "issue": "1",
+            "key": "e_1_2_1_41_1",
+            "first-page": "120",
+            "article-title": "Review of Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory",
+            "volume": "11",
+            "author": "Goddard Cliff",
+            "year": "1991",
+            "journal-title": "Australian Journal of Linguistics"
+          },
+          {
+            "key": "e_1_2_1_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3623004"
+          },
+          {
+            "key": "e_1_2_1_43_1",
+            "first-page": "323",
+            "article-title": "‘Cognitive Mapping’ or ‘Verbal Explication’? Understanding Love on the Malay Archipelago",
+            "volume": "106",
+            "author": "Goddard Cliff",
+            "year": "1995",
+            "journal-title": "Semiotica"
+          },
+          {
+            "key": "e_1_2_1_44_1",
+            "article-title": "Cultural Values and Cultural Scripts in Malay (Bahasa Melayu)",
+            "author": "Goddard Cliff",
+            "journal-title": "Journal of Pragmatics"
+          },
+          {
+            "key": "e_1_2_1_45_1",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1075/slcs.25",
+            "volume-title": "Semantic and Lexical Universals—Theory and Empirical Findings",
+            "author": "Goddard Cliff",
+            "year": "1994"
+          },
+          {
+            "key": "e_1_2_1_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07268609008599445"
+          },
+          {
+            "key": "e_1_2_1_47_1",
+            "volume-title": "The Social Construction of Emotions",
+            "author": "Harré Rom",
+            "year": "1986"
+          },
+          {
+            "key": "e_1_2_1_48_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511527715"
+          },
+          {
+            "key": "e_1_2_1_49_1",
+            "first-page": "1",
+            "volume-title": "Emotions of Culture. A Malay Perspective",
+            "author": "Karim Wazir Jahan",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_50_1",
+            "first-page": "21",
+            "volume-title": "Emotions of Culture. A Malay Perspective",
+            "author": "Goddard Cliff",
+            "year": "1990"
+          },
+          {
+            "key": "e_1_2_1_51_1",
+            "volume-title": "Tahitians. Mind and Experience in the Society Islands",
+            "author": "Levy Robert",
+            "year": "1973"
+          },
+          {
+            "key": "e_1_2_1_52_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7208/chicago/9780226219783.001.0001"
+          },
+          {
+            "key": "e_1_2_1_53_1",
+            "volume-title": "The Malay Dilemma",
+            "author": "Bin Mohamad Mahathir",
+            "year": "1970"
+          },
+          {
+            "key": "e_1_2_1_54_1",
+            "volume-title": "[1970] Dilema Melayu. Ibraham bin Saad trans",
+            "author": "Goddard Cliff",
+            "year": "1982"
+          },
+          {
+            "key": "e_1_2_1_55_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/201527"
+          },
+          {
+            "key": "e_1_2_1_56_1",
+            "volume-title": "Pintupi Country, Pintupi Self: Sentiment, Place and Politics among Western Desert Aborigines",
+            "author": "Myers Fred R.",
+            "year": "1986"
+          },
+          {
+            "key": "e_1_2_1_57_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/slcs.25.18oni"
+          },
+          {
+            "key": "e_1_2_1_58_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511571299"
+          },
+          {
+            "key": "e_1_2_1_59_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511621833"
+          },
+          {
+            "key": "e_1_2_1_60_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/0022-3514.52.6.1061"
+          },
+          {
+            "key": "e_1_2_1_61_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9781139173728.002"
+          },
+          {
+            "key": "e_1_2_1_62_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev.ps.44.020193.002433"
+          },
+          {
+            "key": "e_1_2_1_63_1",
+            "volume-title": "Malay Peasant Society in Jelebu",
+            "author": "Swift M. G.",
+            "year": "1965"
+          },
+          {
+            "key": "e_1_2_1_64_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/aa.1986.88.3.02a00030"
+          },
+          {
+            "key": "e_1_2_1_65_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0378-2166(86)90011-1"
+          },
+          {
+            "key": "e_1_2_1_66_1",
+            "volume-title": "English Speech Act Verbs: A Semantic Dictionary",
+            "author": "Wierzbicka Anna",
+            "year": "1987"
+          },
+          {
+            "key": "e_1_2_1_67_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/slcs.18"
+          },
+          {
+            "key": "e_1_2_1_68_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/cogl.1990.1.1.99"
+          },
+          {
+            "key": "e_1_2_1_69_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783112329764"
+          },
+          {
+            "key": "e_1_2_1_70_1",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780195073256.001.0001",
+            "volume-title": "Semantics, Culture, and Cognition",
+            "author": "Wierzbicka Anna",
+            "year": "1992"
+          },
+          {
+            "key": "e_1_2_1_71_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/02699939208411073"
+          },
+          {
+            "key": "e_1_2_1_72_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1207/s15516709cog1604_4"
+          },
+          {
+            "key": "e_1_2_1_73_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/eth.1993.21.2.02a00040"
+          },
+          {
+            "key": "e_1_2_1_74_1",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780198700029.001.0001",
+            "volume-title": "Semantics: Primes and Universals",
+            "author": "Wierzbicka Anna",
+            "year": "1996"
+          },
+          {
+            "issue": "2",
+            "key": "e_1_2_1_75_1",
+            "article-title": "Theme Issue on the Semantics of Emotions",
+            "volume": "10",
+            "author": "Wierzbicka Anna",
+            "year": "1990",
+            "journal-title": "Australian Journal of Linguistics"
+          },
+          {
+            "key": "e_1_2_1_76_1",
+            "volume-title": "A Malay Village and Malaysia",
+            "author": "Wilson Peter J.",
+            "year": "1967"
+          }
+        ],
+        "container-title": [
+          "Ethos"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1525%2Feth.1996.24.3.02a00020",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/eth.1996.24.3.02a00020",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              15
+            ]
+          ],
+          "date-time": "2024-01-15T18:56:58Z",
+          "timestamp": 1705345018000
+        },
+        "score": 19.870407,
+        "resource": {
+          "primary": {
+            "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1525/eth.1996.24.3.02a00020"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1996,
+              9
+            ]
+          ]
+        },
+        "references-count": 75,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                1996,
+                9
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1525/eth.1996.24.3.02a00020"
+        ],
+        "URL": "https://doi.org/10.1525/eth.1996.24.3.02a00020",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0091-2131",
+          "1548-1352"
+        ],
+        "issn-type": [
+          {
+            "value": "0091-2131",
+            "type": "print"
+          },
+          {
+            "value": "1548-1352",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T07:40:20Z",
+          "timestamp": 1794382820381,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110170641",
+            "type": "print"
+          },
+          {
+            "value": "9783110880168",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110880168.167",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2010-12-01T05:17:48Z",
+          "timestamp": 1291180668000
+        },
+        "page": "167-196",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Hati: A key word in the Malay vocabulary of emotion"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Emotions in Crosslinguistic Perspective"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:05:56Z",
+          "timestamp": 1776355556000
+        },
+        "score": 19.833576,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110880168.167/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110170641",
+          "9783110880168"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110880168.167",
+          "10.1515/9783110880168"
+        ],
+        "URL": "https://doi.org/10.1515/9783110880168.167",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110880168",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T08:03:40Z",
+          "timestamp": 1794470620437,
+          "version": "4.9.1"
+        },
+        "publisher-location": "Amsterdam",
+        "reference-count": 57,
+        "publisher": "John Benjamins Publishing Company",
+        "isbn-type": [
+          {
+            "value": "9789027256461",
+            "type": "print"
+          },
+          {
+            "value": "9789027270740",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              13
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Using the Natural Semantic Metalanguage (NSM) approach, this study explores conceptualisations of \"disgust\" in English via semantic analysis of descriptive adjectives (disgusted and disgusting) and interjections (Ugh! and Yuck!). As well as drawing out some subtle meaning differences between these expressions, this exercise establishes that there is no one-to-one mapping between the meanings of descriptive emotion lexemes, on the one hand, and expressive interjections, on the other. More broadly, this study seeks to advance the semantic study of “disgust-like” concepts in a cross-linguistic perspective, first, by highlighting aspects of meaning which differ between the English expressions and their near-equivalents in other languages, such as German, French and Polish, and second, by proposing a set of touchstone semantic components that can help facilitate cross-linguistic investigation.</jats:p>",
+        "DOI": "10.1075/pbns.241.06god",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              2,
+              24
+            ]
+          ],
+          "date-time": "2014-02-24T10:39:39Z",
+          "timestamp": 1393238379000
+        },
+        "page": "73-98",
+        "source": "Crossref",
+        "is-referenced-by-count": 12,
+        "title": [
+          "On “Disgust”"
+        ],
+        "prefix": "10.1075",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2523-2855",
+            "authenticated-orcid": true,
+            "given": "Cliff",
+            "family": "Goddard",
+            "sequence": "first",
+            "affiliation": [
+              {},
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/02sc3r913",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Griffith University, Brisbane, Australia"
+              },
+              {},
+              {},
+              {},
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/02sc3r913",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Griffith University, Brisbane, Australia"
+              },
+              {},
+              {}
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1757",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              2,
+              21
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "2:3",
+            "key": "pbns.241.06god-ref04_1",
+            "article-title": "Special issue on “interjections.”",
+            "volume": "18",
+            "author": "Ameka",
+            "year": "1992",
+            "journal-title": "Journal of Pragmatics"
+          },
+          {
+            "key": "pbns.241.06god-ref04_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/hop.10.int12"
+          },
+          {
+            "key": "pbns.241.06god-ref04_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110216028"
+          },
+          {
+            "key": "pbns.241.06god-ref04_4",
+            "volume-title": "Theory of Language: The Representational Function of Language",
+            "author": "Bühler",
+            "year": "1934 [1990"
+          },
+          {
+            "key": "pbns.241.06god-ref04_5",
+            "unstructured": "Collins German Dictionary & Grammar . 2010 . [ Sixth ed’n ]. London : HarperCollins ."
+          },
+          {
+            "key": "pbns.241.06god-ref04_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/10001-000"
+          },
+          {
+            "key": "pbns.241.06god-ref04_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/0003-066X.48.4.384"
+          },
+          {
+            "key": "pbns.241.06god-ref04_8",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1136/sbmj.0405184",
+            "volume-title": "Emotions Revealed",
+            "author": "Ekman",
+            "year": "2004"
+          },
+          {
+            "key": "pbns.241.06god-ref04_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110880168.149"
+          },
+          {
+            "key": "pbns.241.06god-ref04_10",
+            "first-page": "1",
+            "volume-title": "The Body in Description of Emotion",
+            "author": "Enfield",
+            "year": "2002"
+          },
+          {
+            "key": "pbns.241.06god-ref04_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1354067X10361396"
+          },
+          {
+            "key": "pbns.241.06god-ref04_12",
+            "volume-title": "Pitjantjatjara/Yankunytjatjara to English Dictionary",
+            "author": "Goddard",
+            "year": "1996"
+          },
+          {
+            "key": "pbns.241.06god-ref04_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/eth.1996.24.3.02a00020"
+          },
+          {
+            "key": "pbns.241.06god-ref04_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1354067X9700300204"
+          },
+          {
+            "key": "pbns.241.06god-ref04_15",
+            "first-page": "459",
+            "article-title": "The Natural Semantic Metalanguage approach.”",
+            "volume-title": "The Oxford Handbook of Linguistic Analysis",
+            "author": "Goddard",
+            "year": "2010()"
+          },
+          {
+            "key": "pbns.241.06god-ref04_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/acprof:oso/9780195311129.003.0005"
+          },
+          {
+            "key": "pbns.241.06god-ref04_17",
+            "volume-title": "Semantic Analysis",
+            "author": "Goddard",
+            "year": "2011",
+            "edition": "2"
+          },
+          {
+            "key": "pbns.241.06god-ref04_18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/ling-2012-0022"
+          },
+          {
+            "key": "pbns.241.06god-ref04_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1754073913491843"
+          },
+          {
+            "key": "pbns.241.06god-ref04_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/slcs.102"
+          },
+          {
+            "key": "pbns.241.06god-ref04_21",
+            "article-title": "Meaning and Universal Grammar – Theory and Empirical Findings",
+            "volume-title": "Vols I and II",
+            "author": "Goddard",
+            "year": "2002"
+          },
+          {
+            "key": "pbns.241.06god-ref04_22",
+            "volume-title": "Forms of Talk",
+            "author": "Goffman",
+            "year": "1981"
+          },
+          {
+            "key": "pbns.241.06god-ref04_23",
+            "volume-title": "Emotions in Crosslinguistic Perspective",
+            "author": "Jean",
+            "year": "2001"
+          },
+          {
+            "key": "pbns.241.06god-ref04_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1354067X06061590"
+          },
+          {
+            "key": "pbns.241.06god-ref04_25",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7551/mitpress/8303.001.0001",
+            "volume-title": "Yuck! The Nature and Moral Significance of Disgust",
+            "author": "Kelly",
+            "year": "2011"
+          },
+          {
+            "key": "pbns.241.06god-ref04_26",
+            "volume-title": "On disgust",
+            "author": "Kolnai",
+            "year": "1929"
+          },
+          {
+            "key": "pbns.241.06god-ref04_27",
+            "volume-title": "Social Cognition in the Danish Universe of Meaning",
+            "author": "Levisen"
+          },
+          {
+            "key": "pbns.241.06god-ref04_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/acprof:oso/9780199829538.001.0001"
+          },
+          {
+            "key": "pbns.241.06god-ref04_29",
+            "volume-title": "Happiness: A History",
+            "author": "McMahon",
+            "year": "2006"
+          },
+          {
+            "key": "pbns.241.06god-ref04_30",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.4159/9780674041066",
+            "volume-title": "The Anatomy of Disgust",
+            "author": "Miller",
+            "year": "1997"
+          },
+          {
+            "key": "pbns.241.06god-ref04_31",
+            "first-page": "11",
+            "article-title": "“Die prototypische Interjektion: Ein Definitionsvorschlag.”",
+            "volume": "26",
+            "author": "Nübling",
+            "year": "2004",
+            "journal-title": "Zeitschrifte für Semiotik"
+          },
+          {
+            "key": "pbns.241.06god-ref04_32",
+            "volume-title": "Hiding from Humanity:Disgust, Shame, and the Law",
+            "author": "Nussbaum",
+            "year": "2006"
+          },
+          {
+            "key": "pbns.241.06god-ref04_33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1521/jscp.2005.24.7.932"
+          },
+          {
+            "key": "pbns.241.06god-ref04_34",
+            "unstructured": "Oxford Advanced Learner’s Dictionary [ http://oald8.oxfordlearnersdictionaries.com ], accessed 20 April 2012 ."
+          },
+          {
+            "key": "pbns.241.06god-ref04_35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/slcs.81"
+          },
+          {
+            "key": "pbns.241.06god-ref04_36",
+            "volume-title": "The Story of Joy: From the Bible to Late Romanticism",
+            "author": "Potkay",
+            "year": "2007"
+          },
+          {
+            "key": "pbns.241.06god-ref04_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/0033-295X.94.1.23"
+          },
+          {
+            "key": "pbns.241.06god-ref04_38",
+            "first-page": "757",
+            "article-title": "“Disgust”",
+            "volume-title": "Handbook of Emotions",
+            "author": "Rozin",
+            "year": "2008"
+          },
+          {
+            "key": "pbns.241.06god-ref04_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/0033-2909.110.3.426"
+          },
+          {
+            "key": "pbns.241.06god-ref04_40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1754073911411606"
+          },
+          {
+            "key": "pbns.241.06god-ref04_41",
+            "first-page": "161",
+            "article-title": "“Affect bursts.”",
+            "volume-title": "Emotions: Essays on Emotion Theory",
+            "author": "Scherer",
+            "year": "1994"
+          },
+          {
+            "key": "pbns.241.06god-ref04_42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0167-6393(02)00084-5"
+          },
+          {
+            "key": "pbns.241.06god-ref04_43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0539018405058216"
+          },
+          {
+            "key": "pbns.241.06god-ref04_44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0167-6393(02)00078-X"
+          },
+          {
+            "key": "pbns.241.06god-ref04_45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511806582.006"
+          },
+          {
+            "key": "pbns.241.06god-ref04_46",
+            "volume-title": "The Acquisition of Interjections in Early Childhood",
+            "author": "Stange",
+            "year": "2009"
+          },
+          {
+            "key": "pbns.241.06god-ref04_47",
+            "volume-title": "Longman Pronouncing Dictionary",
+            "author": "Wells",
+            "year": "1990",
+            "edition": "3"
+          },
+          {
+            "key": "pbns.241.06god-ref04_48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1525/aa.1986.88.3.02a00030"
+          },
+          {
+            "key": "pbns.241.06god-ref04_49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0378-2166(92)90050-L"
+          },
+          {
+            "key": "pbns.241.06god-ref04_50",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780195073256.001.0001",
+            "volume-title": "Semantics: Cognition and Culture",
+            "author": "Wierzbicka",
+            "year": "1992()"
+          },
+          {
+            "key": "pbns.241.06god-ref04_51",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780198700029.001.0001",
+            "volume-title": "Semantics: Primes and Universals",
+            "author": "Wierzbicka",
+            "year": "1996"
+          },
+          {
+            "key": "pbns.241.06god-ref04_52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511521256"
+          },
+          {
+            "key": "pbns.241.06god-ref04_53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110220964.285"
+          },
+          {
+            "key": "pbns.241.06god-ref04_54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1754073908097175"
+          },
+          {
+            "key": "pbns.241.06god-ref04_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/acprof:oso/9780195368000.001.0001"
+          },
+          {
+            "key": "pbns.241.06god-ref04_56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/1354067X04040928"
+          },
+          {
+            "key": "pbns.241.06god-ref04_57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/9783110911114.127"
+          }
+        ],
+        "container-title": [
+          "Pragmatics &amp; Beyond New Series",
+          "Linguistic Approaches to Emotions in Context"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              11
+            ]
+          ],
+          "date-time": "2024-12-11T13:07:17Z",
+          "timestamp": 1733922437000
+        },
+        "score": 19.328201,
+        "resource": {
+          "primary": {
+            "URL": "https://benjamins.com/catalog/pbns.241.06god"
+          },
+          "secondary": [
+            {
+              "URL": "https://www.degruyter.com/document/doi/10.1075/pbns.241.06god/html",
+              "label": "DeGruyter"
+            }
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              2,
+              21
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789027256461",
+          "9789027270740"
+        ],
+        "references-count": 57,
+        "URL": "https://doi.org/10.1075/pbns.241.06god",
+        "archive": [
+          "Portico"
+        ],
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1075/pbns.241",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "0922-842X"
+        ],
+        "issn-type": [
+          {
+            "value": "0922-842X",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              2,
+              21
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

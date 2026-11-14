@@ -1,0 +1,4046 @@
+[
+  {
+    "q": "Benasni I Remember Dene Suline Holden",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 38654,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T07:44:26Z",
+              "timestamp": 1794469466770,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  8
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359",
+            "type": "monograph",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "link": [
+              {
+                "URL": "https://brill.com/view/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:17Z",
+              "timestamp": 1773887897000
+            },
+            "score": 39.233475,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/title/19576"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  8
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359",
+            "relation": {
+              "has-part": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_021",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_019",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_020",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_006",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_018",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_002",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_008",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_017",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_011",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_004",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_009",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_013",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_015",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_005",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_001",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_014",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_003",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_007",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_012",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_016",
+                  "asserted-by": "subject"
+                },
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359_010",
+                  "asserted-by": "subject"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  8
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:10Z",
+              "timestamp": 1794442630802,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_002",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "1-8",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Dene Sųłiné People and Language"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_002.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:19Z",
+              "timestamp": 1773887899000
+            },
+            "score": 39.055397,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_002.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_002",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:12Z",
+              "timestamp": 1794442632272,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_009",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "149-195",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Veronique Benjamin"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_009.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:27Z",
+              "timestamp": 1773887907000
+            },
+            "score": 38.049416,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_009.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_009",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:10Z",
+              "timestamp": 1794442630824,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_020",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "519-520",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Bibliography"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_020.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:25Z",
+              "timestamp": 1773887905000
+            },
+            "score": 37.787533,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_020.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_020",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:12Z",
+              "timestamp": 1794442632283,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_006",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "57-77",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Norbert Billette"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_006.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:20Z",
+              "timestamp": 1773887900000
+            },
+            "score": 37.54306,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_006.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_006",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:12Z",
+              "timestamp": 1794442632278,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "21-34",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Narratives"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_004.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:20Z",
+              "timestamp": 1773887900000
+            },
+            "score": 37.507595,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_004.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:12Z",
+              "timestamp": 1794442632314,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_007",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "79-125",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Monique Sylvestre"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_007.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:27Z",
+              "timestamp": 1773887907000
+            },
+            "score": 37.350784,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_007.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_007",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T00:17:29Z",
+              "timestamp": 1794442649915,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004235359",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004215443",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004235359_011",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  21
+                ]
+              ],
+              "date-time": "2013-03-21T09:42:34Z",
+              "timestamp": 1363858954000
+            },
+            "page": "243-279",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Pierre Noltcho"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Benasní - I Remember: Dene Sųłiné Oral Histories with Morphological Analysis"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_011.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/19576",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  19
+                ]
+              ],
+              "date-time": "2026-03-19T02:38:27Z",
+              "timestamp": 1773887907000
+            },
+            "score": 37.33797,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004235359/B9789004235359_011.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004235359",
+              "9789004215443"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004235359_011",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004235359",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  1,
+                  1
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 8,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Semantic Primes In Denesuline Holden",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 199241,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  6,
+                  30
+                ]
+              ],
+              "date-time": "2026-06-30T08:08:06Z",
+              "timestamp": 1782806886347,
+              "version": "3.54.5"
+            },
+            "reference-count": 46,
+            "publisher": "University of Chicago Press",
+            "issue": "1",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "International Journal of American Linguistics"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2019,
+                  1
+                ]
+              ]
+            },
+            "DOI": "10.1086/700319",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2019,
+                  1,
+                  4
+                ]
+              ],
+              "date-time": "2019-01-04T22:10:07Z",
+              "timestamp": 1546639807000
+            },
+            "page": "75-121",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Semantic Primes In Denesųłiné: In Search of Some Lexical “Universals”"
+            ],
+            "prefix": "10.1086",
+            "volume": "85",
+            "author": [
+              {
+                "given": "Josh",
+                "family": "Holden",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "200",
+            "reference": [
+              {
+                "key": "rf1",
+                "unstructured": "Bogal-Allbritten, Elizabeth. 2016. Building Meaning in Navajo. PhD thesis, University of Massachusetts Amherst."
+              },
+              {
+                "issue": "1",
+                "key": "rf2",
+                "first-page": "24",
+                "volume": "42",
+                "author": "Carter Robin",
+                "year": "1976",
+                "journal-title": "IJAL"
+              },
+              {
+                "key": "rf3",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1515/9783110852394",
+                "volume-title": "Athapaskan Linguistics: Current Perspectives on a Language Family.",
+                "author": "Cook Eung-Do",
+                "year": "1989"
+              },
+              {
+                "key": "rf4",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9781139164344"
+              },
+              {
+                "key": "rf5",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1080/00437956.1963.11659796"
+              },
+              {
+                "key": "rf6",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s10988-007-9020-z"
+              },
+              {
+                "key": "rf7",
+                "volume-title": "Lexical primitives in Yankunytjatjara. Semantic and Lexical Universals: Theory and Empirical Findings, ed. Cliff Goddard and Anna Wierzbicka, 229–62",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf8",
+                "doi-asserted-by": "crossref",
+                "volume-title": "Universal units in the lexicon",
+                "author": "Goddard Cliff",
+                "DOI": "10.1515/9783110194265-024"
+              },
+              {
+                "key": "rf9",
+                "volume-title": "The search for the shared semantic core of all languages. Meaning and Universal Grammar: Theory and Empirical Findings",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf10",
+                "volume-title": "2008. Cross-Linguistic Semantics",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf11",
+                "volume-title": "Semantic Analysis",
+                "author": "Goddard Cliff",
+                "edition": "2"
+              },
+              {
+                "key": "rf12",
+                "volume-title": "Chart of NSM Primes. https://www.griffith.edu.au/__data/assets/pdf_file/0005/636890/NSM_Chart_ENGLISH_v18_18_08_2016.pdf. (Note: This version is no longer available",
+                "author": "Goddard Cliff",
+                "year": "2017"
+              },
+              {
+                "key": "rf13",
+                "volume-title": "Introducing lexical primitives. Semantic and Lexical Universals: Theory and Empirical Findings, ed. Cliff Goddard and Anna Wierzbicka, 30–56",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf14",
+                "volume-title": "2002a. Meaning and Universal Grammar: Theory and Empirical Findings",
+                "volume": "1",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf15",
+                "volume-title": "2002b. Meaning and Universal Grammar: Theory and Empirical Findings",
+                "volume": "2",
+                "author": "Goddard Cliff"
+              },
+              {
+                "key": "rf16",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1075/sl.38.1.03god"
+              },
+              {
+                "key": "rf17",
+                "volume-title": "150 Canonical sentences for identifying semantic primes and the core lexico-grammar of any language, v. 4",
+                "author": "Goddard Cliff",
+                "year": "2016"
+              },
+              {
+                "key": "rf18",
+                "volume-title": "Talking about anger in Central Australia. Emotions in Crosslinguistic Perspective, ed, Jean Harkins and Anna Wierzbicka, 201–20",
+                "author": "Harkins Jean"
+              },
+              {
+                "key": "rf19",
+                "first-page": "13",
+                "volume": "11",
+                "author": "Hoijer Harry",
+                "year": "1945",
+                "journal-title": "IJAL"
+              },
+              {
+                "key": "rf20",
+                "volume-title": "Benasní — I Remember: Dene Suliné Oral Histories with Morphological Analysis",
+                "author": "Holden Josh"
+              },
+              {
+                "key": "rf21",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1515/cogl.2003.007"
+              },
+              {
+                "key": "rf22",
+                "volume-title": "Papers of the 35th Algonquian Conference, ed. H. Christoph Wolfart, 163–85",
+                "author": "Junker Marie-Odile"
+              },
+              {
+                "key": "rf23",
+                "volume-title": "Semantic primes and their grammar in a polysynthetic language: East Cree. Studies in Cross-Linguistic Semantics, ed. Cliff Goddard, 163–204",
+                "author": "Junker Marie-Odile"
+              },
+              {
+                "key": "rf24",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/1354067X06061590"
+              },
+              {
+                "key": "rf26",
+                "volume-title": "events and understanding in Ifaluk emotion theory. Cultural Models in Language and Thought, ed. Dorothy Holland and Naomi Quinn, 290–312",
+                "author": "Lutz Catherine"
+              },
+              {
+                "key": "rf27",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.7208/chicago/9780226219783.001.0001",
+                "volume-title": "Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory.",
+                "author": "Lutz Catherine",
+                "year": "1988"
+              },
+              {
+                "issue": "4",
+                "key": "rf28",
+                "first-page": "369",
+                "volume": "70",
+                "author": "Matthewson Lisa",
+                "year": "2004",
+                "journal-title": "IJAL"
+              },
+              {
+                "key": "rf29",
+                "volume-title": "Cours de morphologie générale et descriptive (A course in general and descriptive morphology)",
+                "author": "Mel’čuk Igor"
+              },
+              {
+                "key": "rf31",
+                "volume-title": "Eric-Jan van der Linden, André Schenk, and Rob Schreuder, 167–232.",
+                "author": "Mel’čuk Igor"
+              },
+              {
+                "key": "rf32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1075/slcs.129"
+              },
+              {
+                "key": "rf33",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1075/slcs.135"
+              },
+              {
+                "key": "rf34",
+                "volume-title": "2006. Semantic Primes and Universal Grammar: Empirical Evidence from the Romance Languages",
+                "author": "Peeters Bert"
+              },
+              {
+                "key": "rf35",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1075/pc.10.1-2.11pri"
+              },
+              {
+                "key": "rf36",
+                "volume-title": "Willard Van Orman",
+                "author": "Quine",
+                "year": "2013"
+              },
+              {
+                "key": "rf37",
+                "volume-title": "A Grammar of Slave",
+                "author": "Rice Keren"
+              },
+              {
+                "key": "rf38",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9780511663659"
+              },
+              {
+                "key": "rf39",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1006/brln.2001.2540"
+              },
+              {
+                "key": "rf40",
+                "volume-title": "Identification and syntax of semantic prime moment in Tarifyt Berber",
+                "author": "Trnavac Radoslava"
+              },
+              {
+                "key": "rf41",
+                "unstructured": "Welch, Nicholas. 2012. The bearable lightness of being: The encoding of coincidence in two-copula languages. PhD dissertation, University of Calgary."
+              },
+              {
+                "key": "rf42",
+                "doi-asserted-by": "crossref",
+                "volume-title": "Semantic Primitives",
+                "author": "Wierzbicka Anna",
+                "DOI": "10.1016/B0-08-044854-2/01073-7"
+              },
+              {
+                "key": "rf43",
+                "volume-title": "Lexicography and Conceptual Analysis",
+                "author": "Wierzbicka Anna"
+              },
+              {
+                "key": "rf44",
+                "volume-title": "Semantic primitives across languages: A critical review. Semantic and Lexical Universals: Theory and Empirical Findings, ed. Cliff Goddard and Anna Wierzbicka, 445– 500",
+                "author": "Wierzbicka Anna"
+              },
+              {
+                "key": "rf45",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantics: Primes and Universals.",
+                "author": "Wierzbicka Anna",
+                "year": "1996"
+              },
+              {
+                "key": "rf46",
+                "doi-asserted-by": "crossref",
+                "volume-title": "Emotions across Languages and Cultures: Diversity and Universals",
+                "author": "Wierzbicka Anna",
+                "DOI": "10.1017/CBO9780511521256"
+              },
+              {
+                "key": "rf47",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1080/07268602.2018.1393862"
+              },
+              {
+                "key": "rf48",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s11050-007-9024-9"
+              }
+            ],
+            "container-title": [
+              "International Journal of American Linguistics"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://www.journals.uchicago.edu/doi/pdf/10.1086/700319",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  13
+                ]
+              ],
+              "date-time": "2024-07-13T20:39:25Z",
+              "timestamp": 1720903165000
+            },
+            "score": 25.990974,
+            "resource": {
+              "primary": {
+                "URL": "https://www.journals.uchicago.edu/doi/10.1086/700319"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2019,
+                  1
+                ]
+              ]
+            },
+            "references-count": 46,
+            "journal-issue": {
+              "issue": "1",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2019,
+                    1
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "10.1086/700319"
+            ],
+            "URL": "https://doi.org/10.1086/700319",
+            "ISSN": [
+              "0020-7071",
+              "1545-7001"
+            ],
+            "issn-type": [
+              {
+                "value": "0020-7071",
+                "type": "print"
+              },
+              {
+                "value": "1545-7001",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2019,
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2026-11-11T10:07:06Z",
+              "timestamp": 1794391626940,
+              "version": "4.9.0"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 8,
+            "publisher": "DE GRUYTER MOUTON",
+            "isbn-type": [
+              {
+                "value": "9783110226614",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110226614.322",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2011,
+                  7,
+                  25
+                ]
+              ],
+              "date-time": "2011-07-25T11:56:42Z",
+              "timestamp": 1311595002000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": [
+              "16. Semantic features and primes"
+            ],
+            "prefix": "10.1515",
+            "author": [
+              {
+                "given": "Manfred",
+                "family": "Bierwisch",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "reference": [
+              {
+                "key": "p_1",
+                "first-page": "1",
+                "volume": "1",
+                "author": "Ajdukiewicz Kazimierz",
+                "year": "1935",
+                "journal-title": "Studia Philosophica"
+              },
+              {
+                "key": "p_4",
+                "doi-asserted-by": "crossref",
+                "first-page": "577",
+                "DOI": "10.1017/S0140525X99002149",
+                "volume": "22",
+                "author": "Barsalou Lawrence W",
+                "year": "1999",
+                "journal-title": "Behavioral and Brain Sciences"
+              },
+              {
+                "key": "p_17",
+                "doi-asserted-by": "crossref",
+                "first-page": "23",
+                "DOI": "10.1016/0010-0277(92)90039-K",
+                "volume": "42",
+                "author": "Bierwisch Manfred",
+                "year": "1992",
+                "journal-title": "Cognition"
+              },
+              {
+                "key": "p_32",
+                "doi-asserted-by": "crossref",
+                "first-page": "225",
+                "DOI": "10.1017/S0952675700000440",
+                "volume": "2",
+                "author": "Clements George N",
+                "year": "1985",
+                "journal-title": "Phonology Yearbook"
+              },
+              {
+                "key": "p_48",
+                "first-page": "140",
+                "year": "1936",
+                "journal-title": "Kopenhagen"
+              },
+              {
+                "key": "p_61",
+                "doi-asserted-by": "crossref",
+                "first-page": "170",
+                "DOI": "10.2307/411200",
+                "volume": "39",
+                "author": "Katz Jerrold J.",
+                "year": "1963",
+                "journal-title": "Language"
+              },
+              {
+                "key": "p_84",
+                "first-page": "375",
+                "volume": "33",
+                "author": "Svenonius Peter",
+                "year": "2007",
+                "journal-title": "Linguistic Analysis"
+              },
+              {
+                "key": "p_89",
+                "first-page": "27",
+                "volume": "28",
+                "author": "Wunderlich Dieter",
+                "year": "1997",
+                "journal-title": "Linguistic Inquiry"
+              }
+            ],
+            "container-title": [
+              "Semantics"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110226614.322/pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  20
+                ]
+              ],
+              "date-time": "2021-04-20T16:15:55Z",
+              "timestamp": 1618935355000
+            },
+            "score": 24.207397,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110226614.322/html"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110226614"
+            ],
+            "references-count": 8,
+            "URL": "https://doi.org/10.1515/9783110226614.322",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110226614",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  5,
+                  15
+                ]
+              ],
+              "date-time": "2024-05-15T07:53:12Z",
+              "timestamp": 1715759592775
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressOxford",
+            "isbn-type": [
+              {
+                "value": "9780198700029",
+                "type": "print"
+              },
+              {
+                "value": "9781383031294",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>It has often been said that the meaning of a word “depends” on the meaning of the other words in the lexicon (see e.g. Trier 1931). Strictly speaking, I do not believe that this is the case: since the meaning of a word is, as I have been arguing all along, a configuration of semantic primitives for each word, its meaning can (and must) be defined positively, regardless of the meanings of any “neighbouring” words in the lexicon. The meanings of different words can overlap (as Abe overlaps with bed),but both the similarities and the differences can be stated only after the meaning of each word has been identified.</jats:p>",
+            "DOI": "10.1093/oso/9780198700029.003.0005",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T04:59:40Z",
+              "timestamp": 1698901180000
+            },
+            "page": "170-183",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Semantic Primitives and Semantic Fields"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Anna",
+                "family": "Wierzbicka",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Semantics"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52236548/isbn-9780198700029-book-part-5.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T05:00:14Z",
+              "timestamp": 1698901214000
+            },
+            "score": 23.786888,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48519/chapter/421423314"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780198700029",
+              "9781383031294"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780198700029.003.0005",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  3,
+                  29
+                ]
+              ],
+              "date-time": "2022-03-29T16:26:42Z",
+              "timestamp": 1648571202703
+            },
+            "reference-count": 0,
+            "publisher": "De Gruyter",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1973,
+                  12,
+                  31
+                ]
+              ]
+            },
+            "DOI": "10.1515/9783110881639-006",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  10,
+                  27
+                ]
+              ],
+              "date-time": "2018-10-27T17:01:58Z",
+              "timestamp": 1540659718000
+            },
+            "page": "53-58",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "5. Semantic Primes"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Modern Theory of “Langue”"
+            ],
+            "link": [
+              {
+                "URL": "http://www.degruyter.com/view/books/9783110881639/9783110881639-006/9783110881639-006.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110881639-006/xml",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110881639-006/pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  21
+                ]
+              ],
+              "date-time": "2021-04-21T05:29:14Z",
+              "timestamp": 1618982954000
+            },
+            "score": 23.265501,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110881639-006/html"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1973,
+                  12,
+                  31
+                ]
+              ]
+            },
+            "references-count": 0,
+            "alternative-id": [
+              "10.1515/9783110881639-006",
+              "10.1515/9783110881639"
+            ],
+            "URL": "https://doi.org/10.1515/9783110881639-006",
+            "published": {
+              "date-parts": [
+                [
+                  1973,
+                  12,
+                  31
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  26
+                ]
+              ],
+              "date-time": "2026-10-26T23:04:31Z",
+              "timestamp": 1793055871874,
+              "version": "4.5.0"
+            },
+            "reference-count": 0,
+            "publisher": "Walter de Gruyter GmbH",
+            "issue": "3",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2012,
+                  1,
+                  18
+                ]
+              ]
+            },
+            "DOI": "10.1515/ling-2012-0022",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2012,
+                  5,
+                  4
+                ]
+              ],
+              "date-time": "2012-05-04T22:47:14Z",
+              "timestamp": 1336171634000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 64,
+            "title": [
+              "Semantic primes, semantic molecules, semantic templates: Key concepts in the NSM approach to lexical typology"
+            ],
+            "prefix": "10.1515",
+            "volume": "50",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Linguistics"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/ling-2012-0022/pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  22
+                ]
+              ],
+              "date-time": "2021-04-22T03:56:45Z",
+              "timestamp": 1619063805000
+            },
+            "score": 22.626488,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/ling-2012-0022/html"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2012,
+                  1,
+                  18
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "3"
+            },
+            "URL": "https://doi.org/10.1515/ling-2012-0022",
+            "ISSN": [
+              "1613-396X",
+              "0024-3949"
+            ],
+            "issn-type": [
+              {
+                "value": "1613-396X",
+                "type": "electronic"
+              },
+              {
+                "value": "0024-3949",
+                "type": "print"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2012,
+                  1,
+                  18
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  15
+                ]
+              ],
+              "date-time": "2024-09-15T14:13:30Z",
+              "timestamp": 1726409610023
+            },
+            "publisher-location": "Cham",
+            "reference-count": 31,
+            "publisher": "Springer International Publishing",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9783319773735"
+              },
+              {
+                "type": "electronic",
+                "value": "9783319773742"
+              }
+            ],
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2018,
+                      1,
+                      1
+                    ]
+                  ],
+                  "date-time": "2018-01-01T00:00:00Z",
+                  "timestamp": 1514764800000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "http://www.springer.com/tdm"
+              }
+            ],
+            "content-domain": {
+              "domain": [
+                "link.springer.com"
+              ],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "DOI": "10.1007/978-3-319-77374-2_7",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  4,
+                  25
+                ]
+              ],
+              "date-time": "2018-04-25T06:19:09Z",
+              "timestamp": 1524637149000
+            },
+            "page": "219-247",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Semantic Primes and Definitions"
+            ],
+            "prefix": "10.1007",
+            "author": [
+              {
+                "given": "Piotr",
+                "family": "Twardzisz",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "297",
+            "published-online": {
+              "date-parts": [
+                [
+                  2018,
+                  4,
+                  26
+                ]
+              ]
+            },
+            "reference": [
+              {
+                "key": "7_CR1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.4135/9781446279250",
+                "volume-title": "The Politics of Central Europe",
+                "author": "A Ágh",
+                "year": "1998",
+                "unstructured": "Ágh, Attila. 1998. The Politics of Central Europe. London/Thousand Oaks: SAGE Publications."
+              },
+              {
+                "key": "7_CR2",
+                "volume-title": "Natural Language Semantics",
+                "author": "K Allan",
+                "year": "2001",
+                "unstructured": "Allan, Keith. 2001. Natural Language Semantics. Oxford: Blackwell."
+              },
+              {
+                "key": "7_CR3",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.5040/9781849666626",
+                "volume-title": "A History of Eastern Europe 1740–1918: Empires, Nations and Modernisation",
+                "author": "ID Armour",
+                "year": "2012",
+                "unstructured": "Armour, Ian D. 2012. A History of Eastern Europe 1740–1918: Empires, Nations and Modernisation. 2nd ed. London/New York: Bloomsbury Academic.",
+                "edition": "2"
+              },
+              {
+                "key": "7_CR4",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9780511813795",
+                "volume-title": "Central Europe in the High Middle Ages: Bohemia, Hungary and Poland c. 900–c. 1300",
+                "author": "N Berend",
+                "year": "2013",
+                "unstructured": "Berend, Nora, Przemysław Urbańczyk, and Przemysław Wiszewski. 2013. Central Europe in the High Middle Ages: Bohemia, Hungary and Poland c. 900–c. 1300. Cambridge: Cambridge University Press."
+              },
+              {
+                "key": "7_CR5",
+                "doi-asserted-by": "publisher",
+                "first-page": "555",
+                "DOI": "10.2307/411524",
+                "volume": "41",
+                "author": "D Bolinger",
+                "year": "1965",
+                "unstructured": "Bolinger, Dwight. 1965. The Atomization of Meaning. Language 41: 555–573.",
+                "journal-title": "Language"
+              },
+              {
+                "volume-title": "Concise Encyclopedia of Semantics",
+                "year": "2009",
+                "key": "7_CR6",
+                "unstructured": "Brown, Keith, and Keith Allan, eds. 2009. Concise Encyclopedia of Semantics. Oxford/Amsterdam: Elsevier."
+              },
+              {
+                "key": "7_CR7",
+                "volume-title": "The Grand Failure: The Birth and Death of Communism in the Twentieth Century",
+                "author": "Z Brzezinski",
+                "year": "1989",
+                "unstructured": "Brzezinski, Zbigniew. 1989. The Grand Failure: The Birth and Death of Communism in the Twentieth Century. New York: Charles Scribner’s Sons."
+              },
+              {
+                "key": "7_CR8",
+                "first-page": "272",
+                "volume-title": "Studies in Linguistic Semantics",
+                "author": "CJ Fillmore",
+                "year": "1971",
+                "unstructured": "Fillmore, Charles J. 1971. Verbs of Judging: An Exercise in Semantic Description. In Studies in Linguistic Semantics, ed. Charles J. Fillmore and D. Terence Langendoen, 272–289. New York: Holt, Rinehart and Winston."
+              },
+              {
+                "key": "7_CR9",
+                "volume-title": "Semantic Analysis: A Practical Introduction",
+                "author": "C Goddard",
+                "year": "2011",
+                "unstructured": "Goddard, Cliff. 2011. Semantic Analysis: A Practical Introduction. Oxford: Oxford University Press."
+              },
+              {
+                "key": "7_CR10",
+                "volume-title": "Words and Meanings: Lexical Semantics Across Domains, Languages, and Cultures",
+                "author": "C Goddard",
+                "year": "2014",
+                "unstructured": "Goddard, Cliff, and Anna Wierzbicka. 2014. Words and Meanings: Lexical Semantics Across Domains, Languages, and Cultures. Oxford: Oxford University Press."
+              },
+              {
+                "key": "7_CR11",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9780511805646",
+                "volume-title": "Economic Transition in Central and Eastern Europe: Planting the Seeds",
+                "author": "D Gros",
+                "year": "2004",
+                "unstructured": "Gros, Daniel, and Alfred Steinherr. 2004. Economic Transition in Central and Eastern Europe: Planting the Seeds. Cambridge: Cambridge University Press."
+              },
+              {
+                "key": "7_CR12",
+                "volume-title": "Semantics and Cognition",
+                "author": "R Jackendoff",
+                "year": "1983",
+                "unstructured": "Jackendoff, Ray. 1983. Semantics and Cognition. Cambridge, MA: MIT Press."
+              },
+              {
+                "key": "7_CR13",
+                "volume-title": "Semantic Structures",
+                "author": "R Jackendoff",
+                "year": "1990",
+                "unstructured": "———. 1990. Semantic Structures. Cambridge, MA: MIT Press."
+              },
+              {
+                "key": "7_CR14",
+                "doi-asserted-by": "publisher",
+                "first-page": "170",
+                "DOI": "10.2307/411200",
+                "volume": "39",
+                "author": "JJ Katz",
+                "year": "1963",
+                "unstructured": "Katz, Jerrold J., and Jerry A. Fodor. 1963. The Structure of a Semantic Theory. Language 39: 170–210.",
+                "journal-title": "Language"
+              },
+              {
+                "key": "7_CR15",
+                "unstructured": "Langacker, Ronald W. 1987. Foundations of Cognitive Grammar, Vol. 1, Theoretical Prerequisites. Stanford: Stanford University Press."
+              },
+              {
+                "key": "7_CR16",
+                "unstructured": "———. 1991. Foundations of Cognitive Grammar, Vol. 2, Descriptive Application. Stanford: Stanford University Press."
+              },
+              {
+                "key": "7_CR17",
+                "first-page": "649",
+                "volume-title": "Estudios de Lingüística Cognitiva",
+                "author": "RW Langacker",
+                "year": "1998",
+                "unstructured": "———. 1998. Indeterminacy in Semantics and Grammar. In Estudios de Lingüística Cognitiva, ed. José Luis Cifuentes Honrubia, 649–672. Alicante: Universidad de Alicante, Departamento de Filología Española Lingüística General y Teoría de la Literatura."
+              },
+              {
+                "key": "7_CR18",
+                "volume-title": "Semantics. The Study of Meaning",
+                "author": "G Leech",
+                "year": "1985",
+                "unstructured": "Leech, Geoffrey. 1985. Semantics. The Study of Meaning. 2nd ed. London: Penguin Books.",
+                "edition": "2"
+              },
+              {
+                "key": "7_CR19",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9780511610479",
+                "volume-title": "Argument Realization",
+                "author": "B Levin",
+                "year": "2005",
+                "unstructured": "Levin, Beth, and Malka Rappaport Hovav. 2005. Argument Realization. Cambridge, MA: MIT Press."
+              },
+              {
+                "key": "7_CR20",
+                "volume-title": "An Essay Concerning Human Understanding",
+                "author": "J Locke",
+                "year": "1975",
+                "unstructured": "Locke, John. 1975/1700. In An Essay Concerning Human Understanding, ed. Peter H. Nidditch. Oxford: Clarendon Press."
+              },
+              {
+                "issue": "1",
+                "key": "7_CR21",
+                "doi-asserted-by": "publisher",
+                "first-page": "102",
+                "DOI": "10.1093/past/137.1.102",
+                "volume": "137",
+                "author": "R Okey",
+                "year": "1992",
+                "unstructured": "Okey, Robin. 1992. Central Europe/Eastern Europe: Behind the Definitions. Past & Present 137 (1): 102–133.",
+                "journal-title": "Past & Present"
+              },
+              {
+                "key": "7_CR22",
+                "volume-title": "Poor But Sexy: Culture Clashes in Europe East and West",
+                "author": "A Pyzik",
+                "year": "2014",
+                "unstructured": "Pyzik, Agata. 2014. Poor But Sexy: Culture Clashes in Europe East and West. Winchester: Zero Books."
+              },
+              {
+                "key": "7_CR23",
+                "doi-asserted-by": "publisher",
+                "first-page": "145",
+                "DOI": "10.1057/9781137283450_8",
+                "volume-title": "Regional and International Relations of Central Europe",
+                "author": "TJ Resler",
+                "year": "2012",
+                "unstructured": "Resler, Tamara J. 2012. The United States and Central Europe: Principles and Pragmatism in the Evolving Partnership. In Regional and International Relations of Central Europe, ed. Zlatko Šabič and Petr Drulák, 145–161. Basingstoke/New York: Palgrave Macmillan."
+              },
+              {
+                "key": "7_CR24",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1017/CBO9780511808883",
+                "volume-title": "Introducing Semantics",
+                "author": "N Riemer",
+                "year": "2010",
+                "unstructured": "Riemer, Nick. 2010. Introducing Semantics. Cambridge: Cambridge University Press."
+              },
+              {
+                "key": "7_CR25",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780195073256.001.0001",
+                "volume-title": "Semantics, Culture, and Cognition: Universal Human Concepts in Culture-Specific Configurations",
+                "author": "A Wierzbicka",
+                "year": "1992",
+                "unstructured": "Wierzbicka, Anna. 1992. Semantics, Culture, and Cognition: Universal Human Concepts in Culture-Specific Configurations. New York/Oxford: Oxford University Press."
+              },
+              {
+                "key": "7_CR26",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantics. Primes and Universals",
+                "author": "A Wierzbicka",
+                "year": "1996",
+                "unstructured": "———. 1996. Semantics. Primes and Universals. Oxford: Oxford University Press."
+              },
+              {
+                "key": "7_CR27",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780195088359.001.0001",
+                "volume-title": "Understanding Cultures Through Their Key Words: English, Russian, Polish, German, and Japanese",
+                "author": "A Wierzbicka",
+                "year": "1997",
+                "unstructured": "———. 1997. Understanding Cultures Through Their Key Words: English, Russian, Polish, German, and Japanese. New York/Oxford: Oxford University Press."
+              },
+              {
+                "key": "7_CR28",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1515/9783110220964",
+                "volume-title": "Cross-Cultural Pragmatics: The Semantics of Human Interaction",
+                "author": "A Wierzbicka",
+                "year": "2003",
+                "unstructured": "———. 2003. Cross-Cultural Pragmatics: The Semantics of Human Interaction. Berlin: Mouton de Gruyter."
+              },
+              {
+                "issue": "1",
+                "key": "7_CR29",
+                "doi-asserted-by": "publisher",
+                "first-page": "39",
+                "DOI": "10.1093/cjip/pon002",
+                "volume": "2",
+                "author": "R Wu",
+                "year": "2008",
+                "unstructured": "Wu, Riqiang. 2008. Who Is the Target of the US Anti-Missile System Deployed in Eastern Europe? The Chinese Journal of International Politics 2 (1): 39–71.",
+                "journal-title": "The Chinese Journal of International Politics"
+              },
+              {
+                "key": "7_CR30",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.4324/9781315819006",
+                "volume-title": "Ideologies of Eastness in Central and Eastern Europe",
+                "author": "T Zarycki",
+                "year": "2014",
+                "unstructured": "Zarycki, Tomasz. 2014. Ideologies of Eastness in Central and Eastern Europe. Abingdon/New York: Routledge."
+              },
+              {
+                "key": "7_CR31",
+                "first-page": "467",
+                "volume-title": "A Festschrift for Morris Halle",
+                "author": "AM Zwicky",
+                "year": "1973",
+                "unstructured": "Zwicky, Arnold M. 1973. Linguistics as Chemistry: The Substance Theory of Linguistic Primes. In A Festschrift for Morris Halle, ed. Stephen R. Anderson and Paul Kiparsky, 467–485. New York: Holt, Rinehart & Winston."
+              }
+            ],
+            "container-title": [
+              "Defining ‘Eastern Europe’"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-77374-2_7",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  6
+                ]
+              ],
+              "date-time": "2024-07-06T08:31:56Z",
+              "timestamp": 1720254716000
+            },
+            "score": 21.918713,
+            "resource": {
+              "primary": {
+                "URL": "http://link.springer.com/10.1007/978-3-319-77374-2_7"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783319773735",
+              "9783319773742"
+            ],
+            "references-count": 31,
+            "URL": "https://doi.org/10.1007/978-3-319-77374-2_7",
+            "published": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  5,
+                  15
+                ]
+              ],
+              "date-time": "2024-05-15T07:29:07Z",
+              "timestamp": 1715758147258
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressOxford",
+            "isbn-type": [
+              {
+                "value": "9780198700029",
+                "type": "print"
+              },
+              {
+                "value": "9781383031294",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>As I have tried to show (see in particular Chapter 5), a word’s syntactic behaviour reflects, and depends on, its meaning. Thus, it is no accident that one can ask, beg,or applyFOR something, but not order, demand,or commandFOR something; or that one can both orderand asksomeone TO DO something, but not demandor applysomeone TO DO something.</jats:p>",
+            "DOI": "10.1093/oso/9780198700029.003.0013",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T04:59:40Z",
+              "timestamp": 1698901180000
+            },
+            "page": "379-401",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Semantic Rules in Grammar"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Anna",
+                "family": "Wierzbicka",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Semantics"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52236583/isbn-9780198700029-book-part-13.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T04:59:45Z",
+              "timestamp": 1698901185000
+            },
+            "score": 21.761349,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48519/chapter/421423510"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780198700029",
+              "9781383031294"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780198700029.003.0013",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  5,
+                  15
+                ]
+              ],
+              "date-time": "2024-05-15T07:53:12Z",
+              "timestamp": 1715759592467
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressOxford",
+            "isbn-type": [
+              {
+                "value": "9780198700029",
+                "type": "print"
+              },
+              {
+                "value": "9781383031294",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The set of primitives presented and discussed in this chapter has evolved in the course of nearly three decades of research by myself and colleaguesand it is still evolving. Some of the primitives proposed here are better established than others. Of the fourteen primitives posited in my Semantic Primitives(1972) ten have survived nearly a quarter of a century of critical assaults (by myself and others), and (with one exception: PART) the position of these original members of the set can be regarded as particularly strong. This old guard includes the “substantives” I, YOU, SOMEONE, and SOMETHING, the “mental predicates” THINK, WANT, FEEL, and SAY, and the demonstrative THIS.</jats:p>",
+            "DOI": "10.1093/oso/9780198700029.003.0002",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T04:59:40Z",
+              "timestamp": 1698901180000
+            },
+            "page": "35-111",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "A Survey of Semantic Primitives"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Anna",
+                "family": "Wierzbicka",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Semantics"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52236538/isbn-9780198700029-book-part-2.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  2
+                ]
+              ],
+              "date-time": "2023-11-02T05:00:11Z",
+              "timestamp": 1698901211000
+            },
+            "score": 21.53912,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48519/chapter/421423236"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780198700029",
+              "9781383031294"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780198700029.003.0002",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  28
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 8,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "natural semantic metalanguage emotion MGL",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1343172,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T04:22:29Z",
+              "timestamp": 1794457349749,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University Press",
+            "isbn-type": [
+              {
+                "value": "9780199592746",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "DOI": "10.1093/acprof:oso/9780199592746.003.0028",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2013-10-01T11:48:55Z",
+              "timestamp": 1380628135000
+            },
+            "page": "399-409",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": [
+              "Comparing the Natural Semantic Metalanguage (NSM) approach to emotion and the GRID paradigm1"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Zhengdao",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Components of Emotional Meaning"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2022-08-02T13:47:22Z",
+              "timestamp": 1659448042000
+            },
+            "score": 34.741577,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/2214/chapter/142275036"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780199592746"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/acprof:oso/9780199592746.003.0028",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1093/acprof:oso/9780199592746.001.0001",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  4,
+                  5
+                ]
+              ],
+              "date-time": "2022-04-05T18:22:17Z",
+              "timestamp": 1649182937127
+            },
+            "reference-count": 0,
+            "publisher": "AI Publications",
+            "issue": "3",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJELS"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "DOI": "10.22161/ijels.3.3.18",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:12Z",
+              "timestamp": 1527665472000
+            },
+            "page": "386-388",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Emotion Words in Sundanese Language: Research of Natural Semantic Metalanguage"
+            ],
+            "prefix": "10.22161",
+            "volume": "3",
+            "author": [
+              {
+                "given": "Muzainah",
+                "family": "Nurazijah",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "9421",
+            "published-online": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of English Literature and Social Sciences"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:14Z",
+              "timestamp": 1527665474000
+            },
+            "score": 33.233513,
+            "resource": {
+              "primary": {
+                "URL": "http://ijels.com/ojs/index.php/ijels/article/view/27"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "3",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.22161/ijels.3.3.18",
+            "ISSN": [
+              "2456-7620"
+            ],
+            "issn-type": [
+              {
+                "value": "2456-7620",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  13
+                ]
+              ],
+              "date-time": "2026-11-13T09:51:29Z",
+              "timestamp": 1794563489588,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004357723",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004357709",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004357723_004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2018-03-20T16:02:10Z",
+              "timestamp": 1521561730000
+            },
+            "page": "63-93",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Explicating Emotion Concepts across Languages and Cultures"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Ten Lectures on Natural Semantic MetaLanguage"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/35972",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2026-03-20T05:04:55Z",
+              "timestamp": 1773983095000
+            },
+            "score": 33.23093,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004357723",
+              "9789004357709"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004357723_004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004357723",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            }
+          },
+          {
+            "institution": [
+              {
+                "name": "Koninklijke Brill NV",
+                "acronym": [
+                  "BRILL"
+                ]
+              }
+            ],
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  3,
+                  7
+                ]
+              ],
+              "date-time": "2025-03-07T01:05:37Z",
+              "timestamp": 1741309537851,
+              "version": "3.38.0"
+            },
+            "reference-count": 0,
+            "publisher": "Walter de Gruyter GmbH",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1163/2773-1952_hcso_com_0105",
+            "type": "dataset",
+            "created": {
+              "date-parts": [
+                [
+                  2024,
+                  4,
+                  8
+                ]
+              ],
+              "date-time": "2024-04-08T09:59:19Z",
+              "timestamp": 1712570359000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Natural Semantic Metalanguage (NSM) Approach"
+            ],
+            "prefix": "10.1163",
+            "member": "374",
+            "container-title": [
+              "Handbook of Cognitive Semantics Online"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  30
+                ]
+              ],
+              "date-time": "2024-09-30T11:29:45Z",
+              "timestamp": 1727695785000
+            },
+            "score": 32.98522,
+            "resource": {
+              "primary": {
+                "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  3,
+                  29
+                ]
+              ],
+              "date-time": "2022-03-29T18:40:38Z",
+              "timestamp": 1648579238930
+            },
+            "reference-count": 0,
+            "publisher": "Hampstead Psychological Associates",
+            "issue": "5",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJRP"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "DOI": "10.37200/ijpr/v24i5/pr2020792",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:13Z",
+              "timestamp": 1593428053000
+            },
+            "page": "7915-7923",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "prefix": "10.37200",
+            "volume": "24",
+            "author": [
+              {
+                "given": "Ni Putu Candra",
+                "family": "Gunasari",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "23331",
+            "published-online": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of Psychosocial Rehabilitation"
+            ],
+            "original-title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:16Z",
+              "timestamp": 1593428056000
+            },
+            "score": 32.80156,
+            "resource": {
+              "primary": {
+                "URL": "https://www.psychosocial.com/article/PR2020792/31525/"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "5",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.37200/ijpr/v24i5/pr2020792",
+            "ISSN": [
+              "1475-7192"
+            ],
+            "issn-type": [
+              {
+                "value": "1475-7192",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  29
+                ]
+              ],
+              "date-time": "2023-12-29T13:49:47Z",
+              "timestamp": 1703857787418
+            },
+            "reference-count": 0,
+            "publisher": "Universitas Sumatera Utara",
+            "issue": "1",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2022,
+                      12,
+                      20
+                    ]
+                  ],
+                  "date-time": "2022-12-20T00:00:00Z",
+                  "timestamp": 1671494400000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://creativecommons.org/licenses/by-sa/4.0"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "int. j. linguist. Sumat. malay."
+            ],
+            "abstract": "<jats:p>Academics are always interested in debating the study of emotions across cultures and languages. This is due to the diverse ways that emotions can be expressed in different contexts and situations in each language and culture. This article aims to discuss the meaning of Balinese Lexicons dealing with emotions. The theory applied is Natural Semantic Metalanguage (NSM) with two at once approaches, namely mapping and explication. The results showed that there is something good happened, represented by the lexicons: demen, kendel, and lédang, and something bad happened: sebet, inguh, and gedeg. The most interesting findings are the lexicon angob ‘surprise’ having semantic feature of something good might happen and ngon ‘surprise’ due to the something bad might happen. This can be inferred that there is an in-between position, not something good nor bad happened in the concerned Balinese emotion lexicons.</jats:p>",
+            "DOI": "10.32734/ijlsm.v1i1.10568",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "page": "16-22",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Balinese Emotion Lexicons: A Natural Semantic Metalanguage Approach"
+            ],
+            "prefix": "10.32734",
+            "volume": "1",
+            "author": [
+              {
+                "given": "I Nengah",
+                "family": "Sudipa",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "17744",
+            "published-online": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal on Linguistics of Sumatra and Malay"
+            ],
+            "link": [
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "score": 32.37289,
+            "resource": {
+              "primary": {
+                "URL": "https://talenta.usu.ac.id/lsm/article/view/10568"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "1",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2022,
+                    12,
+                    1
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.32734/ijlsm.v1i1.10568",
+            "ISSN": [
+              "2986-3848"
+            ],
+            "issn-type": [
+              {
+                "value": "2986-3848",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  30
+                ]
+              ],
+              "date-time": "2026-04-30T21:35:01Z",
+              "timestamp": 1777584901722,
+              "version": "3.51.4"
+            },
+            "reference-count": 5,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2012,
+                      7,
+                      1
+                    ]
+                  ],
+                  "date-time": "2012-07-01T00:00:00Z",
+                  "timestamp": 1341100800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+              }
+            ],
+            "content-domain": {
+              "domain": [
+                "journals.sagepub.com"
+              ],
+              "crossmark-restriction": true
+            },
+            "short-container-title": [
+              "Emotion Review"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "abstract": "<jats:p>When it comes to communication of pain, Anna Wierzbicka (2012) takes issue with the scientific definition of pain and turns to natural semantic metalanguage (NSM). However, “pain” is not one of the 64 semantic primes in NSM, and therefore Wierzbicka suggests words such as “body,” “bad,” and “don’t want.” This blurs the boundaries between pain and other aversive sensations and it also challenges certain clinical features of the pain experience.</jats:p>",
+            "DOI": "10.1177/1754073912439769",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2012-07-03T11:41:01Z",
+              "timestamp": 1341315661000
+            },
+            "page": "320-321",
+            "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Defining Pain: Natural Semantic Metalanguage Meets IASP: A Comment on Wierzbicka’s “Is Pain a Human Universal? A Cross-Linguistic and Cross-Cultural Perspective on Pain”"
+            ],
+            "prefix": "10.1177",
+            "volume": "4",
+            "author": [
+              {
+                "given": "Ephrem",
+                "family": "Fernandez",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Department of Psychology, The University of Texas at San Antonio, USA"
+                  }
+                ],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "179",
+            "published-online": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ]
+            },
+            "reference": [
+              {
+                "key": "bibr1-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jpain.2010.10.011"
+              },
+              {
+                "key": "bibr2-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/0304-3959(75)90044-5"
+              },
+              {
+                "key": "bibr3-1754073912439769",
+                "volume-title": "Classification of chronic pain, 2nd ed. Part III: Pain terms, a current list with definitions and notes on usage. IASP task force on taxonomy",
+                "author": "Merskey H.",
+                "year": "1994"
+              },
+              {
+                "key": "bibr4-1754073912439769",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantic primes and universals",
+                "author": "Wierzbicka A.",
+                "year": "1996"
+              },
+              {
+                "key": "bibr5-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/1754073912439761"
+              }
+            ],
+            "container-title": [
+              "Emotion Review"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1754073912439769",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2026-04-28T19:57:02Z",
+              "timestamp": 1777406222000
+            },
+            "score": 31.648432,
+            "resource": {
+              "primary": {
+                "URL": "https://journals.sagepub.com/doi/10.1177/1754073912439769"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "references-count": 5,
+            "journal-issue": {
+              "issue": "3",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2012,
+                    7
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "10.1177/1754073912439769"
+            ],
+            "URL": "https://doi.org/10.1177/1754073912439769",
+            "ISSN": [
+              "1754-0739",
+              "1754-0747"
+            ],
+            "issn-type": [
+              {
+                "value": "1754-0739",
+                "type": "print"
+              },
+              {
+                "value": "1754-0747",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  18
+                ]
+              ],
+              "date-time": "2026-09-18T05:55:03Z",
+              "timestamp": 1789710903824,
+              "version": "4.0.1"
+            },
+            "edition-number": "1",
+            "reference-count": 1,
+            "publisher": "Routledge",
+            "isbn-type": [
+              {
+                "value": "9781351034708",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2021,
+                  5,
+                  19
+                ]
+              ]
+            },
+            "DOI": "10.4324/9781351034708-7",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  19
+                ]
+              ],
+              "date-time": "2021-04-19T14:42:18Z",
+              "timestamp": 1618843338000
+            },
+            "page": "93-110",
+            "source": "Crossref",
+            "is-referenced-by-count": 15,
+            "title": [
+              "Natural Semantic Metalanguage"
+            ],
+            "prefix": "10.4324",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "301",
+            "reference": [
+              {
+                "key": "ref6",
+                "doi-asserted-by": "crossref",
+                "unstructured": "Bromhead, H. (2018). Landscape and culture—Cross-linguistic perspectives. Amsterdam: John Benjamins. (Semantic studies of landscape terms with an experientialist and culture-sensitive orientation.)",
+                "DOI": "10.1075/clscc.9"
+              }
+            ],
+            "container-title": [
+              "The Routledge Handbook of Cognitive Linguistics"
+            ],
+            "language": "en",
+            "deposited": {
+              "date-parts": [
+                [
+                  2021,
+                  5,
+                  19
+                ]
+              ],
+              "date-time": "2021-05-19T20:03:42Z",
+              "timestamp": 1621454622000
+            },
+            "score": 31.190483,
+            "resource": {
+              "primary": {
+                "URL": "https://www.taylorfrancis.com/books/9781351034692/chapters/10.4324/9781351034708-7"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2021,
+                  5,
+                  19
+                ]
+              ]
+            },
+            "ISBN": [
+              "9781351034708"
+            ],
+            "references-count": 1,
+            "URL": "https://doi.org/10.4324/9781351034708-7",
+            "published": {
+              "date-parts": [
+                [
+                  2021,
+                  5,
+                  19
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 8,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Lao Enfield heart caj emotion",
+    "error": "429"
+  }
+]

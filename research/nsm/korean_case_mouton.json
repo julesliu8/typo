@@ -1,0 +1,1495 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 23088,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T10:26:58Z",
+          "timestamp": 1794392818955,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110152180",
+            "type": "print"
+          },
+          {
+            "value": "9783110814781",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1997,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110814781.69",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              8,
+              11
+            ]
+          ],
+          "date-time": "2011-08-11T10:22:10Z",
+          "timestamp": 1313058130000
+        },
+        "page": "69-97",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Chapter 3: Dative and nominative experiencers"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Cognitive Semantics and the Polish Dative"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110814781.69/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110814781.69/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2026-04-15T22:26:58Z",
+          "timestamp": 1776292018000
+        },
+        "score": 34.507187,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110814781.69/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1997,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110152180",
+          "9783110814781"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110814781.69",
+          "10.1515/9783110814781"
+        ],
+        "URL": "https://doi.org/10.1515/9783110814781.69",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110814781",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1997,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T14:23:36Z",
+          "timestamp": 1794493416372,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110343861",
+            "type": "print"
+          },
+          {
+            "value": "9783110346978",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              16
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110346978.181",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              2,
+              12
+            ]
+          ],
+          "date-time": "2015-02-12T12:54:45Z",
+          "timestamp": 1423745685000
+        },
+        "page": "181-202",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "From accusative to dative (via nominative): The case of fjölga ‘increase’ and fækka ‘decrease’ in Icelandic"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Margrét",
+            "family": "Jónsdóttir",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "New Trends in Nordic and General Linguistics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110346978.181/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110346978.181/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2025-05-21T18:17:12Z",
+          "timestamp": 1747851432000
+        },
+        "score": 29.597868,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110346978.181/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              16
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110343861",
+          "9783110346978"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110346978.181",
+          "10.1515/9783110346978"
+        ],
+        "URL": "https://doi.org/10.1515/9783110346978.181",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110346978",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2026-04-11T16:52:21Z",
+          "timestamp": 1775926341474,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "6",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1994
+            ]
+          ]
+        },
+        "DOI": "10.1515/ling.1994.32.6.1029",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2009-11-22T15:05:03Z",
+          "timestamp": 1258902303000
+        },
+        "page": "1029-1054",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Dative and nominative experiencers: two folk theories of the mind"
+        ],
+        "prefix": "10.1515",
+        "volume": "32",
+        "author": [
+          {
+            "given": "EWA",
+            "family": "DĄBROWSKA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2009,
+              11,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "ling"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling.1994.32.6.1029/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling.1994.32.6.1029/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2022-09-27T15:34:56Z",
+          "timestamp": 1664292896000
+        },
+        "score": 27.295351,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling.1994.32.6.1029/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1994
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "6",
+          "published-online": {
+            "date-parts": [
+              [
+                2009,
+                11,
+                22
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                1994
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1515/ling.1994.32.6.1029"
+        ],
+        "URL": "https://doi.org/10.1515/ling.1994.32.6.1029",
+        "ISSN": [
+          "0024-3949",
+          "1613-396X"
+        ],
+        "issn-type": [
+          {
+            "value": "0024-3949",
+            "type": "print"
+          },
+          {
+            "value": "1613-396X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1994
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              2
+            ]
+          ],
+          "date-time": "2022-04-02T18:07:43Z",
+          "timestamp": 1648922863651
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "157",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1975
+            ]
+          ]
+        },
+        "DOI": "10.1515/ling.1975.13.157.33",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              11,
+              20
+            ]
+          ],
+          "date-time": "2009-11-20T12:47:36Z",
+          "timestamp": 1258721256000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "ON THE RELATIONSHIP OF THE ERGATIVE SENTENCE CONSTRUCTION TO NOMINATIVE, GENITIVE, AND DATIVE CONSTRUCTIONS"
+        ],
+        "prefix": "10.1515",
+        "volume": "13",
+        "author": [
+          {
+            "given": "T. I.",
+            "family": "DEŠERIEVA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Linguistics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling.1975.13.157.33/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2021-04-22T04:11:28Z",
+          "timestamp": 1619064688000
+        },
+        "score": 27.015808,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling.1975.13.157.33/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1975
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "157"
+        },
+        "URL": "https://doi.org/10.1515/ling.1975.13.157.33",
+        "ISSN": [
+          "0024-3949",
+          "1613-396X"
+        ],
+        "issn-type": [
+          {
+            "value": "0024-3949",
+            "type": "print"
+          },
+          {
+            "value": "1613-396X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1975
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              2
+            ]
+          ],
+          "date-time": "2024-11-02T04:12:25Z",
+          "timestamp": 1730520745072,
+          "version": "3.28.0"
+        },
+        "reference-count": 62,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              27
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Japanese psychological nouns (psych nouns)<jats:italic>suki</jats:italic>‘like’ and<jats:italic>kirai</jats:italic>‘dislike’ mark their objects with nominative or accusative case, but it is unclear what circumstances make accusative objects acceptable. Two acceptability judgment experiments manipulating object case, object animacy, and the psych nouns’ syntactic environment (copular, inchoative, relative clause) show significantly lower acceptability of accusative than nominative objects in copular and relative clauses, but no significant difference in inchoative clauses. A proposed account for these findings is that psych nouns can be nominalized VoicePs, in which case their projections contain external and event arguments and their objects are accusative-licensed, or nominalized VPs, in which case no external or event argument is available, and their objects are caseless and marked with nominative as the default case. The experiments also reveal a significant interaction between object animacy and case with<jats:italic>suki</jats:italic>‘like’, suggesting the possibility that this is an emerging differential object-marking. (148)</jats:p>",
+        "DOI": "10.1515/jjl-2023-2012",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              8
+            ]
+          ],
+          "date-time": "2023-11-08T09:39:50Z",
+          "timestamp": 1699436390000
+        },
+        "page": "169-211",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Deverbal psych nominals and nominative-accusative object case alternation in Japanese: an experimental study"
+        ],
+        "prefix": "10.1515",
+        "volume": "39",
+        "author": [
+          {
+            "given": "Shin",
+            "family": "Fukuda",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Linguistics , University of Hawai‘i at Mānoa , Honolulu , HI , USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              9
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Adger, David & Gillian Ramchand. 2003. Predication and equation. Linguistic Inquiry 34(3). 325–360. https://doi.org/10.1162/002438903322247515.",
+            "DOI": "10.1162/002438903322247515"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_002",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aissen, Judith. 2003. Differential object marking: Iconicity vs. economy. Natural Language & Linguistic Theory 21. 435–483. https://doi.org/10.1023/a:1024109008573.",
+            "DOI": "10.1023/A:1024109008573"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Amith, Jonathan D. & Thomas C. Smith-Stark. 1994. Transitive nouns and split possessive paradigms in Central Guerrero Nahuatl. International Journal of American Linguistics 60(4). 342–368. https://doi.org/10.1086/466241.",
+            "DOI": "10.1086/466241"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_004",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Baker, Mark & Nadya Vinokurova. 2010. Two modalities of case assignment: Case in Sakha. Natural Language & Linguistic Theory 28. 593–642. https://doi.org/10.1007/s11049-010-9105-1.",
+            "DOI": "10.1007/s11049-010-9105-1"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bossong, Georg. 1991. Differential object marking in Romance and beyond. In Dieter Wanner & Douglas A. Kibbee (eds.), New analyses in Romance linguistics, 143–170. Amsterdam: John Benjamins.",
+            "DOI": "10.1075/cilt.69.14bos"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bruening, Benjamin. 2014. Precede-and-command revisited. Language 90(2). 342–388. https://doi.org/10.1353/lan.2014.0037.",
+            "DOI": "10.1353/lan.2014.0037"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_007",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Caluianu, Daniela. 2009. Transitive adjectives in Japanese. In Jóhanna Borðdal & Shobhana L. Chelliah (eds.), The role of semantics, pragmatic, and discourse factors in the development of case, 225–257. Amsterdam: John Benjamins.",
+            "DOI": "10.1075/slcs.108.13cal"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_008",
+            "unstructured": "Cowart, Wayne. 1997. Experimental syntax: Applying objective methods to sentence judgments. Thousand Oaks, CA: Sage."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Danon, Gabi. 2006. Caseless nominals and the projection of DP. Natural Language & Linguistic Theory 24. 977–1008. https://doi.org/10.1007/s11049-006-9005-6.",
+            "DOI": "10.1007/s11049-006-9005-6"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "de Hoop, Helen & Andrej Malchukov. 2007. On fluid differential case marking: A bidirectional OT approach. Lingua 117. 1636–1656. https://doi.org/10.1016/j.lingua.2006.06.010.",
+            "DOI": "10.1016/j.lingua.2006.06.010"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_011",
+            "unstructured": "Diesing, Molly. 1992. Indefinites. Cambridge, MA: MIT Press."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_012",
+            "unstructured": "Drummond, Alex. 2013. Ibex farm. Available at: https://spellout.net/ibexfarm/."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_013",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dubinsky, Stanley. 1992. Case assignment to VP-adjoined positions: Nominative objects in Japanese. Linguistics 30. 873–910. https://doi.org/10.1515/ling.1992.30.5.873.",
+            "DOI": "10.1515/ling.1992.30.5.873"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_014",
+            "unstructured": "Enç, Mürvet. 1991. The semantics of specificity. Linguistic Inquiry 22. 1–25."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_015",
+            "unstructured": "Fukui, Naoki. 1986. Theory of category projection and its applications. MIT Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fukui, Naoki & Taisuke Nishigauchi. 1992. Head-movement and case-marking in Japanese. Journal of Japanese Linguistics 14. 1–35. https://doi.org/10.1515/jjl-1992-0102.",
+            "DOI": "10.1515/jjl-1992-0102"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_017",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Harley, Heidi. 2009. The morphology of nominalizations and the syntax of vP. In Anastasia Giannakidou & Monika Rathert (eds.), Quantification, definiteness, and nominalization, 321–343. Oxford: Oxford University Press.",
+            "DOI": "10.1093/oso/9780199541089.003.0013"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_018",
+            "unstructured": "Heggie, Lorie A. 1988. The syntax of copular structures. University of Southern California Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_019",
+            "unstructured": "Heycock, Caroline. 1994. Layers of predication: The non-lexical syntax of clauses. New York: Garland."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_020",
+            "unstructured": "Iida, Masayo. 1987. Case-assignment by nominals in Japanese. In Masayo Iida, Stephen Wechsler & Draga Zec (eds.), Working papers in grammatical theory and discourse structure: Interaction of morphology, syntax and discourse, 93–138. Stanford, CA: CLSI."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_021",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kageyama, Taro. 1982. Word formation in Japanese. Lingua 57. 215–258. https://doi.org/10.1016/0024-3841(82)90005-5.",
+            "DOI": "10.1016/0024-3841(82)90005-5"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_022",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kalin, Laura. 2018. Licensing and differential object marking: The view from Neo-Aramaic. Syntax 21. 112–159. https://doi.org/10.1111/synt.12153.",
+            "DOI": "10.1111/synt.12153"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_023",
+            "unstructured": "Kang, Seung-Man. 1998. The syntax and morphology of default case. University of Florida Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_024",
+            "unstructured": "Koizumi, Masatoshi. 1994. Nominative objects: The role of TP in Japanese. In Masatoshi Koizumi & Hiroyuki Ura (eds.), Formal approaches to Japanese linguistics, Vol. 1, 211–230. Cambridge, MA: MITWPL."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_025",
+            "unstructured": "Kratzer, Angelika. 1994. On external arguments. Functional Projections: University of Massachusetts Occasional Papers 17. 103–130."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_026",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kratzer, Angelika. 1996. Severing the external argument from the verb. In Johan Rooryck & Laurie A. Zariing (eds.), Phrase structure and the lexicon, 109–137. Dordrecht: Kluwer.",
+            "DOI": "10.1007/978-94-015-8617-7_5"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kratzer, Angelika. 1998. Scope or pseudoscope? Are there wide-scope indefinites? In Susan Rothstein (ed.), Events and grammar, 163–196. Dordrecht: Kluwer.",
+            "DOI": "10.1007/978-94-011-3969-4_8"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_028",
+            "unstructured": "Kuno, Susumu. 1973. The structure of the Japanese language. Cambridge, MA: MIT Press."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_029",
+            "unstructured": "Kuroda, Shige-Yuki. 1988. Whether we agree or not: A comparative syntax of English and Japanese. In William Poser (ed.), Papers from the Second International Workshop on Japanese Syntax, 103–143. Stanford, CA: CSLI."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kush, Dave, Terje Lohndal & Jon Sprouse. 2018. Investigating variation in island effects: A case study of Norwegian wh-extraction. Natural Language & Linguistic Theory 36. 743–779. https://doi.org/10.1007/s11049-017-9390-z.",
+            "DOI": "10.1007/s11049-017-9390-z"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_031",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kush, Dave, Terje Lohndal & Jon Sprouse. 2019. On the island sensitivity of topicalization in Norwegian: An experimental investigation. Language 95. 393–420. https://doi.org/10.1353/lan.0.0237.",
+            "DOI": "10.1353/lan.2019.0051"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_032",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kuznetsova, Alexandra, Per B. Brockhoff & Rune H. B. Christensen. 2017. lmerTest Package: Tests in linear mixed effects models. Journal of Statistical Software 82(13). 1–26. https://doi.org/10.18637/jss.v082.i13.",
+            "DOI": "10.18637/jss.v082.i13"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_033",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Legate, Julie Anne. 2008. Morphological and abstract case. Linguistic Inquiry 39(1). 55–101. https://doi.org/10.1162/ling.2008.39.1.55.",
+            "DOI": "10.1162/ling.2008.39.1.55"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_034",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Levin, Theodore. 2019. On the nature of differential object marking: Insights from Palauan. Natural Language & Linguistic Theory 37. 167–213. https://doi.org/10.1007/s11049-018-9412-5.",
+            "DOI": "10.1007/s11049-018-9412-5"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_035",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lidz, Jeffrey. 2006. The grammar of accusative case in Kannada. Language 82. 10–32. https://doi.org/10.1353/lan.2006.0054.",
+            "DOI": "10.1353/lan.2006.0054"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_036",
+            "doi-asserted-by": "crossref",
+            "unstructured": "López, Luis. 2012. Indefinite objects: Scrambling, choice functions, and differential marking. Cambridge, MA: MIT Press.",
+            "DOI": "10.7551/mitpress/9165.001.0001"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_037",
+            "unstructured": "Lowe, John J. 2013. Transitive nouns and adjectives. Oxford: Oxford University Press."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_038",
+            "unstructured": "Maki, Hideki, Kana Ito, Megumi Hasebe, Kenichi Goto, Michiyo Hamasaki, Takashi Munakata & Yukiko Ueda. 2010. The nominative/accusative alternation in the transitive adjective construction in Modern Japanese: An ANOVA analysis. In Yukio Otsu (ed.), The proceedings of the Tenth Tokyo Conference on Psycholinguistics, 167–191. Tokyo: Hituzi Syobo."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_039",
+            "unstructured": "Maki, Hideki & Tamami Morishima. 2004. A statistical analysis of the nominative/accusative alternation in Japanese. In Proceedings of the 2004 Linguistic Society of Korea International Conference, Volume II: General Sessions, 309–318. Seoul: Linguistic Society of Korea (LSK)/Yonsei Institute of Language and Information Studies (ILIS)/Hansin Publishing Company."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_062",
+            "unstructured": "Makino, Seiichi. 1996. Uchi to soto no gengobunkagaku – bunpoo o bunka de kiru [The cultural linguistics of inner circle and outer circule – analyzing grammar through culture]. Tokyo: Kaitakusha."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_040",
+            "unstructured": "Martin, Samuel E. 1975. A reference grammar of Japanese. Tokyo: Charles E. Tuttle."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_041",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mikkelsen, Lina. 2005. Copular clauses: Specification, predication, and equation. Amsterdam: John Benjamins.",
+            "DOI": "10.1075/la.85"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_042",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Miyagawa, Shigeru. 1987. Lexical categories in Japanese. Lingua 73. 23–51. https://doi.org/10.1016/0024-3841(87)90013-1.",
+            "DOI": "10.1016/0024-3841(87)90013-1"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_043",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Moro, Andrea. 1997. The raising of predicates: Predicative noun phrases and the theory of clause structure. Cambridge: Cambridge University Press.",
+            "DOI": "10.1017/CBO9780511519956"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_044",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nishiyama, Kunio. 1999. Adjectives and the copulas in Japanese. Journal of East Asian Linguistics 8(3). 183–222. https://doi.org/10.1023/a:1008395915524.",
+            "DOI": "10.1023/A:1008395915524"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_045",
+            "unstructured": "R Core Team. 2015. R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing. Available at: https://www.R-project.org/."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_046",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rothstein, Susan. 2004. Predicates and their subjects. Dordrecht: Kluwer.",
+            "DOI": "10.1007/978-94-010-0690-3"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Roy, Isabelle A. 2013. Non-verbal predication: Copular sentences at the syntax-semantics interface. Oxford: Oxford University Press.",
+            "DOI": "10.1093/acprof:oso/9780199543540.001.0001"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_048",
+            "unstructured": "Saito, Mamoru. 1982. Case marking in Japanese: A preliminary study. MIT Ms."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_049",
+            "unstructured": "Saito, Mamoru. 1985. Some asymmetries in Japanese and their theoretical implications. MIT Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_050",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schütze, Carson T. 2001. On the nature of default case. Syntax 4(3). 205–238. https://doi.org/10.1111/1467-9612.00044.",
+            "DOI": "10.1111/1467-9612.00044"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_051",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schütze, Carson T. & Jon Sprouse. 2013. Judgment data. In Rob J. Podesva & Devyani Sharma (eds.), Research methods in linguistics, 27–50. New York: Cambridge University Press.",
+            "DOI": "10.1017/CBO9781139013734.004"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_052",
+            "unstructured": "Shibatani, Masatoshi. 1978. Nihongo no bunseki [An analysis of Japanese]. Tokyo: Taishukan."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_053",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stowell, Tim. 1983. Subjects across categories. Linguistic Review 2(3). 285–312.",
+            "DOI": "10.1515/tlir-1983-020305"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_054",
+            "unstructured": "Sugioka, Yoko. 1984. Interaction of derivational morphology and syntax in Japanese and English. University of Chicago Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_055",
+            "unstructured": "Takezawa, Koichi. 1987. A configurational approach to case-marking in Japanese. University of Washington Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_056",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Torrego, Esther. 1998. The dependencies of object. Cambridge, MA: MIT Press.",
+            "DOI": "10.7551/mitpress/2337.001.0001"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_057",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tsujimura, Natsuko. 1992. Licensing nominal clauses: The case of deverbal nominals in Japanese. Natural Language & Linguistic Theory 10. 477–522. https://doi.org/10.1007/bf00133371.",
+            "DOI": "10.1007/BF00133371"
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_058",
+            "unstructured": "Urushibara, Saeko. 1993. Syntactic categories and extended projections in Japanese. Brandeis University Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_059",
+            "unstructured": "von Prince, Kilu. 2012. Nominal possession in Daakaka: Transitivizing vs. linking. In Lauren E. Clemens, Gregory Scontras & Maria Polinsky (eds.), Proceedings of the Eighteenth Meeting of the Austronesian Formal Linguistics Association (AFLA), 156–170. Cambridge, MA: Harvard University."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_060",
+            "unstructured": "Yamakido, Hiroko. 2005. The nature of adjectival inflection in Japanese. Stony Brook University Doctoral Dissertation."
+          },
+          {
+            "key": "2023110809394807728_j_jjl-2023-2012_ref_061",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zimmermann, Malte. 2007. Overt existential closure in Bura (Central Chadic). In Tova Friedman & Masayuki Gibson (eds.), Proceedings of Semantic and Linguistic Theory 17, 333–353. Ithaca, NY: Cornell University.",
+            "DOI": "10.3765/salt.v17i0.2965"
+          }
+        ],
+        "container-title": [
+          "Journal of Japanese Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jjl-2023-2012/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jjl-2023-2012/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2024-11-01T17:02:38Z",
+          "timestamp": 1730480558000
+        },
+        "score": 26.025972,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/jjl-2023-2012/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ]
+        },
+        "references-count": 62,
+        "journal-issue": {
+          "issue": "2",
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                27
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1515/jjl-2023-2012"
+        ],
+        "URL": "https://doi.org/10.1515/jjl-2023-2012",
+        "ISSN": [
+          "0197-3150",
+          "2512-1413"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0197-3150"
+          },
+          {
+            "type": "electronic",
+            "value": "2512-1413"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              11
+            ]
+          ],
+          "date-time": "2026-02-11T01:52:46Z",
+          "timestamp": 1770774766769,
+          "version": "3.50.0"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "4",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1999
+            ]
+          ]
+        },
+        "DOI": "10.1515/tlir.1999.16.4.333",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              22
+            ]
+          ],
+          "date-time": "2009-10-22T14:56:50Z",
+          "timestamp": 1256223410000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Psych-adjectives and semantic selection"
+        ],
+        "prefix": "10.1515",
+        "volume": "16",
+        "author": [
+          {
+            "given": "IDAN",
+            "family": "LANDAU",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "The Linguistic Review"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/tlir.1999.16.4.333/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2021-04-22T04:40:23Z",
+          "timestamp": 1619066423000
+        },
+        "score": 23.464197,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/tlir.1999.16.4.333/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1999
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "4"
+        },
+        "URL": "https://doi.org/10.1515/tlir.1999.16.4.333",
+        "ISSN": [
+          "0167-6318",
+          "1613-3676"
+        ],
+        "issn-type": [
+          {
+            "value": "0167-6318",
+            "type": "print"
+          },
+          {
+            "value": "1613-3676",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1999
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              3
+            ]
+          ],
+          "date-time": "2022-04-03T20:55:54Z",
+          "timestamp": 1649019354944
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "6",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              11,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Dative shift is a two-fold process that affects both the morphological coding and the order of T and R arguments of a three-participant construction, as in <jats:italic>the teacher gave a book to the student</jats:italic> vs. <jats:italic>the teacher gave the student a book</jats:italic>. Across languages, dative shift tends to express similar functions including differences in animacy, definiteness, semantic role of arguments, affectedness of recipient and permanence of transfer. This is understandable, since dative shift increases the formal transitivity of the affected clauses, and all the expressed functions are somehow related to transitivity. The goal of this paper is to study whether, and to what extent, mere changes in word order suffice to express the functions of dative shift. The examined language is Finnish, which suits very well for this purpose due to its relatively free word order and inherently different coding of Theme and Recipient. It can be hypothesized that mere word order changes readily express features related to definiteness and animacy, while they are less capable of expressing features such as affectedness of the recipient.</jats:p>",
+        "DOI": "10.1515/ling-2014-0026",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2021-02-28T09:09:55Z",
+          "timestamp": 1614503395000
+        },
+        "page": "1461-1498",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Dative shift in a language without dative? The (allative) case of Finnish"
+        ],
+        "prefix": "10.1515",
+        "volume": "52",
+        "author": [
+          {
+            "given": "Seppo",
+            "family": "Kittilä",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "General Linguistics, P.O. Box 24, 00014 University of Helsinki, Finland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              16
+            ]
+          ]
+        },
+        "container-title": [
+          "Linguistics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling-2014-0026/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling-2014-0026/html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2021-02-28T09:09:55Z",
+          "timestamp": 1614503395000
+        },
+        "score": 21.490362,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/ling-2014-0026/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              16
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "6",
+          "published-online": {
+            "date-parts": [
+              [
+                2014,
+                10,
+                16
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2014,
+                11,
+                1
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1515/ling-2014-0026"
+        ],
+        "URL": "https://doi.org/10.1515/ling-2014-0026",
+        "ISSN": [
+          "1613-396X",
+          "0024-3949"
+        ],
+        "issn-type": [
+          {
+            "value": "1613-396X",
+            "type": "electronic"
+          },
+          {
+            "value": "0024-3949",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T03:06:49Z",
+          "timestamp": 1794452809258,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110126723",
+            "type": "print"
+          },
+          {
+            "value": "9783110867930",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110867930.113",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              24
+            ]
+          ],
+          "date-time": "2013-07-24T19:15:50Z",
+          "timestamp": 1374693350000
+        },
+        "page": "113-138",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "4. Comparison of cognitive networks – the Russian dative"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Geography of Case Semantics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110867930.113/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110867930.113/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T11:37:41Z",
+          "timestamp": 1776339461000
+        },
+        "score": 21.48537,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110867930.113/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110126723",
+          "9783110867930"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110867930.113",
+          "10.1515/9783110867930"
+        ],
+        "URL": "https://doi.org/10.1515/9783110867930.113",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110867930",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

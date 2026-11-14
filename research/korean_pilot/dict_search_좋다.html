@@ -1,0 +1,3076 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+
+
+
+<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>한국어기초사전</title>
+    <link rel="shortcut icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/images/mobIcon/android-icon-72x72.png"/>
+	<link rel="icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link type="text/css" rel="stylesheet" href="/css/2020_style.css">
+	<link type="text/css" rel="stylesheet" href="/css/print-preview.css">
+	<link type="text/css" rel="stylesheet" href="/css/jquery-ui-1.10.4.css">
+	<link type="text/css" rel="stylesheet" href="/VK/css/new_small/keyboard.css">
+	
+	<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/common.js"></script>
+	<script type="text/javascript" src="/js/2020_common.js"></script>
+	<script type="text/javascript" src="/js/DQCommon.js"></script>
+	<script type="text/javascript" src="/js/soundmanager2.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/dropzone.js"></script>
+	<script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.sliderkit.1.9.2.pack.js"></script>
+	<script type="text/javascript" src="/js/print/jquery.print-preview.js"></script>
+	<script type="text/javascript" src="/js/MD5.js"></script>
+	<script type="text/javascript" src="/js/url.min.js"></script>
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&vk_skin=new_small" ></script>
+	<script type="text/javascript" src="/js/player.js"></script>
+	<script type="text/javascript" src="/VK/extensions/scriptqueue.js" ></script>
+	<script type="text/javascript" src="/VK/extensions/e.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/virtualkeyboard.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/layouts/layouts.js" onload="return 1;" charset="UTF-8"></script>
+	
+	<script type="text/javascript" src="/js/smallDic_dqCommon.js"></script>
+	<script type="text/javascript" src="/js/head_dqAutoCompleteCommon.js"></script> 
+	
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&amp;vk_skin=new_small"></script>
+	
+	
+	
+	<script type="text/javascript">
+		var winLoc = window.location.toString();
+		if (winLoc.match(/flash9/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 9
+			});
+			if (winLoc.match(/highperformance/i)) {
+				soundManager.setup({
+					useHighPerformance : true
+				});
+			}
+		} else if (winLoc.match(/flash8/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 8
+			});
+		}
+		soundManager.setup({
+			useFlashBlock : true,
+			url : '/js/',
+			html5PollingInterval : (winLoc.match(/html5PollingInterval/i) ? 20
+					: null),
+			debugMode : false,
+			consoleOnly : false
+		});
+		soundManager.onready(function(oStatus) {
+			if (!oStatus.success) {
+				return false;
+			}
+			if (soundManager.flashVersion > 8) {
+				t = window.setInterval(checkRAM, 500);
+				document.getElementById('flash-ram-use').style.display = 'inline';
+				checkRAM();
+			}
+		});
+		function checkRAM() {
+			if (soundManager.supported()) {
+				var ram = (soundManager.getMemoryUse() / 1024 / 1024).toFixed(2);
+				if (!isNaN(ram)) {
+					document.getElementById('flash-ram-use').innerHTML = ram
+							+ ' MB';
+				} else {
+					document.getElementById('flash-ram-use').style.display = 'none';
+				}
+			}
+		}
+
+		$(function () {
+			$("a.print").printPreview()
+		})
+
+	</script>
+
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="e8baf163-1cba-4c72-8b25-d6331bb97bbb" />
+<script type="text/javascript">
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+		type: 'GET',
+		dataType:'json',
+		beforeSend: function (xhr) {
+	         const csrf = $("meta[name='_csrf']").attr("content");
+	         const csrf_header = $("meta[name='_csrf_header']").attr("content");
+	         xhr.setRequestHeader(csrf_header, csrf);
+	      },
+		async: false,
+		success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+				var returnData = data.jsonList[0].returnData;
+				for(var i=returnData.length-1; i>=0; i--){
+					var html  = "";
+						html += "<li id='myWord_"+returnData[i].word_no+"'>";
+						html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+						if(returnData[i].sup_no != "0"){
+							html += "<sup>"+returnData[i].sup_no+"</sup>";							
+						}else{
+							html += "<sup>&nbsp;</sup>";
+						}
+						html +="</span></a>";
+						html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+						html += "<img src='/images/2020/btn_del.png' alt='단어 삭제'/>";
+						html += "</a>";
+						html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+						html += "</li>";
+					$("#myWordList").append(html);
+				}
+				var btnHtml = "";
+
+				$("#myWordList").parent().append(btnHtml);
+			}
+		}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    				$("#myWordList").parent().find("button").remove();
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    		}
+    	}
+    });
+}
+
+function fnTwitter(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+function fnFaceBook(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+
+//한글 비교
+function fnKoreanCompare(str){
+	var hangul = /[ㄱ-힣]/g;
+	var checkData = str.match(hangul);
+	var returnFlag = false;
+	
+	if(checkData != null){
+		returnFlag = true;
+	}
+	
+	return returnFlag;
+}
+</script>
+	<script id="btnScript" src="/js/backDisable.js"></script>
+</head>
+<body>
+<div id="wrap" class="manyLang eng">
+	
+
+
+<!--누리집 배너 -->
+<div id="header-top">
+    <div class="toggle-wrap">
+        <div class="toggle-head">
+            <div class="inner">
+                <div class="head_text">
+                    <img class="flag" src="/images/gov_banner/header_flag.png" alt="국기아이콘" />
+                    <span class="nuri-txt">이 누리집은 대한민국 공식 전자정부 누리집입니다.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- header -->
+<div id="header">
+    <div class="header_wrap group">
+        <div class="top_wrap">
+            <ul class="top_left manyLang6">
+                <li><a href="/eng/dicSearch/actCategory">Search by Category</a></li>
+                <li><a href="javascript:fnSmallDic();">Small Window Dictionary <i class="ri-checkbox-multiple-blank-line icon_window"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="captchaSound" style="display:none;"></div>
+<!-- //.header -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var location = document.location.pathname.split("/");
+        location = location[location.length - 1];
+
+        switch(location) {
+            case 'mainAction':
+                $("title").text("Korean - English dictionary");
+                break;
+            case 'search':
+                $("title").text("Korean - English dictionary - Search Results");
+                break;
+            case 'SearchView':
+                $("title").text("Korean - English dictionary - View Dictionary");
+                break;
+        }
+        $("a.print").printPreview();
+
+    });
+
+    //작은창 사전
+    function fnSmallDic(){
+        WinOpen("/eng/smallDic/mainAction","smallDic",440,690);
+    }
+
+    // 검색시 체크
+    function checkSearch() {
+        var query = document.mainSearchF.mainSearchWord.value;
+        var altTitle = "Please enter search item.";
+        var altTitle2 = "Please enter search item.";
+
+        if(checkStr(query, " ", "") == 0) {
+            alert(altTitle);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+
+        if(!checkInvalidStr(query)) {
+            alert(altTitle2);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+        document.mainSearchF.submit();
+    }
+</script>
+
+	<!-- container -->
+	<div id="container" class="accessArea">
+		<div class="inner">
+			
+			<!-- 상단 검색창 -->
+			
+
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="e8baf163-1cba-4c72-8b25-d6331bb97bbb" />
+<!-- search_wrap -->
+<div class="search_wrap notPrint">	
+	<h1 class="logo"><a href="/eng/mainAction"><img src="/images/2020/manyLang/eng_logo_s.jpg" alt="Basic Korean Dictionary"></a></h1>
+	<form name="mainSearchF">
+		<input type="hidden" name="nation" value="eng"/>
+		<input type="hidden" name="nationCode" value="6"/>
+		<input type="hidden" name="ParaWordNo" value=""/>
+		<!-- search_area -->
+		<div id="search_area" class="w500">
+			<div id="search_box">
+				<div class="search_form">
+					<input type="text" id="mainSearchWord" name="mainSearchWord" class="search_input search_query manyLang6" onkeypress="return handleEnter(1,event);" onmousedown="dq_setTextbox('1',event);" onkeydown="dq_setTextbox('1',event);" value="" title="Search word" placeholder="Please enter a word in Korean or English." autocomplete="off">
+				</div>
+				<!-- 자동완성 -->
+				<div class="search_auto_box">
+					<div class="auto_list" id="main_auto_complet" onmouseover="dq_setMouseon();" onmouseout="dq_setMouseoff();">
+					</div>
+				</div>
+				<!--//.자동완성 -->
+			</div>
+			<a href="javascript:fnMultiLanKeyBoardOpen('US');" class="keyboard"><img id="dq_keyboard" src="/images/2020/manyLang/btn_text.png"></a>
+			<a href="javascript:fnSearchWord();" class="search_btn"><i class="ri-search-line"></i><span class="blind">Search</span></a>
+			<a href="/eng/dicSearchDetail/searchDetailWords" class="btn_detail manyLang6">Advanced Search <i class="ri-arrow-right-s-line"></i></a>
+			<script type="text/javascript" src="/js/index_dqAutoCompleteCommon.js"></script>
+			<script type="text/javascript" src="/js/index_dqAutoComplete.js"></script>
+		</div>
+		<!-- //.search_area -->
+		<input type="hidden" name="_csrf" value="e8baf163-1cba-4c72-8b25-d6331bb97bbb" />
+	</form>
+</div>
+
+
+<style type="text/css" media="screen,print">
+#languageSelect select {width:auto; height:25px; font-size:10pt}
+
+.ui-dialog .ui-dialog-title {margin:0;}
+.ui-widget-header {border:none;background:white;}
+.ui-dialog .ui-dialog-titlebar {position:relative;}
+.ui-dialog .ui-dialog-titlebar:before {content:"";position:absolute;left:0;top:40px;width:100%;height:1px;background:#396eb3;}
+
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }
+.selectable { list-style-type: none; margin: 0; padding: 0;}
+.selectable li {border: 1px solid #999;background: #fff;padding: 1px;float: left;width: 24px;height: 24px;text-align: center;cursor:pointer;}
+
+.ui-dialog .ui-dialog-titlebar{padding :0 0;}
+
+.adminStat {border-top:solid 2px #7da2de}
+.adminStat th,.adminStat td.txt_center{padding:0;text-indent:0}
+.adminStat th{background-color:#f3f3f3;text-align:center}
+.adminStat td{height:35px;background-color:#fafafa;text-align:center}
+.adminStat th.top_bd{border-top:solid 2px #d3d3d3}
+.adminStat th.start{border-left:1px solid #d3d3d3}
+.adminStat th.end{border-right:1px solid #fff}
+
+.tab_win_keyboard {width:100%;display:inline-block;}
+.tab_win_keyboard li a {float:left;display:inline-block;width:35%;height:40px;line-height:38px;background:#eff2f5;border:1px solid #ccc;border-bottom:none !important;
+	border-radius:10px 10px 0 0;box-sizing:border-box;font-size:16px;text-align:center;border-left:0;}
+.tab_win_keyboard li:first-child a {border-left:1px solid #ccc}
+.tab_win_keyboard li a.selected {font-weight:bold;color:#fff;background:#396eb3;border:1px solid #396eb3;}
+
+a.btn_gray_keyboard1{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard2{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard3{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard4{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard5{display:inline-block; background:#fff;padding:0px 7px 2px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard6{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard7{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard8{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard9{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard10{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+
+#languageSelect select{border:1px solid #a9a6a6;color:#333; padding:3px;}
+
+::-webkit-input-placeholder {
+   color: #666;
+}
+:-moz-placeholder { /* Firefox 18- */
+   color: #666;  
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #666;  
+}
+:-ms-input-placeholder {  
+   color: #666;  
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: none;
+	background: none;
+	font-weight: normal;
+	color: #555555;
+}
+
+.ui-state-default .ui-icon {
+	background-image: none;
+}
+.ui-widget-header .ui-icon {
+	background-image: none;
+}
+
+.ui-icon,
+.ui-widget-content .ui-icon {
+	background-image: none;
+}
+
+
+.ui-widget-header .ui-state-default {
+	background: #e6e6e6 url(/images/2020/keyboard_close.png) 50% 50% repeat-x;
+}
+
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-left,
+.ui-corner-tl {
+	border-top-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-right,
+.ui-corner-tr {
+	border-top-right-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-left,
+.ui-corner-bl {
+	border-bottom-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-right,
+.ui-corner-br {
+	border-bottom-right-radius: 10px;
+}
+
+.ui-widget-content {
+	border:1px solid #396eb3;
+	background: #ffffff url(/images/jquery/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+	color: #222222;
+}
+</style>
+<script type="text/javascript">
+$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+    _title: function (title) {
+        if (!this.options.title) {
+            title.html("&#160;");
+        }
+        title.html(this.options.title);
+    }
+}));
+
+$(document).ready( function() {
+    $(".selectable > li").click(function() {
+        var tempKeyword = $("#mainSearchWord").val();
+        tempKeyword = tempKeyword + $(this).text();
+        
+        $("#mainSearchWord").val(tempKeyword);
+    });
+    
+    $("#mainSearchWord").bind("keyup",function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $("#mainSearchWord").bind("keydown",function(e){
+        if (!(event.keyCode >=37 && event.keyCode<=40)) {
+             $("#engLanguageLayer").hide();
+        }
+    });
+    
+    $("#td").click(function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $(".languageKey").click(function(){
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(0,returnFocusValue.length-1);
+        $("#mainSearchWord").val(lastWord+$(this).text()+$("#mainSearchWord").val().substr(returnFocusValue.length,$("#mainSearchWord").val().length));
+        
+        $("#engLanguageLayer > ol").hide();
+    });
+    
+    fnMultiLanKeyBoardOpen('US');
+    $(".ui-dialog").hide();
+});
+
+var dialogIsOpen = false;
+
+function fnMultiLanKeyBoardOpen(type){
+    if(dialogIsOpen){
+        $("#keyboardLayer").dialog("close");
+        dialogIsOpen = false;
+    }else{
+        VirtualKeyboard.toggle('mainSearchWord','td');
+    }
+    
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+    }else{
+    	
+    	var filter = [];
+		filter.push("EN");
+		VirtualKeyboard.setVisibleLayoutCodes(filter);
+		VirtualKeyboard.switchLayout("US US");
+		
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }   
+
+    $( "#keyboardLayer" ).dialog({
+        open: function() { 
+            $(this).parents('.ui-dialog').attr('tabindex', -1)[0].focus();
+            dialogIsOpen = true;
+        }, 
+        width: 588,
+        title:"<div class=\"tab_wrap_keyboard\"><ul class=\"tab_win_keyboard manyLang6\"><li><a href=\"javascript:fnMultiLanKeyBoardChange('US');\" id=\"keyboardTab1\">English</a></li><li><a href=\"javascript:fnMultiLanKeyBoardChange('KR');\" id=\"keyboardTab2\">Korean</a></li></ul></div>",
+        modal: false,
+        resizable : false,
+        position: {my: 'top', at: 'top+250'}
+    });
+    
+    if(type == "KR"){
+    	$("#keyboardTab1").removeClass("selected");
+		$("#keyboardTab2").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("manyLangTha");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("manyLang6");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }
+        
+    }else{
+    	$("#keyboardTab2").removeClass("selected");
+		$("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLang6");   
+        }
+        
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnMultiLanKeyBoardChange(type){
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+    }else{
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }
+    
+    if(type == "KR"){
+        $("#kb_langselector > optgroup > option").eq(2).remove();
+        
+        $("#keyboardTab1").removeClass("selected");
+        $("#keyboardTab2").addClass("selected");
+        
+        $("#kb_langselector").addClass("koreaLang");
+        $("#kb_langselector").removeClass("manyLang6");
+        
+        
+        $("#virtualKeyboard").find("span").addClass("koreaLang");
+        $("#virtualKeyboard").find("span").removeClass("manyLang6");
+        
+        
+    }else{
+        $("#keyboardTab2").removeClass("selected");
+        $("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+        
+        $("#virtualKeyboard").find("span").removeClass("koreaLang");
+        $("#kb_langselector").removeClass("koreaLang");
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnOneTextClear(){
+    var tempKeyword = $("#mainSearchWord").val();
+    tempKeyword = tempKeyword.substring(0, tempKeyword.length - 1);
+    $("#mainSearchWord").val(tempKeyword);  
+}
+
+function fnReturnFocusValue(){
+    var myField =  eval(document.getElementById("mainSearchWord"));
+    var focusValue = "";
+    if(document.selection) {
+        //IE support
+        myField.focus();
+        var range = document.selection.createRange();
+        focusValue = range.text;
+    }else if (myField.selectionStart || myField.selectionStart == '0') {
+        //MOZILLA/NETSCAPE support
+        var startPos = myField.selectionStart;
+        focusValue = myField.value.substr(0,startPos); 
+    }else{
+        focusValue = myField.value;
+    }   
+    return focusValue;
+}
+
+//언어 선택시
+function fnFontChange(){
+    if("eng" == "tha"){
+        $("#virtualKeyboard").find("span").addClass("manyLangTha");
+    }else{
+        $("#virtualKeyboard").find("span").addClass("manyLang6");
+    }
+}
+</script>
+<div id="keyboardLayer" style="display:none;border: none;">
+    <div id="languageSelect"  style="margin-left: -10px;margin-bottom: 5px;"></div>  
+    <div id="onetextClearBtn" class="manyLang6" style="text-align: right;margin-top: -25px;margin-right:-7px;">
+        <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+    </div>
+    <div id="td" style="margin-left: -18px;direction: ltr;" class="manyLang6" ></div>
+    <div id="vietnameseKeyboard"class="gray" style="margin-top:5px;display:none;'">
+        <div class="manyLang6" style="text-align: right;margin-top: -10px;">
+            <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+        </div>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Phụ âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">b</li>
+                        <li class="ui-state-default">c</li>
+                        <li class="ui-state-default">d</li>
+                        <li class="ui-state-default">đ</li>
+                        <li class="ui-state-default">g</li>
+                        <li class="ui-state-default">h</li>
+                        <li class="ui-state-default">k</li>
+                        <li class="ui-state-default">l</li>
+                        <li class="ui-state-default">m</li>
+                        <li class="ui-state-default">n</li>
+                        <li class="ui-state-default">p</li>
+                        <li class="ui-state-default">q</li>
+                        <li class="ui-state-default">r</li>
+                        <li class="ui-state-default">s</li>
+                        <li class="ui-state-default">t</li>
+                        <li class="ui-state-default">v</li>
+                        <li class="ui-state-default">x</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">f</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">j</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">w</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">z</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Nguyên âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">a</li>
+                        <li class="ui-state-default">á</li>
+                        <li class="ui-state-default">à</li>
+                        <li class="ui-state-default">ả</li>
+                        <li class="ui-state-default">ã</li>
+                        <li class="ui-state-default">ạ</li>
+                        <li class="ui-state-default">ă</li>
+                        <li class="ui-state-default">ắ</li>
+                        <li class="ui-state-default">ằ</li>
+                        <li class="ui-state-default">ẳ</li>
+                        <li class="ui-state-default">ẵ</li>
+                        <li class="ui-state-default">ặ</li>
+                        <li class="ui-state-default">â</li>
+                        <li class="ui-state-default">ấ</li>
+                        <li class="ui-state-default">ầ</li>
+                        <li class="ui-state-default">ẩ</li>
+                        <li class="ui-state-default">ẫ</li>
+                        <li class="ui-state-default">ậ</li>
+                        <li class="ui-state-default">o</li>
+                        <li class="ui-state-default">ó</li>
+                        <li class="ui-state-default">ò</li>
+                        <li class="ui-state-default">ỏ</li>
+                        <li class="ui-state-default">õ</li>
+                        <li class="ui-state-default">ọ</li>
+                        <li class="ui-state-default">ô</li>
+                        <li class="ui-state-default">ố</li>
+                        <li class="ui-state-default">ồ</li>
+                        <li class="ui-state-default">ổ</li>
+                        <li class="ui-state-default">ỗ</li>
+                        <li class="ui-state-default">ộ</li>
+                        <li class="ui-state-default">ơ</li>
+                        <li class="ui-state-default">ớ</li>
+                        <li class="ui-state-default">ờ</li>
+                        <li class="ui-state-default">ở</li>
+                        <li class="ui-state-default">ỡ</li>
+                        <li class="ui-state-default">ợ</li>
+                        
+                        <li class="ui-state-default">e</li>
+                        <li class="ui-state-default">é</li>
+                        <li class="ui-state-default">è</li>
+                        <li class="ui-state-default">ẻ</li>
+                        <li class="ui-state-default">ẽ</li>
+                        <li class="ui-state-default">ẹ</li>
+                        <li class="ui-state-default">ê</li>
+                        <li class="ui-state-default">ế</li>
+                        <li class="ui-state-default">ề</li>
+                        <li class="ui-state-default">ể</li>
+                        <li class="ui-state-default">ễ</li>
+                        <li class="ui-state-default">ệ</li>
+                        <li class="ui-state-default">u</li>
+                        <li class="ui-state-default">ú</li>
+                        <li class="ui-state-default">ù</li>
+                        <li class="ui-state-default">ủ</li>
+                        <li class="ui-state-default">ũ</li>
+                        <li class="ui-state-default">ụ</li>
+                        <li class="ui-state-default">ư</li>
+                        <li class="ui-state-default">ứ</li>
+                        <li class="ui-state-default">ừ</li>
+                        <li class="ui-state-default">ử</li>
+                        <li class="ui-state-default">ữ</li>
+                        <li class="ui-state-default">ự</li>
+                        <li class="ui-state-default">i</li>
+                        <li class="ui-state-default">í</li>
+                        <li class="ui-state-default">ì</li>
+                        <li class="ui-state-default">ỉ</li>
+                        <li class="ui-state-default">ĩ</li>
+                        <li class="ui-state-default">ị</li>
+                        <li class="ui-state-default">y</li>
+                        <li class="ui-state-default">ý</li>
+                        <li class="ui-state-default">ỳ</li>
+                        <li class="ui-state-default">ỷ</li>
+                        <li class="ui-state-default">ỹ</li>
+                        <li class="ui-state-default">ỵ</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="fraLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="fraType_a" style="display:none;">
+        <li class="ui-state-default languageKey languageKey">à</li>
+        <li class="ui-state-default languageKey">â</li>
+        <li class="ui-state-default languageKey">æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_A" style="display:none;">
+        <li class="ui-state-default languageKey">À</li>
+        <li class="ui-state-default languageKey">Â</li>
+        <li class="ui-state-default languageKey">Æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_c" style="display:none;">
+        <li class="ui-state-default languageKey">ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_C" style="display:none;">
+        <li class="ui-state-default languageKey">Ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+        <li class="ui-state-default languageKey">è</li>
+        <li class="ui-state-default languageKey">ë</li>
+        <li class="ui-state-default languageKey">ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+        <li class="ui-state-default languageKey">È</li>
+        <li class="ui-state-default languageKey">Ë</li>
+        <li class="ui-state-default languageKey">Ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_i" style="display:none;">
+        <li class="ui-state-default languageKey">î</li>
+        <li class="ui-state-default languageKey">ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Î</li>
+        <li class="ui-state-default languageKey">Ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ô</li>
+        <li class="ui-state-default languageKey">œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ô</li>
+        <li class="ui-state-default languageKey">Œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ù</li>
+        <li class="ui-state-default languageKey">û</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="fraType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ù</li>
+        <li class="ui-state-default languageKey">Û</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+</div>
+<div id="spaLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="spaType_a" style="display:none;">
+        <li class="ui-state-default languageKey">á</li>
+    </ol>
+    <ol class="selectable" id="spaType_A" style="display:none;">
+        <li class="ui-state-default languageKey">Á</li>
+    </ol>
+    <ol class="selectable" id="spaType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+    </ol>
+    <ol class="selectable" id="spaType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+    </ol>
+    <ol class="selectable" id="spaType_i" style="display:none;">
+        <li class="ui-state-default languageKey">í</li>
+    </ol>
+    <ol class="selectable" id="spaType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Í</li>
+    </ol>
+    <ol class="selectable" id="spaType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ú</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ú</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_n" style="display:none;">
+        <li class="ui-state-default languageKey">ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_N" style="display:none;">
+        <li class="ui-state-default languageKey">Ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_s!" style="display:none;">
+        <li class="ui-state-default languageKey">¡</li>
+    </ol>
+    <ol class="selectable" id="spaType_s?" style="display:none;">
+        <li class="ui-state-default languageKey">¿</li>
+    </ol>
+</div>
+<span id="textWidth" style="display:none;"></span>
+<!--//.search_wrap -->
+<script type="text/javascript">
+$(document).ready(function(){
+	//검색
+	$("form[name=mainSearchF]").find("input[name=mainSearchWord]").keypress(function(e){
+		if(e.keyCode === 13){
+			
+			checkSearch();
+			
+			if($.trim($(this).val()) != ""){
+				$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+		    	$("form[name=mainSearchF]").submit();
+			}
+		}	
+	});
+	
+	//자세히 찾기 검색조건 열고 닫기
+	$('.btn_detail_global').click(function(){
+		if($(this).is('.on')){
+			$(this).text('Hide Conditions');
+			$(this).removeClass('on');
+			$('.datail_form').slideDown();
+		} else{
+		   $(this).text('View Conditions');
+		   $(this).addClass('on');
+		   $('.datail_form').slideUp();
+		};
+		return false;
+	});	
+});
+
+//찾기
+function fnSearchWord(){
+	
+	checkSearch();
+	
+	if($.trim($("form[name=mainSearchF]").find("input[name=mainSearchWord]").val()) != ""){
+		$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+    	$("form[name=mainSearchF]").submit();
+	}
+}
+
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+    	type: 'GET',
+    	dataType:'json',
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	async: false,
+    	success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+    			var returnData = data.jsonList[0].returnData;
+    			for(var i=returnData.length-1; i>=0; i--){
+    				var html  = "";
+    				html += "<li id='myWord_"+returnData[i].word_no+"'>";
+					html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+					if(returnData[i].sup_no != "0"){
+						html += "<sup>"+returnData[i].sup_no+"</sup>";							
+					}else{
+						html += "<sup>&nbsp;</sup>";
+					}
+					html +="</span></a>";
+					html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+					html += "<img src='/images/2020/btn_del.png'/>";
+					html += "</a>";
+					html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+					html += "</li>";
+					
+    				$("#myWordList").append(html);
+    			}
+    			
+    			var btnHtml = "";
+    			btnHtml += "<div class='myword_btn mt10 manyLang6'>";
+    			btnHtml += " <a href='javascript:fnDeleteWord(\"all\");' class='btn_sm navyL del'><i class='ri-subtract-line'></i> Delete All</a>";
+    			btnHtml += "</div>";
+    			
+    			if($("#myWordList > li").length > 0){
+    				$("#myWordList").parent().append(btnHtml);
+    			}
+    		}
+    	}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    			
+    			if($("#myWordList > li").length <= 0){
+					$("#myWordList").parent().find(".btn_sm").remove();
+				}
+    		}
+    	}
+    });
+}
+
+//트위터
+function fnTwitter(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+//페이스북
+function fnFaceBook(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+</script>
+			
+			<form name="searchResultForm" method="get">
+		        <input type="hidden" name="wordMatchFlag" 	id="wordMatchFlag" 		value="N"	/>
+		        <input type="hidden" name="mainSearchWord" 	value="좋다" 	/>
+		        <input type="hidden" name="currentPage" 	id="currentPage" 		value="1" 		/>
+		        <input type="hidden" name="sort" 			id="sort" 				value="W" 			/>
+		        <input type="hidden" name="searchType" 		id="searchType" 		value="W" 		/>
+		        <input type="hidden" name="proverbType" 	id="proverbType" 		value="" 		/>
+		        <input type="hidden" name="exaType" 		id="exaType" 			value="" 			/>
+		        <input type="hidden" name="ParaWordNo" 		id="ParaWordNo" 		value="" 		/>
+		        <input type="hidden" name="viewType" 								value="A" 		/>
+			
+				<div class="content_wrap">
+					<!-- new_sub_left -->
+	            	<div class="new_sub_left">
+						<!-- search_area -->
+						<div class="search_area">
+	                	<!-- tab start -->
+						<ul class="tabL four_mod manyLang6">
+	                        <li><a href="#" class="selected" id="tab_01" onclick="fnSearch('W');">Word <em>3</em></a></li>
+	                        <li><a href="#" class="" id="tab_02" onclick="fnSearch('P');">Idioms·Proverbs <em>23</em></a></li>
+	                        <li><a href="#" class="" id="tab_03" onclick="fnSearch('S');">Definition <em>58</em></a></li>
+	                        <li><a href="#" class="" id="tab_04" onclick="fnSearch('E');">Usage Example <em>1,561</em></a></li>
+	                	</ul>
+	                	<!--// tab end -->
+                	
+	                	 
+		                    <div class="result_title group manyLang6">
+		                    	<div class="floatL">
+		                    		<span class="search_tit">
+				                    					                    		View search results for				                    	
+				                    	
+				                    	
+				                    	
+				                        	<strong class="checkKeyword blue">'좋다'</strong>
+				                        					                        among headwords.
+				                    		<span class="blue ml5"> 3 results</span>
+				                        
+				                         
+				                        
+				                        
+				                        
+				                    	
+				                    	
+		                    		</span>
+		                    	</div>
+		                    	
+								<div class="floatR mt5 ml20">
+									<div class="btnS_area koreaLang">
+										<a href="#plus" class="btn btnS navyL zoomin plus" 		title="Larger">가</a>
+										<a href="#minus" class="btn btnS navyL zoomout minus" 	title="Smaller">가</a>
+									</div>
+									<div class="select w200 ml7">
+										<select name="blockCount" id="blockCount" class="manyLang6" onchange="javascript:searchPaging(1)" title="blockCount">
+											<option value="10"  selected>View 10 per page</option>
+		                                    <option value="20"  >View 20 per page</option>
+		                                    <option value="30"  >View 30 per page</option>
+		                                    <option value="50"  >View 50 per page</option>
+		                                    <option value="100" >View 100 per page</option>
+										</select>
+									</div>
+								</div>
+							</div>
+						
+						
+					    <!-- search_list -->
+					    <div class="search_result mt25 printArea " >
+					    	
+						    	
+							    	
+										<dl>
+											<dt>
+												<!-- 표제어 -->
+												<a href="javascript:checkSubmit('79033','Y');" title="Advanced View">
+													<span class="word_type1_17">
+														좋다
+														
+													</span>
+												</a>
+	
+					        					<!-- 원어 -->
+												
+												
+												<!-- 품사 -->
+												
+													<span class="word_att_type1">
+							       						「형용사」
+														<span class="manyLang6">
+								       						
+															
+															
+															
+															
+															
+																	Adjective	
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														</span>
+													</span>
+												
+												
+												<span class="search_sub">
+													<!-- 발음 -->
+													
+			        									<span class="search_sub">[조ː타<a href="javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yNjAwMC8zMzMzMzQvU05EMDAwMzQyNjg4Lm1wMw==');" class="sound"><i class="ri-volume-up-fill"></i><span class="blind">듣기</span></a>]</span>
+			        								
+						        					<!-- 중요도 -->
+						        					
+							        					
+							        						<span class="star"><i class="ri-star-s-fill"></i><i class="ri-star-s-fill"></i><i class="ri-star-s-fill"></i></span>
+							        					
+														
+														
+						        					
+						        				</span>
+				                        		<a href="javascript:checkSubmit('79033','Y');" class="allview manyLang6" >View All <i class="ri-arrow-right-s-line"></i></a>
+											</dt>
+											
+												
+													
+														
+															
+																
+																	
+																		
+																			<dd class="manyLang6 ">
+																				
+																					
+																						
+																						<strong>1</strong>.
+																					
+																				
+																				
+																					
+																						good; great; excellent
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 것의 성질이나 내용 등이 훌륭하여 만족할 만하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Excellent and satisfactory in features and content.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>2</strong>.
+																					
+																				
+																				
+																					
+																						good; nice
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">성격 등이 원만하고 착하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Well-rounded and kind in personality.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>3</strong>.
+																					
+																				
+																				
+																					
+																						good; kind
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">말투나 태도 등이 부드럽다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Kind and gentle in the way one speaks and acts.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>4</strong>.
+																					
+																				
+																				
+																					
+																						good
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">신체적 조건이나 건강 상태 등이 보통보다 낫다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Above average in physical condition or health.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>5</strong>.
+																					
+																				
+																				
+																					
+																						having a lot of nerve
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">체면을 따지지 않거나 부끄러움을 아는 마음이 없다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Not caring about saving face or being shameless.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>6</strong>.
+																					
+																				
+																				
+																					
+																						nice
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">날씨가 맑고 화창하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Sunny and clear.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>7</strong>.
+																					
+																				
+																				
+																					
+																						enough; sufficient
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">충분하거나 넉넉하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Enough or sufficient.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>8</strong>.
+																					
+																				
+																				
+																					
+																						good
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">머리카락이 많고 상태가 괜찮다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Having a lot of hair in good condition.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>9</strong>.
+																					
+																				
+																				
+																					
+																						good; right
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">날짜나 기회 등이 알맞다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				(for a day or opportunity to be) Appropriate.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>10</strong>.
+																					
+																				
+																				
+																					
+																						fond of; in love with
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 일이나 대상이 마음에 들고 만족스럽다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Happy about and satisfied with a thing or object.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>11</strong>.
+																					
+																				
+																				
+																					
+																						good
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">감정 등이 기쁘고 흐뭇하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Having a feeling, etc., of happiness and satisfaction.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>12</strong>.
+																					
+																				
+																				
+																					
+																						happy; okay
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 행동이나 일 등이 문제될 것이 없다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Having no problems with behavior, work, etc.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>13</strong>.
+																					
+																				
+																				
+																					
+																						good; easy; convenient
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 일을 하기가 쉽거나 편하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Easy or convenient to do something.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>14</strong>.
+																					
+																				
+																				
+																					
+																						good
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 것이 몸이나 건강을 더 나아지게 하는 성질이 있다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Having qualities that are good for the body or health.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>15</strong>.
+																					
+																				
+																				
+																					
+																						better
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어떤 것이 다른 것과 비교하여 질이나 수준 등이 더 높다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Higher in quality or level compared to others.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>16</strong>.
+																					
+																				
+																				
+																					
+																						good
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">서로 가깝고 친하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Close and friendly with each other.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>17</strong>.
+																					
+																				
+																				
+																					
+																						favorable; positive
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">어느 편에 유리하게 해석하는 데가 있다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Interpreting something in a way that is favorable to one side.
+																			</dd>
+																		
+																	
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>18</strong>.
+																					
+																				
+																				
+																					
+																						good; nice
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">앞말을 부정하며 핀잔을 주는 데가 있다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				The word used to express negation of, dissatisfaction with, a situation which has just been mentioned.
+																			</dd>
+																		
+																	
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+													
+														
+															
+																
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																	
+																		
+																			<dd class="manyLang6 mt15">
+																				
+																					
+																						
+																						<strong>19</strong>.
+																					
+																				
+																				
+																					
+																						suitable; fit
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">재료의 용도로나 어떤 일을 하는 데 적합하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Appropriate for using as a material or doing something.
+																			</dd>
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+											
+										</dl>
+									
+										<dl>
+											<dt>
+												<!-- 표제어 -->
+												<a href="javascript:checkSubmit('15896','Y');" title="Advanced View">
+													<span class="word_type1_17">
+														사이좋다
+														
+													</span>
+												</a>
+	
+					        					<!-- 원어 -->
+												
+												
+												<!-- 품사 -->
+												
+													<span class="word_att_type1">
+							       						「형용사」
+														<span class="manyLang6">
+								       						
+															
+															
+															
+															
+															
+																	Adjective	
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														</span>
+													</span>
+												
+												
+												<span class="search_sub">
+													<!-- 발음 -->
+													
+			        									<span class="search_sub">[사이조타<a href="javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8yMDAwMC8yOTQ4MTQvU05EMDAwMzA0MTY4Lm1wMw==');" class="sound"><i class="ri-volume-up-fill"></i><span class="blind">듣기</span></a>]</span>
+			        								
+						        					<!-- 중요도 -->
+						        					
+							        					
+														
+															<span class="star"><i class="ri-star-s-fill"></i><i class="ri-star-s-fill"></i></span>
+														
+														
+						        					
+						        				</span>
+				                        		<a href="javascript:checkSubmit('15896','Y');" class="allview manyLang6" >View All <i class="ri-arrow-right-s-line"></i></a>
+											</dt>
+											
+												
+													
+														
+															
+																
+																	
+																		
+																			<dd class="manyLang6 ">
+																				
+																					
+																						
+																						
+																					
+																				
+																				
+																					
+																						familiar; close; friendly
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">다투지 않고 서로 친하다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Intimate with each other without having quarrels. 
+																			</dd>
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+											
+										</dl>
+									
+										<dl>
+											<dt>
+												<!-- 표제어 -->
+												<a href="javascript:checkSubmit('71409','Y');" title="Advanced View">
+													<span class="word_type1_17">
+														의좋다
+														
+													</span>
+												</a>
+	
+					        					<!-- 원어 -->
+												
+													<span>(誼좋다)</span>
+												
+												
+												<!-- 품사 -->
+												
+													<span class="word_att_type1">
+							       						「형용사」
+														<span class="manyLang6">
+								       						
+															
+															
+															
+															
+															
+																	Adjective	
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+														</span>
+													</span>
+												
+												
+												<span class="search_sub">
+													<!-- 발음 -->
+													
+			        									<span class="search_sub">[의ː조타<a href="javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yNDAwMC8zMjczMjkvU05EMDAwMzM2NjgzLm1wMw==');" class="sound"><i class="ri-volume-up-fill"></i><span class="blind">듣기</span></a>]</span>
+			        								
+						        					<!-- 중요도 -->
+						        					
+							        					
+														
+														
+															<span class="star"><i class="ri-star-s-fill"></i></span>
+														
+						        					
+						        				</span>
+				                        		<a href="javascript:checkSubmit('71409','Y');" class="allview manyLang6" >View All <i class="ri-arrow-right-s-line"></i></a>
+											</dt>
+											
+												
+													
+														
+															
+																
+																	
+																		
+																			<dd class="manyLang6 ">
+																				
+																					
+																						
+																						
+																					
+																				
+																				
+																					
+																						intimate; friendly; close
+																					
+																					
+																				
+																			</dd>
+																			
+																				
+																					<dd class="ml20">정이 두텁다.</dd>
+																				
+																				
+																			
+																			<dd class="manyLang6 ml20">
+																				Having much affection for each other.
+																			</dd>
+																		
+																	
+																
+																
+															
+														
+														
+														
+													
+												
+											
+										</dl>
+									
+								
+									
+								
+									
+								
+									
+								
+							
+							
+							
+							
+							
+						</div>
+						
+						<div class="paging_area">
+							<span class='paging_num on'><a href="#">1</a></span>
+
+						</div>
+						</div>
+						<!-- //.search_area -->
+						<!--search_add-->
+						<div class="search_add">
+							<div>찾으시는 단어가 없나요? <span style="font-weight:bold">우리말샘</span>에서 다시 한번 검색해 보세요.</div>
+							<div class="mt_20"><a href="#" onclick="javascript:fnSearchOpendic();" class="bnt_go">우리말샘으로 바로가기</a></div>
+							<div class="mt_20"><span class="t_gray">*<img src="/images/2020/icon_ssam.gif" alt="우리말샘">은 누구든지 참여하여 함께 만드는 우리말 사전입니다.</span></div>
+						</div>
+						<!--//.search_add-->
+					</div>
+					<!--//.new_sub_left -->
+
+            		<!-- 우측영역 start -->
+					<div class="sub_right">
+	            		
+		            		<div class="div_wrap manyLang6 ">
+		                        <div class="title">View Mode</div>
+	                        	<ul class="radiobox row">
+			                        <li><input type="radio" name="viewTypes" id="viewAll" 		onclick="javascript:fnViewSelect('A');"     checked /><label for="viewAll">Korean + English</label></li>
+			                        <li><input type="radio" name="viewTypes" id="viewKorean" 	onclick="javascript:fnViewSelect('K');"   	 /><label for="viewKorean">Korean</label></li>
+			                        <li><input type="radio" name="viewTypes" id="viewMultilan" 	onclick="javascript:fnViewSelect('M');" 	 /><label for="viewMultilan">English</label></li>
+								</ul>
+		                	</div>
+	            		
+		                
+			                <div class="div_wrap bg manyLang6">
+			                    <div class="title">Lineup Conditions</div>
+			                    <ul class="radiobox row">
+			                        <li><input type="radio" id="sortDic"  onclick="javascript:setSort('W');"  checked /><label for="sortDic">Alphabetic order</label></li>
+			                        <li><input type="radio" id="sortView" onclick="javascript:setSort('C');"   /><label for="sortView">By Hits</label></li>
+								</ul>
+			                </div>
+		                 
+	                	
+	                	
+						<div class="div_wrap">
+							<div class="title manyLang6">My Search History</div>
+					    	<ul id="myWordList" class="myword_list"></ul>
+						</div>
+
+						<!-- 네이버 배너 -->
+						<div class="div_wrap bg banner manyLang6">
+							<a href="http://www.naverfoundation.org" target="_blank">
+								<div class="banner_naver">
+									Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.
+									<img src="/images/2020/banner_naver.png" class="mt5">
+								</div>
+							</a>
+						</div>
+						<!-- //네이버 배너 -->
+						
+						<div class="div_wrap banner manyLang6">
+							<a href="javascript:fnDownloadLayer();">
+								<div class="banner_naver">
+									<img src="/images/2020/manyLang/download.png" class="mb5"><br>
+									Download the dictionary
+								</div>
+							</a>
+						</div>						
+	            	</div>
+	           		<!-- 우측 영역 end -->
+	           	</div>
+				<input type="hidden" name="_csrf" value="e8baf163-1cba-4c72-8b25-d6331bb97bbb" />
+	        </form>
+		</div>
+    </div>
+    
+
+<!-- footer -->
+<div id="footer">
+    <div class="footer_wrap">
+        <div class="foot_menu manyLang6">
+            <a href="https://korean.go.kr" class="logo"><img src="/images/2020/manyLang/eng_footer_logo.png" alt="National Institute of Korean Language" /></a>
+            <ul>
+                <li><a href="/eng/help/helpList">Help</a></li>
+                <li><a href="/eng/guide/guideList">Translation guideline</a></li>
+                <li><a href="/eng/kboardPolicy/copyRightTermsInfo">Copyright Policy</a></li>
+                <li><a href="/eng/board/kboardListUserAction?&notice_category=engDic">Notice</a></li>
+                <li><a href="/eng/openApi/openApiInfo">Open API</a></li>
+                <li><a href="/eng/comment/commentErrorReport">Suggestion</a></li>
+            </ul>
+        </div>
+        <div class="family select">
+            <select id="Buttom_Global_nationCode" name="Button_Global_nationCode" class="manyLang6">
+                <option value="KR">Basic Korean Dictionary</option>
+                <option value="KR_HOME">National Institute of Korean Language</option>
+            </select>
+            <a href="javascript:javascript:buttomSite();" class="goBtn manyLang6">Move</a>
+        </div>
+    </div>
+</div>
+<!-- //.footer -->
+
+</div>
+
+<div class="popup_container">
+	<!-- 내려받기 배너 -->
+	<div id="downloadLayer" class="layer_box">
+		<div class="pop_head manyLang6"><h2>Download the dictionary</h2></div>
+		<div class="pop_cont manyLang6">
+			<div style="font-size:17px;width: 100%;">
+				You can download your search result file after entering your email address on the Basic Korean Dictionary site. 
+			</div>
+			<br/>
+			<br/>
+			<div style="font-size:17px;width: 100%;">
+				<a href="javascript:fnDownloadLink();" style="color: blue;text-decoration: underline;">Move to the Basic Korean Dictionary</a>
+			</div>
+			
+			<!-- btn -->
+			<div class="btn_area">
+				<a class="btn layer_close" href="#">Close</a>
+			</div>
+			<!-- //.btn -->
+		</div>
+		<a href="#" class="btn_close"><i class="ri-close-fill"><span class="blind">Close</span></i></a>
+	</div>
+</div>
+
+</body>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	//내가 살펴본 단어 목록
+	fnMyViewWordList();
+	
+	if(fnKoreanCompare('좋다')){
+		$(".checkKeyword").addClass("koreaLang");
+	}else{
+		$(".checkKeyword").addClass("manyLang6");
+	}
+	
+	$("#mainSearchWord").val('좋다');
+	
+    $("#mainSearchWord").bind("focus", function(event) {
+    	$("#mainSearchWord").select();
+    });
+    
+    $("#mainSearchWord").focus();
+    
+});
+
+function checkSubmit(word_no,disp_yn){
+	if(disp_yn == "N"){
+		alert("Your access to the requested page is forbidden.");
+		location.href = "/eng/mainAction";
+	}else{
+		$("input[name=ParaWordNo]").val(word_no);
+		$("form[name=searchResultForm]").attr("action", "/eng/dicSearch/SearchView");
+	    $("form[name=searchResultForm]").submit();
+	}
+}
+
+function searchPaging(currentPage){
+	$("input[name=currentPage]").val(currentPage);
+	$("form[name=searchResultForm]").attr("action", "/eng/dicMarinerSearch/search");
+    $("form[name=searchResultForm]").submit();
+}
+
+/* 정렬 */
+function setSort(type){
+	$("input[name=sort]").val(type);
+	searchPaging(1);
+}
+	
+//어휘,뜻풀이,용례 검색
+function fnSearch(type){
+	$("input[name=searchType]").val(type);
+	searchPaging(1);
+}
+	
+//보기 방식
+function fnViewSelect(value){
+	$("input[name=viewType]").val(value);
+   	searchPaging(1);
+}
+	
+//속담/관용구 선택
+function fnProverbSelect(value){
+	$("input[name=proverbType]").val(value);
+   	searchPaging(1);
+}
+  	
+//용례 선택
+function fnExampleSelect(value){
+	$("input[name=exaType]").val(value);
+   	searchPaging(1);
+}
+
+function fnDownloadLayer(){
+	common.modalPopShow('#downloadLayer','500');
+}
+
+function fnDownloadLayerClose(){
+	$('#downloadLayer').popup('hide');
+}
+
+function fnDownloadLink(){
+
+	$("form[name=searchResultForm]").attr("action", "/kor/dicMarinerSearch/search");
+	$("form[name=searchResultForm]").submit();
+
+	// const search = location.search.substring(1);
+	// const jsonObj = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g,'":"') + '"}');
+	// const {lang, ...obj} = jsonObj;
+	// obj['lang'] = 'kor';
+	// location.href = location.pathname + "?" + new URLSearchParams(obj).toString()
+
+	// $("form[name=searchResultForm]").attr("action", "/dicMarinerSearch/search");
+    // $("form[name=searchResultForm]").submit();
+}
+</script>
+
+</html>

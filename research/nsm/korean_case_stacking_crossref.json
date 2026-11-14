@@ -1,0 +1,1951 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3311180,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2026-02-20T15:16:29Z",
+          "timestamp": 1771600589431,
+          "version": "3.50.1"
+        },
+        "reference-count": 68,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "3",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1515/tlir.2001.001",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              18
+            ]
+          ],
+          "date-time": "2006-04-18T19:16:16Z",
+          "timestamp": 1145387776000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+          "On Korean Case Stacking: The varied functions of the particles ka and lul"
+        ],
+        "prefix": "10.1515",
+        "volume": "18",
+        "author": [
+          {
+            "given": "Carson T.",
+            "family": "Schütze",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "reference": [
+          {
+            "key": "p_1_1",
+            "unstructured": "Adger, David (1994). Functional heads and interpretation. Unpublished Ph.D. dissertation, University of Edinburgh."
+          },
+          {
+            "key": "p_2_2",
+            "unstructured": "Ahn, Sung-Ho and Jung-Tag Lee (1994). The thematic nature of agentive eykey in Korean. In Theoretical Issues in Korean Linguistics, Young-Key Kim-Renaud (ed.), 191-215. Stanford: CSLI."
+          },
+          {
+            "key": "p_3_3",
+            "unstructured": "B rjars, Kersti and Nigel Vincent (1997). Double case and the `wimpiness' of morphology. Paper presented at LFG97, San Diego."
+          },
+          {
+            "key": "p_4_4",
+            "first-page": "11",
+            "volume": "16",
+            "author": "Cho Dong-In",
+            "year": "1992",
+            "journal-title": "MIT Working Papers in Linguistics"
+          },
+          {
+            "key": "p_5_5",
+            "unstructured": "Cho, In-Ja (1993). A reconsideration of case assignment in inalienable possession constructions in Korean. In Kuno et al. 1993, 252-261."
+          },
+          {
+            "key": "p_6_6",
+            "unstructured": "Cho, Jun Mo (1994). Multiple case constructions in Korean. M.A. paper, University of Toronto."
+          },
+          {
+            "key": "p_7_7",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1007/BF01731614",
+            "volume": "4",
+            "author": "Cho Yu",
+            "year": "1995",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "p_8_8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Choe, Hyon Sook (1987). Syntactic adjunction, A-chain and the ECP - Multiple identical case construction in Korean.In Proceedings of NELS 17, vol. 1, Joyce McDonough and Bernadette Plunkett (eds.), 100-120. (1995). Focus and topic movement in Korean and licensing. In Discourse Configurational Languages, Katalin E. Kiss (ed.), 269-334. New York: Oxford University Press.",
+            "DOI": "10.1093/oso/9780195088335.003.0010"
+          },
+          {
+            "key": "p_9_9",
+            "unstructured": "Chomsky, Noam (1981). Lectures on Government and Binding. Dordrecht: Foris. (1986). Knowledge of Language: Its Nature, Origin, and Use. New York: Praeger. (1995). The Minimalist Program. Cambridge, MA: MIT Press."
+          },
+          {
+            "key": "p_10_10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07268608808599390",
+            "volume": "8",
+            "author": "Dench Alan",
+            "year": "1988",
+            "journal-title": "Australian Journal of Linguistics"
+          },
+          {
+            "key": "p_11_11",
+            "unstructured": "Diesing, Molly (1988). Bare plural subjects and the stage/individual contrast. In Genericity in Natural Language: Proceedings of the 1988 T bingen Conference, Manfred Krifka (ed.), 107-154. SNSBericht 88-42, Seminar f r nat rlich-sprachliche Systeme, Universit t T bingen."
+          },
+          {
+            "key": "p_12_12",
+            "unstructured": "Garrett, Edward (1998). Unifying `ergative' and `focus' uses of the ergative case in Tibetan. Ms., UCLA."
+          },
+          {
+            "key": "p_13_13",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1075/sl.11.1.08ger",
+            "volume": "11",
+            "author": "Gerdts Donna B",
+            "year": "1987",
+            "journal-title": "Studies in Language"
+          },
+          {
+            "key": "p_14_14",
+            "unstructured": "Gerdts, Donna B. and Cheong Youn (1988). Korean psych constructions: Advancement or retreat? In Papers from the 24th Annual Regional Meeting of the Chicago Linguistic Society, Part One: The General Session, Lynn MacLeod, Gary Larson and Diane Brentari (eds.), 155-175. (2000). Case stacking and focus in Korean. Paper presented at the Theoretical East Asian Linguistics Workshop, University of California, Irvine."
+          },
+          {
+            "key": "p_15_15",
+            "first-page": "133",
+            "volume": "102",
+            "author": "Ghomeshi Jila",
+            "year": "1997",
+            "journal-title": "Topics in Persian VPs. Lingua"
+          },
+          {
+            "key": "p_16_16",
+            "unstructured": "Harbert, Wayne E. and Almeida J. Toribio (1991). Nominative objects. In Cornell Working Papers in Linguistics 9, Almeida J. Toribio and Wayne E. Harbert (eds.), 127-192."
+          },
+          {
+            "key": "p_17_17",
+            "unstructured": "Heycock, Caroline (1994a). Focus projection in Japanese. In NELS 24: Proceedings of the North East Linguistic Society, Merce Gonzalez (ed.), 157-171. (1994b). Layers of Predication: The Non-Lexical Syntax of Clauses. New York: Garland."
+          },
+          {
+            "key": "p_18_18",
+            "unstructured": "Heycock, Caroline and Young-Suk Lee (1990). Subjects and predication in Korean and Japanese.In Japanese/Korean Linguistics, vol. 1, Hajime Hoji (ed.), 239-253. Stanford: CSLI."
+          },
+          {
+            "key": "p_19_19",
+            "unstructured": "Hong, Ki-Sun (1990). Subject-to-object raising in Korean. In Grammatical Relations: A Cross-Theoretical Perspective, Katarzyna Dziwirek, Patrick Farrell and Errapel Mejias-Bikandi (eds.), 215-225. Stanford: CSLI. (1991). Argument selection and case marking in Korean. Unpublished Ph.D. dissertation, Stanford University."
+          },
+          {
+            "key": "p_20_20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Horvath, Julia (1995). Structural focus, structural case, and the notion of feature-assignment. In Discourse Configurational Languages, Katalin E. Kiss (ed.), 28-64. New York: Oxford University Press.",
+            "DOI": "10.1093/oso/9780195088335.003.0002"
+          },
+          {
+            "key": "p_21_21",
+            "unstructured": "Kang, Young-Se (1993). Case licensing. In Kuno et al. 1993, 342-347."
+          },
+          {
+            "key": "p_22_22",
+            "unstructured": "Kayne, Richard S. (1994). The Antisymmetry of Syntax. Cambridge, MA: MIT Press."
+          },
+          {
+            "key": "p_23_23",
+            "unstructured": "Kim, Soowon and Joan Maling (1993). Syntactic case and frequency adverbials in Korean. In Kuno et al. 1993, 368-378."
+          },
+          {
+            "key": "p_24_24",
+            "unstructured": "Kim, Yong-Bum (1987). A GPSG approach to Korean honorifics. In Kuno et al. 1987, 229-238."
+          },
+          {
+            "key": "p_25_25",
+            "unstructured": "Kim, Young-joo (1989). Inalienable possession as a semantic relationship underlying predication: The case of multiple-accusative constructions. In Kuno et al. 1989, 445-467. (1990). The syntax and semantics of Korean case: The interaction between lexical and syntactic levels of representation. Unpublished Ph.D. dissertation, Harvard University."
+          },
+          {
+            "key": "p_26_26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "E. Kiss, Katalin (1995). Discourse configurational languages: Introduction. In Discourse Configurational Languages, Katalin E. Kiss (ed.), 3-27. New York: Oxford University Press.",
+            "DOI": "10.1093/oso/9780195088335.003.0001"
+          },
+          {
+            "key": "p_27_27",
+            "unstructured": "Kuh, Hakan (1987). Plural copying in Korean. In Kuno et al. 1987, 239-250."
+          },
+          {
+            "key": "p_28_28",
+            "unstructured": "Kuno, Susumu, John Whitman, Young-Se Kang, Ik-Hwan Lee and Sung-Yun Bak (eds.) (1987). Harvard Studies in Korean Linguistics II. Department of Linguistics, Harvard University."
+          },
+          {
+            "key": "p_29_29",
+            "unstructured": "Kuno, Susumu, John Whitman, Young-Se Kang, Ik-Hwan Lee, Sung-Yun Bak and Young-joo Kim (eds.) (1989). Harvard Studies in Korean Linguistics III. Department of Linguistics, Harvard University."
+          },
+          {
+            "key": "p_30_30",
+            "unstructured": "Kuno, Susumu, John Whitman, Young-Se Kang, Ik-Hwan Lee, Joan Maling and Young-joo Kim (eds.) (1991). Harvard Studies in Korean Linguistics IV. Department of Linguistics, Harvard University. (1993). Harvard Studies in Korean Linguistics V. Department of Linguistics, Harvard University. (1997). Harvard Studies in Korean Linguistics VII. Department of Linguistics, Harvard University."
+          },
+          {
+            "key": "p_31_31",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1007/BF00129806",
+            "volume": "5",
+            "author": "Lapointe Steven G",
+            "year": "1996",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "p_32_32",
+            "unstructured": "Lee, Chungmin (1989). (In)definites, case markers, classifiers and quantifiers in Korean. In Kuno et al. 1989, 469-487. (1996). Generic sentences are topic constructions. In Reference and Referent Accessibility, Thorstein Fretheim and Jeanette K. Gundel (eds.), 213-222. Amsterdam: John Benjamins. (1998). Contrastive topic: How it is topical and focal - Evidence from Korean and English. Ms., Seoul National/UCLA."
+          },
+          {
+            "key": "p_33_33",
+            "unstructured": "Lee, Jeong-Shik (1991). Case minimality: Case alternation in the Korean ECM constructions. In Kuno et al. 1993, 317-328."
+          },
+          {
+            "key": "p_34_34",
+            "unstructured": "Lee, Kwangho (1996). Korean A-chains and the Chain Condition. In ESCOL '95: Proceedings of the Twelfth Eastern States Conference on Linguistics, Marek Przezdziecki and Lindsay Whaley (eds.), 161-172."
+          },
+          {
+            "key": "p_35_35",
+            "unstructured": "Lee, Young-Suk (1990). Is INFL universal? A case study of Korean. In ESCOL '90: Proceedings of the Seventh Eastern States Conference on Linguistics, Youngkyoon No and Mark Libucha (eds.), 204-214."
+          },
+          {
+            "key": "p_36_36",
+            "unstructured": "Maling, Joan (1989). Adverbials and structural Case in Korean. In Kuno et al. 1989, 297-308. (1991). Whether to agree or not: The case of the part-NP. In Kuno et al. 1991, 339-352."
+          },
+          {
+            "key": "p_37_37",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1007/BF00129573",
+            "volume": "1",
+            "author": "Maling Joan",
+            "year": "1992",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "p_38_38",
+            "unstructured": "Marantz, Alec (1991). Case and licensing. In ESCOL '91: Proceedings of the Eighth Eastern States Conference on Linguistics, German F. Westphal, Benjamin Ao and Hee-Rahk Chae (eds.), 234- 253. Reprinted in Arguments and Case: Explaining Burzio's Generalization, Eric Reuland (ed.), 11-30. Amsterdam: John Benjamins, 2000. (1993). The meanings of fronting. Ms., MIT."
+          },
+          {
+            "key": "p_39_39",
+            "unstructured": "Massam, Diane (1985). Case theory and the projection principle. Unpublished Ph.D. dissertation, MIT."
+          },
+          {
+            "key": "p_40_40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Miyagawa, Shigeru (1989). Structure and Case Marking in Japanese. San Diego: Academic Press.",
+            "DOI": "10.1163/9789004373259"
+          },
+          {
+            "key": "p_41_41",
+            "unstructured": "Nakamura, Wataru (1996). `Case spreading/stacking' in Korean: Evidence for the macrorole tier. Paper presented at LFG96, Grenoble."
+          },
+          {
+            "key": "p_42_42",
+            "unstructured": "Nordlinger, Rachel (1998). Constructive Case. Stanford: CSLI."
+          },
+          {
+            "key": "p_43_43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "O'Grady, William (1991). Categories and Case: The Sentence Structure of Korean. Amsterdam: John Benjamins.",
+            "DOI": "10.1075/cilt.71"
+          },
+          {
+            "key": "p_44_44",
+            "unstructured": "Park, Myung-Kwan (1991). Experiencer movement and anaphor binding in causative psych-verbs in Korean. In Kuno et al. 1991, 381-393."
+          },
+          {
+            "key": "p_45_45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Plank, Frans (ed.) (1995). Double Case: Agreement by Suffixaufnahme. New York: Oxford University Press.",
+            "DOI": "10.1093/oso/9780195087758.001.0001"
+          },
+          {
+            "key": "p_46_46",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1023/A:1005311504497",
+            "volume": "21",
+            "author": "Portner Paul",
+            "year": "1998",
+            "journal-title": "Linguistics and Philosophy"
+          },
+          {
+            "key": "p_47_47",
+            "unstructured": "Rizzi, Luigi (1990). Relativized Minimality. Cambridge, MA: MIT Press."
+          },
+          {
+            "key": "p_48_48",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1515/ling.1995.33.1.5",
+            "volume": "33",
+            "author": "Sadakane Kumi",
+            "year": "1995",
+            "journal-title": "Linguistics"
+          },
+          {
+            "key": "p_49_49",
+            "first-page": "730",
+            "volume": "14",
+            "author": "Safir Kenneth",
+            "year": "1983",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "p_50_50",
+            "unstructured": "Sch tze, Carson T. (1996). Korean `case stacking' isn't: Unifying noncase uses of case particles. In Proceedings of the North East Linguistic Society 26, Kiyomi Kusumoto (ed.), 351-365. (1997). INFL in child and adult language: Agreement, case and licensing. Unpublished Ph.D. dissertation, MIT. (1999). On the nature of default case. Ms., UCLA. To appear in Syntax."
+          },
+          {
+            "key": "p_51_51",
+            "first-page": "277",
+            "volume": "26",
+            "author": "Sells Peter",
+            "year": "1995",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "p_52_52",
+            "doi-asserted-by": "crossref",
+            "first-page": "789",
+            "DOI": "10.2307/412912",
+            "volume": "53",
+            "author": "Shibatani Masayoshi",
+            "year": "1977",
+            "journal-title": "Language"
+          },
+          {
+            "key": "p_53_53",
+            "unstructured": "Sohn, Ho-min (1994). Korean. London: Routledge."
+          },
+          {
+            "key": "p_54_54",
+            "unstructured": "Stowell, Timothy (1981). Origins of phrase structure. Unpublished Ph.D. dissertation, MIT."
+          },
+          {
+            "key": "p_55_55",
+            "first-page": "207",
+            "volume": "16",
+            "author": "Suh Sungki",
+            "year": "1992",
+            "journal-title": "MIT Working Papers in Linguistics"
+          },
+          {
+            "key": "p_56_56",
+            "first-page": "93",
+            "volume": "14",
+            "author": "Tournadre Nicholas",
+            "year": "1991",
+            "journal-title": "Linguistics of the Tibeto-Burman Area"
+          },
+          {
+            "key": "p_57_57",
+            "unstructured": "Thrainsson, H skuldur (1979). On Complementation in Icelandic. New York: Garland."
+          },
+          {
+            "key": "p_58_58",
+            "unstructured": "Ura, Hiroyuki (1996). Multiple feature-checking: A theory of grammatical function splitting. Unpublished Ph.D. dissertation, MIT."
+          },
+          {
+            "key": "p_59_59",
+            "unstructured": "Urushibara, Saeko (1991). Ey/Eykey: A postposition or a case marker? In Kuno et al. 1991, 421-431. (1997). Korean accusative case and the morphological structure. In Kuno et al. 1997, 528-543."
+          },
+          {
+            "key": "p_60_60",
+            "doi-asserted-by": "crossref",
+            "first-page": "629",
+            "DOI": "10.1007/BF00133600",
+            "volume": "14",
+            "author": "Wechsler Stephen",
+            "year": "1996",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "p_61_61",
+            "unstructured": "Wordick, Frank J. F. (1982). The Yindjibarndi Language. Canberra, Australia: Dept. of Linguistics, Australian National University."
+          },
+          {
+            "key": "p_62_62",
+            "unstructured": "Yang, Dong-Whee (1999). Case features and case particles. In WCCFL 18: Proceedings of the 18th West Coast Conference on Formal Linguistics, Sonya Bird, Andrew Carnie, Jason D. Haugen and Peter Norquest (eds.), 626-639."
+          },
+          {
+            "key": "p_63_63",
+            "unstructured": "Yang, In-Seok (1972). Korean Syntax: Case Marking, Delimiters, Complementation and Relativization. Seoul: Paek Hap Sa."
+          },
+          {
+            "key": "p_64_64",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1007/BF01440732",
+            "volume": "4",
+            "author": "Yoon James",
+            "year": "1987",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "p_65_65",
+            "unstructured": "Yoon, James and Jeongme Yoon (1991). Chain condition, ambiguity of government and derivational grammars.In Proceedings of the North East Linguistic Society 21, Tim Sherer (ed.), 415-429."
+          },
+          {
+            "key": "p_66_66",
+            "unstructured": "Yoon, Jeong-Me (1989). ECM and multiple subject constructions in Korean. In Kuno et al. 1989, 369-381."
+          },
+          {
+            "key": "p_67_67",
+            "unstructured": "Yoon, Jong-Yurl (1989). On the multiple `ka' and `lul' constructions in Korean. In Kuno et al. 1989, 383-394. (1990). Korean syntax and generalized X-bar theory. Unpublished Ph.D. dissertation, University of Texas at Austin."
+          },
+          {
+            "key": "p_68_68",
+            "first-page": "121",
+            "volume": "6",
+            "author": "Youn Cheong",
+            "year": "1995",
+            "journal-title": "Hyentaymwunpepyenkwu"
+          }
+        ],
+        "container-title": [
+          "The Linguistic Review"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/tlir.2001.001/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              3
+            ]
+          ],
+          "date-time": "2024-02-03T20:26:47Z",
+          "timestamp": 1706992007000
+        },
+        "score": 39.895943,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/tlir.2001.001/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              6
+            ]
+          ]
+        },
+        "references-count": 68,
+        "journal-issue": {
+          "issue": "3"
+        },
+        "URL": "https://doi.org/10.1515/tlir.2001.001",
+        "ISSN": [
+          "0167-6318",
+          "1613-3676"
+        ],
+        "issn-type": [
+          {
+            "value": "0167-6318",
+            "type": "print"
+          },
+          {
+            "value": "1613-3676",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              29
+            ]
+          ],
+          "date-time": "2023-11-29T01:02:07Z",
+          "timestamp": 1701219727038
+        },
+        "reference-count": 0,
+        "publisher": "The Linguistic Science Society",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "jls"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              30
+            ]
+          ]
+        },
+        "DOI": "10.21296/jls.2023.09.106.21",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              28
+            ]
+          ],
+          "date-time": "2023-11-28T06:04:36Z",
+          "timestamp": 1701151476000
+        },
+        "page": "21-41",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "An experimental study on Korean case stacking"
+        ],
+        "prefix": "10.21296",
+        "volume": "106",
+        "author": [
+          {
+            "given": "Jegal",
+            "family": "Min",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "8803",
+        "container-title": [
+          "The Journal of Linguistics Science"
+        ],
+        "original-title": [
+          ""
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              28
+            ]
+          ],
+          "date-time": "2023-11-28T06:04:38Z",
+          "timestamp": 1701151478000
+        },
+        "score": 23.916008,
+        "resource": {
+          "primary": {
+            "URL": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE11563239"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              30
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.21296/jls.2023.09.106.21",
+        "ISSN": [
+          "1229-0343",
+          "2713-3486"
+        ],
+        "issn-type": [
+          {
+            "value": "1229-0343",
+            "type": "print"
+          },
+          {
+            "value": "2713-3486",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2026-07-13T20:38:37Z",
+          "timestamp": 1783975117649,
+          "version": "3.55.0"
+        },
+        "reference-count": 121,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2016,
+                  5,
+                  16
+                ]
+              ],
+              "date-time": "2016-05-16T00:00:00Z",
+              "timestamp": 1463356800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Nat Lang Linguist Theory"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1007/s11049-016-9342-z",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2016-05-16T08:28:15Z",
+          "timestamp": 1463387295000
+        },
+        "page": "447-498",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+          "Successive-cyclic case assignment: Korean nominative-nominative case-stacking"
+        ],
+        "prefix": "10.1007",
+        "volume": "35",
+        "author": [
+          {
+            "given": "Theodore",
+            "family": "Levin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              16
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9342_CR1",
+            "first-page": "427",
+            "volume-title": "The mental representation of grammatical relations",
+            "author": "Avery D. Andrews",
+            "year": "1982",
+            "unstructured": "Andrews, Avery D. 1982. The representation of case in modern Icelandic. In The mental representation of grammatical relations, ed. Joan Bresnan, 427–503. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR2",
+            "first-page": "373",
+            "volume": "16",
+            "author": "Mark C. Baker",
+            "year": "1985",
+            "unstructured": "Baker, Mark C. 1985. The mirror principle and morphosyntactic explanation. Linguistic Inquiry 16: 373–415.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR3",
+            "unstructured": "Baker, Mark C. 2012. Types of crosslinguistic variation in case assignment. Ms., Rutgers University."
+          },
+          {
+            "key": "9342_CR4",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781107295186",
+            "volume-title": "Case: Its principles and its parameters",
+            "author": "Mark C. Baker",
+            "year": "2015",
+            "unstructured": "Baker, Mark C. 2015. Case: Its principles and its parameters. Cambridge: Cambridge University Press."
+          },
+          {
+            "key": "9342_CR5",
+            "doi-asserted-by": "crossref",
+            "first-page": "593",
+            "DOI": "10.1007/s11049-010-9105-1",
+            "volume": "28",
+            "author": "Mark C. Baker",
+            "year": "2010",
+            "unstructured": "Baker, Mark C., and Nadya Vinokurova. 2010. Two modalities of case assignment case in Sakha. Natural Language and Linguistic Theory 28: 593–642.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR6",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1162/ling.2009.40.1.35",
+            "volume": "40",
+            "author": "Susana Béjar",
+            "year": "2009",
+            "unstructured": "Béjar, Susana, and Milan Rezac. 2009. Cyclic agree. Linguistic Inquiry 40: 35–73.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR7",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1007/BF00133902",
+            "volume": "6",
+            "author": "Adriana Belletti",
+            "year": "1988",
+            "unstructured": "Belletti, Adriana, and Luigi Rizzi. 1988. Psych-verbs and theta theory. Natural Language and Linguistic Theory 6: 291–352.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR8",
+            "first-page": "1",
+            "volume": "27",
+            "author": "Maria Bittner",
+            "year": "1996",
+            "unstructured": "Bittner, Maria, and Kenneth Hale. 1996. The structural determination of case and agreement. Linguistic Inquiry 27: 1–68.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR9",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1093/oso/9780199213764.003.0010",
+            "volume-title": "Phi theory: Phi-features across interfaces and modules",
+            "author": "Jonathan David Bobaljik",
+            "year": "2008",
+            "unstructured": "Bobaljik, Jonathan David. 2008. Where’s phi? Agreement as a post-syntactic operation. In Phi theory: Phi-features across interfaces and modules, eds. Daniel Harbour et al., 295–328. Oxford: Oxford University Press."
+          },
+          {
+            "key": "9342_CR10",
+            "volume-title": "Ergativity: Emerging issues",
+            "author": "Jonathan David Bobaljik",
+            "year": "2006",
+            "unstructured": "Bobaljik, Jonathan David, and Phil Branigan. 2006. Eccentric agreement and multiple case checking. In Ergativity: Emerging issues, eds. Alana Johns et al.. Dordrecht: Springer."
+          },
+          {
+            "key": "9342_CR11",
+            "doi-asserted-by": "crossref",
+            "first-page": "809",
+            "DOI": "10.1007/s11049-004-3792-4",
+            "volume": "23",
+            "author": "Jonathan David Bobaljik",
+            "year": "2005",
+            "unstructured": "Bobaljik, Jonathan David, and Susi Wurmbrand. 2005. The domain of agreement. Natural Language and Linguistic Theory 23: 809–865.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR12",
+            "unstructured": "Börjars, Kersti, and Nigel Vincent. 1997. Double case and the ‘wimpiness’ of morphology. Paper presented at Lexical Functional Grammar (LFG97), San Diego."
+          },
+          {
+            "key": "9342_CR13",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1162/LING_a_00148",
+            "volume": "45",
+            "author": "Željko Bošković",
+            "year": "2014",
+            "unstructured": "Bošković, Željko. 2014. Now I’m a phase, now I’m not a phase: On the variability of phases with extraction and ellipsis. Linguistic Inquiry 45: 27–89.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR14",
+            "volume-title": "Korean syntax and semantics: Linguistic Society of America (LSA) institute workshop",
+            "author": "Hee-Rahk Chae",
+            "year": "1991",
+            "unstructured": "Chae, Hee-Rahk. 1991. The morphological status of nominal ‘particles’ in Korean. In Korean syntax and semantics: Linguistic Society of America (LSA) institute workshop, eds. Chungmin Lee and John Whitman. Thaehaksa."
+          },
+          {
+            "key": "9342_CR15",
+            "volume-title": "The Korean language",
+            "author": "Choon-hak Cho",
+            "year": "1975",
+            "unstructured": "Cho, Choon-hak. 1975. The scope of negation in Korean. In The Korean language, ed. Ho-Min Sohn. Honolulu: Center for Korean Studies."
+          },
+          {
+            "key": "9342_CR16",
+            "volume-title": "Theoretical issues in Korean linguistics",
+            "author": "Dong-in Cho",
+            "year": "1994",
+            "unstructured": "Cho, Dong-in. 1994. Functional projections and verb movement. In Theoretical issues in Korean linguistics, ed. Young-Key Kim-Renaud. Stanford: CSLI."
+          },
+          {
+            "key": "9342_CR17",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1007/BF01731614",
+            "volume": "4",
+            "author": "Young-mee Y. Cho",
+            "year": "1995",
+            "unstructured": "Cho, Young-mee Y., and Peter Sells. 1995. A lexical account of inflectional suffixes in Korean. Journal of East Asian Linguistics 4: 119–174.",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "9342_CR18",
+            "first-page": "100",
+            "volume-title": "North East Linguistic Society (NELS)",
+            "author": "Hyon-sook Choe",
+            "year": "1987",
+            "unstructured": "Choe, Hyon-sook. 1987a. Syntactic adjunction, A-chain and the ECP: Multiple identical case constructions in Korean. In North East Linguistic Society (NELS), eds. Joyce McDonough and Bernadette Plunkett. Vol. 17, 100–120."
+          },
+          {
+            "key": "9342_CR19",
+            "first-page": "40",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Hyon-sook Choe",
+            "year": "1987",
+            "unstructured": "Choe, Hyon-sook. 1987b. Successive-cyclic rightward movement in Korean. In Harvard studies in Korean linguistics, ed. Susumu Kuno. Vol. II, 40–56. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR20",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1093/oso/9780195088335.003.0010",
+            "volume-title": "Discourse configurational languages",
+            "author": "Hyon-sook Choe",
+            "year": "1995",
+            "unstructured": "Choe, Hyon-sook. 1995. Focus and topic movement in Korean and licensing. In Discourse configurational languages, ed. Katalin É. Kiss, 269–334. Oxford: Oxford University Press."
+          },
+          {
+            "key": "9342_CR21",
+            "unstructured": "Choi, Jaeyoung. 2008. Economy in rightward movement: Evidence from Korean. Master’s thesis, Seoul National University."
+          },
+          {
+            "key": "9342_CR22",
+            "volume-title": "Lectures on government and binding: The Pisa lectures",
+            "author": "Noam Chomsky",
+            "year": "1981",
+            "unstructured": "Chomsky, Noam. 1981. Lectures on government and binding: The Pisa lectures. Holland: Foris."
+          },
+          {
+            "key": "9342_CR23",
+            "first-page": "89",
+            "volume-title": "Step by step: Essays on minimalist syntax in honor of Howard Lasnik",
+            "author": "Noam Chomsky",
+            "year": "2000",
+            "unstructured": "Chomsky, Noam. 2000. Minimalist inquiries: The framework. In Step by step: Essays on minimalist syntax in honor of Howard Lasnik, eds. Roger Martin et al., 89–155. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR24",
+            "first-page": "1",
+            "volume-title": "Ken Hale: A life in language",
+            "author": "Noam Chomsky",
+            "year": "2001",
+            "unstructured": "Chomsky, Noam. 2001. Derivation by phase. In Ken Hale: A life in language, ed. Michael J. Kenstowicz, 1–52. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR25",
+            "unstructured": "Chung, Han Byul. 2012. i/ka marks focus. Paper presented at Japanese/Korean Linguistics 22, Tokyo."
+          },
+          {
+            "key": "9342_CR26",
+            "volume-title": "International handbook on syntactic contemporary research",
+            "author": "Amy Rose Deal",
+            "year": "2013",
+            "unstructured": "Deal, Amy Rose. 2013. Ergativity, 2nd edn. In International handbook on syntactic contemporary research, eds. Tibor Kiss and Artemis Alexiadou. Berlin: de Gruyter.",
+            "edition": "2"
+          },
+          {
+            "key": "9342_CR27",
+            "volume-title": "Indefinites",
+            "author": "Molly Diesing",
+            "year": "1992",
+            "unstructured": "Diesing, Molly. 1992. Indefinites. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1515/TL.2007.001",
+            "volume": "33",
+            "author": "Marcel Dikken den",
+            "year": "2007",
+            "unstructured": "Dikken, Marcel den. 2007. Phase extension: Contours of the role of head movement in phrasal extraction. Theoretical Linguistics 33: 1–41.",
+            "journal-title": "Theoretical Linguistics"
+          },
+          {
+            "key": "9342_CR29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1515/thli.2005.31.1-2.1",
+            "volume": "31",
+            "author": "Danny Fox",
+            "year": "2005",
+            "unstructured": "Fox, Danny, and David Pesetsky. 2005. Cyclic linearization of syntactic structure. Theoretical Linguistics 31: 1–46.",
+            "journal-title": "Theoretical Linguistics"
+          },
+          {
+            "key": "9342_CR30",
+            "first-page": "86",
+            "volume": "2",
+            "author": "Shin Fukuda",
+            "year": "2006",
+            "unstructured": "Fukuda, Shin. 2006. Japanese passives, external arguments, and structural case. San Diego Linguistics Papers 2: 86–133.",
+            "journal-title": "San Diego Linguistics Papers"
+          },
+          {
+            "key": "9342_CR31",
+            "first-page": "25",
+            "volume-title": "Simon Fraser working papers in linguistics",
+            "author": "Donna B. Gerdts",
+            "year": "1991",
+            "unstructured": "Gerdts, Donna B. 1991. Outline of a relational theory of case. In Simon Fraser working papers in linguistics, ed. Paul McFetridge. Vol. 1, 25–51."
+          },
+          {
+            "key": "9342_CR32",
+            "first-page": "155",
+            "volume-title": "Chicago Linguistics Society (CLS) 24",
+            "author": "Donna B. Gerdts",
+            "year": "1988",
+            "unstructured": "Gerdts, Donna B., and Cheong Youn. 1988. Korean psych constructions: Advancement or retreat? In Chicago Linguistics Society (CLS) 24, eds. Lynn MacLeod et al., 155–175."
+          },
+          {
+            "key": "9342_CR33",
+            "first-page": "235",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Donna B. Gerdts",
+            "year": "1990",
+            "unstructured": "Gerdts, Donna B., and Cheong Youn. 1990. Non-nominative subjects in Korean. In Harvard studies in Korean linguistics, eds. Susumu Kuno et al. Vol. III, 235–248. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR34",
+            "first-page": "325",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Donna B. Gerdts",
+            "year": "1999",
+            "unstructured": "Gerdts, Donna B., and Cheong Youn. 1999. Case stacking and focus in Korean. In Harvard studies in Korean linguistics, eds. Susumu Kuno et al. Vol. VIII, 325–339. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR35",
+            "volume-title": "Words and structure",
+            "author": "Jane Grimshaw",
+            "year": "2005",
+            "unstructured": "Grimshaw, Jane. 2005. Words and structure. Stanford: CSLI."
+          },
+          {
+            "key": "9342_CR36",
+            "unstructured": "Grohmann, Kleanthes. 2000. Prolific peripheries: A radical view from the left. Doctoral dissertation, University of Maryland."
+          },
+          {
+            "key": "9342_CR37",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Paul Hagstrom",
+            "year": "1997",
+            "unstructured": "Hagstrom, Paul. 1997. Scope interactions and phrasal movement in Korean negation. In Harvard studies in Korean linguistics, Vol. VII. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1162/ling.2007.38.1.1",
+            "volume": "38",
+            "author": "Chung-hye Han",
+            "year": "2007",
+            "unstructured": "Han, Chung-hye, Jeffrey Lidz, and Julien Musolino. 2007. V-raising and grammar competition in Korean: Evidence from negation and quantifier scope. Linguistic Inquiry 38: 1–47.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR39",
+            "unstructured": "Han, Jeonghan. 1999. Morphosyntactic coding of information structure in Korean (multiple case marking, light verb construction, quantifier float): A Role and Reference Grammar account. Doctoral dissertation, SUNY Buffalo."
+          },
+          {
+            "key": "9342_CR40",
+            "first-page": "127",
+            "volume-title": "Cornell working papers in linguistics",
+            "author": "Wayne E. Harbert",
+            "year": "1991",
+            "unstructured": "Harbert, Wayne E., and Almeida J. Toribio. 1991. Nominative objects. In Cornell working papers in linguistics, eds. Almeida J. Toribio and Wayne E. Harbert. Vol. 9, 127–192."
+          },
+          {
+            "key": "9342_CR41",
+            "first-page": "67",
+            "volume-title": "MIT–Harvard joint conference (HUMIT) 2000",
+            "author": "Ken Hiraiwa",
+            "year": "2001",
+            "unstructured": "Hiraiwa, Ken. 2001. Multiple agree and the defective intervention constraint in Japanese. In MIT–Harvard joint conference (HUMIT) 2000, eds. Ora Matushansky et al., 67–80. Cambridge: MITWPL."
+          },
+          {
+            "key": "9342_CR42",
+            "unstructured": "Hiraiwa, Ken. 2005. Dimensions of symmetry in syntax: Agreement and clausal architecture. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR43",
+            "unstructured": "Hong, Ki-Sun. 1991. Argument selection and case marking in Korean. Doctoral dissertation, Stanford University."
+          },
+          {
+            "key": "9342_CR44",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.1093/oso/9780195088335.003.0002",
+            "volume-title": "Discourse configurational languages",
+            "author": "Julia Horvath",
+            "year": "1995",
+            "unstructured": "Horvath, Julia. 1995. Structural focus, structural case, and the notion of feature-assignment. In Discourse configurational languages, ed. Katalin É. Kiss, 28–64. New York: Oxford University Press."
+          },
+          {
+            "key": "9342_CR45",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1007/0-306-48223-1_8",
+            "volume": "2002",
+            "author": "Larry M. Hyman",
+            "year": "2003",
+            "unstructured": "Hyman, Larry M. 2003. Suffix ordering in Bantu: A morphocentric approach. Yearbook of Morphology 2002: 245–281.",
+            "journal-title": "Yearbook of Morphology"
+          },
+          {
+            "key": "9342_CR46",
+            "first-page": "137",
+            "volume": "24",
+            "author": "Shinichiro Ishihara",
+            "year": "2007",
+            "unstructured": "Ishihara, Shinichiro. 2007. Major phrase, focus intonation, multiple spell-out. The Linguistic Review 24: 137–167.",
+            "journal-title": "The Linguistic Review"
+          },
+          {
+            "key": "9342_CR47",
+            "unstructured": "Jo, Jung-Min. 2001. Case-particles in Korean are not focus-markers: A minimalist approach to the focus interpretation of case-marked NPs. Presented at the 11th Japanese/Korean linguistics conference, University of California, Santa Barbara."
+          },
+          {
+            "key": "9342_CR48",
+            "first-page": "101",
+            "volume-title": "Proceedings of SICGG",
+            "author": "Yeun-jin Jung",
+            "year": "2004",
+            "unstructured": "Jung, Yeun-jin, and Shigeru Miyagawa. 2004. Decomposing ditransitive verbs. In Proceedings of SICGG, 101–120."
+          },
+          {
+            "key": "9342_CR49",
+            "unstructured": "Kim, Kyumin. 2013. Non-locative syntax of locative experiencers. Ms., University of Calgary."
+          },
+          {
+            "key": "9342_CR50",
+            "unstructured": "Kim, Min-Joo 2001. Accusative adverbials in Korean: Delimiting phrase and case. Presented at the 23rd meeting of the North Eastern Linguistic Society, New York."
+          },
+          {
+            "key": "9342_CR51",
+            "first-page": "133",
+            "volume-title": "Description and explanation in Korean linguistics",
+            "author": "Soowon Kim",
+            "year": "1998",
+            "unstructured": "Kim, Soowon, and Joan Maling. 1998. Case assignment in the siphta-construction. In Description and explanation in Korean linguistics, ed. R. King, 133–168. Ithaca: East Asia Program, Cornell University."
+          },
+          {
+            "key": "9342_CR52",
+            "first-page": "195",
+            "volume-title": "Japanese/Korean linguistics",
+            "author": "Eon-suk Ko",
+            "year": "2000",
+            "unstructured": "Ko, Eon-suk. 2000. A discourse analysis of the realization of objects in Korean. In Japanese/Korean linguistics, Vol. 9, 195–208. Stanford: CSLI."
+          },
+          {
+            "key": "9342_CR53",
+            "unstructured": "Ko, Heejong. 2005. Syntactic edges and linearization. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR54",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1162/ling.2007.38.1.49",
+            "volume": "38",
+            "author": "Heejeong Ko",
+            "year": "2007",
+            "unstructured": "Ko, Heejeong. 2007. Asymmetries in scrambling and cyclic linearization. Linguistic Inquiry 38: 49–83.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR55",
+            "first-page": "109",
+            "volume-title": "9th workshop on Altaic formal linguistics",
+            "author": "Jaklin Kornfilt",
+            "year": "2015",
+            "unstructured": "Kornfilt, Jaklin, and Omer Preminger. 2015. Nominative as no case at all: An argument from raising-to-ACC in Sakha. In 9th workshop on Altaic formal linguistics, eds. Andrew Joseph and Esra Predolac, 109–120. Cambridge: MITWPL."
+          },
+          {
+            "key": "9342_CR56",
+            "volume-title": "The locative syntax of experiencers",
+            "author": "Idan Landau",
+            "year": "2010",
+            "unstructured": "Landau, Idan. 2010. The locative syntax of experiencers. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR57",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1016/S0378-2166(02)00042-5",
+            "volume": "34",
+            "author": "Duck-young Lee",
+            "year": "2002",
+            "unstructured": "Lee, Duck-young. 2002. The function of the zero particle with special reference to spoken Japanese. Journal of Pragmatics 34: 645–682.",
+            "journal-title": "Journal of Pragmatics"
+          },
+          {
+            "key": "9342_CR58",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1007/s10831-010-9064-x",
+            "volume": "19",
+            "author": "Hanjung Lee",
+            "year": "2010",
+            "unstructured": "Lee, Hanjung. 2010. Explaining variation in Korean case ellipsis: Economy versus iconicity. Journal of East Asian Linguistics 19: 291–318.",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "9342_CR59",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.1016/j.lingua.2010.07.002",
+            "volume": "121",
+            "author": "Hanjung Lee",
+            "year": "2011",
+            "unstructured": "Lee, Hanjung. 2011. Gradients in Korean case ellipsis: An experimental investigation. Lingua 121: 20–34.",
+            "journal-title": "Lingua"
+          },
+          {
+            "key": "9342_CR60",
+            "first-page": "213",
+            "volume-title": "Pacific Asia Conference on Language, Information, and Computation (PACLIC) 24",
+            "author": "Hanjung Lee",
+            "year": "2010",
+            "unstructured": "Lee, Hanjung, and Haejeong Choi. 2010. Focus types and subject-object asymmetry in Korean case ellipsis: A new look at focus effects. In Pacific Asia Conference on Language, Information, and Computation (PACLIC) 24, 213–222."
+          },
+          {
+            "key": "9342_CR61",
+            "unstructured": "Lee, Youngjoo. 2004. The syntax and semantics of focus particles. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR62",
+            "doi-asserted-by": "crossref",
+            "first-page": "506",
+            "DOI": "10.1162/ling.2003.34.3.506",
+            "volume": "34",
+            "author": "Julie Anne Legate",
+            "year": "2004",
+            "unstructured": "Legate, Julie Anne. 2004. Some interface properties of the phase. Linguistic Inquiry 34: 506–516.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR63",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1162/ling.2008.39.1.55",
+            "volume": "39",
+            "author": "Julie Anne Legate",
+            "year": "2008",
+            "unstructured": "Legate, Julie Anne. 2008. Morphological and abstract case. Linguistic Inquiry 39: 55–101.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR64",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1007/s11049-014-9250-z",
+            "volume": "33",
+            "author": "Theodore Levin",
+            "year": "2015",
+            "unstructured": "Levin, Theodore, and Omer Preminger. 2015. Case in Sakha: Are two modalities really necessary? Natural Language and Linguistic Theory 33: 231–250.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR65",
+            "unstructured": "Mahajan, Anoop. 1990. The A/A-bar distinction and movement theory. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR66",
+            "first-page": "72",
+            "volume-title": "The Oxford handbook of case",
+            "author": "Joan Maling",
+            "year": "2009",
+            "unstructured": "Maling, Joan. 2009. The case tier: A hierarchical approach to morphological case. In The Oxford handbook of case, eds. Andrej Malchukov and Andrew Spencer, 72–87."
+          },
+          {
+            "key": "9342_CR67",
+            "first-page": "234",
+            "volume-title": "Eastern States Conference on Linguistics (ESCOL)",
+            "author": "Alec Marantz",
+            "year": "1991",
+            "unstructured": "Marantz, Alec. 1991. Case and licensing. In Eastern States Conference on Linguistics (ESCOL), eds. Germán Westphal et al. Vol. 8, 234–253. Ithaca: CLC."
+          },
+          {
+            "key": "9342_CR68",
+            "volume-title": "A reference grammar of Korean",
+            "author": "Samuel Martin",
+            "year": "1992",
+            "unstructured": "Martin, Samuel. 1992. A reference grammar of Korean. Rutland: Charles E. Tuttle."
+          },
+          {
+            "key": "9342_CR69",
+            "first-page": "124",
+            "volume-title": "Papers from the Second International Workshop on Japanese Syntax",
+            "author": "Kiyoko Masunaga",
+            "year": "1988",
+            "unstructured": "Masunaga, Kiyoko. 1988. Case deletion and discourse context. In Papers from the Second International Workshop on Japanese Syntax, ed. William J. Poser, 124–156."
+          },
+          {
+            "key": "9342_CR70",
+            "doi-asserted-by": "crossref",
+            "first-page": "308",
+            "DOI": "10.1016/B0-08-044854-2/04247-4",
+            "volume-title": "Encyclopedia of language and linguistics",
+            "author": "John McCarthy",
+            "year": "2006",
+            "unstructured": "McCarthy, John. 2006. Morphology: Optimality theory. In Encyclopedia of language and linguistics, ed. Keith Brown, 308–316. Amsterdam: Elsevier."
+          },
+          {
+            "key": "9342_CR71",
+            "unstructured": "McFadden, Thomas. 2004. The position of morphological case in the derivation: A study on the syntax-morphology interface. Doctoral dissertation, University of Pennsylvania."
+          },
+          {
+            "key": "9342_CR72",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1163/9789004373259",
+            "volume-title": "Structure and case marking in Japanese",
+            "author": "Shigeru Miyagawa",
+            "year": "1989",
+            "unstructured": "Miyagawa, Shigeru. 1989. Structure and case marking in Japanese. San Diego: Academic Press."
+          },
+          {
+            "key": "9342_CR73",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.7551/mitpress/4056.003.0012",
+            "volume-title": "Ken Hale: A life in language",
+            "author": "Shigeru Miyagawa",
+            "year": "2001",
+            "unstructured": "Miyagawa, Shigeru. 2001. EPP, scrambling, and wh-in-situ. In Ken Hale: A life in language, ed. Michael J. Kenstowicz, 293–338. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR74",
+            "volume-title": "Why agree? Why move: Unifying agreement-based and discourse configurational languages",
+            "author": "Shigeru Miyagawa",
+            "year": "2010",
+            "unstructured": "Miyagawa, Shigeru. 2010. Why agree? Why move: Unifying agreement-based and discourse configurational languages. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR75",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1023/B:JEAL.0000007345.64336.84",
+            "volume": "13",
+            "author": "Shigeru Miyagawa",
+            "year": "2004",
+            "unstructured": "Miyagawa, Shigeru, and Takae Tsujioka. 2004. Argument structure and ditransitive verbs in Japanese. Journal of East Asian Linguistics 13: 1–38.",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "9342_CR76",
+            "unstructured": "Nakamura, Wataru. 1996. Case spreading/stacking in Korean: Evidence for the macrorole tier. Presented at Lexical-Functional Grammar (LFG96), Grenoble."
+          },
+          {
+            "key": "9342_CR77",
+            "doi-asserted-by": "crossref",
+            "first-page": "685",
+            "DOI": "10.1002/9780470996591.ch69",
+            "volume-title": "The Blackwell companion to syntax",
+            "author": "Ad Neeleman",
+            "year": "2006",
+            "unstructured": "Neeleman, Ad, and Hans van de Koot. 2006. Syntactic haplology. In The Blackwell companion to syntax, eds. Martin Everaert and Henk van Riemsdijk, 685–710. Malden: Blackwell."
+          },
+          {
+            "key": "9342_CR78",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1075/cilt.71",
+            "volume-title": "Categories and case: The sentence structure of Korean",
+            "author": "William O’Grady",
+            "year": "1991",
+            "unstructured": "O’Grady, William. 1991. Categories and case: The sentence structure of Korean. Amsterdam: Benjamins."
+          },
+          {
+            "key": "9342_CR79",
+            "first-page": "381",
+            "volume-title": "Harvard studies in Korean linguistics II",
+            "author": "Myung-Kwan Park",
+            "year": "1991",
+            "unstructured": "Park, Myung-Kwan. 1991. Experiencer movement and anaphor binding in causative psych-verbs in Korean. In Harvard studies in Korean linguistics II, eds. Susumu Kuno et al., 381–393. Department of Linguistics, Harvard University."
+          },
+          {
+            "key": "9342_CR80",
+            "unstructured": "Park, Ki-seoung. 1995. The semantics and pragmatics of case marking in Korean: A Role and Reference Grammar account. Doctoral dissertation, SUNY Buffalo."
+          },
+          {
+            "key": "9342_CR81",
+            "volume-title": "Russian case morphology and the syntactic categories",
+            "author": "David Pesetsky",
+            "year": "2014",
+            "unstructured": "Pesetsky, David. 2014. Russian case morphology and the syntactic categories. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR82",
+            "unstructured": "Preminger, Omer. 2011. Agreement as a fallible operation. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR83",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7551/mitpress/9780262027403.001.0001",
+            "volume-title": "Agreement and its failures",
+            "author": "Omer Preminger",
+            "year": "2014",
+            "unstructured": "Preminger, Omer. 2014. Agreement and its failures. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR84",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7551/mitpress/9780262162548.001.0001",
+            "volume-title": "Argument introducers",
+            "author": "Liina Pylkkänen",
+            "year": "2008",
+            "unstructured": "Pylkkänen, Liina. 2008. Argument introducers. Cambridge: MIT Press."
+          },
+          {
+            "key": "9342_CR85",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511663659",
+            "volume-title": "Morpheme order and semantic scope",
+            "author": "Keren Rice",
+            "year": "2000",
+            "unstructured": "Rice, Keren. 2000. Morpheme order and semantic scope. Cambridge: Cambridge University Press."
+          },
+          {
+            "key": "9342_CR86",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.1111/j.1467-9612.2012.00169.x",
+            "volume": "16",
+            "author": "Norvin Richards",
+            "year": "2013",
+            "unstructured": "Richards, Norvin. 2013. Lardil “case stacking” and the timing of case assignment. Syntax 16: 42–76.",
+            "journal-title": "Syntax"
+          },
+          {
+            "key": "9342_CR87",
+            "unstructured": "Saito, Mamoru. 1985. Some asymmetries in Japanese and their theoretical implications. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR88",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1007/BF00129574",
+            "volume": "1",
+            "author": "Mamoru Saito",
+            "year": "1992",
+            "unstructured": "Saito, Mamoru. 1992. Long distance scrambling in Japanese. Journal of East Asian Linguistics 1: 69–118.",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "9342_CR89",
+            "first-page": "351",
+            "volume-title": "North East Linguistic Society (NELS)",
+            "author": "Carson T. Schütze",
+            "year": "1996",
+            "unstructured": "Schütze, Carson T. 1996. Korean “case stacking” isn’t: Unifying noncase uses of case particles. In North East Linguistic Society (NELS), ed. K. Kusumoto. Vol. 26, 351–365. Amherst: GLSA."
+          },
+          {
+            "key": "9342_CR90",
+            "first-page": "193",
+            "volume": "18",
+            "author": "Carson T. Schütze",
+            "year": "2001",
+            "unstructured": "Schütze, Carson T. 2001a. On Korean ‘case stacking’: The varied functions of the particles -ka and -lul. The Linguistic Review 18: 193–232.",
+            "journal-title": "The Linguistic Review"
+          },
+          {
+            "key": "9342_CR91",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1111/1467-9612.00044",
+            "volume": "4",
+            "author": "Carson T. Schütze",
+            "year": "2001",
+            "unstructured": "Schütze, Carson T. 2001b. On the nature of default case. Syntax 4: 205–238.",
+            "journal-title": "Syntax"
+          },
+          {
+            "key": "9342_CR92",
+            "first-page": "277",
+            "volume": "26",
+            "author": "Peter Sells",
+            "year": "1995",
+            "unstructured": "Sells, Peter. 1995. Korean and Japanese morphology from a lexical perspective. Linguistic Inquiry 26: 277–325.",
+            "journal-title": "Linguistic Inquiry"
+          },
+          {
+            "key": "9342_CR93",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Peter Sells",
+            "year": "1997",
+            "unstructured": "Sells, Peter. 1997. Positional constraints and faithfulness in morphology. In Harvard studies in Korean linguistics, Vol. 7."
+          },
+          {
+            "key": "9342_CR94",
+            "doi-asserted-by": "crossref",
+            "first-page": "789",
+            "DOI": "10.2307/412912",
+            "volume": "53",
+            "author": "Masayoshi Shibatani",
+            "year": "1977",
+            "unstructured": "Shibatani, Masayoshi. 1977. Grammatical relations and surface cases. Language 53: 789–809.",
+            "journal-title": "Language"
+          },
+          {
+            "key": "9342_CR95",
+            "first-page": "46",
+            "volume": "29",
+            "author": "Masayoshi Shibatani",
+            "year": "1999",
+            "unstructured": "Shibatani, Masayoshi. 1999. Dative subject constructions twenty two years later. Studies in the Linguistic Sciences 29: 46–76.",
+            "journal-title": "Studies in the Linguistic Sciences"
+          },
+          {
+            "key": "9342_CR96",
+            "unstructured": "Sigurðsson, Halldór Ármann. 1989. Verbal syntax and case in Icelandic. Doctoral dissertation, Lund University."
+          },
+          {
+            "key": "9342_CR97",
+            "unstructured": "Sohn, Keun-won. 1995. Negative polarity items, scope, and economy. Doctoral dissertation, University of Connecticut."
+          },
+          {
+            "key": "9342_CR98",
+            "volume-title": "Harvard studies in Korean linguistics",
+            "author": "Jinhee Suh",
+            "year": "1989",
+            "unstructured": "Suh, Jinhee. 1989. Scope interaction in negation. In Harvard studies in Korean linguistics, eds. Susumu Kuno et al. Vol. III. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR99",
+            "first-page": "207",
+            "volume-title": "Papers from the Fourth Student Conference on Linguistics",
+            "author": "Sungki Suh",
+            "year": "1992",
+            "unstructured": "Suh, Sungki. 1992. The distribution of topic- and nominative-marked phrases in Korean: The universality of IP structure. In Papers from the Fourth Student Conference on Linguistics, eds. Andrea Kathol and Jill Beckman, 207–221. Cambridge: MITWPL."
+          },
+          {
+            "key": "9342_CR100",
+            "first-page": "261",
+            "volume-title": "Peripheries: Syntactic edges and their effects",
+            "author": "Peter Svenonius",
+            "year": "2004",
+            "unstructured": "Svenonius, Peter. 2004. On the edge. In Peripheries: Syntactic edges and their effects, eds. David Adger et al., 261–287. Dordrecht: Kluwer Academic."
+          },
+          {
+            "key": "9342_CR101",
+            "volume-title": "Semantics and Linguistic Theory (SALT) 15",
+            "author": "Shoichi Takahashi",
+            "year": "2005",
+            "unstructured": "Takahashi, Shoichi, and Danny Fox. 2005. MaxElide and the re-binding problem. In Semantics and Linguistic Theory (SALT) 15."
+          },
+          {
+            "key": "9342_CR102",
+            "unstructured": "Tsutsui, Michio. 1984. Particle ellipsis in Japanese. Doctoral dissertation, University of Illinois, Urbana-Champaign."
+          },
+          {
+            "key": "9342_CR103",
+            "unstructured": "Ura, Hiroyuki. 1996. Multiple feature-checking: A theory of grammatical function-splitting. Doctoral dissertation, MIT."
+          },
+          {
+            "key": "9342_CR104",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1023/A:1008383332362",
+            "volume": "8",
+            "author": "Hiroyuki Ura",
+            "year": "1999",
+            "unstructured": "Ura, Hiroyuki. 1999. Checking theory and dative subject constructions in Japanese and Korean. Journal of East Asian Linguistics 8: 223–254.",
+            "journal-title": "Journal of East Asian Linguistics"
+          },
+          {
+            "key": "9342_CR105",
+            "unstructured": "Urushibara, Saeko. 1991. Ey/eykey: A postposition or a case marker?"
+          },
+          {
+            "key": "9342_CR106",
+            "first-page": "102",
+            "volume-title": "The Oxford handbook of case",
+            "author": "Robert D. Valin Van",
+            "year": "2009",
+            "unstructured": "Van Valin, Robert D. 2009. Case in role and reference grammar. In The Oxford handbook of case, eds. Andrej Machulkov and Andrew Spencer, 102–120. Oxford: Oxford University Press."
+          },
+          {
+            "key": "9342_CR107",
+            "doi-asserted-by": "crossref",
+            "first-page": "679",
+            "DOI": "10.1007/BF00993017",
+            "volume": "11",
+            "author": "Ellen Woolford",
+            "year": "1997",
+            "unstructured": "Woolford, Ellen. 1997. Four-way case systems: Ergative, nominative, objective, and accusative. Natural Language and Linguistic Theory 11: 679–728.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR108",
+            "first-page": "626",
+            "volume-title": "West Coast Conference on Formal Linguistics (WCCFL)",
+            "author": "Dong-whee Yang",
+            "year": "1999",
+            "unstructured": "Yang, Dong-whee. 1999. Case features and case particles. In West Coast Conference on Formal Linguistics (WCCFL), eds. Sonya Bird et al. Vol. 18, 626–639."
+          },
+          {
+            "key": "9342_CR109",
+            "unstructured": "Yatabe, Shoichiro. 1999. Particle ellipsis and focus projection in Japanese. Language, Information, Text, Vol. 6, 79–104. Department of Language and Information Sciences, University of Tokyo."
+          },
+          {
+            "key": "9342_CR110",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.2307/415655",
+            "volume": "63",
+            "author": "Moira Yip",
+            "year": "1987",
+            "unstructured": "Yip, Moira, Joan Maling, and Ray Jackendoff. 1987. Case in tiers. Language 63: 217–250.",
+            "journal-title": "Language"
+          },
+          {
+            "key": "9342_CR111",
+            "first-page": "105",
+            "volume": "14",
+            "author": "James Hye-Suk Yoon",
+            "year": "1996",
+            "unstructured": "Yoon, James Hye-Suk. 1996. Ambiguity of government and the chain condition. Natural Language and Linguistic Theory 14: 105–162.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR112",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1075/tsl.61.15yoo",
+            "volume-title": "Non-nominative subjects",
+            "author": "James Hye-Suk Yoon",
+            "year": "2004",
+            "unstructured": "Yoon, James Hye-Suk. 2004. Non-nominative (major) subjects and case stacking in Korean. In Non-nominative subjects, eds. P. Bhoskaravao and Karumuri Venkata Subbarao. Vol. 2, 265–314. Amsterdam: Benjamins."
+          },
+          {
+            "key": "9342_CR113",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1075/la.74.10yoo",
+            "volume-title": "Clitic and affix combinations: Theoretical perspectives",
+            "author": "James Hye-suk Yoon",
+            "year": "2005",
+            "unstructured": "Yoon, James Hye-suk. 2005. Non-morphological determination of nominal particle ordering in Korean. In Clitic and affix combinations: Theoretical perspectives, eds. Lorie Heggie and Francisco Ordonez, 239–282. Amsterdam: Benjamins."
+          },
+          {
+            "key": "9342_CR114",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1007/s11049-007-9020-2",
+            "volume": "25",
+            "author": "James Hye-suk Yoon",
+            "year": "2007",
+            "unstructured": "Yoon, James Hye-suk. 2007. Raising of major arguments in Korean and Japanese. Natural Language and Linguistic Theory 25: 615–653.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          },
+          {
+            "key": "9342_CR115",
+            "first-page": "415",
+            "volume-title": "North East Linguistic Society (NELS)",
+            "author": "James Hye-suk Yoon",
+            "year": "1991",
+            "unstructured": "Yoon, James Hye-suk, and Jeongme Yoon. 1991. Chain condition, ambiguity of government and derivational grammars. In North East Linguistic Society (NELS), ed. Tim Sherer. Vol. 21, 415–429."
+          },
+          {
+            "key": "9342_CR116",
+            "unstructured": "Yoon, Jong-Yurl. 1989. On the multiple ka and lul constructions in Korean."
+          },
+          {
+            "key": "9342_CR117",
+            "volume-title": "A relational analysis of Korean multiple nominative constructions",
+            "author": "Cheong Youn",
+            "year": "1990",
+            "unstructured": "Youn, Cheong. 1990. A relational analysis of Korean multiple nominative constructions. Seoul: Hanshin."
+          },
+          {
+            "key": "9342_CR118",
+            "first-page": "121",
+            "volume": "6",
+            "author": "Cheong Youn",
+            "year": "1995",
+            "unstructured": "Youn, Cheong. 1995. A relational analysis of case stacking. Hyentaynwunpepyenkwu 6: 121–147.",
+            "journal-title": "Hyentaynwunpepyenkwu"
+          },
+          {
+            "key": "9342_CR119",
+            "first-page": "125",
+            "volume": "14",
+            "author": "Cheong Youn",
+            "year": "1998",
+            "unstructured": "Youn, Cheong. 1998. Case stacking revisited. Studies in Modern Grammar 14: 125–149.",
+            "journal-title": "Studies in Modern Grammar"
+          },
+          {
+            "key": "9342_CR120",
+            "unstructured": "Yun, Suyeon. 2013. Post-verbal arguments in Korean: Syntax, prosody, and information structure. Ms., MIT."
+          },
+          {
+            "key": "9342_CR121",
+            "doi-asserted-by": "crossref",
+            "first-page": "441",
+            "DOI": "10.1007/BF00133285",
+            "volume": "3",
+            "author": "Annie Zaenen",
+            "year": "1985",
+            "unstructured": "Zaenen, Annie, Joan Maling, and Höskuldur Thráinsson. 1985. Case and grammatical functions: The Icelandic passive. Natural Language and Linguistic Theory 3: 441–483.",
+            "journal-title": "Natural Language and Linguistic Theory"
+          }
+        ],
+        "container-title": [
+          "Natural Language &amp; Linguistic Theory"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s11049-016-9342-z.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/article/10.1007/s11049-016-9342-z/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s11049-016-9342-z",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s11049-016-9342-z.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2024-06-16T11:28:30Z",
+          "timestamp": 1718537310000
+        },
+        "score": 23.660442,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/s11049-016-9342-z"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              16
+            ]
+          ]
+        },
+        "references-count": 121,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2017,
+                5
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9342"
+        ],
+        "URL": "https://doi.org/10.1007/s11049-016-9342-z",
+        "ISSN": [
+          "0167-806X",
+          "1573-0859"
+        ],
+        "issn-type": [
+          {
+            "value": "0167-806X",
+            "type": "print"
+          },
+          {
+            "value": "1573-0859",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2024-09-07T18:08:23Z",
+          "timestamp": 1725732503470
+        },
+        "publisher-location": "Stroudsburg, PA, USA",
+        "reference-count": 0,
+        "publisher": "Association for Computational Linguistics",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.18653/v1/w19-3314",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              12
+            ]
+          ],
+          "date-time": "2019-09-12T14:39:56Z",
+          "timestamp": 1568299196000
+        },
+        "page": "128-135",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Copula and Case-Stacking Annotations for Korean AMR"
+        ],
+        "prefix": "10.18653",
+        "author": [
+          {
+            "given": "Hyonsu",
+            "family": "Choe",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jiyoon",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hyejin",
+            "family": "Park",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hansaem",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1643",
+        "event": {
+          "name": "Proceedings of the First International Workshop on Designing Meaning Representations",
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                8
+              ]
+            ]
+          },
+          "location": "Florence, Italy",
+          "end": {
+            "date-parts": [
+              [
+                2019,
+                8
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "Proceedings of the First International Workshop on Designing Meaning Representations"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              12
+            ]
+          ],
+          "date-time": "2019-09-12T14:45:13Z",
+          "timestamp": 1568299513000
+        },
+        "score": 23.040777,
+        "resource": {
+          "primary": {
+            "URL": "https://www.aclweb.org/anthology/W19-3314"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.18653/v1/w19-3314",
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 4,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,6014 @@
+[
+  {
+    "q": "Kilivila natural semantic metalanguage emotion Senft",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1344581,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  10
+                ]
+              ],
+              "date-time": "2025-10-10T01:48:18Z",
+              "timestamp": 1760060898411,
+              "version": "build-2065373602"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9780195092110"
+              },
+              {
+                "type": "electronic",
+                "value": "9780197721353"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this chapter, an analysis of the Kilivila CP system is provided. Section 3.1 describes the research aims and methods; section 3.2 presents the data collected, as well as a first interpretation of the data; and section 3.3 presents the results of my research, answering the questions raised in section 3.1. The tables presented in this chapter are numbered according to the following logic: Tables 3.1.1 and 3.1.2 present the consultants and the questionnaire used to elicit CPs.Tables 3.2.0-3.2.216 present the data on which the analyses are based. Tables 3.3.1-3.3.7 present ordered data for, and results of, analyses with respect to the inventory, the acquisition, and the production of CPs.</jats:p>",
+            "DOI": "10.1093/oso/9780195092110.003.0003",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "page": "24-294",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The System of Classificatory Particles in Kilivila"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52196452/isbn-9780195092110-book-part-3.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:46Z",
+              "timestamp": 1760037166000
+            },
+            "score": 36.873158,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197/chapter/421270205"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.003.0003",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  6,
+                  25
+                ]
+              ],
+              "date-time": "2026-06-25T21:55:06Z",
+              "timestamp": 1782424506526,
+              "version": "3.54.5"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "value": "9780195092110",
+                "type": "print"
+              },
+              {
+                "value": "9780197721353",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Common among the world's languages is the phenomenon of classification, a partly or fully grammatical division of the noun lexicon into distinct classes that ultimately derives from the human need to classify and filter data on various levels while communicating. In this book, Senft describes and develops a grammar of classificatory particles in Kilivila, an Austronesian language of the Trobriand Islanders in Papua New Guinea. Drawing largely on his anthropological and linguistic fieldwork in the islands, and emphasizing the use of classifiers in a social context, Senft provides quantitative data and a statistical profile of the status and use of these particles, and the classifier system that employs them.</jats:p>",
+            "DOI": "10.1093/oso/9780195092110.001.0001",
+            "type": "book",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 37,
+            "title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "language": "en",
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:45Z",
+              "timestamp": 1760037165000
+            },
+            "score": 35.815117,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.001.0001",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  10
+                ]
+              ],
+              "date-time": "2025-10-10T01:47:42Z",
+              "timestamp": 1760060862511,
+              "version": "build-2065373602"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9780195092110"
+              },
+              {
+                "type": "electronic",
+                "value": "9780197721353"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this chapter, we will look at the grammatical and discourse functions of the Kilivila system of CPs, including the morphological relevance of CPs with respect to Kilivila inflectional morphology and the functions that are assigned to CPs in Kilivila. The Kilivila system of CPs contains at least 177 formatives. (Section 3.3.1 lists these CPs in detail.) I assume that with all the subtle and very specific differentiations possible, there are probably more than 200 CPs in Kilivila. Moreover, if we keep in mind all the pragmatic functions CPs can serve, the Kilivila CP system can even be regarded as basically open; here it has to be noted, however, that at least so far no loanword has been incorporated completely or in part into the inventory of Kilivila CPs (see G. Senft 1991a, 1992a).</jats:p>",
+            "DOI": "10.1093/oso/9780195092110.003.0002",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "page": "16-23",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Classificatory Particles in Kilivila: Grammatical and Discourse Functions"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52196450/isbn-9780195092110-book-part-2.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:46Z",
+              "timestamp": 1760037166000
+            },
+            "score": 35.67594,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197/chapter/421270196"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.003.0002",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  10
+                ]
+              ],
+              "date-time": "2025-10-10T01:47:40Z",
+              "timestamp": 1760060860184,
+              "version": "build-2065373602"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9780195092110"
+              },
+              {
+                "type": "electronic",
+                "value": "9780197721353"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "DOI": "10.1093/oso/9780195092110.002.0002",
+            "type": "other",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "page": "v-v",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Dedication"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52196435/isbn-9780195092110-front-matter-part-2.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:45Z",
+              "timestamp": 1760037165000
+            },
+            "score": 35.525665,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197/chapter/421270157"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.002.0002",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  10
+                ]
+              ],
+              "date-time": "2025-10-10T01:48:18Z",
+              "timestamp": 1760060898577,
+              "version": "build-2065373602"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9780195092110"
+              },
+              {
+                "type": "electronic",
+                "value": "9780197721353"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "DOI": "10.1093/oso/9780195092110.002.0003",
+            "type": "other",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "page": "ix-xii",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Preface"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52196439/isbn-9780195092110-front-matter-part-3.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:45Z",
+              "timestamp": 1760037165000
+            },
+            "score": 35.525665,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197/chapter/421270169"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.002.0003",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T08:35:16Z",
+              "timestamp": 1794472516794,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Amsterdam",
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "isbn-type": [
+              {
+                "value": "9789027206794",
+                "type": "print"
+              },
+              {
+                "value": "9789027286628",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2011,
+                  8,
+                  18
+                ]
+              ]
+            },
+            "abstract": "<jats:p>Kilivila is one of the languages of the world that lacks dedicated reciprocal forms. After a short introduction the paper briefly shows how reciprocity is either not expressed at all, is only implicated in an utterance, or expressed periphrastically.</jats:p>",
+            "DOI": "10.1075/tsl.98.13sen",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2014,
+                  3,
+                  23
+                ]
+              ],
+              "date-time": "2014-03-23T18:31:04Z",
+              "timestamp": 1395599464000
+            },
+            "page": "225-232",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "13. To have and have not"
+            ],
+            "prefix": "10.1075",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2011,
+                  8,
+                  10
+                ]
+              ]
+            },
+            "container-title": [
+              "Typological Studies in Language",
+              "Reciprocals and Semantic Typology"
+            ],
+            "language": "en",
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2025-07-03T11:39:09Z",
+              "timestamp": 1751542749000
+            },
+            "score": 35.480007,
+            "resource": {
+              "primary": {
+                "URL": "https://benjamins.com/catalog/tsl.98.13sen"
+              },
+              "secondary": [
+                {
+                  "URL": "https://www.degruyter.com/document/doi/10.1075/tsl.98.13sen/html",
+                  "label": "DeGruyter"
+                }
+              ]
+            },
+            "subtitle": [
+              "Kilivila reciprocals"
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  2011,
+                  8,
+                  10
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789027206794",
+              "9789027286628"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1075/tsl.98.13sen",
+            "archive": [
+              "Portico"
+            ],
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1075/tsl.98",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "ISSN": [
+              "0167-7373"
+            ],
+            "issn-type": [
+              {
+                "value": "0167-7373",
+                "type": "print"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2011,
+                  8,
+                  10
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  10
+                ]
+              ],
+              "date-time": "2025-10-10T01:48:21Z",
+              "timestamp": 1760060901713,
+              "version": "build-2065373602"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University PressNew York, NY",
+            "isbn-type": [
+              {
+                "type": "print",
+                "value": "9780195092110"
+              },
+              {
+                "type": "electronic",
+                "value": "9780197721353"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Kilivila (also known as Kiriwina and Boyowa) is one of the 40 Austronesian languages spoken in the area of Milne Bay Province in Papua New Guinea. It belongs to the “Papuan Tip Cluster” (Capell 1976:6, 9; Ross 1988:25-27), and typologically is classified as having verb-object-subject (VOS) word order (G. Senft 1986:107-112). The Kilivila language family comprises Budibud (also known as Nada), Muyuw (also known as Muma), and Kilivila. Kilivila has about 25,000 speakers, most of whom live on the Trobriand Islands.</jats:p>",
+            "DOI": "10.1093/oso/9780195092110.003.0001",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  11,
+                  1
+                ]
+              ],
+              "date-time": "2023-11-01T07:45:35Z",
+              "timestamp": 1698824735000
+            },
+            "page": "3-15",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Introduction"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Gunter",
+                "family": "Senft",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Classificatory Particles In Kilivila"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://academic.oup.com/book/chapter-pdf/52196443/isbn-9780195092110-book-part-1.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2025-10-09T19:12:45Z",
+              "timestamp": 1760037165000
+            },
+            "score": 35.339256,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/48197/chapter/421270181"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780195092110",
+              "9780197721353"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/oso/9780195092110.003.0001",
+            "published": {
+              "date-parts": [
+                [
+                  1996,
+                  3,
+                  14
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Kuuk Thaayorre natural semantic metalanguage emotion",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=Kuuk+Thaayorre+natural+semantic+metalanguage+emotion&rows=7"
+  },
+  {
+    "q": "Gurindji natural semantic metalanguage want emotion",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1378198,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T04:22:29Z",
+              "timestamp": 1794457349749,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University Press",
+            "isbn-type": [
+              {
+                "value": "9780199592746",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "DOI": "10.1093/acprof:oso/9780199592746.003.0028",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2013-10-01T11:48:55Z",
+              "timestamp": 1380628135000
+            },
+            "page": "399-409",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": [
+              "Comparing the Natural Semantic Metalanguage (NSM) approach to emotion and the GRID paradigm1"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Zhengdao",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Components of Emotional Meaning"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2022-08-02T13:47:22Z",
+              "timestamp": 1659448042000
+            },
+            "score": 34.741627,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/2214/chapter/142275036"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780199592746"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/acprof:oso/9780199592746.003.0028",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1093/acprof:oso/9780199592746.001.0001",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  4,
+                  5
+                ]
+              ],
+              "date-time": "2022-04-05T18:22:17Z",
+              "timestamp": 1649182937127
+            },
+            "reference-count": 0,
+            "publisher": "AI Publications",
+            "issue": "3",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJELS"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "DOI": "10.22161/ijels.3.3.18",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:12Z",
+              "timestamp": 1527665472000
+            },
+            "page": "386-388",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Emotion Words in Sundanese Language: Research of Natural Semantic Metalanguage"
+            ],
+            "prefix": "10.22161",
+            "volume": "3",
+            "author": [
+              {
+                "given": "Muzainah",
+                "family": "Nurazijah",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "9421",
+            "published-online": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of English Literature and Social Sciences"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:14Z",
+              "timestamp": 1527665474000
+            },
+            "score": 33.233555,
+            "resource": {
+              "primary": {
+                "URL": "http://ijels.com/ojs/index.php/ijels/article/view/27"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "3",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.22161/ijels.3.3.18",
+            "ISSN": [
+              "2456-7620"
+            ],
+            "issn-type": [
+              {
+                "value": "2456-7620",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  13
+                ]
+              ],
+              "date-time": "2026-11-13T09:51:29Z",
+              "timestamp": 1794563489588,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004357723",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004357709",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004357723_004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2018-03-20T16:02:10Z",
+              "timestamp": 1521561730000
+            },
+            "page": "63-93",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Explicating Emotion Concepts across Languages and Cultures"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Ten Lectures on Natural Semantic MetaLanguage"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/35972",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2026-03-20T05:04:55Z",
+              "timestamp": 1773983095000
+            },
+            "score": 33.23085,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004357723",
+              "9789004357709"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004357723_004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004357723",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            }
+          },
+          {
+            "institution": [
+              {
+                "name": "Koninklijke Brill NV",
+                "acronym": [
+                  "BRILL"
+                ]
+              }
+            ],
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  3,
+                  7
+                ]
+              ],
+              "date-time": "2025-03-07T01:05:37Z",
+              "timestamp": 1741309537851,
+              "version": "3.38.0"
+            },
+            "reference-count": 0,
+            "publisher": "Walter de Gruyter GmbH",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1163/2773-1952_hcso_com_0105",
+            "type": "dataset",
+            "created": {
+              "date-parts": [
+                [
+                  2024,
+                  4,
+                  8
+                ]
+              ],
+              "date-time": "2024-04-08T09:59:19Z",
+              "timestamp": 1712570359000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Natural Semantic Metalanguage (NSM) Approach"
+            ],
+            "prefix": "10.1163",
+            "member": "374",
+            "container-title": [
+              "Handbook of Cognitive Semantics Online"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  30
+                ]
+              ],
+              "date-time": "2024-09-30T11:29:45Z",
+              "timestamp": 1727695785000
+            },
+            "score": 32.985294,
+            "resource": {
+              "primary": {
+                "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  3,
+                  29
+                ]
+              ],
+              "date-time": "2022-03-29T18:40:38Z",
+              "timestamp": 1648579238930
+            },
+            "reference-count": 0,
+            "publisher": "Hampstead Psychological Associates",
+            "issue": "5",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJRP"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "DOI": "10.37200/ijpr/v24i5/pr2020792",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:13Z",
+              "timestamp": 1593428053000
+            },
+            "page": "7915-7923",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "prefix": "10.37200",
+            "volume": "24",
+            "author": [
+              {
+                "given": "Ni Putu Candra",
+                "family": "Gunasari",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "23331",
+            "published-online": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of Psychosocial Rehabilitation"
+            ],
+            "original-title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:16Z",
+              "timestamp": 1593428056000
+            },
+            "score": 32.801567,
+            "resource": {
+              "primary": {
+                "URL": "https://www.psychosocial.com/article/PR2020792/31525/"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "5",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.37200/ijpr/v24i5/pr2020792",
+            "ISSN": [
+              "1475-7192"
+            ],
+            "issn-type": [
+              {
+                "value": "1475-7192",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  29
+                ]
+              ],
+              "date-time": "2023-12-29T13:49:47Z",
+              "timestamp": 1703857787418
+            },
+            "reference-count": 0,
+            "publisher": "Universitas Sumatera Utara",
+            "issue": "1",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2022,
+                      12,
+                      20
+                    ]
+                  ],
+                  "date-time": "2022-12-20T00:00:00Z",
+                  "timestamp": 1671494400000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://creativecommons.org/licenses/by-sa/4.0"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "int. j. linguist. Sumat. malay."
+            ],
+            "abstract": "<jats:p>Academics are always interested in debating the study of emotions across cultures and languages. This is due to the diverse ways that emotions can be expressed in different contexts and situations in each language and culture. This article aims to discuss the meaning of Balinese Lexicons dealing with emotions. The theory applied is Natural Semantic Metalanguage (NSM) with two at once approaches, namely mapping and explication. The results showed that there is something good happened, represented by the lexicons: demen, kendel, and lédang, and something bad happened: sebet, inguh, and gedeg. The most interesting findings are the lexicon angob ‘surprise’ having semantic feature of something good might happen and ngon ‘surprise’ due to the something bad might happen. This can be inferred that there is an in-between position, not something good nor bad happened in the concerned Balinese emotion lexicons.</jats:p>",
+            "DOI": "10.32734/ijlsm.v1i1.10568",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "page": "16-22",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Balinese Emotion Lexicons: A Natural Semantic Metalanguage Approach"
+            ],
+            "prefix": "10.32734",
+            "volume": "1",
+            "author": [
+              {
+                "given": "I Nengah",
+                "family": "Sudipa",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "17744",
+            "published-online": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal on Linguistics of Sumatra and Malay"
+            ],
+            "link": [
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "score": 32.372883,
+            "resource": {
+              "primary": {
+                "URL": "https://talenta.usu.ac.id/lsm/article/view/10568"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "1",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2022,
+                    12,
+                    1
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.32734/ijlsm.v1i1.10568",
+            "ISSN": [
+              "2986-3848"
+            ],
+            "issn-type": [
+              {
+                "value": "2986-3848",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  30
+                ]
+              ],
+              "date-time": "2026-04-30T21:35:01Z",
+              "timestamp": 1777584901722,
+              "version": "3.51.4"
+            },
+            "reference-count": 5,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2012,
+                      7,
+                      1
+                    ]
+                  ],
+                  "date-time": "2012-07-01T00:00:00Z",
+                  "timestamp": 1341100800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+              }
+            ],
+            "content-domain": {
+              "domain": [
+                "journals.sagepub.com"
+              ],
+              "crossmark-restriction": true
+            },
+            "short-container-title": [
+              "Emotion Review"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "abstract": "<jats:p>When it comes to communication of pain, Anna Wierzbicka (2012) takes issue with the scientific definition of pain and turns to natural semantic metalanguage (NSM). However, “pain” is not one of the 64 semantic primes in NSM, and therefore Wierzbicka suggests words such as “body,” “bad,” and “don’t want.” This blurs the boundaries between pain and other aversive sensations and it also challenges certain clinical features of the pain experience.</jats:p>",
+            "DOI": "10.1177/1754073912439769",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2012-07-03T11:41:01Z",
+              "timestamp": 1341315661000
+            },
+            "page": "320-321",
+            "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Defining Pain: Natural Semantic Metalanguage Meets IASP: A Comment on Wierzbicka’s “Is Pain a Human Universal? A Cross-Linguistic and Cross-Cultural Perspective on Pain”"
+            ],
+            "prefix": "10.1177",
+            "volume": "4",
+            "author": [
+              {
+                "given": "Ephrem",
+                "family": "Fernandez",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Department of Psychology, The University of Texas at San Antonio, USA"
+                  }
+                ],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "179",
+            "published-online": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ]
+            },
+            "reference": [
+              {
+                "key": "bibr1-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jpain.2010.10.011"
+              },
+              {
+                "key": "bibr2-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/0304-3959(75)90044-5"
+              },
+              {
+                "key": "bibr3-1754073912439769",
+                "volume-title": "Classification of chronic pain, 2nd ed. Part III: Pain terms, a current list with definitions and notes on usage. IASP task force on taxonomy",
+                "author": "Merskey H.",
+                "year": "1994"
+              },
+              {
+                "key": "bibr4-1754073912439769",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantic primes and universals",
+                "author": "Wierzbicka A.",
+                "year": "1996"
+              },
+              {
+                "key": "bibr5-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/1754073912439761"
+              }
+            ],
+            "container-title": [
+              "Emotion Review"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1754073912439769",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2026-04-28T19:57:02Z",
+              "timestamp": 1777406222000
+            },
+            "score": 31.648602,
+            "resource": {
+              "primary": {
+                "URL": "https://journals.sagepub.com/doi/10.1177/1754073912439769"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "references-count": 5,
+            "journal-issue": {
+              "issue": "3",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2012,
+                    7
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "10.1177/1754073912439769"
+            ],
+            "URL": "https://doi.org/10.1177/1754073912439769",
+            "ISSN": [
+              "1754-0739",
+              "1754-0747"
+            ],
+            "issn-type": [
+              {
+                "value": "1754-0739",
+                "type": "print"
+              },
+              {
+                "value": "1754-0747",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Ngardi natural semantic metalanguage emotion",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1342883,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T04:22:29Z",
+              "timestamp": 1794457349749,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University Press",
+            "isbn-type": [
+              {
+                "value": "9780199592746",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "DOI": "10.1093/acprof:oso/9780199592746.003.0028",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2013-10-01T11:48:55Z",
+              "timestamp": 1380628135000
+            },
+            "page": "399-409",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": [
+              "Comparing the Natural Semantic Metalanguage (NSM) approach to emotion and the GRID paradigm1"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Zhengdao",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Components of Emotional Meaning"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2022-08-02T13:47:22Z",
+              "timestamp": 1659448042000
+            },
+            "score": 34.741627,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/2214/chapter/142275036"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780199592746"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/acprof:oso/9780199592746.003.0028",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1093/acprof:oso/9780199592746.001.0001",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  4,
+                  5
+                ]
+              ],
+              "date-time": "2022-04-05T18:22:17Z",
+              "timestamp": 1649182937127
+            },
+            "reference-count": 0,
+            "publisher": "AI Publications",
+            "issue": "3",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJELS"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "DOI": "10.22161/ijels.3.3.18",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:12Z",
+              "timestamp": 1527665472000
+            },
+            "page": "386-388",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Emotion Words in Sundanese Language: Research of Natural Semantic Metalanguage"
+            ],
+            "prefix": "10.22161",
+            "volume": "3",
+            "author": [
+              {
+                "given": "Muzainah",
+                "family": "Nurazijah",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "9421",
+            "published-online": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of English Literature and Social Sciences"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:14Z",
+              "timestamp": 1527665474000
+            },
+            "score": 33.233555,
+            "resource": {
+              "primary": {
+                "URL": "http://ijels.com/ojs/index.php/ijels/article/view/27"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "3",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.22161/ijels.3.3.18",
+            "ISSN": [
+              "2456-7620"
+            ],
+            "issn-type": [
+              {
+                "value": "2456-7620",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  13
+                ]
+              ],
+              "date-time": "2026-11-13T09:51:29Z",
+              "timestamp": 1794563489588,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004357723",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004357709",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004357723_004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2018-03-20T16:02:10Z",
+              "timestamp": 1521561730000
+            },
+            "page": "63-93",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Explicating Emotion Concepts across Languages and Cultures"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Ten Lectures on Natural Semantic MetaLanguage"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/35972",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2026-03-20T05:04:55Z",
+              "timestamp": 1773983095000
+            },
+            "score": 33.23085,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004357723",
+              "9789004357709"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004357723_004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004357723",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            }
+          },
+          {
+            "institution": [
+              {
+                "name": "Koninklijke Brill NV",
+                "acronym": [
+                  "BRILL"
+                ]
+              }
+            ],
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  3,
+                  7
+                ]
+              ],
+              "date-time": "2025-03-07T01:05:37Z",
+              "timestamp": 1741309537851,
+              "version": "3.38.0"
+            },
+            "reference-count": 0,
+            "publisher": "Walter de Gruyter GmbH",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1163/2773-1952_hcso_com_0105",
+            "type": "dataset",
+            "created": {
+              "date-parts": [
+                [
+                  2024,
+                  4,
+                  8
+                ]
+              ],
+              "date-time": "2024-04-08T09:59:19Z",
+              "timestamp": 1712570359000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Natural Semantic Metalanguage (NSM) Approach"
+            ],
+            "prefix": "10.1163",
+            "member": "374",
+            "container-title": [
+              "Handbook of Cognitive Semantics Online"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  30
+                ]
+              ],
+              "date-time": "2024-09-30T11:29:45Z",
+              "timestamp": 1727695785000
+            },
+            "score": 32.985294,
+            "resource": {
+              "primary": {
+                "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  3,
+                  29
+                ]
+              ],
+              "date-time": "2022-03-29T18:40:38Z",
+              "timestamp": 1648579238930
+            },
+            "reference-count": 0,
+            "publisher": "Hampstead Psychological Associates",
+            "issue": "5",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJRP"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "DOI": "10.37200/ijpr/v24i5/pr2020792",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:13Z",
+              "timestamp": 1593428053000
+            },
+            "page": "7915-7923",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "prefix": "10.37200",
+            "volume": "24",
+            "author": [
+              {
+                "given": "Ni Putu Candra",
+                "family": "Gunasari",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "23331",
+            "published-online": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of Psychosocial Rehabilitation"
+            ],
+            "original-title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:16Z",
+              "timestamp": 1593428056000
+            },
+            "score": 32.801567,
+            "resource": {
+              "primary": {
+                "URL": "https://www.psychosocial.com/article/PR2020792/31525/"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "5",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.37200/ijpr/v24i5/pr2020792",
+            "ISSN": [
+              "1475-7192"
+            ],
+            "issn-type": [
+              {
+                "value": "1475-7192",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  29
+                ]
+              ],
+              "date-time": "2023-12-29T13:49:47Z",
+              "timestamp": 1703857787418
+            },
+            "reference-count": 0,
+            "publisher": "Universitas Sumatera Utara",
+            "issue": "1",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2022,
+                      12,
+                      20
+                    ]
+                  ],
+                  "date-time": "2022-12-20T00:00:00Z",
+                  "timestamp": 1671494400000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://creativecommons.org/licenses/by-sa/4.0"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "int. j. linguist. Sumat. malay."
+            ],
+            "abstract": "<jats:p>Academics are always interested in debating the study of emotions across cultures and languages. This is due to the diverse ways that emotions can be expressed in different contexts and situations in each language and culture. This article aims to discuss the meaning of Balinese Lexicons dealing with emotions. The theory applied is Natural Semantic Metalanguage (NSM) with two at once approaches, namely mapping and explication. The results showed that there is something good happened, represented by the lexicons: demen, kendel, and lédang, and something bad happened: sebet, inguh, and gedeg. The most interesting findings are the lexicon angob ‘surprise’ having semantic feature of something good might happen and ngon ‘surprise’ due to the something bad might happen. This can be inferred that there is an in-between position, not something good nor bad happened in the concerned Balinese emotion lexicons.</jats:p>",
+            "DOI": "10.32734/ijlsm.v1i1.10568",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "page": "16-22",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Balinese Emotion Lexicons: A Natural Semantic Metalanguage Approach"
+            ],
+            "prefix": "10.32734",
+            "volume": "1",
+            "author": [
+              {
+                "given": "I Nengah",
+                "family": "Sudipa",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "17744",
+            "published-online": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal on Linguistics of Sumatra and Malay"
+            ],
+            "link": [
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "score": 32.372883,
+            "resource": {
+              "primary": {
+                "URL": "https://talenta.usu.ac.id/lsm/article/view/10568"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "1",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2022,
+                    12,
+                    1
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.32734/ijlsm.v1i1.10568",
+            "ISSN": [
+              "2986-3848"
+            ],
+            "issn-type": [
+              {
+                "value": "2986-3848",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  30
+                ]
+              ],
+              "date-time": "2026-04-30T21:35:01Z",
+              "timestamp": 1777584901722,
+              "version": "3.51.4"
+            },
+            "reference-count": 5,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2012,
+                      7,
+                      1
+                    ]
+                  ],
+                  "date-time": "2012-07-01T00:00:00Z",
+                  "timestamp": 1341100800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+              }
+            ],
+            "content-domain": {
+              "domain": [
+                "journals.sagepub.com"
+              ],
+              "crossmark-restriction": true
+            },
+            "short-container-title": [
+              "Emotion Review"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "abstract": "<jats:p>When it comes to communication of pain, Anna Wierzbicka (2012) takes issue with the scientific definition of pain and turns to natural semantic metalanguage (NSM). However, “pain” is not one of the 64 semantic primes in NSM, and therefore Wierzbicka suggests words such as “body,” “bad,” and “don’t want.” This blurs the boundaries between pain and other aversive sensations and it also challenges certain clinical features of the pain experience.</jats:p>",
+            "DOI": "10.1177/1754073912439769",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2012-07-03T11:41:01Z",
+              "timestamp": 1341315661000
+            },
+            "page": "320-321",
+            "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Defining Pain: Natural Semantic Metalanguage Meets IASP: A Comment on Wierzbicka’s “Is Pain a Human Universal? A Cross-Linguistic and Cross-Cultural Perspective on Pain”"
+            ],
+            "prefix": "10.1177",
+            "volume": "4",
+            "author": [
+              {
+                "given": "Ephrem",
+                "family": "Fernandez",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Department of Psychology, The University of Texas at San Antonio, USA"
+                  }
+                ],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "179",
+            "published-online": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ]
+            },
+            "reference": [
+              {
+                "key": "bibr1-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jpain.2010.10.011"
+              },
+              {
+                "key": "bibr2-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/0304-3959(75)90044-5"
+              },
+              {
+                "key": "bibr3-1754073912439769",
+                "volume-title": "Classification of chronic pain, 2nd ed. Part III: Pain terms, a current list with definitions and notes on usage. IASP task force on taxonomy",
+                "author": "Merskey H.",
+                "year": "1994"
+              },
+              {
+                "key": "bibr4-1754073912439769",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantic primes and universals",
+                "author": "Wierzbicka A.",
+                "year": "1996"
+              },
+              {
+                "key": "bibr5-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/1754073912439761"
+              }
+            ],
+            "container-title": [
+              "Emotion Review"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1754073912439769",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2026-04-28T19:57:02Z",
+              "timestamp": 1777406222000
+            },
+            "score": 31.648602,
+            "resource": {
+              "primary": {
+                "URL": "https://journals.sagepub.com/doi/10.1177/1754073912439769"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "references-count": 5,
+            "journal-issue": {
+              "issue": "3",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2012,
+                    7
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "10.1177/1754073912439769"
+            ],
+            "URL": "https://doi.org/10.1177/1754073912439769",
+            "ISSN": [
+              "1754-0739",
+              "1754-0747"
+            ],
+            "issn-type": [
+              {
+                "value": "1754-0739",
+                "type": "print"
+              },
+              {
+                "value": "1754-0747",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Kolyma Yukaghir natural semantic metalanguage want",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1256287,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2026-11-11T02:18:14Z",
+              "timestamp": 1794363494908,
+              "version": "4.9.0"
+            },
+            "reference-count": 0,
+            "publisher": "Mouton de Gruyter",
+            "isbn-type": [
+              {
+                "value": "9783110175271",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2003,
+                  2,
+                  25
+                ]
+              ]
+            },
+            "DOI": "10.1515/9783110197174.19",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2009,
+                  5,
+                  6
+                ]
+              ],
+              "date-time": "2009-05-06T06:57:21Z",
+              "timestamp": 1241593041000
+            },
+            "page": "19-28",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "2. Kolyma Yukaghir and its speakers"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/book/9783110197174/10.1515/9783110197174.19.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110197174.19/xml",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110197174.19/pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  5,
+                  17
+                ]
+              ],
+              "date-time": "2023-05-17T07:18:15Z",
+              "timestamp": 1684307895000
+            },
+            "score": 42.82808,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/document/doi/10.1515/9783110197174.19/html"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2003,
+                  2,
+                  25
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110175271"
+            ],
+            "references-count": 0,
+            "alternative-id": [
+              "10.1515/9783110197174.19",
+              "10.1515/9783110197174"
+            ],
+            "URL": "https://doi.org/10.1515/9783110197174.19",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2003,
+                  2,
+                  25
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:53:10Z",
+              "timestamp": 1794498790784,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Chapter 2: Kolyma Yukaghir and its speakers"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-004/9783110197174-004.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2017,
+                  5,
+                  9
+                ]
+              ],
+              "date-time": "2017-05-09T10:43:30Z",
+              "timestamp": 1494326610000
+            },
+            "score": 42.52217,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-004/9783110197174-004.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:52:21Z",
+              "timestamp": 1794498741241,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-001",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Acknowledgements"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-001/9783110197174-001.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2020-05-30T14:55:16Z",
+              "timestamp": 1590850516000
+            },
+            "score": 39.254044,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/doi/10.1515/9783110197174-001"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-001",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:52:17Z",
+              "timestamp": 1794498737758,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-018",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Notes"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-018/9783110197174-018.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2020-05-30T14:55:22Z",
+              "timestamp": 1590850522000
+            },
+            "score": 38.472507,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/doi/10.1515/9783110197174-018"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-018",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:52:43Z",
+              "timestamp": 1794498763848,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-017",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Appendices"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-017/9783110197174-017.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2020-05-30T14:55:22Z",
+              "timestamp": 1590850522000
+            },
+            "score": 38.28801,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/doi/10.1515/9783110197174-017"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-017",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:52:17Z",
+              "timestamp": 1794498737722,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-fm",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Frontmatter"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-fm/9783110197174-fm.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2017,
+                  5,
+                  9
+                ]
+              ],
+              "date-time": "2017-05-09T10:41:33Z",
+              "timestamp": 1494326493000
+            },
+            "score": 38.11441,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-fm/9783110197174-fm.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-fm",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T15:52:17Z",
+              "timestamp": 1794498737788,
+              "version": "4.9.1"
+            },
+            "publisher-location": "Berlin, Boston",
+            "reference-count": 0,
+            "publisher": "DE GRUYTER",
+            "isbn-type": [
+              {
+                "value": "9783110197174",
+                "type": "electronic"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1515/9783110197174-019",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  13
+                ]
+              ],
+              "date-time": "2015-05-13T08:04:47Z",
+              "timestamp": 1431504287000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "References"
+            ],
+            "prefix": "10.1515",
+            "member": "374",
+            "container-title": [
+              "A Grammar of Kolyma Yukaghir"
+            ],
+            "link": [
+              {
+                "URL": "https://www.degruyter.com/view/books/9783110197174/9783110197174-019/9783110197174-019.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2020-05-30T14:55:23Z",
+              "timestamp": 1590850523000
+            },
+            "score": 37.84126,
+            "resource": {
+              "primary": {
+                "URL": "https://www.degruyter.com/doi/10.1515/9783110197174-019"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "ISBN": [
+              "9783110197174"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1515/9783110197174-019",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1515/9783110197174",
+                  "asserted-by": "object"
+                }
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Wardaman natural semantic metalanguage emotion",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 1342907,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  12
+                ]
+              ],
+              "date-time": "2026-11-12T04:22:29Z",
+              "timestamp": 1794457349749,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "Oxford University Press",
+            "isbn-type": [
+              {
+                "value": "9780199592746",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "DOI": "10.1093/acprof:oso/9780199592746.003.0028",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2013,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2013-10-01T11:48:55Z",
+              "timestamp": 1380628135000
+            },
+            "page": "399-409",
+            "source": "Crossref",
+            "is-referenced-by-count": 8,
+            "title": [
+              "Comparing the Natural Semantic Metalanguage (NSM) approach to emotion and the GRID paradigm1"
+            ],
+            "prefix": "10.1093",
+            "author": [
+              {
+                "given": "Zhengdao",
+                "family": "Ye",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "286",
+            "container-title": [
+              "Components of Emotional Meaning"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2022-08-02T13:47:22Z",
+              "timestamp": 1659448042000
+            },
+            "score": 34.741627,
+            "resource": {
+              "primary": {
+                "URL": "https://academic.oup.com/book/2214/chapter/142275036"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            },
+            "ISBN": [
+              "9780199592746"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1093/acprof:oso/9780199592746.003.0028",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1093/acprof:oso/9780199592746.001.0001",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2013,
+                  8,
+                  15
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  11,
+                  13
+                ]
+              ],
+              "date-time": "2026-11-13T09:51:29Z",
+              "timestamp": 1794563489588,
+              "version": "4.9.1"
+            },
+            "reference-count": 0,
+            "publisher": "BRILL",
+            "isbn-type": [
+              {
+                "value": "9789004357723",
+                "type": "electronic"
+              },
+              {
+                "value": "9789004357709",
+                "type": "print"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "DOI": "10.1163/9789004357723_004",
+            "type": "book-chapter",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2018-03-20T16:02:10Z",
+              "timestamp": 1521561730000
+            },
+            "page": "63-93",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Explicating Emotion Concepts across Languages and Cultures"
+            ],
+            "prefix": "10.1163",
+            "author": [
+              {
+                "given": "Cliff",
+                "family": "Goddard",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "374",
+            "container-title": [
+              "Ten Lectures on Natural Semantic MetaLanguage"
+            ],
+            "link": [
+              {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://brill.com/downloadpdf/title/35972",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "syndication"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  20
+                ]
+              ],
+              "date-time": "2026-03-20T05:04:55Z",
+              "timestamp": 1773983095000
+            },
+            "score": 33.223846,
+            "resource": {
+              "primary": {
+                "URL": "https://brill.com/view/book/9789004357723/BP000012.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            },
+            "ISBN": [
+              "9789004357723",
+              "9789004357709"
+            ],
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/9789004357723_004",
+            "relation": {
+              "is-part-of": [
+                {
+                  "id-type": "doi",
+                  "id": "https://doi.org/10.1163/9789004357723",
+                  "asserted-by": "object"
+                }
+              ]
+            },
+            "published": {
+              "date-parts": [
+                [
+                  2018,
+                  3,
+                  6
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  4,
+                  5
+                ]
+              ],
+              "date-time": "2022-04-05T18:22:17Z",
+              "timestamp": 1649182937127
+            },
+            "reference-count": 0,
+            "publisher": "AI Publications",
+            "issue": "3",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJELS"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "DOI": "10.22161/ijels.3.3.18",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:12Z",
+              "timestamp": 1527665472000
+            },
+            "page": "386-388",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Emotion Words in Sundanese Language: Research of Natural Semantic Metalanguage"
+            ],
+            "prefix": "10.22161",
+            "volume": "3",
+            "author": [
+              {
+                "given": "Muzainah",
+                "family": "Nurazijah",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "9421",
+            "published-online": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of English Literature and Social Sciences"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  30
+                ]
+              ],
+              "date-time": "2018-05-30T07:31:14Z",
+              "timestamp": 1527665474000
+            },
+            "score": 33.21309,
+            "resource": {
+              "primary": {
+                "URL": "http://ijels.com/ojs/index.php/ijels/article/view/27"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "3",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.22161/ijels.3.3.18",
+            "ISSN": [
+              "2456-7620"
+            ],
+            "issn-type": [
+              {
+                "value": "2456-7620",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2018
+                ]
+              ]
+            }
+          },
+          {
+            "institution": [
+              {
+                "name": "Koninklijke Brill NV",
+                "acronym": [
+                  "BRILL"
+                ]
+              }
+            ],
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  3,
+                  7
+                ]
+              ],
+              "date-time": "2025-03-07T01:05:37Z",
+              "timestamp": 1741309537851,
+              "version": "3.38.0"
+            },
+            "reference-count": 0,
+            "publisher": "Walter de Gruyter GmbH",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "DOI": "10.1163/2773-1952_hcso_com_0105",
+            "type": "dataset",
+            "created": {
+              "date-parts": [
+                [
+                  2024,
+                  4,
+                  8
+                ]
+              ],
+              "date-time": "2024-04-08T09:59:19Z",
+              "timestamp": 1712570359000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "The Natural Semantic Metalanguage (NSM) Approach"
+            ],
+            "prefix": "10.1163",
+            "member": "374",
+            "container-title": [
+              "Handbook of Cognitive Semantics Online"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  30
+                ]
+              ],
+              "date-time": "2024-09-30T11:29:45Z",
+              "timestamp": 1727695785000
+            },
+            "score": 32.938553,
+            "resource": {
+              "primary": {
+                "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  null
+                ]
+              ]
+            },
+            "references-count": 0,
+            "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2022,
+                  3,
+                  29
+                ]
+              ],
+              "date-time": "2022-03-29T18:40:38Z",
+              "timestamp": 1648579238930
+            },
+            "reference-count": 0,
+            "publisher": "Hampstead Psychological Associates",
+            "issue": "5",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "IJRP"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "DOI": "10.37200/ijpr/v24i5/pr2020792",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:13Z",
+              "timestamp": 1593428053000
+            },
+            "page": "7915-7923",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "prefix": "10.37200",
+            "volume": "24",
+            "author": [
+              {
+                "given": "Ni Putu Candra",
+                "family": "Gunasari",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "23331",
+            "published-online": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal of Psychosocial Rehabilitation"
+            ],
+            "original-title": [
+              "Natural Semantic Metalanguage of Action Verbs in Balinese"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  29
+                ]
+              ],
+              "date-time": "2020-06-29T10:54:16Z",
+              "timestamp": 1593428056000
+            },
+            "score": 32.845535,
+            "resource": {
+              "primary": {
+                "URL": "https://www.psychosocial.com/article/PR2020792/31525/"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "5",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2020,
+                    5,
+                    25
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.37200/ijpr/v24i5/pr2020792",
+            "ISSN": [
+              "1475-7192"
+            ],
+            "issn-type": [
+              {
+                "value": "1475-7192",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2020,
+                  5,
+                  25
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  29
+                ]
+              ],
+              "date-time": "2023-12-29T13:49:47Z",
+              "timestamp": 1703857787418
+            },
+            "reference-count": 0,
+            "publisher": "Universitas Sumatera Utara",
+            "issue": "1",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2022,
+                      12,
+                      20
+                    ]
+                  ],
+                  "date-time": "2022-12-20T00:00:00Z",
+                  "timestamp": 1671494400000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://creativecommons.org/licenses/by-sa/4.0"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "int. j. linguist. Sumat. malay."
+            ],
+            "abstract": "<jats:p>Academics are always interested in debating the study of emotions across cultures and languages. This is due to the diverse ways that emotions can be expressed in different contexts and situations in each language and culture. This article aims to discuss the meaning of Balinese Lexicons dealing with emotions. The theory applied is Natural Semantic Metalanguage (NSM) with two at once approaches, namely mapping and explication. The results showed that there is something good happened, represented by the lexicons: demen, kendel, and lédang, and something bad happened: sebet, inguh, and gedeg. The most interesting findings are the lexicon angob ‘surprise’ having semantic feature of something good might happen and ngon ‘surprise’ due to the something bad might happen. This can be inferred that there is an in-between position, not something good nor bad happened in the concerned Balinese emotion lexicons.</jats:p>",
+            "DOI": "10.32734/ijlsm.v1i1.10568",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "page": "16-22",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Balinese Emotion Lexicons: A Natural Semantic Metalanguage Approach"
+            ],
+            "prefix": "10.32734",
+            "volume": "1",
+            "author": [
+              {
+                "given": "I Nengah",
+                "family": "Sudipa",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "17744",
+            "published-online": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "container-title": [
+              "International Journal on Linguistics of Sumatra and Malay"
+            ],
+            "link": [
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://talenta.usu.ac.id/lsm/article/download/10568/5603",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  4,
+                  17
+                ]
+              ],
+              "date-time": "2023-04-17T07:12:25Z",
+              "timestamp": 1681715545000
+            },
+            "score": 32.36972,
+            "resource": {
+              "primary": {
+                "URL": "https://talenta.usu.ac.id/lsm/article/view/10568"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            },
+            "references-count": 0,
+            "journal-issue": {
+              "issue": "1",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2022,
+                    12,
+                    1
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.32734/ijlsm.v1i1.10568",
+            "ISSN": [
+              "2986-3848"
+            ],
+            "issn-type": [
+              {
+                "value": "2986-3848",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  20
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  30
+                ]
+              ],
+              "date-time": "2026-04-30T21:35:01Z",
+              "timestamp": 1777584901722,
+              "version": "3.51.4"
+            },
+            "reference-count": 5,
+            "publisher": "SAGE Publications",
+            "issue": "3",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2012,
+                      7,
+                      1
+                    ]
+                  ],
+                  "date-time": "2012-07-01T00:00:00Z",
+                  "timestamp": 1341100800000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+              }
+            ],
+            "content-domain": {
+              "domain": [
+                "journals.sagepub.com"
+              ],
+              "crossmark-restriction": true
+            },
+            "short-container-title": [
+              "Emotion Review"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "abstract": "<jats:p>When it comes to communication of pain, Anna Wierzbicka (2012) takes issue with the scientific definition of pain and turns to natural semantic metalanguage (NSM). However, “pain” is not one of the 64 semantic primes in NSM, and therefore Wierzbicka suggests words such as “body,” “bad,” and “don’t want.” This blurs the boundaries between pain and other aversive sensations and it also challenges certain clinical features of the pain experience.</jats:p>",
+            "DOI": "10.1177/1754073912439769",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2012-07-03T11:41:01Z",
+              "timestamp": 1341315661000
+            },
+            "page": "320-321",
+            "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": [
+              "Defining Pain: Natural Semantic Metalanguage Meets IASP: A Comment on Wierzbicka’s “Is Pain a Human Universal? A Cross-Linguistic and Cross-Cultural Perspective on Pain”"
+            ],
+            "prefix": "10.1177",
+            "volume": "4",
+            "author": [
+              {
+                "given": "Ephrem",
+                "family": "Fernandez",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Department of Psychology, The University of Texas at San Antonio, USA"
+                  }
+                ],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "179",
+            "published-online": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  3
+                ]
+              ]
+            },
+            "reference": [
+              {
+                "key": "bibr1-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.jpain.2010.10.011"
+              },
+              {
+                "key": "bibr2-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/0304-3959(75)90044-5"
+              },
+              {
+                "key": "bibr3-1754073912439769",
+                "volume-title": "Classification of chronic pain, 2nd ed. Part III: Pain terms, a current list with definitions and notes on usage. IASP task force on taxonomy",
+                "author": "Merskey H.",
+                "year": "1994"
+              },
+              {
+                "key": "bibr4-1754073912439769",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1093/oso/9780198700029.001.0001",
+                "volume-title": "Semantic primes and universals",
+                "author": "Wierzbicka A.",
+                "year": "1996"
+              },
+              {
+                "key": "bibr5-1754073912439769",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/1754073912439761"
+              }
+            ],
+            "container-title": [
+              "Emotion Review"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1754073912439769",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1754073912439769",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2026,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2026-04-28T19:57:02Z",
+              "timestamp": 1777406222000
+            },
+            "score": 31.614138,
+            "resource": {
+              "primary": {
+                "URL": "https://journals.sagepub.com/doi/10.1177/1754073912439769"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            },
+            "references-count": 5,
+            "journal-issue": {
+              "issue": "3",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2012,
+                    7
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "10.1177/1754073912439769"
+            ],
+            "URL": "https://doi.org/10.1177/1754073912439769",
+            "ISSN": [
+              "1754-0739",
+              "1754-0747"
+            ],
+            "issn-type": [
+              {
+                "value": "1754-0739",
+                "type": "print"
+              },
+              {
+                "value": "1754-0747",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2012,
+                  7
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Semantic analysis of body parts in emotion terminology Enfield",
+    "data": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 7608874,
+        "items": [
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  6
+                ]
+              ],
+              "date-time": "2026-10-06T14:49:16Z",
+              "timestamp": 1791298156847,
+              "version": "4.1.0"
+            },
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "issue": "1-2",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2002,
+                      7,
+                      11
+                    ]
+                  ],
+                  "date-time": "2002-07-11T00:00:00Z",
+                  "timestamp": 1026345600000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://benjamins.com/content/customers/rights"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "P&amp;C"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2002,
+                  8,
+                  5
+                ]
+              ]
+            },
+            "abstract": "<jats:p>Investigation of the emotions entails reference to words and expressions conventionally used for the description of emotion\n                    experience. Important methodological issues arise for emotion researchers, and the issues are of similarly central concern in\n                    linguistic semantics more generally. I argue that superficial and/or inconsistent description of linguistic meaning can have\n                    seriously misleading results. This paper is firstly a critique of standards in emotion research for its tendency to underrate and\n                    ill-understood linguistic semantics. It is secondly a critique of standards in some approaches to linguistic semantics itself. Two\n                    major problems occur. The first is failure to distinguish between conceptually distinct meanings of single words, neglecting the\n                    well-established fact that a single phonological string can signify more than one conceptual category (i.e., that words can be\n                    polysemous). The second error involves failure to distinguish between two kinds of secondary uses of words: (1) those which are\n                    truly active “online” extensions, and (2) those which are conventionalised secondary meanings and not active (qua “extensions”) at\n                    all. These semantic considerations are crucial to conclusions one may draw about cognition and conceptualisation based on\n                    linguistic evidence.</jats:p>",
+            "DOI": "10.1075/pc.10.1-2.05enf",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2014,
+                  2,
+                  27
+                ]
+              ],
+              "date-time": "2014-02-27T11:41:47Z",
+              "timestamp": 1393501307000
+            },
+            "page": "85-106",
+            "source": "Crossref",
+            "is-referenced-by-count": 13,
+            "title": [
+              "Semantic analysis of body parts in emotion terminology"
+            ],
+            "prefix": "10.1075",
+            "volume": "10",
+            "author": [
+              {
+                "given": "N.J.",
+                "family": "Enfield",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Max Planck Institute for Psycholinguistics"
+                  }
+                ],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "container-title": [
+              "Pragmatics &amp; Cognition",
+              "Pragmatics and Cognition"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "http://www.jbe-platform.com/deliver/fulltext/pc.10.1-2.05enf.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  1,
+                  9
+                ]
+              ],
+              "date-time": "2023-01-09T13:24:10Z",
+              "timestamp": 1673270650000
+            },
+            "score": 47.017357,
+            "resource": {
+              "primary": {
+                "URL": "http://www.jbe-platform.com/content/journals/10.1075/pc.10.1-2.05enf"
+              }
+            },
+            "subtitle": [
+              "Avoiding the exoticisms of “obstinate monosemy” and “online extension”"
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "references-count": 0,
+            "issue-title": [
+              "The Body in Description of Emotion"
+            ],
+            "journal-issue": {
+              "issue": "1-2",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2002,
+                    7,
+                    11
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2002,
+                    8,
+                    5
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.1075/pc.10.1-2.05enf",
+            "archive": [
+              "Portico"
+            ],
+            "ISSN": [
+              "0929-0907",
+              "1569-9943"
+            ],
+            "issn-type": [
+              {
+                "value": "0929-0907",
+                "type": "print"
+              },
+              {
+                "value": "1569-9943",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2024,
+                  9,
+                  16
+                ]
+              ],
+              "date-time": "2024-09-16T13:11:26Z",
+              "timestamp": 1726492286032
+            },
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "issue": "1-2",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "P&amp;C"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2002,
+                  8,
+                  5
+                ]
+              ]
+            },
+            "abstract": "<jats:p>Investigation of the emotions entails reference to words and expressions conventionally used for the description of emotion experience. Important methodological issues arise for emotion researchers, and the issues are of similarly central concern in linguistic semantics more generally. I argue that superficial and/or inconsistent description of linguistic meaning can have seriously misleading results. This paper is firstly a critique of standards in emotion research for its tendency to underrate and ill-understood linguistic semantics. It is secondly a critique of standards in some approaches to linguistic semantics itself. Two major problems occur. The first is failure to distinguish between conceptually distinct meanings of single words, neglecting the well-established fact that a single phonological string can signify more than one conceptual category (i.e., that words can be polysemous). The second error involves failure to distinguish between two kinds of secondary uses of words: (1) those which are truly active “online” extensions, and (2) those which are conventionalised secondary meanings and not active (qua “extensions”) at all. These semantic considerations are crucial to conclusions one may draw about cognition and conceptualisation based on linguistic evidence.</jats:p>",
+            "DOI": "10.1075/pc.10.12.05enf",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2007,
+                  10,
+                  3
+                ]
+              ],
+              "date-time": "2007-10-03T06:37:28Z",
+              "timestamp": 1191393448000
+            },
+            "page": "85-106",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": [
+              "Semantic analysis of body parts in emotion terminology: Avoiding the exoticisms of “obstinate monosemy” and “online extension”"
+            ],
+            "prefix": "10.1075",
+            "volume": "10",
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "container-title": [
+              "Pragmatics &amp; Cognition",
+              "Pragmatics and Cognition"
+            ],
+            "language": "en",
+            "deposited": {
+              "date-parts": [
+                [
+                  2016,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2016-04-28T16:27:04Z",
+              "timestamp": 1461860824000
+            },
+            "score": 38.117313,
+            "resource": {
+              "primary": {
+                "URL": "https://benjamins.com/catalog/pc.10.12.05enf"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "references-count": 0,
+            "issue-title": [
+              "The Body in Description of Emotion"
+            ],
+            "journal-issue": {
+              "issue": "1-2",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2002,
+                    7,
+                    11
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2002,
+                    8,
+                    5
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.1075/pc.10.12.05enf",
+            "archive": [
+              "Portico"
+            ],
+            "ISSN": [
+              "0929-0907",
+              "1569-9943"
+            ],
+            "issn-type": [
+              {
+                "type": "print",
+                "value": "0929-0907"
+              },
+              {
+                "type": "electronic",
+                "value": "1569-9943"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  6
+                ]
+              ],
+              "date-time": "2026-10-06T14:47:23Z",
+              "timestamp": 1791298043311,
+              "version": "4.1.0"
+            },
+            "reference-count": 7,
+            "publisher": "Elsevier BV",
+            "issue": "2-3",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2006,
+                      3,
+                      1
+                    ]
+                  ],
+                  "date-time": "2006-03-01T00:00:00Z",
+                  "timestamp": 1141171200000
+                },
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "Language Sciences"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2006,
+                  3
+                ]
+              ]
+            },
+            "DOI": "10.1016/j.langsci.2005.11.003",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2006,
+                  1,
+                  5
+                ]
+              ],
+              "date-time": "2006-01-05T08:25:47Z",
+              "timestamp": 1136449547000
+            },
+            "page": "148-157",
+            "source": "Crossref",
+            "is-referenced-by-count": 25,
+            "title": [
+              "Elicitation guide on parts of the body"
+            ],
+            "prefix": "10.1016",
+            "volume": "28",
+            "author": [
+              {
+                "given": "N.J.",
+                "family": "Enfield",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "78",
+            "reference": [
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib1",
+                "series-title": "Universals of Human Language",
+                "first-page": "335",
+                "article-title": "Lexical universals of body-part terminology",
+                "author": "Andersen",
+                "year": "1978"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib2",
+                "series-title": "Building Object Categories in Developmental Time",
+                "article-title": "Why can’t you “open” a nut or “break a cooked noodle? Learning covert object categories in action word meanings",
+                "author": "Bowerman",
+                "year": "2005"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib3",
+                "doi-asserted-by": "crossref",
+                "first-page": "400",
+                "DOI": "10.1525/ae.1976.3.3.02a00020",
+                "article-title": "General principles of human anatomical partonomy and speculations on the growth of partonomic nomenclature",
+                "volume": "3",
+                "author": "Brown",
+                "year": "1976",
+                "journal-title": "American Ethnologist"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib4",
+                "series-title": "Lexical Semantics",
+                "author": "Cruse",
+                "year": "1986"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib5",
+                "series-title": "Manual for the Field Season 2001",
+                "first-page": "62",
+                "article-title": "Body",
+                "author": "Enfield",
+                "year": "2001"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib6",
+                "doi-asserted-by": "crossref",
+                "first-page": "391",
+                "DOI": "10.1515/ling.1985.23.3.391",
+                "article-title": "Toward universal semantic categories for human body space",
+                "volume": "23",
+                "author": "Schaefer",
+                "year": "1985",
+                "journal-title": "Linguistics"
+              },
+              {
+                "key": "10.1016/j.langsci.2005.11.003_bib7",
+                "doi-asserted-by": "crossref",
+                "unstructured": "van Staden, M., Majid, A., this issue. Body colouring task. In: Majid, A., Enfield, N.J., van Staden, M. (Eds.), Parts of the Body: Cross-Linguistic Categorisation. Special Issue of Language Sciences.",
+                "DOI": "10.1016/j.langsci.2005.11.004"
+              }
+            ],
+            "container-title": [
+              "Language Sciences"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "https://api.elsevier.com/content/article/PII:S0388000105000835?httpAccept=text/xml",
+                "content-type": "text/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              },
+              {
+                "URL": "https://api.elsevier.com/content/article/PII:S0388000105000835?httpAccept=text/plain",
+                "content-type": "text/plain",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2019,
+                  4,
+                  13
+                ]
+              ],
+              "date-time": "2019-04-13T07:27:11Z",
+              "timestamp": 1555140431000
+            },
+            "score": 28.451756,
+            "resource": {
+              "primary": {
+                "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0388000105000835"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2006,
+                  3
+                ]
+              ]
+            },
+            "references-count": 7,
+            "journal-issue": {
+              "issue": "2-3",
+              "published-print": {
+                "date-parts": [
+                  [
+                    2006,
+                    3
+                  ]
+                ]
+              }
+            },
+            "alternative-id": [
+              "S0388000105000835"
+            ],
+            "URL": "https://doi.org/10.1016/j.langsci.2005.11.003",
+            "ISSN": [
+              "0388-0001"
+            ],
+            "issn-type": [
+              {
+                "value": "0388-0001",
+                "type": "print"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2006,
+                  3
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  30
+                ]
+              ],
+              "date-time": "2026-10-30T03:23:39Z",
+              "timestamp": 1793330619364,
+              "version": "4.5.0"
+            },
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "issue": "1-2",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2002,
+                      7,
+                      11
+                    ]
+                  ],
+                  "date-time": "2002-07-11T00:00:00Z",
+                  "timestamp": 1026345600000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://benjamins.com/content/customers/rights"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "P&amp;C"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2002,
+                  8,
+                  5
+                ]
+              ]
+            },
+            "abstract": "<jats:p>Anthropologists and linguists have long been aware that the body is explicitly referred to in conventional description of emotion\n                    in languages around the world. There is abundant linguistic data showing expression of emotions in terms of their imagined ‘locus’\n                    in the physical body. The most important methodological issue in the study of emotions is language, for the ways people talk give\n                    us access to ‘folk descriptions’ of the emotions. ‘Technical terminology’, whether based on English or otherwise, is not excluded\n                    from this ‘folk’ status. It may appear to be safely ‘scientific’ and thus culturally neutral, but in fact it is not: technical\n                    English is a variety of English and reflects, to some extent, culture-specific ways of thinking (and categorising) associated with\n                    the English language. People — as researchers studying other people, or as people in real-life social association — cannot\n                    directly access the emotional experience of others, and language is the usual mode of ‘packaging’ one’s experience so it may be\n                    accessible to others. Careful description of linguistic data from as broad as possible a cross-linguistic base is thus an\n                    important part of emotion research. All people experience biological events and processes associated with certain thoughts (or, as\n                    psychologists say, ‘appraisals’), but there is more to ‘emotion’ than just these physiological phenomena. Speakers of some\n                    languages talk about their emotional experiences as if they are located in some internal organ such as ‘the liver’, yet they\n                    cannot localise feeling in this physical organ. This phenomenon needs to be understood better, and one of the problems is finding\n                    a method of comparison that allows us to compare descriptions from different languages which show apparently great formal and\n                    semantic variation. Some simple concepts including feel and body are universal or near-universal, and as such are good candidates\n                    for terms of description which may help to eradicate confusion and exoticism from cross-linguistic comparison and semantic\n                    typology. Semantic analysis reveals great variation in concepts of emotion across languages and cultures — but such analysis\n                    requires a sound and well-founded methodology. While leaving room for different approaches to the task, we suggest that such a\n                    methodology can be based on empirically established linguistic universal (or near-universal) concepts, and on ‘cognitive\n                    scenarios’ articulated in terms of these concepts. Also, we warn against the danger of exoticism involved in taking all body part\n                    references ‘literally’. Above all, we argue that what is needed is a combination of empirical cross-linguistic investigations and\n                    a theoretical and methodological awareness, recognising the impossibility of exploring other people’s emotions without keeping\n                    language in focus: both as an object and as a tool of study.</jats:p>",
+            "DOI": "10.1075/pc.10.1-2.02enf",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2014,
+                  2,
+                  27
+                ]
+              ],
+              "date-time": "2014-02-27T11:41:47Z",
+              "timestamp": 1393501307000
+            },
+            "page": "1-25",
+            "source": "Crossref",
+            "is-referenced-by-count": 38,
+            "title": [
+              "Introduction"
+            ],
+            "prefix": "10.1075",
+            "volume": "10",
+            "author": [
+              {
+                "given": "N.J.",
+                "family": "Enfield",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "Max Planck Institute for Psycholinguistics"
+                  }
+                ],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              },
+              {
+                "ORCID": "https://orcid.org/0000-0002-6074-7865",
+                "authenticated-orcid": true,
+                "given": "Anna",
+                "family": "Wierzbicka",
+                "sequence": "additional",
+                "affiliation": [
+                  {
+                    "name": "Australian National University"
+                  }
+                ],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "container-title": [
+              "Pragmatics &amp; Cognition",
+              "Pragmatics and Cognition"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "http://www.jbe-platform.com/deliver/fulltext/pc.10.1-2.02enf.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  1,
+                  9
+                ]
+              ],
+              "date-time": "2023-01-09T13:24:06Z",
+              "timestamp": 1673270646000
+            },
+            "score": 27.283356,
+            "resource": {
+              "primary": {
+                "URL": "http://www.jbe-platform.com/content/journals/10.1075/pc.10.1-2.02enf"
+              }
+            },
+            "subtitle": [
+              "The body in description of emotion"
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "references-count": 0,
+            "issue-title": [
+              "The Body in Description of Emotion"
+            ],
+            "journal-issue": {
+              "issue": "1-2",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2002,
+                    7,
+                    11
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2002,
+                    8,
+                    5
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.1075/pc.10.1-2.02enf",
+            "archive": [
+              "Portico"
+            ],
+            "ISSN": [
+              "0929-0907",
+              "1569-9943"
+            ],
+            "issn-type": [
+              {
+                "value": "0929-0907",
+                "type": "print"
+              },
+              {
+                "value": "1569-9943",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  4
+                ]
+              ],
+              "date-time": "2026-10-04T00:25:10Z",
+              "timestamp": 1791073510966,
+              "version": "4.1.0"
+            },
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "issue": "1-2",
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "P&amp;C"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2002,
+                  8,
+                  5
+                ]
+              ]
+            },
+            "abstract": "<jats:p>This study presents a semantic analysis of how emotions and emotional experiences are described in Chinese. It focuses on conventionalized expressions in Chinese, namely compounds and idioms, which contain body-part terms. The body-part terms are divided into two classes: those denoting external body parts and those denoting internal body parts or organs. It is found that, with a few exceptions, the expressions involving external body parts are originally metonymic, describing emotions in terms of their externally observable bodily events and processes. However, once conventionalized, these expressions are also used metaphorically regardless of emotional symptoms or gestures. The expressions involving internal organs evoke imaginary bodily images that are primarily metaphorical. It is found that the metaphors, though imaginary in nature, are not really all arbitrary. They seem to have a bodily or psychological basis, although they are inevitably influenced by cultural models.</jats:p>",
+            "DOI": "10.1075/pc.10.12.14yu",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2007,
+                  10,
+                  3
+                ]
+              ],
+              "date-time": "2007-10-03T10:37:28Z",
+              "timestamp": 1191407848000
+            },
+            "page": "341-367",
+            "source": "Crossref",
+            "is-referenced-by-count": 13,
+            "title": [
+              "Body and emotion: Body parts in Chinese expression of emotion"
+            ],
+            "prefix": "10.1075",
+            "volume": "10",
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "container-title": [
+              "Pragmatics &amp; Cognition",
+              "Pragmatics and Cognition"
+            ],
+            "language": "en",
+            "deposited": {
+              "date-parts": [
+                [
+                  2016,
+                  4,
+                  28
+                ]
+              ],
+              "date-time": "2016-04-28T20:27:08Z",
+              "timestamp": 1461875228000
+            },
+            "score": 26.365189,
+            "resource": {
+              "primary": {
+                "URL": "https://benjamins.com/catalog/pc.10.12.14yu"
+              }
+            },
+            "issued": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "references-count": 0,
+            "issue-title": [
+              "The Body in Description of Emotion"
+            ],
+            "journal-issue": {
+              "issue": "1-2",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2002,
+                    7,
+                    11
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2002,
+                    8,
+                    5
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.1075/pc.10.12.14yu",
+            "archive": [
+              "Portico"
+            ],
+            "ISSN": [
+              "0929-0907",
+              "1569-9943"
+            ],
+            "issn-type": [
+              {
+                "value": "0929-0907",
+                "type": "print"
+              },
+              {
+                "value": "1569-9943",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  5
+                ]
+              ],
+              "date-time": "2026-10-05T12:04:44Z",
+              "timestamp": 1791201884516,
+              "version": "4.2.0"
+            },
+            "reference-count": 0,
+            "publisher": "John Benjamins Publishing Company",
+            "issue": "1-2",
+            "license": [
+              {
+                "start": {
+                  "date-parts": [
+                    [
+                      2002,
+                      7,
+                      11
+                    ]
+                  ],
+                  "date-time": "2002-07-11T00:00:00Z",
+                  "timestamp": 1026345600000
+                },
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "URL": "https://benjamins.com/content/customers/rights"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "short-container-title": [
+              "P&amp;C"
+            ],
+            "published-print": {
+              "date-parts": [
+                [
+                  2002,
+                  8,
+                  5
+                ]
+              ]
+            },
+            "abstract": "<jats:p>This study presents a semantic analysis of how emotions and emotional experiences are described in Chinese. It focuses on\n                    conventionalized expressions in Chinese, namely compounds and idioms, which contain body-part terms. The body-part terms are\n                    divided into two classes: those denoting external body parts and those denoting internal body parts or organs. It is found that,\n                    with a few exceptions, the expressions involving external body parts are originally metonymic, describing emotions in terms of\n                    their externally observable bodily events and processes. However, once conventionalized, these expressions are also used\n                    metaphorically regardless of emotional symptoms or gestures. The expressions involving internal organs evoke imaginary bodily\n                    images that are primarily metaphorical. It is found that the metaphors, though imaginary in nature, are not really all arbitrary.\n                    They seem to have a bodily or psychological basis, although they are inevitably influenced by cultural models.</jats:p>",
+            "DOI": "10.1075/pc.10.1-2.14yu",
+            "type": "journal-article",
+            "created": {
+              "date-parts": [
+                [
+                  2014,
+                  2,
+                  27
+                ]
+              ],
+              "date-time": "2014-02-27T11:41:47Z",
+              "timestamp": 1393501307000
+            },
+            "page": "341-367",
+            "source": "Crossref",
+            "is-referenced-by-count": 47,
+            "title": [
+              "Body and emotion"
+            ],
+            "prefix": "10.1075",
+            "volume": "10",
+            "author": [
+              {
+                "given": "Ning",
+                "family": "Yu",
+                "sequence": "first",
+                "affiliation": [
+                  {
+                    "name": "University of Oklahoma"
+                  }
+                ],
+                "role": [
+                  {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                  }
+                ]
+              }
+            ],
+            "member": "1757",
+            "published-online": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "container-title": [
+              "Pragmatics &amp; Cognition",
+              "Pragmatics and Cognition"
+            ],
+            "language": "en",
+            "link": [
+              {
+                "URL": "http://www.jbe-platform.com/deliver/fulltext/pc.10.1-2.14yu.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+              }
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2023,
+                  1,
+                  9
+                ]
+              ],
+              "date-time": "2023-01-09T13:24:19Z",
+              "timestamp": 1673270659000
+            },
+            "score": 26.154837,
+            "resource": {
+              "primary": {
+                "URL": "http://www.jbe-platform.com/content/journals/10.1075/pc.10.1-2.14yu"
+              }
+            },
+            "subtitle": [
+              "Body parts in Chinese expression of emotion"
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            },
+            "references-count": 0,
+            "issue-title": [
+              "The Body in Description of Emotion"
+            ],
+            "journal-issue": {
+              "issue": "1-2",
+              "published-online": {
+                "date-parts": [
+                  [
+                    2002,
+                    7,
+                    11
+                  ]
+                ]
+              },
+              "published-print": {
+                "date-parts": [
+                  [
+                    2002,
+                    8,
+                    5
+                  ]
+                ]
+              }
+            },
+            "URL": "https://doi.org/10.1075/pc.10.1-2.14yu",
+            "archive": [
+              "Portico"
+            ],
+            "ISSN": [
+              "0929-0907",
+              "1569-9943"
+            ],
+            "issn-type": [
+              {
+                "value": "0929-0907",
+                "type": "print"
+              },
+              {
+                "value": "1569-9943",
+                "type": "electronic"
+              }
+            ],
+            "published": {
+              "date-parts": [
+                [
+                  2002,
+                  7,
+                  11
+                ]
+              ]
+            }
+          },
+          {
+            "indexed": {
+              "date-parts": [
+                [
+                  2025,
+                  8,
+                  2
+                ]
+              ],
+              "date-time": "2025-08-02T16:25:57Z",
+              "timestamp": 1754151957708,
+              "version": "3.41.2"
+            },
+            "publisher-location": "2455 Teller Road, Thousand Oaks  California  91320  United States",
+            "reference-count": 0,
+            "publisher": "SAGE Publications, Inc.",
+            "isbn-type": [
+              {
+                "type": "electronic",
+                "value": "9781071865859"
+              }
+            ],
+            "content-domain": {
+              "domain": [],
+              "crossmark-restriction": false
+            },
+            "published-print": {
+              "date-parts": [
+                [
+                  2021
+                ]
+              ]
+            },
+            "DOI": "10.4135/9781071865927",
+            "type": "other",
+            "created": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  22
+                ]
+              ],
+              "date-time": "2022-12-22T10:28:37Z",
+              "timestamp": 1671704917000
+            },
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": [
+              "Analyzing Emotion and Terminology"
+            ],
+            "prefix": "10.4135",
+            "author": [
+              {
+                "given": "Aeron",
+                "family": "Zentner",
+                "sequence": "first",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "member": "179",
+            "container-title": [
+              "Qualitative Data Analysis"
+            ],
+            "deposited": {
+              "date-parts": [
+                [
+                  2025,
+                  7,
+                  21
+                ]
+              ],
+              "date-time": "2025-07-21T10:36:04Z",
+              "timestamp": 1753094164000
+            },
+            "score": 24.670433,
+            "resource": {
+              "primary": {
+                "URL": "https://sk.sagepub.com/skills/business/da/qualitative-data-analysis/08"
+              }
+            },
+            "editor": [
+              {
+                "given": "Aeron",
+                "family": "Zentner",
+                "sequence": "additional",
+                "affiliation": [],
+                "role": [
+                  {
+                    "role": "editor",
+                    "vocabulary": "crossref"
+                  }
+                ]
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  2021
+                ]
+              ]
+            },
+            "ISBN": [
+              "9781071865859"
+            ],
+            "references-count": 0,
+            "alternative-id": [
+              "10.4135/9781071865859"
+            ],
+            "URL": "https://doi.org/10.4135/9781071865927",
+            "published": {
+              "date-parts": [
+                [
+                  2021
+                ]
+              ]
+            }
+          }
+        ],
+        "items-per-page": 7,
+        "query": {
+          "start-index": 0,
+          "search-terms": null
+        }
+      }
+    }
+  },
+  {
+    "q": "Linguistic evidence for a Lao perspective on facial expression of emotion",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=Linguistic+evidence+for+a+Lao+perspective+on+facial+expression+of+emotion&rows=7"
+  }
+]

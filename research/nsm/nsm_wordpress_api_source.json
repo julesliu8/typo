@@ -1,0 +1,5 @@
+{
+  "name": "nsm_wordpress_api",
+  "url": "https://public-api.wordpress.com/rest/v1.1/sites/nsm-approach.net/posts/?number=100&search=emotion",
+  "error": "404 Client Error: Not Found for url: https://public-api.wordpress.com/rest/v1.1/sites/nsm-approach.net/posts/?number=100&search=emotion"
+}

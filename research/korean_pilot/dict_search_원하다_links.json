@@ -1,0 +1,250 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 40",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 2",
+    "#"
+  ],
+  [
+    "Definition 18",
+    "#"
+  ],
+  [
+    "Usage Example 562",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "원하다",
+    "javascript:checkSubmit('69570','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy81MDAwMC80NzAwMC8zMjU4MTkvU05EMDAwMzM1MTczLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('69570','Y');"
+  ],
+  [
+    "시원하다",
+    "javascript:checkSubmit('71281','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8yMDAwMC8zMjcyMTUvU05EMDAwMzM2NTY5Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('71281','Y');"
+  ],
+  [
+    "입원하다",
+    "javascript:checkSubmit('62373','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyNC81MDEwMC9TTkQwMDAwMzg4MDMubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('62373','Y');"
+  ],
+  [
+    "퇴원하다",
+    "javascript:checkSubmit('82874','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8xMDAwMC8wMTAwMC8zMzYwODIvU05EMDAwMzQ1NDM2Lm1wMw==');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8xMDAwMC8wMTAwMC8zMzYwODMvU05EMDAwMzQ1NDM3Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('82874','Y');"
+  ],
+  [
+    "개원하다",
+    "javascript:checkSubmit('26681','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy80MDAwMC8zMzAwMC8zMDAwNTEvU05EMDAwMzA5NDA1Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('26681','Y');"
+  ],
+  [
+    "등원하다",
+    "javascript:checkSubmit('600897','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('600897','Y');"
+  ],
+  [
+    "소원하다 1",
+    "javascript:checkSubmit('78163','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8xMDAwMC8wNTAwMC8zMzI3NDgvU05EMDAwMzQyMTAyLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('78163','Y');"
+  ],
+  [
+    "영원하다",
+    "javascript:checkSubmit('72385','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yNzAwMC8zMjgxOTkvU05EMDAwMzM3NTUzLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('72385','Y');"
+  ],
+  [
+    "응원하다",
+    "javascript:checkSubmit('71422','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yNDAwMC8zMjczNDQvU05EMDAwMzM2Njk4Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('71422','Y');"
+  ],
+  [
+    "지원하다 1",
+    "javascript:checkSubmit('27943','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8xMDAwMC8wOTAwMC8zMDA3ODgvU05EMDAwMzEwMTQyLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('27943','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

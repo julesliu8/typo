@@ -1,0 +1,989 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 653915,
+    "items": [
+      {
+        "institution": [
+          {
+            "name": "Koninklijke Brill NV",
+            "acronym": [
+              "BRILL"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              7
+            ]
+          ],
+          "date-time": "2025-03-07T01:05:37Z",
+          "timestamp": 1741309537851,
+          "version": "3.38.0"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1163/2773-1952_hcso_com_0105",
+        "type": "dataset",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2024-04-08T09:59:19Z",
+          "timestamp": 1712570359000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Natural Semantic Metalanguage (NSM) Approach"
+        ],
+        "prefix": "10.1163",
+        "member": "374",
+        "container-title": [
+          "Handbook of Cognitive Semantics Online"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2024-09-30T11:29:45Z",
+          "timestamp": 1727695785000
+        },
+        "score": 24.339645,
+        "resource": {
+          "primary": {
+            "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T11:36:42Z",
+          "timestamp": 1794397002562,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110137354",
+            "type": "print"
+          },
+          {
+            "value": "9783110884210",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110884210.16",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              9,
+              19
+            ]
+          ],
+          "date-time": "2011-09-19T07:45:07Z",
+          "timestamp": 1316418307000
+        },
+        "page": "16-27",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Chapter 2: Lezgian and its speakers"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Lezgian"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9783110884210/10.1515/9783110884210.16.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.16/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.16/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:56:34Z",
+          "timestamp": 1776358594000
+        },
+        "score": 23.524412,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.16/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110137354",
+          "9783110884210"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110884210.16",
+          "10.1515/9783110884210"
+        ],
+        "URL": "https://doi.org/10.1515/9783110884210.16",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110884210",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T11:34:32Z",
+          "timestamp": 1794396872161,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110137354",
+            "type": "print"
+          },
+          {
+            "value": "9783110884210",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110884210.479",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              9,
+              19
+            ]
+          ],
+          "date-time": "2011-09-19T07:45:07Z",
+          "timestamp": 1316418307000
+        },
+        "page": "479-514",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Chapter 26: Lezgian-English vocabulary"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Lezgian"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9783110884210/10.1515/9783110884210.479.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.479/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.479/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:56:37Z",
+          "timestamp": 1776358597000
+        },
+        "score": 22.580147,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.479/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110137354",
+          "9783110884210"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110884210.479",
+          "10.1515/9783110884210"
+        ],
+        "URL": "https://doi.org/10.1515/9783110884210.479",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110884210",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T11:36:50Z",
+          "timestamp": 1794397010805,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110137354",
+            "type": "print"
+          },
+          {
+            "value": "9783110884210",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110884210.515",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              9,
+              19
+            ]
+          ],
+          "date-time": "2011-09-19T07:45:07Z",
+          "timestamp": 1316418307000
+        },
+        "page": "515-529",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Chapter 27: English-Lezgian vocabulary"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Lezgian"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9783110884210/10.1515/9783110884210.515.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.515/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.515/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:56:33Z",
+          "timestamp": 1776358593000
+        },
+        "score": 22.32235,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.515/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110137354",
+          "9783110884210"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110884210.515",
+          "10.1515/9783110884210"
+        ],
+        "URL": "https://doi.org/10.1515/9783110884210.515",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110884210",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2025-07-03T04:03:56Z",
+          "timestamp": 1751515436792,
+          "version": "3.41.0"
+        },
+        "reference-count": 0,
+        "publisher": "Prof. Marin Drinov Publishing House of the Bulgarian Academy of Sciences",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.7546/confibl2025.01",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              2
+            ]
+          ],
+          "date-time": "2025-07-02T07:50:51Z",
+          "timestamp": 1751442651000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Cognitive predicates and predicates for information transfer: syntactic models"
+        ],
+        "prefix": "10.7546",
+        "author": [
+          {
+            "given": "Marina",
+            "family": "Dzhonova",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yovka",
+            "family": "Tisheva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "4381",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              2
+            ]
+          ]
+        },
+        "event": {
+          "name": "Proceedings of the International Annual Conference of the Institute for Bulgarian Language (Sofia, 2025)"
+        },
+        "container-title": [
+          "Proceedings of the International Annual Conference of the Institute for Bulgarian Language (Sofia, 2024)"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              2
+            ]
+          ],
+          "date-time": "2025-07-02T07:50:51Z",
+          "timestamp": 1751442651000
+        },
+        "score": 21.506248,
+        "resource": {
+          "primary": {
+            "URL": "https://ibl.bas.bg/wp-content/uploads/2025/06/01_DzhonovaTisheva_ConfIBL2025.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              2
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.7546/confibl2025.01",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T08:53:33Z",
+          "timestamp": 1794387213610,
+          "version": "4.9.0"
+        },
+        "publisher-location": "Berlin, New York",
+        "reference-count": 0,
+        "publisher": "DE GRUYTER MOUTON",
+        "isbn-type": [
+          {
+            "value": "9783110850512",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1515/9783110850512.300",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              6
+            ]
+          ],
+          "date-time": "2011-05-06T11:06:29Z",
+          "timestamp": 1304679989000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Lango-English vocabulary"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Lango"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110850512.300/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2021-04-20T23:40:02Z",
+          "timestamp": 1618962002000
+        },
+        "score": 21.340721,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110850512.300/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110850512"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1515/9783110850512.300",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110850512",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              15
+            ]
+          ],
+          "date-time": "2023-12-15T11:59:27Z",
+          "timestamp": 1702641567968
+        },
+        "reference-count": 0,
+        "publisher": "Institute for the Study of Language and Information, Kyung Hee University",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "linguisticresearch"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.17250/khisli.33.1.201603.004",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2017-02-01T20:58:34Z",
+          "timestamp": 1485982714000
+        },
+        "page": "65-94",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "How do Koreans break and cut things?: A cognitive-semantics approach to BREAK predicates and CUT predicates in Korean"
+        ],
+        "prefix": "10.17250",
+        "volume": "33",
+        "author": [
+          {
+            "family": "권익수",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "6906",
+        "container-title": [
+          "Linguistic Research"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2017-02-01T20:58:37Z",
+          "timestamp": 1485982717000
+        },
+        "score": 21.034447,
+        "resource": {
+          "primary": {
+            "URL": "http://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002093734"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              3
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2016,
+                3
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17250/khisli.33.1.201603.004",
+        "ISSN": [
+          "1229-1374"
+        ],
+        "issn-type": [
+          {
+            "value": "1229-1374",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2026-11-11T11:35:41Z",
+          "timestamp": 1794396941859,
+          "version": "4.9.0"
+        },
+        "reference-count": 0,
+        "publisher": "DE GRUYTER",
+        "isbn-type": [
+          {
+            "value": "9783110137354",
+            "type": "print"
+          },
+          {
+            "value": "9783110884210",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110884210.xix",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              9,
+              19
+            ]
+          ],
+          "date-time": "2011-09-19T07:45:07Z",
+          "timestamp": 1316418307000
+        },
+        "page": "XIX-XX",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Abbreviations"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "A Grammar of Lezgian"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/book/9783110884210/10.1515/9783110884210.XIX.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.XIX/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.XIX/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2026-04-16T16:56:37Z",
+          "timestamp": 1776358597000
+        },
+        "score": 20.678947,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783110884210.XIX/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110137354",
+          "9783110884210"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110884210.XIX",
+          "10.1515/9783110884210"
+        ],
+        "URL": "https://doi.org/10.1515/9783110884210.xix",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1515/9783110884210",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              12,
+              31
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,1534 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T18:40:38Z",
+      "timestamp": 1648579238930
+    },
+    "reference-count": 0,
+    "publisher": "Hampstead Psychological Associates",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IJRP"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.37200/ijpr/v24i5/pr2020792",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2020-06-29T10:54:13Z",
+      "timestamp": 1593428053000
+    },
+    "page": "7915-7923",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Natural Semantic Metalanguage of Action Verbs in Balinese"
+    ],
+    "prefix": "10.37200",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Ni Putu Candra",
+        "family": "Gunasari",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "23331",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "International Journal of Psychosocial Rehabilitation"
+    ],
+    "original-title": [
+      "Natural Semantic Metalanguage of Action Verbs in Balinese"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2020-06-29T10:54:16Z",
+      "timestamp": 1593428056000
+    },
+    "score": 31.326519,
+    "resource": {
+      "primary": {
+        "URL": "https://www.psychosocial.com/article/PR2020792/31525/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          25
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            25
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            25
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.37200/ijpr/v24i5/pr2020792",
+    "ISSN": [
+      "1475-7192"
+    ],
+    "issn-type": [
+      {
+        "value": "1475-7192",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Koninklijke Brill NV",
+        "acronym": [
+          "BRILL"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          7
+        ]
+      ],
+      "date-time": "2025-03-07T01:05:37Z",
+      "timestamp": 1741309537851,
+      "version": "3.38.0"
+    },
+    "reference-count": 0,
+    "publisher": "Walter de Gruyter GmbH",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1163/2773-1952_hcso_com_0105",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2024-04-08T09:59:19Z",
+      "timestamp": 1712570359000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Natural Semantic Metalanguage (NSM) Approach"
+    ],
+    "prefix": "10.1163",
+    "member": "374",
+    "container-title": [
+      "Handbook of Cognitive Semantics Online"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2024-09-30T11:29:45Z",
+      "timestamp": 1727695785000
+    },
+    "score": 30.979876,
+    "resource": {
+      "primary": {
+        "URL": "https://referenceworks.brill.com/display/entries/HCSO/COM-0105.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1163/2773-1952_hcso_com_0105"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2024-02-22T00:45:22Z",
+      "timestamp": 1708562722008
+    },
+    "reference-count": 0,
+    "publisher": "Castledown Publishers",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              31
+            ]
+          ],
+          "date-time": "2022-12-31T00:00:00Z",
+          "timestamp": 1672444800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "MLE"
+    ],
+    "abstract": "<jats:p>We should seek every possible method for educating immigrants and refugees and facilitating communication for them – especially during the current difficult times due to the spread of a killer-pandemic (i.e., Covid-19). To this end, I discuss the role which “metalanguage” could play in this regard, with reference to Natural Semantic Metalanguage/NSM and Minimal English/ME (e.g., Goddard &amp; Wierzbicka, 2007; Goddard &amp; Wierzbicka, 2018). This mainly theoretical contribution will demonstrate how NSM and ME can be powerful pedagogical tools for ethnopragmatic instruction and a mitigator to cross-cultural misunderstanding in intercultural/ international communication. The main merit which I claim is raising awareness about the significance of this well-established project in applied linguistics and demonstrates how it can tie in with the immigrant-and-refugee situation.</jats:p>",
+    "DOI": "10.29140/mle.v3n1.487",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2022-05-27T10:30:15Z",
+      "timestamp": 1653647415000
+    },
+    "page": "23-41",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Metalanguage for enabling immigrants and refugees: Relevance of Natural Semantic Metalanguage and Minimal English"
+    ],
+    "prefix": "10.29140",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Boudjemaa",
+        "family": "Dendenne",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "11670",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    },
+    "container-title": [
+      "Migration and Language Education"
+    ],
+    "link": [
+      {
+        "URL": "https://www.castledown.com/journals/mle/article/download/mle.v3n1.487/mle.v1n1.487",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.castledown.com/journals/mle/article/download/mle.v3n1.487/mle.v1n1.487",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2024-02-21T04:42:09Z",
+      "timestamp": 1708490529000
+    },
+    "score": 29.627516,
+    "resource": {
+      "primary": {
+        "URL": "https://www.castledown.com/journals/mle/article/view/mle.v3n1.487"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            31
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.29140/mle.v3n1.487",
+    "ISSN": [
+      "2652-5984"
+    ],
+    "issn-type": [
+      {
+        "value": "2652-5984",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          31
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2026-09-18T05:55:03Z",
+      "timestamp": 1789710903824,
+      "version": "4.0.1"
+    },
+    "edition-number": "1",
+    "reference-count": 1,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "value": "9781351034708",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781351034708-7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2021-04-19T14:42:18Z",
+      "timestamp": 1618843338000
+    },
+    "page": "93-110",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Natural Semantic Metalanguage"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Cliff",
+        "family": "Goddard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bromhead, H. (2018). Landscape and culture—Cross-linguistic perspectives. Amsterdam: John Benjamins. (Semantic studies of landscape terms with an experientialist and culture-sensitive orientation.)",
+        "DOI": "10.1075/clscc.9"
+      }
+    ],
+    "container-title": [
+      "The Routledge Handbook of Cognitive Linguistics"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ],
+      "date-time": "2021-05-19T20:03:42Z",
+      "timestamp": 1621454622000
+    },
+    "score": 29.597721,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781351034692/chapters/10.4324/9781351034708-7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781351034708"
+    ],
+    "references-count": 1,
+    "URL": "https://doi.org/10.4324/9781351034708-7",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2026-11-10T19:43:59Z",
+      "timestamp": 1794339839653,
+      "version": "4.9.0"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier",
+    "isbn-type": [
+      {
+        "value": "9780080448541",
+        "type": "print"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2006-01-01T00:00:00Z",
+          "timestamp": 1136073600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "DOI": "10.1016/b0-08-044854-2/01060-9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2006-04-05T11:30:00Z",
+      "timestamp": 1144236600000
+    },
+    "page": "544-551",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Natural Semantic Metalanguage"
+    ],
+    "prefix": "10.1016",
+    "author": [
+      {
+        "given": "C.",
+        "family": "Goddard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0001",
+        "first-page": "257",
+        "article-title": "“Partir, c'est mourir un peu.” Universal and culture specific features of leave taking",
+        "volume": "9–10",
+        "author": "Ameka",
+        "year": "1999",
+        "journal-title": "RASK, International Journal of Language and Communication, Special Edition on ‘E Pluribus Una’: the One in the Many"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1177/106939710103500208",
+        "article-title": "A cognitivist's view of the units debate in cultural anthropology",
+        "volume": "35",
+        "author": "D'Andrade",
+        "year": "2001",
+        "journal-title": "Cross-Cultural Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1515/thli.29.3.157",
+        "article-title": "The natural semantic metalanguage approach to linguistic meaning",
+        "volume": "29",
+        "author": "Durst",
+        "year": "2003",
+        "journal-title": "Theoretical Linguistics"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0004",
+        "series-title": "Semantic analysis: a practical introduction",
+        "author": "Goddard",
+        "year": "1998"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1515/lity.5.1.1",
+        "article-title": "Lexico-semantic universals: a critical overview",
+        "volume": "5",
+        "author": "Goddard",
+        "year": "2001",
+        "journal-title": "Linguistic Typology"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1016/S0378-2166(00)00028-X",
+        "article-title": "Sabar, ikhlas, setia–patient, sincere, loyal? A contrastive semantic study of some “virtues” in Malay and English",
+        "volume": "33",
+        "author": "Goddard",
+        "year": "2001",
+        "journal-title": "Journal of Pragmatics"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0007",
+        "series-title": "Ethnosyntax: explorations in grammar and culture",
+        "first-page": "52",
+        "article-title": "Ethnosyntax, ethnopragmatics, sign-functions, and culture",
+        "author": "Goddard",
+        "year": "2002"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1016/S0388-0001(03)00002-0",
+        "article-title": "Whorf meets Wierzbicka: variation and universals in language and thinking",
+        "volume": "25",
+        "author": "Goddard",
+        "year": "2003",
+        "journal-title": "Language Sciences"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0009",
+        "volume": "Vols I and II",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0010",
+        "series-title": "Meaning and universal grammar–theory and empirical findings",
+        "year": "2002"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0011",
+        "volume": "1",
+        "year": "2004",
+        "journal-title": "Intercultural Pragmatics"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0012",
+        "year": "2001"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1075/pc.10.1-2.06has",
+        "article-title": "“Body part” terms and emotion in Japanese",
+        "volume": "10",
+        "author": "Hasada",
+        "year": "2002",
+        "journal-title": "Pragmatics and Cognition, Special Edition on The Body in the Description of Emotion"
+      },
+      {
+        "issue": "2–3",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1515/cogl.2003.007",
+        "article-title": "A Native American view of the “mind” as seen in the lexicon of cognition in East Cree",
+        "volume": "14",
+        "author": "Junker",
+        "year": "2003",
+        "journal-title": "Cognitive Linguistics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0015",
+        "first-page": "72",
+        "article-title": "Forensic semantics: the meaning of murder, manslaughter and homicide",
+        "volume": "7",
+        "author": "Langford",
+        "year": "2000",
+        "journal-title": "Forensic Linguistics"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0016",
+        "series-title": "Evidence for linguistic relativity",
+        "first-page": "193",
+        "article-title": "S'engager vs. to show restraint: linguistic and cultural relativity in discourse management",
+        "author": "Peeters",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0017",
+        "series-title": "Speaking of emotions: conceptualization and expression",
+        "first-page": "55",
+        "article-title": "Omoiyari as a core Japanese value: Japanese-style empathy?",
+        "author": "Travis",
+        "year": "1998"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1515/cogl.2003.002",
+        "article-title": "The semantics of the Spanish subjunctive: its use in the natural semantic metalanguage",
+        "volume": "14",
+        "author": "Travis",
+        "year": "2003",
+        "journal-title": "Cognitive Linguistics"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0019",
+        "series-title": "Semantic primitives",
+        "author": "Wierzbicka",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0020",
+        "series-title": "Lingua mentalis: the semantics of natural language",
+        "author": "Wierzbicka",
+        "year": "1980"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0021",
+        "series-title": "Lexicography and conceptual analysis",
+        "author": "Wierzbicka",
+        "year": "1985"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0022",
+        "series-title": "English speech act verbs: a semantic dictionary",
+        "author": "Wierzbicka",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0023",
+        "series-title": "Semantics: culture and cognition",
+        "author": "Wierzbicka",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0024",
+        "series-title": "Semantics: primes and universals",
+        "author": "Wierzbicka",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0025",
+        "series-title": "Understanding cultures through their key words",
+        "author": "Wierzbicka",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0026",
+        "series-title": "Emotions across languages and cultures",
+        "author": "Wierzbicka",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "739",
+        "DOI": "10.1016/S0378-2166(03)00070-5",
+        "article-title": "The particles of Singapore English: a semantic and cultural interpretation",
+        "volume": "36",
+        "author": "Wong",
+        "year": "2004",
+        "journal-title": "Journal of Pragmatics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/B0-08-044854-2/01060-9_b0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1177/1354067X04040928",
+        "article-title": "The Chinese folk model of facial expressions: a linguistic perspective",
+        "volume": "10",
+        "author": "Ye",
+        "year": "2004",
+        "journal-title": "Culture and Psychology"
+      },
+      {
+        "key": "10.1016/B0-08-044854-2/01060-9_b0029",
+        "article-title": "Korean maum vs. English heart and mind: contrastive semantics of cultural concepts",
+        "author": "Yoon",
+        "year": "2004"
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Language &amp; Linguistics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:B0080448542010609?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:B0080448542010609?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2024-02-03T11:18:43Z",
+      "timestamp": 1706959123000
+    },
+    "score": 29.433216,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/B0080448542010609"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780080448541"
+    ],
+    "references-count": 29,
+    "URL": "https://doi.org/10.1016/b0-08-044854-2/01060-9",
+    "published": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2026-10-05T11:54:44Z",
+      "timestamp": 1791201284493,
+      "version": "4.2.0"
+    },
+    "reference-count": 22,
+    "publisher": "Elsevier",
+    "isbn-type": [
+      {
+        "value": "9780443222863",
+        "type": "print"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "DOI": "10.1016/b978-0-323-95504-1.01456-3",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ],
+      "date-time": "2026-03-10T22:46:25Z",
+      "timestamp": 1773182785000
+    },
+    "page": "715-723",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Natural Semantic Metalanguage"
+    ],
+    "prefix": "10.1016",
+    "author": [
+      {
+        "given": "Cliff",
+        "family": "Goddard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib1",
+        "series-title": "Landscape and culture: Cross-linguistic perspectives",
+        "author": "Bromhead",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib2",
+        "series-title": "Russkaja Kul’turnaja Semantika: Ėmocii, cennosti, Žiznennyeustanovki [Russian cultural semantics: Emotions, values, attitudes]",
+        "author": "Gladkova",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib27",
+        "series-title": "The Routledge handbook of language and culture",
+        "first-page": "95",
+        "article-title": "Ethnopragmatics",
+        "author": "Gladkova",
+        "year": "2026"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib3",
+        "series-title": "Ethnopragmatics: understanding discourse in cultural context",
+        "author": "Goddard",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib4",
+        "series-title": "Cross-linguistic semantics",
+        "author": "Goddard",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib5",
+        "series-title": "Semantic analysis: A practical introduction",
+        "author": "Goddard",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib6",
+        "series-title": "Ten lectures on natural semantic metalanguage: Exploring language, thought and culture using simple, translatable words",
+        "author": "Goddard",
+        "year": "2018"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.22363/2312-9182-2018-22-3-539-559",
+        "article-title": "A semantic menagerie: The conceptual semantics of ethnozoological categories",
+        "volume": "22",
+        "author": "Goddard",
+        "year": "2018",
+        "journal-title": "Russian Journal of Linguistics"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib8",
+        "series-title": "The Routledge handbook of cognitive linguistics",
+        "first-page": "93",
+        "article-title": "Natural semantic metalanguage",
+        "author": "Goddard",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib9",
+        "series-title": "Minimal languages in action",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib10",
+        "series-title": "Semantic and lexical universals–Theory and empirical findings",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib11",
+        "series-title": "Meaning and universal grammar–Theory and empirical findings [Two vols]",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib12",
+        "series-title": "Words and meanings: lexical semantics across domains, languages and cultures",
+        "author": "Goddard",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib14",
+        "series-title": "Postcolonial semantics: Meaning and metalanguage in a multi-polar world",
+        "author": "Levisen",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib15",
+        "series-title": "Semantic primes and universal grammar: Empirical findings from the Romance languages",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib16",
+        "series-title": "Explorations in applied ethnolinguistics: Words, cultures and global perspectives",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib17",
+        "series-title": "Semantic primitives",
+        "author": "Wierzbicka",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib20",
+        "series-title": "Semantics: Primes and universals",
+        "author": "Wierzbicka",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib21",
+        "series-title": "Understanding cultures through their key words",
+        "author": "Wierzbicka",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib22",
+        "series-title": "Emotions across languages and cultures",
+        "author": "Wierzbicka",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib23",
+        "series-title": "The culture of Singapore English",
+        "author": "Wong",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/B978-0-323-95504-1.01456-3_bib24",
+        "series-title": "The semantics of nouns",
+        "author": "Ye",
+        "year": "2017"
+      }
+    ],
+    "container-title": [
+      "International Encyclopedia of Language and Linguistics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:B9780323955041014563?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:B9780323955041014563?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2026-10-05T11:09:20Z",
+      "timestamp": 1791198560000
+    },
+    "score": 29.267454,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/B9780323955041014563"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780443222863"
+    ],
+    "references-count": 22,
+    "URL": "https://doi.org/10.1016/b978-0-323-95504-1.01456-3",
+    "published": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T07:13:19Z",
+      "timestamp": 1773990799423,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "BRILL",
+    "isbn-type": [
+      {
+        "value": "9789004357723",
+        "type": "electronic"
+      },
+      {
+        "value": "9789004357709",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1163/9789004357723_006",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2018-03-20T16:02:10Z",
+      "timestamp": 1521561730000
+    },
+    "page": "126-158",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Semantic Molecules and Semantic Complexity"
+    ],
+    "prefix": "10.1163",
+    "author": [
+      {
+        "given": "Cliff",
+        "family": "Goddard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "374",
+    "container-title": [
+      "Ten Lectures on Natural Semantic MetaLanguage"
+    ],
+    "link": [
+      {
+        "URL": "https://brill.com/view/book/9789004357723/BP000014.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://brill.com/downloadpdf/title/35972",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T05:04:55Z",
+      "timestamp": 1773983095000
+    },
+    "score": 28.77429,
+    "resource": {
+      "primary": {
+        "URL": "https://brill.com/view/book/9789004357723/BP000014.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          6
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789004357723",
+      "9789004357709"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1163/9789004357723_006",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Szegedi Tudományegyetem",
+        "acronym": [
+          "SZTE"
+        ],
+        "place": [
+          "Szeged, Hungary"
+        ],
+        "department": [
+          "SZTE Nyelvtudományi Doktori Iskola"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2026-07-30T13:58:06Z",
+      "timestamp": 1785419886516,
+      "version": "3.56.0"
+    },
+    "reference-count": 0,
+    "publisher": "University of Szeged",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Disszertációmban három diskurzusjelölőnek, a hátnak, az izének és az ugyénak két-két leggyakoribb funkcióját elemzem. Az elemek szerepköreit a saját gyűjtésű, gyermek- és felnőtt nyelvi diskurzusokat tartalmazó korpuszaimban, illetve a MONYEK (Mátyus‒Orosz 2014) adatbázisban vizsgálom meg. Célom, hogy a Natural Semantic Metalanguage (NSM) modell kiegészítésével egy olyan elemzési rendszert, egy saját jelentésmodellt alkossak meg, amely a diskurzusjelölők jelentéseit kezelni tudja. A funkciók pontos beazonosítása után az NSM modellhez kapcsolódó egyéb (pl. kontextuális, strukturális) jellemzőket mutatom be, illetve olyan tulajdonságokkal (pl. prozódia, nem verbális jelzések) egészítem ki még a keretet, melyek segíthetnek a jelentések közti kapcsolatok feltárásában. Az egyéb, modellhez szorosan kapcsolódó jellemzők bemutatása után az NSM nyelvtani készlete segítségével felírom az elemek állandó szemantikai jelentését és speciális megjelenéseiket (Wierzbicka 1976, 1988), illetve a jelentésmodellemben is összehasonlítom a jelölők funkciópárjait. Végezetül a számszerűsített adatokkal rendelkező prozódia segítségével gépi tanulási kísérleteket mutatok be, melyek célja vázolni, hogy a prozódiai jegyek felhasználásával több algoritmus képes megkülönböztetni a diskurzusjelölők egyes funkcióit. Az értkezezés eredményei a nyelvtudomány manapság igen népszerű diskurzusjelölő-kutatása számára hordoznak releváns eredményeket.</jats:p>",
+    "DOI": "10.14232/phd.11838",
+    "type": "dissertation",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T09:48:24Z",
+      "timestamp": 1726134504000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          21
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A hát, az izé és az ugye diskurzusjelölők jelentéseinek ábrázolása a kibővített Natural Semantic Metalanguage modellben"
+    ],
+    "prefix": "10.14232",
+    "author": [
+      {
+        "given": "Flóra",
+        "family": "Marcsenkoné Kondacs",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01pnej532",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Szeged",
+            "department": [
+              "Doctoral School of Linguistics"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "5401",
+    "link": [
+      {
+        "URL": "https://doktori.bibl.u-szeged.hu/id/eprint/11838/1/M.%20Kondacs%20Fl%C3%B3ra%20v%C3%A9gleges%20disszert%C3%A1ci%C3%B3ja.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2024-09-12T09:48:37Z",
+      "timestamp": 1726134517000
+    },
+    "score": 28.178574,
+    "degree": [
+      "PhD"
+    ],
+    "resource": {
+      "primary": {
+        "URL": "http://doktori.bibl.u-szeged.hu/11838/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.14232/phd.11838"
+  }
+]

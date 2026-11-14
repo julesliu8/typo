@@ -1,0 +1,2142 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 219925,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2025-12-18T20:07:18Z",
+          "timestamp": 1766088438824,
+          "version": "3.40.4"
+        },
+        "reference-count": 0,
+        "publisher": "De Gruyter",
+        "isbn-type": [
+          {
+            "type": "electronic",
+            "value": "9783111388878"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  4,
+                  7
+                ]
+              ],
+              "date-time": "2025-04-07T00:00:00Z",
+              "timestamp": 1743984000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783111388878-005",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2025-04-08T07:49:53Z",
+          "timestamp": 1744098593000
+        },
+        "page": "97-122",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Light verb constructions with experiencer objects in Germanic and Romance"
+        ],
+        "prefix": "10.1515",
+        "author": [
+          {
+            "given": "Niklas",
+            "family": "Wiskandt",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "374",
+        "container-title": [
+          "Light verbs"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783111388878-005/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783111388878-005/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2025-04-09T06:50:58Z",
+          "timestamp": 1744181458000
+        },
+        "score": 35.849037,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9783111388878-005/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              7
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783111388878"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783111388878-005",
+          "10.1515/9783111388878"
+        ],
+        "URL": "https://doi.org/10.1515/9783111388878-005",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              3
+            ]
+          ],
+          "date-time": "2026-05-03T01:49:13Z",
+          "timestamp": 1777772953785,
+          "version": "3.51.4"
+        },
+        "publisher-location": "Venice",
+        "reference-count": 78,
+        "publisher": "Fondazione Università Ca’ Foscari",
+        "isbn-type": [
+          {
+            "value": "9791257420598",
+            "type": "print"
+          },
+          {
+            "value": "9788869699627",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "edizionicafoscari.unive.it",
+            "edizionicafoscari.it"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              29
+            ]
+          ]
+        },
+        "abstract": "<jats:p>In a large number of studies, pronominal constructions of object-experiencer verbs in Romance languages are classified as anticausatives. However, this analysis is not convincing: the experiencer argument is more likely to be the most active argument than the most passive argument. According to the common criteria for determining antipassives, there is a strong argument for considering pronominal constructions of OE-verbs in Romance languages as instances of antipassives. As an alternative, we propose deriving these constructions by a lexical rule because the presumed antipassive construction in Romance languages is only productive in the semantic domain of episodic psych-verbs.</jats:p>",
+        "DOI": "10.30687/978-88-6969-962-7/005",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2026-04-29T17:01:01Z",
+          "timestamp": 1777482061000
+        },
+        "update-policy": "https://doi.org/10.30687/crossmark-policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "An RRG Approach to Pronominal Constructions of Object-Experiencer Verbs – Anticausatives or Antipassives?"
+        ],
+        "prefix": "10.30687",
+        "author": [
+          {
+            "given": "Rolf",
+            "family": "Kailuweit",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Heinrich-Heine-Universität Düsseldorf"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "12144",
+        "reference": [
+          {
+            "key": "ref_1",
+            "unstructured": "Davies, Mark. Corpus do Português. https://www.corpusdoportugues.org/"
+          },
+          {
+            "key": "ref_2",
+            "unstructured": "Corpus textual informatitzat de la llengua catalana (CTILC). https://ctilc.iec.cat/scripts/"
+          },
+          {
+            "key": "ref_3",
+            "unstructured": "Frantext. https://www.frantext.fr/"
+          },
+          {
+            "key": "ref_4",
+            "unstructured": "Corpus computațional de referință pentru limba română contemporană. https://korap.racai.ro/"
+          },
+          {
+            "key": "ref_5",
+            "unstructured": "Base de datos de verbos, alternancias de diátesis y esquemas sintáctico semánticos del español [ADESSE]. https://www.adesse.uvigo.es/"
+          },
+          {
+            "key": "ref_6",
+            "unstructured": "El Corpus de Referencia del Español Actual (CREA). https://www.rae.es/banco-de-datos/crea"
+          },
+          {
+            "key": "ref_7",
+            "unstructured": "Davies, Mark. El corpus del español. https://www.corpusdelespanol.org/"
+          },
+          {
+            "key": "ref_8",
+            "article-title": "Los verbos psicológicos: Raíces especiales en estructuras corrientes",
+            "author": "Acedo-Matellán, V.",
+            "year": "2015"
+          },
+          {
+            "key": "ref_9",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.lingua.2014.05.010",
+            "article-title": "The Psych Causative Alternation",
+            "author": "Alexiadou, A.",
+            "year": "2014"
+          },
+          {
+            "key": "ref_10",
+            "article-title": "Psych-notes",
+            "author": "Arad, M.",
+            "year": "1998"
+          },
+          {
+            "key": "ref_11",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.11649/cs.2014.017",
+            "article-title": "Verbs of Emotion with se in Slovene: Between Middle and Reflexive Semantics: A Cognitive Analysis",
+            "author": "Będkowska-Kopczyk, A.",
+            "year": "2014"
+          },
+          {
+            "key": "ref_12",
+            "article-title": "Psych-verbs and Theta-theory",
+            "author": "Belletti, A.",
+            "year": "1988"
+          },
+          {
+            "key": "ref_13",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.16995/glossa.9071",
+            "article-title": "Alternating Arguments of Polish Psych Verbs",
+            "author": "Bondaruk, A.",
+            "year": "2024"
+          },
+          {
+            "key": "ref_14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bouchard, D. (1995). The Semantics of Syntax: A Minimalist Approach to Grammar. Chicago: University of Chicago Press. https://doi.org/10.1017/s0022226797226897",
+            "DOI": "10.1017/S0022226797226897"
+          },
+          {
+            "key": "ref_15",
+            "article-title": "Verbos Psicológicos: uma classe relevante gramaticalmente?",
+            "author": "Cançado, M.",
+            "year": "2012"
+          },
+          {
+            "key": "ref_16",
+            "article-title": "The Syntactic-semantic Behavior of Psych Verbs in Brazilian Portuguese",
+            "author": "Cançado, M.",
+            "year": "2015"
+          },
+          {
+            "key": "ref_17",
+            "article-title": "Causative-inchoative Alternation with Complex States: Evidence from BP ObjExp-verbs",
+            "author": "Cançado, M.",
+            "year": "2018"
+          },
+          {
+            "key": "ref_18",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/ling-2022-0024",
+            "article-title": "Psych Verbs: the Behavior of ObjExp Verbs in Brazilian Portuguese",
+            "author": "Cançado, M.",
+            "year": "2024"
+          },
+          {
+            "key": "ref_19",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1075/ivitra.9.06cif",
+            "article-title": "Causativity and Psychological Verbs in Spanish",
+            "author": "Cifuentes Honrubia, J.L.",
+            "year": "2015"
+          },
+          {
+            "key": "ref_20",
+            "article-title": "A Unified View of Psych-Verbs in Italian",
+            "author": "Cresti, D.",
+            "year": "1990"
+          },
+          {
+            "key": "ref_21",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.33137/twpl.v39i0.28778",
+            "article-title": "The Meaning of Antipassive: Evidence from Australian Languages",
+            "author": "Denniss, J.",
+            "year": "2017"
+          },
+          {
+            "key": "ref_22",
+            "article-title": "Ergativity",
+            "author": "Dixon, R.M.W.",
+            "year": "1979"
+          },
+          {
+            "key": "ref_23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dowty, D. (1979). Word Meaning and Montague Grammar: The Semantics of Verbs and Times in Generative Semantics and in Montague’s PTQ. Dordrecht: Reidel. https://doi.org/10.2307/2273576",
+            "DOI": "10.1007/978-94-009-9473-7"
+          },
+          {
+            "key": "ref_24",
+            "article-title": "All Emotions are Basic",
+            "author": "Ekman, P.",
+            "year": "1994"
+          },
+          {
+            "key": "ref_25",
+            "article-title": "Datives and Stativity in Psych Predicates",
+            "author": "Fábregas, A.",
+            "year": "2020"
+          },
+          {
+            "key": "ref_26",
+            "article-title": "Information Packaging in the Clause",
+            "author": "Foley, W.A.",
+            "year": "1985"
+          },
+          {
+            "key": "ref_27",
+            "article-title": "More on the Typology of Inchoative/Causative Verb Alternations.",
+            "author": "GHaspelmath, M.",
+            "year": "1993"
+          },
+          {
+            "key": "ref_28",
+            "article-title": "A Typology of Antipassives, with Special Reference to Mayan [PhD Dissertation]",
+            "author": "Heaton, R.",
+            "year": "2017"
+          },
+          {
+            "key": "ref_29",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1146/annurev-linguistics-011619-030412",
+            "article-title": "Antipassives in Crosslinguistic Perspective",
+            "author": "Heaton, R.",
+            "year": "2020"
+          },
+          {
+            "key": "ref_30",
+            "article-title": "Passive and Antipassive in a Functional Description of French Reflexive Verbs",
+            "author": "Herslund, M.",
+            "year": "1997"
+          },
+          {
+            "key": "ref_31",
+            "article-title": "Case Marking in Spanish Reverse Psychological Verbs: A Lexical Semantic Perspective [PhD Dissertation]",
+            "author": "Hirsch, N. (2018). German Psych Verbs – Insights from a Decompositional Perspective [PhD Dissertation]. Berlin: Humboldt-Universität zu Berlin.aneshan, A.",
+            "year": "2015"
+          },
+          {
+            "key": "ref_32",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/shll-2018-0011",
+            "article-title": "Examining Agentivity in Spanish Reverse-Psych Verbs",
+            "author": "Ganeshan, A.",
+            "year": "2019"
+          },
+          {
+            "key": "ref_33",
+            "article-title": "One Rule to Rule Them All: Logical Structures for Spanish Non-reflexive se Constructions",
+            "author": "González Vergara, C.",
+            "year": "2009"
+          },
+          {
+            "key": "ref_34",
+            "article-title": "Argument Structure",
+            "author": "Grimshaw, J.",
+            "year": "1990"
+          },
+          {
+            "key": "ref_35",
+            "article-title": "Grammaire transformationnelle du français. Syntaxe du verbe",
+            "author": "Gross, M.",
+            "year": "1971"
+          },
+          {
+            "key": "ref_36",
+            "article-title": "Méthode en syntaxe. Régime des constructions complétives",
+            "author": "Gross, M.",
+            "year": "1975"
+          },
+          {
+            "key": "ref_37",
+            "article-title": "Sur quelques extensions possibles de l’appellation passif",
+            "author": "Gross, M.",
+            "year": "2000"
+          },
+          {
+            "key": "ref_38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Härtl, H. (2001a). Cause und Change: thematische Relationen und Ereignisstrukturen in Konzeptualisierung und Grammatikalisierung. Berlin: Akademieverlag. https://doi.org/10.1515/9783050079714-006",
+            "DOI": "10.1515/9783050079714"
+          },
+          {
+            "key": "ref_39",
+            "article-title": "Mapping Conceptual onto Grammatical Structures. The Case of Psych-verbs",
+            "author": "Härtl, H.",
+            "year": "2001"
+          },
+          {
+            "key": "ref_40",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1080/02699938908408075",
+            "article-title": "The Language of Emotions: An Analysis of a Semantic Field",
+            "author": "Johnson-Laird, P.N.",
+            "year": "1989"
+          },
+          {
+            "key": "ref_41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kailuweit, R. (2005). Linking: Syntax und Semantik französischer und italienischer Gefühlsverben. Tübingen: Niemeyer. https://doi.org/10.1515/9783110943351",
+            "DOI": "10.1515/9783110943351"
+          },
+          {
+            "key": "ref_42",
+            "article-title": "Romance Anticausatives: A Constructionist RRG Approach",
+            "author": "Kailuweit, R.",
+            "year": "2011"
+          },
+          {
+            "key": "ref_43",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1075/ivitra.9.14kai",
+            "article-title": "Romance Object-experiencer Verbs: From Aktionsart to Activity Hierarchy",
+            "author": "Kailuweit, R.",
+            "year": "2015"
+          },
+          {
+            "key": "ref_44",
+            "article-title": "Verbos de sentimiento con experimentador de objeto en el español, lengua policéntrica",
+            "author": "Kailuweit, R.",
+            "year": "2018"
+          },
+          {
+            "key": "ref_45",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781316418086.007",
+            "article-title": "Semantic Macroroles",
+            "author": "Kailuweit, R.",
+            "year": "2023"
+          },
+          {
+            "key": "ref_46",
+            "article-title": "Action, emotion and will",
+            "author": "Kenny, A.",
+            "year": "1963"
+          },
+          {
+            "key": "ref_47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kutscher, S. (2009). Kausalität und Argumentrealisierung. Zur Konstruktionsvarianz bei Psychverben am Beispiel europäischer Sprachen. Tübingen: Niemeyer. Linguistische Arbeiten 528. https://doi.org/10.1515/9783484971387",
+            "DOI": "10.1515/9783484971387"
+          },
+          {
+            "key": "ref_48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Landau, I. (2009). The Locative Syntax of Experiencers. Cambridge: MIT Press. https://doi.org/10.7551/mitpress/8387.001.0001",
+            "DOI": "10.7551/mitpress/8387.001.0001"
+          },
+          {
+            "key": "ref_49",
+            "article-title": "Grammatical Relations",
+            "author": "LaPolla, R.J.",
+            "year": "2023"
+          },
+          {
+            "key": "ref_50",
+            "article-title": "Casi todos los predicados psicológicos son estativos.",
+            "author": "Marín, R.",
+            "year": "2011"
+          },
+          {
+            "key": "ref_51",
+            "article-title": "Inchoativity, Change of State and Telicity: Evidence from Spanish Reflexive Psychological Verbs",
+            "author": "Marín, R.",
+            "year": "2011"
+          },
+          {
+            "key": "ref_52",
+            "article-title": "The Aktionsart of Spanish Reflexive Psychological Verbs",
+            "author": "Marín, R.",
+            "year": "2019"
+          },
+          {
+            "key": "ref_53",
+            "article-title": "Antipassive Constructions in Spanish",
+            "author": "Masullo, P.J.",
+            "year": "1992"
+          },
+          {
+            "key": "ref_54",
+            "article-title": "Los causativos emocionales del español. Un estudio aspectual",
+            "author": "Melis, C.",
+            "year": "2019"
+          },
+          {
+            "key": "ref_55",
+            "article-title": "Zero Syntax: Experiencers and Cascades",
+            "author": "Pesetsky, D.",
+            "year": "1995"
+          },
+          {
+            "key": "ref_56",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/flin-2017-0006",
+            "article-title": "Alternating Argument Constructions of Dutch Psychological Verbs: A Theory-driven Corpus Investigation",
+            "author": "Pijpops, D.",
+            "year": "2017"
+          },
+          {
+            "key": "ref_57",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oxfordhb/9780198739371.013.13",
+            "article-title": "Antipassives",
+            "author": "Polinsky, M.",
+            "year": "2017"
+          },
+          {
+            "key": "ref_58",
+            "article-title": "On Stativity and Causation",
+            "author": "Pylkkänen, L.",
+            "year": "2000"
+          },
+          {
+            "key": "ref_59",
+            "article-title": "Verbs psicològics catalans: el cas d' ‘agradar’ i ‘interessar’",
+            "author": "Royo, C.",
+            "year": "2017"
+          },
+          {
+            "key": "ref_60",
+            "article-title": "L’acceptació causativa del verb interessar amb complement preposicional",
+            "author": "Royo, C.",
+            "year": "2019"
+          },
+          {
+            "key": "ref_61",
+            "article-title": "Against the Psych Causative Alternation",
+            "author": "Rozwadowska, B.",
+            "year": "2019"
+          },
+          {
+            "key": "ref_62",
+            "article-title": "Theorie syntaxique et syntaxe du français",
+            "author": "Ruwet, N.",
+            "year": "1972"
+          },
+          {
+            "key": "ref_63",
+            "article-title": "Etre ou non pas etre un verbe de sentiment",
+            "author": "Ruwet, N.",
+            "year": "1994"
+          },
+          {
+            "key": "ref_64",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schäfer, F. (2008). The Syntax of (Anti-)Causatives. External Arguments in Change-of-state Contexts. Amsterdam; Philadelphia: John Benjamins. https://doi.org/10.1075/la.126",
+            "DOI": "10.1075/la.126"
+          },
+          {
+            "key": "ref_65",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Smith, C. (1991). The Parameter of Aspect. Dordrecht: Kluwer. https://doi.org/10.1007/978-94-015-7911-7",
+            "DOI": "10.1007/978-94-015-7911-7"
+          },
+          {
+            "key": "ref_66",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/s11185-010-9060-9",
+            "article-title": "The Event Structure of Verbs of Emotion in Russian",
+            "author": "Sonnenhauser, B.",
+            "year": "2010"
+          },
+          {
+            "key": "ref_67",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/ling.2011.004",
+            "article-title": "Detelicization and Argument Suppression: Evidence from Godoberi",
+            "author": "Tatevosov, S.",
+            "year": "2011"
+          },
+          {
+            "key": "ref_68",
+            "article-title": "The Peculiar Nature of Psych Verbs and Experiencer Object Structures [PhD Dissertation]",
+            "author": "Temme, A.",
+            "year": "2018"
+          },
+          {
+            "key": "ref_69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Van Valin, R.D.; LaPolla, R.J. (1997). Syntax: Structure, Meaning and Function. Cambridge: Cambridge University Press. https://doi.org/10.1017/cbo9781139166799",
+            "DOI": "10.1017/CBO9781139166799"
+          },
+          {
+            "key": "ref_70",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Van Valin, R.D. (2005). Exploring the Syntax-Semantics Interface. Cambridge: Cambridge University Press. https://doi.org/10.1017/cbo9780511610578",
+            "DOI": "10.1017/CBO9780511610578.001"
+          },
+          {
+            "key": "ref_71",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781316418086.003",
+            "article-title": "Principles of Role and Reference Grammar",
+            "author": "Van Valin, R.D.",
+            "year": "2023"
+          },
+          {
+            "key": "ref_72",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/BF00635833",
+            "article-title": "The Aspectual Semantics of Psychological Verbs",
+            "author": "Van Voorst, J.G.",
+            "year": "1992"
+          },
+          {
+            "key": "ref_73",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-662-69690-3_14",
+            "article-title": "Case Marking Alternation with Psychological Verbs in Spanish: Combining Different Corpus Data Sources",
+            "author": "Vázquez Rozas, V.",
+            "year": "2025"
+          },
+          {
+            "key": "ref_74",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vendler, Z. (1967). Linguistics in Philosophy. New York: Cornell University Press. https://doi.org/10.7591/9781501743726",
+            "DOI": "10.7591/9781501743726"
+          },
+          {
+            "key": "ref_75",
+            "article-title": "Argument Structure Alternations",
+            "author": "Watters, J.K.",
+            "year": "2023"
+          },
+          {
+            "key": "ref_76",
+            "article-title": "Animarse a sí mismo, enfadarse sin motivo: Restrictions on the formation and interpretation of reflexive constructions with experiencer verbs",
+            "author": "Wiskandt, N.",
+            "year": "2020"
+          },
+          {
+            "key": "ref_77",
+            "article-title": "Object-experiencer Verbs in Catalan, Brazilian Portuguese and Romanian: Setting the Stage for a Cross-linguistic Model",
+            "author": "Wiskandt, N.",
+            "year": "2023"
+          },
+          {
+            "key": "ref_78",
+            "article-title": "Philosophical Investigations",
+            "author": "Wittgenstein, L.",
+            "year": "1958"
+          }
+        ],
+        "container-title": [
+          "Psych Predicates in Romance Languages"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2026-04-29T17:12:01Z",
+          "timestamp": 1777482721000
+        },
+        "score": 35.591454,
+        "resource": {
+          "primary": {
+            "URL": "https://edizionicafoscari.it//it/edizioni/libri/978-88-6969-962-7/an-rrg-approach-to-pronominal-constructions-of-obj/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              29
+            ]
+          ]
+        },
+        "ISBN": [
+          "9791257420598",
+          "9788869699627"
+        ],
+        "references-count": 78,
+        "URL": "https://doi.org/10.30687/978-88-6969-962-7/005",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2022-04-05T19:55:54Z",
+          "timestamp": 1649188554472
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Harrassowitz, O",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.2307/j.ctvc76zxr.9",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              2,
+              15
+            ]
+          ],
+          "date-time": "2019-02-15T21:29:40Z",
+          "timestamp": 1550266180000
+        },
+        "page": "138-156",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Experiencer Constructions and the Resultative Function of Impersonal Verbs in Ethio-Semitic"
+        ],
+        "prefix": "10.2307",
+        "author": [
+          {
+            "given": "Lutz",
+            "family": "Edzard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1121",
+        "container-title": [
+          "Time in Languages of the Horn of Africa"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              2,
+              15
+            ]
+          ],
+          "date-time": "2019-02-15T21:29:47Z",
+          "timestamp": 1550266187000
+        },
+        "score": 35.24573,
+        "resource": {
+          "primary": {
+            "URL": "http://www.jstor.org/stable/10.2307/j.ctvc76zxr.9"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2307/j.ctvc76zxr.9",
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              11
+            ]
+          ],
+          "date-time": "2026-03-11T23:30:46Z",
+          "timestamp": 1773271846945,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "De Gruyter",
+        "isbn-type": [
+          {
+            "value": "9783110720273",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  12,
+                  31
+                ]
+              ],
+              "date-time": "2021-12-31T00:00:00Z",
+              "timestamp": 1640908800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1515/9783110720273-011",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2021-02-17T00:24:50Z",
+          "timestamp": 1613521490000
+        },
+        "page": "263-286",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "8 Experiencer verbs"
+        ],
+        "prefix": "10.1515",
+        "member": "374",
+        "container-title": [
+          "Degree Gradation of Verbs"
+        ],
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110720273-011/xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110720273-011/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2021-04-21T00:10:20Z",
+          "timestamp": 1618963820000
+        },
+        "score": 34.60114,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.1515/9783110720273-011/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              31
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783110720273"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1515/9783110720273-011",
+          "10.1515/9783110720273"
+        ],
+        "URL": "https://doi.org/10.1515/9783110720273-011",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "bioRxiv"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              30
+            ]
+          ],
+          "date-time": "2026-07-30T16:00:51Z",
+          "timestamp": 1785427251388,
+          "version": "3.56.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              27
+            ]
+          ]
+        },
+        "group-title": "Neuroscience",
+        "reference-count": 53,
+        "publisher": "openRxiv",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  5,
+                  27
+                ]
+              ],
+              "date-time": "2025-05-27T00:00:00Z",
+              "timestamp": 1748304000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "award": [
+              "IITRPR/Acad./2216"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "IITRPR/Acad./2216"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "https://ror.org/02qkhhn56",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              27
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The present study examined the neurophysiological correlates of processing mental experiencer verbs and physical experiencer verbs in Malayalam complex constructions, in which the subject argument assumed the experiencer role. Event-related brain potentials (ERPs) were recorded as twenty-eight first-language speakers of Malayalam read intransitive sentences with the two types of experiencer verbs. The subject case either matched the requirements of the verb in the critical stimuli, thereby rendering the sentence acceptable, or it violated the requirements of the verb, and thus rendering the sentence unacceptable. Both mental and physical experiencer verbs engendered negativity effects in the 400–600 ms time-window when the subject case did not match the verb’s requirements. Additionally, mental experiencer verbs evoked a LAN-like effect in the same time window regardless of grammaticality. Thus, even though both kinds of experiencer verbs are processed qualitatively similarly, inherent differences between mental and physical experiencer verbs in Malayalam persist and are discernible.</jats:p>",
+        "DOI": "10.1101/2025.05.21.655344",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              27
+            ]
+          ],
+          "date-time": "2025-05-27T05:50:13Z",
+          "timestamp": 1748325013000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Similar does not mean same: ERP correlates of processing mental and physical experiencer verbs in Malayalam complex constructions"
+        ],
+        "prefix": "10.64898",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-1540-0873",
+            "authenticated-orcid": false,
+            "given": "S.",
+            "family": "Shalu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Humanities and Social Sciences, Indian Institute of Technology Ropar, Rupnagar, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7103-2497",
+            "authenticated-orcid": false,
+            "given": "R.",
+            "family": "Muralikrishnan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0232-0003",
+            "authenticated-orcid": false,
+            "given": "Kamal Kumar",
+            "family": "Choudhary",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Humanities and Social Sciences, Indian Institute of Technology Ropar, Rupnagar, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "54368",
+        "reference": [
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/psyp.13451"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12688/wellcomeopenres.15191.2"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/00031305.2018.1543137"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/0898929052880101"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18637/jss.v067.i01"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1523/JNEUROSCI.3039-08.2008"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/0898929054021102"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fpsyg.2019.03013"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jml.2004.06.011"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/00001756-200203040-00022"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01690960244000018"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Butt, M . (2010). The light verb jungle: Still hacking away. Complex predicates: Cross-linguistic perspectives on event structure, 48-78.",
+            "DOI": "10.1017/CBO9780511712234.004"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neuropsychologia.2009.05.009"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01690960143000001"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neuropsychologia.2014.06.019"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-022-26890-9"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jneumeth.2003.10.009"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cognition.2007.01.008"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5070/g601138"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17470218.2014.1000345"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/23273798.2017.1397278"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bandl.2015.08.001"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/089892900562336"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1023277213129"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0028-3932(00)00053-1"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01690960143000489"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/00004691-200307000-00004"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1075/tsl.60.13jay"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/a:1014978917769"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bandl.2007.09.003"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/jocn.1993.5.2.196"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-94-007-1463-2_11"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.brainres.2008.04.049"
+          },
+          {
+            "issue": "6",
+            "key": "2026041123390031000_2025.05.21.655344v1.34",
+            "first-page": "0",
+            "article-title": "emmeans: Estimated Marginal Means, aka Least-Squares Means",
+            "volume": "1",
+            "year": "2021",
+            "journal-title": "R package version"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/s0010-0285(02)00004-x"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cortex.2011.02.019"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0028-3932(97)00119-X"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bandl.2020.104863"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cortex.2021.03.029"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5281/zenodo.2533138"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bandl.2013.04.005"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Perani, D. , Cappa, S. F. , Schnur, T. , Tettamanti, M. , Collina, S. , Rosa, M. M. , & Faziol, F. (1999). The neural correlates of verb and noun processing: A PET study. Brain, 122(12), 2337-2344.",
+            "DOI": "10.1093/brain/122.12.2337"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/J.NEUROIMAGE.2019.05.026"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12874-020-01105-9"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.45",
+            "first-page": "176",
+            "article-title": "Virtual action and real action have different impacts on comprehension of concrete verbs",
+            "volume": "6",
+            "year": "2015",
+            "journal-title": "Frontiers in psychology"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.46",
+            "unstructured": "Roehm, D. , Winkler, T. , Swaab, T. , & Klimesch, W . (2002). The N400 and delta oscillations: Is there a difference?. Journal of Cognitive Neuroscience, 134-135."
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1101/2025.03.12.642939"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neuroimage.2005.04.012"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jml.2019.104038"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.50",
+            "unstructured": "Thomas, S. C. (2014). Understanding the neurophysiological representation patterns of non-verifiable mental action verbs: an ERP investigation (Doctoral dissertation, Laurentian University of Sudbury)."
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.51",
+            "unstructured": "Thomas, S. C. , Brothers, T. , Vares, D. , & Dickinson, J . (2012, December). Verifiability and Action verb Processing: An ERP Investigation. In CANADIAN JOURNAL OF EXPERIMENTAL PSYCHOLOGY-REVUE CANADIENNE DE PSYCHOLOGIE EXPERIMENTALE (Vol. 66, No. 4, pp. 280-280). 141 LAURIER AVE WEST, STE 702, OTTAWA, ONTARIO K1P 5J3, CANADA: CANADIAN PSYCHOLOGICAL ASSOC."
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/00031305.2019.1583913"
+          },
+          {
+            "key": "2026041123390031000_2025.05.21.655344v1.53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.4235952"
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1101/2025.05.21.655344",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              24
+            ]
+          ],
+          "date-time": "2026-06-24T05:03:22Z",
+          "timestamp": 1782277402000
+        },
+        "score": 33.570557,
+        "resource": {
+          "primary": {
+            "URL": "http://biorxiv.org/lookup/doi/10.1101/2025.05.21.655344"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              27
+            ]
+          ]
+        },
+        "references-count": 53,
+        "URL": "https://doi.org/10.1101/2025.05.21.655344",
+        "relation": {
+          "is-preprint-of": [
+            {
+              "id-type": "doi",
+              "id": "10.3389/fnhum.2025.1632844",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              27
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T03:54:08Z",
+          "timestamp": 1787025248345,
+          "version": "build-2736575974"
+        },
+        "reference-count": 0,
+        "publisher": "Gunter Narr Verlag",
+        "isbn-type": [
+          {
+            "value": "9783823392996",
+            "type": "electronic"
+          },
+          {
+            "value": "9783823382997",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<ry:p>The volume investigates the syntagmatic relations of certain Finnish emotion verbs that are formed by the derivational suffix -ua/-yä (e.g. suuttua 'get angry', pelästyä 'get frightened'). Prototypically, the suffix expresses reflexivity, but in the case of the \"inchoative\" emotion verbs, it indicates a change of state on behalf of the experiencer, from a non-emotional state to an emotional state. The starting point of the investigation is a discussion of different psychological theories of emotion. The discussion shows that constructivist theories particularly emphasize the role of language and offer several links to the cognitive, usage-based model of language that constitutes the theoretical framework guiding the thesis. With regard to the usage-based model, special focus will be put on argument structures and stimulus nouns. The empirical part makes use of different forms of co-occurrence analysis in order to shed light the syntagmatic relations of the inchoative emotion verbs.\n\n\"Inchoative Emotion Verbs in Finnish\" won the 2019 Doctoral Dissertation Award of the Society for the Study of Finnish (Kotikielen Seura).</ry:p>\n                  <ry:p/>",
+        "DOI": "10.24053/9783823392996",
+        "type": "monograph",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2025-12-01T23:18:45Z",
+          "timestamp": 1764631125000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Inchoative Emotion Verbs in Finnish"
+        ],
+        "prefix": "10.24053",
+        "author": [
+          {
+            "given": "Maximilian",
+            "family": "Murmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "10140",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              27
+            ]
+          ]
+        },
+        "language": "de",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2025-12-01T23:18:53Z",
+          "timestamp": 1764631133000
+        },
+        "score": 33.192863,
+        "resource": {
+          "primary": {
+            "URL": "https://elibrary.narr.digital/xibrary/openurl?id=doi%3A10.24053%2F9783823392996"
+          }
+        },
+        "subtitle": [
+          "Argument Structures and Collexemes"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              27
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783823392996",
+          "9783823382997"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.24053/9783823392996",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T13:46:26Z",
+          "timestamp": 1794491186767,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University Press",
+        "isbn-type": [
+          {
+            "value": "9780199947157",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1093/acprof:oso/9780199947157.003.0004",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2014-12-17T03:53:30Z",
+          "timestamp": 1418788410000
+        },
+        "page": "56-94",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Old and Middle English Impersonal Verbs of Emotion"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Ayumi",
+            "family": "Miura",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "container-title": [
+          "Middle English Verbs of Emotion and Impersonal Constructions"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2022-08-02T17:29:10Z",
+          "timestamp": 1659461350000
+        },
+        "score": 32.835026,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/3185/chapter/144078606"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780199947157"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0004",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.001.0001",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T13:45:14Z",
+          "timestamp": 1794491114094,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University Press",
+        "isbn-type": [
+          {
+            "value": "9780199947157",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1093/acprof:oso/9780199947157.003.0005",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2014-12-17T03:53:30Z",
+          "timestamp": 1418788410000
+        },
+        "page": "95-231",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Semantic Distinctions between Impersonal and Non-impersonal Verbs of Emotion"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Ayumi",
+            "family": "Miura",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "container-title": [
+          "Middle English Verbs of Emotion and Impersonal Constructions"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2022-08-02T17:29:10Z",
+          "timestamp": 1659461350000
+        },
+        "score": 32.038525,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/3185/chapter/144081712"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780199947157"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0005",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.001.0001",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T13:44:09Z",
+          "timestamp": 1794491049116,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University Press",
+        "isbn-type": [
+          {
+            "value": "9780199947157",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1093/acprof:oso/9780199947157.003.0003",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2014-12-17T03:53:30Z",
+          "timestamp": 1418788410000
+        },
+        "page": "47-55",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Verbs of Emotion and the Historical Thesaurus of the Oxford English Dictionary"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Ayumi",
+            "family": "Miura",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "container-title": [
+          "Middle English Verbs of Emotion and Impersonal Constructions"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2022-08-02T17:29:09Z",
+          "timestamp": 1659461349000
+        },
+        "score": 31.551401,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/3185/chapter/144077853"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780199947157"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0003",
+        "relation": {
+          "is-part-of": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.001.0001",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2026-11-12T22:14:17Z",
+          "timestamp": 1794521657109,
+          "version": "4.9.1"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University Press",
+        "isbn-type": [
+          {
+            "value": "9780199947157",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1093/acprof:oso/9780199947157.001.0001",
+        "type": "monograph",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2014-12-17T08:53:30Z",
+          "timestamp": 1418806410000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Middle English Verbs of Emotion and Impersonal Constructions"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Ayumi",
+            "family": "Miura",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2022-08-02T21:29:08Z",
+          "timestamp": 1659475748000
+        },
+        "score": 30.705345,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/3185"
+          }
+        },
+        "subtitle": [
+          "Verb Meaning and Syntax in Diachrony"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780199947157"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/acprof:oso/9780199947157.001.0001",
+        "relation": {
+          "has-part": [
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0006",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0004",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0005",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0003",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0002",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "https://doi.org/10.1093/acprof:oso/9780199947157.003.0001",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

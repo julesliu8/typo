@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>基本動詞ハンドブック｜50音順</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="icon" href="/favicon.ico" />
+<link rel="stylesheet" href="css/handbook.css" type="text/css" media="screen">
+<script src="js/headwords.js"></script>
+
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+<div id="wrapper">
+  <header id="header">
+    <div id="top" class="title">
+      <img  id="logo" src="images/logo3.svg"/>
+    </div>
+  </header>
+
+  <nav class="main-menu">
+    <a class="menu" id="menu" onClick="toggleMenu()"><span><i id="index" class="fa-solid fa-chevron-up left"></i>目次</span></a>
+    <div id="menu-items">
+      <ul>
+        <a href="index.html"><li><i class="fa-solid fa-search left"></i>見出し検索</li></a>
+        <li class="active"><i class="fa-solid fa-rectangle-list left"></i>50音順<i class="fa-solid fa-caret-left right"></i></li>
+        <a href="category.html"><li><i class="fa-solid fa-share-nodes left"></i>意味分類</li></a>
+        <a href="about.html"><li><i class="fa-solid fa-info left"></i>このサイトについて</li></a>
+      </ul>   
+    </div>
+  </nav>
+
+  <div class="content">
+    <h1><i class="fa-solid fa-rectangle-list left"></i>50音順</h1>
+    <div class="section" style="margin-bottom:20px">
+      <p>下のボタンをクリックすると、その行の見出しを表示します。</p>
+      <ul class="block-grid">
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">ア行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">カ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">サ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">タ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">ナ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">ハ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">マ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">ヤ行</li>
+        <li class="gyo disabled">ラ行</li>
+        <li class="gyo" onClick="showHeadwordsByGyo(this);">ワ行</li>
+      </ul>
+    </div>
+    <div class="result-wrapper">
+      <div id="hit-count">&nbsp;</div>
+      <table id="results">
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div id='footer'>
+    <div class="title">基本動詞ハンドブックインターフェース</div>
+    <div class="credit">Copyright © プラシャント・パルデシ. All rights reserved.</div>
+  </div>
+</div>
+
+</body>
+<script>
+  var start = 0,
+    limit = 190,
+    total = headwords.length;
+
+  function toggleMenu() {
+    let menuItems = document.getElementById('menu-items'),
+      index = document.getElementById('index');
+  
+    newValue = (menuItems.style["display"] == 'none') ? 'block' : 'none';
+    menuItems.style["display"] = newValue;
+  
+    if (index.classList.contains('fa-chevron-up') == true) {   
+      index.classList.remove('fa-chevron-up');
+      index.classList.add('fa-chevron-down');
+    } else {
+      index.classList.remove('fa-chevron-down');
+      index.classList.add('fa-chevron-up');
+    }
+  }
+  
+  function reset() {
+    hitCount = document.getElementById('hit-count');
+    hitCount.innerHTML = "&nbsp;";
+  }
+
+  function showHeadwordsByGyo(button) {
+    let gyo = button.innerHTML,
+      table = document.getElementById('results').getElementsByTagName('tbody')[0],
+      hitCount = document.getElementById('hit-count'),
+      count = 0;
+
+    reset();
+    table.innerHTML = '';
+
+    for (_button of document.getElementsByClassName('gyo')) {
+      _button.classList.remove('active');
+    }
+    button.classList.add('active');
+
+    for (headword of headwords) {
+      if (headword['gyo'].indexOf(gyo) > -1) {
+        let row = table.insertRow(-1),
+          cell = row.insertCell(0),
+          html = `<table><tr><td><i class="fa-solid fa-caret-right left" style="color:#00ade3;"></i></td><td><span class="headword-reading">${headword['reading']}</span><span class="headword">【${headword['headword']}】</span><span class="headword-romaji">${headword['romaji']}</span></td></tr></table>`,
+          frag = document.createRange().createContextualFragment(html);
+
+        cell.setAttribute('onclick', `location.href="headwords/${headword['headword']}.html"`);  
+        cell.appendChild(frag);
+        count += 1;
+      }
+    }
+    hitCount.innerHTML = `${count}件見つかりました`;              
+  }
+
+  window.onload = function() {
+    showHeadwordsByGyo(document.getElementsByClassName('gyo')[0]);
+  }
+
+</script>
+ 
+</html>

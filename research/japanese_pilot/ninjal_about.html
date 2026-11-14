@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>基本動詞ハンドブック｜このサイトについて</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="icon" href="/favicon.ico" />
+<link rel="stylesheet" href="css/handbook.css" type="text/css" media="screen">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet">
+
+<script>
+function toggleMenu() {
+  let menuItems = document.getElementById('menu-items'),
+    index = document.getElementById('index');
+
+  newValue = (menuItems.style["display"] == 'none') ? 'block' : 'none';
+  menuItems.style["display"] = newValue;
+
+  if (index.classList.contains('fa-chevron-up') == true) {   
+    index.classList.remove('fa-chevron-up');
+    index.classList.add('fa-chevron-down');
+  } else {
+    index.classList.remove('fa-chevron-down');
+    index.classList.add('fa-chevron-up');
+  }
+}
+</script>
+
+</head>
+
+<body id="about">
+<div id="wrapper">
+  <header id="header">
+    <div id="top" class="title">
+      <a href="."><img id="logo" src="images/title.svg"/></a>
+    </div>
+  </header>
+
+  <nav class="main-menu about">
+    <a class="menu" id="menu" onClick="toggleMenu()"><span><i id="index" class="fa-solid fa-chevron-up left"></i>目次</span></a>
+    <div id="menu-items">
+      <ul>
+        <a href="."><li style="background-color:aliceblue"><i class="fa-solid fa-search left"></i>見出し検索</li></a>
+        <a href="#bunkei"><li><i class="fa-solid fa-image left"></i>制作背景</li></a>
+        <a href="#staff"><li><i class="fa-solid fa-user left"></i>制作メンバー</li></a>
+        <a href="#products"><li><i class="fa-solid fa-file-lines left"></i>研究成果</li></a>
+        <a href="#acknowledgement"><li><i class="fa-solid fa-handshake left"></i>謝辞</li></a>
+        <a href="#contact"><li><i class="fa-solid fa-envelope left"></i>お問い合わせ</li></a>
+      </ul>   
+    </div>
+  </nav>
+  
+  <div>
+    <div class="content">
+
+      <div class="section">
+        <p><b>基本動詞ハンドブック</b>は、日本語教師や中上級の日本語学習者向けに、多義的な基本動詞の語義と用法を詳しく解説したハンドブックです。「上がる」「上げる」「あげる」「もらう」など、190の基本動詞を取り上げています。学習の手助けとなるように、1万を超えるすべての用例に音声が付いているほか、日本の習慣や文化などの理解に役立つスキット形式のミニアニメも多数収録しています。</p>
+      </div>
+
+      <div class="big-button-wrapper">
+        <span class="big-button" OnClick="location.href='.'">
+          <i class="fa-solid fa-search left" aria-hidden="true"></i>ハンドブックで調べる
+        </span>
+      </div>
+
+      <h1><a id="bunkei"></a><i class="fa-solid fa-image left"></i>制作背景<a href="#top" title="ページのトップ"><i class="fa-solid fa-circle-chevron-up right"></i></a></h1>
+      <div class="section">
+        <p>コミュニケーションの基本単位となる文の骨格を決める重要な要素の一つが述語としての動詞です。日常生活でよく使用される基本動詞のほとんどが、複数の意味をもつ多義動詞で構成されていますが、このような現象は日本語だけでなく、世界中の言語に広く見られます。</p>
+
+        <p>多義動詞には、まず中心となる意味（中心義あるいは基本義）があり、そこから様々な意味が派生されます。例えば、動詞「上がる」には、「上の方への物理的な移動」という中心義があります。「屋根に上がる」、「ステージに上がる」というときの「上がる」は、「より高いところに移動する」という中心義です。この中心義から、水中からの移動（「風呂からあがる」）、家の内部への移動（「人の家に勝手に上がる」）、訪問（「お届けにあがりました」）などの意味が派生しますが、まだこれらの意味では、物理的移動を表すという点は中心義と共通しています。しかし、次の段階になると、もはや物理的な移動は表さなくなります。例えば、数量の増加（「消費税が上がる」）や、レベルの上昇（「評価が上がる」）では、物理的な移動は見られず、「基準よりも増える（＝上になる）」という点で中心義とつながっています。さらに、緊張するという意味の「人前であがる」という表現の背後には、「心が上方に移動することは、心が不安定な好ましくない状態になる」という捉え方が存在します。</p>
+          
+        <p><b>基本動詞ハンドブック</b>は、日本語学習者・日本語教師が基本動詞の理解を深めることができるように、このような基本動詞の多義的な意味の広がりを図解なども用いて分かりやすく解説したオンラインツールです。また、例文、コロケーションなどの執筆には、国語研の「現代日本語書き言葉均衡コーパス(BCCWJ)」（約1億語）や筑波大学の「筑波ウェブコーパス」（約11億語）などの、大規模日本語コーパスを積極的に活用し、他のレファレンスには見られない生きた情報を提供しています。</p>
+    </div>
+
+      <h1><a id="staff"></a><i class="fa-solid fa-user left"></i>制作メンバー<a href="#top" title="ページのトップ"><i class="fa-solid fa-circle-chevron-up right"></i></a></h1>
+      <div class="section">
+      
+        <div class="subsection">統括</div>
+        <ul>
+          <li>プラシャント・パルデシ（国立国語研究所）</li>
+        </ul>
+
+        <div class="subsection">監修</div>
+        <ul>
+          <li>今井 新悟（元筑波大学）</li>
+          <li>今村 泰也（麗澤大学）</li>
+          <li>砂川 有里子（筑波大学名誉教授）</li>
+          <li>プラシャント・パルデシ（国立国語研究所）</li>
+          <li>籾山 洋介（南山大学）</li>
+        </ul>
+
+        <div class="subsection">執筆</div>
+        <ul>
+          <li>秋田 喜美（名古屋大学）</li>
+          <li>有薗 智美（名古屋学院大学）</li>
+          <li>李 澤熊（名古屋大学）</li>
+          <li>今井 新悟</li>
+          <li>今村 泰也</li>
+          <li>今里 典子（神戸市立工業高等専門学校）</li>
+          <li>大内 薫子</li>
+          <li>梶川 克哉（愛知文教大学）</li>
+          <li>加藤 恵梨（大手前大学）</li>
+          <li>木下 りか（武庫川女子大学）</li>
+          <li>黒田 史彦（東京都立大学）</li>
+          <li>末繁 美和（岡山大学）</li>
+          <li>鈴木 幸平（関西看護医療大学）</li>
+          <li>砂川 有里子</li>
+          <li>高原 真理（元岡山大学）</li>
+          <li>永井 涼子（山口大学）</li>
+          <li>中溝 朋子（元山口大学）</li>
+          <li>生天目 知美（東京海洋大学）</li>
+          <li>野田 大志（愛知学院大学）</li>
+          <li>夫 明美（大阪女学院大学）</li>
+          <li>眞野 美穂（鳴門教育大学）</li>
+          <li>籾山 洋介</li>
+          <li>家根橋 伸子（東亜大学）</li>
+          <li>吉川 達（佐賀大学）</li>
+          <li>吉成 祐子（岐阜大学）</li>
+        </ul>
+
+        <div class="subsection">アドバイザ</div>
+        <ul>
+          <li>大堀 壽夫（東京大学）</li>
+          <li>西光 義弘（神戸大学名誉教授）</li>
+        </ul>
+
+        <div class="subsection">視聴覚コンテンツ統括</div>
+        <ul>
+          <li>今村 泰也</li>
+        </ul>
+
+        <div class="subsection">コアイメージ作成</div>
+        <ul>
+          <li>原 美弥子（元国立国語研究所）</li>
+        </ul>
+
+        <div class="subsection">ショートアニメ・スクリプト作成</div>
+        <ul>
+          <li>飯嶋 裕子</li>
+          <li>浮海 愛</li>
+          <li>高原 真理</li>
+          <li>千田 聡美（デカン大学）</li>
+          <li>寺田 友子</li>
+          <li>中川 由美</li>
+          <li>中溝 朋子</li>
+          <li>服部 由希子</li>
+          <li>原 美弥子</li>
+          <li>夫 明美</li>
+          <li>和田 晃子（東京福祉大学）</li>
+        </ul>
+
+        <div class="subsection">ショートアニメ・スクリプト作成</div>
+        <ul>
+          <li>池田 みき</li>
+          <li>市川 ゆか</li>
+          <li>勝亦 聖治</li>
+          <li>佐藤 みどり</li>
+          <li>永田 春菜</li>
+          <li>中村 あかり</li>
+          <li>根本 カオル</li>
+          <li>服部 泰</li>
+          <li>福王寺 栞</li>
+          <li>藤田 舞</li>
+          <li>関 文華</li>
+          <li>森田 春菜</li>
+          <li>山本 夏子</li>
+          <li>横山 由紀子</li>
+          <li>吉澤 茜</li>
+          <li>吉田一裕</li>
+        </ul>          
+
+        <div class="subsection">ショートアニメ・スクリプト作成</div>
+        <ul>
+          <li>飯嶋 裕子</li>
+          <li>伊藤 優生</li>
+          <li>今村 泰也</li>
+          <li>大西 美月</li>
+          <li>片野坂 麻鈴</li>
+          <li>小瀬村 帆南</li>
+          <li>小林 愛海</li>
+          <li>笹木 歩香</li>
+          <li>篠原 歩</li>
+          <li>専門学校 東京アナウンス学院の皆さん</li>
+          <li>拓殖大学第一高等学校演劇部OBの皆さん</li>
+          <li>立川市朗読サークル「こえ」の皆さん</li>
+          <li>田中 大空</li>
+          <li>田中 友浩</li>
+          <li>鶴田 千裕</li>
+          <li>早川 晃平</li>
+          <li>松山 明香里</li>
+          <li>森山 豪</li>
+          <li>山品 さわ</li>
+          <li>吉川 みず希</li>
+          <li>渡邉 亮太</li>
+        </ul>
+
+        <div class="subsection">編集</div>
+        <ul>
+          <li>李 相穆（九州大学）</li>
+          <li>笠井 洋子（元国立国語研究所）</li>
+          <li>野村 奈津子</li>
+          <li>原 美弥子</li>
+        </ul>
+
+        <div class="subsection">サイト構築</div>
+        <ul>
+          <li>赤瀬川 史朗（Lago NLP）</li>
+        </ul>
+      </div>
+
+      <h1><a id="products"></a><i class="fa-solid fa-file-lines left"></i>研究成果<a href="#top" title="ページのトップ"><i class="fa-solid fa-circle-chevron-up right"></i></a></h1>
+      <div class="section">
+        <ul>
+          <li>プラシャント・パルデシ、籾山洋介、砂川有里子、今井新悟、今村泰也編『多義動詞分析の新展開と日本語教育への応用』開拓社, 2019<i class="link fa-solid fa-arrow-up-right-from-square right" onClick="location.href='http://www.kaitakusha.co.jp/book/book.php?c=2277'"></i></li>
+          <li>国立国語研究所共同研究報告12-07『日本語学習者用基本動詞用法ハンドブックの作成』共同研究プロジェクト報告書（2013年3月）<i class="link fa-solid fa-arrow-up-right-from-square right" onClick="location.href='https://www2.ninjal.ac.jp/past-projects/handbook/common/pdf/youhoujiten_report.pdf'"></i></li>
+          <li>Prashant Pardeshi, Shingo Imai, Kazuyuki Kiryu, Sangmok Lee, Shiro Akasegawa and Yasunari Imamura (2012). Compilation of Japanese Basic Verb Usage Handbook for JFL Learners: A Project Report. In Acta Linguistica Asiatica Volume 2, No. 2, pp. 37-64<i class="link fa-solid fa-arrow-up-right-from-square right" onClick="location.href='https://www2.ninjal.ac.jp/past-projects/handbook/common/pdf/compilation_of_japanese_basic_verb_usage_handbook1.pdf'"></i></li>
+        </ul>
+      </div>
+
+      <h1><a id="acknowledgement"></a><i class="fa-solid fa-handshake left"></i>謝辞<a href="#top" title="ページのトップ"><i class="fa-solid fa-circle-chevron-up right"></i></a></h1>
+      <div class="section">
+        <p>このハンドブックの制作には大勢の方々にご協力いただきました。皆様のご協力とご尽力に感謝いたします。予算面では、下記のプロジェクトの支援を受けました。</p>
+        <ul>
+          <li><b>ハンドブックのプロトタイプ版の作成</b>：国語研 独創・発展型共同研究プロジェクト「日本語学習者用基本動詞用法ハンドブックの作成」</li>
+          <li><b>第２期公開版の作成</b>：国語研 基幹型共同研究プロジェクト「述語構造の意味範疇の普遍性と多様性」</li>
+          <li><b>第３期公開版の作成</b>：国語研 機関拠点型基幹研究プロジェクト「日本語学習者のコミュニケーションの多角的解明」サブプロジェクト「日本語学習のためのリソース開発」日本語基本動詞ハンドブック班</li>
+          <li><b>静的コンテンツの作成</b>：科学研究費補助金基盤研究（B）「学習者のニーズを反映した大規模な動詞用法データベースとオンライン教材の開発と公開」（23K21944）</li>
+        </ul>
+        <br/>
+        <p>ハンドブックのデータは国語研リポジトリ（<a href="https://doi.org/10.15084/0002000145" style="color:#3BA4A3">https://doi.org/10.15084/0002000145</a>）からダウンロードできます。
+      </div>
+
+      <h1><a id="contact"></a><i class="fa-solid fa-envelope left"></i>お問い合わせ<a href="#top" title="ページのトップ"><i class="fa-solid fa-circle-chevron-up right"></i></a></h1>
+      <div class="section">
+        <p>以下のメールアドレスまでお問い合わせください。</p>
+        <p style="font-size:90%"><b>prashant</b><i class="fa-solid fa-at"></i><b>ninjal.ac.jp</b></p>
+      </div>
+    </div>
+
+    <div id='footer'>
+      <div class="title">基本動詞ハンドブックインターフェース</div>
+      <div class="credit">Copyright © プラシャント・パルデシ. All rights reserved.</div>
+    </div>
+  
+  </div>
+</div>
+
+</body>
+</html>

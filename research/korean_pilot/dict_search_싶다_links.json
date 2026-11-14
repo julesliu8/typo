@@ -1,0 +1,214 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 12",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 1",
+    "#"
+  ],
+  [
+    "Definition 13",
+    "#"
+  ],
+  [
+    "Usage Example 367",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "싶다",
+    "javascript:checkSubmit('62657','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDYwNy85NDgzMi9TTkQwMDAwODM1MzUubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('62657','Y');"
+  ],
+  [
+    "듯싶다",
+    "javascript:checkSubmit('49985','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8xOTAwMC8zMTAwMTYvU05EMDAwMzE5MzcwLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('49985','Y');"
+  ],
+  [
+    "성싶다",
+    "javascript:checkSubmit('64397','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDYwNC85MzM3MC9TTkQwMDAwODIwNzMubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('64397','Y');"
+  ],
+  [
+    "-ㄴ 듯싶다",
+    "javascript:checkSubmit('75271','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75271','Y');"
+  ],
+  [
+    "-ㄹ까 싶다",
+    "javascript:checkSubmit('75279','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75279','Y');"
+  ],
+  [
+    "-ㄹ 듯싶다",
+    "javascript:checkSubmit('75277','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75277','Y');"
+  ],
+  [
+    "-고 싶다",
+    "javascript:checkSubmit('75269','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75269','Y');"
+  ],
+  [
+    "-나 싶다",
+    "javascript:checkSubmit('75274','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75274','Y');"
+  ],
+  [
+    "-는 듯싶다",
+    "javascript:checkSubmit('75275','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('75275','Y');"
+  ],
+  [
+    "-은 듯싶다",
+    "javascript:checkSubmit('76466','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('76466','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,132 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2026-11-11T08:59:10Z",
+      "timestamp": 1794387550101,
+      "version": "4.9.0"
+    },
+    "publisher-location": "Berlin, New York",
+    "reference-count": 0,
+    "publisher": "DE GRUYTER MOUTON",
+    "isbn-type": [
+      {
+        "value": "9783110896053",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1515/9783110896053.93",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2011-05-18T10:39:54Z",
+      "timestamp": 1305715194000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Chapter 3 Experiencer predicates"
+    ],
+    "prefix": "10.1515",
+    "member": "374",
+    "container-title": [
+      "Split Intransitivity in Italian"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://www.degruyter.com/view/books/9783110896053/9783110896053.93/9783110896053.93.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9783110896053.93/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2021-04-21T02:10:31Z",
+      "timestamp": 1618971031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyter.com/document/doi/10.1515/9783110896053.93/html"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          31
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783110896053"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1515/9783110896053.93",
+    "relation": {
+      "is-part-of": [
+        {
+          "id-type": "doi",
+          "id": "https://doi.org/10.1515/9783110896053",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          31
+        ]
+      ]
+    }
+  }
+}
