@@ -1,0 +1,6 @@
+{
+  "id": "peacecorps2015",
+  "url": "https://www.livelingua.com/peace-corps/Amharic/Amharic%20Peace%20Corps%20Language%20Manual-2015.pdf",
+  "accessed_at": "2026-11-15T07:50:08.928173+00:00",
+  "error": "HTTPSConnectionPool(host='www.livelingua.com', port=443): Max retries exceeded with url: /peace-corps/Amharic/Amharic%20Peace%20Corps%20Language%20Manual-2015.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+}
