@@ -2,6 +2,10 @@
 
 核读与记录：2026-11-13；罗马转写补充：2026-11-13。配套：[40 条例句及构式](../../02_语言材料/韩语/韩语心理谓词_实体事件构式_例句与标注.md)。
 
+2026-11-14补核：最新逐词覆盖见[三语言NSM核查](三语言心理谓词_NSM释义核查_20261114.md)。Yoon相关段落及WANT证据已复核；喜欢、爱、高兴等复杂词的独立释义缺口未消除。当前韩语例句入口已累计72条记录，其中54条符合现行形式范围；下文“本轮”及40条指首次采集时的状态。
+
+2026-11-15补记：用户现已提供Yoon原扫描，方法相关pp.42–44、251、282、308已核图；原WANT/GOOD证据主要仍据机构库抽取文本。新增[英语释义与待测草案](三语言心理词_英语explications与待测草案_20261115.md)和[母语者试测](../../02_语言材料/韩语/母语者测试/研究者说明与测试表.md)，待测草案不等于已有正式韩语NSM定义。
+
 **本轮取得的是韩语 WANT／FEEL 的 NSM 基元分析，以及 좋다（cohta） 的 GOOD／LIKE 多义讨论；尚未取得喜欢、爱、高兴各词项的现成 NSM 完整释义。** 下面严格分开作者分析、词典释义与本研究的编码建议。没有把英语 HAPPY／LOVE 的定义翻译成韩语定义，也没有把词典释义改称 NSM explication。
 
 转写说明：文中谚文均附 Yale 式拼写转写，不标长音，不应用连读及收音音变；作者原有的罗马字保留，因此可能与本稿转写的切分方式不同。
@@ -10,7 +14,7 @@
 
 |文献|正文状态|对本研究的直接作用|
 |---|---|---|
-|Yoon, Kyung-Joo. 2003. *Constructing a Korean natural semantic metalanguage*. PhD, Australian National University. [DOI](https://doi.org/10.25911/5d5158f90d84d)|已取得机构库提供的全文抽取文本；核读下列相关章节。原扫描 PDF 约 322 MB，多次请求超时，尚未完成图像核页|§3.5.1 GOOD／LIKE（pp.111–114）；§3.7.1.3 WANT（pp.125–129）；§3.7.1.4 FEEL（pp.129–133）；§3.7.2.3–4 配价（pp.138–139）；§4.4.4（pp.246–247）；第5章引言（pp.250–251）|
+|Yoon, Kyung-Joo. 2003. *Constructing a Korean natural semantic metalanguage*. PhD, Australian National University. [DOI](https://doi.org/10.25911/5d5158f90d84d)|全文抽取文本已核读相关章节；原扫描现由用户提供，pp.42–44、251、282、308已核图，其他相关段落不冒充全部图像核页|§3.5.1 GOOD／LIKE（pp.111–114）；§3.7.1.3 WANT（pp.125–129）；§3.7.1.4 FEEL（pp.129–133）；§3.7.2.3–4 配价（pp.138–139）；§4.4.4（pp.246–247）；第5章引言（pp.250–251）|
 |Yoon, Kyung-Joo. 2008. “The Natural Semantic Metalanguage of Korean.” In Cliff Goddard (ed.), *Cross-Linguistic Semantics*, 121–162. John Benjamins. [DOI](https://doi.org/10.1075/slcs.102.10yoo)|出版社书目与内容说明已定位；本轮未核读该章全文|不能把 2003 年的具体例号／页码写成 2008 年；也不能默认修订后分析完全相同|
 |Schütze, Carson T. 2001. “On Korean Case Stacking: The varied functions of the particles ka and lul.” *The Linguistic Review*. [DOI](https://doi.org/10.1515/tlir.2001.001)|已定位书目；出版社访问挑战页、作者站访问挑战页、旧夏威夷存档路径 404，未取得正文|Mouton 格标记分析候选；**目前不计为已核读或已提供目标例句的来源**|
 

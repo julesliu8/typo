@@ -1,6 +1,6 @@
 # 按 NSM 研究与 De Gruyter Mouton 来源重新筛选
 
-更新：2026-11-13。本文件取代《[心理谓词_按NSM与MGL交集重新筛选.md](../90_历史方案/03_MGL来源筛选/心理谓词_按NSM与MGL交集重新筛选.md)》中的现行选样建议。
+更新：2026-11-15（阿姆哈拉语第一轮状态）；其余保留原筛选记录。本文件取代《[心理谓词_按NSM与MGL交集重新筛选.md](../90_历史方案/03_MGL来源筛选/心理谓词_按NSM与MGL交集重新筛选.md)》中的现行选样建议。现行逐语言进度以[当前方案](当前方案.md)为准。
 
 ## 1. 修正来源条件
 
@@ -20,7 +20,7 @@
 |---|---|---|---|
 |**日语**；Japonic，东亚|Hasada 2000；Sakaba 2023／2026，既有核读笔记|Hasada 2001 “Meanings of Japanese sound-symbolic emotion words”，收入 *Emotions in Crosslinguistic Perspective*，217–254；另有 Fukuda 2023 对 suki／kirai 对象 NOM／ACC 的直接分析|保留。已有八节点材料；新增 Mouton 论文尤其贴近 flagging，但此次仅核到书目／摘要，尚未读正文。|
 |**芬兰语**；Uralic，欧洲|Vanhatalo、Tissari、Idström 等2014／2019；已有全文与笔记|Siiroinen 2003 “Subjectivity and the use of Finnish emotive verbs”，收入 *Cognitive Linguistics and Non-Indo-European Languages*，405–418|保留。现有材料涉及 PART、ELA、ILL 等构式及事件补足；Mouton 专章书目已核，正文尚未取得，不将当前其他来源例句冒充该章例句。|
-|**阿姆哈拉语 Amharic**；Afro-Asiatic／Semitic，非洲|Amberber 2001 “Testing emotional universals in Amharic”；另有 Amberber 2008 “Semantic primes in Amharic”|2001章本身即为 Mouton 出版，见下列完整书目|优先新增。可重点核查格标记及体验者实现；当前仅核实两项出版书目，尚不填具体目标词、格框架或八节点覆盖。2001章对 NSM／情绪共性的具体立场也待正文核查，不能预先称为一套完整目标词释义。|
+|**阿姆哈拉语 Amharic**；Afro-Asiatic／Semitic，非洲|Amberber 2001 “Testing emotional universals in Amharic”，已读章35–37页；2008专章仍为书目级|2001章本身即为Mouton，已实际用于NSM方法、语法概述与FEEL＋happiness例4a|[第一轮27条证据](../02_语言材料/阿姆哈拉语/阿姆哈拉语心理谓词_实体事件构式_例句与标注.md)，其中19条为当前NP形式；外部Y已见无标记、ACC及bə-/bä-。章38–68页未取得，HAPPY实体及完整八节点仍缺；外部Y目标构式主要来自其他出版者，不冒称全部Mouton例。|
 |**韩语 Korean**；Koreanic，东亚|Yoon 2008 “The Natural Semantic Metalanguage of Korean”；另有2003博士论文 *Constructing a Korean natural semantic metalanguage*|Schütze 2001 “On Korean Case Stacking: The varied functions of the particles ka and lul”，*The Linguistic Review*|优先新增。格标记、格叠加与话题标记的区分对本题有用；NSM 目标词及 Mouton 文章中适用的心理谓词段落仍需核读。不能把所有 ka／lul 一概当作纯论元格。|
 |**Kayardild**；Tangkic，澳大利亚|Evans 1994 “Kayardild”，收入 *Semantic and Lexical Universals*|Evans 1995 *A Grammar of Kayardild: With Historical-Comparative Notes on Tangkic*，MGL 15，Mouton de Gruyter|第五种的优先候选。显性格系统值得比较；NSM 专章正文尚未取得，心理谓词范围与八节点覆盖均待核。格系统丰富不等于目标谓词必然存在多个框架。|
 
@@ -38,8 +38,9 @@
 
 ### 阿姆哈拉语
 
-- Amberber, Mengistu. 2001. “Testing emotional universals in Amharic.” In Jean Harkins & Anna Wierzbicka (eds.), *Emotions in Crosslinguistic Perspective*, 35–68. Mouton de Gruyter. [DOI](https://doi.org/10.1515/9783110880168.35)。书目已核，正文待取得。
+- Amberber, Mengistu. 2001. “Testing emotional universals in Amharic.” In Jean Harkins & Anna Wierzbicka (eds.), *Emotions in Crosslinguistic Perspective*, 35–68. Mouton de Gruyter. [DOI](https://doi.org/10.1515/9783110880168.35)。2026-11-15已取得预览并核读章35–37页，确认NSM立场、语法概述及例4a；38–68页仍未取得。详见[本轮核读](../03_文献笔记/NSM/阿姆哈拉语心理谓词_NSM与Mouton正文核读.md)，不能把感受内容happiness当作外部刺激实体。
 - Amberber, Mengistu. 2008. “Semantic primes in Amharic.” In Cliff Goddard (ed.), *Cross-Linguistic Semantics*, 83–119. John Benjamins. [出版社页](https://benjamins.com/catalog/slcs.102.09amb)，[DOI](https://doi.org/10.1075/slcs.102.09amb)。仅核出版社书目，不能据标题填入具体词项释义。
+- Menete, Sérgio N., Guiying Jiang & Betelhem Tirusew Bayu. 2026. “The heart and positive emotions: a view from Amharic.” *Journal of African Languages and Linguistics*47(1):135–169. [DOI](https://doi.org/10.1515/jall-2024-0026)。Mouton期刊，元数据及OA许可已核；出版端202空响应，正文未读，不计作实际用例来源。
 
 ### 韩语
 

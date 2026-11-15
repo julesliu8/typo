@@ -6,3 +6,6 @@ __pycache__/
 
 # Local recovery snapshots from project organization
 .project_backups/
+
+# Temporary document previews and extracted page copies
+/tmp/
