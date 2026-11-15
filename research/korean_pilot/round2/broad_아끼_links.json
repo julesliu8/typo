@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 2",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 2",
+    "#"
+  ],
+  [
+    "Definition 32",
+    "#"
+  ],
+  [
+    "Usage Example 324",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "어머니는 돈 아끼 신다고 옷 한 벌 안 사세요.( Word : 가계 2 )",
+    "javascript:checkSubmit('27894','Y');"
+  ],
+  [
+    "네! 저희 집은 '서로 사랑하고 아끼 며 살자'입니다.( Word : 가훈 )",
+    "javascript:checkSubmit('14267','Y');"
+  ],
+  [
+    "각별히 아끼 다.( Word : 각별히 )",
+    "javascript:checkSubmit('14309','Y');"
+  ],
+  [
+    "아버지는 할아버지가 물려주신 도자기를 각별히 아끼 셨다.( Word : 각별히 )",
+    "javascript:checkSubmit('14309','Y');"
+  ],
+  [
+    "할아버지께서는 먹이 잘 갈리는 벼루를 보물처럼 아끼 셨다.( Word : 갈리다 4 )",
+    "javascript:checkSubmit('14711','Y');"
+  ],
+  [
+    "우리나라 국민들은 나라를 아끼 고 사랑하는 마음이 강고하다.( Word : 강고하다 )",
+    "javascript:checkSubmit('17499','Y');"
+  ],
+  [
+    "우리 회사는 직원들의 기술 개발을 위한 지원을 아끼 지 않는다.( Word : 개발 )",
+    "javascript:checkSubmit('23460','Y');"
+  ],
+  [
+    "부모님께서는 나의 음악적 재능이 잘 개발될 수 있도록 지원을 아끼 지 않으셨다.( Word : 개발되다 )",
+    "javascript:checkSubmit('15747','Y');"
+  ],
+  [
+    "어른들이 거 노래를 참 잘한다며 칭찬을 아끼 지 않았다.( Word : 거 2 )",
+    "javascript:checkSubmit('66342','Y');"
+  ],
+  [
+    "예전에 어머니는 차비를 아끼 려고 나를 업고 걸리고 하며 학교를 보내셨다.( Word : 걸리다 2 )",
+    "javascript:checkSubmit('25489','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('33');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

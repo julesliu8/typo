@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 3",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 21",
+    "#"
+  ],
+  [
+    "Usage Example 184",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "민준이는 생일 선물로 장난감이 가득가득 들어 있는 상자를 받고 기뻐 했다.( Word : 가득가득 )",
+    "javascript:checkSubmit('14838','Y');"
+  ],
+  [
+    "그 남자는 다른 사람들한테 상처를 주는 것을 기뻐 하는 것 같아요.( Word : 가학하다 )",
+    "javascript:checkSubmit('14251','Y');"
+  ],
+  [
+    "사춘기인 딸은 감수성이 예민해 작은 일에도 곧잘 기뻐 하거나 슬퍼한다.( Word : 감수성 )",
+    "javascript:checkSubmit('14758','Y');"
+  ],
+  [
+    "누구의 강요도 없이 나 스스로 원하는 일을 해서 참 기뻐 .( Word : 강요 )",
+    "javascript:checkSubmit('20589','Y');"
+  ],
+  [
+    "손자가 드리는 건데 뭐든지 기뻐 하실 거야.( Word : 갖다 2 )",
+    "javascript:checkSubmit('73401','Y');"
+  ],
+  [
+    "원하던 대학에 합격했다는 소식을 전해 들은 승규는 기뻐 하며 개가를 불렀다.( Word : 개가 2 )",
+    "javascript:checkSubmit('23212','Y');"
+  ],
+  [
+    "네, 당시 백성들은 새 나라가 개국한 것을 매우 기뻐 했다고 합니다.( Word : 개국하다 2 )",
+    "javascript:checkSubmit('23700','Y');"
+  ],
+  [
+    "농약 없이 무공해 농사를 지을 수 있는 기술이 개발되어 농민들이 기뻐 하고 있다.( Word : 개발되다 )",
+    "javascript:checkSubmit('15747','Y');"
+  ],
+  [
+    "우리 시의 엑스포 개최가 확정되었다는 소식에 지역 주민들이 몹시 기뻐 했다.( Word : 개최 )",
+    "javascript:checkSubmit('18684','Y');"
+  ],
+  [
+    "동생이 처음으로 걸었을 때 우리 가족은 박수를 치며 기뻐 했다.( Word : 걷다 2 )",
+    "javascript:checkSubmit('29667','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('19');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

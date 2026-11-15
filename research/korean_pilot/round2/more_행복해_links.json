@@ -1,0 +1,342 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 1",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 1",
+    "#"
+  ],
+  [
+    "Usage Example 56",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "신혼부부는 새집을 예쁘게 가꾸며 행복해 하였다.( Word : 가꾸다 )",
+    "javascript:checkSubmit('28757','Y');"
+  ],
+  [
+    "저희 가족이 행복해 지려면 제가 어떻게 해야 할까요?( Word : 가족원 )",
+    "javascript:checkSubmit('26166','Y');"
+  ],
+  [
+    "그렇지? 듣고 있으면 마음이 편안하고 행복해 져.( Word : 감미롭다 )",
+    "javascript:checkSubmit('18994','Y');"
+  ],
+  [
+    "응, 너무 행복해 서 마치 꿈을 꾸는 것 같아.( Word : 같다 )",
+    "javascript:checkSubmit('62076','Y');"
+  ],
+  [
+    "거울에 비친 남자의 모습이 행복해 보였다.( Word : 거울 )",
+    "javascript:checkSubmit('59325','Y');"
+  ],
+  [
+    "내 월급이 고래 가지고 좀 빠듯해. 그래도 행복해 .( Word : 고래 2 )",
+    "javascript:checkSubmit('91455','Y');"
+  ],
+  [
+    "내가 행복해 야 사회 전체가 행복한 거 아니야?( Word : 공리주의 )",
+    "javascript:checkSubmit('42220','Y');"
+  ],
+  [
+    "영화와 인생의 궤적을 같이 해 온 감독님의 노년은 화려하지는 않지만 정말 행복해 보였다.( Word : 궤적 )",
+    "javascript:checkSubmit('38141','Y');"
+  ],
+  [
+    "아이들의 웃는 얼굴은 보기만 해도 행복해 진다.( Word : -기만 하다 )",
+    "javascript:checkSubmit('83920','Y');"
+  ],
+  [
+    "행복해 지는 길.( Word : 길 1 )",
+    "javascript:checkSubmit('59251','Y');"
+  ],
+  [
+    "김 목사는 내게 인생에 대한 낙관적 믿음만 있다면 행복해 질 수 있다고 했다.( Word : 낙관적 2 )",
+    "javascript:checkSubmit('38950','Y');"
+  ],
+  [
+    "아기를 안은 어머니의 모습이 너무나 행복해 보였다.( Word : 너무나 )",
+    "javascript:checkSubmit('42326','Y');"
+  ],
+  [
+    "맞아. 그렇게 행복해 지고 싶어서 돈을 벌고 열심히 사는 것 아니겠니?( Word : 누리다 1 )",
+    "javascript:checkSubmit('45629','Y');"
+  ],
+  [
+    "응, 조금씩 아끼면 조금씩 살림이 늘어나는 게 보여서 그게 행복해 .( Word : 늘어나다 )",
+    "javascript:checkSubmit('62833','Y');"
+  ],
+  [
+    "네, 특히 남편이 아기의 얼굴을 다정스레 바라보고 있는 걸 보면 정말 행복해 요.( Word : 다정스레 )",
+    "javascript:checkSubmit('40584','Y');"
+  ],
+  [
+    "내 동생은 배고프면 화를 내고 배부르면 행복해 하는 단세포이다.( Word : 단세포 )",
+    "javascript:checkSubmit('24689','Y');"
+  ],
+  [
+    "저 멀리서 담소를 나누며 걸어오는 연인의 모습이 행복해 보인다.( Word : 담소 )",
+    "javascript:checkSubmit('18414','Y');"
+  ],
+  [
+    "주말에 가족끼리 모여 앉아 과일을 먹으며 담소하는 시간이 참 행복해 .( Word : 담소하다 )",
+    "javascript:checkSubmit('44196','Y');"
+  ],
+  [
+    "공원에 앉아 웃으며 담소하는 연인들이 매우 행복해 보인다.( Word : 담소하다 )",
+    "javascript:checkSubmit('44196','Y');"
+  ],
+  [
+    "오랜만에 집에서 도란거리니까 너무 행복해 .( Word : 도란거리다 )",
+    "javascript:checkSubmit('47867','Y');"
+  ],
+  [
+    "아직 신혼인 친구는 얼굴에 윤기가 돌고 행복해 보였다.( Word : 돌다 )",
+    "javascript:checkSubmit('75006','Y');"
+  ],
+  [
+    "그래. 정말 네 표정이 행복해 보인다.( Word : 동심 )",
+    "javascript:checkSubmit('48547','Y');"
+  ],
+  [
+    "행복해 야 되다.( Word : 되다 1 )",
+    "javascript:checkSubmit('89858','Y');"
+  ],
+  [
+    "다음에 만날 때까지 행복해 야 돼.( Word : 되다 1 )",
+    "javascript:checkSubmit('89858','Y');"
+  ],
+  [
+    "사람들은 크리스마스에 때맞추어 내리는 눈을 보고 행복해 했다.( Word : 때맞추다 )",
+    "javascript:checkSubmit('50390','Y');"
+  ],
+  [
+    "부모가 행복하면 자녀들 또한 행복해 진다.( Word : 또한 )",
+    "javascript:checkSubmit('52139','Y');"
+  ],
+  [
+    "이 마당에서 내 아이가 뛰논다고 생각하니 정말 행복해 .( Word : 뛰놀다 )",
+    "javascript:checkSubmit('14437','Y');"
+  ],
+  [
+    "지수는 아들 이야기만 하면 행복해 해.( Word : 모자간 )",
+    "javascript:checkSubmit('55581','Y');"
+  ],
+  [
+    "맞아, 부모가 행복해 야 아이도 행복한 거야.( Word : 미치다 2 )",
+    "javascript:checkSubmit('70860','Y');"
+  ],
+  [
+    "그 후보는 민생이 행복해 지고 보다 나은 지역 공동체를 만들겠다는 공약을 내걸었다.( Word : 민생 )",
+    "javascript:checkSubmit('56423','Y');"
+  ],
+  [
+    "신랑과 신부는 하객들이 보내는 축복의 박수 속에서 행복해 하였다.( Word : 박수 )",
+    "javascript:checkSubmit('57325','Y');"
+  ],
+  [
+    "난 초콜릿을 먹으면 행복해 .( Word : 배시시 )",
+    "javascript:checkSubmit('59149','Y');"
+  ],
+  [
+    "행복해 지기 위해서는 먼저 삶을 의미 있게 하는 보람을 찾아야 한다.( Word : 보람 )",
+    "javascript:checkSubmit('58725','Y');"
+  ],
+  [
+    "불행하다고 생각하지만 말고 어떻게 하면 행복해 질 수 있을까를 생각해 보렴.( Word : 불행하다 )",
+    "javascript:checkSubmit('71050','Y');"
+  ],
+  [
+    "힘내. 더 좋은 남자를 만나서 행복해 질 수 있을 거야.( Word : 비다 )",
+    "javascript:checkSubmit('15680','Y');"
+  ],
+  [
+    "아이스크림을 빨아 먹고 있는 사진 속 그녀는 행복해 보였다.( Word : 빨다 1 )",
+    "javascript:checkSubmit('15646','Y');"
+  ],
+  [
+    "맞아. 그 상냥스러운 미소를 보고 있으면 나도 행복해 져.( Word : 상냥스럽다 )",
+    "javascript:checkSubmit('84076','Y');"
+  ],
+  [
+    "새콤달콤한 사탕을 먹는 아이의 표정이 행복해 보인다.( Word : 새콤달콤하다 )",
+    "javascript:checkSubmit('62655','Y');"
+  ],
+  [
+    "넌 꼭 이 직업을 선택해야 돼. 그래야 네가 행복해 질 수 있다고.( Word : 세뇌시키다 )",
+    "javascript:checkSubmit('85472','Y');"
+  ],
+  [
+    "지수는 그에게 사랑을 속살거리며 행복해 했다.( Word : 속살거리다 )",
+    "javascript:checkSubmit('64324','Y');"
+  ],
+  [
+    "하객들로 싸여 있는 신부의 모습은 참으로 행복해 보였다.( Word : 싸이다 )",
+    "javascript:checkSubmit('66071','Y');"
+  ],
+  [
+    "맞아. 지수를 십 년 동안 봐 왔지만 요새처럼 행복해 보일 때가 없었어.( Word : -아 오다 )",
+    "javascript:checkSubmit('77263','Y');"
+  ],
+  [
+    "아, 행복해 라. 이렇게 마음 편히 쉴 수 있다니.( Word : -여라 )",
+    "javascript:checkSubmit('80706','Y');"
+  ],
+  [
+    "남자 친구가 무척 잘해 줘서 행복해 .( Word : 열애 )",
+    "javascript:checkSubmit('21806','Y');"
+  ],
+  [
+    "위정자들은 국민이 행복해 질 수 있는 정치를 해야 한다.( Word : 위정자 )",
+    "javascript:checkSubmit('69661','Y');"
+  ],
+  [
+    "너무 걱정 마. 나도 낳을 때는 죽을 듯 아팠는데 낳고 나니 정말 행복해 .( Word : -을 듯 )",
+    "javascript:checkSubmit('84818','Y');"
+  ],
+  [
+    "저는 노래를 부를 때가 가장 행복해 서 가수가 되고 싶어요.( Word : 음악가 )",
+    "javascript:checkSubmit('71117','Y');"
+  ],
+  [
+    "그들의 결혼식은 주례하는 사람이 없이 치러졌으나 신랑과 신부는 행복해 보였다.( Word : 주례하다 )",
+    "javascript:checkSubmit('76276','Y');"
+  ],
+  [
+    "나는 성경을 읽으면서 마음이 찬란하게 변하고 행복해 지는 것을 느꼈다.( Word : 찬란하다 )",
+    "javascript:checkSubmit('77635','Y');"
+  ],
+  [
+    "너는 금요일마다 행복해 보이는 것 같다?( Word : 코앞 )",
+    "javascript:checkSubmit('92516','Y');"
+  ],
+  [
+    "나는 돈이 필요한 게 아니야. 너랑 같이 있으면 그것으로 행복해 .( Word : 톡톡하다 )",
+    "javascript:checkSubmit('81331','Y');"
+  ],
+  [
+    "유민이는 한창 연애 중이라 매우 행복해 보였다.( Word : 한창 2 )",
+    "javascript:checkSubmit('89056','Y');"
+  ],
+  [
+    "행복해 보이다.( Word : 행복하다 )",
+    "javascript:checkSubmit('72481','Y');"
+  ],
+  [
+    "결혼식장에서 본 신부의 모습은 누구보다 행복해 보였다.( Word : 행복하다 )",
+    "javascript:checkSubmit('72481','Y');"
+  ],
+  [
+    "나는 세상 사람 모두가 행복해 지는 황금시대를 열망한다.( Word : 황금시대 )",
+    "javascript:checkSubmit('87397','Y');"
+  ],
+  [
+    "세계 모든 사람이 행복해 지려면 어떻게 해야 할까요?( Word : 후진국 )",
+    "javascript:checkSubmit('87609','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

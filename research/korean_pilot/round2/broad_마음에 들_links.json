@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 1",
+    "#"
+  ],
+  [
+    "Definition 188",
+    "#"
+  ],
+  [
+    "Usage Example 216",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "어제 둘러본 집이 마음에 들 어 우선 가계약부터 하기로 했다.( Word : 가계약 )",
+    "javascript:checkSubmit('27927','Y');"
+  ],
+  [
+    "너무 가벼워 보여서 별로 마음에 들 지 않아.( Word : 가볍다 )",
+    "javascript:checkSubmit('26788','Y');"
+  ],
+  [
+    "나는 남편의 가부장적인 태도가 마음에 들 지 않아요.( Word : 가부장적 1 )",
+    "javascript:checkSubmit('15024','Y');"
+  ],
+  [
+    "회사 일보다는 가족을 먼저 챙기는 가정적 모습이 마음에 들 었어.( Word : 가정적 2 )",
+    "javascript:checkSubmit('25880','Y');"
+  ],
+  [
+    "김 작가는 처음에 붙인 가제가 마음에 들 어 그 제목으로 소설을 내기로 했다.( Word : 가제 1 )",
+    "javascript:checkSubmit('26156','Y');"
+  ],
+  [
+    "그렇지? 게다가 가격도 싸니까 정말 마음에 들 어.( Word : 게다가 1 )",
+    "javascript:checkSubmit('62261','Y');"
+  ],
+  [
+    "오랜 시간을 들여 얻은 연구의 결과물이 마음에 들 지 않는다.( Word : 결과물 )",
+    "javascript:checkSubmit('600533','Y');"
+  ],
+  [
+    "나는 저 사람의 웃음이 마음에 들 지 않아.( Word : 경멸하다 )",
+    "javascript:checkSubmit('29810','Y');"
+  ],
+  [
+    "친구가 입은 옷이 마음에 들 었던 유민이는 친구를 곁눈질하며 힐끗힐끗 쳐다보았다.( Word : 곁눈질하다 )",
+    "javascript:checkSubmit('14599','Y');"
+  ],
+  [
+    "남편이 준 선물인데 마음에 들 고말고.( Word : -고말고 )",
+    "javascript:checkSubmit('66991','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('22');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,162 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 18",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "먼저 가로획과 세로획을 긋는 연습을 많이 하는 것이 좋아 .( Word : 가로획 )",
+    "javascript:checkSubmit('15163','Y');"
+  ],
+  [
+    "수수하게 고무신을 신거나 가죽으로 고급스럽게 만든 갖신을 신는 것이 좋아 요.( Word : 갖신 )",
+    "javascript:checkSubmit('22765','Y');"
+  ],
+  [
+    "이런 날에는 새 옷을 입지 않는 것이 좋아 .( Word : 구질구질 )",
+    "javascript:checkSubmit('36710','Y');"
+  ],
+  [
+    "이렇게 냉랭한 날에는 집에 있는 것이 좋아 .( Word : 냉랭하다 )",
+    "javascript:checkSubmit('41200','Y');"
+  ],
+  [
+    "섭씨 십오 도 정도로 지나치게 차갑지 않은 것이 좋아 요.( Word : 냉탕 )",
+    "javascript:checkSubmit('40219','Y');"
+  ],
+  [
+    "어떤 현상을 파악할 때는 편협한 시각에서 벗어나 다각도에서 보는 것이 좋아 .( Word : 다각도 )",
+    "javascript:checkSubmit('24404','Y');"
+  ],
+  [
+    "그럴 때에는 작품이 난해하다는 편견을 버리고 오히려 단순성을 바탕으로 접근하는 것이 좋아 요.( Word : 단순성 )",
+    "javascript:checkSubmit('42211','Y');"
+  ],
+  [
+    "나는 글을 쓰는 것이 좋아 고등학교 때에는 문예반에 들어가 활동하기도 했다.( Word : 문예반 )",
+    "javascript:checkSubmit('56901','Y');"
+  ],
+  [
+    "털이 많고 가지런한 것이 좋아 요.( Word : 붓 )",
+    "javascript:checkSubmit('61043','Y');"
+  ],
+  [
+    "바느질을 할 때 시침질을 먼저 하는 것이 좋아 요. 시침질은 예쁘게 하지 않아도 돼요.( Word : 시침질 )",
+    "javascript:checkSubmit('65728','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

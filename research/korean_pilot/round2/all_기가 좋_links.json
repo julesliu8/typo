@@ -1,0 +1,522 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 1",
+    "#"
+  ],
+  [
+    "Definition 7",
+    "#"
+  ],
+  [
+    "Usage Example 153",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "경제는 가변적이어서 언제 경 기가 좋 아질지를 정확하게 예측하기 어렵다.( Word : 가변적 1 )",
+    "javascript:checkSubmit('14983','Y');"
+  ],
+  [
+    "지수는 이가 고르고 가지런해서 웃을 때 보 기가 좋 았다.( Word : 가지런하다 )",
+    "javascript:checkSubmit('14193','Y');"
+  ],
+  [
+    "맞아. 가지치기도 제때 잘해 주어서 보 기가 좋 아.( Word : 가지치기 )",
+    "javascript:checkSubmit('14196','Y');"
+  ],
+  [
+    "개인 기가 좋 다.( Word : 개인기 )",
+    "javascript:checkSubmit('26685','Y');"
+  ],
+  [
+    "경 기가 좋 지 않아 당분간은 취업난이 계속될 것이다.( Word : 것 )",
+    "javascript:checkSubmit('62835','Y');"
+  ],
+  [
+    "경 기가 좋 아졌고 원화 가치가 올라갔기 때문인 것 같습니다.( Word : 격증하다 )",
+    "javascript:checkSubmit('33063','Y');"
+  ],
+  [
+    "경 기가 좋 다.( Word : 경기 1 )",
+    "javascript:checkSubmit('25710','Y');"
+  ],
+  [
+    "내가 자주 가는 레스토랑은 항상 잔잔한 경음악을 틀어 놓아 분위 기가 좋 다.( Word : 경음악 )",
+    "javascript:checkSubmit('30383','Y');"
+  ],
+  [
+    "새로 출시된 자동차는 성능도 뛰어나고 디자인도 고급스러워서 인 기가 좋 다.( Word : 고급스럽다 )",
+    "javascript:checkSubmit('28075','Y');"
+  ],
+  [
+    "네, 어서 경 기가 좋 아져야 할 텐데 말이에요.( Word : 고난 )",
+    "javascript:checkSubmit('25129','Y');"
+  ],
+  [
+    "승규는 자 기가 좋 아하는 연예인이 선전하는 물건은 품질의 고하를 막론하고 무조건 구입한다.( Word : 고하 )",
+    "javascript:checkSubmit('18395','Y');"
+  ],
+  [
+    "공 기가 좋 다.( Word : 공기 2 )",
+    "javascript:checkSubmit('22637','Y');"
+  ],
+  [
+    "아버지가 언니 결혼을 반대해서 요즘 집안 공 기가 좋 지 않아.( Word : 공기 2 )",
+    "javascript:checkSubmit('22637','Y');"
+  ],
+  [
+    "경 기가 좋 을 때에는 경기가 더 과열하지 않도록 예산을 잘 편성해야 한다.( Word : 과열하다 )",
+    "javascript:checkSubmit('18196','Y');"
+  ],
+  [
+    "박 선생님은 뛰어난 교수 능력으로 학생들에게 인 기가 좋 다.( Word : 교수 )",
+    "javascript:checkSubmit('31684','Y');"
+  ],
+  [
+    "물론이야. 농산물 검사소에서 품질 인증을 받은 쌀이나 과일은 소비자들에게 더 인 기가 좋 지.( Word : 규격품 )",
+    "javascript:checkSubmit('35202','Y');"
+  ],
+  [
+    "응. 그래서 관객들에게 인 기가 좋 은 것 같아.( Word : 규정하다 )",
+    "javascript:checkSubmit('35263','Y');"
+  ],
+  [
+    "요즘은 경 기가 좋 아졌다고 하나 그러나저러나 우리 집은 늘 가난했다.( Word : 그러나저러나 2 )",
+    "javascript:checkSubmit('89804','Y');"
+  ],
+  [
+    "경 기가 좋 지 않아 근래에 들어 회사 매출이 줄어들고 있다.( Word : 근래 )",
+    "javascript:checkSubmit('37172','Y');"
+  ],
+  [
+    "경 기가 좋 지 않아 부동산을 급매하는 사람들이 많아졌어요.( Word : 급매하다 )",
+    "javascript:checkSubmit('89624','Y');"
+  ],
+  [
+    "기본 기가 좋 다.( Word : 기본기 )",
+    "javascript:checkSubmit('23605','Y');"
+  ],
+  [
+    "나는 돼지고기보다 닭고 기가 좋 으니 깐풍기를 시켰으면 해.( Word : 깐풍기 )",
+    "javascript:checkSubmit('38437','Y');"
+  ],
+  [
+    "꽃향 기가 좋 다.( Word : 꽃향기 )",
+    "javascript:checkSubmit('38270','Y');"
+  ],
+  [
+    "그녀는 꽃향 기가 좋 은 꽃을 좋아해서 겨울엔 프리지아를 자주 산다.( Word : 꽃향기 )",
+    "javascript:checkSubmit('38270','Y');"
+  ],
+  [
+    "내 동생은 편식이 심해서 자 기가 좋 아하는 음식이 아니면 끼적거리기만 하고 잘 먹지 않는다.( Word : 끼적거리다 2 )",
+    "javascript:checkSubmit('38461','Y');"
+  ],
+  [
+    "이 카페는 쿠키가 무료로 나와서 손님들에게 인 기가 좋 다.( Word : 나오다 )",
+    "javascript:checkSubmit('62233','Y');"
+  ],
+  [
+    "인터넷에서 광고를 보고 전화드렸는데요, 그 제품의 인 기가 좋 은가요?( Word : 내방 )",
+    "javascript:checkSubmit('90868','Y');"
+  ],
+  [
+    "얼마 전까지 회사와 직원 간 노사 갈등이 심해서 분위 기가 좋 지 않았어.( Word : 노사 )",
+    "javascript:checkSubmit('93371','Y');"
+  ],
+  [
+    "손님, 요즘 이 누비이불이 따뜻해서 인 기가 좋 아요.( Word : 누비이불 )",
+    "javascript:checkSubmit('45641','Y');"
+  ],
+  [
+    "아냐, 요즘은 자 기가 좋 아하는 동화책을 찾아서 읽는걸.( Word : -는걸 )",
+    "javascript:checkSubmit('81050','Y');"
+  ],
+  [
+    "박 선생님은 능변으로 재미있는 강의를 해서 학생들에게 인 기가 좋 다.( Word : 능변 )",
+    "javascript:checkSubmit('90465','Y');"
+  ],
+  [
+    "도시는 독한 매연을 내뿜는 차들이 가득해 공 기가 좋 지 않다.( Word : 독하다 )",
+    "javascript:checkSubmit('14788','Y');"
+  ],
+  [
+    "경 기가 좋 지 않아서 벌여 놓은 사업이 잘 되지 않는다.( Word : 되다 1 )",
+    "javascript:checkSubmit('89858','Y');"
+  ],
+  [
+    "이 도로는 주변 경관이 아름다워서 드라이브 코스로 인 기가 좋 다.( Word : 드라이브 )",
+    "javascript:checkSubmit('50946','Y');"
+  ],
+  [
+    "그 산은 탁 트인 풍경이 좋아 등산객에게 인 기가 좋 다.( Word : 등산객 )",
+    "javascript:checkSubmit('48777','Y');"
+  ],
+  [
+    "우리 가족은 아버지 건강 때문에 공 기가 좋 은 시골로 이사를 갔다.( Word : 때문 )",
+    "javascript:checkSubmit('64555','Y');"
+  ],
+  [
+    "이 반은 분위기가 붕 뜬 게 영 수업 분위 기가 좋 지 않아.( Word : 뜨다 1 )",
+    "javascript:checkSubmit('66028','Y');"
+  ],
+  [
+    "옆집 마누라는 입담이 좋아서 사람들에게 인 기가 좋 다.( Word : 마누라 )",
+    "javascript:checkSubmit('15686','Y');"
+  ],
+  [
+    "그 사람, 자 기가 좋 아하는 여러 가지 분야에서 모두 전문가가 되려고 엄청 노력했대.( Word : 만물박사 )",
+    "javascript:checkSubmit('50340','Y');"
+  ],
+  [
+    "제일 인 기가 좋 다는 음식을 주문했는데 맛없이 비싸기만 했다.( Word : 맛없이 )",
+    "javascript:checkSubmit('91108','Y');"
+  ],
+  [
+    "경 기가 좋 지 않아서 그런지 매물이 거의 없네요.( Word : 매물 )",
+    "javascript:checkSubmit('55555','Y');"
+  ],
+  [
+    "경 기가 좋 아지자 토지를 매입하는 업체가 늘고 있다.( Word : 매입하다 )",
+    "javascript:checkSubmit('55716','Y');"
+  ],
+  [
+    "고객들과 직접 면접하고 나니 훨씬 분위 기가 좋 아졌습니다.( Word : 면접하다 )",
+    "javascript:checkSubmit('55072','Y');"
+  ],
+  [
+    "우리 동네는 산 밑에 있어서 공 기가 좋 다.( Word : 밑 )",
+    "javascript:checkSubmit('66592','Y');"
+  ],
+  [
+    "장난감을 흔들어 주자 아 기가 좋 아서 손발을 바동바동했다.( Word : 바동바동하다 )",
+    "javascript:checkSubmit('91542','Y');"
+  ],
+  [
+    "이 아이스크림은 젤리와 초콜릿이 촘촘히 박혀 있어 아이들에게 인 기가 좋 다.( Word : 박히다 )",
+    "javascript:checkSubmit('15833','Y');"
+  ],
+  [
+    "민준이는 인물이 반반한 데다가 노래도 잘해서 여학생들에게 인 기가 좋 다.( Word : 반반하다 )",
+    "javascript:checkSubmit('57263','Y');"
+  ],
+  [
+    "이 자동차는 매우 비싼 값으로 발매되었지만 소비자들에게 매우 인 기가 좋 다.( Word : 발매되다 )",
+    "javascript:checkSubmit('56807','Y');"
+  ],
+  [
+    "제주도에는 바람이 많이 불어 풍력 발전기로 전력을 생산하 기가 좋 다.( Word : 발전기 2 )",
+    "javascript:checkSubmit('57228','Y');"
+  ],
+  [
+    "의자가 오랫동안 부서진 채로 교실 뒤쪽에 방치되어 있어 보 기가 좋 지 않다.( Word : 방치되다 )",
+    "javascript:checkSubmit('57880','Y');"
+  ],
+  [
+    "실내 공 기가 좋 지 않아서 보일러를 확인해 보니 배기통이 막혀 있었다.( Word : 배기통 )",
+    "javascript:checkSubmit('58709','Y');"
+  ],
+  [
+    "이 해변은 깨끗한 백사장과 얕은 수심으로 피서객들에게 인 기가 좋 다.( Word : 백사장 )",
+    "javascript:checkSubmit('58228','Y');"
+  ],
+  [
+    "아이는 자 기가 좋 아하는 부분이라며 노래의 일부를 들려주었다.( Word : 부분 )",
+    "javascript:checkSubmit('65853','Y');"
+  ],
+  [
+    "그러게. 밤에 부슬부슬 비가 오는 소리는 참 듣 기가 좋 은 것 같아.( Word : 부슬부슬 )",
+    "javascript:checkSubmit('59916','Y');"
+  ],
+  [
+    "술에서 나는 향 기가 좋 네요.( Word : 빚어내다 )",
+    "javascript:checkSubmit('60818','Y');"
+  ],
+  [
+    "동생이 뿌옇게 살이 올라서 말랐을 때보다 훨씬 보 기가 좋 다.( Word : 뿌옇다 )",
+    "javascript:checkSubmit('61772','Y');"
+  ],
+  [
+    "언제 어디서 누구와도 금방 친해치고 유쾌한 사람이니 인 기가 좋 을 수 밖에 없지.( Word : 사교성 )",
+    "javascript:checkSubmit('62033','Y');"
+  ],
+  [
+    "비평가로 유명한 그의 사설은 논술 시험을 앞둔 수험생들에게 인 기가 좋 다.( Word : 사설 3 )",
+    "javascript:checkSubmit('15663','Y');"
+  ],
+  [
+    "이 팔찌는 사파이어를 박은 것인데 선물용으로 아주 인 기가 좋 아요.( Word : 사파이어 )",
+    "javascript:checkSubmit('61363','Y');"
+  ],
+  [
+    "불온 도서 색출 파문이 있어 한동안 도서관의 분위 기가 좋 지 않았다.( Word : 색출 )",
+    "javascript:checkSubmit('63667','Y');"
+  ],
+  [
+    "저렴한 가격에 무료 배송까지 해 주는 생필품 매장은 마을 사람들에게 인 기가 좋 았다.( Word : 생필품 )",
+    "javascript:checkSubmit('62725','Y');"
+  ],
+  [
+    "대신 남동쪽으로 넓은 평야가 펼쳐져 있어서 살 기가 좋 아요.( Word : 서북쪽 )",
+    "javascript:checkSubmit('62963','Y');"
+  ],
+  [
+    "그는 이곳에서 선뜩선뜩 느껴지는 분위 기가 좋 지 않아 무슨 일이라도 생길 것만 같다고 했다.( Word : 선뜩선뜩 )",
+    "javascript:checkSubmit('63090','Y');"
+  ],
+  [
+    "난 크고 고급스러운 가게보다는 작아도 편한 분위 기가 좋 더라.( Word : 선술집 )",
+    "javascript:checkSubmit('62953','Y');"
+  ],
+  [
+    "지금은 분위 기가 좋 지 않으니 나중에 다시 이야기하세.( Word : -세 )",
+    "javascript:checkSubmit('78404','Y');"
+  ],
+  [
+    "그는 여자 친구에게 청혼하기 위해 분위 기가 좋 은 레스토랑을 전부 세냈다.( Word : 세내다 )",
+    "javascript:checkSubmit('64106','Y');"
+  ],
+  [
+    "그 회사의 세숫비누는 향 기가 좋 기로 유명하다.( Word : 세숫비누 )",
+    "javascript:checkSubmit('63552','Y');"
+  ],
+  [
+    "경 기가 좋 아져 납세자가 늘어나자 세입이 늘어나 국가의 재정 상태도 좋아졌다.( Word : 세입 )",
+    "javascript:checkSubmit('63570','Y');"
+  ],
+  [
+    "그 세제는 세척력이 뛰어나서 주부들에게 인 기가 좋 다.( Word : 세척력 )",
+    "javascript:checkSubmit('77629','Y');"
+  ],
+  [
+    "이 책의 인 기가 좋 아서 곧 속편이 나올 예정이랍니다.( Word : 속편 2 )",
+    "javascript:checkSubmit('63877','Y');"
+  ],
+  [
+    "요즘 경 기가 좋 아서 시작하기만 하면 금방 돈을 벌 수 있을 거야.( Word : 손대다 )",
+    "javascript:checkSubmit('63962','Y');"
+  ],
+  [
+    "나는 속도감 있고 박진감이 넘치는 쇼트 트랙 경 기가 좋 더라.( Word : 쇼트 트랙 )",
+    "javascript:checkSubmit('64149','Y');"
+  ],
+  [
+    "우리 학급에는 학구열이 넘치는 학생들이 많아서 선생님들께 수업 분위 기가 좋 다는 칭찬을 들었다.( Word : 수업 2 )",
+    "javascript:checkSubmit('64597','Y');"
+  ],
+  [
+    "경 기가 좋 아지면서 상인들의 수입도 점차 늘고 있다.( Word : 수입 1 )",
+    "javascript:checkSubmit('74197','Y');"
+  ],
+  [
+    "우리나라는 봄, 가을에 날씨가 순해서 살 기가 좋 아.( Word : 순하다 )",
+    "javascript:checkSubmit('15809','Y');"
+  ],
+  [
+    "그는 어려서부터 타고난 총기와 숫기로 또래 사이에서 인 기가 좋 았다.( Word : 숫기 )",
+    "javascript:checkSubmit('65423','Y');"
+  ],
+  [
+    "시 기가 좋 다.( Word : 시기 2 )",
+    "javascript:checkSubmit('15960','Y');"
+  ],
+  [
+    "지수는 성실한 성격은 아니었지만 밝고 명랑해서 사람들에게 인 기가 좋 았다.( Word : 아니다 )",
+    "javascript:checkSubmit('26878','Y');"
+  ],
+  [
+    "승규 아범은 항상 아들을 데리고 다니는 모습이 보 기가 좋 아.( Word : 아범 )",
+    "javascript:checkSubmit('66839','Y');"
+  ],
+  [
+    "양 기가 좋 다.( Word : 양기 )",
+    "javascript:checkSubmit('91380','Y');"
+  ],
+  [
+    "다양하고 값싼 생선들이 많이 있는 어시장은 인 기가 좋 다.( Word : 어시장 )",
+    "javascript:checkSubmit('67040','Y');"
+  ],
+  [
+    "임금이 어질고 반듯하니 나라가 평안하고 백성들이 살 기가 좋 다.( Word : 어질다 )",
+    "javascript:checkSubmit('67099','Y');"
+  ],
+  [
+    "업종별로 보면 내년에는 제조업과 건설업 경 기가 좋 을 것으로 예상된다.( Word : 업종별 )",
+    "javascript:checkSubmit('600192','Y');"
+  ],
+  [
+    "아이들은 저마다 자 기가 좋 아하는 꽃에게다가 물을 주었다.( Word : 에게다가 )",
+    "javascript:checkSubmit('86573','Y');"
+  ],
+  [
+    "이곳 정말 공 기가 좋 다.( Word : 에워싸이다 )",
+    "javascript:checkSubmit('70944','Y');"
+  ],
+  [
+    "수학 선생님은 인 기가 좋 아서 항상 아이들에게 에워싸여 있다.( Word : 에워싸이다 )",
+    "javascript:checkSubmit('70944','Y');"
+  ],
+  [
+    "친구가 분위 기가 좋 은 카페를 좀 소개해 달라는데 혹시 아는 데 있니?( Word : -여 달다 )",
+    "javascript:checkSubmit('72217','Y');"
+  ],
+  [
+    "이 상품은 연배가 있으신 분들에게 인 기가 좋 습니다.( Word : 연배 )",
+    "javascript:checkSubmit('67463','Y');"
+  ],
+  [
+    "보라색 물감에 흰색 물감을 섞어 연보라색으로 만들어 칠하니 부드러워 보여 훨씬 보 기가 좋 다.( Word : 연보라색 )",
+    "javascript:checkSubmit('67548','Y');"
+  ],
+  [
+    "이 드라마는 인 기가 좋 아서 시리즈로 이어져 나올 거래.( Word : 연작 2 )",
+    "javascript:checkSubmit('67745','Y');"
+  ],
+  [
+    "자 기가 좋 아하는 연예인의 사생활을 뒤에서 염탐하는 팬들도 있다.( Word : 염탐하다 )",
+    "javascript:checkSubmit('67654','Y');"
+  ],
+  [
+    "한옥으로 지어진 영빈관은 외국 손님들에게 인 기가 좋 았다.( Word : 영빈관 )",
+    "javascript:checkSubmit('68002','Y');"
+  ],
+  [
+    "맞아. 온대 기후에 속하니까 살 기가 좋 지.( Word : 온대 )",
+    "javascript:checkSubmit('68618','Y');"
+  ],
+  [
+    "저 반은 분위 기가 좋 네요. 웃음소리가 끊이질 않아요.( Word : 웃음보 )",
+    "javascript:checkSubmit('71445','Y');"
+  ],
+  [
+    "우리 집은 창문만 닫아도 웃풍이 거의 없어서 겨울을 나 기가 좋 다.( Word : 웃풍 )",
+    "javascript:checkSubmit('71447','Y');"
+  ],
+  [
+    "올해 회사의 연봉이 오르지 않아 근무 의욕 위축으로 회사의 분위 기가 좋 지 않다.( Word : 위축 )",
+    "javascript:checkSubmit('69943','Y');"
+  ],
+  [
+    "지수야, 요즘 경 기가 좋 지 않은데 너희 회사는 어때?( Word : 위축되다 )",
+    "javascript:checkSubmit('69944','Y');"
+  ],
+  [
+    "민준이는 친구들에게 인 기가 좋 은가 봐.( Word : 유달리 )",
+    "javascript:checkSubmit('72436','Y');"
+  ],
+  [
+    "이 신작 소설이 아주 인 기가 좋 다면서?( Word : 윤색 )",
+    "javascript:checkSubmit('70809','Y');"
+  ],
+  [
+    "네가 사는 동네는 살 기가 좋 아? 좋으냐고?( Word : -으냐고 1 )",
+    "javascript:checkSubmit('79258','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

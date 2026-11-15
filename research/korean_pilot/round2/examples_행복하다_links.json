@@ -1,0 +1,166 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 1",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 26",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "나는 비록 가난하게 살고 있지만 공부를 하며 지내는 지금의 생활이 행복하다 .( Word : 가난하다 )",
+    "javascript:checkSubmit('62495','Y');"
+  ],
+  [
+    "가족들이 모두 건강해야 가정이 평화롭고 행복하다 .( Word : 가정 1 )",
+    "javascript:checkSubmit('59900','Y');"
+  ],
+  [
+    "그지없이 행복하다 .( Word : 그지없이 )",
+    "javascript:checkSubmit('32104','Y');"
+  ],
+  [
+    "너무나 행복하다 .( Word : 너무나 )",
+    "javascript:checkSubmit('42326','Y');"
+  ],
+  [
+    "그 가수는 인터뷰에서 자신이 좋아하는 데다가 잘하는 일을 직업으로 갖게 되어 행복하다 고 했다.( Word : -는 데다가 )",
+    "javascript:checkSubmit('72714','Y');"
+  ],
+  [
+    "늘 행복하다 .( Word : 늘 )",
+    "javascript:checkSubmit('40481','Y');"
+  ],
+  [
+    "사람들은 행복하다 고 떠들지만, 대체 행복이란 무엇을 말함인가?( Word : 대체 2 )",
+    "javascript:checkSubmit('14356','Y');"
+  ],
+  [
+    "구름 위를 걷는 듯 행복하다 .( Word : 듯 )",
+    "javascript:checkSubmit('49981','Y');"
+  ],
+  [
+    "마냥 행복하다 .( Word : 마냥 1 )",
+    "javascript:checkSubmit('51528','Y');"
+  ],
+  [
+    "나는 항상 행복하다 고 나 스스로를 세뇌시킨다.( Word : 세뇌시키다 )",
+    "javascript:checkSubmit('85472','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

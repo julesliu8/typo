@@ -1,0 +1,10 @@
+{
+  "url": "https://stdict.korean.go.kr/search/contentViewOne.do",
+  "method": "POST",
+  "data": {
+    "word_no": 483119
+  },
+  "status": 200,
+  "accessed": "2026-11-14",
+  "public_entry_url": "https://stdict.korean.go.kr/search/searchView.do?word_no=483119"
+}

@@ -1,0 +1,526 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 1",
+    "#"
+  ],
+  [
+    "Definition 188",
+    "#"
+  ],
+  [
+    "Usage Example 216",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "어제 둘러본 집이 마음에 들 어 우선 가계약부터 하기로 했다.( Word : 가계약 )",
+    "javascript:checkSubmit('27927','Y');"
+  ],
+  [
+    "너무 가벼워 보여서 별로 마음에 들 지 않아.( Word : 가볍다 )",
+    "javascript:checkSubmit('26788','Y');"
+  ],
+  [
+    "나는 남편의 가부장적인 태도가 마음에 들 지 않아요.( Word : 가부장적 1 )",
+    "javascript:checkSubmit('15024','Y');"
+  ],
+  [
+    "회사 일보다는 가족을 먼저 챙기는 가정적 모습이 마음에 들 었어.( Word : 가정적 2 )",
+    "javascript:checkSubmit('25880','Y');"
+  ],
+  [
+    "김 작가는 처음에 붙인 가제가 마음에 들 어 그 제목으로 소설을 내기로 했다.( Word : 가제 1 )",
+    "javascript:checkSubmit('26156','Y');"
+  ],
+  [
+    "그렇지? 게다가 가격도 싸니까 정말 마음에 들 어.( Word : 게다가 1 )",
+    "javascript:checkSubmit('62261','Y');"
+  ],
+  [
+    "오랜 시간을 들여 얻은 연구의 결과물이 마음에 들 지 않는다.( Word : 결과물 )",
+    "javascript:checkSubmit('600533','Y');"
+  ],
+  [
+    "나는 저 사람의 웃음이 마음에 들 지 않아.( Word : 경멸하다 )",
+    "javascript:checkSubmit('29810','Y');"
+  ],
+  [
+    "친구가 입은 옷이 마음에 들 었던 유민이는 친구를 곁눈질하며 힐끗힐끗 쳐다보았다.( Word : 곁눈질하다 )",
+    "javascript:checkSubmit('14599','Y');"
+  ],
+  [
+    "남편이 준 선물인데 마음에 들 고말고.( Word : -고말고 )",
+    "javascript:checkSubmit('66991','Y');"
+  ],
+  [
+    "나는 이 그림이 무척 마음에 들 어 비싼 값을 주고서 사 왔다.( Word : -고서 )",
+    "javascript:checkSubmit('78584','Y');"
+  ],
+  [
+    "넌 그 사람 어디가 마음에 들 었어?( Word : 곰보 )",
+    "javascript:checkSubmit('27892','Y');"
+  ],
+  [
+    "난 비밀도 털어놓을 수 있는 그의 과묵이 가장 마음에 들 어.( Word : 과묵 )",
+    "javascript:checkSubmit('25599','Y');"
+  ],
+  [
+    "그 작품이 마음에 들 어?( Word : 관념성 )",
+    "javascript:checkSubmit('22444','Y');"
+  ],
+  [
+    "유민아, 선물과 같이 교환권이 들어 있으니까 마음에 들 지 않으면 다른 상품으로 교환해도 돼.( Word : 교환권 )",
+    "javascript:checkSubmit('600682','Y');"
+  ],
+  [
+    "아무리 그래도 나는 저 사람이 마음에 들 지 않는걸.( Word : 구애 1 )",
+    "javascript:checkSubmit('90320','Y');"
+  ],
+  [
+    "다른 구혼자들도 있었지만 마음씨 착한 한 청년만이 내 마음에 들 었단다.( Word : 구혼자 )",
+    "javascript:checkSubmit('36771','Y');"
+  ],
+  [
+    "나는 우리 지역구의 취업률을 높이겠다는 공약이 마음에 들 었어.( Word : 국회 의원 )",
+    "javascript:checkSubmit('35554','Y');"
+  ],
+  [
+    "유민이는 굽슬굽슬한 머리가 마음에 들 지 않아 미용실에 가서 머리를 폈다.( Word : 굽슬굽슬하다 )",
+    "javascript:checkSubmit('36194','Y');"
+  ],
+  [
+    "나는 옆에 앉은 동료에게 상사가 마음에 들 지 않는다고 귓속말했다.( Word : 귓속말하다 )",
+    "javascript:checkSubmit('35075','Y');"
+  ],
+  [
+    "냉장고는 참 마음에 들 어. 그런데 너무 비싸서 못 사겠어.( Word : 그런데 1 )",
+    "javascript:checkSubmit('70717','Y');"
+  ],
+  [
+    "선물 마음에 들 어?( Word : 그런데 1 )",
+    "javascript:checkSubmit('70717','Y');"
+  ],
+  [
+    "어제 선본 사람은 어땠어? 마음에 들 어?( Word : 그만하다 2 )",
+    "javascript:checkSubmit('89855','Y');"
+  ],
+  [
+    "지수가 내가 가진 펜들을 마음에 들 어 하는 것 같아서 그중 하나를 선물로 줬다.( Word : 그중 )",
+    "javascript:checkSubmit('62460','Y');"
+  ],
+  [
+    "나는 그녀가 마음에 드는데 그쪽에서는 나를 마음에 들 어 하지 않는다.( Word : 그쪽 )",
+    "javascript:checkSubmit('17206','Y');"
+  ],
+  [
+    "그는 일이 마음에 들 지 않는데도 회사를 그만두지 못하고 돈 버는 기계로 살고 있다.( Word : 기계 )",
+    "javascript:checkSubmit('62451','Y');"
+  ],
+  [
+    "추상적이고 기하학적이라서 그래. 그래도 난 이 그림이 마음에 들 어.( Word : 기하학적 1 )",
+    "javascript:checkSubmit('601545','Y');"
+  ],
+  [
+    "깐깐한 성격의 김 교수는 하나라도 마음에 들 지 않는 구석이 있으면 논문을 통과시키지 않았다.( Word : 깐깐하다 )",
+    "javascript:checkSubmit('38433','Y');"
+  ],
+  [
+    "네. 생선을 아주 깔끔히 손질하시는 게 마음에 들 어요.( Word : 깔끔히 )",
+    "javascript:checkSubmit('600330','Y');"
+  ],
+  [
+    "나는 그가 돈 좀 벌었다고 깝죽대는 꼴이 영 마음에 들 지 않았다.( Word : 깝죽대다 )",
+    "javascript:checkSubmit('37758','Y');"
+  ],
+  [
+    "도예가는 마음에 들 지 않는다며 새로 만든 도자기를 모두 깨어서 버렸다.( Word : 깨다 3 )",
+    "javascript:checkSubmit('63406','Y');"
+  ],
+  [
+    "지수가 마음에 들 지 않는지 지수를 꼬나보는 그 여자의 눈초리가 파르르 떨렸다.( Word : 꼬나보다 )",
+    "javascript:checkSubmit('40617','Y');"
+  ],
+  [
+    "내가 준 선물은 어땠어요? 마음에 들 어요?( Word : 꼭 2 )",
+    "javascript:checkSubmit('48064','Y');"
+  ],
+  [
+    "그는 사장의 마음에 들 기 위해서 사장이 시키는 일이라면 뭐든지 하든 꼭두각시놀음을 하고 있다.( Word : 꼭두각시놀음 )",
+    "javascript:checkSubmit('38170','Y');"
+  ],
+  [
+    "글쎄. 나는 그쪽이 마음에 들 었는데 상대방은 어떤지 잘 모르겠어.( Word : 나 1 )",
+    "javascript:checkSubmit('60931','Y');"
+  ],
+  [
+    "내가 마음에 들 어 하는 집은 이미 다 나간 상태여서 집을 구하기가 쉽지 않다.( Word : 나가다 1 )",
+    "javascript:checkSubmit('71456','Y');"
+  ],
+  [
+    "지수는 웃을 때 잇몸이 훤히 내다보이는 민준이가 마음에 들 지 않았다.( Word : 내다보이다 )",
+    "javascript:checkSubmit('41699','Y');"
+  ],
+  [
+    "이번 인사 이동은 사장이 마음에 들 지 않는 임원들을 다 내치기 위해 실시한 것이라는 소문이 있다.( Word : 내치다 )",
+    "javascript:checkSubmit('41138','Y');"
+  ],
+  [
+    "쇼핑하다가 무척 마음에 들 어서 냉큼 사 버렸어.( Word : 냉큼 )",
+    "javascript:checkSubmit('40218','Y');"
+  ],
+  [
+    "응. 나는 청춘의 아름다움을 노래한 마지막 시가 가장 마음에 들 어.( Word : 노래하다 )",
+    "javascript:checkSubmit('64513','Y');"
+  ],
+  [
+    "만나는 남자들마다 별로 내 마음에 들 지가 않아.( Word : 눈높이 )",
+    "javascript:checkSubmit('24237','Y');"
+  ],
+  [
+    "사랑을 얻으려면 그 사람의 마음에 들 도록 노력하는 수밖에 없다.( Word : -는 수밖에 없다 )",
+    "javascript:checkSubmit('86656','Y');"
+  ],
+  [
+    "언니가 골라 주신 선물인데 마음에 들 다마다요.( Word : -다마다요 )",
+    "javascript:checkSubmit('86279','Y');"
+  ],
+  [
+    "작가는 조각 작품이 마음에 들 지 않는다며 작품을 다시 만들었다.( Word : 다시 1 )",
+    "javascript:checkSubmit('62539','Y');"
+  ],
+  [
+    "이 가게의 옷들이 마음에 들 어서 다음날 한번 다시 오려고 한다.( Word : 다음날 )",
+    "javascript:checkSubmit('90896','Y');"
+  ],
+  [
+    "회의 내용이 마음에 들 지 않았는지 회의 내내 민준의 입은 무겁게 닫혀 있었다.( Word : 닫히다 )",
+    "javascript:checkSubmit('62364','Y');"
+  ],
+  [
+    "지수는 그림이 마음에 들 지 않아 도화지를 구겨 쓰레기통에 던졌다.( Word : 도화지 )",
+    "javascript:checkSubmit('48768','Y');"
+  ],
+  [
+    "지수는 돌출이 된 자신의 입이 항상 마음에 들 지 않았다.( Word : 돌출 )",
+    "javascript:checkSubmit('48661','Y');"
+  ],
+  [
+    "나는 내 결혼식 촬영 영상이 마음에 들 어 몇 번이나 테이프를 되감아서 다시 봤다.( Word : 되감다 )",
+    "javascript:checkSubmit('48202','Y');"
+  ],
+  [
+    "제품이 마음에 들 지 않으면 다른 제품으로 교환하셔도 됩니다.( Word : 되다 1 )",
+    "javascript:checkSubmit('89858','Y');"
+  ],
+  [
+    "담당자는 직원이 성실하면 됐다고 새로 뽑은 직원을 마음에 들 어 했다.( Word : 되다 1 )",
+    "javascript:checkSubmit('89858','Y');"
+  ],
+  [
+    "나는 새로 수정한 글이 마음에 들 지 않아 원래 썼던 것으로 되돌렸다.( Word : 되돌리다 )",
+    "javascript:checkSubmit('14906','Y');"
+  ],
+  [
+    "친구에게 받은 선물이 마음에 들 지 않아서 빙 둘러 말했지만 친구는 내 마음을 전혀 알아채지 못했다.( Word : 두르다 )",
+    "javascript:checkSubmit('14928','Y');"
+  ],
+  [
+    "신랑 어머니는 신부가 마음에 들 지 않아 결혼을 뒤틀려고 했다.( Word : 뒤틀다 )",
+    "javascript:checkSubmit('67064','Y');"
+  ],
+  [
+    "차의 뒷모양이 날렵한 것이 마음에 들 었거든.( Word : 뒷모양 )",
+    "javascript:checkSubmit('67384','Y');"
+  ],
+  [
+    "어떤 가구를 고르든 네 마음에 들 면 돼.( Word : -든 )",
+    "javascript:checkSubmit('86262','Y');"
+  ],
+  [
+    "승규는 지수를 처음 보자마자 마음에 들 어 했다.( Word : 들다 1 )",
+    "javascript:checkSubmit('71686','Y');"
+  ],
+  [
+    "나는 네가 준 선물이 제일 마음에 들 어.( Word : 들다 1 )",
+    "javascript:checkSubmit('71686','Y');"
+  ],
+  [
+    "마음에 들 다.( Word : 들다 1 )",
+    "javascript:checkSubmit('71686','Y');"
+  ],
+  [
+    "마음에 들 어맞다.( Word : 들어맞다 )",
+    "javascript:checkSubmit('51119','Y');"
+  ],
+  [
+    "비난의 말이 마음에 들 어박히다.( Word : 들어박히다 )",
+    "javascript:checkSubmit('51122','Y');"
+  ],
+  [
+    "아버지는 유민이의 재치가 마음에 들 어서 양녀로 들여앉히셨다.( Word : 들여앉히다 )",
+    "javascript:checkSubmit('51128','Y');"
+  ],
+  [
+    "그 남자는 무엇보다도 키가 크고 체격도 듬직해서 마음에 들 어.( Word : 듬직하다 )",
+    "javascript:checkSubmit('49978','Y');"
+  ],
+  [
+    "반찬이 마음에 들 지 않는 아이는 젓가락만 딱딱대고 있었다.( Word : 딱딱대다 2 )",
+    "javascript:checkSubmit('90261','Y');"
+  ],
+  [
+    "새로 산 원피스는 마음에 들 어?( Word : 떡 2 )",
+    "javascript:checkSubmit('54065','Y');"
+  ],
+  [
+    "아무래도 이번에 올린 기획안이 영 마음에 들 지 않으신 모양이다.( Word : 떨떠름하다 )",
+    "javascript:checkSubmit('54076','Y');"
+  ],
+  [
+    "아이는 선물이 마음에 들 지 않는지 내내 뚱한 표정이었다.( Word : 뚱하다 )",
+    "javascript:checkSubmit('53202','Y');"
+  ],
+  [
+    "승규가 내 선물을 마음에 들 어 하는지 잘 모르겠어.( Word : 뜨다 8 )",
+    "javascript:checkSubmit('90943','Y');"
+  ],
+  [
+    "이 중에 어떤 옷이 마음에 들 어?( Word : 마네킹 )",
+    "javascript:checkSubmit('51529','Y');"
+  ],
+  [
+    "마음에 들 다.( Word : 마음 )",
+    "javascript:checkSubmit('20911','Y');"
+  ],
+  [
+    "민준이는 선본 사람이 마음에 들 었대?( Word : 만족스레 )",
+    "javascript:checkSubmit('52987','Y');"
+  ],
+  [
+    "부원들은 팀장이 마음에 들 지 않았지만 그래도 말없이 팀장이 가는 대로 따라가기로 결정했다.( Word : 말없이 )",
+    "javascript:checkSubmit('15900','Y');"
+  ],
+  [
+    "민준은 감독이 자신에게 맡긴 배역이 마음에 들 지 않았다.( Word : 맡기다 )",
+    "javascript:checkSubmit('64685','Y');"
+  ],
+  [
+    "서예가인 아버지는 한 글자라도 마음에 들 지 않으면 쓰던 종이에 먹칠을 해 버리셨다.( Word : 먹칠 )",
+    "javascript:checkSubmit('54829','Y');"
+  ],
+  [
+    "마음에 들 어서 계속 만나고 있어.( Word : 먼젓번 )",
+    "javascript:checkSubmit('54842','Y');"
+  ],
+  [
+    "지수는 남자 친구의 잘생긴 모습이 마음에 들 어 그를 좋아하게 되었다.( Word : 모습 )",
+    "javascript:checkSubmit('62383','Y');"
+  ],
+  [
+    "학교 옆 가게에서 샀어. 생긴 게 독특해서 마음에 들 더라고.( Word : 모자 2 )",
+    "javascript:checkSubmit('69297','Y');"
+  ],
+  [
+    "지수는 모양이 모진 탁자보다 둥그런 탁자가 마음에 들 었다.( Word : 모지다 )",
+    "javascript:checkSubmit('55591','Y');"
+  ],
+  [
+    "지난번에 만난 사람은 마음에 들 어?( Word : 물다 1 )",
+    "javascript:checkSubmit('62322','Y');"
+  ],
+  [
+    "아름다움에 집중해서 예술을 바라볼 수 있다는 점이 마음에 들 어서 미학을 전공하게 됐어요.( Word : 미학 )",
+    "javascript:checkSubmit('56689','Y');"
+  ],
+  [
+    "이 과장은 남자가 마음에 들 었는지 연애한 지 삼 개월 만에 혼인 날을 바투 잡고 결혼할 준비를 했다.( Word : 바투 )",
+    "javascript:checkSubmit('57519','Y');"
+  ],
+  [
+    "아니. 난 시행 계획이 마음에 들 지 않아서 반대표를 던졌어.( Word : 반대표 )",
+    "javascript:checkSubmit('56776','Y');"
+  ],
+  [
+    "부모님은 지수가 데려온 남자의 생김새가 반듯반듯하다며 마음에 들 어 하셨다.( Word : 반듯반듯하다 )",
+    "javascript:checkSubmit('56854','Y');"
+  ],
+  [
+    "우리 아빠는 그 사람이 마음에 들 었는지 당장이라도 그를 사위로 받아들일 기세다.( Word : 받아들이다 )",
+    "javascript:checkSubmit('69489','Y');"
+  ],
+  [
+    "아이는 반찬이 마음에 들 지 않는다며 밥투정했다.( Word : 밥투정하다 )",
+    "javascript:checkSubmit('91230','Y');"
+  ],
+  [
+    "건축가의 손길이 구석구석 밴 이 집이 참 마음에 들 었다.( Word : 배다 1 )",
+    "javascript:checkSubmit('15904','Y');"
+  ],
+  [
+    "유민이는 마음에 들 지 않는 친구가 상을 타자 심술이 뱃속에서 끓는 것을 느꼈다.( Word : 뱃속 )",
+    "javascript:checkSubmit('58756','Y');"
+  ],
+  [
+    "동생은 보글보글 파마한 머리 스타일이 마음에 들 지 않아 울상이 되었다.( Word : 보글보글 )",
+    "javascript:checkSubmit('58584','Y');"
+  ],
+  [
+    "여자 친구의 어떤 점이 마음에 들 었던 거야?( Word : 보드랍다 )",
+    "javascript:checkSubmit('58670','Y');"
+  ],
+  [
+    "고마워. 나도 내 얼굴에서 이 보조개가 참 마음에 들 어.( Word : 보조개 )",
+    "javascript:checkSubmit('59607','Y');"
+  ],
+  [
+    "아무렴. 얼굴도 복스럽고 말씨도 상냥한 것이 아주 마음에 들 더구나.( Word : 복스럽다 )",
+    "javascript:checkSubmit('59577','Y');"
+  ],
+  [
+    "그런 고풍스러운 분위기가 마음에 들 어서 샀어요.( Word : 분위기 )",
+    "javascript:checkSubmit('65855','Y');"
+  ],
+  [
+    "그래. 차 색깔은 마음에 들 었는데 아쉽네.( Word : 불량하다 )",
+    "javascript:checkSubmit('60684','Y');"
+  ],
+  [
+    "사장은 자신의 마음에 들 지 않으면 이유를 불문곡직하고 직원들을 해고시켰다.( Word : 불문곡직하다 )",
+    "javascript:checkSubmit('60360','Y');"
+  ],
+  [
+    "이 글이 출판될 가능성은 불투명하지만 지금까지 쓴 작품 중 가장 마음에 들 었다.( Word : 불투명하다 )",
+    "javascript:checkSubmit('60979','Y');"
+  ],
+  [
+    "동생은 옷이 마음에 들 지 않는지 입을 삐죽 내밀어 불평스러운 표정을 지었다.( Word : 불평스럽다 )",
+    "javascript:checkSubmit('60968','Y');"
+  ],
+  [
+    "가방이 마음에 들 었지만 비싸서 사지 못했다.( Word : 비싸다 )",
+    "javascript:checkSubmit('66318','Y');"
+  ],
+  [
+    "지수는 우리의 계획이 마음에 들 지 않나 봐.( Word : 비쭉대다 )",
+    "javascript:checkSubmit('91517','Y');"
+  ],
+  [
+    "그는 자신이 빚어낸 독들이 마음에 들 지 않았는지 모두 깨어 버렸다.( Word : 빚어내다 )",
+    "javascript:checkSubmit('60818','Y');"
+  ],
+  [
+    "김 과장은 이 대리의 아이디어가 마음에 들 어 보다 구체적인 사항을 알고 싶어 했다.( Word : 사항 )",
+    "javascript:checkSubmit('61563','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,162 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 20",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "가정집에서 식당을 하는 곳이 있는데 집에서 먹는 밥과 비슷 해서 좋아 .( Word : 가정집 )",
+    "javascript:checkSubmit('25888','Y');"
+  ],
+  [
+    "나는 너랑 놀면 혼자 놀 때보다 재미가 더 해서 좋아 .( Word : 더하다 2 )",
+    "javascript:checkSubmit('66264','Y');"
+  ],
+  [
+    "이 채소는 향이 독특 해서 좋아 하는 사람과 못 먹는 사람이 확연히 나뉜다.( Word : 독특하다 )",
+    "javascript:checkSubmit('14400','Y');"
+  ],
+  [
+    "그만큼 해산물도 풍부 해서 좋아 .( Word : 동서 2 )",
+    "javascript:checkSubmit('14806','Y');"
+  ],
+  [
+    "나는 네 목소리가 참 따뜻 해서 좋아 .( Word : 목소리 )",
+    "javascript:checkSubmit('69464','Y');"
+  ],
+  [
+    "응. 사용해 보니 성능도 좋고 세척도 편리 해서 좋아 .( Word : 믹서기 )",
+    "javascript:checkSubmit('600381','Y');"
+  ],
+  [
+    "생각보다 설거지도 편 해서 좋아 요.( Word : 사기 2 )",
+    "javascript:checkSubmit('62045','Y');"
+  ],
+  [
+    "네. 낮에도 덥지 않고 선선 해서 좋아 요.( Word : 서늘하다 )",
+    "javascript:checkSubmit('16241','Y');"
+  ],
+  [
+    "이게 세모시로 만든 옷인데 여름에는 시원 해서 좋아 .( Word : 세모시 )",
+    "javascript:checkSubmit('70175','Y');"
+  ],
+  [
+    "이 수분 크림 사용하는데, 촉촉 해서 좋아 .( Word : 수분 크림 )",
+    "javascript:checkSubmit('600515','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,186 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 2",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 41",
+    "#"
+  ],
+  [
+    "Usage Example 77",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "승규는 십 년 만에 자신의 집을 갖게 된 것이 더없이 기쁘 기만 했다.( Word : 갖다 1 )",
+    "javascript:checkSubmit('29738','Y');"
+  ],
+  [
+    "아들아, 너는 하고 싶은 일을 하면서 기쁘 게 살아가거라.( Word : -거라 )",
+    "javascript:checkSubmit('66953','Y');"
+  ],
+  [
+    "기쁘 기도 하고 그동안 고생한 일들이 떠올라서 만감이 교차되지 뭐예요.( Word : 교차되다 )",
+    "javascript:checkSubmit('32425','Y');"
+  ],
+  [
+    "크리스마스 전날, 교회에는 ' 기쁘 다 구주 오셨네'와 같은 찬송가가 울려 퍼졌다.( Word : 구주 )",
+    "javascript:checkSubmit('36704','Y');"
+  ],
+  [
+    "기쁘 기 그지없다.( Word : 그지없다 )",
+    "javascript:checkSubmit('32103','Y');"
+  ],
+  [
+    "그지없이 기쁘 다.( Word : 그지없이 )",
+    "javascript:checkSubmit('32104','Y');"
+  ],
+  [
+    "우승이 기쁘 다.( Word : 기쁘다 )",
+    "javascript:checkSubmit('40078','Y');"
+  ],
+  [
+    "승리가 기쁘 다.( Word : 기쁘다 )",
+    "javascript:checkSubmit('40078','Y');"
+  ],
+  [
+    "기쁘 게 맞아 주다.( Word : 기쁘다 )",
+    "javascript:checkSubmit('40078','Y');"
+  ],
+  [
+    "승규는 온 가족이 함께 웃고 사랑할 수 있는 지금 이 순간이 무척 기쁘 다.( Word : 기쁘다 )",
+    "javascript:checkSubmit('40078','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

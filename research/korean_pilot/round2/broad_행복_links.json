@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 3",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 33",
+    "#"
+  ],
+  [
+    "Usage Example 447",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "신혼부부는 새집을 예쁘게 가꾸며 행복 해하였다.( Word : 가꾸다 )",
+    "javascript:checkSubmit('28757','Y');"
+  ],
+  [
+    "부자나 가난뱅이나 할 것 없이 모든 사람은 행복 할 권리가 있다.( Word : 가난뱅이 )",
+    "javascript:checkSubmit('28069','Y');"
+  ],
+  [
+    "나는 비록 가난하게 살고 있지만 공부를 하며 지내는 지금의 생활이 행복 하다.( Word : 가난하다 )",
+    "javascript:checkSubmit('62495','Y');"
+  ],
+  [
+    "행복 이 가득하다.( Word : 가득하다 )",
+    "javascript:checkSubmit('62252','Y');"
+  ],
+  [
+    "좋은 아내 덕에 행복 한 가정을 가지고 있다는 것에 항상 감사하고 있지.( Word : 가정 1 )",
+    "javascript:checkSubmit('59900','Y');"
+  ],
+  [
+    "가족들이 모두 건강해야 가정이 평화롭고 행복 하다.( Word : 가정 1 )",
+    "javascript:checkSubmit('59900','Y');"
+  ],
+  [
+    "행복 한 가정생활을 하는 비결이 뭐야?( Word : 가정생활 )",
+    "javascript:checkSubmit('601294','Y');"
+  ],
+  [
+    "행복 한 가정생활.( Word : 가정생활 )",
+    "javascript:checkSubmit('601294','Y');"
+  ],
+  [
+    "지수는 행복 한 가정적 분위기 속에서 잘 자라 성품이 올바르다.( Word : 가정적 2 )",
+    "javascript:checkSubmit('25880','Y');"
+  ],
+  [
+    "가정적 행복 .( Word : 가정적 2 )",
+    "javascript:checkSubmit('25880','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('45');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

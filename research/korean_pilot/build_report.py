@@ -3,6 +3,7 @@ import json
 import re
 import pathlib
 from romanization import romanize, annotate_markdown, aligned_rows
+from comparison_scope import annotate_scope
 
 B = pathlib.Path(__file__).resolve().parent
 ROOT = B.parent.parent
@@ -44,15 +45,15 @@ add('좋아하다','3','그림 그리기를 좋아하다.','그림 그리-기-�
 add('좋아하다','3','책 보는 것을 좋아하다.','책 보-는 것-을 좋아하-다','book read-ADN NMLZ-ACC like-DECL','喜欢看书。','EVENT','ADN_KES_NP','ACC','省略','ACC','把 -는 것 作为名物化构造标记；不把内部 책 当外层 Y。')
 add('좋아하다','5','우리 집 강아지는 눈이 오면 이리저리 뛰어 다니며 너무 좋아한다.',
     '우리 집 강아지-는 눈-이 오-면 이리저리 뛰-어 다니-며 너무 좋아하-ㄴ다',
-    '1PL house puppy-TOP snow-NOM come-COND here.and.there jump-CVB go.around-CVB very rejoice-DECL',
+    '1PL house puppy-TOP snow-NOM come-COND here.and.there jump-LINK go.around-CVB.SIM very rejoice-DECL',
     '我家的小狗一下雪，就四处蹦跳，特别高兴。','EVENT','CONDITIONAL_CLAUSE','COND_MYEON','TOP','无外层格；-면连接',
     '此为词典第5义“表现高兴”，词典框架只有 1이 좋아하다。不能沿用第1／3义 ACC 配价；-면 是条件／情境连接。',kind='词典完整例句')
 add('좋다','10','나는 이 드라마가 정말 좋아요.','나-는 이 드라마-가 정말 좋-아요',
     '1SG-TOP this drama-NOM really like-POL','我真的喜欢这部电视剧。','ENTITY','NP','NOM','TOP','NOM',
     '词典框架 1이 2가 좋다；本例实际 E 为 TOP。只取第10义，不能把所有 좋다 都算 LIKE。',kind='词典完整例句')
 add('좋다','10','하는 일이 좋다.','하-는 일-이 좋-다','do-ADN work-NOM like-DECL','喜欢所做的工作／事情。',
-    'UNRESOLVED','ADN_LEXICAL_NOUN_NP','NOM','省略','NOM',
-    '일 可指工作、任务或事情，暂不把它强制判为 EVENT；也不同于专门名物化的 -는 것。')
+    'ENTITY','ADN_LEXICAL_NOUN_NP','NOM','省略','NOM',
+    '依用户复核按普通工作／任务 NP 记录，不作 EVENT 证据；不同于专门名物化的 -는 것。真正事件-NOM 见第二轮 K41。')
 add('사랑하다','2','동물을 사랑하다.','동물-을 사랑하-다','animal-ACC love-DECL','爱护动物。','ENTITY','NP','ACC','省略','ACC','第2义含珍爱、照护，和第1义性爱／恋爱情感分存。')
 add('사랑하다','4','음악을 사랑하다.','음악-을 사랑하-다','music-ACC love-DECL','热爱音乐。','ENTITY','NP','ACC','省略','ACC','音乐按抽象实体记录；不补出听音乐事件。')
 add('사랑하다','4','평화를 사랑하다.','평화-를 사랑하-다','peace-ACC love-DECL','热爱和平。','ENTITY','NP','ACC','省略','ACC','抽象实体／状态名词；是否纳入最终 ENTITY 比较概念仍可复核。')
@@ -79,15 +80,15 @@ add('바라다','1','지수는 빨리 승진해서 돈을 조금만 더 벌었�
     '智秀希望能早些晋升，再多赚一点钱。','EVENT','CONDITIONAL_QUOTATIVE_CLAUSE','COND_QUOT','TOP','无外层格；-었으면 하고',
     '词典明确记此替代结构。“CAUSAL”是原因连接标签，不是 CAUS 使役；本例无语法使役。-었- 在愿望条件中不简单译为过去已发生。',kind='词典完整例句')
 add('싶다','WANT','na-nun i kes-ul po-ko·siph-ta.','na-nun i kes-ul po-ko siph-ta',
-    '1SG-TOP this thing-ACC see-CVB want-DECL','我想看这个。','EVENT','VP_KO_SIPHTA','KO_SIPHTA','TOP','无外层格；V-고',
+    '1SG-TOP this thing-ACC see-LINK.DESID want-DECL','我想看这个。','EVENT','VP_KO_SIPHTA','KO_SIPHTA','TOP','无外层格；V-고',
     'i kes-ul-ACC 是“看”的宾语，不是“想要实体”的直接框架。此例与 K13 是作者的同内容对照。',
     kind='NSM文献作者例句',source='YOON03',locator='p.126，§3.7.1.3 (15)a')
-add('싶다','1','좀 쉬고 싶어서요.','좀 쉬-고 싶-어서-요','a.little rest-CVB want-CVB.CAUSAL-POL',
+add('싶다','1','좀 쉬고 싶어서요.','좀 쉬-고 싶-어서-요','a.little rest-LINK.DESID want-CVB.CAUSAL-POL',
     '因为想稍微休息一下。','EVENT','VP_KO_SIPHTA','KO_SIPHTA','省略','无外层格；V-고',
     '对话答句以 -어서요 结尾；保留原形，不擅改为完整陈述句。',kind='词典对话答句')
 add('싶다','1','나는 시원한 게 마시고 싶어서',
     '나-는 시원하-ㄴ 것-이 마시-고 싶-어서',
-    '1SG-TOP cool-ADN thing-NOM drink-CVB want-CVB.CAUSAL',
+    '1SG-TOP cool-ADN thing-NOM drink-LINK.DESID want-CVB.CAUSAL',
     '因为我想喝点凉的东西，……','EVENT','VP_KO_SIPHTA','KO_SIPHTA','TOP','无外层格；内部对象-NOM',
     '从完整原句摘录前半分句；게＝것이。“凉的东西”是嵌入“喝”的对象，不能据其 NOM 把整个 WANT 内容标为 ENTITY-NOM。',
     kind='词典原句的连续分句摘录',full='나는 시원한 게 마시고 싶어서 편의점에 맥주를 사러 갔다.')
@@ -125,8 +126,8 @@ add('즐기다','1','우리는 바닷가에서 여름휴가를 즐겼다.',
     '第1义为充分体验／享受，第2义为习惯性爱好，分义记录；不自动同归 LIKE。',kind='词典完整例句')
 add('행복하다','1','나는 사랑스러운 자녀들이 있어 늘 행복하다고 느낀다.',
     '나-는 사랑스럽-은 자녀-들-이 있-어 늘 행복하-다-고 느끼-ㄴ다',
-    '1SG-TOP lovable-ADN child-PL-NOM exist-CVB always be.happy-DECL-QUOT feel-DECL',
-    '我因有可爱的孩子，总觉得很幸福。','EVENT','EXISTENTIAL_BACKGROUND_CLAUSE','BACKGROUND_EO','TOP','无外层格；있어连接',
+    '1SG-TOP lovable-ADN child-PL-NOM exist-CVB.REASON always be.happy-DECL-QUOT feel-DECL',
+    '我因有可爱的孩子，总觉得很幸福。','EVENT','CAUSAL_CLAUSE','CAUSE_EO','TOP','无外层格；있어连接',
     '행복하다 的词典框架为 1이 행복하다，一价。子女 NOM 是 있- 的论元，不能当作幸福谓词的直接刺激 NOM；末尾感到的宾语是引述内容。',kind='词典完整例句')
 add('만족하다','1','결과에 만족하다.','결과-에 만족하-다','result-LOC be.satisfied-DECL','对结果满意。','UNRESOLVED','NP','EY','省略','에','词典为 동사 满足义；结果名词不足以独自判 ENTITY／EVENT。')
 add('만족하다','1','지수는 자기 직업에 만족하지 못해서',
@@ -143,7 +144,7 @@ add('반갑다','1','나는 오랜만에 만난 고향 친구가 너무나 반�
     kind='词典原句的连续分句摘录',full='나는 오랜만에 만난 고향 친구가 너무나 반가워서 한참 동안이나 손을 붙잡고 놓지 않았다.')
 add('반갑다','1','그동안 누군지 한번 꼭 보고 싶었는데 이렇게 만나게 되어 반갑습니다.',
     '그동안 누구-이-ㄴ지 한번 꼭 보-고 싶-었-는데 이렇게 만나-게 되-어서 반갑-습니다',
-    'meanwhile who-COP-INT.EMB once certainly see-CVB want-PST-CVB.BACKGROUND like.this meet-ADV become-CVB.CAUSAL be.glad.to.see-DECL.POL',
+    'meanwhile who-COP-INT.EMB once certainly see-LINK.DESID want-PST-CVB.BACKGROUND like.this meet-ADV become-CVB.CAUSAL be.glad.to.see-DECL.POL',
     '一直想见见您是谁，能这样见面很高兴。','EVENT','CAUSAL_CLAUSE','CAUSE_EOSEO','省略','无外层格；-게 되어서',
     '-게 되다 为事态形成／变化，不是 -게 하다 使役，也不是被动。原句可见的多个事件结构逐层分开。',kind='词典对话完整句')
 add('흐뭇하다','1','열심히 공부하는 동생을 보니 마음이 흐뭇했다.',
@@ -186,6 +187,10 @@ def validate():
 
 HEADER = '''# 韩语心理谓词：实体／事件构式、例句与标注
 
+**现行范围：除 -고 싶다 外，外层内容以非名物化分句实现的形式全部退出比较；名物化 NP 仍保留。最新比较表与缺例核查见[第三轮：名词框架与缺例复核](韩语心理谓词_名词框架与缺例复核_第三轮.md)。本稿保留历史例号，JSON 已用 comparison_eligible 标明是否纳入当前比较。**
+
+**2026-11-14 更新：已完成[第二轮补例与连接词尾核查](韩语心理谓词_补例与连接词尾核查_第二轮.md)，新增 K41—K59。以下保留第一轮例号；旧缺例状态以第二轮核查表为准。K06 按用户复核记录普通工作／任务 NP；-고 싶다 的连接单列 LINK.DESID。**
+
 采集与核读：2026-11-13。第一轮按词项、义项、内容类型与可见形式记录，**尚不作最终八节点语义裁决**。原句来自韩国国立国语院《한국어기초사전》及 Yoon（2003）的 NSM 论文；本轮没有用自造句填补缺口。共计 **{count} 条记录、16 个词项（含惯用语）**；其中含完整句、对话句、原句连续分句摘录和词典明确给出的搭配短语，证据类型逐条注明。
 
 ## 1. 构式与词项概览
@@ -195,22 +200,22 @@ HEADER = '''# 韩语心理谓词：实体／事件构式、例句与标注
 |词项／义项|实体侧|事件侧或相关结构|注意|
 |---|---|---|---|
 |좋아하다 1／3，喜欢|NP-ACC|V-기-ACC；V-는 것-ACC|名物化事件与实体同为 ACC；第5义高兴单列|
-|좋다 10，喜欢／合意|NP-NOM|하는 일-NOM 记录，内容待定|实际 E-TOP；词典列 1이 2가；不能混入“适宜做……”义|
-|마음에 들다，合心意|衣服-NP-TOP；词典框架 Y-NOM|?|마음-에 为内部“心”成分，不直接标 E-DAT|
-|사랑하다 2／4，珍爱／热爱|动物、音乐、和平-ACC|?|恋爱、珍爱、热爱分义；事件名物化一侧仍缺例|
+|좋다 10，喜欢／合意|NP-NOM|第二轮 K41 补事件-NOM|K06 工作／任务不计事件；实际 E-TOP；不能混入“适宜做……”义|
+|마음에 들다，合心意|衣服-NP-TOP；第二轮补礼物-NOM|第二轮 K57 补事件-NOM|마음-에 为内部“心”成分，不直接标 E-DAT|
+|사랑하다 2／4，珍爱／热爱|动物、音乐、和平-ACC|第二轮 K42 补事件名物化-ACC|恋爱、珍爱、热爱分义|
 |아끼다 2，珍爱|人-NP-ACC|?|排除节省义|
 |원하다，想要|NP-ACC|V-기(-ACC)，同主语／异主语均见|事件有 NP 形式；外层格可省有作者说明|
 |바라다 1／2，希望／想得到|NP-ACC|V-기-ACC；V-었으면 하고|条件引述式另列，不能补标 ACC|
 |V-고 싶다，想做|直接实体 NP 框架 ?|V-고 싶다|内部实体对象可见 ACC／NOM；不当作外层 WANT flagging|
 |V-었으면 싶다，愿望|?|条件结构|与 -고 싶다 分组，Yoon 指出意义差别|
-|기쁘다，高兴|普通实体 ?|胜利-NOM；V-어서连接|事件 NP 的格与原因分句分开|
-|기뻐하다，为……高兴|普通实体 ?|胜利-ACC；事件消息-에|에 例为“消息”；其八节点内容类型暂缓|
-|즐겁다，愉快|普通实体 ?；一天-NOM 内容待定|V-니连接|不从“日子愉快”直接推导双价心理刺激框架|
+|기쁘다，高兴|普通实体 ?|胜利-NOM；第二轮补事件名物化-NOM；V-어서连接|第二轮另补 -니／-니까；事件 NP 的格与原因分句分开|
+|기뻐하다，为……高兴|普通实体 ?|胜利-ACC；第二轮补事件名物化-ACC；事件消息-에|에 例为“消息”；其八节点内容类型暂缓|
+|즐겁다，愉快|普通实体 ?；一天-NOM 内容待定|V-니连接；第二轮补事件名物化-NOM|不从“日子愉快”直接推导双价心理刺激框架|
 |즐기다 1／2，享受／爱好|酒-NP-ACC|活动名词-ACC；V-는 것-ACC|习惯性爱好与当下享受分义|
-|행복하다，幸福|直接 Y ?|存在背景分句＋幸福状态|词典列一价；不把内部子女-NOM 当 Y|
-|만족하다¹，满意|职业-NP-에|事件补语 ?；结果-NP-에 内容待定|另有 에게／로／로서 框架说明，未取得这些正例|
+|행복하다，幸福|直接实体 Y ?|原因／条件分句；第二轮补事实名词＋만으로|词典列一价；不把内部子女-NOM 当 Y；连接不只接存在词|
+|만족하다¹，满意|职业-NP-에|第二轮 K43 补事件名物化-에；结果-NP-에 内容待定|另有 에게／로／로서 框架说明，未取得这些正例|
 |반갑다，见到……高兴|朋友-NP-NOM|相见-게 되어서|实体保留实体编码；变化式不是使役式|
-|흐뭇하다，欣慰|直接 Y ?|V-니连接；内部 마음-NOM|心-NOM 不是刺激 NOM|
+|흐뭇하다，欣慰|直接 Y ?|V-니连接；第二轮补 -면／-고|第二轮有父亲-TOP、不出现心名词的例子；心-NOM 不是刺激 NOM|
 
 本轮可以先检验 **ACC** 在 좋아하다／원하다／바라다／즐기다 的跨词项分布，以及 **NOM** 在 좋다／기쁘다／반갑다 的分布。但这些词的义项不同、E 的可见标记也不齐全，**目前不能据表宣称已有 LIKE→WANT→HAPPY 的蕴含或确定连边**。
 
@@ -220,7 +225,7 @@ HEADER = '''# 韩语心理谓词：实体／事件构式、例句与标注
 - 保留 E 的实际 TOP／省略，不用词典的数字配价框架将所有 E 改标 NOM。词典 `1이 2가` 也不能单凭数字判题元，须核对实际名词角色。
 - `에` 暂记为可见形式组 `EY`，gloss 用常规格标签 LOC；它在情感句中的具体关系另记。**不把所有 에 自动等同于 E-DAT 或同一种语义关系**。
 - 谚文后附 **Yale 式拼写转写**，不标长音、不应用连读、收音中和等音变；这是拼写转写，不是语音转写。`e／ey／ay／u／wu` 分别对应 ㅓ／ㅔ／ㅐ／ㅡ／ㅜ；ㅜ 在唇音后省写 w，ㄹ 写 l。例句切分块依次为韩文词素、罗马字词素、英文 gloss 三行；Yoon 原本已用罗马字的例子保持作者写法，两行呈现。不规则变化、融合词形在说明中交代。`-고 싶다` 拆作连接形式和辅助谓词，不宣称 CVB 是唯一理论分析。
-- `CVB.CAUSAL` 为“原因连接”，**不同于 CAUS（使役）**。连接分句是否为所选补语本轮未作统一分析；在数据中独立成组，不能直接与格补语合并。
+- `CVB.CAUSAL`／`CVB.REASON` 为“原因连接”，**不同于 CAUS（使役）**。`CVB.SIM` 为同时伴随，`LINK.DESID` 为愿望辅助结构连接。连接分句是否为所选补语须另分析，不能直接与格补语合并。
 - `ADD` 添加焦点，`ONLY` 限定焦点，`EVEN` 递进焦点，`COORD` 并列，`COP` 系词；韩语词典用的“形容词”是可直接屈折作谓词的类别，不套用英语系词句结构。
 - `ADN` 定语形式；`NMLZ` 名物化；`TOP` 话题；`ACC` 宾格；`NOM` 主格；`LOC` 处所／에类标记；`COM` 共格；`GEN` 属格；`COND` 条件；`QUOT` 引述；`HON` 主体尊敬；`HUM` 谦称；`POL` 礼貌；`DECL` 陈述；`PRS` 现在；`PST` 过去；`NEG.ABIL` 否定能力；`LINK` 连接；`INT.EMB` 嵌入疑问。融合标签用点，切分边界用连字符。
 
@@ -232,6 +237,8 @@ HEADER = '''# 韩语心理谓词：实体／事件构式、例句与标注
 
 def build():
     validate()
+    for x in EX:
+        annotate_scope(x)
     body = [HEADER.format(count=len(EX))]
     for x in EX:
         s = SOURCES[x['source']]
@@ -251,8 +258,8 @@ def build():
 
 1. **만족하다**：词典列 `1이 2에/에게 만족하다, 1이 2로 만족하다`，另列 `2로서`。本轮只有 에 的实际例；에게／로／로서 保留为配价说明，不编造例句、不按意义填格。
 2. **좋다、즐겁다、기쁘다、반갑다、흐뭇하다**：词典都有相似的数字框架，但第二个 NOM 可能是刺激、时段、心情部位等，不能据形式自动视为同一关系。
-3. **사랑하다／아끼다＋事件名物化**、**기쁘다／기뻐하다＋普通实体**、**행복하다＋明确外层 Y**：仍需补证。未找到不等于不存在。
-4. **마음에 들다**：K38 的 Y 实现为 TOP，词典另列 Y-NOM 框架；事件一侧仍缺例。不能仅凭字面“进入心里”直接宣称有 E-DAT。
+3. **아끼다＋事件名物化**、**기쁘다／기뻐하다＋普通具体实体**、**행복하다＋普通实体直接刺激**：仍需补证。사랑하다 的事件名物化已补于第二轮 K42；不能继续记缺例。
+4. **마음에 들다**：K38 的 Y 实现为 TOP；第二轮 K57／58 分别补事件／实体 NP-NOM。不能仅凭字面“进入心里”直接宣称有 E-DAT。
 
 ## 5. NSM 与 Mouton 来源状态
 

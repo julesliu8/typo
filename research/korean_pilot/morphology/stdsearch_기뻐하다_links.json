@@ -1,0 +1,166 @@
+[
+  [
+    "검색 바로가기",
+    "#search"
+  ],
+  [
+    "본문 바로가기",
+    "#content"
+  ],
+  [
+    "",
+    "javascript:fnMoveMain();"
+  ],
+  [
+    "찾기",
+    "javascript:fnHeaderSearch();"
+  ],
+  [
+    "자세히 찾기",
+    "javascript:fnSearchDetailWords();"
+  ],
+  [
+    "들어가기",
+    "javascript:fnLoginForm();"
+  ],
+  [
+    "회원 가입",
+    "javascript:fnMemberAdd();"
+  ],
+  [
+    "내 단어장",
+    "/mypage/memberWordBook/wordBookList.do"
+  ],
+  [
+    "단어장에 추가",
+    "javascript:fnWordBookWordsAddAll();"
+  ],
+  [
+    "전체 삭제",
+    "javascript:fnMyWordListJob('removeAll','');"
+  ],
+  [
+    "",
+    "#"
+  ],
+  [
+    "+새 단어장 추가",
+    "javascript:fnWordBookAddAll();"
+  ],
+  [
+    "추가",
+    "javascript:fnWordBookWordsAddAllProc('1');"
+  ],
+  [
+    "취소",
+    "javascript:fnDialogClose('wordBookWordsAddAll');"
+  ],
+  [
+    "추가",
+    "javascript:fnWordBookWordsAddAllProc('2');"
+  ],
+  [
+    "취소",
+    "javascript:fnDialogClose('wordBookAddAll');"
+  ],
+  [
+    "확대하기",
+    "#"
+  ],
+  [
+    "축소하기",
+    "#"
+  ],
+  [
+    "인쇄하기",
+    "#"
+  ],
+  [
+    "내 단어장",
+    "/mypage/memberWordBook/wordBookList.do"
+  ],
+  [
+    "내가 살펴본 단어",
+    "#"
+  ],
+  [
+    "일러두기",
+    "#"
+  ],
+  [
+    "도움말",
+    "/help/helpList.do"
+  ],
+  [
+    "목록으로 보기",
+    "#top"
+  ],
+  [
+    "내용으로 보기",
+    "#top"
+  ],
+  [
+    "사전 내려받기",
+    "javascript:fnDownloadOpen();"
+  ],
+  [
+    "내려받기",
+    "javascript:fnSearchDownload();"
+  ],
+  [
+    "취소",
+    "javascript:fnPopupClose('searchDownloadBox');"
+  ],
+  [
+    "기뻐-하다",
+    "/search/searchView.do?word_no=405463&searchKeywordTo=3"
+  ],
+  [
+    "전체  보기",
+    "#none"
+  ],
+  [
+    "우리말샘 검색 결과로 바로가기",
+    "#"
+  ],
+  [
+    "",
+    "https://www.korean.go.kr"
+  ],
+  [
+    "도움말",
+    "/help/helpList.do"
+  ],
+  [
+    "이용 약관",
+    "/join/siteTerms.do"
+  ],
+  [
+    "개인 정보 처리 방침",
+    "https://korean.go.kr/front/nuri/pageView.do?page_id=P000186&mkn=2"
+  ],
+  [
+    "저작권 정책",
+    "/join/copyrightPolicy.do"
+  ],
+  [
+    "알립니다",
+    "/notice/noticeList.do"
+  ],
+  [
+    "개발 지원(Open API)",
+    "/openapi/openApiInfo.do"
+  ],
+  [
+    "서비스 장애 신고",
+    "/comment/commentErrorReport.do"
+  ],
+  [
+    "사전 통계",
+    "/statistic/dicStat.do"
+  ],
+  [
+    "이동",
+    "#footerFamilySite"
+  ]
+]

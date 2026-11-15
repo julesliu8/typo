@@ -1,0 +1,138 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 5",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "그는 대충대충 공부하면서 중간 정도의 성적을 유지하는 것에 만족 했다.( Word : 대충대충 )",
+    "javascript:checkSubmit('46846','Y');"
+  ],
+  [
+    "우리 가족은 한 마지기 밖에 안 되는 뙈기밭이라도 우리 가족의 이름으로 땅을 샀다는 것에 만족 했다.( Word : 뙈기밭 )",
+    "javascript:checkSubmit('53119','Y');"
+  ],
+  [
+    "그들은 작은 것에 만족 할 줄 아는 소박한 민족성을 지니고 있다.( Word : 민족성 )",
+    "javascript:checkSubmit('57374','Y');"
+  ],
+  [
+    "넓은 평야에 펼쳐진 논과는 비교할 수 없지만 그들은 이 산전이라도 있는 것에 만족 한다고 했다.( Word : 산전 1 )",
+    "javascript:checkSubmit('61798','Y');"
+  ],
+  [
+    "어차피 세상 모든 것을 다 가질 수 없을 바에야 지금 가진 것에 만족 해야 한다.( Word : -을 바에야 )",
+    "javascript:checkSubmit('84579','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

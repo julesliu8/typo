@@ -1,0 +1,178 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 2",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 29",
+    "#"
+  ],
+  [
+    "Usage Example 56",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "가족들은 갓 태어난 아기의 희고 곱다란 얼굴을 보면서 흐뭇 해했다.( Word : 곱다랗다 )",
+    "javascript:checkSubmit('18597','Y');"
+  ],
+  [
+    "아주머니는 학비를 스스로 벌겠다는 지수의 기특한 생각을 듣고 매우 흐뭇 해하셨다.( Word : 기특하다 )",
+    "javascript:checkSubmit('38474','Y');"
+  ],
+  [
+    "맞아요. 두 사람이 서로를 끔찍이 위하는 모습을 보면 흐뭇 해요.( Word : 끔찍이 )",
+    "javascript:checkSubmit('38377','Y');"
+  ],
+  [
+    "농부는 가을바람에 곡식들이 황금색 물결을 이루며 넘실대는 모습을 보고 흐뭇 함을 느꼈다.( Word : 넘실대다 )",
+    "javascript:checkSubmit('41295','Y');"
+  ],
+  [
+    "할아버지는 재롱을 떠는 손자를 보며 고 녀석 귀엽다며 흐뭇 해하셨다.( Word : 녀석 )",
+    "javascript:checkSubmit('41586','Y');"
+  ],
+  [
+    "할머니는 다듬질해 주름살이 펴진 옷을 흐뭇 하게 바라보셨다.( Word : 다듬질하다 )",
+    "javascript:checkSubmit('63284','Y');"
+  ],
+  [
+    "아버지는 뿌리마다 잔뜩 달린 감자를 보면서 흐뭇 한 표정을 지으셨다.( Word : 달리다 2 )",
+    "javascript:checkSubmit('61300','Y');"
+  ],
+  [
+    "그럼요. 돼지죽을 배불리 먹는 모습만 봐도 흐뭇 한 걸요.( Word : 돼지죽 )",
+    "javascript:checkSubmit('48187','Y');"
+  ],
+  [
+    "아버지는 어느새 훌쩍 자란 딸아이를 보니 새삼 대견스럽고 흐뭇 했다.( Word : 딸아이 )",
+    "javascript:checkSubmit('15098','Y');"
+  ],
+  [
+    "승규는 그녀와의 추억을 떠올리며 흐뭇 한 미소를 지었다.( Word : 떠올리다 )",
+    "javascript:checkSubmit('62315','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

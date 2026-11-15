@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 16",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 6",
+    "#"
+  ],
+  [
+    "Definition 147",
+    "#"
+  ],
+  [
+    "Usage Example 1,595",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "슈베르트가 작곡한 가곡은 지금까지도 사람들에게 널리 사랑 받는다.( Word : 가곡 )",
+    "javascript:checkSubmit('27940','Y');"
+  ],
+  [
+    "사랑 의 가교.( Word : 가교 1 )",
+    "javascript:checkSubmit('28037','Y');"
+  ],
+  [
+    "친구는 나와 여자 친구를 화해하게 해 주어 사랑 의 가교 역할을 하였다.( Word : 가교 1 )",
+    "javascript:checkSubmit('28037','Y');"
+  ],
+  [
+    "응. 이제 회 사랑 가까워져서 출근하기가 편해졌어.( Word : 가까워지다 )",
+    "javascript:checkSubmit('59888','Y');"
+  ],
+  [
+    "꿈과 사랑 이 가득하다.( Word : 가득하다 )",
+    "javascript:checkSubmit('62252','Y');"
+  ],
+  [
+    "이건 나의 사랑 을 가득히 담아 만든 도시락이야.( Word : 가득히 )",
+    "javascript:checkSubmit('15313','Y');"
+  ],
+  [
+    "집안의 반대도 그들의 열렬한 사랑 을 가로막을 수는 없었다.( Word : 가로막다 )",
+    "javascript:checkSubmit('16414','Y');"
+  ],
+  [
+    "사랑 을 가로막다.( Word : 가로막다 )",
+    "javascript:checkSubmit('16414','Y');"
+  ],
+  [
+    "오래 전에 애틋했던 첫 사랑 의 기억이 가맣게 떠올랐다.( Word : 가맣다 )",
+    "javascript:checkSubmit('15381','Y');"
+  ],
+  [
+    "첫 사랑 에 대한 추억이 가물가물 머릿속에서 사라져 갔다.( Word : 가물가물 )",
+    "javascript:checkSubmit('14915','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('160');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

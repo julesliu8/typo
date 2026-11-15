@@ -1,0 +1,202 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 0",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 272",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "심장이 약한 사람은 가급적 무서운 영화를 보지 않는 것이 좋다 .( Word : 가급적 2 )",
+    "javascript:checkSubmit('28049','Y');"
+  ],
+  [
+    "지나친 가학을 당하고 있다면 주변 사람들에게 도움을 청하는 것이 좋다 .( Word : 가학 )",
+    "javascript:checkSubmit('14419','Y');"
+  ],
+  [
+    "초기의 암은 증상이 없어 간과되기 쉬우니 정기 검진을 받는 것이 좋다 .( Word : 간과되다 )",
+    "javascript:checkSubmit('35622','Y');"
+  ],
+  [
+    "감염병을 예방하기 위해서 평소에 손을 비누로 깨끗하게 씻는 것이 좋다 .( Word : 감염병 )",
+    "javascript:checkSubmit('600065','Y');"
+  ],
+  [
+    "강수량이 한 시기에 집중되는 것보다는 일 년 내내 조금씩 비가 오는 것이 좋다 .( Word : 강수량 )",
+    "javascript:checkSubmit('16191','Y');"
+  ],
+  [
+    "그림이 아직 마르지 않았으니 되도록 건드리지 않는 것이 좋다 .( Word : 건드리다 )",
+    "javascript:checkSubmit('16289','Y');"
+  ],
+  [
+    "아무리 가까운 부부 사이라도 서로 자존심을 건드려 상처를 입히는 말은 하지 않는 것이 좋다 .( Word : 건드리다 )",
+    "javascript:checkSubmit('16289','Y');"
+  ],
+  [
+    "목도리를 손으로 직접 뜨려면 스물두 코에 스무 단의 게이지를 잡아 놓고 시작하는 것이 좋다 .( Word : 게이지 )",
+    "javascript:checkSubmit('28439','Y');"
+  ],
+  [
+    "몸이 건조해지는 겨울철에는 식물성 지방이 풍부한 견과류를 먹어 영양을 보충하는 것이 좋다 .( Word : 견과류 )",
+    "javascript:checkSubmit('29682','Y');"
+  ],
+  [
+    "어렸을 때에는 공부만 하기보다 어려 곳에 견학을 다니면서 다양한 체험을 해 보는 것이 좋다 .( Word : 견학 )",
+    "javascript:checkSubmit('30242','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('28');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]
