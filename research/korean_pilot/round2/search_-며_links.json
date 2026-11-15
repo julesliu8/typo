@@ -1,0 +1,250 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 36",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 2,185",
+    "#"
+  ],
+  [
+    "Usage Example 13,557",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-며",
+    "javascript:checkSubmit('80253','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80253','Y');"
+  ],
+  [
+    "며칠",
+    "javascript:checkSubmit('36676','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxMi83OTM1Ni9TTkQwMDAwNjgwNTkubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('36676','Y');"
+  ],
+  [
+    "며느리",
+    "javascript:checkSubmit('55540','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxMi83OTQzMi9TTkQwMDAwNjgxMzUubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('55540','Y');"
+  ],
+  [
+    "막내며느리",
+    "javascript:checkSubmit('49946','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxNi84MTg0Ni9TTkQwMDAwNzA1NDkubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('49946','Y');"
+  ],
+  [
+    "맏며느리",
+    "javascript:checkSubmit('53058','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUwOC83NzI0OS9TTkQwMDAwNjU5NTIubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('53058','Y');"
+  ],
+  [
+    "며느릿감",
+    "javascript:checkSubmit('55541','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxMi83OTQzMy9TTkQwMDAwNjgxMzYubXAz');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxMi83OTQzNC9TTkQwMDAwNjgxMzcubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('55541','Y');"
+  ],
+  [
+    "살며시",
+    "javascript:checkSubmit('61674','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDYwMS85MTU2OC9TTkQwMDAwODAyNzEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('61674','Y');"
+  ],
+  [
+    "스며들다",
+    "javascript:checkSubmit('65361','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8yMDAwMC8zMjE1OTAvU05EMDAwMzMwOTQ0Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('65361','Y');"
+  ],
+  [
+    "슬며시",
+    "javascript:checkSubmit('65249','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDYwNS85MzYwMi9TTkQwMDAwODIzMDUubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('65249','Y');"
+  ],
+  [
+    "울며불며",
+    "javascript:checkSubmit('69340','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMTAwMC8zMjU2MDMvU05EMDAwMzM0OTU3Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('69340','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

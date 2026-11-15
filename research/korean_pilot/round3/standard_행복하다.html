@@ -1,0 +1,1452 @@
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<title>국립국어원 표준국어대사전</title>
+    <!-- HEADER -->
+        <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densityDpi=medium-dpi" />
+<meta name="format-detection" content="telephone=no, address=no, email=no" />
+<meta name="robots" content="noindex, follow">
+<meta name="copyright" content="본 누리집의 저작권은 국립국어원에 있습니다." />
+<meta name="keywords" content="표준국어대사전" />
+<meta name="description" content="[국립국어원 표준국어대사전]" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<link rel="stylesheet" type="text/css"  href="/css/jquery.mCustomScrollbar.css" />
+<link rel="stylesheet" type="text/css"  href="/css/style.css?version=20260722" />
+<link rel="stylesheet" type="text/css"  href="/css/sliderkit-core.css"  media="screen" />
+<link rel="stylesheet" type="text/css"  href="/css/sliderkit-demos.css" media="screen" />
+<link rel="stylesheet" type="text/css"  href="/css/print/print-preview.css" />
+<link rel="stylesheet" type="text/css"  href="/js/jquery-ui.css" />
+<link rel="stylesheet" type="text/css"  href="/js/jquery.remodal.css" />
+<link rel="stylesheet" type="text/css"  href="/css/video-js.css" />
+<link rel="shortcut icon" href="/images/common/favicon.ico" type="image/x-icon" />
+
+<script type="text/javascript" src="/js/jquery.min.js" ></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js" ></script>
+<script type="text/javascript" src="/js/common.js" ></script>
+<script type="text/javascript" src="/js/datepicker_kr.js" ></script>
+<script type="text/javascript" src="/js/jquery.remodal.js" ></script>
+<script type="text/javascript" src="/js/jquery.sliderkit.1.9.2.pack.js" ></script>
+<script type="text/javascript" src="/js/jquery.mCustomScrollbar.concat.min.js" ></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js" ></script>
+<script type="text/javascript" src="/js/jsrender.js" ></script>
+<script type="text/javascript" src="/js/swf_upload.js"></script>
+<script type="text/javascript" src="/js/autoComplete/DQCommon.js"></script>
+<script type="text/javascript" src="/js/print/jquery.print-preview.js"></script>
+<script type="text/javascript" src="/js/jquery.popupoverlay.js"></script>
+<script type="text/javascript" src="/js/eqneditor/clipboard.js"></script>
+<script type="text/javascript" src="/js/eqneditor/equed.js"></script>
+<script type="text/javascript" src="/js/player.js"></script>
+<script type="text/javascript" src="/js/md5/md5.js"></script>
+<script type="text/javascript" src="/js/video.js"></script>
+<script type="text/javascript" src="/js/FusionCharts.js"></script>
+<script type="text/javascript" src="/js/soundmanager2.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/shave.js"></script>
+<script type="text/javascript" src="/js/dropzone.js"></script>
+<script type="text/javascript" src="/js/rsa/rsa.js"></script>
+<script type="text/javascript" src="/js/rsa/jsbn.js"></script>
+<script type="text/javascript" src="/js/rsa/prng4.js"></script>
+<script type="text/javascript" src="/js/rsa/rng.js"></script>
+
+    <!-- BODY -->
+    <body class="overflow_none">
+    	<div id="skipnavi">
+			<ul>
+				<li><a href="#search">검색 바로가기</a></li>
+				<li><a href="#content">본문 바로가기</a></li>
+			</ul>
+		</div>
+		<hr />
+        <div id="wrap_content">
+			<!-- 공식 전자정부 누리집 표시 -->
+<div class="top_line_bnr">
+	<div class="top_link_wrap">
+		<div class="inner">
+			<div class="top_flag_wrap">
+				<p class="top_flag_in">
+					<img src="/images/common/header_flag.png" alt="태극기">이 누리집은 대한민국 공식 전자정부 누리집입니다.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<!--// 공식 전자정부 누리집 표시 -->        
+			<script type="text/javascript" src="/js/autoComplete/index_dqAutoCompleteCommon.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$("form[name=mainForm]").find("input[name=searchKeyword]").keypress(function(e){
+		if(e.keyCode === 13){
+			if($.trim($(this).val()) != ""){
+				e.preventDefault();
+				
+				var searchKeyword = $.trim($("form[name=mainForm]").find("input[name=searchKeyword]").val());
+				
+				if( ($.cookie("std_cookie_search") == null) || ($.cookie("std_cookie_search") == "list") || searchKeyword.indexOf("*") > -1 || searchKeyword.indexOf("?") > -1 || searchKeyword.indexOf("-") > -1 || searchKeyword.indexOf("^") > -1){
+					$("form[name=mainForm]").attr("action", "/search/searchResult.do");
+			    	$("form[name=mainForm]").submit();
+				}else{
+					$("form[name=mainForm]").attr("action", "/search/searchView.do");
+			    	$("form[name=mainForm]").submit();
+				}
+			}else{
+				alert("검색어를 입력해 주시기 바랍니다.");
+				$("input[name=searchKeyword]").val("");
+				$("input[name=searchKeyword]").focus();
+				return false;
+			}
+		}
+	});
+	
+	$("a.minus").on({
+		click : function(){
+			zoomOut();
+		}
+	});
+	
+	$("a.plus").on({
+		click : function(){
+			zoomIn();
+		}
+	});
+	
+	$("a.word").on({
+		click : function(){
+			$('.myword_pop').show();
+			$('.myword_pop').css("opacity", 100);
+			$('.myword_pop').css("visibility", "visible");
+		}
+	});
+	
+	//인쇄하기
+	$("a.print").printPreview();
+	
+	//일러두기
+	$("a.clip").on({
+		click : function(){
+			fnWindowOpen("/help/popup/entry.do", "popup_entry", 1000, 600, "yes");	
+		}
+	});
+	
+	$(".remodal-close").on({
+		click : function(){
+			$(this).parent().popup('hide');	
+		}
+	});
+	
+	if(location.pathname.indexOf("searchView.do") <= -1){
+		fnMyWordListJob("", "");
+	}
+});
+//메인화면
+function fnMoveMain(){
+	document.location.href="/main/main.do";
+}
+
+
+function fnHeaderSearch(){
+	checkSearch();
+	if($.trim($("input[name=searchKeyword]").val()) != ""){
+		var searchKeyword = $.trim($("form[name=mainForm]").find("input[name=searchKeyword]").val());
+		
+		if( ($.cookie("std_cookie_search") == null) || ($.cookie("std_cookie_search") == "list") || searchKeyword.indexOf("*") > -1 || searchKeyword.indexOf("?") > -1 || searchKeyword.indexOf("-") > -1 || searchKeyword.indexOf("^") > -1){
+			$("form[name=mainForm]").attr("action", "/search/searchResult.do");
+	    	$("form[name=mainForm]").submit();
+		}else{
+			$("form[name=mainForm]").attr("action", "/search/searchView.do");
+	    	$("form[name=mainForm]").submit();
+		}
+	}else{
+		alert("검색어를 입력해 주시기 바랍니다.");
+		$("input[name=searchKeyword]").val("");
+		$("input[name=searchKeyword]").focus();	
+	}
+}
+
+//자세히 찾기
+function fnSearchDetailWords(){
+	document.location.href="/search/searchDetailWords.do";
+}
+
+// 화면 크기 조정
+var nowZoom = 100;
+
+//글자크기 확대 축소
+var fSize = 12;
+var lineHeightChg = 16;
+var moz = 1.00;
+
+//화명을 줄인다.
+function zoomOut() {
+	var checkBrowserKind = CheckBrowserKind();
+	if(checkBrowserKind == 'N' || checkBrowserKind == 'F'){
+		moz-= 0.05;
+		if(moz <= 0.7) moz = 0.7;
+		nZooms();
+	}else if(checkBrowserKind == 'O'){
+		moz-= 0.05;
+		if(moz <= 0.7) moz = 0.7;
+		oZooms();
+	}else{
+		nowZoom = nowZoom - 10;
+		if(nowZoom <= 70) nowZoom = 70;
+		zooms();
+	}
+}
+
+//화면을 늘린다.
+function zoomIn() {
+	var checkBrowserKind = CheckBrowserKind();
+	if(checkBrowserKind == 'N' || checkBrowserKind == 'F'){
+		moz+= 0.05;
+		if(moz >= 1.5) moz = 1.5;
+		nZooms();
+	}else if(checkBrowserKind == 'O'){
+		moz+= 0.05;
+		if(moz >= 1.5) moz = 1.5;
+		oZooms();
+	}else{
+		nowZoom = nowZoom + 10;
+		if(nowZoom >= 200) nowZoom = 200;
+		zooms();
+	}
+}
+function zoomReset(){
+	nowZoom = 100; 
+}
+
+function zooms(){
+	$(".accessArea").css("zoom", nowZoom + "%");
+}
+
+function nZooms(){
+	$(".accessArea").css("-moz-transform", "scale("+moz+")");
+	$(".accessArea").css("-moz-transform-origin", "0 0");
+}
+
+function oZooms(){
+	$(".accessArea").css("-o-transform", "scale("+moz+")");
+	$(".accessArea").css("-o-transform-origin", "0 0");
+}
+
+//옛 한글 입력기 팝업
+function fnOpenTopOldHangle() {
+	$("input[name=searchKeyword]").each(function(){
+		$("#focus_name").val($(this).attr("id"));		
+	});
+	
+	fnWindowOpen("/search/popup/oldHangle.do", "popup_oldHangle", 600, 600, "yes");
+}
+
+//로그인
+function fnLoginForm(){
+	document.location.href="/login/loginForm.do";
+}
+
+//회원 가입
+function fnMemberAdd(){
+	document.location.href="/join/accessJoin.do";
+}
+
+//내 정보 관리
+function fnMemberView(){
+	document.location.href = "/mypage/member/memberView.do";
+}
+
+//로그아웃
+function fnLoginOut(){
+	document.location.href = "/login/loginLogout.do";
+}
+
+//내가 살펴본 단어
+function fnMyword(word_no){
+	$("form[name=myWordForm]").find("input[name=word_no]").val(word_no);
+	$("form[name=myWordForm]").attr("action", "/search/searchView.do");
+    $("form[name=myWordForm]").submit();
+}
+
+//내가 살펴본 단어 불러오기
+function fnMyWordListJob(jobType, targetData) {
+    $.ajax( {
+        url : "/search/myWordList.json",
+        type : "POST",
+        data : {jobType:jobType, targetData:targetData},
+        success : function(data) {
+        	var viewWordListStr = "";
+        	
+            if (data.returnData == "Y") {
+            	
+                var viewWordList = data.viewWordList;
+                
+                if(viewWordList != null && viewWordList.length > 0) {
+                	
+                	viewWordListStr += "<ul>";
+                	
+                	for(var i=0;i<viewWordList.length;i++) {
+                		var viewWord = viewWordList[i];
+                		
+                		viewWordListStr += "<li id=\"myword_"+viewWord.word_no+"\">";
+                		
+                		viewWordListStr += "<a href=\"javascript:fnMyword('"+viewWord.word_no+"');\">";
+                		viewWordListStr += viewWord.org_word;
+                		
+                		if(viewWord.sup_no != "0"){
+                			viewWordListStr += "<sup>"+viewWord.sup_no+"</sup></a>";
+                		}
+                		
+                		viewWordListStr += "<a href=\"javascript:fnMyWordListJob('remove','"+viewWord.word_no+"')\" alt=\"삭제\" class=\"btn_del\" /></a>";
+                		viewWordListStr += "</li>";
+                	}
+                	
+                	viewWordListStr += "</ul>";
+                }
+            }
+            
+            $(".mywrap").html(viewWordListStr);
+        },
+        error : function(xhr) {
+            $('#pageMessage').html(xhr.responseText);
+        }
+    });
+}
+
+//단어 추가
+function fnWordBookWordsAddAll(wordNo){
+	if(""){
+		var count = $("li[id^='myword_']").length; 
+		
+		if(count > 0){
+			$("#wordBookWordsAddAll").dialog({
+				title: "단어 추가",
+				width: 300, height: 250, modal: true
+			});
+		}
+	}else{
+		alert("들어가기가 필요합니다.");
+
+		var params= $(".contentData").find("input").serializeArray();
+		
+	    $.each(params , function(i, field) {
+	        params[i].value = $.trim((field.value));
+	    });
+	    
+	    var serializedFormParam = $.param(params);
+		
+		location.href="/login/loginForm.do?userTargetUrl="+location.pathname+"?"+encodeURIComponent(serializedFormParam);
+	}
+}	
+
+//단어장 추가
+function fnWordBookAddAll(){
+	$("#wordBookWordsAddAll").dialog( "close" );
+	
+	$("#wordBookAddAll").dialog({
+		title: "단어장 추가",
+		width: 300, height: 250, modal: true
+	});
+}	
+
+//단어 추가 처리
+function fnWordBookWordsAddAllProc(type){
+	var wordbookSeq = 0;
+	var wordbookName = "";
+	var wordNo = "";
+	
+	$("li[id^='myword_']").each(function(i){
+		if(wordNo == ""){
+			wordNo = $(this).attr("id").replace("myword_",""); 	
+		}else{
+			wordNo += ","+$(this).attr("id").replace("myword_","");
+		}
+	});
+	
+	var checkFlag = false;
+	//기존 단어장에 추가
+	if(type == 1){
+		wordbookSeq = $("select[name=select_wordbook_name_all]").val();
+		
+		checkFlag = true;
+	//신규 단어장에 추가	
+	}else if(type == 2){
+		wordbookName = $("input[name=wordbook_name_all]").val();
+		
+		if($.trim(wordbookName).length <= 0 ){
+			alert("단어장 이름을 입력해 주세요.");
+			$("input[name=wordbook_name_all]").focus();
+		}else{
+			checkFlag = true;
+		}
+	}
+	
+	if(checkFlag){
+		$.ajax({
+			url : "/mypage/memberWordBook/wordBookWordsAddAllData.json",
+			type : "post",
+			dataType : "json",
+			async:false, 
+			data:{"wordbook_seq" : wordbookSeq, "wordbook_name" : wordbookName, "word_no" : wordNo},
+			success : function(data) {
+				if(data.returnData == "Y"){
+					var selectWordBookList = data.selectWordBookList;
+					
+					if(selectWordBookList.length > 0){
+						
+						$("select[name=select_wordbook_name_all] > option").remove();
+						
+						var html = "";
+						
+						for(var i=0; i<selectWordBookList.length; i++){
+							html+="<option value=\""+selectWordBookList[i].wordbook_seq+"\">"+selectWordBookList[i].wordbook_name+"("+selectWordBookList[i].wordbook_words_count+")</option>";
+						}
+						
+						$("select[name=select_wordbook_name_all]").append(html);
+					}
+					
+					if(type == 1){
+						$("#wordBookWordsAddAll").dialog( "close" );	
+					}else if(type == 2){
+						$("#wordBookAddAll").dialog( "close" );
+					}
+					
+				}else if(data.returnData == "D"){
+					alert("이미 단어장에 추가하였습니다.");
+					if(type == 1){
+						$("#wordBookWordsAddAll").dialog( "close" );	
+					}else if(type == 2){
+						$("#wordBookAddAll").dialog( "close" );
+					}
+				}else if(data.returnData == "F"){
+					alert("같은 단어장 이름이 존재합니다.");
+					$("input[name=wordbook_name_all]").focus();
+				}else{
+					alert("오류가 발생하였습니다.");
+					if(type == 1){
+						$("#wordBookWordsAddAll").dialog( "close" );	
+					}else if(type == 2){
+						$("#wordBookAddAll").dialog( "close" );
+					}
+				}
+			},
+			error : function(data) {
+				alert("오류가 발생하였습니다.");
+			}
+		});
+	}
+}
+
+//취소
+function fnDialogClose(id){
+	$("#"+id).dialog( "close" );
+}
+</script>
+<div class="n_wrap">
+	<div class="header" id="search">
+		<form id="command" name="mainForm" action="/search/searchView.do?word_no=368198&amp;searchKeywordTo=3" method="get" autocomplete="off">
+		<input type="hidden" id="focus_name" value="" />
+		<input type="hidden" name="pageSize" value="10"/>
+		<div class="n_search_wrap mt_10">
+			<h2><a href="javascript:fnMoveMain();" class="logo_s" ><img src="/images/common/logo_s_n.png" alt="국립국어원 표준국어대사전" /></a></h2>
+			<fieldset><legend><label for="n_input">통합검색</label></legend>
+				<div class="n_search_area">
+					<div class="n_search_input"><input type="text" title="검색어 입력" name="searchKeyword" id="n_input" class="n_input" style="ime-mode:active;" onkeypress="return handleEnter(1,event);" onmousedown="dq_setTextbox('1',event);" onkeydown="dq_setTextbox('1',event);" autocomplete="off"/><a href="javascript:fnHeaderSearch();" class="n_btn_search">찾기</a></div>
+					<a href="javascript:fnSearchDetailWords();" class="n_btn_search_detail_c">자세히 찾기</a>
+					<script type="text/javascript" src="/js/autoComplete/index_dqAutoComplete.js"></script>
+					<div id="autoCompleteBox" class="n_auto_complete" onmouseover="dq_setMouseon();" onmouseout="dq_setMouseoff();" style="display:none" ></div>
+				</div>
+			</fieldset>
+		</div>
+		</form>
+		<ul class="login_w2">		
+			
+			
+			<li class="line"><a href="javascript:fnLoginForm();" class="small_btn">들어가기</a></li>
+			<li><a href="javascript:fnMemberAdd();" class="small_btn">회원 가입</a></li>
+			
+		</ul>
+	</div>
+</div>
+<div class="myword_pop" style="left: 705px; top: -38px; display: none;z-index:130;">
+	<div class="header_modal" style="height: 27px;font-size:14px;line-height:28px;">
+		<p style="font-size:14px;">
+			내가 살펴본 단어
+			<span class="right">
+				<a href="/mypage/memberWordBook/wordBookList.do">내 단어장</a>
+			</span>
+		</p>
+	</div>
+	<div class="mywrap" style="width:91%"></div>
+	<div style="margin:5px 5px 5px 0;text-align: right;">
+		<a href="javascript:fnWordBookWordsAddAll();" class="n_btn bn_gray ssmall">
+			<img alt="단어장에 추가" src="/images/common/icon_addvoca.png">
+			단어장에 추가
+		</a>
+		<a href="javascript:fnMyWordListJob('removeAll','');" class="n_btn bn_gray ssmall">
+			<img alt="전체 삭제" src="/images/common/icon_delall.png">
+			전체 삭제
+		</a>
+	</div>
+	<a class="remodal-close" href="#" style="top:5px;"></a>
+</div>
+<div id="wordBookWordsAddAll" style="display:none;z-index:150;">
+	<p class="p_title2">단어장을 선택해 주세요.</p>
+	<select name="select_wordbook_name_all" class="w100p mt_10">
+		
+	</select>
+	<br/>
+	<a href="javascript:fnWordBookAddAll();" style="float:right;">+새 단어장 추가</a>
+	<br/>
+	<br/>
+	<div class="button_c">
+		<a href="javascript:fnWordBookWordsAddAllProc('1');" class="btn_word_ss mr_5">추가</a>
+		<a href="javascript:fnDialogClose('wordBookWordsAddAll');" class="btn_cancel_ss">취소</a>               
+	</div>
+</div>
+<div id="wordBookAddAll" style="display:none;z-index:150;">
+	<p class="p_title2" style="font-size:15px;">
+		새로운 단어장에 단어를 등록합니다.
+		<br/>
+		단어장 이름을 입력해 주세요.
+	</p>
+	<input type="text" name="wordbook_name_all" class="textType w95p" value=""/>
+	<br/>
+	<br/>
+	<div class="button_c">
+		<a href="javascript:fnWordBookWordsAddAllProc('2');" class="btn_word_ss mr_5">추가</a>
+		<a href="javascript:fnDialogClose('wordBookAddAll');" class="btn_cancel_ss">취소</a>               
+	</div>
+</div>
+<form name="myWordForm" method="post">
+<input type="hidden" name="word_no" />
+<input type="hidden" name="searchKeywordTo" value="3"/>
+</form>
+
+			
+
+<div class="r_setting none full">
+	<a href="#" class="plus">확대하기</a>
+	<a href="#" class="minus">축소하기</a>
+	<a href="#" class="print">인쇄하기</a>
+	<a href="/mypage/memberWordBook/wordBookList.do" class="wordbook">내 단어장</a>
+	<a href="#" class="word">내가 살펴본 단어</a>
+	<a href="#" class="clip">일러두기</a>
+	<a href="/help/helpList.do" class="help">도움말</a>
+</div>
+<div class="content_view_wrap" id="content">
+	<!--left area:start-->
+    <div class="view_left" >
+        <div class="h100p">
+			<div class="view_left_top">
+        		<span id="view_left_top_id">인접 어휘</span><a href="javascript:fnCurrentWord(0);" class="btn_sort_n">현재 위치</a>
+			</div>
+			<div id="wordOrder" class="view_left_scroll">
+				<ul class="word_list">
+					<li id="scroll_368198">
+						<a class="view_tooltip ml_10" href="javascript:fnContentView('368198','행복-하다');" word="368198">행복-하다</a>
+					</li>
+				</ul>
+			</div>
+			<div class="pass_pop">
+				<span class="tit_pass"></span>
+				<span class="tit_epass"></span>
+				<p></p>	
+			</div>
+	    	<div class="same_pop">
+				<span class="tit_pass"></span>
+				<span class="tit_epass"></span>
+				<p></p>	
+			</div>
+		</div>
+	</div>
+    <!--//left area:end-->
+    <div id="sh_btn"><a href="#" class="sh on" title="열고닫기"></a></div> 
+	<!--right area:start-->
+    <div class="contentData content full">
+    	<form id="searchVO" name="searchViewForm" action="/search/searchView.do?word_no=368198&amp;searchKeywordTo=3" method="get">
+    	<input id="word_no" name="word_no" type="hidden" value="368198"/>
+    	<input id="sort" name="sort" type="hidden" value="asc"/>
+    	<input type="hidden" name="searchKeywordTo" value="3" />
+    	<input type="hidden" name="searchKeyword" value="행복-하다"/>
+    	<input type="hidden" name="fileType" />
+		<input type="hidden" name="fileField"/>
+		<input type="hidden" name="fileUseType"/>
+		<input type="hidden" name="fileUseContent"/>
+		<div class="cont accessArea">
+			
+		</div>
+        <!--어휘 검색결과:end-->
+        </form>
+        <form name="viewImageForm" method="post">
+    		<input type="hidden" name="file_kind"/>
+    		<input type="hidden" name="file_no"/>
+    	</form>
+	</div>
+</div>
+
+<div id="sound_element" style="width: 0px; height: 0px;"></div>
+
+<div id="wordBookWordsAdd" style="display:none;">
+	<p class="p_title2">단어장을 선택해 주세요.</p>
+	<select name="select_wordbook_name" class="w100p mt_10">
+		
+	</select>
+	<br/>
+	<a href="javascript:fnWordBookAdd();" style="float:right;">+새 단어장 추가</a>
+	<br/>
+	<br/>
+	<div class="button_c">
+		<a href="javascript:fnWordBookWordsAddProc('1');" class="btn_word_ss mr_5">추가</a>
+		<a href="javascript:fnDialogClose('wordBookWordsAdd');" class="btn_cancel_ss">취소</a>               
+	</div>
+</div>
+<div id="wordBookAdd" style="display:none;">
+	<p class="p_title2" style="font-size:15px;">
+		새로운 단어장에 단어를 등록합니다.
+		<br/>
+		단어장 이름을 입력해 주세요.
+	</p>
+	<input type="text" name="wordbook_name" class="textType w95p" value=""/>
+	<br/>
+	<br/>
+	<div class="button_c">
+		<a href="javascript:fnWordBookWordsAddProc('2');" class="btn_word_ss mr_5">추가</a>
+		<a href="javascript:fnDialogClose('wordBookAdd');" class="btn_cancel_ss">취소</a>               
+	</div>
+</div>
+<form name="editWordForm">
+	<input type="hidden" name="searchTarget" value="org_word"/>
+	<input type="hidden" name="searchCondition" value="same"/>
+	<input type="hidden" name="searchKeyword" value="행복-하다"/>
+</form>
+<div id="downloadType1" style="display:none;">
+	<table class="tbl_pop no_br" style="width:90%; padding:0;" summary="선택 항목">
+		<caption>선택 항목</caption>
+		<tbody>
+			<tr class="no_br">
+				<td class="no_bd" colspan="4">
+	            	<input name="searchDownload_all" id="searchDownload_all"  onclick="javascript:fnCheckAll('searchDownload');" type="checkbox" checked="checked" value="-1"><label for="searchDownload_all"> 전체</label>
+	            </td>
+	        </tr>
+	        <tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_1" checked="checked" value="1"><label for="select_1">구성 단위</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_2" checked="checked" value="2"><label for="select_2">고유어 여부</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_3" checked="checked" value="3"><label for="select_3">원어</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_4" checked="checked" value="4"><label for="select_4">어원</label></td>									            
+	        </tr>
+			<tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_5" checked="checked" value="5"><label for="select_5">주표제어</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_6" checked="checked" value="6"><label for="select_6">부표제어</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_7" checked="checked" value="7"><label for="select_7">발음</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_8" checked="checked" value="8"><label for="select_8">활용</label></td>									            
+	        </tr>
+	        <tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_9"  checked="checked" value="9"><label for="select_9">검색용 이형태</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_10" checked="checked" value="10"><label for="select_10">공통 문형</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_11" checked="checked" value="11"><label for="select_11">의미 문형</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_12" checked="checked" value="12"><label for="select_12">공통 문법</label></td>									            
+	        </tr>
+	        <tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_13" checked="checked" value="13"><label for="select_13">의미 문법</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_14" checked="checked" value="14"><label for="select_14">범주</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_15" checked="checked" value="15"><label for="select_15">전문 분야</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_16" checked="checked" value="16"><label for="select_16">속담</label></td>
+	        </tr>
+	        <tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_17" checked="checked" value="17"><label for="select_17">관용구</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_18" checked="checked" value="18"><label for="select_18">대역어</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_19" checked="checked" value="19"><label for="select_19">생물 분류군 정보</label></td>
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_20" checked="checked" value="20"><label for="select_20">멀티미디어</label></td>
+	        </tr>
+	        <tr class="no_br">
+	          	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_21" checked="checked" value="21"><label for="select_21">관련 어휘</label></td>
+	           	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_22" checked="checked" value="22"><label for="select_22">한 걸음 더</label></td>
+	           	<td class="no_bd">&nbsp;</td>
+	           	<td class="no_bd">&nbsp;</td>
+	        </tr>	
+		</tbody>
+	</table>
+</div>
+<div id="downloadType2" style="display:none;">
+	<table class="tbl_pop no_br" style="width:90%; padding:0;" summary="선택 항목">
+		<caption>선택 항목</caption>
+		<tbody>
+			<tr class="no_br">
+				<td class="no_bd" colspan="4">
+              		<input name="searchDownload_all" id="searchDownload_all"  onclick="javascript:fnCheckAll('searchDownload');" type="checkbox" checked="checked" value="-1"><label for="searchDownload_all"> 전체</label>
+              	</td>
+          	</tr>
+          	<tr class="no_br">
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_1" checked="checked" value="1"><label for="select_1">원어</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_2" checked="checked" value="2"><label for="select_2">어원</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_3" checked="checked" value="3"><label for="select_3">주표제어</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_4" checked="checked" value="4"><label for="select_4">부표제어</label></td>									            
+          	</tr>
+				       	<tr class="no_br">
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_5" checked="checked" value="5"><label for="select_5">발음</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_6" checked="checked" value="6"><label for="select_6">활용</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_7" checked="checked" value="7"><label for="select_7">공통 문형</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_8" checked="checked" value="8"><label for="select_8">의미 문형</label></td>									            
+          	</tr>
+          	<tr class="no_br">
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_9"  checked="checked" value="9"><label  for="select_9">공통 문법</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_10" checked="checked" value="10"><label for="select_10">의미 문법</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_11" checked="checked" value="11"><label for="select_11">범주</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_12" checked="checked" value="12"><label for="select_12">전문 분야</label></td>									            
+          	</tr>
+          	<tr class="no_br">
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_13" checked="checked" value="13"><label for="select_13">속담</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_14" checked="checked" value="14"><label for="select_14">관용구</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_15" checked="checked" value="15"><label for="select_15">멀티미디어</label></td>
+            	<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_16" checked="checked" value="16"><label for="select_16">관련 어휘</label></td>
+          	</tr>
+			<tr class="no_br">
+				<td class="no_bd"><input name="searchDownload" type="checkbox"  onclick="javascript:fnCheckCode('searchDownload');"  id="select_17" checked="checked" value="17"><label for="select_17">한 걸음 더</label></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div id="downloadType3" style="display:none;">
+	<table class="tbl_pop no_br" style="width:90%; padding:0;" summary="선택 항목">
+		<caption>선택 항목</caption>
+		<tbody>
+			<tr class="no_br">
+				<td class="no_bd" colspan="4">
+              		어휘, 구성단위, 고유어 여부, 원어, 어원, 주표제어, 부표제어, 발음, 활용, 검색용 이형태, 품사, 공통 문형, 의미 문형, 공통 문법, 의미 문법, 뜻풀이, 용례, 범주, 전문 분야, 속담, 관용구, 대역어, 생물 분류군 정보, 멀티미디어, 관련 어휘, 한 걸음 더
+              	</td>
+          	</tr>
+		</tbody>
+	</table>
+</div>
+<script type="text/javascript">
+	var beforeIndex = 0;							//동형어 번호
+	var beforeWordNo = 0;							//타이틀 어휘 이전 표제어 번호
+	var afterWordNo = 0;							//타이틀 어휘 이후 표제어 번호
+    var noMoreBefore = false;                        //더 이상 이전 목록이 없는지 여부
+    var noMoreAfter = false;                        //더 이상 다음 목록이 없는지 여부
+	var default_word_no = "368198";	//타이틀 어휘 초기값 설정
+	var default_org_word = "";
+	var subWordNo = "0";	//부표제어 번호
+	
+	$(document).ready(function(){
+		fnTitleWords();	
+		
+		$('#supNoList').popup();
+		
+		//한자 툴팁
+		$('.chi_info_list').mouseover(function(e){
+			var wordNo = $(this).attr("data-word-no");
+			$("#chiTooltipLayer"+wordNo).show();	
+		});
+		
+		$('.chi_info_list').mouseout(function(){
+			var wordNo = $(this).attr("data-word-no");
+			$("#chiTooltipLayer"+wordNo).hide();
+		});
+		
+		//한자 툴팁
+		$(document).on("mouseover", ".chi_info_list", function(event){
+			var wordNo = $(this).attr("data-word-no");
+			$("#chiTooltipLayer"+wordNo).show();
+			
+		});
+
+		$(document).on("mouseout", ".chi_info_list", function(event){
+			var wordNo = $(this).attr("data-word-no");
+			$("#chiTooltipLayer"+wordNo).hide();
+			
+		});	
+		
+		//인접어휘 열기/닫기 쿠키 설정값		
+		if($.cookie('std_cookie_view') == null || $.cookie('std_cookie_view') == "show"){
+			$('.sh').removeClass('on');
+			$('.left').removeClass('hide');
+			$('.left_in').removeClass('on');
+			$('.content').removeClass('full');
+			$('.cont_result').removeClass('full');
+			$('.r_setting').removeClass('full');
+		}else{
+			$('.sh').addClass('on');
+			$('.left').addClass('hide');
+			$('.left_in').addClass('on');
+			$('.content').addClass('full');
+			$('.cont_result').addClass('full');
+			$('.r_setting').addClass('full');			
+		}
+		
+		fnMoveShImg();
+		
+		$(window).resize(function() {
+			fnMoveShImg();
+		});
+		
+		$(window).load(function(){
+			
+			fnContentView(default_word_no, default_org_word);
+			
+			$("#wordOrder").mCustomScrollbar({
+				callbacks:{
+					onInit: function(){
+						//현재 위치(초기화가 완전히 끝난 뒤 실행 - onInit 내부에서 즉시 scrollTo를 재호출하면 초기화가 깨짐)
+						setTimeout(function(){
+							fnCurrentWord(default_word_no);
+						}, 0);
+					},
+					//이전
+					onTotalScrollBack:function(){
+                        if(!noMoreBefore){
+                            fnSelectOrgWordBefore(beforeWordNo);
+                        }
+					},
+					//이후
+					onTotalScroll:function(){
+                        if(!noMoreAfter){
+                            fnSelectOrgWordAfter(afterWordNo);
+                        }
+					},
+				}
+			});
+			
+			$("input[name=searchKeyword]").val("행복하다");
+			
+			$("input[name=searchKeyword]").bind("focus", function(event) {
+		    	$("input[name=searchKeyword]").select();
+		    });
+
+			$("input[name=searchKeyword]").focus();
+		});
+		
+		if(($.cookie("std_cookie_search") == null) || ($.cookie("std_cookie_search") == "list")){
+			$(".btn_search_list").addClass("on");
+			$(".btn_search_view").addClass("off");
+		}else{
+			$(".btn_search_list").addClass("off");
+			$(".btn_search_view").addClass("on");
+		}
+		
+		$("title").text("사전 - 내용 보기 | 국립국어원 표준국어대사전");	
+	});
+	
+	function fnMoveShImg() {
+        var offset = $("#wordOrder").offset();
+        var height = $("#wordOrder").height();
+        $("#sh_btn").offset({top: 0});
+        
+        var moveVar = (height-350)/2; 
+        
+        if(moveVar > 0) {
+        	
+        } else {
+        	moveVar = 0;
+        }
+        
+        $("#sh_btn").offset({top: moveVar});
+        $("#mCSB_1").css("heigth", moveVar+"px");
+    }
+	
+	//현재 위치
+	function fnCurrentWord(word_no){
+		if(word_no > 0) {
+			$("#scroll_"+default_word_no).removeClass("on");
+			$("#scroll_"+default_word_no+" > a").removeClass("selected");
+			$("#scroll_"+word_no+" > a").addClass("selected");
+			$("#scroll_"+word_no).addClass("on");
+			default_word_no = word_no;
+		}
+
+		var $wordOrder = $("#wordOrder");
+		var centerObj = $("#scroll_"+default_word_no);
+		var chkInit = $("#mCSB_1").height();
+
+		if(chkInit != null && chkInit > 0 && centerObj.length > 0) {
+			var containerHt = $wordOrder.height();
+			var targetTop = centerObj.position().top;
+			var moveVal = targetTop - (containerHt / 2) + (centerObj.height() / 2);
+			var finalMovePos = Math.max(0, moveVal);
+			$wordOrder.mCustomScrollbar("scrollTo", finalMovePos, {
+				scrollInertia: 300,
+				scrollEasing: "easeOut",
+				callbacks: false
+			});
+		}
+	}
+	
+	//동형어 이동.
+	function fnScrollMove(index, word_no) {
+		if($("body").css("overflow-y") == "hidden") {
+			fnCurrentWord(word_no);
+			$(".content").stop().animate({scrollTop : 196}, 0);
+			var top_add_val = 0;
+			
+			if(index > 1) {
+				top_add_val = 50;
+			}
+			
+			var currentPosition = $("#word_"+word_no).offset().top + top_add_val;
+			$(".content").stop().animate({scrollTop : currentPosition}, 1);
+		} else {
+			fnCurrentWord(word_no);
+			$("html, body").animate({scrollTop : 196}, 0);
+			var currentPosition = $("#word_"+word_no).offset().top-10;
+			$("html, body").animate({scrollTop : currentPosition}, 1);
+		}
+	}
+	
+	function fnScrollMoveModal(index,word_no){
+		if($("body").css("overflow-y") == "hidden"){
+			fnCurrentWord(word_no);
+			$(".content").stop().animate({scrollTop : 196}, 0);
+			var currentPosition = $("#word_"+word_no).offset().top+50;
+			$(".content").stop().animate({scrollTop : currentPosition}, 1);
+			fnPopupClose("supNoList");
+		}else{
+			fnCurrentWord(word_no);
+			$("html, body").animate({scrollTop : 196}, 0);
+			var currentPosition = $("#word_"+word_no).offset().top-10;
+			$("html, body").animate({scrollTop : currentPosition}, 1);
+			fnPopupClose("supNoList");
+		}
+	}
+	//동형어 모달창 
+	function fnSupNoList(index){
+		$("#supNo"+beforeIndex).removeClass("sel");	
+		beforeIndex = index;
+		$("#supNo"+index).addClass("sel");
+		$('#supNoList').popup('show');
+	}
+	
+	//용례 더보기/닫기
+	function fnExampleMoreInfo(sense_no){
+		if($("#senseExampleMore"+sense_no).is('.on')){
+			$("#senseExampleMore"+sense_no).text('더 보기');
+			$("#senseExampleMore"+sense_no).removeClass('on');
+			$('#senseExample'+sense_no+ "> li").each(function(i){
+				if(i > 2){
+					$(this).css("display","none");
+				}	
+			});
+		}else{
+			$("#senseExampleMore"+sense_no).text('닫기');
+			$("#senseExampleMore"+sense_no).addClass('on');
+			$("#senseExampleMore"+sense_no).css('margin-right', 0);
+			$('#senseExample'+sense_no+ "> li").each(function(i){
+				if(i > 2){
+					$(this).css("display","block");
+				}	
+			});
+		}
+	}
+	
+	//타이틀 어휘(이전 50개)
+	function fnSelectOrgWordBefore(target_word_no){
+        var topLiId = $(".word_list li").first().attr("id");
+		$.ajax({
+			url : "/search/selectOrgWordBefore.json",
+			type : "post",
+			dataType : "json",
+			async:false, 
+			data:{word_no: target_word_no},
+			success : function(data) {
+		        if(data.resultListBefore !== undefined && data.resultListBefore.length > 0){						
+					for(var i=0; i<data.resultListBefore.length; i++){
+						var word_no  = data.resultListBefore[i].word_no;
+						var org_word = data.resultListBefore[i].org_word;
+						var sup_no = data.resultListBefore[i].sup_no;
+						var subword_check = data.resultListBefore[i].subword_check;
+						var subword_cl = "";
+						
+						if(subword_check == "Y") {
+							subword_cl = "ml_10";
+						}
+						
+						if(sup_no == "0"){
+							sup_no = "";
+						}
+						
+						if(i==data.resultListBefore.length-1){
+							beforeWordNo = word_no;
+						}
+						
+						$(".word_list").prepend("<li id=\"scroll_"+word_no+"\"><a class=\"view_tooltip " + subword_cl + "\" word=\""+word_no+"\" href=\"javascript:fnContentView(\'"+word_no+"\','"+org_word+"');\"' >"+org_word+"<SUP>"+sup_no+"</SUP></a></li>");
+					}
+
+                    //update() 호출 전에 컨테이너 top을 직접 계산해서 반영 - 애니메이션(scrollTo) 경합 없이 즉시 위치 유지
+                    var $mCSBContainer = $("#wordOrder .mCSB_container");
+                    var $topLi = topLiId ? $("#"+topLiId) : $();
+
+                    if($topLi.length === 1 && $mCSBContainer.length > 0){
+                        var newTop = -Math.round($topLi.position().top);
+                        $mCSBContainer.css("top", newTop + "px");
+                    }
+
+                    $("#wordOrder").mCustomScrollbar("update");
+                }else{
+                    noMoreBefore = true;					
+				}
+			},
+			error : function(data) {
+				alert("에러가 발생하였습니다.");
+			}
+		});
+	}
+
+	//타이틀 어휘(이후 50개)
+	function fnSelectOrgWordAfter(target_word_no){
+		$.ajax({
+			url : "/search/selectOrgWordAfter.json",
+			type : "post",
+			dataType : "json",
+			async:false, 
+			data:{word_no: target_word_no},
+			success : function(data) {
+	            if(data.resultListAfter !== undefined && data.resultListAfter.length > 0){
+					for(var i=0; i<data.resultListAfter.length; i++){
+						var word_no  = data.resultListAfter[i].word_no;
+						var org_word = data.resultListAfter[i].org_word;
+						var sup_no = data.resultListAfter[i].sup_no;
+						var subword_check = data.resultListAfter[i].subword_check;
+						var subword_cl = "";
+						
+						if(subword_check == "Y") {
+							subword_cl = "ml_10";
+						}
+						
+						if(sup_no == "0"){
+							sup_no = "";
+						}
+						
+						if(i==data.resultListAfter.length-1){
+							afterWordNo = word_no;
+						}
+						
+						$(".word_list").append("<li id=\"scroll_"+word_no+"\"><a class=\"view_tooltip " + subword_cl + "\" word=\""+word_no+"\" href=\"javascript:fnContentView(\'"+word_no+"\','"+org_word+"');\"' >"+org_word+"<SUP>"+sup_no+"</SUP></a></li>");
+					}
+
+                    $("#wordOrder").mCustomScrollbar("update");
+                }else{
+                    noMoreAfter = true;
+				}
+			},
+			error : function(data) {
+				alert("에러가 발생하였습니다.");
+			}
+		});
+	}
+	
+	
+	
+	//보기
+	function fnSearchView(word_no){
+		$("input[name=word_no]").val(word_no);
+		$("form[name=searchViewForm]").attr("action", "/search/searchView.do");
+	    $("form[name=searchViewForm]").submit();
+	}
+	
+	//정순
+	function fnTitleWords(){
+		fnSelectOrgWordBefore(default_word_no);
+		fnSelectOrgWordAfter(default_word_no);
+		
+		$(".word_list").css("text-align","left");
+	}
+	
+	function fnMultiMediaView(file_no, file_kind){
+		fnWindowOpen("", "popup_multimediaView", 800, 730, "yes");
+		$("input[name=file_no]").val(file_no);
+		$("input[name=file_kind]").val(file_kind);
+	    $("form[name=viewImageForm]").attr("target", "popup_multimediaView");
+	    $("form[name=viewImageForm]").attr("action", "/search/popup/selectFileResults.do");
+	    $("form[name=viewImageForm]").submit(); 
+	}
+	
+	//레이어 창 닫기
+	function fnPopupClose(id){
+		$('#'+id).popup('hide');	
+	}
+	
+	//어휘 연결(1. sense/word 구분, 2. word_no/sense_no)
+	function fnWordsLink(type, key_no, sp_seq, ptrn_seq){
+		var sense_no = 0;
+		
+		if(type == "sense"){
+			sense_no = key_no;
+		}
+		
+		$.ajax({
+			url : "/search/wordLink.json",
+			type : "post",
+			dataType : "json",
+			data :{"compilationType" : type, "word_no" : key_no, "sense_no" : key_no, "sp_seq" : sp_seq, "sent_ptrn_seq" : ptrn_seq},
+			success : function(data) {
+				if(data.wordsDataVO){
+				    var params = "word_no="+data.wordsDataVO.word_no+"&hist_seq="+data.wordsDataVO.hist_seq+"&sense_no="+sense_no+"&sp_seq="+sp_seq+"&sent_ptrn_seq="+ptrn_seq;
+				    
+				    fnWindowOpen("/search/popup/wordLink.do?"+params, "popup_wordLink", 950, 750, "yes");
+				}else{
+					alert("오류가 발생하였습니다.");
+				}
+			},
+			error : function(data) {
+				alert("에러가 발생하였습니다.");
+			}
+		});
+	}
+	
+	//단어 추가
+	function fnWordBookWordsAdd(wordNo){
+		
+		$("input[name=word_no]").val(wordNo);
+		
+		$("#wordBookWordsAdd").dialog({
+			title: "단어 추가",
+			width: 300, height: 250, modal: true
+		});
+	}	
+	
+	//단어장 추가
+	function fnWordBookAdd(){
+		
+		if("0" < 10){
+		
+			$("#wordBookWordsAdd").dialog( "close" );
+			
+			$("#wordBookAdd").dialog({
+				title: "단어장 추가",
+				width: 300, height: 250, modal: true
+			});
+		}else{
+			alert("단어장은 최대 10개까지만 생성이 가능합니다.");
+		}
+	}	
+		
+	//단어 추가 처리
+	function fnWordBookWordsAddProc(type){
+		var wordbookSeq = 0;
+		var wordbookName = "";
+		var wordNo = $("input[name=word_no]").val();
+		
+		var checkFlag = false;
+		
+		//기존 단어장에 추가
+		if(type == 1){
+			wordbookSeq = $("select[name=select_wordbook_name]").val();
+			
+			checkFlag = true;
+		//신규 단어장에 추가	
+		}else if(type == 2){
+			wordbookName = $("input[name=wordbook_name]").val();
+			
+			if($.trim(wordbookName).length <= 0 ){
+				alert("단어장 이름을 입력해 주세요.");
+	        	$("#wordBookAdd_name").focus();
+			}else{
+				checkFlag = true;
+			}
+		}
+		
+		if(checkFlag){
+			$.ajax({
+				url : "/mypage/memberWordBook/wordBookWordsAdd.json",
+				type : "post",
+				dataType : "json",
+				async:false, 
+				data:{"wordbook_seq" : wordbookSeq, "wordbook_name" : wordbookName, "word_no" : wordNo},
+				success : function(data) {
+					if(data.returnData == "Y"){
+						fnSearchView(wordNo);
+					}else if(data.returnData == "D"){
+						alert("이미 단어장에 추가하였습니다.");
+						if(type == 1){
+							$("#wordBookWordsAdd").dialog( "close" );	
+						}else if(type == 2){
+							$("#wordBookAdd").dialog( "close" );
+						}
+					}else if(data.returnData == "F"){
+						alert("같은 단어장 이름이 존재합니다.");
+						$("#wordBookAdd_name").focus();
+					}else{
+						alert("오류가 발생하였습니다.");
+						if(type == 1){
+							$("#wordBookWordsAdd").dialog( "close" );	
+						}else if(type == 2){
+							$("#wordBookAdd").dialog( "close" );
+						}
+					}
+				},
+				error : function(data) {
+					alert("오류가 발생하였습니다.");
+				}
+			});
+		}
+	}
+
+	//검색 방식 쿠키 저장
+	function fnCookieSave(type){
+		$.cookie('std_cookie_search', type, {path : '/'});
+		fnHeaderSearch();
+	}
+
+	// 정규표현식을 사용하여 특수문자와 띄어쓰기를 제거
+	function removeSpecialCharacters(orgWord) {
+		return orgWord.replace(/[^\wㄱ-ㆎ가-힣-]/g, '');
+	}	
+	
+
+	function fnContentView(wordNo, orgWord){
+		// 정규표현식을 사용하여 특수문자와 띄어쓰기를 제거
+		orgWord = removeSpecialCharacters(orgWord);
+
+		//내가 살펴본 단어
+		fnMyWordListJob("add", wordNo);
+		
+		var checkData = "N";
+		var url = "";
+		
+		$(".same_numb").eq(0).find("a").each(function(){
+			if($(this).attr("word") == wordNo){
+				checkData = "Y";
+			}
+		});
+		
+		var list_type = $.cookie("std_cookie_search");
+		
+		if(list_type == null || list_type == "list") {
+			url = "/search/contentViewOne.do";
+			
+			$("input[name=word_no]").val(wordNo);
+		} else {
+			url = "/search/contentView.do";
+		}
+		
+		if(checkData == "N"){
+			$.ajax({
+				url : url,
+				type : "post",
+				dataType : "html",
+				async:false, 
+				data:{word_no: wordNo},
+				success : function(data) {
+					$(".cont").html(data);
+					
+					if(list_type == "list") {
+						$("#btn_search_list").addClass("on");
+						$("#btn_search_list").removeClass("off");
+						$("#btn_search_view").addClass("off");
+						$("#btn_search_view").removeClass("on");
+					} else {
+						$("#btn_search_view").addClass("on");
+						$("#btn_search_view").removeClass("off");
+						$("#btn_search_list").addClass("off");
+						$("#btn_search_list").removeClass("on");
+					}
+					
+					$("input[name=searchKeyword]").val(orgWord);
+				},
+				error : function(data) {
+					alert("에러가 발생하였습니다.");
+				}
+			});
+		}
+		
+		//갤러리
+		var findSliderkitCount = $('body').find('.sliderkit'); 
+
+		if(findSliderkitCount.length != 0){
+			$(".sliderkit").sliderkit({
+				auto:false,
+				scroll:1,					
+				navscrollatend:false
+			});
+		}
+		
+		if(subWordNo != "0"){
+			fnScrollMove("1","0");
+			subWordNo = 0;
+		}else{
+			fnScrollMove("1",wordNo);
+		}
+		
+		fnCurrentWord(wordNo);
+	}
+	
+	//사전 내려받기 모달창 
+	function fnDownloadOpen() {
+		if(""){
+			
+			$("#downloadBtn").show();
+			
+			$('input:radio[name="downloadType"]:input[value="Excel"]').attr("checked", true);
+			
+			fnDownloadType("excel");
+			
+			$('#searchDownloadBox').popup('show');
+		}else{
+			alert("들어가기가 필요합니다.");
+			
+			var params= $(".content").find("input").serializeArray();
+			
+		    $.each(params , function(i, field) {
+		        params[i].value = $.trim((field.value));
+		    });
+		    
+		    var serializedFormParam = $.param(params);
+			
+			location.href="/login/loginForm.do?userTargetUrl=/search/searchView.do?"+encodeURIComponent(serializedFormParam);
+		}
+	}
+	
+	//파일 형식
+	function fnDownloadType(type){
+		if(type == "excel" || type == "text"){
+			$("#itemBox1").html("어휘, 품사, 뜻풀이, 용례");
+			$("#itemBox2").html($("#downloadType1").html());
+			$("#itemBox2").parent().show();
+		}else if(type == "hwp" || type == "msword"){
+			$("#itemBox1").html("어휘, 품사, 뜻풀이, 용례");
+			$("#itemBox2").html($("#downloadType2").html());
+			$("#itemBox2").parent().show();
+		}else{
+			$("#itemBox1").html($("#downloadType3").html());
+			$("#itemBox2").parent().hide();
+		}
+	}
+	
+	//사전 내려받기
+	function fnSearchDownload() {
+		$("#downloadBtn").hide();
+		
+		var searchDownload = "";
+		
+		$("input[name=fileType]").val($("input[name=downloadType]:checked").val());
+		$("input[name=fileUseType]").val($("input[name=downloadUseType]:checked").val());
+		$("input[name=fileUseContent]").val($("input[name=downloadUseContent]").val());
+		
+		var selectItemInput = $("#itemBox2").find($("input[name=searchDownload]"));
+		
+		$(selectItemInput).each(function() {
+	        if($(this).prop("checked")) {
+	        	if(searchDownload != "") {
+	        		searchDownload +=",";
+	        	}
+	        	
+	        	searchDownload += $(this).val();
+	        }
+	    });
+		
+		$("input[name=fileField]").val(searchDownload);
+		
+		var params= $(".content").find("input, select").serializeArray();
+		
+	    $.each(params , function(i, field) {
+	        params[i].value = $.trim(encodeURIComponent(field.value));
+	    });
+	    
+	    var serializedFormParam = $.param(params);
+
+		$.ajax({
+			url : "/search/searchDownload.json?"+serializedFormParam+"&totalCount="+$("li[id^=word_").length,
+			type : "post",
+			dataType : "json",
+			success : function(data) {
+				if (data.resultData == "Y") {
+					alert("사전 내려받기가 신청되었습니다.\n'내 정보 관리' > '사전 내려받기'에서 신청한 자료를 내려 받으시기 바랍니다.");
+					location.href = "/mypage/download/downloadList.do";
+				}else if(data.resultData == "FAIL"){
+					alert("검색된 결과의 사전 내려받기는 50,000건 이하만 가능합니다.\n\n더 많은 어휘의 정보는 우측 상단의 '내 정보 관리' > '사전 내려받기'의 전체 사전 내려받기(엑셀, XML, JSON)를 이용하시기 바랍니다.");
+					location.href = "/mypage/download/downloadList.do";
+				}else{
+					alert("내려받기 요청중 오류가 발생하였습니다.\n관리자에게 문의하세요.");
+				}
+				fnPopupClose('searchDownloadBox');
+			},
+			error : function(data) {
+				alert("에러가 발생하였습니다.");
+			}
+		});
+	}
+	
+	function fnOpenDicSearch(){
+		var searchKeyword = $("input[name=searchKeyword]").val();
+		var openNewWindow = window.open("about:blank");
+		openNewWindow.location.href = "https://opendict.korean.go.kr/search/searchResult?focus_name=query&query="+encodeURIComponent(searchKeyword);
+	}
+	
+	//전체 선택
+	function fnCheckAll(name){
+		$("input[name="+name+"]").each(function(){
+			if ($("input[name="+name+"_all]").prop("checked")) {
+	            $(this).prop("checked", true);
+	        } else {
+	            $(this).prop("checked", false);
+	        }	
+		});
+	}
+	
+	//개별 선택시 모두 체크 하엿을 경우
+	function fnCheckCode(name) {
+	    // 개별 체크
+	    var cnt = 0;
+	    $("input[name="+name+"]").each(function() {
+	        if (!$(this).prop("checked")) {
+	            cnt++;
+	        }
+	    });
+	    if (cnt == 0) {
+	        $("input[name="+name+"_all]").prop("checked", true);
+	    } else {
+	        $("input[name="+name+"_all]").prop("checked", false);
+	    }
+	}
+	
+	function fnHistoryListPopup(wordNo, histSeq){
+		var params = "word_no="+wordNo+"&hist_seq="+histSeq;
+	    
+	    fnWindowOpen("/search/popup/historyList.do?"+params, "popup_historyList", 1020, 750, "yes");
+	}
+</script>
+
+		</div>
+		<div class="v_footer">
+	<div class="f_wrap clear2">
+		<div class="fl_t">
+			<a href="https://www.korean.go.kr" target="_blank" title="국립국어원 새 창 열림"><img src="/images/common/logo_korea.png" class="mr_10" alt="국립국어원" /></a>
+			<a href="/help/helpList.do">도움말</a><a href="/join/siteTerms.do">이용 약관</a><a href="https://korean.go.kr/front/nuri/pageView.do?page_id=P000186&mkn=2" class="ft_em_policy" target="_blank" title="개인 정보 처리 방침 새 창 열림">개인 정보 처리 방침</a><a href="/join/copyrightPolicy.do">저작권 정책</a><a href="/notice/noticeList.do">알립니다</a><a href="/openapi/openApiInfo.do">개발 지원(Open API)</a><a href="/comment/commentErrorReport.do" >서비스 장애 신고</a><a href="/statistic/dicStat.do" class="pr_5">사전 통계</a>
+		</div>
+		<div class="fr_t">
+			<select id="footerFamilySite" name="footerFamilySite" title="한 페이지 보여 줄 페이지 건 수">
+				<option value="1">국립국어원</option>
+				<option value="2">우리말샘</option>
+				<option value="5">근현대 국어사전</option>
+				<option value="3">한국어기초사전</option>
+				<option value="4">한국수어사전</option>				
+			</select>
+			<a href="#footerFamilySite" onclick="javascript:fnMoveSite();" class="btn_go mr_20">이동</a>
+		</div>    
+	</div>
+</div>
+<div id="captchaSound" style="display: none;"></div>
+<script type="text/javascript">
+	//사이트 이동
+	function fnMoveSite() {
+		var type = $("#footerFamilySite").val();
+		var url = "";
+		
+		if(type == "1") {
+			url = "https://www.korean.go.kr/";
+		} else if(type == "2") {
+			url = "https://opendict.korean.go.kr";
+		} else if(type == "3") {
+			url = "https://krdict.korean.go.kr";
+		} else if(type == "4") {
+			url = "http://sldict.korean.go.kr/front/main/main.do";
+		} else if(type == "5") {
+			url = "https://opendict.korean.go.kr/modern/main";
+		}
+		
+		window.open(url,'');
+	}
+</script>
+    </body>
+</html>

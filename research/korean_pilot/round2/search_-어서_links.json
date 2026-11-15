@@ -1,0 +1,230 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 15",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 8",
+    "#"
+  ],
+  [
+    "Definition 1,178",
+    "#"
+  ],
+  [
+    "Usage Example 7,032",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-어서",
+    "javascript:checkSubmit('80215','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80215','Y');"
+  ],
+  [
+    "어서",
+    "javascript:checkSubmit('67026','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyMy80OTQ2Ny9TTkQwMDAwMzgxNzAubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('67026','Y');"
+  ],
+  [
+    "일어서다",
+    "javascript:checkSubmit('24563','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyNS81MDk4My9TTkQwMDAwMzk2ODYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('24563','Y');"
+  ],
+  [
+    "넘어서다",
+    "javascript:checkSubmit('64525','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUyMi84NTM3My9TTkQwMDAwNzQwNzYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('64525','Y');"
+  ],
+  [
+    "늘어서다",
+    "javascript:checkSubmit('28332','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUyMi84NTUxMy9TTkQwMDAwNzQyMTYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('28332','Y');"
+  ],
+  [
+    "들어서다",
+    "javascript:checkSubmit('58158','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIxMC8yNDM4My9TTkQwMDAwMTMwODYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('58158','Y');"
+  ],
+  [
+    "어서어서",
+    "javascript:checkSubmit('67027','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDQwNy81ODUwOS9TTkQwMDAwNDcyMTIubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('67027','Y');"
+  ],
+  [
+    "이어서",
+    "javascript:checkSubmit('24892','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyNC81MDEzOS9TTkQwMDAwMzg4NDIubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('24892','Y');"
+  ],
+  [
+    "넘어서-",
+    "javascript:checkSubmit('19454','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('19454','Y');"
+  ],
+  [
+    "늘어서-",
+    "javascript:checkSubmit('24022','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('24022','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

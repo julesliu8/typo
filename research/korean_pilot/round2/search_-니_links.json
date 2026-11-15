@@ -1,0 +1,266 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 408",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 1,817",
+    "#"
+  ],
+  [
+    "Usage Example 48,760",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-니 1",
+    "javascript:checkSubmit('80144','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80144','Y');"
+  ],
+  [
+    "-니 2",
+    "javascript:checkSubmit('85823','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('85823','Y');"
+  ],
+  [
+    "-니 3",
+    "javascript:checkSubmit('76420','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('76420','Y');"
+  ],
+  [
+    "-니 4",
+    "javascript:checkSubmit('76426','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('76426','Y');"
+  ],
+  [
+    "그러니까",
+    "javascript:checkSubmit('58609','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyNi8zMzg3MC9TTkQwMDAwMjI1NzMubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('58609','Y');"
+  ],
+  [
+    "다니다",
+    "javascript:checkSubmit('29702','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIwOS8yMzczNC9TTkQwMDAwMTI0MzcubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('29702','Y');"
+  ],
+  [
+    "시어머니",
+    "javascript:checkSubmit('65293','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8xNDAwMC8zMjE1NDQvU05EMDAwMzMwODk4Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('65293','Y');"
+  ],
+  [
+    "아니 1",
+    "javascript:checkSubmit('65980','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyMS80ODU5OC9TTkQwMDAwMzczMDEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('65980','Y');"
+  ],
+  [
+    "아니 2",
+    "javascript:checkSubmit('65982','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyMS80ODU5OC9TTkQwMDAwMzczMDEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('65982','Y');"
+  ],
+  [
+    "아니다",
+    "javascript:checkSubmit('26878','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyMS80ODU5OS9TTkQwMDAwMzczMDIubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('26878','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('41');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

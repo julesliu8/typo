@@ -1,0 +1,810 @@
+[
+  [
+    "주요서비스 바로가기",
+    "#user-menu"
+  ],
+  [
+    "본문 바로가기",
+    "#user-container"
+  ],
+  [
+    "매체정보 바로가기",
+    "#user-footer"
+  ],
+  [
+    "로그인 바로가기",
+    "#userLogin"
+  ],
+  [
+    "기사검색 바로가기",
+    "#userSearch"
+  ],
+  [
+    "전체서비스 바로가기",
+    "#allService"
+  ],
+  [
+    "홈",
+    "http://www.yjinews.com"
+  ],
+  [
+    "로그인",
+    "https://www.yjinews.com/member/login.html"
+  ],
+  [
+    "회원가입",
+    "https://www.yjinews.com/member/index.html"
+  ],
+  [
+    "facebook",
+    "https://www.facebook.com/yjinews"
+  ],
+  [
+    "kakaochanel",
+    "http://pf.kakao.com/_lBxoxmxb"
+  ],
+  [
+    "유튜브",
+    "https://www.youtube.com/channel/UCnanVqX9KgSdSREvxQEyf-g?view_as=subscriber"
+  ],
+  [
+    "naver band",
+    "https://band.us/band/79768495"
+  ],
+  [
+    "RSS",
+    "/rss/"
+  ],
+  [
+    "",
+    "http://www.yjinews.com"
+  ],
+  [
+    "뉴스",
+    "/news/articleList.html?sc_section_code=S1N1&view_type=sm"
+  ],
+  [
+    "전체기사",
+    "/news/articleList.html?view_type=sm"
+  ],
+  [
+    "지역·정치",
+    "/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm"
+  ],
+  [
+    "사회·행정",
+    "/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm"
+  ],
+  [
+    "농업·경제",
+    "/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm"
+  ],
+  [
+    "교육·문화",
+    "/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm"
+  ],
+  [
+    "기획·특집",
+    "/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm"
+  ],
+  [
+    "단체·인물",
+    "/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm"
+  ],
+  [
+    "스포츠",
+    "/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm"
+  ],
+  [
+    "영주TV",
+    "/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm"
+  ],
+  [
+    "영주TV 제작영상",
+    "/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm"
+  ],
+  [
+    "낭만에 대하여",
+    "/news/articleList.html?sc_sub_section_code=S2N35&view_type=sm"
+  ],
+  [
+    "잠깐! 1분 영주",
+    "/news/articleList.html?sc_sub_section_code=S2N36&view_type=sm"
+  ],
+  [
+    "브이로그 V-log",
+    "/news/articleList.html?sc_sub_section_code=S2N37&view_type=sm"
+  ],
+  [
+    "영주人, 영주IN",
+    "/news/articleList.html?sc_section_code=S1N2&view_type=sm"
+  ],
+  [
+    "이사람",
+    "/news/articleList.html?sc_sub_section_code=S2N9&view_type=sm"
+  ],
+  [
+    "기획 인터뷰",
+    "/news/articleList.html?sc_sub_section_code=S2N30&view_type=sm"
+  ],
+  [
+    "출향인",
+    "/news/articleList.html?sc_sub_section_code=S2N11&view_type=sm"
+  ],
+  [
+    "너·꿈·응",
+    "/news/articleList.html?sc_sub_section_code=S2N29&view_type=sm"
+  ],
+  [
+    "영주희망알림방",
+    "/news/articleList.html?sc_sub_section_code=S2N31&view_type=sm"
+  ],
+  [
+    "우리동네 영주人터뷰",
+    "/news/articleList.html?sc_sub_section_code=S2N38&view_type=sm"
+  ],
+  [
+    "생생 영주살이 현장N",
+    "/news/articleList.html?sc_sub_section_code=S2N39&view_type=sm"
+  ],
+  [
+    "영주선비",
+    "/news/articleList.html?sc_section_code=S1N3&view_type=sm"
+  ],
+  [
+    "역사속의 영주 인물",
+    "/news/articleList.html?sc_sub_section_code=S2N13&view_type=sm"
+  ],
+  [
+    "선비정신실천캠페인",
+    "/news/articleList.html?sc_sub_section_code=S2N15&view_type=sm"
+  ],
+  [
+    "선비의 삶과 흔적",
+    "/news/articleList.html?sc_sub_section_code=S2N14&view_type=sm"
+  ],
+  [
+    "영주 톺아보기",
+    "/news/articleList.html?sc_section_code=S1N4&view_type=sm"
+  ],
+  [
+    "단체탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N16&view_type=sm"
+  ],
+  [
+    "영주맛집",
+    "/news/articleList.html?sc_sub_section_code=S2N17&view_type=sm"
+  ],
+  [
+    "업체탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N18&view_type=sm"
+  ],
+  [
+    "우리마을 탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N19&view_type=sm"
+  ],
+  [
+    "길 따라 세월산책",
+    "/news/articleList.html?sc_sub_section_code=S2N34&view_type=sm"
+  ],
+  [
+    "우리마을 숨겨진 보물",
+    "/news/articleList.html?sc_sub_section_code=S2N40&view_type=sm"
+  ],
+  [
+    "오피니언",
+    "/news/articleList.html?sc_section_code=S1N19&view_type=sm"
+  ],
+  [
+    "김경미 시인의 시영아영",
+    "/news/articleList.html?sc_sub_section_code=S2N54&view_type=sm"
+  ],
+  [
+    "최대봉의 교양어 사전",
+    "/news/articleList.html?sc_sub_section_code=S2N51&view_type=sm"
+  ],
+  [
+    "김신중의 영주 톺아보기",
+    "/news/articleList.html?sc_sub_section_code=S2N52&view_type=sm"
+  ],
+  [
+    "시민칼럼",
+    "/news/articleList.html?sc_sub_section_code=S2N43&view_type=sm"
+  ],
+  [
+    "글나라 동심여행",
+    "/news/articleList.html?sc_sub_section_code=S2N46&view_type=sm"
+  ],
+  [
+    "독자기고",
+    "/news/articleList.html?sc_sub_section_code=S2N47&view_type=sm"
+  ],
+  [
+    "나도 기자다",
+    "/news/articleList.html?sc_section_code=S1N15&view_type=sm"
+  ],
+  [
+    "시민기자",
+    "/news/articleList.html?sc_sub_section_code=S2N22&view_type=sm"
+  ],
+  [
+    "시민디카",
+    "/bbs/list.html?table=bbs_13"
+  ],
+  [
+    "보도자료실",
+    "/bbs/list.html?table=bbs_3"
+  ],
+  [
+    "소통마당",
+    "/bbs/list.html?table=bbs_14"
+  ],
+  [
+    "자유게시판",
+    "/bbs/list.html?table=bbs_14"
+  ],
+  [
+    "업무자료실",
+    "/bbs/list.html?table=bbs_11"
+  ],
+  [
+    "사진·만평",
+    "/news/articleList.html?sc_serial_code=SRN85&view_type=sm"
+  ],
+  [
+    "포토뉴스",
+    "/news/articleList.html?sc_serial_code=SRN85&view_type=sm"
+  ],
+  [
+    "김만용의 카툰",
+    "/news/articleList.html?sc_serial_code=SRN84&view_type=sm"
+  ],
+  [
+    "건강보험공단 영주봉화지사, 16일부터 점심시간 민원업무 중단",
+    "/news/articleView.html?idxno=93187"
+  ],
+  [
+    "[시민칼럼] 가장 빛나는 순간에 내려설 용기",
+    "/news/articleView.html?idxno=93184"
+  ],
+  [
+    "김경미 시인의 시영아영[239] 양파",
+    "/news/articleView.html?idxno=93183"
+  ],
+  [
+    "[영주사람은 다 아는 영주사투리] ‘이크러(이쿠로)’",
+    "/news/articleView.html?idxno=93181"
+  ],
+  [
+    "이원식의 정도전 이야기 [237] 삼봉집 속으로 고전 여행(85)",
+    "/news/articleView.html?idxno=93167"
+  ],
+  [
+    "[사설] 영주의 미래가 걸린 현안, 정치권은 무엇을 하고 있나",
+    "/news/articleView.html?idxno=93166"
+  ],
+  [
+    "지역 청년 결혼 지원 길 열었다…관련 조례 개정",
+    "/news/articleView.html?idxno=93096"
+  ],
+  [
+    "[시민칼럼] 낙우송",
+    "/news/articleView.html?idxno=93044"
+  ],
+  [
+    "김경미 시인의 詩詠시영 我影아영[238] 은행털이범",
+    "/news/articleView.html?idxno=93043"
+  ],
+  [
+    "배용호의 문화확대경 [347] 무너진 갱도에서 솟아난 「커피믹스」",
+    "/news/articleView.html?idxno=93041"
+  ],
+  [
+    "지역 청년 결혼 지원 길 열었다…관련 조례 개정",
+    "/news/articleView.html?idxno=93096"
+  ],
+  [
+    "시, 내년 스포츠강좌이용권 신청자 모집",
+    "/news/articleView.html?idxno=93002"
+  ],
+  [
+    "경북도의회, 국립경국대 의대 신설 환영…“설립·정착까지 총력 지원”",
+    "/news/articleView.html?idxno=93015"
+  ],
+  [
+    "김경미 시인의 詩詠시영 我影아영[238] 은행털이범",
+    "/news/articleView.html?idxno=93043"
+  ],
+  [
+    "[영주사람은 다 아는 영주사투리] ‘몰개이’",
+    "/news/articleView.html?idxno=93039"
+  ],
+  [
+    "배용호의 문화확대경 [347] 무너진 갱도에서 솟아난 「커피믹스」",
+    "/news/articleView.html?idxno=93041"
+  ],
+  [
+    "[시민칼럼] 낙우송",
+    "/news/articleView.html?idxno=93044"
+  ],
+  [
+    "[녹색전환 칼럼] 기후위기 시대 학교를 다시 생각하자",
+    "/news/articleView.html?idxno=93040"
+  ],
+  [
+    "이원식의 정도전 이야기 [236] 삼봉집 속으로 고전 여행(84)",
+    "/news/articleView.html?idxno=93033"
+  ],
+  [
+    "[시민칼럼] 가장 빛나는 순간에 내려설 용기",
+    "/news/articleView.html?idxno=93184"
+  ],
+  [
+    "",
+    "http://www.yjinews.com"
+  ],
+  [
+    "홈",
+    "http://www.yjinews.com"
+  ],
+  [
+    "뉴스",
+    "/news/articleList.html?sc_section_code=S1N1"
+  ],
+  [
+    "교육·문화",
+    "/news/articleList.html?sc_sub_section_code=S2N4"
+  ],
+  [
+    "okh7303@hanmail.net",
+    "mailto:okh7303@hanmail.net"
+  ],
+  [
+    "다른기사 보기",
+    "articleList.html?sc_area=I&sc_word=okh7303"
+  ],
+  [
+    "영주시체육회장 선거, 이번엔 맞대결 펼쳐지나",
+    "/news/articleView.html?idxno=93047"
+  ],
+  [
+    "영주 조제일반산업단지 조성사업 본격 추진",
+    "/news/articleView.html?idxno=93060"
+  ],
+  [
+    "두 달 넘긴 노벨리스 영주공장 파업, 타결 ‘막바지’",
+    "/news/articleView.html?idxno=92971"
+  ],
+  [
+    "안형재 원장의 ‘매화 외길’, 퇴계의 매화 정신 영주에서 잇는다",
+    "/news/articleView.html?idxno=92944"
+  ],
+  [
+    "영주시, 특정 업체 수의계약 몰아주기 막는다",
+    "/news/articleView.html?idxno=93062"
+  ],
+  [
+    "“안동은 4권역, 영주는 왜 3권역?”…영주시, 지방우대지수 재조정 요구",
+    "/news/articleView.html?idxno=93109"
+  ],
+  [
+    "내년 3월 통폐합 앞둔 옥대초, 스승과 제자가 함께 달린 26㎞",
+    "/news/articleView.html?idxno=93133"
+  ],
+  [
+    "영주시체육회장 선거, 이번엔 맞대결 펼쳐지나",
+    "/news/articleView.html?idxno=93047"
+  ],
+  [
+    "회원 로그인",
+    "/member/login.html?backUrl=/news/articleView.html?idxno=77400#reply"
+  ],
+  [
+    "[기획]풍기인삼, 땅과 사람의 기록[9] 풍기인삼발전연구회 윤승현 총무",
+    "/news/articleView.html?idxno=92416"
+  ],
+  [
+    "[특집] “기운 없으면 풍기로 와”…9일 동안 풍기가 ‘기운 충전소’로",
+    "/news/articleView.html?idxno=92391"
+  ],
+  [
+    "주택화재 피해 주민, 10월부터 최대 1천만 원 지원한다",
+    "/news/articleView.html?idxno=92306"
+  ],
+  [
+    "‘대박 조짐’ 나흘 만에 100만 뷰…영주시 홍보영상 제대로 터졌다",
+    "/news/articleView.html?idxno=92454"
+  ],
+  [
+    "네 번 도전 끝에 ‘대사범’ 합격…75세 김보상씨의 값진 결실 ‘화제’",
+    "/news/articleView.html?idxno=92100"
+  ],
+  [
+    "“어린이 글밭에 한 줌 거름으로”…팔순에 펴낸 첫 동시집",
+    "/news/articleView.html?idxno=92428"
+  ],
+  [
+    "국내 베어링산업 관계자 150여 명, 영주에 모였다",
+    "/news/articleView.html?idxno=93222"
+  ],
+  [
+    "시, 겨울철 폭설 대비 제설차량 3대 늘린다",
+    "/news/articleView.html?idxno=93221"
+  ],
+  [
+    "무섬마을 ‘권씨 할머니 설화’, 창작무용으로 만난다",
+    "/news/articleView.html?idxno=93220"
+  ],
+  [
+    "휴천3동 주민자치위, ‘일상 속 마음돌봄’ 포럼 열어",
+    "/news/articleView.html?idxno=93219"
+  ],
+  [
+    "평은면 용혈1리 주민들, 내성천 주변 환경정비 나서",
+    "/news/articleView.html?idxno=93218"
+  ],
+  [
+    "[포토뉴스] 소백산 자락길, 깊어가는 가을빛에 ‘울긋불긋’",
+    "/news/articleView.html?idxno=92970"
+  ],
+  [
+    "소백산 능선 따라 가을 야생화 ‘활짝’",
+    "/news/articleView.html?idxno=92308"
+  ],
+  [
+    "영주서부초병설유치원, 고사리손으로 빚은 ‘추석 송편’",
+    "/news/articleView.html?idxno=92210"
+  ],
+  [
+    "[포토뉴스] “숲속 물총놀이로 무더위 날려요”",
+    "/news/articleView.html?idxno=91547"
+  ],
+  [
+    "1 영주시체육회장 선거, 이번엔 맞대결 펼쳐지나",
+    "/news/articleView.html?idxno=93047"
+  ],
+  [
+    "2 영주 조제일반산업단지 조성사업 본격 추진",
+    "/news/articleView.html?idxno=93060"
+  ],
+  [
+    "3 두 달 넘긴 노벨리스 영주공장 파업, 타결 ‘막바지’",
+    "/news/articleView.html?idxno=92971"
+  ],
+  [
+    "4 안형재 원장의 ‘매화 외길’, 퇴계의 매화 정신 영주에서 잇는다",
+    "/news/articleView.html?idxno=92944"
+  ],
+  [
+    "5 영주시, 특정 업체 수의계약 몰아주기 막는다",
+    "/news/articleView.html?idxno=93062"
+  ],
+  [
+    "6 “안동은 4권역, 영주는 왜 3권역?”…영주시, 지방우대지수 재조정 요구",
+    "/news/articleView.html?idxno=93109"
+  ],
+  [
+    "7 내년 3월 통폐합 앞둔 옥대초, 스승과 제자가 함께 달린 26㎞",
+    "/news/articleView.html?idxno=93133"
+  ],
+  [
+    "8 주민들은 “남겨달라” 했는데…경찰, 치안센터 4곳 문 닫았다",
+    "/news/articleView.html?idxno=92998"
+  ],
+  [
+    "매체소개",
+    "/com/com-1.html"
+  ],
+  [
+    "기사제보",
+    "https://www.yjinews.com/com/jb.html"
+  ],
+  [
+    "광고문의",
+    "https://www.yjinews.com/com/ad.html"
+  ],
+  [
+    "이용약관",
+    "/com/service.html"
+  ],
+  [
+    "개인정보처리방침",
+    "/com/privacy.html"
+  ],
+  [
+    "청소년보호정책",
+    "/com/youthpolicy.html"
+  ],
+  [
+    "저작권보호정책",
+    "/com/copyright.html"
+  ],
+  [
+    "이메일무단수집거부",
+    "/com/emailno.html"
+  ],
+  [
+    "o",
+    "https://www.yjinews.com/admin/adminLoginForm.html"
+  ],
+  [
+    "All",
+    "http://www.yjinews.com/news/articleView.html?idxno=77400"
+  ],
+  [
+    "okh7303@hanmail.net",
+    "mailto:okh7303@hanmail.net"
+  ],
+  [
+    "",
+    "https://www.ndsoft.co.kr/"
+  ],
+  [
+    "전체기사",
+    "/news/articleList.html?view_type=sm"
+  ],
+  [
+    "뉴스",
+    "/news/articleList.html?sc_section_code=S1N1&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N1&view_type=sm"
+  ],
+  [
+    "지역·정치",
+    "/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm"
+  ],
+  [
+    "사회·행정",
+    "/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm"
+  ],
+  [
+    "농업·경제",
+    "/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm"
+  ],
+  [
+    "교육·문화",
+    "/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm"
+  ],
+  [
+    "기획·특집",
+    "/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm"
+  ],
+  [
+    "단체·인물",
+    "/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm"
+  ],
+  [
+    "스포츠",
+    "/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm"
+  ],
+  [
+    "영주TV",
+    "/news/articleList.html?sc_section_code=S1N5&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N5&view_type=sm"
+  ],
+  [
+    "영주TV 제작영상",
+    "/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm"
+  ],
+  [
+    "낭만에 대하여",
+    "/news/articleList.html?sc_sub_section_code=S2N35&view_type=sm"
+  ],
+  [
+    "잠깐! 1분 영주",
+    "/news/articleList.html?sc_sub_section_code=S2N36&view_type=sm"
+  ],
+  [
+    "브이로그 V-log",
+    "/news/articleList.html?sc_sub_section_code=S2N37&view_type=sm"
+  ],
+  [
+    "영주人, 영주IN",
+    "/news/articleList.html?sc_section_code=S1N2&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N2&view_type=sm"
+  ],
+  [
+    "이사람",
+    "/news/articleList.html?sc_sub_section_code=S2N9&view_type=sm"
+  ],
+  [
+    "기획 인터뷰",
+    "/news/articleList.html?sc_sub_section_code=S2N30&view_type=sm"
+  ],
+  [
+    "출향인",
+    "/news/articleList.html?sc_sub_section_code=S2N11&view_type=sm"
+  ],
+  [
+    "너·꿈·응",
+    "/news/articleList.html?sc_sub_section_code=S2N29&view_type=sm"
+  ],
+  [
+    "함께하는 세상",
+    "/news/articleList.html?sc_sub_section_code=S2N10&view_type=sm"
+  ],
+  [
+    "영주희망알림방",
+    "/news/articleList.html?sc_sub_section_code=S2N31&view_type=sm"
+  ],
+  [
+    "우리동네 영주人터뷰",
+    "/news/articleList.html?sc_sub_section_code=S2N38&view_type=sm"
+  ],
+  [
+    "생생 영주살이 현장N",
+    "/news/articleList.html?sc_sub_section_code=S2N39&view_type=sm"
+  ],
+  [
+    "영주디지털생활사 아카이빙",
+    "/news/articleList.html?sc_sub_section_code=S2N58&view_type=sm"
+  ],
+  [
+    "영주선비",
+    "/news/articleList.html?sc_section_code=S1N3&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N3&view_type=sm"
+  ],
+  [
+    "역사속의 영주 인물",
+    "/news/articleList.html?sc_sub_section_code=S2N13&view_type=sm"
+  ],
+  [
+    "선비정신실천캠페인",
+    "/news/articleList.html?sc_sub_section_code=S2N15&view_type=sm"
+  ],
+  [
+    "선비의 삶과 흔적",
+    "/news/articleList.html?sc_sub_section_code=S2N14&view_type=sm"
+  ],
+  [
+    "영주 톺아보기",
+    "/news/articleList.html?sc_section_code=S1N4&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N4&view_type=sm"
+  ],
+  [
+    "단체탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N16&view_type=sm"
+  ],
+  [
+    "영주맛집",
+    "/news/articleList.html?sc_sub_section_code=S2N17&view_type=sm"
+  ],
+  [
+    "업체탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N18&view_type=sm"
+  ],
+  [
+    "우리마을 탐방",
+    "/news/articleList.html?sc_sub_section_code=S2N19&view_type=sm"
+  ],
+  [
+    "길 따라 세월산책",
+    "/news/articleList.html?sc_sub_section_code=S2N34&view_type=sm"
+  ],
+  [
+    "우리마을 숨겨진 보물",
+    "/news/articleList.html?sc_sub_section_code=S2N40&view_type=sm"
+  ],
+  [
+    "영주 원도심 활성화 프로젝트",
+    "/news/articleList.html?sc_sub_section_code=S2N55&view_type=sm"
+  ],
+  [
+    "인물따라 세월산책",
+    "/news/articleList.html?sc_sub_section_code=S2N56&view_type=sm"
+  ],
+  [
+    "오피니언",
+    "/news/articleList.html?sc_section_code=S1N19&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N19&view_type=sm"
+  ],
+  [
+    "김신중의 영주 톺아보기",
+    "/news/articleList.html?sc_sub_section_code=S2N52&view_type=sm"
+  ],
+  [
+    "사설",
+    "/news/articleList.html?sc_sub_section_code=S2N50&view_type=sm"
+  ],
+  [
+    "배용호의 문화확대경",
+    "/news/articleList.html?sc_sub_section_code=S2N53&view_type=sm"
+  ],
+  [
+    "김경미 시인의 시영아영",
+    "/news/articleList.html?sc_sub_section_code=S2N54&view_type=sm"
+  ],
+  [
+    "최대봉의 교양어 사전",
+    "/news/articleList.html?sc_sub_section_code=S2N51&view_type=sm"
+  ],
+  [
+    "권서각의 프리즘",
+    "/news/articleList.html?sc_sub_section_code=S2N42&view_type=sm"
+  ],
+  [
+    "시민칼럼",
+    "/news/articleList.html?sc_sub_section_code=S2N43&view_type=sm"
+  ],
+  [
+    "마을변호사의 생생 법률通",
+    "/news/articleList.html?sc_sub_section_code=S2N44&view_type=sm"
+  ],
+  [
+    "권자미 시인의 시읽기",
+    "/news/articleList.html?sc_sub_section_code=S2N45&view_type=sm"
+  ],
+  [
+    "글나라 동심여행",
+    "/news/articleList.html?sc_sub_section_code=S2N46&view_type=sm"
+  ],
+  [
+    "독자기고",
+    "/news/articleList.html?sc_sub_section_code=S2N47&view_type=sm"
+  ],
+  [
+    "최대봉의 문화읽기",
+    "/news/articleList.html?sc_sub_section_code=S2N41&view_type=sm"
+  ],
+  [
+    "영주사투리",
+    "/news/articleList.html?sc_sub_section_code=S2N57&view_type=sm"
+  ],
+  [
+    "사진·만평",
+    "/news/articleList.html?sc_section_code=S1N20&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N20&view_type=sm"
+  ],
+  [
+    "김만용의 세상 바로보기",
+    "/news/articleList.html?sc_sub_section_code=S2N49&view_type=sm"
+  ],
+  [
+    "나도 기자다",
+    "/news/articleList.html?sc_section_code=S1N15&view_type=sm"
+  ],
+  [
+    "전체",
+    "/news/articleList.html?sc_section_code=S1N15&view_type=sm"
+  ],
+  [
+    "시민기자",
+    "/news/articleList.html?sc_sub_section_code=S2N22&view_type=sm"
+  ],
+  [
+    "보도자료실",
+    "/news/articleList.html?sc_sub_section_code=S2N24&view_type=sm"
+  ],
+  [
+    "소통마당",
+    "/news/articleList.html?sc_section_code=S1N18&view_type=sm"
+  ],
+  [
+    "본지알림",
+    "/news/articleList.html?sc_section_code=S1N12&view_type=sm"
+  ],
+  [
+    "지방선거",
+    "/news/articleList.html?sc_section_code=S1N11&view_type=sm"
+  ]
+]

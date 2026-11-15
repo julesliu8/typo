@@ -1,0 +1,6 @@
+{
+  "name": "engine_naver",
+  "url": "https://search.naver.com/search.naver?where=nexearch&query=%22%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4%22%20%22%EA%B2%83%EC%9D%B4%22",
+  "accessed": "2026-11-14",
+  "error": "HTTPSConnectionPool(host='search.naver.com', port=443): Max retries exceeded with url: /search.naver?where=nexearch&query=%22%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4%22%20%22%EA%B2%83%EC%9D%B4%22 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
+}

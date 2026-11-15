@@ -1,0 +1,258 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 23",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 38",
+    "#"
+  ],
+  [
+    "Definition 1,107",
+    "#"
+  ],
+  [
+    "Usage Example 15,305",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "있다 1",
+    "javascript:checkSubmit('68796','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMTAwMC8zMTg5ODgvU05EMDAwMzI4MzQyLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('68796','Y');"
+  ],
+  [
+    "있다 2",
+    "javascript:checkSubmit('68797','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMTAwMC8zMTg5ODgvU05EMDAwMzI4MzQyLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('68797','Y');"
+  ],
+  [
+    "있다 3",
+    "javascript:checkSubmit('62595','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMTAwMC8zMTg5ODgvU05EMDAwMzI4MzQyLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('62595','Y');"
+  ],
+  [
+    "맛있다",
+    "javascript:checkSubmit('70811','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUwNy83NjY2MS9TTkQwMDAwNjUzNjQubXAz');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUwOC83NzI5My9TTkQwMDAwNjU5OTYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('70811','Y');"
+  ],
+  [
+    "멋있다",
+    "javascript:checkSubmit('15989','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxNy84MjU0NS9TTkQwMDAwNzEyNDgubXAz');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUxNy84MjY2OC9TTkQwMDAwNzEzNzEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('15989','Y');"
+  ],
+  [
+    "재미있다",
+    "javascript:checkSubmit('71212','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDQyMC82NjM2Ni9TTkQwMDAwNTUwNjkubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('71212','Y');"
+  ],
+  [
+    "가만있다",
+    "javascript:checkSubmit('15304','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE3MDIyMy80NDI5OTQvU05EMDAwMDI4NTQ0Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('15304','Y');"
+  ],
+  [
+    "관계있다",
+    "javascript:checkSubmit('22260','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMwMi8zNjkxMy9TTkQwMDAwMjU2MTYubXAz');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMwMi8zNjg1My9TTkQwMDAwMjU1NTYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('22260','Y');"
+  ],
+  [
+    "값있다",
+    "javascript:checkSubmit('23030','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE3MDIyMy80NDI4MjkvU05EMDAwMDE5OTM1Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('23030','Y');"
+  ],
+  [
+    "뜻있다",
+    "javascript:checkSubmit('90387','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIxMy8yNjE3OS9TTkQwMDAwMTQ4ODIubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('90387','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

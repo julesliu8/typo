@@ -1,0 +1,2091 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+
+
+
+<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>한국어기초사전</title>
+    <link rel="shortcut icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/images/mobIcon/android-icon-72x72.png"/>
+	<link rel="icon" href="/images/2020/favicon/favicon.ico" type="image/x-icon" />
+	<link type="text/css" rel="stylesheet" href="/css/2020_style.css">
+	<link type="text/css" rel="stylesheet" href="/css/print-preview.css">
+	<link type="text/css" rel="stylesheet" href="/css/jquery-ui-1.10.4.css">
+	<link type="text/css" rel="stylesheet" href="/VK/css/new_small/keyboard.css">
+	
+	<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/common.js"></script>
+	<script type="text/javascript" src="/js/2020_common.js"></script>
+	<script type="text/javascript" src="/js/DQCommon.js"></script>
+	<script type="text/javascript" src="/js/soundmanager2.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/dropzone.js"></script>
+	<script type="text/javascript" src="/js/jquery.mousewheel.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.sliderkit.1.9.2.pack.js"></script>
+	<script type="text/javascript" src="/js/print/jquery.print-preview.js"></script>
+	<script type="text/javascript" src="/js/MD5.js"></script>
+	<script type="text/javascript" src="/js/url.min.js"></script>
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&vk_skin=new_small" ></script>
+	<script type="text/javascript" src="/js/player.js"></script>
+	<script type="text/javascript" src="/VK/extensions/scriptqueue.js" ></script>
+	<script type="text/javascript" src="/VK/extensions/e.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/virtualkeyboard.js" onload="return 1;" charset="UTF-8"></script>
+	<script type="text/javascript" src="/VK/layouts/layouts.js" onload="return 1;" charset="UTF-8"></script>
+	
+	<script type="text/javascript" src="/js/smallDic_dqCommon.js"></script>
+	<script type="text/javascript" src="/js/head_dqAutoCompleteCommon.js"></script> 
+	
+	<script type="text/javascript" src="/VK/vk_loader.js?vk_layout=&amp;vk_skin=new_small"></script>
+	
+	
+	
+	<script type="text/javascript">
+		var winLoc = window.location.toString();
+		if (winLoc.match(/flash9/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 9
+			});
+			if (winLoc.match(/highperformance/i)) {
+				soundManager.setup({
+					useHighPerformance : true
+				});
+			}
+		} else if (winLoc.match(/flash8/i)) {
+			soundManager.setup({
+				preferFlash : true,
+				flashVersion : 8
+			});
+		}
+		soundManager.setup({
+			useFlashBlock : true,
+			url : '/js/',
+			html5PollingInterval : (winLoc.match(/html5PollingInterval/i) ? 20
+					: null),
+			debugMode : false,
+			consoleOnly : false
+		});
+		soundManager.onready(function(oStatus) {
+			if (!oStatus.success) {
+				return false;
+			}
+			if (soundManager.flashVersion > 8) {
+				t = window.setInterval(checkRAM, 500);
+				document.getElementById('flash-ram-use').style.display = 'inline';
+				checkRAM();
+			}
+		});
+		function checkRAM() {
+			if (soundManager.supported()) {
+				var ram = (soundManager.getMemoryUse() / 1024 / 1024).toFixed(2);
+				if (!isNaN(ram)) {
+					document.getElementById('flash-ram-use').innerHTML = ram
+							+ ' MB';
+				} else {
+					document.getElementById('flash-ram-use').style.display = 'none';
+				}
+			}
+		}
+
+		$(function () {
+			$("a.print").printPreview()
+		})
+
+	</script>
+
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="7ac6c325-c6e0-4360-b0b4-f2ef1fb8c7ce" />
+<script type="text/javascript">
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+		type: 'GET',
+		dataType:'json',
+		beforeSend: function (xhr) {
+	         const csrf = $("meta[name='_csrf']").attr("content");
+	         const csrf_header = $("meta[name='_csrf_header']").attr("content");
+	         xhr.setRequestHeader(csrf_header, csrf);
+	      },
+		async: false,
+		success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+				var returnData = data.jsonList[0].returnData;
+				for(var i=returnData.length-1; i>=0; i--){
+					var html  = "";
+						html += "<li id='myWord_"+returnData[i].word_no+"'>";
+						html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+						if(returnData[i].sup_no != "0"){
+							html += "<sup>"+returnData[i].sup_no+"</sup>";							
+						}else{
+							html += "<sup>&nbsp;</sup>";
+						}
+						html +="</span></a>";
+						html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+						html += "<img src='/images/2020/btn_del.png' alt='단어 삭제'/>";
+						html += "</a>";
+						html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+						html += "</li>";
+					$("#myWordList").append(html);
+				}
+				var btnHtml = "";
+
+				$("#myWordList").parent().append(btnHtml);
+			}
+		}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    				$("#myWordList").parent().find("button").remove();
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    		}
+    	}
+    });
+}
+
+function fnTwitter(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+function fnFaceBook(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+
+//한글 비교
+function fnKoreanCompare(str){
+	var hangul = /[ㄱ-힣]/g;
+	var checkData = str.match(hangul);
+	var returnFlag = false;
+	
+	if(checkData != null){
+		returnFlag = true;
+	}
+	
+	return returnFlag;
+}
+</script>
+	<script id="btnScript" src="/js/backDisable.js"></script>
+</head>
+<body>
+<div id="wrap" class="manyLang eng">
+	
+
+
+<!--누리집 배너 -->
+<div id="header-top">
+    <div class="toggle-wrap">
+        <div class="toggle-head">
+            <div class="inner">
+                <div class="head_text">
+                    <img class="flag" src="/images/gov_banner/header_flag.png" alt="국기아이콘" />
+                    <span class="nuri-txt">이 누리집은 대한민국 공식 전자정부 누리집입니다.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- header -->
+<div id="header">
+    <div class="header_wrap group">
+        <div class="top_wrap">
+            <ul class="top_left manyLang6">
+                <li><a href="/eng/dicSearch/actCategory">Search by Category</a></li>
+                <li><a href="javascript:fnSmallDic();">Small Window Dictionary <i class="ri-checkbox-multiple-blank-line icon_window"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="captchaSound" style="display:none;"></div>
+<!-- //.header -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        var location = document.location.pathname.split("/");
+        location = location[location.length - 1];
+
+        switch(location) {
+            case 'mainAction':
+                $("title").text("Korean - English dictionary");
+                break;
+            case 'search':
+                $("title").text("Korean - English dictionary - Search Results");
+                break;
+            case 'SearchView':
+                $("title").text("Korean - English dictionary - View Dictionary");
+                break;
+        }
+        $("a.print").printPreview();
+
+    });
+
+    //작은창 사전
+    function fnSmallDic(){
+        WinOpen("/eng/smallDic/mainAction","smallDic",440,690);
+    }
+
+    // 검색시 체크
+    function checkSearch() {
+        var query = document.mainSearchF.mainSearchWord.value;
+        var altTitle = "Please enter search item.";
+        var altTitle2 = "Please enter search item.";
+
+        if(checkStr(query, " ", "") == 0) {
+            alert(altTitle);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+
+        if(!checkInvalidStr(query)) {
+            alert(altTitle2);
+            document.mainSearchF.mainSearchWord.value = "";
+            document.mainSearchF.mainSearchWord.focus();
+
+            return;
+        }
+        document.mainSearchF.submit();
+    }
+</script>
+
+	<!-- container -->
+	<div id="container" class="accessArea">
+		<div class="inner">
+			
+			<!-- 상단 검색창 -->
+			
+
+
+<meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="7ac6c325-c6e0-4360-b0b4-f2ef1fb8c7ce" />
+<!-- search_wrap -->
+<div class="search_wrap notPrint">	
+	<h1 class="logo"><a href="/eng/mainAction"><img src="/images/2020/manyLang/eng_logo_s.jpg" alt="Basic Korean Dictionary"></a></h1>
+	<form name="mainSearchF">
+		<input type="hidden" name="nation" value="eng"/>
+		<input type="hidden" name="nationCode" value="6"/>
+		<input type="hidden" name="ParaWordNo" value=""/>
+		<!-- search_area -->
+		<div id="search_area" class="w500">
+			<div id="search_box">
+				<div class="search_form">
+					<input type="text" id="mainSearchWord" name="mainSearchWord" class="search_input search_query manyLang6" onkeypress="return handleEnter(1,event);" onmousedown="dq_setTextbox('1',event);" onkeydown="dq_setTextbox('1',event);" value="" title="Search word" placeholder="Please enter a word in Korean or English." autocomplete="off">
+				</div>
+				<!-- 자동완성 -->
+				<div class="search_auto_box">
+					<div class="auto_list" id="main_auto_complet" onmouseover="dq_setMouseon();" onmouseout="dq_setMouseoff();">
+					</div>
+				</div>
+				<!--//.자동완성 -->
+			</div>
+			<a href="javascript:fnMultiLanKeyBoardOpen('US');" class="keyboard"><img id="dq_keyboard" src="/images/2020/manyLang/btn_text.png"></a>
+			<a href="javascript:fnSearchWord();" class="search_btn"><i class="ri-search-line"></i><span class="blind">Search</span></a>
+			<a href="/eng/dicSearchDetail/searchDetailWords" class="btn_detail manyLang6">Advanced Search <i class="ri-arrow-right-s-line"></i></a>
+			<script type="text/javascript" src="/js/index_dqAutoCompleteCommon.js"></script>
+			<script type="text/javascript" src="/js/index_dqAutoComplete.js"></script>
+		</div>
+		<!-- //.search_area -->
+		<input type="hidden" name="_csrf" value="7ac6c325-c6e0-4360-b0b4-f2ef1fb8c7ce" />
+	</form>
+</div>
+
+
+<style type="text/css" media="screen,print">
+#languageSelect select {width:auto; height:25px; font-size:10pt}
+
+.ui-dialog .ui-dialog-title {margin:0;}
+.ui-widget-header {border:none;background:white;}
+.ui-dialog .ui-dialog-titlebar {position:relative;}
+.ui-dialog .ui-dialog-titlebar:before {content:"";position:absolute;left:0;top:40px;width:100%;height:1px;background:#396eb3;}
+
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }
+.selectable { list-style-type: none; margin: 0; padding: 0;}
+.selectable li {border: 1px solid #999;background: #fff;padding: 1px;float: left;width: 24px;height: 24px;text-align: center;cursor:pointer;}
+
+.ui-dialog .ui-dialog-titlebar{padding :0 0;}
+
+.adminStat {border-top:solid 2px #7da2de}
+.adminStat th,.adminStat td.txt_center{padding:0;text-indent:0}
+.adminStat th{background-color:#f3f3f3;text-align:center}
+.adminStat td{height:35px;background-color:#fafafa;text-align:center}
+.adminStat th.top_bd{border-top:solid 2px #d3d3d3}
+.adminStat th.start{border-left:1px solid #d3d3d3}
+.adminStat th.end{border-right:1px solid #fff}
+
+.tab_win_keyboard {width:100%;display:inline-block;}
+.tab_win_keyboard li a {float:left;display:inline-block;width:35%;height:40px;line-height:38px;background:#eff2f5;border:1px solid #ccc;border-bottom:none !important;
+	border-radius:10px 10px 0 0;box-sizing:border-box;font-size:16px;text-align:center;border-left:0;}
+.tab_win_keyboard li:first-child a {border-left:1px solid #ccc}
+.tab_win_keyboard li a.selected {font-weight:bold;color:#fff;background:#396eb3;border:1px solid #396eb3;}
+
+a.btn_gray_keyboard1{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard2{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard3{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard4{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard5{display:inline-block; background:#fff;padding:0px 7px 2px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard6{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard7{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard8{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard9{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+a.btn_gray_keyboard10{display:inline-block; background:#fff;padding:2px 7px 0px 7px; border:1px solid #ddd; border-radius:3px; font-size:11px;}
+
+#languageSelect select{border:1px solid #a9a6a6;color:#333; padding:3px;}
+
+::-webkit-input-placeholder {
+   color: #666;
+}
+:-moz-placeholder { /* Firefox 18- */
+   color: #666;  
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #666;  
+}
+:-ms-input-placeholder {  
+   color: #666;  
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	border: none;
+	background: none;
+	font-weight: normal;
+	color: #555555;
+}
+
+.ui-state-default .ui-icon {
+	background-image: none;
+}
+.ui-widget-header .ui-icon {
+	background-image: none;
+}
+
+.ui-icon,
+.ui-widget-content .ui-icon {
+	background-image: none;
+}
+
+
+.ui-widget-header .ui-state-default {
+	background: #e6e6e6 url(/images/2020/keyboard_close.png) 50% 50% repeat-x;
+}
+
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-left,
+.ui-corner-tl {
+	border-top-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-right,
+.ui-corner-tr {
+	border-top-right-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-left,
+.ui-corner-bl {
+	border-bottom-left-radius: 10px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-right,
+.ui-corner-br {
+	border-bottom-right-radius: 10px;
+}
+
+.ui-widget-content {
+	border:1px solid #396eb3;
+	background: #ffffff url(/images/jquery/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+	color: #222222;
+}
+</style>
+<script type="text/javascript">
+$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+    _title: function (title) {
+        if (!this.options.title) {
+            title.html("&#160;");
+        }
+        title.html(this.options.title);
+    }
+}));
+
+$(document).ready( function() {
+    $(".selectable > li").click(function() {
+        var tempKeyword = $("#mainSearchWord").val();
+        tempKeyword = tempKeyword + $(this).text();
+        
+        $("#mainSearchWord").val(tempKeyword);
+    });
+    
+    $("#mainSearchWord").bind("keyup",function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $("#mainSearchWord").bind("keydown",function(e){
+        if (!(event.keyCode >=37 && event.keyCode<=40)) {
+             $("#engLanguageLayer").hide();
+        }
+    });
+    
+    $("#td").click(function(e){
+        $("#engLanguageLayer > ol").hide();
+        
+        var inputLeft = $("#mainSearchWord").offset().left;
+        var inputTop = $("#mainSearchWord").offset().top;
+        
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(returnFocusValue.length-1,returnFocusValue.length);
+        
+        $("#textWidth").text(returnFocusValue);
+        
+        var left = inputLeft + $("#textWidth").outerWidth();
+        
+        if("eng" == "fra" || "eng" == "spa"){
+            $("#engType_"+lastWord).show();
+            $("#engLanguageLayer").css("top",(inputTop-15));
+            $("#engLanguageLayer").css("left",left);
+            $("#engLanguageLayer").show();
+        }
+    });
+    
+    $(".languageKey").click(function(){
+        var returnFocusValue = fnReturnFocusValue();
+        var lastWord = returnFocusValue.substr(0,returnFocusValue.length-1);
+        $("#mainSearchWord").val(lastWord+$(this).text()+$("#mainSearchWord").val().substr(returnFocusValue.length,$("#mainSearchWord").val().length));
+        
+        $("#engLanguageLayer > ol").hide();
+    });
+    
+    fnMultiLanKeyBoardOpen('US');
+    $(".ui-dialog").hide();
+});
+
+var dialogIsOpen = false;
+
+function fnMultiLanKeyBoardOpen(type){
+    if(dialogIsOpen){
+        $("#keyboardLayer").dialog("close");
+        dialogIsOpen = false;
+    }else{
+        VirtualKeyboard.toggle('mainSearchWord','td');
+    }
+    
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+    }else{
+    	
+    	var filter = [];
+		filter.push("EN");
+		VirtualKeyboard.setVisibleLayoutCodes(filter);
+		VirtualKeyboard.switchLayout("US US");
+		
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }   
+
+    $( "#keyboardLayer" ).dialog({
+        open: function() { 
+            $(this).parents('.ui-dialog').attr('tabindex', -1)[0].focus();
+            dialogIsOpen = true;
+        }, 
+        width: 588,
+        title:"<div class=\"tab_wrap_keyboard\"><ul class=\"tab_win_keyboard manyLang6\"><li><a href=\"javascript:fnMultiLanKeyBoardChange('US');\" id=\"keyboardTab1\">English</a></li><li><a href=\"javascript:fnMultiLanKeyBoardChange('KR');\" id=\"keyboardTab2\">Korean</a></li></ul></div>",
+        modal: false,
+        resizable : false,
+        position: {my: 'top', at: 'top+250'}
+    });
+    
+    if(type == "KR"){
+    	$("#keyboardTab1").removeClass("selected");
+		$("#keyboardTab2").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("manyLangTha");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("manyLang6");
+            $("#virtualKeyboard").find("span").addClass("koreaLang");
+        }
+        
+    }else{
+    	$("#keyboardTab2").removeClass("selected");
+		$("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").removeClass("koreaLang");
+            $("#virtualKeyboard").find("span").addClass("manyLang6");   
+        }
+        
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnMultiLanKeyBoardChange(type){
+    $("input[name=mainSearchWord]").focus();
+    
+    if(type != "VN"){
+        var filter = [];
+        
+        if(type =="IQ"){
+            filter.push("IQ");
+            filter.push("SA");
+        }else{
+            filter.push(type);
+        }
+        
+        VirtualKeyboard.setVisibleLayoutCodes(filter);
+        
+        $("#languageSelect").append($("#kb_langselector"));
+        
+        $("#virtualKeyboard").height("165px");
+        $("#virtualKeyboard").css("border","none");
+        
+        VirtualKeyboard.switchLayout("US US");
+        
+		if(type == "CN"){
+			$("#kb_langselector > optgroup > option").eq(0).remove();		
+			$("#kb_langselector > optgroup > option").eq(1).remove();
+		}        
+        
+        $("#td").show();
+        $("#languageSelect").show();
+        $("#onetextClearBtn").show();
+        $("#vietnameseKeyboard").hide();
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+    }else{
+        $("#td").hide();
+        $("#languageSelect").hide();
+        $("#onetextClearBtn").hide();
+        $("#vietnameseKeyboard").show();
+    }
+    
+    if(type == "KR"){
+        $("#kb_langselector > optgroup > option").eq(2).remove();
+        
+        $("#keyboardTab1").removeClass("selected");
+        $("#keyboardTab2").addClass("selected");
+        
+        $("#kb_langselector").addClass("koreaLang");
+        $("#kb_langselector").removeClass("manyLang6");
+        
+        
+        $("#virtualKeyboard").find("span").addClass("koreaLang");
+        $("#virtualKeyboard").find("span").removeClass("manyLang6");
+        
+        
+    }else{
+        $("#keyboardTab2").removeClass("selected");
+        $("#keyboardTab1").addClass("selected");
+        
+        if("eng" == "tha"){
+            $("#virtualKeyboard").find("span").addClass("manyLangTha");
+            $("#kb_langselector").addClass("manyLangTha");
+        }else{
+            $("#virtualKeyboard").find("span").addClass("manyLang6");
+            $("#kb_langselector").addClass("manyLang6");
+        }
+        
+        $("#virtualKeyboard").find("span").removeClass("koreaLang");
+        $("#kb_langselector").removeClass("koreaLang");
+    }
+    $("#mainSearchWord").focus();
+}
+
+function fnOneTextClear(){
+    var tempKeyword = $("#mainSearchWord").val();
+    tempKeyword = tempKeyword.substring(0, tempKeyword.length - 1);
+    $("#mainSearchWord").val(tempKeyword);  
+}
+
+function fnReturnFocusValue(){
+    var myField =  eval(document.getElementById("mainSearchWord"));
+    var focusValue = "";
+    if(document.selection) {
+        //IE support
+        myField.focus();
+        var range = document.selection.createRange();
+        focusValue = range.text;
+    }else if (myField.selectionStart || myField.selectionStart == '0') {
+        //MOZILLA/NETSCAPE support
+        var startPos = myField.selectionStart;
+        focusValue = myField.value.substr(0,startPos); 
+    }else{
+        focusValue = myField.value;
+    }   
+    return focusValue;
+}
+
+//언어 선택시
+function fnFontChange(){
+    if("eng" == "tha"){
+        $("#virtualKeyboard").find("span").addClass("manyLangTha");
+    }else{
+        $("#virtualKeyboard").find("span").addClass("manyLang6");
+    }
+}
+</script>
+<div id="keyboardLayer" style="display:none;border: none;">
+    <div id="languageSelect"  style="margin-left: -10px;margin-bottom: 5px;"></div>  
+    <div id="onetextClearBtn" class="manyLang6" style="text-align: right;margin-top: -25px;margin-right:-7px;">
+        <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+    </div>
+    <div id="td" style="margin-left: -18px;direction: ltr;" class="manyLang6" ></div>
+    <div id="vietnameseKeyboard"class="gray" style="margin-top:5px;display:none;'">
+        <div class="manyLang6" style="text-align: right;margin-top: -10px;">
+            <a href="javascript:fnOneTextClear();" class="btn_gray_keyboard6">Delete</a>
+        </div>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Phụ âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">b</li>
+                        <li class="ui-state-default">c</li>
+                        <li class="ui-state-default">d</li>
+                        <li class="ui-state-default">đ</li>
+                        <li class="ui-state-default">g</li>
+                        <li class="ui-state-default">h</li>
+                        <li class="ui-state-default">k</li>
+                        <li class="ui-state-default">l</li>
+                        <li class="ui-state-default">m</li>
+                        <li class="ui-state-default">n</li>
+                        <li class="ui-state-default">p</li>
+                        <li class="ui-state-default">q</li>
+                        <li class="ui-state-default">r</li>
+                        <li class="ui-state-default">s</li>
+                        <li class="ui-state-default">t</li>
+                        <li class="ui-state-default">v</li>
+                        <li class="ui-state-default">x</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">f</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">j</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">w</li>
+                        <li class="ui-state-default" style="color:#268A3C;font-style: italic;">z</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+        <table class="adminStat manyLang6" style="border:none;width: 100%;margin-top: 5px;">
+            <colgroup>
+                <col width="80" />
+                <col width="*" />
+            </colgroup>
+            <tr>
+                <th class="txt_center" style="font-size:13px;">Nguyên âm</th>
+                <td class="txt_center white"> 
+                    <ol class="selectable">
+                        <li class="ui-state-default">a</li>
+                        <li class="ui-state-default">á</li>
+                        <li class="ui-state-default">à</li>
+                        <li class="ui-state-default">ả</li>
+                        <li class="ui-state-default">ã</li>
+                        <li class="ui-state-default">ạ</li>
+                        <li class="ui-state-default">ă</li>
+                        <li class="ui-state-default">ắ</li>
+                        <li class="ui-state-default">ằ</li>
+                        <li class="ui-state-default">ẳ</li>
+                        <li class="ui-state-default">ẵ</li>
+                        <li class="ui-state-default">ặ</li>
+                        <li class="ui-state-default">â</li>
+                        <li class="ui-state-default">ấ</li>
+                        <li class="ui-state-default">ầ</li>
+                        <li class="ui-state-default">ẩ</li>
+                        <li class="ui-state-default">ẫ</li>
+                        <li class="ui-state-default">ậ</li>
+                        <li class="ui-state-default">o</li>
+                        <li class="ui-state-default">ó</li>
+                        <li class="ui-state-default">ò</li>
+                        <li class="ui-state-default">ỏ</li>
+                        <li class="ui-state-default">õ</li>
+                        <li class="ui-state-default">ọ</li>
+                        <li class="ui-state-default">ô</li>
+                        <li class="ui-state-default">ố</li>
+                        <li class="ui-state-default">ồ</li>
+                        <li class="ui-state-default">ổ</li>
+                        <li class="ui-state-default">ỗ</li>
+                        <li class="ui-state-default">ộ</li>
+                        <li class="ui-state-default">ơ</li>
+                        <li class="ui-state-default">ớ</li>
+                        <li class="ui-state-default">ờ</li>
+                        <li class="ui-state-default">ở</li>
+                        <li class="ui-state-default">ỡ</li>
+                        <li class="ui-state-default">ợ</li>
+                        
+                        <li class="ui-state-default">e</li>
+                        <li class="ui-state-default">é</li>
+                        <li class="ui-state-default">è</li>
+                        <li class="ui-state-default">ẻ</li>
+                        <li class="ui-state-default">ẽ</li>
+                        <li class="ui-state-default">ẹ</li>
+                        <li class="ui-state-default">ê</li>
+                        <li class="ui-state-default">ế</li>
+                        <li class="ui-state-default">ề</li>
+                        <li class="ui-state-default">ể</li>
+                        <li class="ui-state-default">ễ</li>
+                        <li class="ui-state-default">ệ</li>
+                        <li class="ui-state-default">u</li>
+                        <li class="ui-state-default">ú</li>
+                        <li class="ui-state-default">ù</li>
+                        <li class="ui-state-default">ủ</li>
+                        <li class="ui-state-default">ũ</li>
+                        <li class="ui-state-default">ụ</li>
+                        <li class="ui-state-default">ư</li>
+                        <li class="ui-state-default">ứ</li>
+                        <li class="ui-state-default">ừ</li>
+                        <li class="ui-state-default">ử</li>
+                        <li class="ui-state-default">ữ</li>
+                        <li class="ui-state-default">ự</li>
+                        <li class="ui-state-default">i</li>
+                        <li class="ui-state-default">í</li>
+                        <li class="ui-state-default">ì</li>
+                        <li class="ui-state-default">ỉ</li>
+                        <li class="ui-state-default">ĩ</li>
+                        <li class="ui-state-default">ị</li>
+                        <li class="ui-state-default">y</li>
+                        <li class="ui-state-default">ý</li>
+                        <li class="ui-state-default">ỳ</li>
+                        <li class="ui-state-default">ỷ</li>
+                        <li class="ui-state-default">ỹ</li>
+                        <li class="ui-state-default">ỵ</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<div id="fraLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="fraType_a" style="display:none;">
+        <li class="ui-state-default languageKey languageKey">à</li>
+        <li class="ui-state-default languageKey">â</li>
+        <li class="ui-state-default languageKey">æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_A" style="display:none;">
+        <li class="ui-state-default languageKey">À</li>
+        <li class="ui-state-default languageKey">Â</li>
+        <li class="ui-state-default languageKey">Æ</li>
+    </ol>
+    <ol class="selectable" id="fraType_c" style="display:none;">
+        <li class="ui-state-default languageKey">ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_C" style="display:none;">
+        <li class="ui-state-default languageKey">Ç</li>
+    </ol>
+    <ol class="selectable" id="fraType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+        <li class="ui-state-default languageKey">è</li>
+        <li class="ui-state-default languageKey">ë</li>
+        <li class="ui-state-default languageKey">ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+        <li class="ui-state-default languageKey">È</li>
+        <li class="ui-state-default languageKey">Ë</li>
+        <li class="ui-state-default languageKey">Ê</li>
+    </ol>
+    <ol class="selectable" id="fraType_i" style="display:none;">
+        <li class="ui-state-default languageKey">î</li>
+        <li class="ui-state-default languageKey">ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Î</li>
+        <li class="ui-state-default languageKey">Ï</li>
+    </ol>
+    <ol class="selectable" id="fraType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ô</li>
+        <li class="ui-state-default languageKey">œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ô</li>
+        <li class="ui-state-default languageKey">Œ</li>
+    </ol>
+    <ol class="selectable" id="fraType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ù</li>
+        <li class="ui-state-default languageKey">û</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="fraType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ù</li>
+        <li class="ui-state-default languageKey">Û</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+</div>
+<div id="spaLanguageLayer" style="position: absolute;display:none;">
+    <ol class="selectable" id="spaType_a" style="display:none;">
+        <li class="ui-state-default languageKey">á</li>
+    </ol>
+    <ol class="selectable" id="spaType_A" style="display:none;">
+        <li class="ui-state-default languageKey">Á</li>
+    </ol>
+    <ol class="selectable" id="spaType_e" style="display:none;">
+        <li class="ui-state-default languageKey">é</li>
+    </ol>
+    <ol class="selectable" id="spaType_E" style="display:none;">
+        <li class="ui-state-default languageKey">É</li>
+    </ol>
+    <ol class="selectable" id="spaType_i" style="display:none;">
+        <li class="ui-state-default languageKey">í</li>
+    </ol>
+    <ol class="selectable" id="spaType_I" style="display:none;">
+        <li class="ui-state-default languageKey">Í</li>
+    </ol>
+    <ol class="selectable" id="spaType_o" style="display:none;">
+        <li class="ui-state-default languageKey">ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_O" style="display:none;">
+        <li class="ui-state-default languageKey">Ó</li>
+    </ol>
+    <ol class="selectable" id="spaType_u" style="display:none;">
+        <li class="ui-state-default languageKey">ú</li>
+        <li class="ui-state-default languageKey">ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_U" style="display:none;">
+        <li class="ui-state-default languageKey">Ú</li>
+        <li class="ui-state-default languageKey">Ü</li>
+    </ol>
+    <ol class="selectable" id="spaType_n" style="display:none;">
+        <li class="ui-state-default languageKey">ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_N" style="display:none;">
+        <li class="ui-state-default languageKey">Ñ</li>
+    </ol>
+    <ol class="selectable" id="spaType_s!" style="display:none;">
+        <li class="ui-state-default languageKey">¡</li>
+    </ol>
+    <ol class="selectable" id="spaType_s?" style="display:none;">
+        <li class="ui-state-default languageKey">¿</li>
+    </ol>
+</div>
+<span id="textWidth" style="display:none;"></span>
+<!--//.search_wrap -->
+<script type="text/javascript">
+$(document).ready(function(){
+	//검색
+	$("form[name=mainSearchF]").find("input[name=mainSearchWord]").keypress(function(e){
+		if(e.keyCode === 13){
+			
+			checkSearch();
+			
+			if($.trim($(this).val()) != ""){
+				$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+		    	$("form[name=mainSearchF]").submit();
+			}
+		}	
+	});
+	
+	//자세히 찾기 검색조건 열고 닫기
+	$('.btn_detail_global').click(function(){
+		if($(this).is('.on')){
+			$(this).text('Hide Conditions');
+			$(this).removeClass('on');
+			$('.datail_form').slideDown();
+		} else{
+		   $(this).text('View Conditions');
+		   $(this).addClass('on');
+		   $('.datail_form').slideUp();
+		};
+		return false;
+	});	
+});
+
+//찾기
+function fnSearchWord(){
+	
+	checkSearch();
+	
+	if($.trim($("form[name=mainSearchF]").find("input[name=mainSearchWord]").val()) != ""){
+		$("form[name=mainSearchF]").attr("action", "/eng/dicMarinerSearch/search");
+    	$("form[name=mainSearchF]").submit();
+	}
+}
+
+//내가 살펴본 단어 가져오기
+function fnMyViewWordList(){
+	$.ajax({
+		url: '/dicSearch/selectMyViewWordList',
+    	type: 'GET',
+    	dataType:'json',
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	async: false,
+    	success : function(data) {
+			if(data.jsonList[0].returnFlag == "Y"){
+    			var returnData = data.jsonList[0].returnData;
+    			for(var i=returnData.length-1; i>=0; i--){
+    				var html  = "";
+    				html += "<li id='myWord_"+returnData[i].word_no+"'>";
+					html += "<a href=\"javascript:checkSubmit('"+returnData[i].word_no+"','"+returnData[i].disp_yn+"');\"><span class=\"word_type3_15\">"+returnData[i].org_word;
+					if(returnData[i].sup_no != "0"){
+						html += "<sup>"+returnData[i].sup_no+"</sup>";							
+					}else{
+						html += "<sup>&nbsp;</sup>";
+					}
+					html +="</span></a>";
+					html += "<a href='javascript:fnDeleteWord("+returnData[i].word_no+");' class='ml7'>";
+					html += "<img src='/images/2020/btn_del.png'/>";
+					html += "</a>";
+					html += "<input type='hidden' name='myViewWord' value='"+returnData[i].word_no+"'/>";
+					html += "</li>";
+					
+    				$("#myWordList").append(html);
+    			}
+    			
+    			var btnHtml = "";
+    			btnHtml += "<div class='myword_btn mt10 manyLang6'>";
+    			btnHtml += " <a href='javascript:fnDeleteWord(\"all\");' class='btn_sm navyL del'><i class='ri-subtract-line'></i> Delete All</a>";
+    			btnHtml += "</div>";
+    			
+    			if($("#myWordList > li").length > 0){
+    				$("#myWordList").parent().append(btnHtml);
+    			}
+    		}
+    	}
+	});
+}
+    	
+//내가 살펴본 단어 삭제
+function fnDeleteWord(word_no){
+	$.ajax({
+		url: '/dicSearch/deleteMyViewWord',
+    	type: 'POST',
+    	dataType:'json',
+    	data: 'deleteWord_no='+word_no,
+    	beforeSend: function (xhr) {
+            const csrf = $("meta[name='_csrf']").attr("content");
+            const csrf_header = $("meta[name='_csrf_header']").attr("content");
+            xhr.setRequestHeader(csrf_header, csrf);
+         },
+    	success : function(data) {
+    		if(data.result == "Y"){
+    			if(word_no == "all"){
+    				$("#myWordList > li").remove();	
+    			}else{
+    				$("#myWord_"+word_no).remove();
+    			}
+    			
+    			if($("#myWordList > li").length <= 0){
+					$("#myWordList").parent().find(".btn_sm").remove();
+				}
+    		}
+    	}
+    });
+}
+
+//트위터
+function fnTwitter(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "http://twitter.com/intent/tweet?text="+encodeURIComponent(text)+"&url="+encodeURIComponent(link_url);
+
+	fnWindowOpen(url, "target_twitter", 510, 470, "no");
+}
+
+//페이스북
+function fnFaceBook(){
+	var text = "";
+	var link_url = window.location.origin+window.location.pathname+"?ParaWordNo=";
+	var url = "https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(link_url)+"&t="+encodeURIComponent(text);
+
+	fnWindowOpen(url, "target_faceBook", 510, 470, "no");
+}
+</script>
+			
+			<form name="searchResultForm" method="get">
+		        <input type="hidden" name="wordMatchFlag" 	id="wordMatchFlag" 		value="N"	/>
+		        <input type="hidden" name="mainSearchWord" 	value="행복" 	/>
+		        <input type="hidden" name="currentPage" 	id="currentPage" 		value="1" 		/>
+		        <input type="hidden" name="sort" 			id="sort" 				value="W" 			/>
+		        <input type="hidden" name="searchType" 		id="searchType" 		value="E" 		/>
+		        <input type="hidden" name="proverbType" 	id="proverbType" 		value="" 		/>
+		        <input type="hidden" name="exaType" 		id="exaType" 			value="" 			/>
+		        <input type="hidden" name="ParaWordNo" 		id="ParaWordNo" 		value="" 		/>
+		        <input type="hidden" name="viewType" 								value="A" 		/>
+			
+				<div class="content_wrap">
+					<!-- new_sub_left -->
+	            	<div class="new_sub_left">
+						<!-- search_area -->
+						<div class="search_area">
+	                	<!-- tab start -->
+						<ul class="tabL four_mod manyLang6">
+	                        <li><a href="#" class="" id="tab_01" onclick="fnSearch('W');">Word <em>3</em></a></li>
+	                        <li><a href="#" class="" id="tab_02" onclick="fnSearch('P');">Idioms·Proverbs <em>0</em></a></li>
+	                        <li><a href="#" class="" id="tab_03" onclick="fnSearch('S');">Definition <em>33</em></a></li>
+	                        <li><a href="#" class="selected" id="tab_04" onclick="fnSearch('E');">Usage Example <em>447</em></a></li>
+	                	</ul>
+	                	<!--// tab end -->
+                	
+	                	 
+		                    <div class="result_title group manyLang6">
+		                    	<div class="floatL">
+		                    		<span class="search_tit">
+				                    	
+				                    	
+				                    	
+				                    					                    		View search results for				                    	
+				                        	<strong class="checkKeyword blue">'행복'</strong>
+				                        
+				                         
+				                        
+				                        
+				                        
+				                    	
+				                    	
+					                    	among examples
+				                    		<span class="blue ml5"> 447 results</span>
+		                    			
+		                    		</span>
+		                    	</div>
+		                    	
+								<div class="floatR mt5 ml20">
+									<div class="btnS_area koreaLang">
+										<a href="#plus" class="btn btnS navyL zoomin plus" 		title="Larger">가</a>
+										<a href="#minus" class="btn btnS navyL zoomout minus" 	title="Smaller">가</a>
+									</div>
+									<div class="select w200 ml7">
+										<select name="blockCount" id="blockCount" class="manyLang6" onchange="javascript:searchPaging(1)" title="blockCount">
+											<option value="10"  >View 10 per page</option>
+		                                    <option value="20"  >View 20 per page</option>
+		                                    <option value="30"  >View 30 per page</option>
+		                                    <option value="50"  >View 50 per page</option>
+		                                    <option value="100" selected>View 100 per page</option>
+										</select>
+									</div>
+								</div>
+							</div>
+						
+						
+					    <!-- search_list -->
+					    <div class="search_result mt25 printArea list" >
+					    	
+						    	
+									
+								
+									
+								
+									
+								
+									<ul>
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('28757','Y');">신혼부부는 새집을 예쁘게 가꾸며 <strong class='black1'>행복</strong>해하였다.(<span class="manyLang6">Word</span>: 가꾸다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('28069','Y');">부자나 가난뱅이나 할 것 없이 모든 사람은 <strong class='black1'>행복</strong>할 권리가 있다.(<span class="manyLang6">Word</span>: 가난뱅이<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62495','Y');">나는 비록 가난하게 살고 있지만 공부를 하며 지내는 지금의 생활이 <strong class='black1'>행복</strong>하다.(<span class="manyLang6">Word</span>: 가난하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62252','Y');"><strong class='black1'>행복</strong>이 가득하다.(<span class="manyLang6">Word</span>: 가득하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('59900','Y');">좋은 아내 덕에 <strong class='black1'>행복</strong>한 가정을 가지고 있다는 것에 항상 감사하고 있지.(<span class="manyLang6">Word</span>: 가정<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('59900','Y');">가족들이 모두 건강해야 가정이 평화롭고 <strong class='black1'>행복</strong>하다.(<span class="manyLang6">Word</span>: 가정<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('601294','Y');"><strong class='black1'>행복</strong>한 가정생활을 하는 비결이 뭐야?(<span class="manyLang6">Word</span>: 가정생활<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('601294','Y');"><strong class='black1'>행복</strong>한 가정생활.(<span class="manyLang6">Word</span>: 가정생활<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('25880','Y');">지수는 <strong class='black1'>행복</strong>한 가정적 분위기 속에서 잘 자라 성품이 올바르다.(<span class="manyLang6">Word</span>: 가정적<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('25880','Y');">가정적 <strong class='black1'>행복</strong>.(<span class="manyLang6">Word</span>: 가정적<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('26155','Y');">지수는 <strong class='black1'>행복</strong>하고 따뜻한 가정 환경에서 부모님의 사랑을 듬뿍 받고 자랐다.(<span class="manyLang6">Word</span>: 가정 환경<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62369','Y');"><strong class='black1'>행복</strong>을 가져다주다.(<span class="manyLang6">Word</span>: 가져다주다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('26166','Y');">저희 가족이 <strong class='black1'>행복</strong>해지려면 제가 어떻게 해야 할까요?(<span class="manyLang6">Word</span>: 가족원<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('16219','Y');">‘<strong class='black1'>행복</strong>을 찾아서’는 우리 방송국의 간판 프로그램이다.(<span class="manyLang6">Word</span>: 간판<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('14717','Y');"><strong class='black1'>행복</strong>에 대한 갈망.(<span class="manyLang6">Word</span>: 갈망<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('72347','Y');"><strong class='black1'>행복</strong>감(<span class="manyLang6">Word</span>: -감<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('18994','Y');">그렇지? 듣고 있으면 마음이 편안하고 <strong class='black1'>행복</strong>해져.(<span class="manyLang6">Word</span>: 감미롭다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('18994','Y');">김 감독은 사랑에 빠진 남녀의 <strong class='black1'>행복</strong>하고 감미로운 사랑 이야기를 영화로 만들었다.(<span class="manyLang6">Word</span>: 감미롭다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('14461','Y');">그 정치가는 모든 사람들이 똑같이 <strong class='black1'>행복</strong>하게 사는 세상을 만들겠다고 했어.(<span class="manyLang6">Word</span>: 감상주의<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('20584','Y');">우리는 <strong class='black1'>행복</strong>한 삶에 대한 교수님의 강연을 듣고 크게 감동을 받았다.(<span class="manyLang6">Word</span>: 강연<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('601033','Y');">힘들기도 하지만 <strong class='black1'>행복</strong>감이 커요. 아기가 이렇게 큰 <strong class='black1'>행복</strong>을 갖다줄지 몰랐어요.(<span class="manyLang6">Word</span>: 갖다주다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62076','Y');">응, 너무 <strong class='black1'>행복</strong>해서 마치 꿈을 꾸는 것 같아.(<span class="manyLang6">Word</span>: 같다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('15721','Y');">좋아요. 사랑하는 사람과 생활을 같이하니 참 <strong class='black1'>행복</strong>하답니다.(<span class="manyLang6">Word</span>: 같이하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('18528','Y');">원작과 달리 개작된 작품에서는 주인공들이 <strong class='black1'>행복</strong>한 결말을 맺는다.(<span class="manyLang6">Word</span>: 개작되다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('59325','Y');">거울에 비친 남자의 모습이 <strong class='black1'>행복</strong>해 보였다.(<span class="manyLang6">Word</span>: 거울<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('23629','Y');">두 사람의 <strong class='black1'>행복</strong>을 위하여 건배!(<span class="manyLang6">Word</span>: 건배<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('25418','Y');">걷잡을 수 없는 <strong class='black1'>행복</strong>감.(<span class="manyLang6">Word</span>: 걷잡다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('77325','Y');">아이의 웃는 모습은 항상 날 <strong class='black1'>행복</strong>하게 만든다.(<span class="manyLang6">Word</span>: -게 만들다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('30258','Y');">전형적인 고전 소설은 결 단계에서 등장인물 간의 모든 갈등이 해결되고 <strong class='black1'>행복</strong>한 결말을 맺는다는 특성을 보인다.(<span class="manyLang6">Word</span>: 결<sup>3</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('30266','Y');">그녀는 모든 편지의 결구를 ‘언제나 <strong class='black1'>행복</strong>하세요!’라는 문장으로 마무리한다.(<span class="manyLang6">Word</span>: 결구<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('30406','Y');">이제 막 결혼식을 올린 신랑과 신부는 <strong class='black1'>행복</strong>한 표정으로 결혼사진을 찍었다.(<span class="manyLang6">Word</span>: 결혼사진<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('30453','Y');"><strong class='black1'>행복</strong>에 겹다.(<span class="manyLang6">Word</span>: 겹다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('91455','Y');">내 월급이 고래 가지고 좀 빠듯해. 그래도 <strong class='black1'>행복</strong>해.(<span class="manyLang6">Word</span>: 고래<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('22664','Y');">결혼하면 고생문이 열릴 것이라 했지만 고생은커녕, <strong class='black1'>행복</strong>하기만 하다.(<span class="manyLang6">Word</span>: 고생문<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('19484','Y');">네, 상상도 못 했는데 정말 <strong class='black1'>행복</strong>했어요.(<span class="manyLang6">Word</span>: 공개되다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42220','Y');">내가 <strong class='black1'>행복</strong>해야 사회 전체가 <strong class='black1'>행복</strong>한 거 아니야?(<span class="manyLang6">Word</span>: 공리주의<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42220','Y');">공리주의를 믿는 사람들에게는 개인의 <strong class='black1'>행복</strong>이 인간의 궁극적인 목표이다.(<span class="manyLang6">Word</span>: 공리주의<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42220','Y');">공리주의 이론은 한마디로 '최대 다수의 최대 <strong class='black1'>행복</strong>'이라고 할 수 있다.(<span class="manyLang6">Word</span>: 공리주의<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('27244','Y');"><strong class='black1'>행복</strong>했던 과거.(<span class="manyLang6">Word</span>: 과거<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('27244','Y');">자수는 <strong class='black1'>행복</strong>했던 과거를 자주 생각한다.(<span class="manyLang6">Word</span>: 과거<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('21746','Y');">할머니의 영혼은 천국에 가서 <strong class='black1'>행복</strong>하게 지내고 계실 거야.(<span class="manyLang6">Word</span>: 관<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('30310','Y');">어머니는 늘 나의 <strong class='black1'>행복</strong>을 자신의 <strong class='black1'>행복</strong>과 관련시키신다.(<span class="manyLang6">Word</span>: 관련시키다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('36785','Y');">경제 발전을 위한 강력한 국가주의 정책 때문에 민중들의 개인적인 <strong class='black1'>행복</strong>은 무시되었다.(<span class="manyLang6">Word</span>: 국가주의<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('37703','Y');">국모의 자리에 오른 여인들은 모두 <strong class='black1'>행복</strong>했을까?(<span class="manyLang6">Word</span>: 국모<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('88811','Y');">이 녀석아, 아버지는 국민학생 때 계란 반찬만 있어도 <strong class='black1'>행복</strong>했었다.(<span class="manyLang6">Word</span>: 국민학생<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38141','Y');">영화와 인생의 궤적을 같이 해 온 감독님의 노년은 화려하지는 않지만 정말 <strong class='black1'>행복</strong>해 보였다.(<span class="manyLang6">Word</span>: 궤적<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('34900','Y');">귀하의 가정에 평안과 <strong class='black1'>행복</strong>이 가득하시기를 기원합니다.(<span class="manyLang6">Word</span>: 귀하<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62250','Y');">사랑하는 사람과 함께 사는 일, 그처럼 <strong class='black1'>행복</strong>한 일이 없다.(<span class="manyLang6">Word</span>: 그<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('36239','Y');">지수는 그와 함께 보냈던 그날그날이 인생에서 가장 <strong class='black1'>행복</strong>한 시기였다고 말했다.(<span class="manyLang6">Word</span>: 그날그날<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('37070','Y');">삶이 팍팍해 질수록 나는 <strong class='black1'>행복</strong>했던 어린 시절이 그리웠다.(<span class="manyLang6">Word</span>: 그립다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('32104','Y');">그지없이 <strong class='black1'>행복</strong>하다.(<span class="manyLang6">Word</span>: 그지없이<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('32191','Y');">마음속에 근심이 있으면 사는 게 <strong class='black1'>행복</strong>하지 않다.(<span class="manyLang6">Word</span>: 근심<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('37187','Y');"><strong class='black1'>행복</strong>의 근원.(<span class="manyLang6">Word</span>: 근원<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('37187','Y');"><strong class='black1'>행복</strong>의 근원은 화목한 가정에서부터 시작된다.(<span class="manyLang6">Word</span>: 근원<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40132','Y');">매사에 긍정적인 사고방식은 삶을 더욱 <strong class='black1'>행복</strong>하고 풍요롭게 만든다.(<span class="manyLang6">Word</span>: 긍정적<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('77339','Y');">불행과 <strong class='black1'>행복</strong>은 생각하기 나름이다.(<span class="manyLang6">Word</span>: -기 나름이다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('83920','Y');">아이들의 웃는 얼굴은 보기만 해도 <strong class='black1'>행복</strong>해진다.(<span class="manyLang6">Word</span>: -기만 하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40080','Y');">기쁨과 <strong class='black1'>행복</strong>.(<span class="manyLang6">Word</span>: 기쁨<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('85417','Y');">대학교에서 친구들과 함께 찍은 사진 한 장은 그때의 <strong class='black1'>행복</strong>한 시간을 기억시키기에 충분했다.(<span class="manyLang6">Word</span>: 기억시키다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38076','Y');">네. 한 해의 <strong class='black1'>행복</strong>을 기원하는 뜻으로 연을 날리는 거예요.(<span class="manyLang6">Word</span>: 기원하다<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38076','Y');"><strong class='black1'>행복</strong>을 기원하다.(<span class="manyLang6">Word</span>: 기원하다<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('23813','Y');"><strong class='black1'>행복</strong>과 불행의 근원은 사람의 마음가짐에 있으므로 <strong class='black1'>행복</strong>에 절대적인 기준선은 없다.(<span class="manyLang6">Word</span>: 기준선<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('26220','Y');">아버지와의 대화를 통하여 긴밀감을 형성한 자녀가 <strong class='black1'>행복</strong>도가 높은 것으로 조사되었다.(<span class="manyLang6">Word</span>: 긴밀감<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('59251','Y');">남부럽지 않게 <strong class='black1'>행복</strong>하게 잘 사는 것이 부모님께 효도하는 길이다(<span class="manyLang6">Word</span>: 길<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('59251','Y');"><strong class='black1'>행복</strong>해지는 길.(<span class="manyLang6">Word</span>: 길<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('45117','Y');">우리 조상들은 새해에 복조리를 걸어 두면서 한 해가 길하고 <strong class='black1'>행복</strong>하기를 기원하였다.(<span class="manyLang6">Word</span>: 길하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('83296','Y');"><strong class='black1'>행복</strong>이 깃들다.(<span class="manyLang6">Word</span>: 깃들다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38553','Y');">남편은 딸만 보면 껄껄거리며 <strong class='black1'>행복</strong>한 웃음을 짓는다.(<span class="manyLang6">Word</span>: 껄껄거리다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38234','Y');">앞에는 바다가 펼쳐져 있고 뒤에는 공기 좋은 산이 있으니 여기에 집을 짓고 살면 정말 <strong class='black1'>행복</strong>할 것 같아.(<span class="manyLang6">Word</span>: 꽃동산<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38234','Y');">나는 오늘 결혼식을 한 동생 부부가 사랑의 꽃동산에서 <strong class='black1'>행복</strong>하게 살아가길 바란다.(<span class="manyLang6">Word</span>: 꽃동산<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('600552','Y');"><strong class='black1'>행복</strong>했던 시간이 꿈같이 지나갔다.(<span class="manyLang6">Word</span>: 꿈같다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('17552','Y');">사 년간의 대학 생활은 나에게 꿈결처럼 <strong class='black1'>행복</strong>한 시간이었다.(<span class="manyLang6">Word</span>: 꿈결<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('63786','Y');">고마워. 언니도 새해 <strong class='black1'>행복</strong>하고, 좋은 일만 있길 바라.(<span class="manyLang6">Word</span>: 꿈꾸다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('39349','Y');">부부에게 아기가 태어난지 얼마 안 되어 정신없지만 <strong class='black1'>행복</strong>한 나날의 연속이었다.(<span class="manyLang6">Word</span>: 나날<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('39349','Y');"><strong class='black1'>행복</strong>한 나날.(<span class="manyLang6">Word</span>: 나날<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38950','Y');">김 목사는 내게 인생에 대한 낙관적 믿음만 있다면 <strong class='black1'>행복</strong>해질 수 있다고 했다.(<span class="manyLang6">Word</span>: 낙관적<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('24708','Y');">그래? 난 사랑하는 사람과 함께라면 남루만 걸쳐도 <strong class='black1'>행복</strong>할 것 같은데.(<span class="manyLang6">Word</span>: 남루<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('37981','Y');">그는 가난했지만 그를 사랑하는 아내 덕분에 남부럽지 않게 <strong class='black1'>행복</strong>했다.(<span class="manyLang6">Word</span>: 남부럽다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('31919','Y');">아내와 남편이 서로 사랑하고 존중할 때 <strong class='black1'>행복</strong>한 가정이 이루어진다.(<span class="manyLang6">Word</span>: 남편<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('38636','Y');">옛날에 춘향이는 암행어사 낭군을 만나 <strong class='black1'>행복</strong>하게 살았다.(<span class="manyLang6">Word</span>: 낭군<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('85915','Y');">할머니께서는 용돈을 주는 것이 <strong class='black1'>행복</strong>이라고 생각하시니까 받아.(<span class="manyLang6">Word</span>: 내밀다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40288','Y');">나는 죽어서 내세에 가면 <strong class='black1'>행복</strong>하게 살고 싶어.(<span class="manyLang6">Word</span>: 내세관<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42326','Y');">아기를 안은 어머니의 모습이 너무나 <strong class='black1'>행복</strong>해 보였다.(<span class="manyLang6">Word</span>: 너무나<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42326','Y');">너무나 <strong class='black1'>행복</strong>하다.(<span class="manyLang6">Word</span>: 너무나<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('88359','Y');">명절을 맞아 고향집에서 오랜만에 친지들과 노닥이니 무척 <strong class='black1'>행복</strong>했다.(<span class="manyLang6">Word</span>: 노닥이다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('45629','Y');">맞아. 그렇게 <strong class='black1'>행복</strong>해지고 싶어서 돈을 벌고 열심히 사는 것 아니겠니?(<span class="manyLang6">Word</span>: 누리다<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('45629','Y');">사람은 누구나 <strong class='black1'>행복</strong>을 누리면서 살고 싶어 해.(<span class="manyLang6">Word</span>: 누리다<sup>1</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('72714','Y');">그 가수는 인터뷰에서 자신이 좋아하는 데다가 잘하는 일을 직업으로 갖게 되어 <strong class='black1'>행복</strong>하다고 했다.(<span class="manyLang6">Word</span>: -는 데다가<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40481','Y');">늘 <strong class='black1'>행복</strong>하다.(<span class="manyLang6">Word</span>: 늘<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('62833','Y');">응, 조금씩 아끼면 조금씩 살림이 늘어나는 게 보여서 그게 <strong class='black1'>행복</strong>해.(<span class="manyLang6">Word</span>: 늘어나다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('41263','Y');"><strong class='black1'>행복</strong>한 노년을 위한 강연에는 늙수그레한 중년의 부부들이 많이 참가했다.(<span class="manyLang6">Word</span>: 늙수그레하다<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('41386','Y');">몸은 좀 힘들지만 우리 늦둥이 재롱 보는 재미에 하루하루 얼마나 <strong class='black1'>행복</strong>한지 몰라요.(<span class="manyLang6">Word</span>: 늦둥이<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('23370','Y');">이 세상에서 다만 한 사람이라도 나를 기억해 준다면 <strong class='black1'>행복</strong>할 것 같다.(<span class="manyLang6">Word</span>: 다만<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40584','Y');">아기가 태어나니 정말 <strong class='black1'>행복</strong>하지요?(<span class="manyLang6">Word</span>: 다정스레<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40584','Y');">네, 특히 남편이 아기의 얼굴을 다정스레 바라보고 있는 걸 보면 정말 <strong class='black1'>행복</strong>해요.(<span class="manyLang6">Word</span>: 다정스레<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('40583','Y');">아침에 제 이름을 다정히 부르면서 저를 깨워 줄 때 참 <strong class='black1'>행복</strong>하네요.(<span class="manyLang6">Word</span>: 다정히<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('42159','Y');">그들은 요즘 신혼의 단꿈에 젖어 한창 <strong class='black1'>행복</strong>한 나날을 보내고 있다.(<span class="manyLang6">Word</span>: 단꿈<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('24689','Y');">내 동생은 배고프면 화를 내고 배부르면 <strong class='black1'>행복</strong>해하는 단세포이다.(<span class="manyLang6">Word</span>: 단세포<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('61300','Y');"><strong class='black1'>행복</strong>은 생각하기에 달려 있으니 지금 삶에 항상 감사하는 마음이 중요하다.(<span class="manyLang6">Word</span>: 달리다<sup>2</sup>)</a></li>
+												
+											
+										
+											
+												
+												
+													<li><a href="javascript:checkSubmit('18414','Y');">저 멀리서 담소를 나누며 걸어오는 연인의 모습이 <strong class='black1'>행복</strong>해 보인다.(<span class="manyLang6">Word</span>: 담소<sup>&nbsp;</sup>)</a></li>
+												
+											
+										
+									</ul>
+								
+							
+							
+							
+							
+							
+						</div>
+						
+						<div class="paging_area">
+							<span class='paging_num on'><a href="#">1</a></span>
+<span class='paging_num'><a href="javascript:searchPaging('2');" title="2">2</a></span>
+<span class='paging_num'><a href="javascript:searchPaging('3');" title="3">3</a></span>
+<span class='paging_num'><a href="javascript:searchPaging('4');" title="4">4</a></span>
+<span class='paging_num'><a href="javascript:searchPaging('5');" title="5">5</a></span>
+
+						</div>
+						</div>
+						<!-- //.search_area -->
+						<!--search_add-->
+						<div class="search_add">
+							<div>찾으시는 단어가 없나요? <span style="font-weight:bold">우리말샘</span>에서 다시 한번 검색해 보세요.</div>
+							<div class="mt_20"><a href="#" onclick="javascript:fnSearchOpendic();" class="bnt_go">우리말샘으로 바로가기</a></div>
+							<div class="mt_20"><span class="t_gray">*<img src="/images/2020/icon_ssam.gif" alt="우리말샘">은 누구든지 참여하여 함께 만드는 우리말 사전입니다.</span></div>
+						</div>
+						<!--//.search_add-->
+					</div>
+					<!--//.new_sub_left -->
+
+            		<!-- 우측영역 start -->
+					<div class="sub_right">
+	            		
+		                 
+	                	
+	                	
+							<div class="div_wrap bg manyLang6">
+			                    <div class="title">Select sample sentences</div>
+		                        <ul class="radiobox row">
+		                            <li><input type="radio" id="gubunAll" onclick="javascript:fnExampleSelect();"    checked /><label for="gubunAll">All<span class="black9"> 447</span></label></li>
+		                            <li><input type="radio" id="gubunA"   onclick="javascript:fnExampleSelect('1');"  /><label for="gubunA">Phrase Example  <span class="black9"> 98</span></label></li>
+		                            <li><input type="radio" id="gubunB"   onclick="javascript:fnExampleSelect('2');"  /><label for="gubunB">Sentence Example  <span class="black9"> 224</span></label></li>
+		                            <li><input type="radio" id="gubunC"   onclick="javascript:fnExampleSelect('3');"  /><label for="gubunC">Conversation Example  <span class="black9"> 125</span></label></li>
+		                        </ul>
+			                </div>				
+						
+						<div class="div_wrap">
+							<div class="title manyLang6">My Search History</div>
+					    	<ul id="myWordList" class="myword_list"></ul>
+						</div>
+
+						<!-- 네이버 배너 -->
+						<div class="div_wrap bg banner manyLang6">
+							<a href="http://www.naverfoundation.org" target="_blank">
+								<div class="banner_naver">
+									Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.
+									<img src="/images/2020/banner_naver.png" class="mt5">
+								</div>
+							</a>
+						</div>
+						<!-- //네이버 배너 -->
+						
+						<div class="div_wrap banner manyLang6">
+							<a href="javascript:fnDownloadLayer();">
+								<div class="banner_naver">
+									<img src="/images/2020/manyLang/download.png" class="mb5"><br>
+									Download the dictionary
+								</div>
+							</a>
+						</div>						
+	            	</div>
+	           		<!-- 우측 영역 end -->
+	           	</div>
+				<input type="hidden" name="_csrf" value="7ac6c325-c6e0-4360-b0b4-f2ef1fb8c7ce" />
+	        </form>
+		</div>
+    </div>
+    
+
+<!-- footer -->
+<div id="footer">
+    <div class="footer_wrap">
+        <div class="foot_menu manyLang6">
+            <a href="https://korean.go.kr" class="logo"><img src="/images/2020/manyLang/eng_footer_logo.png" alt="National Institute of Korean Language" /></a>
+            <ul>
+                <li><a href="/eng/help/helpList">Help</a></li>
+                <li><a href="/eng/guide/guideList">Translation guideline</a></li>
+                <li><a href="/eng/kboardPolicy/copyRightTermsInfo">Copyright Policy</a></li>
+                <li><a href="/eng/board/kboardListUserAction?&notice_category=engDic">Notice</a></li>
+                <li><a href="/eng/openApi/openApiInfo">Open API</a></li>
+                <li><a href="/eng/comment/commentErrorReport">Suggestion</a></li>
+            </ul>
+        </div>
+        <div class="family select">
+            <select id="Buttom_Global_nationCode" name="Button_Global_nationCode" class="manyLang6">
+                <option value="KR">Basic Korean Dictionary</option>
+                <option value="KR_HOME">National Institute of Korean Language</option>
+            </select>
+            <a href="javascript:javascript:buttomSite();" class="goBtn manyLang6">Move</a>
+        </div>
+    </div>
+</div>
+<!-- //.footer -->
+
+</div>
+
+<div class="popup_container">
+	<!-- 내려받기 배너 -->
+	<div id="downloadLayer" class="layer_box">
+		<div class="pop_head manyLang6"><h2>Download the dictionary</h2></div>
+		<div class="pop_cont manyLang6">
+			<div style="font-size:17px;width: 100%;">
+				You can download your search result file after entering your email address on the Basic Korean Dictionary site. 
+			</div>
+			<br/>
+			<br/>
+			<div style="font-size:17px;width: 100%;">
+				<a href="javascript:fnDownloadLink();" style="color: blue;text-decoration: underline;">Move to the Basic Korean Dictionary</a>
+			</div>
+			
+			<!-- btn -->
+			<div class="btn_area">
+				<a class="btn layer_close" href="#">Close</a>
+			</div>
+			<!-- //.btn -->
+		</div>
+		<a href="#" class="btn_close"><i class="ri-close-fill"><span class="blind">Close</span></i></a>
+	</div>
+</div>
+
+</body>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	//내가 살펴본 단어 목록
+	fnMyViewWordList();
+	
+	if(fnKoreanCompare('행복')){
+		$(".checkKeyword").addClass("koreaLang");
+	}else{
+		$(".checkKeyword").addClass("manyLang6");
+	}
+	
+	$("#mainSearchWord").val('행복');
+	
+    $("#mainSearchWord").bind("focus", function(event) {
+    	$("#mainSearchWord").select();
+    });
+    
+    $("#mainSearchWord").focus();
+    
+});
+
+function checkSubmit(word_no,disp_yn){
+	if(disp_yn == "N"){
+		alert("Your access to the requested page is forbidden.");
+		location.href = "/eng/mainAction";
+	}else{
+		$("input[name=ParaWordNo]").val(word_no);
+		$("form[name=searchResultForm]").attr("action", "/eng/dicSearch/SearchView");
+	    $("form[name=searchResultForm]").submit();
+	}
+}
+
+function searchPaging(currentPage){
+	$("input[name=currentPage]").val(currentPage);
+	$("form[name=searchResultForm]").attr("action", "/eng/dicMarinerSearch/search");
+    $("form[name=searchResultForm]").submit();
+}
+
+/* 정렬 */
+function setSort(type){
+	$("input[name=sort]").val(type);
+	searchPaging(1);
+}
+	
+//어휘,뜻풀이,용례 검색
+function fnSearch(type){
+	$("input[name=searchType]").val(type);
+	searchPaging(1);
+}
+	
+//보기 방식
+function fnViewSelect(value){
+	$("input[name=viewType]").val(value);
+   	searchPaging(1);
+}
+	
+//속담/관용구 선택
+function fnProverbSelect(value){
+	$("input[name=proverbType]").val(value);
+   	searchPaging(1);
+}
+  	
+//용례 선택
+function fnExampleSelect(value){
+	$("input[name=exaType]").val(value);
+   	searchPaging(1);
+}
+
+function fnDownloadLayer(){
+	common.modalPopShow('#downloadLayer','500');
+}
+
+function fnDownloadLayerClose(){
+	$('#downloadLayer').popup('hide');
+}
+
+function fnDownloadLink(){
+
+	$("form[name=searchResultForm]").attr("action", "/kor/dicMarinerSearch/search");
+	$("form[name=searchResultForm]").submit();
+
+	// const search = location.search.substring(1);
+	// const jsonObj = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g,'":"') + '"}');
+	// const {lang, ...obj} = jsonObj;
+	// obj['lang'] = 'kor';
+	// location.href = location.pathname + "?" + new URLSearchParams(obj).toString()
+
+	// $("form[name=searchResultForm]").attr("action", "/dicMarinerSearch/search");
+    // $("form[name=searchResultForm]").submit();
+}
+</script>
+
+</html>

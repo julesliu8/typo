@@ -1,0 +1,226 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 65",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 4",
+    "#"
+  ],
+  [
+    "Definition 0",
+    "#"
+  ],
+  [
+    "Usage Example 6,490",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-니까",
+    "javascript:checkSubmit('80139','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80139','Y');"
+  ],
+  [
+    "그러니까",
+    "javascript:checkSubmit('58609','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyNi8zMzg3MC9TTkQwMDAwMjI1NzMubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('58609','Y');"
+  ],
+  [
+    "-ㄴ다니까 1",
+    "javascript:checkSubmit('74685','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('74685','Y');"
+  ],
+  [
+    "-ㄴ다니까 2",
+    "javascript:checkSubmit('81918','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('81918','Y');"
+  ],
+  [
+    "-ㄴ다니까는",
+    "javascript:checkSubmit('81945','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('81945','Y');"
+  ],
+  [
+    "-ㄴ다니까요",
+    "javascript:checkSubmit('81964','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('81964','Y');"
+  ],
+  [
+    "-ㄴ답니까 1",
+    "javascript:checkSubmit('78782','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('78782','Y');"
+  ],
+  [
+    "-ㄴ답니까 2",
+    "javascript:checkSubmit('86563','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('86563','Y');"
+  ],
+  [
+    "-ㄹ 테니까",
+    "javascript:checkSubmit('86679','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('86679','Y');"
+  ],
+  [
+    "-ㅂ니까",
+    "javascript:checkSubmit('79401','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('79401','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,222 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 10",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 6",
+    "#"
+  ],
+  [
+    "Definition 659",
+    "#"
+  ],
+  [
+    "Usage Example 4,109",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-아서",
+    "javascript:checkSubmit('80220','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80220','Y');"
+  ],
+  [
+    "돌아서다",
+    "javascript:checkSubmit('62831','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIxMi8yNTI5OC9TTkQwMDAwMTQwMDEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('62831','Y');"
+  ],
+  [
+    "되돌아서다",
+    "javascript:checkSubmit('48228','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyMC8zMDE3NS9TTkQwMDAwMTg4NzgubXAz');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyMS8zMDczMS9TTkQwMDAwMTk0MzQubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('48228','Y');"
+  ],
+  [
+    "뒤돌아서다",
+    "javascript:checkSubmit('58025','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8yMDAwMC8xOTAwMC8zMTQ1MTYvU05EMDAwMzIzODcwLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('58025','Y');"
+  ],
+  [
+    "막아서다",
+    "javascript:checkSubmit('50015','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDUwOC83Njg4OC9TTkQwMDAwNjU1OTEubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('50015','Y');"
+  ],
+  [
+    "아서라",
+    "javascript:checkSubmit('66845','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDMyMi80ODgyNS9TTkQwMDAwMzc1MjgubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('66845','Y');"
+  ],
+  [
+    "돌아서-",
+    "javascript:checkSubmit('25573','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('25573','Y');"
+  ],
+  [
+    "-아서는 안 되다",
+    "javascript:checkSubmit('89426','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('89426','Y');"
+  ],
+  [
+    "-아서야",
+    "javascript:checkSubmit('86567','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('86567','Y');"
+  ],
+  [
+    "-아서인지",
+    "javascript:checkSubmit('86236','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('86236','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

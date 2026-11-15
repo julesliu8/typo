@@ -1,0 +1,462 @@
+[
+  [
+    "본문 바로가기",
+    "#daumBody"
+  ],
+  [
+    "메뉴 바로가기",
+    "#daumGnb"
+  ],
+  [
+    "",
+    "https://www.daum.net/"
+  ],
+  [
+    "통합",
+    "?w=tot&q=%22%ec%86%8c%ec%8b%9d%ec%9d%b4%20%ea%b8%b0%ec%81%98%eb%8b%a4%22&DA=NTB"
+  ],
+  [
+    "통합웹",
+    "?w=fusion&nil_search=btn&DA=NTB&p=2&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "이미지",
+    "?w=img&nil_search=btn&DA=NTB&enc=utf8&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "동영상",
+    "?w=vclip&nil_search=btn&DA=NTB&enc=utf8&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "사이트",
+    "?w=site&nil_search=btn&DA=NTB&enc=utf8&lpp=10&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "뉴스",
+    "?w=news&nil_search=btn&DA=NTB&enc=utf8&cluster=y&cluster_page=1&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "어학사전 새창",
+    "http://dic.daum.net/search.do?q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "지도 새창",
+    "https://map.kakao.com/?from=total&nil_suggest=btn&tab=place&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "백과사전 새창",
+    "https://100.daum.net/search/entry?q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "쇼핑 새창",
+    "https://shoppinghow.kakao.com/search/%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22/&srchhow=Cexpo"
+  ],
+  [
+    "책",
+    "?w=book&nil_search=btn&DA=NTB&enc=utf8&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22"
+  ],
+  [
+    "멜론뮤직 새창",
+    "https://www.melon.com/search/total/index.htm?q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4+%EA%B8%B0%EC%81%98%EB%8B%A4%22&ref=W10060"
+  ],
+  [
+    "전체 선택됨",
+    "javascript:;"
+  ],
+  [
+    "1일",
+    "javascript:;"
+  ],
+  [
+    "1주",
+    "javascript:;"
+  ],
+  [
+    "1개월",
+    "javascript:;"
+  ],
+  [
+    "6개월",
+    "javascript:;"
+  ],
+  [
+    "1년",
+    "javascript:;"
+  ],
+  [
+    "직접입력 옵션선택하기",
+    "javascript:;"
+  ],
+  [
+    "블로그",
+    "?w=fusion&col=blog&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&DA=TWA&p=2"
+  ],
+  [
+    "카페",
+    "?w=fusion&col=cafe&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&DA=TWA&p=2"
+  ],
+  [
+    "웹문서",
+    "?w=fusion&col=web&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&DA=TWA&p=2"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "",
+    "javascript:;"
+  ],
+  [
+    "이미지 더보기",
+    "?w=img&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&DA=IIM"
+  ],
+  [
+    "정확도순",
+    "?w=news&cluster=y&cluster_page=1&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&sort=accuracy&DA=NNS"
+  ],
+  [
+    "최신순",
+    "?w=news&cluster=y&cluster_page=1&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&sort=recency&DA=NNS"
+  ],
+  [
+    "울산매일UTV",
+    "https://v.daum.net/channel/551737/home"
+  ],
+  [
+    "다음뉴스",
+    "http://v.daum.net/v/20260817140512273"
+  ],
+  [
+    "4",
+    "http://v.daum.net/v/20260817140512273"
+  ],
+  [
+    "오영수 선생 동생 오호근, 독립운동 공적 대통령 표창",
+    "http://v.daum.net/v/20260817140512273"
+  ],
+  [
+    "오호근의 대통령 표창 소식 에 오영수 선생의 딸 오영아 씨는 \"삼촌은 군대에서 돌아가신 것으로만 알고 있었다. 대통령 표창 소식이 기쁘다 \"고 말했다. 부산공립보통학교 교사 시절의 김경출(출처; 부산일보, 1933.05.17) 이병길 항일독립운동연구소장 제공 한편...",
+    "http://v.daum.net/v/20260817140512273"
+  ],
+  [
+    "중앙이코노미뉴스",
+    "https://cp.news.search.daum.net/p/partner/593711"
+  ],
+  [
+    "",
+    "https://cp.news.search.daum.net/p/174883694"
+  ],
+  [
+    "[오늘의 운세] 띠별 운세, 토끼띠 2월 28일 하루의 운세 공개",
+    "https://cp.news.search.daum.net/p/174883694"
+  ],
+  [
+    "인간관계는 중재 역할이 돋보인다. 건강은 신경성 피로를 조심해야 한다. 1927년생: 평온한 하루다. 1939년생: 가족의 소식이 기쁘다 . 1951년생: 재정 점검이 필요하다. 1963년생: 직장 내 화합이 중요하다. 1975년생: 연애에서 안정감이 커진다. 1987년생: 새로운...",
+    "https://cp.news.search.daum.net/p/174883694"
+  ],
+  [
+    "중앙이코노미뉴스",
+    "https://cp.news.search.daum.net/p/partner/593711"
+  ],
+  [
+    "",
+    "https://cp.news.search.daum.net/p/174364834"
+  ],
+  [
+    "[오늘의 운세] 띠별 운세, 닭띠 2월 12일 운세 대공개",
+    "https://cp.news.search.daum.net/p/174364834"
+  ],
+  [
+    "약속을 지키는 태도가 중요하다. 건강은 목과 호흡기 관리가 필요하다. 1933년생: 무리하지 말아야 한다. 1945년생: 가족 소식이 기쁘다 . 1957년생: 재정적 안정이 따른다. 1969년생: 업무 성과가 인정된다. 1981년생: 연애에서 신뢰가 쌓인다. 1993년생: 자기계발에...",
+    "https://cp.news.search.daum.net/p/174364834"
+  ],
+  [
+    "JTBC",
+    "https://v.daum.net/channel/310/home"
+  ],
+  [
+    "다음뉴스",
+    "http://v.daum.net/v/20240523103445580"
+  ],
+  [
+    "3",
+    "http://v.daum.net/v/20240523103445580"
+  ],
+  [
+    "[인터뷰] 이동휘가 밝힌 선배 최민식 만나기 전과 후",
+    "http://v.daum.net/v/20240523103445580"
+  ],
+  [
+    "쌍 천만 배우'에 등극했다. \"'범죄도시' 시리즈는 워낙 사랑받는 시리즈이지 않나. 그럼에도 이 엄청난 스코어를 냈다는 소식이 기쁘다 . 디즈니+ 오리지널 시리즈 '카지노'가 나왔을 때 시청자분들이 반응을 많이 해줬는데 그것보다 더 많은 관심을 보내주고 있다...",
+    "http://v.daum.net/v/20240523103445580"
+  ],
+  [
+    "뉴스 더보기",
+    "?w=news&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22&DA=NNS"
+  ],
+  [
+    "자세히보기",
+    "https://focus.daum.net/daum/m/algorithm/part5"
+  ],
+  [
+    "1 위 보스의 노골적 취향 순위 신규진입",
+    "?w=tot&q=%EB%B3%B4%EC%8A%A4%EC%9D%98+%EB%85%B8%EA%B3%A8%EC%A0%81+%EC%B7%A8%ED%96%A5&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "2 위 미국 항공기 운항중단 해제 순위 상승",
+    "?w=tot&q=%EB%AF%B8%EA%B5%AD+%ED%95%AD%EA%B3%B5%EA%B8%B0+%EC%9A%B4%ED%95%AD%EC%A4%91%EB%8B%A8+%ED%95%B4%EC%A0%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "3 위 민혜연 임신 초기 순위 상승",
+    "?w=tot&q=%EB%AF%BC%ED%98%9C%EC%97%B0+%EC%9E%84%EC%8B%A0+%EC%B4%88%EA%B8%B0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "4 위 미중러 정상회담 순위 상승",
+    "?w=tot&q=%EB%AF%B8%EC%A4%91%EB%9F%AC+%EC%A0%95%EC%83%81%ED%9A%8C%EB%8B%B4&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "5 위 김강우 김춘추 변신 순위 하락",
+    "?w=tot&q=%EA%B9%80%EA%B0%95%EC%9A%B0+%EA%B9%80%EC%B6%98%EC%B6%94+%EB%B3%80%EC%8B%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "6 위 슬픈 열대 순위 하락",
+    "?w=tot&q=%EC%8A%AC%ED%94%88+%EC%97%B4%EB%8C%80&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "7 위 고경표 음주운전 사고 순위 하락",
+    "?w=tot&q=%EA%B3%A0%EA%B2%BD%ED%91%9C+%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84+%EC%82%AC%EA%B3%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "8 위 군산 불꽃축제 순위 상승",
+    "?w=tot&q=%EA%B5%B0%EC%82%B0+%EB%B6%88%EA%BD%83%EC%B6%95%EC%A0%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "9 위 문무 순위 상승",
+    "?w=tot&q=%EB%AC%B8%EB%AC%B4&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "10 위 한국 축구 패배 순위 상승",
+    "?w=tot&q=%ED%95%9C%EA%B5%AD+%EC%B6%95%EA%B5%AC+%ED%8C%A8%EB%B0%B0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "11 위 아시아 프로야구 챔피언십 순위 상승",
+    "?w=tot&q=%EC%95%84%EC%8B%9C%EC%95%84+%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC+%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "12 위 이현욱 배우 순위 상승",
+    "?w=tot&q=%EC%9D%B4%ED%98%84%EC%9A%B1+%EB%B0%B0%EC%9A%B0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "13 위 세무사 수석 순위 상승",
+    "?w=tot&q=%EC%84%B8%EB%AC%B4%EC%82%AC+%EC%88%98%EC%84%9D&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "14 위 리트 순위 상승",
+    "?w=tot&q=%EB%A6%AC%ED%8A%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "15 위 박수홍 98억 손배소 패소 순위 상승",
+    "?w=tot&q=%EB%B0%95%EC%88%98%ED%99%8D+98%EC%96%B5+%EC%86%90%EB%B0%B0%EC%86%8C+%ED%8C%A8%EC%86%8C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "1 위 보스의 노골적 취향 순위 신규진입",
+    "?w=tot&q=%EB%B3%B4%EC%8A%A4%EC%9D%98+%EB%85%B8%EA%B3%A8%EC%A0%81+%EC%B7%A8%ED%96%A5&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+  ],
+  [
+    "영화 (상영중)",
+    "javascript:"
+  ],
+  [
+    "영화 (개봉예정)",
+    "javascript:"
+  ],
+  [
+    "주가종합",
+    "javascript:"
+  ],
+  [
+    "최종면접",
+    "?w=tot&DA=CQN&q=%EC%B5%9C%EC%A2%85%EB%A9%B4%EC%A0%91&rtmaxcoll=CQN,EM1&irt=movie-single&irk=301390"
+  ],
+  [
+    "타짜: 벨제붑의 노래",
+    "?w=tot&DA=CQN&q=%ED%83%80%EC%A7%9C%3A%20%EB%B2%A8%EC%A0%9C%EB%B6%91%EC%9D%98%20%EB%85%B8%EB%9E%98&rtmaxcoll=CQN,EM1&irt=movie-single&irk=188520"
+  ],
+  [
+    "폴2: 데드포인트",
+    "?w=tot&DA=CQN&q=%ED%8F%B42%3A%20%EB%8D%B0%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300947"
+  ],
+  [
+    "하트 오브 비스트",
+    "?w=tot&DA=CQN&q=%ED%95%98%ED%8A%B8%20%EC%98%A4%EB%B8%8C%20%EB%B9%84%EC%8A%A4%ED%8A%B8&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300770"
+  ],
+  [
+    "호프",
+    "?w=tot&DA=CQN&q=%ED%98%B8%ED%94%84&rtmaxcoll=CQN,EM1&irt=movie-single&irk=187945"
+  ],
+  [
+    "암살자(들)",
+    "?w=tot&DA=CQN&q=%EC%95%94%EC%82%B4%EC%9E%90(%EB%93%A4)&rtmaxcoll=CQN,EM1&irt=movie-single&irk=188266"
+  ],
+  [
+    "오디세이",
+    "?w=tot&DA=CQN&q=%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=186974"
+  ],
+  [
+    "극장판 치이카와: 인어 섬의 비밀",
+    "?w=tot&DA=CQN&q=%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%B9%98%EC%9D%B4%EC%B9%B4%EC%99%80%3A%20%EC%9D%B8%EC%96%B4%20%EC%84%AC%EC%9D%98%20%EB%B9%84%EB%B0%80&rtmaxcoll=CQN,EM1&irt=movie-single&irk=301117"
+  ],
+  [
+    "프레셔",
+    "?w=tot&DA=CQN&q=%ED%94%84%EB%A0%88%EC%85%94&rtmaxcoll=CQN,EM1&irt=movie-single&irk=301536"
+  ],
+  [
+    "부활남: 더 레드",
+    "?w=tot&DA=CQN&q=%EB%B6%80%ED%99%9C%EB%82%A8%3A%20%EB%8D%94%20%EB%A0%88%EB%93%9C&rtmaxcoll=CQN,EM1&irt=movie-single&irk=159379"
+  ],
+  [
+    "폭설",
+    "?w=tot&DA=KYW&q=%ED%8F%AD%EC%84%A4&rtmaxcoll=KYW,EM1&irt=movie-single&irk=301217"
+  ],
+  [
+    "슬픈 열대",
+    "?w=tot&DA=KYW&q=%EC%8A%AC%ED%94%88%20%EC%97%B4%EB%8C%80&rtmaxcoll=KYW,EM1&irt=movie-single&irk=181954"
+  ],
+  [
+    "임영웅 | 아임 히어로 더 스타디움 2",
+    "?w=tot&DA=KYW&q=%EC%9E%84%EC%98%81%EC%9B%85%20%7C%20%EC%95%84%EC%9E%84%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EB%8D%94%20%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80%202&rtmaxcoll=KYW,EM1&irt=movie-single&irk=301868"
+  ],
+  [
+    "어벤져스: 둠스데이",
+    "?w=tot&DA=KYW&q=%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4%3A%20%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4&rtmaxcoll=KYW,EM1&irt=movie-single&irk=189921"
+  ],
+  [
+    "광안 : 세자의 여자",
+    "?w=tot&DA=KYW&q=%EA%B4%91%EC%95%88%20%3A%20%EC%84%B8%EC%9E%90%EC%9D%98%20%EC%97%AC%EC%9E%90&rtmaxcoll=KYW,EM1&irt=movie-single&irk=301867"
+  ],
+  [
+    "헝거게임 50번째 추첨의 날",
+    "?w=tot&DA=KYW&q=%ED%97%9D%EA%B1%B0%EA%B2%8C%EC%9E%84%2050%EB%B2%88%EC%A7%B8%20%EC%B6%94%EC%B2%A8%EC%9D%98%20%EB%82%A0&rtmaxcoll=KYW,EM1&irt=movie-single&irk=189759"
+  ],
+  [
+    "아더 마미",
+    "?w=tot&DA=KYW&q=%EC%95%84%EB%8D%94%20%EB%A7%88%EB%AF%B8&rtmaxcoll=KYW,EM1&irt=movie-single&irk=301126"
+  ],
+  [
+    "듄: 파트 3",
+    "?w=tot&DA=KYW&q=%EB%93%84%3A%20%ED%8C%8C%ED%8A%B8%203&rtmaxcoll=KYW,EM1&irt=movie-single&irk=300223"
+  ],
+  [
+    "옆에서 숨만 쉬어도 좋아",
+    "?w=tot&DA=KYW&q=%EC%98%86%EC%97%90%EC%84%9C%20%EC%88%A8%EB%A7%8C%20%EC%89%AC%EC%96%B4%EB%8F%84%20%EC%A2%8B%EC%95%84&rtmaxcoll=KYW,EM1&irt=movie-single&irk=170428"
+  ],
+  [
+    "뮤티니",
+    "?w=tot&DA=KYW&q=%EB%AE%A4%ED%8B%B0%EB%8B%88&rtmaxcoll=KYW,EM1&irt=movie-single&irk=300394"
+  ],
+  [
+    "삼성전자",
+    "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "SK하이닉스",
+    "?w=tot&DA=R5T&q=SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "삼성전기",
+    "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EA%B8%B0&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "일진전기",
+    "?w=tot&DA=R5T&q=%EC%9D%BC%EC%A7%84%EC%A0%84%EA%B8%B0&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "두산에너빌리티",
+    "?w=tot&DA=R5T&q=%EB%91%90%EC%82%B0%EC%97%90%EB%84%88%EB%B9%8C%EB%A6%AC%ED%8B%B0&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "로보티즈",
+    "?w=tot&DA=R5T&q=%EB%A1%9C%EB%B3%B4%ED%8B%B0%EC%A6%88&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "현대차",
+    "?w=tot&DA=R5T&q=%ED%98%84%EB%8C%80%EC%B0%A8&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "이수페타시스",
+    "?w=tot&DA=R5T&q=%EC%9D%B4%EC%88%98%ED%8E%98%ED%83%80%EC%8B%9C%EC%8A%A4&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "삼성전자우",
+    "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%9A%B0&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "LG전자",
+    "?w=tot&DA=R5T&q=LG%EC%A0%84%EC%9E%90&rtmaxcoll=R5T,1CI"
+  ],
+  [
+    "검색블로그",
+    "http://daumsearch.tistory.com"
+  ],
+  [
+    "검색원칙",
+    "https://cs.daum.net/faq/service/15/category/15649"
+  ],
+  [
+    "검색등록",
+    "https://register.search.daum.net"
+  ],
+  [
+    "검색제휴",
+    "mailto:contentpartnership@axzcorp.com"
+  ],
+  [
+    "고객센터",
+    "https://cs.daum.net/"
+  ],
+  [
+    "유해정보신고",
+    "javascript:;"
+  ],
+  [
+    "Daum Corp.",
+    "https://daumcorp.com/"
+  ],
+  [
+    "맨위로",
+    "javascript:;"
+  ]
+]

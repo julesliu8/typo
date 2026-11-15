@@ -1,0 +1,266 @@
+[
+  [
+    "Search by Category",
+    "/eng/dicSearch/actCategory"
+  ],
+  [
+    "Small Window Dictionary",
+    "javascript:fnSmallDic();"
+  ],
+  [
+    "",
+    "/eng/mainAction"
+  ],
+  [
+    "",
+    "javascript:fnMultiLanKeyBoardOpen('US');"
+  ],
+  [
+    "Search",
+    "javascript:fnSearchWord();"
+  ],
+  [
+    "Advanced Search",
+    "/eng/dicSearchDetail/searchDetailWords"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Delete",
+    "javascript:fnOneTextClear();"
+  ],
+  [
+    "Word 332",
+    "#"
+  ],
+  [
+    "Idioms·Proverbs 0",
+    "#"
+  ],
+  [
+    "Definition 2,545",
+    "#"
+  ],
+  [
+    "Usage Example 30,241",
+    "#"
+  ],
+  [
+    "가",
+    "#plus"
+  ],
+  [
+    "가",
+    "#minus"
+  ],
+  [
+    "-면",
+    "javascript:checkSubmit('80259','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('80259','Y');"
+  ],
+  [
+    "그러면 1",
+    "javascript:checkSubmit('58276','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMjAwMC8zMTQ4MTIvU05EMDAwMzI0MTY2Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('58276','Y');"
+  ],
+  [
+    "라면",
+    "javascript:checkSubmit('62270','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('62270','Y');"
+  ],
+  [
+    "면바지",
+    "javascript:checkSubmit('55739','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy81MDAwMC80MjAwMC8zMTIzMDQvU05EMDAwMzIxNjU4Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('55739','Y');"
+  ],
+  [
+    "왜냐하면",
+    "javascript:checkSubmit('67850','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy8zMDAwMC8yMTAwMC8zMjQwMTQvU05EMDAwMzMzMzY4Lm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('67850','Y');"
+  ],
+  [
+    "컵라면",
+    "javascript:checkSubmit('83220','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('83220','Y');"
+  ],
+  [
+    "가면극",
+    "javascript:checkSubmit('14888','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDE2MDkxMy81MDAwMC80NDAwMC8yOTM3OTkvU05EMDAwMzAzMTUzLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('14888','Y');"
+  ],
+  [
+    "겉면",
+    "javascript:checkSubmit('31339','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDIyNS8zMzIzMy9TTkQwMDAwMjE5MzYubXAz');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('31339','Y');"
+  ],
+  [
+    "그러면 2",
+    "javascript:checkSubmit('89806','Y');"
+  ],
+  [
+    "듣기",
+    "javascript:fnSoundPlay('aHR0cHM6Ly9rcmRpY21lZGlhLmtvcmVhbi5nby5rci9tdWx0aW1lZGlhL211bHRpbWVkaWFfZmlsZXMvY29udmVydC8yMDEyMDYyNy8xMDcyNDkvU05EMDAwMTA1NTgxLm1wMw==');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('89806','Y');"
+  ],
+  [
+    "그러면서",
+    "javascript:checkSubmit('36274','Y');"
+  ],
+  [
+    "View All",
+    "javascript:checkSubmit('36274','Y');"
+  ],
+  [
+    "1",
+    "#"
+  ],
+  [
+    "2",
+    "javascript:searchPaging('2');"
+  ],
+  [
+    "3",
+    "javascript:searchPaging('3');"
+  ],
+  [
+    "4",
+    "javascript:searchPaging('4');"
+  ],
+  [
+    "5",
+    "javascript:searchPaging('5');"
+  ],
+  [
+    "6",
+    "javascript:searchPaging('6');"
+  ],
+  [
+    "7",
+    "javascript:searchPaging('7');"
+  ],
+  [
+    "8",
+    "javascript:searchPaging('8');"
+  ],
+  [
+    "9",
+    "javascript:searchPaging('9');"
+  ],
+  [
+    "10",
+    "javascript:searchPaging('10');"
+  ],
+  [
+    "다음게시물 10개",
+    "javascript:searchPaging('11');"
+  ],
+  [
+    "마지막페이지",
+    "javascript:searchPaging('34');"
+  ],
+  [
+    "우리말샘으로 바로가기",
+    "#"
+  ],
+  [
+    "Listening to Korean pronunciation services are partly provided by NAVER Cultural Foundation Corp.",
+    "http://www.naverfoundation.org"
+  ],
+  [
+    "Download the dictionary",
+    "javascript:fnDownloadLayer();"
+  ],
+  [
+    "",
+    "https://korean.go.kr"
+  ],
+  [
+    "Help",
+    "/eng/help/helpList"
+  ],
+  [
+    "Translation guideline",
+    "/eng/guide/guideList"
+  ],
+  [
+    "Copyright Policy",
+    "/eng/kboardPolicy/copyRightTermsInfo"
+  ],
+  [
+    "Notice",
+    "/eng/board/kboardListUserAction?¬ice_category=engDic"
+  ],
+  [
+    "Open API",
+    "/eng/openApi/openApiInfo"
+  ],
+  [
+    "Suggestion",
+    "/eng/comment/commentErrorReport"
+  ],
+  [
+    "Move",
+    "javascript:javascript:buttomSite();"
+  ],
+  [
+    "Move to the Basic Korean Dictionary",
+    "javascript:fnDownloadLink();"
+  ],
+  [
+    "Close",
+    "#"
+  ],
+  [
+    "Close",
+    "#"
+  ]
+]

@@ -1,0 +1,463 @@
+{
+  "date": "2026-11-14",
+  "status": "检索结果用于查找，正例另回查原始词条／文章；检索未得正例不构成不合语法判断",
+  "distinct_example_ids_in_downloaded_daum_pages": {
+    "기쁘": 478,
+    "행복": 446,
+    "흐뭇": 131,
+    "아끼": 115
+  },
+  "question_cells": {
+    "아끼다 EVENT": {
+      "result": "未得珍爱义正例；不并入节省／不吝惜义"
+    },
+    "기쁘다 ENTITY": {
+      "result": "信息NP-NOM／에已得；普通具体实体未得"
+    },
+    "기뻐하다 ENTITY": {
+      "result": "礼物-ACC及礼物-에均已得",
+      "ids": [
+        "K61",
+        "K62"
+      ]
+    },
+    "즐겁다 ENTITY": {
+      "result": "绘本-NOM已得",
+      "ids": [
+        "K63"
+      ]
+    },
+    "행복하다 ENTITY/EVENT": {
+      "result": "实体／事件同有만으로도；事件另有NOM",
+      "ids": [
+        "K66",
+        "K68",
+        "K69"
+      ]
+    },
+    "반갑다 EVENT": {
+      "result": "词汇事件复刊-NOM已得",
+      "ids": [
+        "K60"
+      ]
+    },
+    "흐뭇하다 ENTITY/EVENT": {
+      "result": "指人实体和事实名词化各有NOM",
+      "ids": [
+        "K64",
+        "K65",
+        "K71"
+      ]
+    },
+    "싶다 ENTITY": {
+      "result": "WANT义为V-ko辅助结构，直接实体格记结构不适用"
+    }
+  },
+  "searches": {
+    "daum_final_9_source": {
+      "name": "daum_final_9",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%A7%88%EC%9D%8C%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%A7%88%EC%9D%8C%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "bytes": 242578,
+      "title": "\"마음이 흐뭇\" – Daum 검색"
+    },
+    "daum_final_0_source": {
+      "name": "daum_final_0",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EC%81%98%EB%8B%A4%22",
+      "bytes": 189595,
+      "title": "\"소식이 기쁘다\" – Daum 검색"
+    },
+    "daum_more_4_source": {
+      "name": "daum_more_4",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%95%84%EB%93%A4%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%95%84%EB%93%A4%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "bytes": 211269,
+      "title": "\"아들이 흐뭇\" – Daum 검색"
+    },
+    "daumsearch_7_source": {
+      "name": "daumsearch_7",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%84%20%EC%95%84%EB%81%BC%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%84%20%EC%95%84%EB%81%BC%22",
+      "bytes": 173040,
+      "title": "\"것을 아끼\" – Daum 검색"
+    },
+    "daum_more_1_source": {
+      "name": "daum_more_1",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EB%A7%8C%EC%9C%BC%EB%A1%9C%22%20%22%ED%96%89%EB%B3%B5%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EB%A7%8C%EC%9C%BC%EB%A1%9C%22%20%22%ED%96%89%EB%B3%B5%22",
+      "bytes": 377527,
+      "title": "\"선물만으로\" \"행복\" – Daum 검색"
+    },
+    "daum_final_5_source": {
+      "name": "daum_final_5",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%22%20%22%EA%B8%B0%EB%BB%90%ED%96%88%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%22%20%22%EA%B8%B0%EB%BB%90%ED%96%88%EB%8B%A4%22",
+      "bytes": 184809,
+      "title": "\"선물을\" \"기뻐했다\" – Daum 검색"
+    },
+    "daumsearch_2_source": {
+      "name": "daumsearch_2",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%B1%EC%9E%A5%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%B1%EC%9E%A5%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "bytes": 202289,
+      "title": "\"성장이 흐뭇\" – Daum 검색"
+    },
+    "daum_more_8_source": {
+      "name": "daum_more_8",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90%ED%95%98%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90%ED%95%98%EB%8B%A4%22",
+      "bytes": 153866,
+      "title": "\"선물을 기뻐하다\" – Daum 검색"
+    },
+    "daumsearch_8_source": {
+      "name": "daumsearch_8",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%84%88%EB%A1%9C%20%ED%96%89%EB%B3%B5%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%84%88%EB%A1%9C%20%ED%96%89%EB%B3%B5%22",
+      "bytes": 282099,
+      "title": "\"너로 행복\" – Daum 검색"
+    },
+    "search_것이 흐뭇_source": {
+      "name": "search_것이 흐뭇",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%9D%B4%20%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%9D%B4%20%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52043,
+      "title": "한국어기초사전"
+    },
+    "daumsearch_1_source": {
+      "name": "daumsearch_1",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%B4%20%ED%9D%90%EB%AD%87%22",
+      "bytes": 225926,
+      "title": "\"것이 흐뭇\" – Daum 검색"
+    },
+    "daum_final_6_source": {
+      "name": "daum_final_6",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%A7%90%ED%95%98%EA%B8%B0%EB%A5%BC%20%EC%95%84%EB%81%BC%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%A7%90%ED%95%98%EA%B8%B0%EB%A5%BC%20%EC%95%84%EB%81%BC%22",
+      "bytes": 128191,
+      "title": "\"말하기를 아끼\" – Daum 검색"
+    },
+    "daum_more_2_source": {
+      "name": "daum_more_2",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94%20%EA%B2%8C%20%ED%96%89%EB%B3%B5%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94%20%EA%B2%8C%20%ED%96%89%EB%B3%B5%22",
+      "bytes": 206385,
+      "title": "\"노래하는 게 행복\" – Daum 검색"
+    },
+    "daumsearch_4_source": {
+      "name": "daumsearch_4",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%97%90%20%EA%B8%B0%EB%BB%90%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%97%90%20%EA%B8%B0%EB%BB%90%22",
+      "bytes": 272279,
+      "title": "\"선물에 기뻐\" – Daum 검색"
+    },
+    "search_선물이 기쁘_source": {
+      "name": "search_선물이 기쁘",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EC%81%98&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EC%81%98&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52056,
+      "title": "한국어기초사전"
+    },
+    "daum_more_7_source": {
+      "name": "daum_more_7",
+      "url": "https://search.daum.net/search?w=tot&q=%22%ED%8E%B8%EC%A7%80%EA%B0%80%20%EA%B8%B0%EC%81%98%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%ED%8E%B8%EC%A7%80%EA%B0%80%20%EA%B8%B0%EC%81%98%22",
+      "bytes": 132635,
+      "title": "\"편지가 기쁘\" – Daum 검색"
+    },
+    "search_행복_source": {
+      "name": "search_행복",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%ED%96%89%EB%B3%B5&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%ED%96%89%EB%B3%B5&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 85982,
+      "title": "한국어기초사전"
+    },
+    "daum_final_3_source": {
+      "name": "daum_final_3",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EB%8F%84%20%EA%B8%B0%EB%BB%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EB%8F%84%20%EA%B8%B0%EB%BB%A4%22",
+      "bytes": 128303,
+      "title": "\"선물도 기뻤\" – Daum 검색"
+    },
+    "search_즐겁_source": {
+      "name": "search_즐겁",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%A6%90%EA%B2%81&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%A6%90%EA%B2%81&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 84615,
+      "title": "한국어기초사전"
+    },
+    "search_것이 반갑_source": {
+      "name": "search_것이 반갑",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%9D%B4%20%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%9D%B4%20%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52044,
+      "title": "한국어기초사전"
+    },
+    "daum_more_11_source": {
+      "name": "daum_more_11",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B8%B0%EB%A5%BC%20%EC%95%84%EB%81%BC%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B8%B0%EB%A5%BC%20%EC%95%84%EB%81%BC%EB%8B%A4%22",
+      "bytes": 132950,
+      "title": "\"기를 아끼다\" – Daum 검색"
+    },
+    "search_것에 흐뭇_source": {
+      "name": "search_것에 흐뭇",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%97%90%20%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%97%90%20%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52043,
+      "title": "한국어기초사전"
+    },
+    "daum_more_9_source": {
+      "name": "daum_more_9",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EB%BB%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EB%BB%A4%22",
+      "bytes": 186064,
+      "title": "\"선물이 기뻤\" – Daum 검색"
+    },
+    "search_선물에 기뻐_source": {
+      "name": "search_선물에 기뻐",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%97%90%20%EA%B8%B0%EB%BB%90&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%97%90%20%EA%B8%B0%EB%BB%90&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52055,
+      "title": "한국어기초사전"
+    },
+    "daumsearch_3_source": {
+      "name": "daumsearch_3",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90%22",
+      "bytes": 210776,
+      "title": "\"선물을 기뻐\" – Daum 검색"
+    },
+    "daum_more_0_source": {
+      "name": "daum_more_0",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%97%90%20%ED%96%89%EB%B3%B5%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%97%90%20%ED%96%89%EB%B3%B5%22",
+      "bytes": 340989,
+      "title": "\"선물에 행복\" – Daum 검색"
+    },
+    "daum_final_4_source": {
+      "name": "daum_final_4",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%22%20%22%EA%B8%B0%EC%81%98%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%22%20%22%EA%B8%B0%EC%81%98%EB%8B%A4%22",
+      "bytes": 195193,
+      "title": "\"선물이\" \"기쁘다\" – Daum 검색"
+    },
+    "search_선물을 기뻐_source": {
+      "name": "search_선물을 기뻐",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%84%A0%EB%AC%BC%EC%9D%84%20%EA%B8%B0%EB%BB%90&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52055,
+      "title": "한국어기초사전"
+    },
+    "daumsearch_6_source": {
+      "name": "daumsearch_6",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%9D%8C%EC%95%85%EC%9D%B4%20%EC%A6%90%EA%B2%81%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%9D%8C%EC%95%85%EC%9D%B4%20%EC%A6%90%EA%B2%81%22",
+      "bytes": 171161,
+      "title": "\"음악이 즐겁\" – Daum 검색"
+    },
+    "search_흐뭇_source": {
+      "name": "search_흐뭇",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%ED%9D%90%EB%AD%87&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 71521,
+      "title": "한국어기초사전"
+    },
+    "daum_final_1_source": {
+      "name": "daum_final_1",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EB%BB%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%86%8C%EC%8B%9D%EC%9D%B4%20%EA%B8%B0%EB%BB%A4%22",
+      "bytes": 185611,
+      "title": "\"소식이 기뻤\" – Daum 검색"
+    },
+    "daum_more_5_source": {
+      "name": "daum_more_5",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%84%A4%EA%B0%80%20%ED%9D%90%EB%AD%87%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%84%A4%EA%B0%80%20%ED%9D%90%EB%AD%87%22",
+      "bytes": 213109,
+      "title": "\"네가 흐뭇\" – Daum 검색"
+    },
+    "daum_final_8_source": {
+      "name": "daum_final_8",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B7%B8%EB%8C%80%EA%B0%80%20%EA%B8%B0%EC%81%98%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B7%B8%EB%8C%80%EA%B0%80%20%EA%B8%B0%EC%81%98%22",
+      "bytes": 157249,
+      "title": "\"그대가 기쁘\" – Daum 검색"
+    },
+    "daum_more_10_source": {
+      "name": "daum_more_10",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%84%20%EC%95%84%EB%81%BC%EB%8A%94%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%84%20%EC%95%84%EB%81%BC%EB%8A%94%22",
+      "bytes": 244723,
+      "title": "\"것을 아끼는\" – Daum 검색"
+    },
+    "search_반갑_source": {
+      "name": "search_반갑",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 82393,
+      "title": "한국어기초사전"
+    },
+    "daum_more_6_source": {
+      "name": "daum_more_6",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%B1%85%EC%9D%B4%20%EC%A6%90%EA%B2%81%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%B1%85%EC%9D%B4%20%EC%A6%90%EA%B2%81%EB%8B%A4%22",
+      "bytes": 261303,
+      "title": "\"책이 즐겁다\" – Daum 검색"
+    },
+    "search_것에 반갑_source": {
+      "name": "search_것에 반갑",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%97%90%20%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EA%B2%83%EC%97%90%20%EB%B0%98%EA%B0%91&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 52043,
+      "title": "한국어기초사전"
+    },
+    "daum_final_2_source": {
+      "name": "daum_final_2",
+      "url": "https://search.daum.net/search?w=tot&q=%22%ED%8E%B8%EC%A7%80%EA%B0%80%20%EA%B8%B0%EB%BB%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%ED%8E%B8%EC%A7%80%EA%B0%80%20%EA%B8%B0%EB%BB%A4%22",
+      "bytes": 125714,
+      "title": "\"편지가 기뻤\" – Daum 검색"
+    },
+    "search_아끼_source": {
+      "name": "search_아끼",
+      "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%95%84%EB%81%BC&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%95%84%EB%81%BC&nation=eng&nationCode=6&searchType=E&blockCount=100",
+      "bytes": 85906,
+      "title": "한국어기초사전"
+    },
+    "daumsearch_5_source": {
+      "name": "daumsearch_5",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EC%81%98%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EC%84%A0%EB%AC%BC%EC%9D%B4%20%EA%B8%B0%EC%81%98%22",
+      "bytes": 187446,
+      "title": "\"선물이 기쁘\" – Daum 검색"
+    },
+    "engine_daum_source": {
+      "name": "engine_daum",
+      "url": "https://search.daum.net/search?w=tot&q=%22%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4%22%20%22%EA%B2%83%EC%9D%B4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4%22%20%22%EA%B2%83%EC%9D%B4%22",
+      "bytes": 151564,
+      "title": "\"흐뭇하다\" \"것이\" – Daum 검색"
+    },
+    "daum_final_7_source": {
+      "name": "daum_final_7",
+      "url": "https://search.daum.net/search?w=tot&q=%22%ED%96%89%EB%B3%B5%ED%95%B4%22%20%22%EC%84%A0%EB%AC%BC%EC%97%90%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%ED%96%89%EB%B3%B5%ED%95%B4%22%20%22%EC%84%A0%EB%AC%BC%EC%97%90%22",
+      "bytes": 259933,
+      "title": "\"행복해\" \"선물에\" – Daum 검색"
+    },
+    "daum_more_3_source": {
+      "name": "daum_more_3",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%B4%20%ED%96%89%EB%B3%B5%ED%95%98%EB%8B%A4%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EA%B2%83%EC%9D%B4%20%ED%96%89%EB%B3%B5%ED%95%98%EB%8B%A4%22",
+      "bytes": 253571,
+      "title": "\"것이 행복하다\" – Daum 검색"
+    },
+    "daumsearch_0_source": {
+      "name": "daumsearch_0",
+      "url": "https://search.daum.net/search?w=tot&q=%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%ED%9D%90%EB%AD%87%ED%95%98%EB%8B%A4",
+      "bytes": 212375,
+      "title": "흐뭇하다 – Daum 검색"
+    },
+    "daumsearch_9_source": {
+      "name": "daumsearch_9",
+      "url": "https://search.daum.net/search?w=tot&q=%22%EB%8D%95%EB%B6%84%EC%97%90%20%ED%96%89%EB%B3%B5%22",
+      "accessed": "2026-11-14",
+      "status": 200,
+      "final_url": "https://search.daum.net/search?w=tot&q=%22%EB%8D%95%EB%B6%84%EC%97%90%20%ED%96%89%EB%B3%B5%22",
+      "bytes": 179816,
+      "title": "\"덕분에 행복\" – Daum 검색"
+    }
+  }
+}
