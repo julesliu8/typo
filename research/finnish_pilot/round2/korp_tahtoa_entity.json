@@ -1,0 +1,1135 @@
+{
+"kwic": [
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 213359,
+"start": 0,
+"end": 3
+},
+"structs": {
+"sentence_id": "19189",
+"text_url": "https://yle.fi/uutiset/3-9978675"
+},
+"tokens": [
+{
+"word": "Tahdoimme",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "PRS_Pl1|VOICE_Act|TENSE_Prt|MOOD_Ind|CASECHANGE_Up"
+},
+{
+"word": "tehd\u00e4",
+"lemma": "tehd\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "lapsen",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "kanssa",
+"lemma": "kanssa",
+"pos": "Adp",
+"msd": "SUBCAT_Po"
+},
+{
+"word": "jotain",
+"lemma": "jokin",
+"pos": "Pron",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": "sellaista",
+"lemma": "sellainen",
+"pos": "Pron",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "mit\u00e4",
+"lemma": "mik\u00e4",
+"pos": "Pron",
+"msd": "SUBCAT_Rel|NUM_Sg|CASE_Par"
+},
+{
+"word": "tehdess\u00e4",
+"lemma": "tehd\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Ine|VOICE_Act|INF_Inf2"
+},
+{
+"word": "ei",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Sg3|VOICE_Act"
+},
+{
+"word": "tarvitse",
+"lemma": "tarvita",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "palella",
+"lemma": "palella",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "vaikka",
+"lemma": "vaikka",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "on",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "talvi",
+"lemma": "talvi",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "On",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind|CASECHANGE_Up"
+},
+{
+"word": "sanoo",
+"lemma": "sanoa",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 726283,
+"start": 17,
+"end": 20
+},
+"structs": {
+"sentence_id": "64341",
+"text_url": "https://yle.fi/urheilu/3-10022203"
+},
+"tokens": [
+{
+"word": "Saimme",
+"lemma": "saada",
+"pos": "V",
+"msd": "PRS_Pl1|VOICE_Act|TENSE_Prt|MOOD_Ind|CASECHANGE_Up"
+},
+{
+"word": "hyv\u00e4n",
+"lemma": "hyv\u00e4",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "h\u00e4irinn\u00e4n",
+"lemma": "h\u00e4irint\u00e4",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "heid\u00e4n",
+"lemma": "h\u00e4n",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Pl|CASE_Gen"
+},
+{
+"word": "heittoon",
+"lemma": "heitto",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": "ja",
+"lemma": "ja",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "joku",
+"lemma": "joku",
+"pos": "Pron",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": "taisi",
+"lemma": "taitaa",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prt|MOOD_Ind"
+},
+{
+"word": "hakea",
+"lemma": "hakea",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "viel\u00e4",
+"lemma": "viel\u00e4",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "donkkiakin",
+"lemma": "donkkiakin",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1|CLIT_Foc_kin|OTHER_UNK"
+},
+{
+"word": "mun",
+"lemma": "m\u00e4",
+"pos": "Pron",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "ylitse",
+"lemma": "ylitse",
+"pos": "Adp",
+"msd": "SUBCAT_Po"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "mutta",
+"lemma": "mutta",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "taisin",
+"lemma": "taitaa",
+"pos": "V",
+"msd": "PRS_Sg1|VOICE_Act|TENSE_Prt|MOOD_Ind"
+},
+{
+"word": "vain",
+"lemma": "vain",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "tahtoa",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "sit\u00e4",
+"lemma": "se",
+"pos": "Pron",
+"msd": "SUBCAT_Dem|NUM_Sg|CASE_Par"
+},
+{
+"word": "palloa",
+"lemma": "pallo",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Markkanen",
+"lemma": "Markkanen",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Nom|CASECHANGE_Up"
+},
+{
+"word": "kommentoi",
+"lemma": "kommentoida",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prt|MOOD_Ind"
+},
+{
+"word": "Koripalloliiton",
+"lemma": "koripalloliitto",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen|CASECHANGE_Up"
+},
+{
+"word": "tiedotteessa",
+"lemma": "tiedote",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 4424464,
+"start": 17,
+"end": 20
+},
+"structs": {
+"sentence_id": "393221",
+"text_url": "https://yle.fi/urheilu/3-10108888"
+},
+"tokens": [
+{
+"word": "\\-",
+"lemma": "\\-",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Pid\u00e4n",
+"lemma": "pit\u00e4\u00e4",
+"pos": "V",
+"msd": "PRS_Sg1|VOICE_Act|TENSE_Prs|MOOD_Ind|CASECHANGE_Up"
+},
+{
+"word": "Laurista",
+"lemma": "Lauri",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Ela|CASECHANGE_Up"
+},
+{
+"word": "kaikkein",
+"lemma": "kaikkein",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "eniten",
+"lemma": "eniten",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "siin\u00e4",
+"lemma": "se",
+"pos": "Pron",
+"msd": "SUBCAT_Dem|NUM_Sg|CASE_Ine"
+},
+{
+"word": "suhteessa",
+"lemma": "suhde",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "ett\u00e4",
+"lemma": "ett\u00e4",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "vaikka",
+"lemma": "vaikka",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "h\u00e4nell\u00e4",
+"lemma": "h\u00e4n",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Sg|CASE_Ade"
+},
+{
+"word": "olisi",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|MOOD_Cond"
+},
+{
+"word": "vaikeampi",
+"lemma": "vaikea",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Nom|CMP_Comp"
+},
+{
+"word": "jakso",
+"lemma": "jakso",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": "meneill\u00e4\u00e4n",
+"lemma": "meneill\u00e4\u00e4n",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "h\u00e4n",
+"lemma": "h\u00e4n",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Sg|CASE_Nom"
+},
+{
+"word": "tahtoo",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "silti",
+"lemma": "silti",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "pallon",
+"lemma": "pallo",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "seuraavassa",
+"lemma": "seuraava",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Ine|CMP_Pos"
+},
+{
+"word": "hy\u00f6kk\u00e4yksess\u00e4",
+"lemma": "hy\u00f6kk\u00e4ys",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 7058900,
+"start": 12,
+"end": 16
+},
+"structs": {
+"sentence_id": "625946",
+"text_url": "https://yle.fi/uutiset/3-10162280"
+},
+"tokens": [
+{
+"word": "Viimeksi",
+"lemma": "viimeksi",
+"pos": "Adv",
+"msd": "CASECHANGE_Up"
+},
+{
+"word": "eilen",
+"lemma": "eilen",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "maanantaina",
+"lemma": "maanantai",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ess"
+},
+{
+"word": "kansanedustaja",
+"lemma": "kansanedustaja",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": "Li",
+"lemma": "Li",
+"pos": "N",
+"msd": "SUBCAT_Prop|CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": "Andersson",
+"lemma": "Andersson",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Nom|CASECHANGE_Up"
+},
+{
+"word": "kommentoi",
+"lemma": "kommentoida",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prt|MOOD_Ind"
+},
+{
+"word": "keskustelua",
+"lemma": "keskustelu",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": "toteamalla",
+"lemma": "todeta",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Ade|VOICE_Act|INF_Inf3"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "ettei",
+"lemma": "ett\u00e4ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Sg3|VOICE_Act"
+},
+{
+"word": "kukaan",
+"lemma": "kukaan",
+"pos": "Pron",
+"msd": "SUBCAT_Qnt|NUM_Sg|CASE_Nom"
+},
+{
+"word": "tahdo",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "synnytt\u00e4\u00e4",
+"lemma": "synnytt\u00e4\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "lis\u00e4\u00e4",
+"lemma": "lis\u00e4\u00e4",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "lapsia",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Par"
+},
+{
+"word": "pelk\u00e4n",
+"lemma": "pelkk\u00e4",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "kest\u00e4vyysvajeen",
+"lemma": "kest\u00e4vyysvaje",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "takia",
+"lemma": "takia",
+"pos": "Adp",
+"msd": "SUBCAT_Po"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 11388581,
+"start": 1,
+"end": 3
+},
+"structs": {
+"sentence_id": "1011476",
+"text_url": "https://yle.fi/uutiset/3-10245128"
+},
+"tokens": [
+{
+"word": "\u2013",
+"lemma": "\u2013",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Tahdomme",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "PRS_Pl1|VOICE_Act|TENSE_Prs|MOOD_Ind|CASECHANGE_Up"
+},
+{
+"word": "lapset",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Nom"
+},
+{
+"word": "pois",
+"lemma": "pois",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "sohvasta",
+"lemma": "sohva",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ela"
+},
+{
+"word": "ja",
+"lemma": "ja",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "luontoon",
+"lemma": "luonto",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 21406928,
+"start": 11,
+"end": 13
+},
+"structs": {
+"sentence_id": "1892565",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/11/11/pitaako-lapsesta-kasvattaa-narsisti-jotta-han-menestyy-tyoelamassa-tutkija"
+},
+"tokens": [
+{
+"word": "Samalla",
+"lemma": "samalla",
+"pos": "Adv",
+"msd": "CASECHANGE_Up"
+},
+{
+"word": "h\u00e4n",
+"lemma": "h\u00e4n",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Sg|CASE_Nom"
+},
+{
+"word": "heitt\u00e4\u00e4",
+"lemma": "heitt\u00e4\u00e4",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "ilmoille",
+"lemma": "ilma",
+"pos": "N",
+"msd": "NUM_Pl|CASE_All"
+},
+{
+"word": "hurjalta",
+"lemma": "hurja",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Abl|CMP_Pos"
+},
+{
+"word": "kuulostavan",
+"lemma": "kuulostaa",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Gen|VOICE_Act|PCP_PrsPrc|CMP_Pos"
+},
+{
+"word": "v\u00e4itteen",
+"lemma": "v\u00e4ite",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": ":",
+"lemma": ":",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "jos",
+"lemma": "jos",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "nykylasten",
+"lemma": "nykylapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Gen"
+},
+{
+"word": "vanhemmat",
+"lemma": "vanha",
+"pos": "A",
+"msd": "NUM_Pl|CASE_Nom|CMP_Comp"
+},
+{
+"word": "tahtovat",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "PRS_Pl3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "lastensa",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Gen|POSS_Px3"
+},
+{
+"word": "menestyv\u00e4n",
+"lemma": "menesty\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Gen|VOICE_Act|PCP_PrsPrc|CMP_Pos"
+},
+{
+"word": "aikuisina",
+"lemma": "aikuinen",
+"pos": "A",
+"msd": "NUM_Pl|CASE_Ess|CMP_Pos"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "heid\u00e4n",
+"lemma": "h\u00e4n",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Pl|CASE_Gen"
+},
+{
+"word": "kannattaisi",
+"lemma": "kannattaa",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|MOOD_Cond"
+},
+{
+"word": "opettaa",
+"lemma": "opettaa",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "lapsistaan",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Ela|POSS_Px3"
+},
+{
+"word": "narsisteja",
+"lemma": "narsisti",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Par"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 23321780,
+"start": 5,
+"end": 8
+},
+"structs": {
+"sentence_id": "2061635",
+"text_url": "https://yle.fi/uutiset/3-10539841"
+},
+"tokens": [
+{
+"word": "Jos",
+"lemma": "jos",
+"pos": "C",
+"msd": "SUBCAT_CS|CASECHANGE_Up"
+},
+{
+"word": "oman",
+"lemma": "oma",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "perheen",
+"lemma": "perhe",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "eurot",
+"lemma": "euro",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Nom"
+},
+{
+"word": "eiv\u00e4t",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Pl3|VOICE_Act"
+},
+{
+"word": "tahdo",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "riitt\u00e4\u00e4",
+"lemma": "riitt\u00e4\u00e4",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "lasten",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Gen"
+},
+{
+"word": "harrastuskuluihin",
+"lemma": "harrastuskulu",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Ill"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "raha-apua",
+"lemma": "raha-apu",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": "voi",
+"lemma": "voida",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "hakea",
+"lemma": "hakea",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "Arjen",
+"lemma": "arki",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen|CASECHANGE_Up"
+},
+{
+"word": "tuki",
+"lemma": "tuki",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": "ry:lt\u00e4",
+"lemma": "ry:lt\u00e4",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Abl|OTHER_UNK"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 23321855,
+"start": 5,
+"end": 8
+},
+"structs": {
+"sentence_id": "2061641",
+"text_url": "https://yle.fi/uutiset/3-10539841"
+},
+"tokens": [
+{
+"word": "Jos",
+"lemma": "jos",
+"pos": "C",
+"msd": "SUBCAT_CS|CASECHANGE_Up"
+},
+{
+"word": "oman",
+"lemma": "oma",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "perheen",
+"lemma": "perhe",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "eurot",
+"lemma": "euro",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Nom"
+},
+{
+"word": "eiv\u00e4t",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Pl3|VOICE_Act"
+},
+{
+"word": "tahdo",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "riitt\u00e4\u00e4",
+"lemma": "riitt\u00e4\u00e4",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "lasten",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Gen"
+},
+{
+"word": "harrastuskuluihin",
+"lemma": "harrastuskulu",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Ill"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "raha-apua",
+"lemma": "raha-apu",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par"
+},
+{
+"word": "voi",
+"lemma": "voida",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "hakea",
+"lemma": "hakea",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "Arjen",
+"lemma": "arki",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen|CASECHANGE_Up"
+},
+{
+"word": "tuki",
+"lemma": "tuki",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": "ry:lt\u00e4",
+"lemma": "ry:lt\u00e4",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Abl|OTHER_UNK"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 24124872,
+"start": 2,
+"end": 4
+},
+"structs": {
+"sentence_id": "2130561",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/12/15/tuomas-nevanlinna-kasvatuksesta-kun-kurinpito-loppuu-auktoriteetti-voi-alkaa"
+},
+"tokens": [
+{
+"word": "Emme",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Pl1|VOICE_Act|CASECHANGE_Up"
+},
+{
+"word": "periaatteessa",
+"lemma": "periaate",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": "tahdo",
+"lemma": "tahtoa",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "lapsistamme",
+"lemma": "lapsi",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Ela|POSS_PxPl1"
+},
+{
+"word": "tulevan",
+"lemma": "tuleva",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "kuuliaisia",
+"lemma": "kuuliainen",
+"pos": "A",
+"msd": "NUM_Pl|CASE_Par|CMP_Pos"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "vaikka",
+"lemma": "vaikka",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "k\u00e4yt\u00e4nn\u00f6ss\u00e4",
+"lemma": "k\u00e4yt\u00e4nt\u00f6",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": "usein",
+"lemma": "usein",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "sit\u00e4",
+"lemma": "se",
+"pos": "Pron",
+"msd": "SUBCAT_Dem|NUM_Sg|CASE_Par"
+},
+{
+"word": "haluaisimmekin",
+"lemma": "haluta",
+"pos": "V",
+"msd": "PRS_Pl1|VOICE_Act|MOOD_Cond|CLIT_Foc_kin"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+}
+],
+"hits": 9,
+"corpus_hits": {
+"YLENEWS_FI_2018_S": 9
+},
+"corpus_order": [
+"YLENEWS_FI_2018_S"
+],
+"query_data": "eJwFwbsNgDAMBcCVYudjG-ogISEaCkQVEfO8_wjclQlU4paBxLVYZkWJoDLfWsGibs1D2JtL4sAnZFCovm6SKdbn6Ge_r7HtgxPpuBb7AdSCF0I=\n",
+"time": 0.7891666889190674
+}

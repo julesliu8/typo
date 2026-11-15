@@ -1,0 +1,14 @@
+{
+  "url": "https://www.kielipankki.fi/korp/api8/query?corpus=YLENEWS_FI_2018_S&cqp=%5Blemma%3D%22toivoa%22%5D+%5B%5D%7B0%2C4%7D+%5Bword%3D%22.%2Amista%7C.%2Amist%C3%A4%22%5D+within+sentence&start=0&end=19&default_context=1+sentence&show=word%2Clemma%2Cpos%2Cmsd&show_struct=sentence_id%2Ctext_url",
+  "params": {
+    "corpus": "YLENEWS_FI_2018_S",
+    "cqp": "[lemma=\"toivoa\"] []{0,4} [word=\".*mista|.*mistä\"] within sentence",
+    "start": 0,
+    "end": 19,
+    "default_context": "1 sentence",
+    "show": "word,lemma,pos,msd",
+    "show_struct": "sentence_id,text_url"
+  },
+  "status": 200,
+  "accessed": "2026-11-14"
+}

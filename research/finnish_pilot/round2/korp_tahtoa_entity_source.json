@@ -1,0 +1,14 @@
+{
+  "url": "https://www.kielipankki.fi/korp/api8/query?corpus=YLENEWS_FI_2018_S&cqp=%5Blemma%3D%22tahtoa%22%5D+%5B%5D%7B0%2C3%7D+%5Blemma%3D%22auto%7Clapsi%7Ctalo%7Ckoira%7Clahja%7Ckirja%7Cpallo%22%5D+within+sentence&start=0&end=19&default_context=1+sentence&show=word%2Clemma%2Cpos%2Cmsd&show_struct=sentence_id%2Ctext_url",
+  "params": {
+    "corpus": "YLENEWS_FI_2018_S",
+    "cqp": "[lemma=\"tahtoa\"] []{0,3} [lemma=\"auto|lapsi|talo|koira|lahja|kirja|pallo\"] within sentence",
+    "start": 0,
+    "end": 19,
+    "default_context": "1 sentence",
+    "show": "word,lemma,pos,msd",
+    "show_struct": "sentence_id,text_url"
+  },
+  "status": 200,
+  "accessed": "2026-11-14"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.kielipankki.fi/korp/api8/query?corpus=YLENEWS_FI_2018_S&cqp=%5Blemma%3D%22toivoa%22%5D&start=0&end=39&defaultcontext=1+sentence&show=word%2Clemma%2Cpos%2Cmsd&show_struct=sentence_id%2Ctext_date%2Ctext_url%2Ctext_title",
+  "params": {
+    "corpus": "YLENEWS_FI_2018_S",
+    "cqp": "[lemma=\"toivoa\"]",
+    "start": 0,
+    "end": 39,
+    "defaultcontext": "1 sentence",
+    "show": "word,lemma,pos,msd",
+    "show_struct": "sentence_id,text_date,text_url,text_title"
+  },
+  "status": 200,
+  "accessed": "2026-11-14"
+}

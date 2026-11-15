@@ -1,0 +1,14 @@
+{
+  "url": "https://www.kielipankki.fi/korp/api8/query?corpus=YLENEWS_FI_2017_S%2CYLENEWS_FI_2018_S%2CYLENEWS_FI_2019_S&cqp=%5Blemma%3D%22toivoa%22+%26+pos%3D%22V%22+%26+msd%21%3D%22.%2APCP.%2A%22%5D+%5B%5D%7B0%2C3%7D+%5Bpos%3D%22N%22+%26+msd%3D%22.%2ACASE_Gen.%2A%22%5D+%5Bword%3D%22%5B.%21%3F%2C%5D%22%5D+within+sentence&start=0&end=39&default_context=1+sentence&show=word%2Clemma%2Cpos%2Cmsd&show_struct=sentence_id%2Ctext_url",
+  "params": {
+    "corpus": "YLENEWS_FI_2017_S,YLENEWS_FI_2018_S,YLENEWS_FI_2019_S",
+    "cqp": "[lemma=\"toivoa\" & pos=\"V\" & msd!=\".*PCP.*\"] []{0,3} [pos=\"N\" & msd=\".*CASE_Gen.*\"] [word=\"[.!?,]\"] within sentence",
+    "start": 0,
+    "end": 39,
+    "default_context": "1 sentence",
+    "show": "word,lemma,pos,msd",
+    "show_struct": "sentence_id,text_url"
+  },
+  "status": 200,
+  "accessed": "2026-11-14"
+}

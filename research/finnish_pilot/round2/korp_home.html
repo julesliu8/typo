@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Med Korp kan den språkligt nyfikna göra avancerade sökningar i stora mängder av skriven text.">
+    <link rel="icon" href="raven_simple.d016b7875c8554b8a765eec486a03eae.svg">
+    <link rel="mask-icon" href="raven_simple.d016b7875c8554b8a765eec486a03eae.svg" color="#333333">
+    <link rel="apple-touch-icon" href="apple-touch-icon.4ef2c9eaf36a56d24d0e5d3d34a46e37.png">
+    <title>Korp</title>
+  </head>
+  <body style="opacity: 0;">
+    <noscript>
+      <h2>You need JavaScript to run Korp.</h2>
+    </noscript>
+    <div id="main">
+      <div id="header" ng-controller="headerCtrl">
+        <div news-banner="" urlsetting="'newsBannerUrl'" storage="'korp_newsbanner_last_closed'" callback="'newsbannerdata'"></div>
+        <div class="flex items-center justify-between px-3 py-2" id="top_bar">
+          <ul id="mode_switch">
+            <li class="visible" ng-repeat="mode in visible" ng-class="{selected: mode.selected}"><a ng-href="{{getUrl(mode.mode)}}" onclick="util.saveModeParams();">
+                 {{mode.localekey | loc:lang}}</a></li>
+            <li class="menu_more visible" ng-if="menu.length"> <a class="dropdown-toggle" popper no-close-on-click="true" my="right+15% top+10" at="bottom right">{{'more' | loc:lang}}<i class="fa fa-angle-double-down"></i></a>
+              <ul class="dropdown-menu popper_menu">
+                <li ng-repeat="mode in menu"><a ng-href="{{getUrl(mode.mode)}}">
+                     {{mode.localekey | loc:lang}}</a></li>
+              </ul>
+            </li>
+          </ul>
+          <script type="text/ng-template" id="aboutTemplate.html">
+            <ul class="my-0 py-1 text-right" ng-click="$root.isPopoverOpen = false">
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" href="{{'language_bank_url' | loc:lang}}" target="_blank"><img src="Kielipankki-logo-korp.c0bf1dfee3464ae31de42456b170a845.png" width="180" style="margin:4px 12px" alt="{{'language_bank' | loc:lang}}"></a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" id="about" ng-click="citeClick()">{{'about' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" href="{{'docs_url' | loc:lang}}" target="_blank">{{'docs' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200" id="korplink"><a class="block transiton duration-200 hover_text-blue-600" ng-href="{{makeKorpUrl('main')}}">{{'korp' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200" id="import"><a class="block transiton duration-200 hover_text-blue-600" href="https://www.kielipankki.fi/tools/demo/cgi-bin/finparse.py" target="_blank">{{'parsing_demo' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" ng-href="http://spraakbanken.gu.se/sparv/gui/#{{'annotlab_multilingual_url_params' | loc:lang}}" target="_blank">{{'annotlab_multilingual' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200" id="feedback"><a class="block transiton duration-200 hover_text-blue-600" href="{{'feedback_url' | loc:lang}}" target="_blank">{{'feedback_linktext' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" href="{{'privacy_url' | loc:lang}}" target="_blank">{{'privacy' | loc:lang}}</a></li>
+              <li class="bg-white hover_bg-gray-200 p-1 transition duration-200"><a class="block transiton duration-200 hover_text-blue-600" ng-href="http://urn.fi/{{'terms_of_use_urn' | loc:lang}}" target="_blank">{{'terms_of_use' | loc:lang}}</a></li>
+            </ul>
+          </script>
+          <div class="flex items-center">
+            <div class="link" id="log_out" ng-click="logout()" ng-if="loggedIn"><span>{{'log_out' | loc:lang}}&nbsp;</span><span>{{username}}</span></div>
+            <div id="login"><a ng-click="showLogin()" ng-show="!loggedIn">{{'log_in' | loc:lang}}</a></div>
+            <div id="languages"><a ng-repeat="lg in languages" data-mode="{{lg}}" ng-click="lang = '{{lg}}'">{{languageNames[lg]}}</a></div>
+            <div id="news_area">
+              <div news-desk="" header="'newsdesk-header'" storage="'korp_last_read_newsitem'"></div>
+            </div><a class="mr-2 transiton duration-200 hover_text-blue-600 mx-2" ng-click="citeClick()">{{'about_cite_header' | loc:lang}}</a>
+            <button class="px-2 py-1 border border-gray-300 bg-gray-200 rounded text-gray-800" popover-class="cog_menu" popover-placement="bottom-right" uib-popover-template="'aboutTemplate.html'" type="button" popover-trigger="'outsideClick'" popover-is-open="$root.isPopoverOpen"><span class="font-bold uppercase">{{'menu' | loc:lang}}</span><i class="fa fa-lg fa-bars ml-2 align-middle text-indigo-600"></i></button>
+          </div>
+        </div>
+        <div class="flex items-end ml-2 pb-1 mb-3 mt-3 px-3" id="header_left"><a class="flex-shrink-0 ml-4 relative" ng-click="logoClick()"><img class="-mb-1" src="korplogo_block.db177a1d036f200438dad73a155a93d9.svg" height="300" width="300"><span class="version absolute bottom-0">{{logoKorpVersion}}</span></a>
+          <div id="labs_logo"><svg height="60" version="1.1" width="39" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; left: -0.625px;"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.1.0</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><path fill="#333333" stroke="none" d="M22.121,24.438L18.759,16.590999999999998C18.43,15.821999999999997,18.16,14.509999999999998,18.16,13.673999999999998S18.673000000000002,12.152999999999999,19.3,12.152999999999999S20.441000000000003,11.639999999999999,20.441000000000003,11.012999999999998S19.756000000000004,9.872999999999998,18.92,9.872999999999998H12.080000000000002C11.244000000000002,9.872999999999998,10.560000000000002,10.385999999999997,10.560000000000002,11.012999999999998S11.073000000000002,12.152999999999999,11.700000000000003,12.152999999999999S12.840000000000003,12.838,12.840000000000003,13.674S12.571000000000003,15.822,12.241000000000003,16.591L8.879000000000003,24.438000000000002C8.55,25.206,8.28,26.177,8.28,26.595S8.622,27.698,9.04,28.116S10.483999999999998,28.876,11.319999999999999,28.876H19.679C20.514999999999997,28.876,21.540999999999997,28.534000000000002,21.959,28.116S22.719,27.012999999999998,22.719,26.595S22.45,25.206,22.121,24.438ZM16.582,7.625C16.582,8.224,17.066000000000003,8.708,17.665,8.708S18.747999999999998,8.224,18.747999999999998,7.625S18.263999999999996,6.541,17.665,6.541S16.582,7.026,16.582,7.625ZM13.667,7.792C13.943,7.792,14.167,7.568,14.167,7.292S13.943,6.792,13.667,6.792S13.167,7.016,13.167,7.292S13.391,7.792,13.667,7.792ZM15.584,5.292C16.458,5.292,17.166999999999998,4.583,17.166999999999998,3.7089999999999996C17.166999999999998,2.8339999999999996,16.458,2.1249999999999996,15.583999999999998,2.1249999999999996C14.709,2.125,14,2.834,14,3.709C14,4.583,14.709,5.292,15.584,5.292Z" transform="matrix(1.7,0,0,1.7,-10.8497,7.1497)" stroke-width="0.5882352941176471" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path></svg></div>
+          <!-- Corpus Chooser-->
+          <div class="scroll_checkboxes flex-shrink-0 ml-8" id="corpusbox">
+            <div class="hp_topframe buttonlink group flex justify-between items-center border border-gray-400 transition-all duration-500 hover_bg-blue-50 shadow-inset rounded h-12">
+              <div><span id="hp_corpora_title1"></span><span id="hp_corpora_titleOf" rel="localize[corpselector_of]"> of </span><span id="hp_corpora_titleTotal"></span><span id="hp_corpora_title2" rel="localize[corpselector_allselected]"></span><span id="hp_corpora_titleTokens" style="color: #888888;"></span></div>
+              <div class="transition-colors duration-500 group-hover_text-indigo-500"><i class="fa fa-caret-up relative top-2"></i><br><i class="fa fa-caret-down relative bottom-2"></i></div>
+            </div>
+          </div><img src="Possu-korp.d78088e716fa7042492f91af39b4b49f.png" style="margin:4px">
+          <div class="popupchecks ui-corner-bottom flex-shrink-0">
+            <div class="header">
+              <div id="time">
+                <div id="time_graph"></div>
+                <div id="rest_time_graph"></div>
+              </div>
+              <div class="buttons">
+                <button class="btn btn-default btn-sm selectall"><span class="fa fa-check"></span><span rel="localize[corpselector_buttonselectall]"></span><span data-loc="corpselector_buttonselectall"></span></button>
+                <button class="btn btn-default btn-sm selectnone"><span class="fa fa-times"></span><span rel="localize[corpselector_buttonselectnone]"></span></button>
+              </div>
+            </div>
+            <div class="checks"></div><br>
+            <p id="sentenceCounter" style="font-size: 85%;"></p>
+          </div>
+          <div class="corpusInfoSpace ui-corner-all flex-shrink-0">
+            <div>
+              <p style="padding: 10px; margin: 0px;"></p>
+            </div>
+          </div>
+          <!-- --------- end of Corpus Chooser-->
+          <!-- spacer-->
+          <div class="flex-grow"></div><span class="flex items-end mr-4 max-w-lg justify-end"><a class="hidden lg_inline flex-grow-0" ng-href="https://www.kielipankki.fi" target="_blank"><img src="Kielipankki-logo-korp-2.a9386acaaf2d72e30613a75f3072a741.png" style="height: 75px; margin-bottom: 2px; margin-right: 10px;"></a></span>
+          <select class="hidden md_block flex-shrink min-w-0" id="search_history"></select>
+        </div>
+      </div>
+      <div class="px-3 pb-3" id="content">
+        <div ng-controller="SearchCtrl" click-cover="noCorporaSelected">
+          <uib-tabset class="tabbable search_tabs" tab-hash="search_tab" active="activeTab">
+            <uib-tab heading="{{&quot;simple&quot; | loc:lang}}" ng-if="visibleTabs[0]">
+              <div id="korp-simple" ng-controller="SimpleCtrl">
+                <global-filters lang="lang"></global-filters>
+                <div class="sm_flex justify-between">
+                  <form class="simple_form">
+                    <autoc id="simple_text" input="input" is-raw-input="isRawInput" type="lemgram" disable-lemgram-autocomplete="!settings.autocomplete" on-change="onChange(output, isRawOutput)"></autoc>
+                    <search-submit></search-submit>
+                    <div class="opts">
+                      <input id="inOrderChk" type="checkbox" ng-model="inOrder">
+                      <label for="inOrderChk"> {{'in_order_chk' | loc:lang}}</label><span> {{'and' | loc:lang}} </span><span>
+                          {{'and_include' | loc:lang}} </span>
+                      <input id="prefixChk" type="checkbox" ng-model="prefix">
+                      <label for="prefixChk"> {{'prefix_chk' | loc:lang}}</label>
+                      <input id="midChk" type="checkbox" ng-model="mid_comp">
+                      <label for="midChk"> {{'compound_middle' | loc:lang}} </label>
+                      <input id="suffixChk" type="checkbox" ng-model="suffix">
+                      <label for="suffixChk"> {{'suffix_chk' | loc:lang}} </label><span> {{'and' | loc:lang}} </span>
+                      <input id="caseChk" type="checkbox" ng-model="isCaseInsensitive">
+                      <label for="caseChk"> {{'case_insensitive' | loc:lang}}  </label>
+                    </div>
+                  </form>
+                  <div id="similar_wrapper" ng-show="relatedObj">
+                    <button class="btn btn-sm btn-default" ng-click="showAllRelated()" ng-if="relatedObj.length != 0"><span class="btn_header">{{ 'similar_header' | loc:lang }} (SWE-FN)</span><br><span ng-repeat="wd in relatedObj[0].words | limitTo:relatedDefault">
+                         {{stringifyRelated(wd)}}<span ng-if="!$last">, </span></span><br><span ng-repeat="wd in relatedObj[0].words.slice(relatedDefault) | limitTo:relatedDefault">
+                         {{stringifyRelated(wd)}}<span ng-if="!$last">, </span></span><span ng-if="relatedObj[0].words.length &gt; relatedDefault || relatedObj.length &gt; 1">
+                         ...</span></button>
+                    <div class="btn btn-sm btn-default" ng-if="relatedObj.length == 0"><span class="btn_header">{{ 'similar_header' | loc:lang }} (SWE-FN)</span><br><span>{{'no_related_words' | loc:lang}}</span></div>
+                  </div>
+                </div>
+              </div>
+            </uib-tab>
+            <uib-tab heading="{{&quot;detailed&quot; | loc:lang}}" ng-if="visibleTabs[1]">
+              <div class="extended" ng-include="extendedTmpl"></div>
+            </uib-tab>
+            <uib-tab heading="{{&quot;advanced&quot; | loc:lang}}" ng-if="visibleTabs[2]" advanced-search>
+              <div id="advanced">
+                <div class="well well-small">{{'active_cqp_simple' | loc:lang}}:
+                  <pre>{{simpleCQP}}</pre>
+                </div>
+                <div class="well well-small">{{'active_cqp_extended' | loc:lang}}:
+                  <pre>{{extendedCQP}}</pre>
+                </div>
+                <div class="well well-small">{{'cqp_query' | loc}}:
+                  <div class="pull-right"><i class="fa fa-file-o"></i><a href="http://cwb.sourceforge.net/files/CQP_Tutorial.pdf" target="_blank">
+                       {{'cqp_docs' | loc:lang}}</a></div>
+                  <textarea id="cqp_string" ng-model="cqp"></textarea>
+                </div>
+                <search-submit pos="right"></search-submit>
+              </div>
+            </uib-tab>
+            <uib-tab ng-if="visibleTabs[3]" compare-search-ctrl>
+              <uib-tab-heading>{{'compare' | loc:lang}} <span class="badge" ng-if="savedSearches.length">{{savedSearches.length}}</span></uib-tab-heading>
+              <div class="search_compare">
+                <button class="btn btn-sm btn-danger delete" ng-click="deleteCompares()" ng-show="savedSearches.length &gt; 1"> <i class="fa fa-trash-o"></i>{{'compare_delete' | loc:lang}}</button>
+                <div ng-show="savedSearches.length &lt; 2">
+                  <div class="bs-callout bs-callout-warning">{{'compare_warning' | loc:lang}}</div>
+                </div>
+                <div ng-show="savedSearches.length &gt; 1">{{'compare_vb' | loc:lang}}
+                  <select ng-options="search.label for search in savedSearches" ng-model="cmp1"></select>{{'compare_with' | loc:lang}}
+                  <select ng-options="search.label for search in savedSearches" ng-model="cmp2"></select>{{'compare_reduce' | loc:lang}}
+                  <select ng-model="reduce" ng-options="obj |              mapper:valfilter as obj.label |              loc group by obj.group |              loc for obj in currentAttrs"></select>
+                  <button class="btn btn-sm btn-default search" ng-click="sendCompare()">{{'compare_vb' | loc:lang}}</button>
+                </div>
+              </div>
+            </uib-tab>
+          </uib-tabset>
+          <div class="flex items-baseline bg-blue-100 border border-blue-200 shadow-inner" id="search_options" click-cover="isCompareSelected">
+            <div><span class="inline-block mr-2" style="font-size: .9em;">{{'kwic' | loc:lang}}: </span>
+              <select ng-model="hitsPerPage" ng-options="getHppFormat(val) for val in hitsPerPageValues track by val"></select>
+              <select ng-model="kwicSort" ng-options="getSortFormat(val) for val in kwicSortValues track by val"></select>
+            </div>
+            <div class="flex items-center" ng-show="showStats()"><span rel="localize[statistics]"> </span>: 
+              <reduce-select class="ml-2 relative -top-px" reduce-items="statCurrentAttrs" reduce-selected="statSelectedAttrs" reduce-insensitive="statInsensitiveAttrs" reduce-lang="lang"></reduce-select>
+            </div>
+            <div ng-show="settings.statistics !== false">
+              <input id="show_stats" type="checkbox" ng-model="showStatistics" ng-disabled="inOrder">
+              <label for="show_stats">{{'show_stats' | loc:lang}}</label>
+            </div>
+            <div ng-show="settings.wordpicture !== false">
+              <input id="word_pic" type="checkbox" ng-model="word_pic">
+              <label for="word_pic">{{'show_word_pic' | loc:lang}}</label>
+            </div>
+          </div>
+        </div>
+        <div id="results-wrapper" ng-show="searches.activeSearch || compareTabs.length || graphTabs.length || mapTabs.length" ng-controller="resultContainerCtrl">
+          <div class="flex" id="columns" ng-class="{sidebar_visible : sidebar_visible}">
+            <div class="overflow-auto flex-grow" id="left-column">
+              <uib-tabset class="tabbable result_tabs" tab-hash="result_tab" active="activeTab">
+                <uib-tab disabled="!instance.hasData" select="instance.onentry()" deselect="instance.onexit()" kwic-ctrl index="0">
+                  <uib-tab-heading ng-class="{not_loading: progress &gt; 99, loading : loading}">{{'kwic' | loc:lang}}
+                    <tab-preloader ng-if="loading" value="progress" spinner="instance.countCorpora() &lt; 2"></tab-preloader>
+                  </uib-tab-heading>
+                  <div class="results-kwic" ng-class="{reading_mode : reading_mode, loading: loading}" constr="KWICResults" constr-name="kwicResults">
+                    <div class="result_controls">
+                      <warning ng-if="aborted &amp;&amp; !loading">{{'search_aborted' | loc:lang}}</warning>
+                      <div class="controls_n"><span>{{'num_results' | loc:lang}}: </span><span class="num-result" ng-show="!loading &amp;&amp; hits_display" ng-bind-html="hits_display | trust"></span></div>
+                      <div class="hits_picture" ng-if="hitsPictureData.length &gt; 1">
+                        <table class="hits_picture_table">
+                          <tbody>
+                            <tr>
+                              <td class="hits_picture_corp" ng-repeat="corpus in hitsPictureData" ng-style="{width : corpus.relative + &quot;%&quot;}" ng-class="{odd : $index % 2 != 0,                          even : $index % 2 == 0}" ng-click="hitspictureClick(corpus.page, corpus)" uib-tooltip="{{corpus.rtitle}}: {{corpus.abs}}" uib-tooltip-placement="{{$last? &quot;left&quot;:&quot;top&quot;}}" append-to-body="false"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <kwic-pager ng-if="hits" total-hits="hits" current-page="page" page-change="pageChange(page)" hits-per-page="pagerHitsPerPage"></kwic-pager><span class="reading_btn show_reading link" ng-hide="loading" ng-click="toggleReading()">{{'show_reading' | loc:lang}}</span><span class="reading_btn hide_reading link" ng-hide="loading" ng-click="toggleReading()">{{'show_kwic' | loc:lang}}</span>
+                    <div class="table_scrollarea" ng-class="{paging : paging}">
+                      <table class="results_table kwic" ng-if="kwic.length &gt; 0" cellspacing="0">
+                        <tr class="sentence" ng-repeat="sentence in kwic" ng-class="{corpus_info : sentence.newCorpus,         not_corpus_info : !sentence.newCorpus,         linked_sentence : sentence.isLinked,         even : $even,         odd : $odd}">
+                          <td class="empty_td"></td>
+                          <td class="corpus_title text-gray-600 uppercase text-sm" colspan="3">
+                            <div>{{sentence.newCorpus}}<span class="corpus_title_warn" rel="localize[no_context_support]" ng-if="::sentence.noContext"></span></div>
+                          </td>
+                          <td class="empty_td"></td>
+                          <td class="lnk" colspan="3" ng-if="::sentence.isLinked"><span kwic-word="kwic-word" ng-repeat="wd in sentence.tokens"></span></td>
+                          <td class="left" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectLeft(sentence)"></span></td>
+                          <td class="match" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectMatch(sentence)"></span></td>
+                          <td class="right" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectRight(sentence)"></span></td>
+                        </tr>
+                      </table>
+                      <div class="results_table reading" ng-if="contextKwic.length &gt; 0">
+                        <p class="sentence" ng-repeat="sentence in contextKwic" ng-class="{corpus_info : sentence.newCorpus,         not_corpus_info : !sentence.newCorpus,         linked_sentence : sentence.isLinked,         even : $even,         odd : $odd}"><span class="corpus_title" colspan="0">{{sentence.newCorpus}}<span class="corpus_title_warn" rel="localize[no_context_support]" ng-if="::sentence.noContext"></span></span><span ng-repeat="wd in sentence.tokens" kwic-word="kwic-word"></span></p>
+                      </div>
+                    </div>
+                    <kwic-pager ng-if="hits" total-hits="hits" current-page="page" page-change="pageChange(page)" hits-per-page="pagerHitsPerPage"></kwic-pager>
+                    <div class="download-links-container">
+                      <select class="download_links" ng-if="_settings.enableBackendKwicDownload"></select>
+                      <select id="frontendDownloadLinks" ng-if="_settings.enableFrontendKwicDownload" ng-change="download.init(download.selected, hits_display)" ng-model="download.selected" ng-options="item.value as item.label | loc:lang disable when item.disabled for item in download.options"></select><a class="kwicDownloadLink" ng-if="_settings.enableFrontendKwicDownload" href="{{download.blobName}}" download="{{download.fileName}}" target="_self" style="display: none;"></a>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab stats-result-ctrl ng-if="_settings.statistics != false" select="instance.onentry()" deselect="instance.onexit()" index="2">
+                  <uib-tab-heading ng-class="{not_loading: progress &gt; 99, loading : loading}">{{'statistics' | loc:lang}}
+                    <tab-preloader ng-if="loading" value="progress" spinner="instance.countCorpora() &lt; 2"></tab-preloader>
+                  </uib-tab-heading>
+                  <div constr="StatsResults" constr-name="statsResults">
+                    <div ng-if="!inOrder &amp;&amp; !hasResult">{{'stats_not_in_order_warn' | loc:lang}}</div>
+                    <div ng-if="!showStatistics">{{'stats_warn' | loc:lang}}
+                      <div>
+                        <button class="btn btn-sm btn-default activate_word_pic" ng-click="activate()">{{'word_pic_warn_btn' | loc:lang}}</button>
+                      </div>
+                    </div>
+                    <div ng-if="showStatistics &amp;&amp; !hasResult &amp;&amp; inOrder">
+                      <div>
+                        <button class="btn btn-sm btn-default activate_word_pic" ng-click="activate()">{{'update_btn' | loc:lang}}</button>
+                      </div>
+                    </div>
+                    <warning ng-if="showStatistics &amp;&amp; no_hits">{{"no_stats_results" | loc:lang}}</warning>
+                    <warning ng-if="showStatistics &amp;&amp; aborted &amp;&amp; !loading">{{'search_aborted' | loc:lang}}</warning>
+                    <div ng-show="showStatistics &amp;&amp; hasResult">
+                      <div class="stats_header">
+                        <button class="btn btn-sm btn-default show-graph-btn" id="showGraph" ng-class="{disabled: !graphEnabled}" uib-tooltip="{{'material_warn' | loc:lang}}" tooltip-placement="right" tooltip-enable="!graphEnabled"><span class="graph_btn_icon"><svg height="24" version="1.1" width="33" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.1.0</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><path fill="#666666" stroke="none" d="M3.625,25.062C3.086,24.947000000000003,2.74,24.416,2.855,23.875L2.855,23.875L6.51,6.584L8.777,15.843L10.7,10.655000000000001L14.280999999999999,14.396L18.163999999999998,1.293000000000001L21.098,13.027000000000001L23.058,11.518L28.329,23.258000000000003C28.555,23.762000000000004,28.329,24.353,27.824,24.579000000000004L27.824,24.579000000000004C27.319000000000003,24.806000000000004,26.728,24.579000000000004,26.502000000000002,24.075000000000003L26.502000000000002,24.075000000000003L22.272000000000002,14.647000000000002L19.898000000000003,16.473000000000003L18.002000000000002,8.877000000000002L15.219000000000003,18.270000000000003L11.465000000000003,14.346000000000004L8.386,22.66L6.654999999999999,15.577L4.811999999999999,24.288C4.710999999999999,24.76,4.297,25.082,3.8329999999999993,25.082L3.8329999999999993,25.082C3.765,25.083,3.695,25.076,3.625,25.062L3.625,25.062Z" transform="matrix(0.6,0,0,0.6,6.2499,5.275)" stroke-width="1.6666666666666667" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path></svg></span>{{'show_diagram' | loc:lang}}</button>
+                        <div class="map-settings-container" uib-dropdown auto-close="outsideClick" ng-show="mapEnabled">
+                          <button class="btn btn-sm btn-default" uib-dropdown-toggle>{{'show_map' | loc:lang}}<span class="caret"></span></button>
+                          <div uib-dropdown-menu>
+                            <h3 class="map-settings-title">{{'select_attribute' | loc:lang}}</h3>
+                            <ul ng-if="mapAttributes.length != 0">
+                              <li ng-repeat="attr in mapAttributes" ng-class="attr.selected ? 'selected':''" ng-click="mapToggleSelected($index, $event)"><span class="checked">✔</span><span>{{attr.label | loc:lang}}</span></li>
+                            </ul><span class="empty-attribute-list" ng-show="mapAttributes.length == 0">{{ 'no_geo_info' | loc:lang}}</span>
+                            <div class="btn-container">
+                              <button class="btn btn-sm btn-primary" ng-disabled="mapAttributes.length == 0" ng-click="showMap()">{{'show_map' | loc:lang}}</button>
+                            </div>
+                          </div><span class="ml-3 err_msg" ng-if="noRowsError">{{'no_row_selected_map' | loc:lang}}</span>
+                        </div>
+                        <div id="showBarPlot"></div>
+                      </div>
+                      <div ng-if="!loading" style="margin-bottom: 5px;">{{'total_rows' | loc:lang}} {{totalNumberOfRows}}</div>
+                      <div id="myGrid"></div>
+                      <div id="exportStatsSection"><br><br>
+                        <select id="kindOfData">
+                          <option value="relative" rel="localize[statstable_relfigures]">Relativa tal</option>
+                          <option value="absolute" rel="localize[statstable_absfigures]">Absoluta tal</option>
+                        </select>
+                        <select id="kindOfFormat">
+                          <option value="csv" rel="localize[statstable_exp_csv]">CSV (kommaseparerade värden)</option>
+                          <option value="tsv" rel="localize[statstable_exp_tsv]">TSV (tabseparerade värden)</option>
+                        </select><a id="generateExportButton">
+                          <button class="btn btn-sm btn-default">{{'statstable_gen_export' | loc:lang}}</button></a><a class="btn btn-sm btn-default" id="exportButton">{{'statstable_export' | loc:lang}}</a>
+                      </div>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab ng-if="_settings.wordpicture != false" wordpic-ctrl select="instance.onentry()" deselect="instance.onexit()" index="3">
+                  <uib-tab-heading ng-class="{not_loading: progress &gt; 99, loading : loading}">{{'word_picture' | loc:lang}}
+                    <tab-preloader ng-if="loading" value="progress" spinner="instance.countCorpora() &lt; 2"></tab-preloader>
+                  </uib-tab-heading>
+                  <div>
+                    <div class="wordpic_disabled" ng-if="!word_pic">{{'word_pic_warn' | loc:lang}}
+                      <div>
+                        <button class="btn btn-sm btn-default activate_word_pic" ng-click="activate()">{{'word_pic_warn_btn' | loc:lang}}</button>
+                      </div>
+                    </div>
+                    <warning ng-if="word_pic &amp;&amp; !instance.hasData &amp;&amp; !loading &amp;&amp; !aborted">{{'word_pic_bad_search' | loc:lang}}</warning>
+                    <warning ng-if="word_pic &amp;&amp; aborted &amp;&amp; !loading">{{'search_aborted' | loc:lang}}</warning>
+                    <warning ng-if="word_pic &amp;&amp; no_hits">{{"no_stats_results" | loc:lang}}</warning>
+                    <div constr="LemgramResults" constr-name="lemgramResults">
+                      <div id="wordPicSettings" ng-show="word_pic &amp;&amp; instance.hasData">
+                        <div>
+                          <input id="wordclassChk" ng-model="showWordClass" type="checkbox">
+                          <label for="wordclassChk">{{'show_wordclass' | loc:lang}}</label>
+                        </div>
+                        <div>
+                          <select id="numberHitsSelect" ng-model="settings.showNumberOfHits">
+                            <option ng-repeat="hitSetting in hitSettings" value="{{hitSetting}}">{{ localeString(lang, hitSetting) }}</option>
+                          </select>
+                        </div>
+                      </div>
+                      <div class="content_target" ng-show="word_pic">
+                        <div class="tableContainer radialBkg" ng-repeat="word in data">
+                          <div class="header" ng-if="!isLemgram(word.token)">{{word.token}} (<span>{{word.wordClassShort | loc:lang}}</span>)</div>
+                          <div class="lemgram_section" ng-repeat="section in word.data" ng-init="parentIndex = $index">
+                            <div class="lemgram_help"><span ng-repeat="header in getResultHeader(parentIndex, word.wordClass)" ng-class="getHeaderClasses(header, word.token)" ng-if="renderResultHeader(parentIndex, section, word.wordClass, $index)"><span ng-if="header != '_'">{{getHeaderLabel(header, section, $index) | loc:lang}}</span><span ng-if="header == '_'"><b>{{fromLemgram(word.token)}}</b></span></span></div>
+                            <div class="lemgram_result" ng-repeat="table in section" ng-if="renderTable(table.table)" ng-class="getTableClass(word.wordClass, parentIndex, $index)">
+                              <table>
+                                <tbody>
+                                  <tr ng-repeat="row in minimize(table.table)" ng-init="data = parseLemgram(row, table.all_lemgrams)">
+                                    <td><span class="enumerate"></span></td>
+                                    <td>{{ data.label }}<sup ng-if="data.showIdx">{{data.idx}}</sup> <span ng-if="showWordClass">({{data.pos | loc:lang}})</span></td>
+                                    <td title="mi: {{row.mi | number:2}}">{{row.freq}}</td>
+                                    <td ng-click="onClickExample($event, row)"><span class="word-pic-kwic-example ui-icon ui-icon-document"></span></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab example-ctrl ng-repeat="kwicTab in kwicTabs" select="instance.onentry()" deselect="instance.onexit()">
+                  <uib-tab-heading ng-class="{not_loading: progress == 100, loading : !instance.hasData}">{{'kwic' | loc:lang}}<span ng-click="closeTab($index, $event)" tab-spinner></span></uib-tab-heading>
+                  <div class="results-kwic" ng-class="{reading_mode : exampleReadingMode, not_loading: !loading, loading : loading}" constr="ExampleResults">
+                    <div class="result_controls">
+                      <warning ng-if="aborted &amp;&amp; !loading">{{'search_aborted' | loc:lang}}</warning>
+                      <div class="controls_n"><span>{{'num_results' | loc:lang}}: </span><span class="num-result" ng-show="!loading &amp;&amp; hits_display" ng-bind-html="hits_display | trust"></span></div>
+                      <div class="hits_picture" ng-if="hitsPictureData.length &gt; 1">
+                        <table class="hits_picture_table">
+                          <tbody>
+                            <tr>
+                              <td class="hits_picture_corp" ng-repeat="corpus in hitsPictureData" ng-style="{width : corpus.relative + &quot;%&quot;}" ng-class="{odd : $index % 2 != 0,                          even : $index % 2 == 0}" ng-click="hitspictureClick(corpus.page, corpus)" uib-tooltip="{{corpus.rtitle}}: {{corpus.abs}}" uib-tooltip-placement="{{$last? &quot;left&quot;:&quot;top&quot;}}" append-to-body="false"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <kwic-pager ng-if="hits" total-hits="hits" current-page="page" page-change="pageChange(page)" hits-per-page="pagerHitsPerPage"></kwic-pager><span class="reading_btn show_reading link" ng-hide="loading" ng-click="toggleReading()">{{'show_reading' | loc:lang}}</span><span class="reading_btn hide_reading link" ng-hide="loading" ng-click="toggleReading()">{{'show_kwic' | loc:lang}}</span>
+                    <div class="table_scrollarea" ng-class="{paging : paging}">
+                      <table class="results_table kwic" ng-if="kwic.length &gt; 0" cellspacing="0">
+                        <tr class="sentence" ng-repeat="sentence in kwic" ng-class="{corpus_info : sentence.newCorpus,         not_corpus_info : !sentence.newCorpus,         linked_sentence : sentence.isLinked,         even : $even,         odd : $odd}">
+                          <td class="empty_td"></td>
+                          <td class="corpus_title text-gray-600 uppercase text-sm" colspan="3">
+                            <div>{{sentence.newCorpus}}<span class="corpus_title_warn" rel="localize[no_context_support]" ng-if="::sentence.noContext"></span></div>
+                          </td>
+                          <td class="empty_td"></td>
+                          <td class="lnk" colspan="3" ng-if="::sentence.isLinked"><span kwic-word="kwic-word" ng-repeat="wd in sentence.tokens"></span></td>
+                          <td class="left" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectLeft(sentence)"></span></td>
+                          <td class="match" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectMatch(sentence)"></span></td>
+                          <td class="right" ng-if="::!sentence.newCorpus"><span kwic-word="kwic-word" ng-repeat="wd in selectRight(sentence)"></span></td>
+                        </tr>
+                      </table>
+                      <div class="results_table reading" ng-if="contextKwic.length &gt; 0">
+                        <p class="sentence" ng-repeat="sentence in contextKwic" ng-class="{corpus_info : sentence.newCorpus,         not_corpus_info : !sentence.newCorpus,         linked_sentence : sentence.isLinked,         even : $even,         odd : $odd}"><span class="corpus_title" colspan="0">{{sentence.newCorpus}}<span class="corpus_title_warn" rel="localize[no_context_support]" ng-if="::sentence.noContext"></span></span><span ng-repeat="wd in sentence.tokens" kwic-word="kwic-word"></span></p>
+                      </div>
+                    </div>
+                    <kwic-pager ng-if="hits" total-hits="hits" current-page="page" page-change="pageChange(page)" hits-per-page="pagerHitsPerPage"></kwic-pager>
+                    <div class="download-links-container">
+                      <select class="download_links" ng-if="_settings.enableBackendKwicDownload"></select>
+                      <select id="frontendDownloadLinks" ng-if="_settings.enableFrontendKwicDownload" ng-change="download.init(download.selected, hits_display)" ng-model="download.selected" ng-options="item.value as item.label | loc:lang disable when item.disabled for item in download.options"></select><a class="kwicDownloadLink" ng-if="_settings.enableFrontendKwicDownload" href="{{download.blobName}}" download="{{download.fileName}}" target="_self" style="display: none;"></a>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab ng-repeat="data in graphTabs" graph-ctrl>
+                  <uib-tab-heading ng-class="{not_loading: progress &gt; 99}">{{'graph' | loc:lang}}
+                    <div class="tab_progress" style="width:{{progress || 0}}%" ng-show="loading"></div><span ng-click="closeTab($index, $event)" tab-spinner></span>
+                  </uib-tab-heading>
+                  <div class="graph_tab" constr="GraphResults">
+                    <div class="graph_header">
+                      <div class="controls">
+                        <div class="btn-group form_switch">
+                          <label class="btn btn-default btn-sm" ng-model="$parent.mode" uib-btn-radio="'line'">{{'line' | loc:lang}}</label>
+                          <label class="btn btn-default btn-sm" ng-model="$parent.mode" uib-btn-radio="'bar'">{{'bar' | loc:lang}}</label>
+                          <label class="btn btn-default btn-sm" ng-model="$parent.mode" uib-btn-radio="'table'">{{'table' | loc:lang}}</label>
+                        </div>
+                        <div class="non_time_div"><span rel="localize[non_time_before]"></span><span class="non_time"></span><span rel="localize[non_time_after]"></span></div>
+                      </div>
+                      <div class="legend" ng-style="{visibility : !loading &amp;&amp; isGraph() ? &quot;visible&quot; : &quot;hidden&quot;}">
+                        <div class="line" ng-show="hasEmptyIntervals" uib-tooltip="{{'graph_material_tooltip' | loc:lang}}"><a class="action"></a>
+                          <div class="swatch" style="background-color: #999"></div><span class="label"> <em>{{'graph_material' | loc:lang}} </em></span>
+                        </div>
+                      </div>
+                      <div style="clear: both;"></div>
+                    </div>
+                    <div class="chart_container">
+                      <div class="preloader" ng-class="{loading: loading}"><i class="fa fa-spinner fa-spin fa-5x"></i></div>
+                      <div class="chart" ng-show="isGraph()"></div>
+                    </div>
+                    <div class="preview"></div>
+                    <div class="time_table" style="margin-top:20px" ng-show="isTable()"></div>
+                    <div class="exportTimeStatsSection" ng-show="isTable()">
+                      <select class="timeKindOfData">
+                        <option value="relative">{{'statstable_relfigures' | loc:lang}}</option>
+                        <option value="absolute">{{'statstable_absfigures' | loc:lang}}</option>
+                      </select>
+                      <select class="timeKindOfFormat">
+                        <option value="TSV">{{'statstable_exp_tsv' | loc:lang}}</option>
+                        <option value="CSV">{{'statstable_exp_csv' | loc:lang}}</option>
+                      </select><a class="export btn btn-default btn-sm">{{'statstable_export' | loc:lang}}</a>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab ng-repeat="promise in compareTabs" compare-ctrl>
+                  <uib-tab-heading class="compare_tab" ng-class="{loading : loading}">{{'compare_vb' | loc:lang}}<span tab-spinner ng-click="closeTab($index, $event)"></span></uib-tab-heading>
+                  <div class="compare_result" ng-class="{loading : loading}">
+                    <div class="error_msg" ng-if="error">
+                      <div class="korp_fail inline_block"><img class="korp_fail" src="korp_fail.11a038f85d0305dc6cc55feaca8fe76d.svg"></div>
+                      <div class="fail_text inline_block" rel="localize[fail_text]">Ett fel har uppstått. </div>
+                    </div>
+                    <div class="column column_1" ng-if="!error">
+                      <h2>{{'compare_distinctive' | loc:lang}} <em>{{cmp1.label}}</em></h2>
+                      <ul class="negative">
+                        <li ng-repeat="row in tables.negative | orderBy:resultOrder:true" ng-click="rowClick(row, 0)">
+                          <div class="meter" meter="row" max="max" stringify="stringify"></div>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="column column_2">
+                      <h2>{{'compare_distinctive' | loc:lang}} <em>{{cmp2.label}}</em></h2>
+                      <ul class="positive">
+                        <li ng-repeat="row in tables.positive | orderBy:resultOrder:true" ng-click="rowClick(row, 1)">
+                          <div class="meter" meter="row" max="max" stringify="stringify"></div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab ng-repeat="promise in mapTabs" map-ctrl select="onentry()">
+                  <uib-tab-heading class="map_tab" ng-class="{loading : loading}">{{ 'map' | loc:lang}}<span tab-spinner ng-click="closeTab($index, $event)"></span></uib-tab-heading>
+                  <div class="map_result" ng-class="{loading : loading}">
+                    <div class="error_msg" ng-if="error">
+                      <div class="korp_fail inline_block"><img class="korp_fail" src="korp_fail.11a038f85d0305dc6cc55feaca8fe76d.svg"></div>
+                      <div class="fail_text inline_block" rel="localize[fail_text]">Ett fel har uppstått. </div>
+                    </div>
+                    <div ng-if="!loading &amp;&amp; numResults != 0">
+                      <div class="rickshaw_legend" id="mapHeader">
+                        <div class="mapgroup" ng-repeat="(label, group) in markerGroups" ng-class="group.selected ? '' : 'disabled'" ng-click="toggleMarkerGroup(label)"><span class="check">✔</span>
+                          <div class="swatch" style="background-color: {{group.color}}"></div><span class="label" ng-if="label != 'total'" ng-bind-html="label | trust"></span><span class="label" ng-if="label == 'total'">Σ</span>
+                        </div>
+                        <div style="float:right;padding-right: 5px;">
+                          <label>
+                            <input style="vertical-align: top;margin-top: 0px;margin-right: 5px;" type="checkbox" ng-model="useClustering">{{'map_cluster' | loc:lang}}
+                          </label>
+                        </div>
+                      </div>
+                      <sb-map sb-center="center" sb-markers="markerGroups" sb-show-time="showTime" sb-base-layer="mapSettings.baseLayer" sb-marker-callback="newKWICSearch" sb-selected-groups="selectedGroups" sb-rest-color="restColor" sb-use-clustering="useClustering"></sb-map>
+                    </div>
+                  </div>
+                </uib-tab>
+                <uib-tab ng-repeat="inData in textTabs" text-reader-ctrl select="onentry()" deselect="onexit()">
+                  <uib-tab-heading ng-class="{loading : loading}">{{ 'text_tab_header' | loc:lang}}<span tab-spinner ng-click="closeTab($index, $event)"></span></uib-tab-heading>
+                  <div>
+                    <div class="error_msg" ng-if="error">
+                      <div class="korp_fail inline_block"><img class="korp_fail" src="korp_fail.11a038f85d0305dc6cc55feaca8fe76d.svg"></div>
+                      <div class="fail_text inline_block" rel="localize[fail_text]">Ett fel har uppstått. </div>
+                    </div>
+                    <div ng-if="!loading" text-reader></div>
+                  </div>
+                </uib-tab>
+              </uib-tabset><a id="json-link" ng-href="{{jsonUrl}}" ng-show="jsonUrl" target="_blank"><img src="json.0a82cd5de13a4421a91b0c9b7531119a.png"></a>
+            </div>
+            <sidebar class="sidebar flex-shrink-0 ml-2" on-show="onSidebarShow()" on-hide="onSidebarHide()" lang="$root.lang"></sidebar>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="deptree_popup"></div>
+    <script src="bundle.js"></script>
+  </body>
+</html>

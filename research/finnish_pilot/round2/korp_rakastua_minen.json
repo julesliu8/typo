@@ -1,0 +1,699 @@
+{
+"kwic": [
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 438048,
+"start": 12,
+"end": 14
+},
+"structs": {
+"sentence_id": "39211",
+"text_url": "https://yle.fi/uutiset/3-10014044"
+},
+"tokens": [
+{
+"word": "Itse",
+"lemma": "itse",
+"pos": "Pron",
+"msd": "SUBCAT_Refl|NUM_Sg|CASE_Gen|CASECHANGE_Up"
+},
+{
+"word": "asiassa",
+"lemma": "asia",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine"
+},
+{
+"word": "Eiffelin",
+"lemma": "Eiffel",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Gen|CASECHANGE_Up"
+},
+{
+"word": "mukaan",
+"lemma": "mukaan",
+"pos": "Adp",
+"msd": "SUBCAT_Po"
+},
+{
+"word": "ihastuminen",
+"lemma": "ihastua",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom|DRV_Der_minen"
+},
+{
+"word": "ja",
+"lemma": "ja",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "rakastuminen",
+"lemma": "rakastua",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom|DRV_Der_minen"
+},
+{
+"word": "esineeseen",
+"lemma": "esine",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": "on",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "hyvin",
+"lemma": "hyvin",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "samanlaista",
+"lemma": "samanlainen",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Par|CMP_Pos"
+},
+{
+"word": "kuin",
+"lemma": "kuin",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "rakastuminen",
+"lemma": "rakastua",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom|DRV_Der_minen"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 2403478,
+"start": 1,
+"end": 6
+},
+"structs": {
+"sentence_id": "214633",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/02/08/kiljun-valmistaminen-lailliseksi-suomessa-kilju-oli-erottautumista-kylan"
+},
+"tokens": [
+{
+"word": "Seurauksena",
+"lemma": "seuraus",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ess|CASECHANGE_Up"
+},
+{
+"word": "rakastuin",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "PRS_Sg1|VOICE_Act|TENSE_Prt|MOOD_Ind"
+},
+{
+"word": "ekan",
+"lemma": "eka",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Gen|CMP_Pos"
+},
+{
+"word": "kerran",
+"lemma": "kerta",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "(",
+"lemma": "(",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "en",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Sg1|VOICE_Act"
+},
+{
+"word": "kiljuun).\u201c",
+"lemma": "kiljuun).\u201c",
+"pos": "Foreign",
+"msd": "OTHER_UNK"
+},
+{
+"word": "_",
+"lemma": "_",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "-",
+"lemma": "-",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Nainen",
+"lemma": "nainen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom|CASECHANGE_Up"
+},
+{
+"word": "40v",
+"lemma": "40v",
+"pos": "Symb",
+"msd": "OTHER_UNK"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 2972948,
+"start": 2,
+"end": 8
+},
+"structs": {
+"sentence_id": "265384",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/02/16/biisiesittelyssa-domino-saara-aallon-toinen-umk-biisi-on-rakkaudentayteinen"
+},
+"tokens": [
+{
+"word": "Sanoituksissa",
+"lemma": "sanoitus",
+"pos": "N",
+"msd": "NUM_Pl|CASE_Ine|CASECHANGE_Up"
+},
+{
+"word": "k\u00e4sitell\u00e4\u00e4n",
+"lemma": "k\u00e4sitell\u00e4",
+"pos": "V",
+"msd": "PRS_Pe4|VOICE_Pass|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "rakastumiseen",
+"lemma": "rakastua",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill|DRV_Der_minen"
+},
+{
+"word": "kuuluvaa",
+"lemma": "kuulua",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Par|VOICE_Act|PCP_PrsPrc|CMP_Pos"
+},
+{
+"word": "t\u00e4ydellist\u00e4",
+"lemma": "t\u00e4ydellinen",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Par|CMP_Pos"
+},
+{
+"word": "hullaantumista",
+"lemma": "hullaantua",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par|DRV_Der_minen"
+},
+{
+"word": "toiseen",
+"lemma": "toinen",
+"pos": "Num",
+"msd": "SUBCAT_Ord|NUM_Sg|CASE_Ill"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 5429801,
+"start": 10,
+"end": 14
+},
+"structs": {
+"sentence_id": "482374",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/03/23/planeettaseksia-ja-virtuaalisia-orgasmeja-taiteen-tulevaisuusfantasioissa"
+},
+"tokens": [
+{
+"word": "Kaivosyhti\u00f6t\u00e4",
+"lemma": "kaivosyhti\u00f6",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Par|CASECHANGE_Up"
+},
+{
+"word": "kiinnostaa",
+"lemma": "kiinnostaa",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "vain",
+"lemma": "vain",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "Pandoralla",
+"lemma": "Pandoralla",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Ade|CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": "esiintyv\u00e4",
+"lemma": "esiinty\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Nom|VOICE_Act|PCP_PrsPrc|CMP_Pos"
+},
+{
+"word": "arvokas",
+"lemma": "arvokas",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Nom|CMP_Pos"
+},
+{
+"word": "metalli",
+"lemma": "metalli",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Nom"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "mutta",
+"lemma": "mutta",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "Jake",
+"lemma": "Jake",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Nom|CASECHANGE_Up"
+},
+{
+"word": "rakastuu",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "uudessa",
+"lemma": "uusi",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Ine|CMP_Pos"
+},
+{
+"word": "kehossaan",
+"lemma": "keho",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ine|POSS_Px3"
+},
+{
+"word": "Neytiri-nimiseen",
+"lemma": "Neytiri-nimiseen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill|CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": "Pandoran",
+"lemma": "Pandoran",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Gen|CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": "alkuper\u00e4iskansan",
+"lemma": "alkuper\u00e4iskansa",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "j\u00e4seneen",
+"lemma": "j\u00e4sen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 6999370,
+"start": 9,
+"end": 11
+},
+"structs": {
+"sentence_id": "620792",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/04/16/prinsessat-yrittaa-esittaa-avutonta-vaikka-ei-oo-mitaan-hataa-oikeesti-lapset"
+},
+"tokens": [
+{
+"word": "\u2013",
+"lemma": "\u2013",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Yht\u00e4kki\u00e4",
+"lemma": "yht\u00e4kki\u00e4",
+"pos": "Adv",
+"msd": "CASECHANGE_Up"
+},
+{
+"word": "voikin",
+"lemma": "voi",
+"pos": "Adv",
+"msd": "CLIT_Foc_kin"
+},
+{
+"word": "olla",
+"lemma": "olla",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": "k\u00e4ynyt",
+"lemma": "k\u00e4yd\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Nom|VOICE_Act|PCP_PrfPrc|CMP_Pos"
+},
+{
+"word": "niin",
+"lemma": "niin",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "ett\u00e4",
+"lemma": "ett\u00e4",
+"pos": "C",
+"msd": "SUBCAT_CS"
+},
+{
+"word": "olemme",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Pl3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "rakastuneet",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "NUM_Pl|CASE_Nom|VOICE_Act|PCP_PrfPrc|CMP_Pos"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "johon",
+"lemma": "joka",
+"pos": "Pron",
+"msd": "SUBCAT_Rel|NUM_Sg|CASE_Ill"
+},
+{
+"word": "meid\u00e4n",
+"lemma": "min\u00e4",
+"pos": "Pron",
+"msd": "SUBCAT_Pers|NUM_Pl|CASE_Gen"
+},
+{
+"word": "ei",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Sg3|VOICE_Act"
+},
+{
+"word": "alun",
+"lemma": "alku",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Gen"
+},
+{
+"word": "perin",
+"lemma": "perin",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "pit\u00e4nyt",
+"lemma": "pit\u00e4\u00e4",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Nom|VOICE_Act|PCP_PrfPrc|CMP_Pos"
+},
+{
+"word": "rakastua",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Lat|VOICE_Act|INF_Inf1"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 14208130,
+"start": 3,
+"end": 9
+},
+"structs": {
+"sentence_id": "1262963",
+"text_url": "https://yle.fi/uutiset/3-10301512"
+},
+"tokens": [
+{
+"word": "Panromanttinen",
+"lemma": "Panromanttinen",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Nom|CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": ":",
+"lemma": ":",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "ei",
+"lemma": "ei",
+"pos": "V",
+"msd": "SUBCAT_Neg|PRS_Sg3|VOICE_Act"
+},
+{
+"word": "rakastu",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "TENSE_Prs|MOOD_Ind|NEG_ConNeg"
+},
+{
+"word": "sukupuoleen",
+"lemma": "sukupuoli",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ",",
+"lemma": ",",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "vaan",
+"lemma": "vaan",
+"pos": "C",
+"msd": "SUBCAT_CC"
+},
+{
+"word": "rakastuu",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "PRS_Sg3|VOICE_Act|TENSE_Prs|MOOD_Ind"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": ".",
+"lemma": ".",
+"pos": "Punct",
+"msd": "_"
+}
+]
+},
+{
+"corpus": "YLENEWS_FI_2018_S",
+"match": {
+"position": 18701732,
+"start": 8,
+"end": 11
+},
+"structs": {
+"sentence_id": "1659366",
+"text_url": "https://yle.fi/aihe/artikkeli/2018/10/08/viikon-41-vinkit-erankavijat-jatkuu-ja-kotiin-takaisin-sarjan-viimeinen-kausi"
+},
+"tokens": [
+{
+"word": "**",
+"lemma": "**",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Yle",
+"lemma": "Yle",
+"pos": "N",
+"msd": "SUBCAT_Prop|NUM_Sg|CASE_Nom|CASECHANGE_Up"
+},
+{
+"word": "TV2",
+"lemma": "TV2",
+"pos": "Symb",
+"msd": "CASECHANGE_Up|OTHER_UNK"
+},
+{
+"word": "klo",
+"lemma": "klo",
+"pos": "N",
+"msd": "SUBCAT_Abbr|OTHER_UNK"
+},
+{
+"word": "21.00",
+"lemma": "21.00",
+"pos": "Num",
+"msd": "_"
+},
+{
+"word": "**",
+"lemma": "**",
+"pos": "Punct",
+"msd": "_"
+},
+{
+"word": "Oletko",
+"lemma": "olla",
+"pos": "V",
+"msd": "PRS_Sg2|VOICE_Act|TENSE_Prs|MOOD_Ind|CLIT_Qst|CASECHANGE_Up"
+},
+{
+"word": "koskaan",
+"lemma": "koskaan",
+"pos": "Adv",
+"msd": "_"
+},
+{
+"word": "rakastunut",
+"lemma": "rakastua",
+"pos": "V",
+"msd": "NUM_Sg|CASE_Nom|VOICE_Act|PCP_PrfPrc|CMP_Pos"
+},
+{
+"word": "v\u00e4\u00e4r\u00e4\u00e4n",
+"lemma": "v\u00e4\u00e4r\u00e4",
+"pos": "A",
+"msd": "NUM_Sg|CASE_Ill|CMP_Pos"
+},
+{
+"word": "ihmiseen",
+"lemma": "ihminen",
+"pos": "N",
+"msd": "NUM_Sg|CASE_Ill"
+},
+{
+"word": "?",
+"lemma": "?",
+"pos": "Punct",
+"msd": "_"
+}
+]
+}
+],
+"hits": 7,
+"corpus_hits": {
+"YLENEWS_FI_2018_S": 7
+},
+"corpus_order": [
+"YLENEWS_FI_2018_S"
+],
+"query_data": "eJwFwTEOgCAMAMAvtVBo0RkTE-PCYJxIse3_n-BdaZzZTCpaI3fUKAJZaDkFsDoAqGNldAZzSBXVNCo2-SgWx_5e_e7PmMc5E6DMsfEP0d8XVA==\n",
+"time": 0.9022634029388428
+}
