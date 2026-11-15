@@ -1,0 +1,939 @@
+{
+  "id": "https://openalex.org/W7131295055",
+  "doi": "https://doi.org/10.1515/jall-2024-0026",
+  "title": "The heart and positive emotions: a view from Amharic",
+  "display_name": "The heart and positive emotions: a view from Amharic",
+  "publication_year": 2026,
+  "publication_date": "2026-02-24",
+  "ids": {
+    "openalex": "https://openalex.org/W7131295055",
+    "doi": "https://doi.org/10.1515/jall-2024-0026"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1515/jall-2024-0026",
+    "doi": "https://doi.org/10.1515/jall-2024-0026",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1515/jall-2024-0026",
+    "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0026/pdf",
+    "source": {
+      "id": "https://openalex.org/S48967297",
+      "display_name": "Journal of African Languages and Linguistics",
+      "issn_l": "0167-6164",
+      "issn": [
+        "0167-6164",
+        "1613-3811"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-2",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310321051",
+      "host_organization_name": "De Gruyter Mouton",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321051",
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter Mouton",
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of African Languages and Linguistics",
+    "raw_type": "journal-article"
+  },
+  "parent_works": [],
+  "lineage": [
+    "https://openalex.org/W7131295055"
+  ],
+  "child_works_count": 0,
+  "type": "article",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0026/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5082553630",
+        "display_name": "Sérgio N. Menete",
+        "orcid": "https://orcid.org/0000-0003-3427-1696",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-3427-1696"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4405281634",
+          "display_name": "Fujian Polytechnic Normal University",
+          "ror": "https://ror.org/04nn9wx40",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4405281634"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sérgio N. Menete",
+      "raw_affiliation_strings": [
+        "299627 School of Foreign Languages, Fujian Polytechnic Normal University , Fuqing , China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3427-1696",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "299627 School of Foreign Languages, Fujian Polytechnic Normal University , Fuqing , China",
+          "institution_ids": [
+            "https://openalex.org/I4405281634"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068314175",
+        "display_name": "Guiying Jiang",
+        "orcid": "https://orcid.org/0000-0002-4361-5959",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-4361-5959"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I191208505",
+          "display_name": "Xiamen University",
+          "ror": "https://ror.org/00mcjh785",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191208505"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guiying Jiang",
+      "raw_affiliation_strings": [
+        "College of Foreign Languages and Cultures, Xiamen University , Xiamen , China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4361-5959",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Foreign Languages and Cultures, Xiamen University , Xiamen , China",
+          "institution_ids": [
+            "https://openalex.org/I191208505"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5045762179",
+        "display_name": "Betelhem Tirusew Bayu",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I191208505",
+          "display_name": "Xiamen University",
+          "ror": "https://ror.org/00mcjh785",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191208505"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Betelhem Tirusew Bayu",
+      "raw_affiliation_strings": [
+        "Research School for Southeast Asian Studies, Xiamen University , Xiamen , China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research School for Southeast Asian Studies, Xiamen University , Xiamen , China",
+          "institution_ids": [
+            "https://openalex.org/I191208505"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5082553630"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4405281634"
+  ],
+  "apc_list": {
+    "value": 0,
+    "currency": "EUR",
+    "value_usd": 0
+  },
+  "apc_paid": {
+    "value": 0,
+    "currency": "EUR",
+    "value_usd": 0
+  },
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "47",
+    "issue": "1",
+    "first_page": "135",
+    "last_page": "169"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11148",
+    "display_name": "Language, Metaphor, and Cognition",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3310",
+      "display_name": "Linguistics and Language"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.0017000000225380063,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12658",
+      "display_name": "Language and Culture",
+      "score": 0.00019999999494757503,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/amharic",
+      "display_name": "Amharic language",
+      "score": 0.7829999923706055
+    },
+    {
+      "id": "https://openalex.org/keywords/heart",
+      "display_name": "heart",
+      "score": 0.5320000052452087
+    },
+    {
+      "id": "https://openalex.org/keywords/positive-emotions",
+      "display_name": "positive emotions",
+      "score": 0.8090000152587891
+    },
+    {
+      "id": "https://openalex.org/keywords/body-part-terms",
+      "display_name": "body-part terms",
+      "score": 0.8450000286102295
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-metaphor",
+      "display_name": "conceptual metaphor",
+      "score": 0.7950000166893005
+    },
+    {
+      "id": "https://openalex.org/keywords/metonymy",
+      "display_name": "metonymy",
+      "score": 0.9959999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/compositionality",
+      "display_name": "compositionality",
+      "score": 0.7289999723434448
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-conceptualization",
+      "display_name": "conceptualization of emotions",
+      "score": 0.6190000176429749
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistic-universals",
+      "display_name": "language universals",
+      "score": 0.8140000104904175
+    },
+    {
+      "id": "https://openalex.org/keywords/bilingual-dictionary",
+      "display_name": "bilingual dictionary",
+      "score": 0.5189999938011169
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780900699",
+      "wikidata": "https://www.wikidata.org/wiki/Q28244",
+      "display_name": "Amharic",
+      "level": 2,
+      "score": 0.9977999925613403
+    },
+    {
+      "id": "https://openalex.org/C90734943",
+      "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+      "display_name": "Conceptualization",
+      "level": 2,
+      "score": 0.8264999985694885
+    },
+    {
+      "id": "https://openalex.org/C29185921",
+      "wikidata": "https://www.wikidata.org/wiki/Q41966",
+      "display_name": "Metonymy",
+      "level": 3,
+      "score": 0.7440999746322632
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.7164000272750854
+    },
+    {
+      "id": "https://openalex.org/C13355873",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920850",
+      "display_name": "Connection (principal bundle)",
+      "level": 2,
+      "score": 0.5806999802589417
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.38109999895095825
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.35179999470710754
+    },
+    {
+      "id": "https://openalex.org/C207551092",
+      "wikidata": "https://www.wikidata.org/wiki/Q508969",
+      "display_name": "Cognitive linguistics",
+      "level": 3,
+      "score": 0.3409000039100647
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.32109999656677246
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.31290000677108765
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.30390000343322754
+    },
+    {
+      "id": "https://openalex.org/C181925144",
+      "wikidata": "https://www.wikidata.org/wiki/Q190375",
+      "display_name": "Historical linguistics",
+      "level": 2,
+      "score": 0.2987000048160553
+    },
+    {
+      "id": "https://openalex.org/C2778029271",
+      "wikidata": "https://www.wikidata.org/wiki/Q5421931",
+      "display_name": "Extension (predicate logic)",
+      "level": 2,
+      "score": 0.29440000653266907
+    },
+    {
+      "id": "https://openalex.org/C75795011",
+      "wikidata": "https://www.wikidata.org/wiki/Q917904",
+      "display_name": "Typology",
+      "level": 2,
+      "score": 0.2867000102996826
+    },
+    {
+      "id": "https://openalex.org/C2778311575",
+      "wikidata": "https://www.wikidata.org/wiki/Q18534",
+      "display_name": "Metaphor",
+      "level": 2,
+      "score": 0.2824999988079071
+    },
+    {
+      "id": "https://openalex.org/C22432085",
+      "wikidata": "https://www.wikidata.org/wiki/Q170239",
+      "display_name": "Onomatopoeia",
+      "level": 2,
+      "score": 0.2727999985218048
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1515/jall-2024-0026",
+      "doi": "https://doi.org/10.1515/jall-2024-0026",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1515/jall-2024-0026",
+      "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0026/pdf",
+      "source": {
+        "id": "https://openalex.org/S48967297",
+        "display_name": "Journal of African Languages and Linguistics",
+        "issn_l": "0167-6164",
+        "issn": [
+          "0167-6164",
+          "1613-3811"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "erih-plus",
+          "jufo-3",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310321051",
+        "host_organization_name": "De Gruyter Mouton",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321051",
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter Mouton",
+          "De Gruyter"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of African Languages and Linguistics",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1515/jall-2024-0026",
+    "doi": "https://doi.org/10.1515/jall-2024-0026",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1515/jall-2024-0026",
+    "pdf_url": "https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-0026/pdf",
+    "source": {
+      "id": "https://openalex.org/S48967297",
+      "display_name": "Journal of African Languages and Linguistics",
+      "issn_l": "0167-6164",
+      "issn": [
+        "0167-6164",
+        "1613-3811"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [
+        "anvur-class-a",
+        "anvur-scientific",
+        "erih-plus",
+        "jufo-3",
+        "norway-2",
+        "poland-100",
+        "russia-white-list-2",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310321051",
+      "host_organization_name": "De Gruyter Mouton",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321051",
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter Mouton",
+        "De Gruyter"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of African Languages and Linguistics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320324791",
+      "display_name": "Addis Ababa University",
+      "ror": "https://ror.org/038b8e254"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7131295055.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7131295055.grobid-xml"
+  },
+  "referenced_works_count": 44,
+  "referenced_works": [
+    "https://openalex.org/W106197915",
+    "https://openalex.org/W173802895",
+    "https://openalex.org/W229284043",
+    "https://openalex.org/W266716723",
+    "https://openalex.org/W571611420",
+    "https://openalex.org/W584099478",
+    "https://openalex.org/W629113028",
+    "https://openalex.org/W902579034",
+    "https://openalex.org/W1604108793",
+    "https://openalex.org/W1977367815",
+    "https://openalex.org/W1994587702",
+    "https://openalex.org/W2003795099",
+    "https://openalex.org/W2010465959",
+    "https://openalex.org/W2042811467",
+    "https://openalex.org/W2057590948",
+    "https://openalex.org/W2073952467",
+    "https://openalex.org/W2082370575",
+    "https://openalex.org/W2089888202",
+    "https://openalex.org/W2155221540",
+    "https://openalex.org/W2160523772",
+    "https://openalex.org/W2298471986",
+    "https://openalex.org/W2475835413",
+    "https://openalex.org/W2480997924",
+    "https://openalex.org/W2485256258",
+    "https://openalex.org/W2488171541",
+    "https://openalex.org/W2493615479",
+    "https://openalex.org/W2500941604",
+    "https://openalex.org/W2501009386",
+    "https://openalex.org/W2503458022",
+    "https://openalex.org/W2506774006",
+    "https://openalex.org/W2767214074",
+    "https://openalex.org/W3044664288",
+    "https://openalex.org/W3153213546",
+    "https://openalex.org/W3206873823",
+    "https://openalex.org/W4205820478",
+    "https://openalex.org/W4234129369",
+    "https://openalex.org/W4238836923",
+    "https://openalex.org/W4243722704",
+    "https://openalex.org/W4246994344",
+    "https://openalex.org/W4256511699",
+    "https://openalex.org/W4383272254",
+    "https://openalex.org/W4388117266",
+    "https://openalex.org/W4403634551",
+    "https://openalex.org/W4410521767"
+  ],
+  "related_works": [
+    "https://openalex.org/W4410521767",
+    "https://openalex.org/W4415604074",
+    "https://openalex.org/W7214241673",
+    "https://openalex.org/W2762891069",
+    "https://openalex.org/W4387176416",
+    "https://openalex.org/W3119823847",
+    "https://openalex.org/W3043113902",
+    "https://openalex.org/W2767214074",
+    "https://openalex.org/W4407318344",
+    "https://openalex.org/W4290973946"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "study": [
+      2,
+      48
+    ],
+    "analyzes": [
+      3
+    ],
+    "the": [
+      4,
+      30,
+      33,
+      47,
+      51,
+      96,
+      99,
+      121
+    ],
+    "Amharic": [
+      5,
+      42,
+      74,
+      93
+    ],
+    "lexrme": [
+      6
+    ],
+    "ləbb": [
+      7,
+      39
+    ],
+    "‘heart’": [
+      8,
+      40
+    ],
+    "from": [
+      9,
+      41
+    ],
+    "a": [
+      10
+    ],
+    "cognitive": [
+      11
+    ],
+    "linguistics": [
+      12
+    ],
+    "perspective,": [
+      13
+    ],
+    "contributing": [
+      14
+    ],
+    "to": [
+      15,
+      26,
+      101
+    ],
+    "what": [
+      16
+    ],
+    "is": [
+      17,
+      53,
+      75,
+      87,
+      104
+    ],
+    "known": [
+      18
+    ],
+    "about": [
+      19
+    ],
+    "conceptualization": [
+      20,
+      123
+    ],
+    "through": [
+      21,
+      90
+    ],
+    "body-part": [
+      22
+    ],
+    "terms": [
+      23
+    ],
+    "in": [
+      24,
+      73,
+      120
+    ],
+    "connection": [
+      25,
+      86
+    ],
+    "emotions.": [
+      27,
+      83,
+      125
+    ],
+    "Based": [
+      28
+    ],
+    "on": [
+      29
+    ],
+    "results": [
+      31,
+      112
+    ],
+    "of": [
+      32,
+      38,
+      71,
+      95,
+      98,
+      124
+    ],
+    "metaphoric": [
+      34
+    ],
+    "and": [
+      35,
+      44,
+      67
+    ],
+    "metonymic": [
+      36
+    ],
+    "extension": [
+      37
+    ],
+    "monolingual": [
+      43
+    ],
+    "bilingual": [
+      45
+    ],
+    "dictionaries,": [
+      46
+    ],
+    "finds": [
+      49
+    ],
+    "that": [
+      50,
+      60,
+      114
+    ],
+    "heart": [
+      52
+    ],
+    "intrinsically": [
+      54
+    ],
+    "associated": [
+      55
+    ],
+    "with": [
+      56,
+      79
+    ],
+    "positive": [
+      57,
+      102
+    ],
+    "emotions": [
+      58,
+      103
+    ],
+    "such": [
+      59
+    ],
+    "it": [
+      61
+    ],
+    "can": [
+      62
+    ],
+    "metonymically": [
+      63
+    ],
+    "stand": [
+      64
+    ],
+    "for": [
+      65,
+      107
+    ],
+    "courage": [
+      66
+    ],
+    "love.": [
+      68
+    ],
+    "The": [
+      69,
+      92
+    ],
+    "concept": [
+      70
+    ],
+    "“heart”": [
+      72,
+      100
+    ],
+    "also": [
+      76,
+      105
+    ],
+    "commonly": [
+      77
+    ],
+    "used": [
+      78
+    ],
+    "words": [
+      80
+    ],
+    "suggesting": [
+      81
+    ],
+    "negative": [
+      82
+    ],
+    "However,": [
+      84
+    ],
+    "this": [
+      85
+    ],
+    "mainly": [
+      88
+    ],
+    "possible": [
+      89
+    ],
+    "compositionality.": [
+      91
+    ],
+    "model": [
+      94
+    ],
+    "association": [
+      97
+    ],
+    "valid": [
+      106
+    ],
+    "other": [
+      108
+    ],
+    "unrelated": [
+      109
+    ],
+    "languages.": [
+      110
+    ],
+    "Our": [
+      111
+    ],
+    "suggest": [
+      113
+    ],
+    "natural": [
+      115
+    ],
+    "languages": [
+      116
+    ],
+    "share": [
+      117
+    ],
+    "important": [
+      118
+    ],
+    "similarities": [
+      119
+    ],
+    "body-based": [
+      122
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-11-14T11:04:58.165337",
+  "created_date": "2026-02-25T00:00:00"
+}

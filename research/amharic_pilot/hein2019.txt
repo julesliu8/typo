@@ -1,0 +1,2170 @@
+PDF PAGE 1
+VPNominalizationandtheFinal-over-FinalCondition *
+JohannesHein/one.oldstyleandAndrewMurphy /two.oldstyle
+/one.oldstyleUniversitätPotsdam
+/two.oldstyleUniversitätLeipzig
+johannes.hein@uni-potsdam.de,andrew.murphy@uni-leipzig.de
+August/two.oldstyle/three.oldstyle,/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle
+Abstract
+/T_heFinal-over-FinalConditionhasemergedasarobustandexplanatorygeneralizationforawide
+rangeofphenomena(Biberaueret. al. /two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle;Sheehanetal. /two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle). Inthispaper,wearguethatit
+alsoholdsinanotherdomain,nominalization.Inlanguageswhichshowovertnominalizationof
+VPs,we/f_indthatonewordorderisroutinelyunattested,namelyahead-initialVPwithasuﬃxal
+nominalizer./T_histypologicalgapcanbeaccountedforbytheFOFC,ifweallowittoholdwithin
+mixedextendedprojections.Furthermore,weshowthatthisviewalsomakescorrectpredictions
+aboutagentivenominalizations,aswellasnominalizedserialverbconstructions.
+/one.oldstyle Introduction
+Biberaueretal.(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle)arguethatthefollowingrestrictiononthelinearizationofphrasestructure
+isasyntacticuniversal: /one.oldstyle
+(/one.oldstyle) /T_he Final-over-Final Condition (FOFC)(Holmberg/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle:/one.oldstyle/two.oldstyle/four.oldstyle;Biberaueretal./two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/one.oldstyle):
+Ahead-/f_inalphrase αPcannotimmediatelydominateahead-initialphrase βP,if αand β
+aremembersofthesameextendedprojection.
+Aconsequenceofthisisthathead-/f_inalphrasesmustselectotherhead-/f_inalphrases(i.e. ‘if
+/f_inal,then/f_inal’). /T_hismeansthat,ofthefourlogicallypossibleabstractpatterns,onlythree
+arepredictedtobeattested.Inparticular,thetwoharmonicorders, initial-over-initial(/two.oldstylea)and
+/f_inal-over-/f_inal(/two.oldstyleb)andonlyonedisharmonicorder, initial-over-/f_inal(/two.oldstylec),arepermitted.
+*/T_hisresearchwaspartlyfundedbytheDeutscheForschungsgemeinscha/f_t(DFG,GermanResearchFoundation)
+–projectnumber/three.oldstyle/one.oldstyle/seven.oldstyle/six.oldstyle/three.oldstyle/three.oldstyle/four.oldstyle/eight.oldstyle/zero.oldstyle–SFB/one.oldstyle/two.oldstyle/eight.oldstyle/seven.oldstyle,projectC/zero.oldstyle/five.oldstyle.
+/one.oldstyle/T_heFOFCwasoriginallyproposedasanacronymfor Final-over-Final Constraint. InSheehanetal.(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle),
+constraintwasreplacedwith condition,since‘syntacticconstraintsaretypicallynameda/f_teraconstructionwhere
+someoperationorrelationisnotpermitted,forexample Complex NP Constraint’(Holmberg/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle:/two.oldstyle).SincetheFOFC
+enforces,ratherthanprohibits,/f_inal-over-/f_inalstructures,itseemsmoreappropriatelytermeda‘condition’.We
+thereforeadoptthisnomenclatureinthefollowingpaper.
+
+PDF PAGE 2
+VP Nominalization and the FOFC
+(/two.oldstyle) a. βP
+αP
+γPα
+β
+Consistent head-initial(harmonic)
+c. βP
+αP
+αγP
+β
+Initial-over-/f_inal(disharmonic)
+b. βP
+βαP
+αγP
+Consistent head-/f_inal(harmonic)
+d. * βP
+βαP
+γPα
+Final-over-initial(disharmonic)
+OneoftheoriginalobservationsthatledtothepostulationoftheFOFCcamefromthepossible
+ordersofauxiliaries,verbsanddirectobjectsinFinnish.Holmberg(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle)noticedthatFinnish
+allowsforvariouspermutationsofauxiliariesandVP-internalconstituents (/three.oldstylea–c),butcrucially
+nottheorderVOAUX(/three.oldstyled).
+(/three.oldstyle) /three.oldstyle//four.oldstyle orders possible in Finnish(Holmberg/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle:/one.oldstyle/two.oldstyle/eight.oldstyle):
+a. Milloin
+when
+Jussi
+Jussi
+[AuxPolisi
+/a.sc/u.sc/x.sc
+[VPkrijoittanut
+written
+romaanin
+novel
+]]?
+‘WhenwouldJussihavewrittenanovel?’ (AUXVO)
+b. Milloin
+when
+Jussi
+Jussi
+[AuxPolisi
+/a.sc/u.sc/x.sc
+[VPromaanin
+novel
+krijoittanut
+written
+]]?
+‘WhenwouldJussihavewrittenanovel?’ (AUXOV)
+c. Milloin
+when
+Jussi
+Jussi
+[AuxP[VPromaanin
+novel
+krijoittanut
+written
+]olisi
+/a.sc/u.sc/x.sc
+]?
+‘WhenwouldJussihavewrittenanovel?’ (OVAUX)
+d. *Milloin
+when
+Jussi
+Jussi
+[AuxP[VPkrijoittanut
+written
+romaanin
+novel
+]olisi
+/a.sc/u.sc/x.sc
+]?
+‘WhenwouldJussihavewrittenanovel?’ (*VOAUX)
+Itisthiscon/f_igurationthatcorrespondstotheonedisharmonicorderprohibitedbytheFOFC.
+Similar¾-patternswithregardtotheorderofV,O,andAUXhavebeendocumentedforBasque
+(Haddican/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/one.oldstyle/six.oldstyle)andKaaps(Biberaueretal./two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle).
+/T_heFOFCnotonlyconstrainsthepossiblelinearizationofVPsandauxiliarieswithinasingle
+language,butalsoacrosslanguages.Ithasbeenobservedthatofthesixlogicallypossibleword
+orderpermutationsbetweenthethreeelementsAUX(includingrestructuringverbs),VandO,
+only/f_iveareattestedacrosstheGermaniclanguages(seea.o.Travis/one.oldstyle/nine.oldstyle/eight.oldstyle/four.oldstyle;Kiparsky/one.oldstyle/nine.oldstyle/nine.oldstyle/six.oldstyle;Fuss&
+Trips/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle). /T_hesearegivenin(/four.oldstyle).
+(/four.oldstyle) /five.oldstyle//six.oldstyle orders attested across Germanic(Biberaueretal./two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/three.oldstyleﬀ.):
+a. ...dass
+that
+Johann
+Johann
+[AuxP[VPdas
+the
+Buch
+book
+gelesen
+read./p.sc/t.sc/c.sc/p.sc
+]hat
+has
+]
+‘...thatJohannhasreadthebook.’ ( German;OVAUX)
+/two.oldstyle
+
+PDF PAGE 3
+VP Nominalization and the FOFC
+b. ...oyb
+whether
+dos
+the
+yingl
+boy
+[AuxPvet
+will
+oyfn
+on.the
+veg
+way
+[VPzen
+see
+a
+a
+kats
+cat
+]]
+‘...whethertheboywillseeacatontheway.’ ( Yiddish,AUXVO)
+c. ...da
+that
+Jan
+Jan
+[AuxPwilt
+wants
+[VPeen
+a
+huis
+house
+kopen
+buy./i.sc/n.sc/f.sc
+]]
+‘...thatJanwantstobuyahouse.’ ( West Flemish;AUXOV)
+d. ...dat
+that
+Jan
+Jan
+het
+the
+boek
+book
+wil
+wants
+lezen.
+read./i.sc/n.sc/f.sc
+‘...thatJanwantstoreadthebook.’ ( Dutch;OAUXV)
+e. ...dat
+that
+hy
+he
+die
+the
+boek
+book
+gegee
+give./p.sc/t.sc/c.sc/p.sc
+het
+has
+vir
+for
+sy
+his
+suster.
+sister
+‘...thathegavethebooktohissister.’ ( Colloquial Afrikaans;VAUXO)
+AlloftheseordersarecompliantwiththeFOFC.Importantly,whatwedonot/f_indisalanguage
+suchasthehypotheticalGerman ′in(/five.oldstyle),wherea/f_inalauxiliaryembedsahead-initialVP.
+(/five.oldstyle) *...dass
+that
+Johann
+Johann
+[AuxP[VPgelesen
+read
+das
+the
+Buch
+book
+]hat
+has
+]
+‘thatJohanhasreadthebook.’ ( German′;*VOAUX)
+UndertheassumptionthattheauxiliarydirectlyembedstheVP,themissingorderinbothFinnish
+andGerman,namelyV-O-AUX,correspondsexactlytothecon/f_igurationprohibitedbytheFOFC,
+asindicatedin(/six.oldstyle)(Biberaueretal./two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle,/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle).
+(/six.oldstyle) a. AuxP
+VP
+OV
+Aux
+Consistent head-initial(English)
+c. AuxP
+VP
+VO
+Aux
+Initial-over-/f_inal(WestFlemish)
+b. AuxP
+AuxVP
+VO
+Consistent head-/f_inal(German)
+d. * AuxP
+AuxVP
+OV
+Final-over-initial(German′)
+/T_heFOFChassincebeenarguedtoholdinanumberofdiﬀerentempiricaldomains,e.g.sentence-
+/f_inalparticles(Erlewine/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle),VP-internalwordorderundernegation(Branan/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle)adverbs
+(Sheehan/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle;Erlewinetoappear),NP-internalorder(Holmberg/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle;Roberts/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle a),word
+formation(Myler/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle;Roberts/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle b),thedistributionofcomplementizers(Biberaueretal.
+/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle),extraposition(Biberauer&Sheehan/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle),anddiachronicchange(Ledgeway/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle).As
+such,itconstitutesanimportantpotentialuniversalconstraintonwordorder.Inthispaper,we
+arguethatthescopeoftheFOFCshouldbeextendedtonominalizations.Inparticular,doing
+socorrectlyderivesthe/three.oldstyle//four.oldstylepatternwe/f_indwithovertVPnominalizationinmanyWestAfrican
+languages,whereVOorderisavoidedinnominalizationswithsuﬃxalnominalizers.
+/three.oldstyle
+
+PDF PAGE 4
+VP Nominalization and the FOFC
+/two.oldstyle Word order and the FOFC in VP nominalization
+Manylanguages(WestAfricanlanguagesinparticular)requireaverbphrasetobenominalized
+incertaincontexts. /T_hesecontextsincludefocusfrontingandembeddingundercertaintypes
+ofpredicatesoraspectmarkers. /T_henominalizationiso/f_tendetectablebyanovertmorpheme
+thatisattachedtotheVPinquestion.Inthissection,wewillseethatofthefourlogicalpossible
+patternsbetweentheelementsV,OandNMLZ,onlythreeareattested.Notonlyistheorder
+VO-NMLZnotattested,itisactivelyavoidedinallthecasesinwhichwemightexpectittoarise.
+WewillarguethatthiscanbecapturedunderaFOFC-basedapproach.
+/two.oldstyle./one.oldstyle VO languages with pre/f_ixal nominalizers
+WewillstartbyconsideringVOlanguageswithpre/f_ixalnominalizers.Considerthedatafrom
+Mani(Mel,Niger-Congo),whichshowsVOorderinordinarydeclarativeclauses (/seven.oldstylea).Whena
+VPisnominalizedinapredicatefocusconstruction,thenominalizingpre/f_ix ù-attachestothe
+verbwithnochangeinVP-internalwordorder(/seven.oldstyleb).
+(/seven.oldstyle) Mani(Childs/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle:/one.oldstyle/four.oldstyle/eight.oldstyle,/two.oldstyle/one.oldstyle/nine.oldstyle):
+a. Ù
+/one.oldstyle/s.sc/g.sc
+ká
+/p.sc/s.sc/t.sc
+[VPt` Ok
+wash
+dòm` O
+shirt
+mì
+/one.oldstyle/s.sc/g.sc
+]
+‘Iwashedmyshirt.’ (VO)
+b. Ù-
+/n.sc/m.sc/l.sc/z.sc-
+[VPbán
+build
+w´ Om
+boat
+]k ´ O
+/p.sc/r.sc/o.sc./f.sc/o.sc/c.sc
+´mbòm
+Mbom
+w` O
+/three.oldstyle/s.sc/g.sc
+báŋ-y` E
+build-/s.sc/t.sc/a.sc/t.sc
+‘ItisbuildingaboatMbombuiltaboat.’ (NMLZVO)
+/T_hisisarelativelycommonpatterncross-linguisticallyandisalsofoundinotherWestAfrican
+languagessuchasLimbum(Grass/f_ieldsBantu)(/eight.oldstyle)andYoruba(Niger-Congo)(/nine.oldstyle),aswellasin
+/T_hai(Kra-Dai)(/one.oldstyle/zero.oldstyle).
+(/eight.oldstyle) Limbum(Becker&Nformi/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle:/five.oldstyle/eight.oldstyle,/seven.oldstyle/four.oldstylef.):
+a. Ŋw` E
+man
+f¯ O
+/d.sc/e.sc/t.sc
+àm
+/p.sc/s.sc/t.sc/three.oldstyle
+[VPtí
+cut
+ŋg¯u
+wood
+]
+‘/T_hemancutthewood.’ (VO)
+b. Á
+/f.sc/o.sc/c.sc
+r-
+/n.sc/m.sc/l.sc/z.sc-
+[VPy¯u
+buy
+ms¯aŋ
+rice
+](cí)
+/c.sc/o.sc/m.sc/p.sc
+njíŋw` E
+woman
+f¯ O
+/d.sc/e.sc/t.sc
+bí
+/f.sc/u.sc/t.sc/one.oldstyle
+g¯ı
+do
+‘/T_hewomanwill /b.sc/u.sc/y.sc /r.sc/i.sc/c.sc/e.sc.’ (NMLZVO)
+(/nine.oldstyle) Y oruba(Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/three.oldstyle:/one.oldstyle/nine.oldstylef.):
+a. Ajé
+Aje
+[VPra
+buy
+ìwé
+paper
+]
+‘Aje{isbuying/bought}{abook/books}.’ (VO)
+b. Rí-
+/n.sc/m.sc/l.sc/z.sc-
+[VPrà
+buy
+ìwé
+paper
+]ni
+/f.sc/o.sc/c.sc
+Ajé
+Aje
+ra
+buy
+ìwé
+paper
+‘Itisbook-buyingthatAje{isdoing/did}.’ (NMLZVO)
+/four.oldstyle
+
+PDF PAGE 5
+VP Nominalization and the FOFC
+(/one.oldstyle/zero.oldstyle) /T_hai(Jenks/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle:/one.oldstyle/seven.oldstyle,/one.oldstyle/six.oldstyle/six.oldstyle):
+a. Nát
+Nat
+[VPkin
+eat
+thúrian
+durian
+]k ´ EEw
+already
+‘Natalreadyatethedurian.’ (VO)
+b. kaan-
+/n.sc/m.sc/l.sc/z.sc-
+[VPkh˘ıian
+write
+còt-măay
+letters
+]nâa-búa
+boring
+‘Writinglettersisboring.’ (NMLZVO)
+Ineachcase,ahead-initialVPretainsVOorderwhencombinedwithanovertpre/f_ixalnominalizer.
+/two.oldstyle./two.oldstyle VO languages with suﬃxal nominalizers
+/T_hereis,however,anotherclassofVOlanguageswhichdoexhibitachangeinwordorderunder
+nominalization.Importantly,alloftheselanguageshaveasuﬃxal,ratherthanpre/f_ixalnominalizer.
+Toseethis,/f_irstconsiderthedatafromBuli(Gur,Niger-Congo)in(/one.oldstyle/one.oldstyle).Likethelanguagesinthe
+precedingsection,BulishowsVOorderindiscourse-neutraldeclarativeclauses (/one.oldstyle/one.oldstylea).IftheVPis
+focused,however,itappearsinthele/f_tperipheryoftheclauseandbearstheovertnominalizer k¯a
+(/one.oldstyle/one.oldstyleb).WhatisstrikinghereisthattheorderofobjectandverbisnowOV,andobligatorilyso.
+(/one.oldstyle/one.oldstyle) Buli(Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a:/two.oldstyle/six.oldstyle/two.oldstyle;Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle b:/five.oldstyle/four.oldstyle/six.oldstyle):
+a. Àtìm
+Àtìm
+[VPd` E
+ate
+mángò-kú-lá
+mango-/d.sc/e.sc/f.sc-/d.sc/e.sc/m.sc
+]d¯ı¯em
+yesterday
+‘Àtìmatethatmangoyesterday.’
+b. (Ká)
+/f.sc/o.sc/c.sc
+[VPmángò-kú
+mango-/d.sc/e.sc/f.sc
+d¯ E
+eat
+]-k¯a
+-/n.sc/m.sc/l.sc/z.sc
+àl¯ı/àtì
+/c.sc
+Àtìm
+Àtìm
+d` E
+ate
+d¯ı¯em
+yesterday
+‘ItiseatingthemangothatÀtìmateyesterday(note.g.buyingabanana).’
+Buliisbynomeansextraordinaryinthisregard.Otherlanguagesinwhichthewordorderinside
+theVPisusuallyVOalsorequireaswitchtoOVwhentheVPisnominalized.InDagaare(Gur,
+Niger-Congo)(/one.oldstyle/two.oldstyle)andEwe(Gbe,Niger-Congo)(/one.oldstyle/three.oldstyle),thisoccursinVPswhicharenominalized
+infocusfrontingconstructions.
+(/one.oldstyle/two.oldstyle) Dagaare(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/eight.oldstyle/zero.oldstyle/two.oldstyle,/eight.oldstyle/zero.oldstyle/five.oldstyle):
+a. `N
+/one.oldstyle/s.sc/g.sc
+dà
+/p.sc/s.sc/t.sc
+[VPdá
+buy
+lá
+/f.sc/o.sc/c.sc
+bó´ O
+goat
+]
+‘Iboughtagoat.’ (VO)
+b. [ VPBó´ O
+goat
+dáá
+buy
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+/f.sc/o.sc/c.sc
+ká
+/c.sc
+ń
+/one.oldstyle/s.sc/g.sc
+dà
+/p.sc/s.sc/t.sc
+dà
+buy
+‘ItisbuyingagoatthatIdid(asopposedtoe.g.sellingahen).’ (OVNMLZ)
+(/one.oldstyle/three.oldstyle) Ewe(Buell/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle):
+a. Ðèví
+child
+lá
+the
+[VP dù
+eat
+àk` O dú
+banana
+]
+‘/T_hechildateabanana.’ (VO)
+b. [ VPM´ Olì
+rice
+dù
+eat
+]-gé
+-/n.sc/m.sc/l.sc/z.sc
+mè-lè
+/one.oldstyle/s.sc/g.sc-be.at
+‘Iamaboutto /e.sc/a.sc/t.sc /s.sc/o.sc/m.sc/e.sc /r.sc/i.sc/c.sc/e.sc.’ (OVNMLZ)
+/five.oldstyle
+
+PDF PAGE 6
+VP Nominalization and the FOFC
+c. [ VPNúkà
+what
+dù
+eat
+]-´m
+-/n.sc/m.sc/l.sc/z.sc
+nè-lè?
+/two.oldstyle/s.sc/g.sc-be.at
+‘Whatareyoueating?’ (OVNMLZ)
+InDangme(Kwa,Niger-Congo),formationofagerundrequiresnominalizationoftheVP,anda
+concomitantshi/f_tfromVOtoOVorder(/one.oldstyle/four.oldstyle).
+(/one.oldstyle/four.oldstyle) Dangme(Ameka&KroppDakubu/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/two.oldstyle/seven.oldstyle/three.oldstyle,/two.oldstyle/seven.oldstyle/four.oldstyle):
+a. Ì
+/one.oldstyle/s.sc/g.sc
+[VPk`ãné
+read
+womi
+book
+O
+/d.sc/e.sc/f.sc
+]
+‘Ireadthebook’ (VO)
+b. [ VPwomi
+book
+O
+/d.sc/e.sc/f.sc
+k`ãné
+read
+]-m˜ı
+-/n.sc/m.sc/l.sc/z.sc
+‘readingthebook’ (OVNMLZ)
+Gengbe(Gbe,Niger-Congo)diﬀerssomewhatinrequiringovertnominalizationofVPsunder
+certainaspectmarkers,e.g. theprogressivemarker lè. /T_hisresultsinOVorderinsidethe
+complementsofthesemarkers(/one.oldstyle/five.oldstyle)(alsoseeSandeetal.toappear).
+(/one.oldstyle/five.oldstyle) Gengbe(Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle:/nine.oldstyle/zero.oldstyle;Aboh/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle:/one.oldstyle/six.oldstyle/five.oldstylef.):
+a. Mù
+/one.oldstyle/s.sc/g.sc
+[VP dù
+eat
+nú
+thing
+]
+‘Iate(something).’ (VO)
+b. Kwésí
+Kwesi
+lè
+/a.sc/u.sc/x.sc
+[VPm´ Olú
+rice
+dù
+eat
+]-` O
+-/n.sc/m.sc/l.sc/z.sc
+‘Kwesiiseatingrice’ (OVNMLZ)
+c. [ VPM´ Olú
+rice
+dù
+eat
+]-` O
+-/n.sc/m.sc/l.sc/z.sc
+yè
+/f.sc/o.sc/c.sc
+Kwésí
+Kwesi
+lè
+/a.sc/u.sc/x.sc
+‘Kwesiis /e.sc/a.sc/t.sc/i.sc/n.sc/g.sc /r.sc/i.sc/c.sc/e.sc.’ (OVNMLZ)
+Finally,inAsanteTwi/Akan(Kwa,NigerCongo),VPsarenominalizedinfocusfrontingcontexts
+(/one.oldstyle/six.oldstyleb),aswellasinagerund-likeusagewhenembeddedunderpredicatessuchas‘hate’ (/one.oldstyle/six.oldstylec)and
+‘like’(/one.oldstyle/six.oldstyled)(seeKobele&Torrence/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle).
+(/one.oldstyle/six.oldstyle) Asante Twi/Akan(Hein/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle:/seven.oldstyle;S.Korsah,p.c.):
+a. Kofí
+Ko/f_i
+[VPá-si
+/p.sc/r.sc/f.sc-build
+dán
+house
+]
+‘Ko/f_ihasbuiltahouse.’ (VO)
+b. [ VPDán
+house
+sí
+build
+](-é)
+-/n.sc/m.sc/l.sc/z.sc
+na
+/f.sc/o.sc/c.sc
+Kofí
+Ko/f_i
+á-y´ O
+/p.sc/r.sc/f.sc-do
+‘Ko/f_ihas /b.sc/u.sc/i.sc/l.sc/t.sc /a.sc /h.sc/o.sc/u.sc/s.sc/e.sc.(note.g.boughtaboat)’ (OVNMLZ)
+c. Me-kyiri
+/one.oldstyle/s.sc/g.sc-hate
+[VPdan
+house
+si
+build
+](-e)
+-/n.sc/m.sc/l.sc/z.sc
+‘Ihatebuildinghouses.’ (OVNMLZ)
+d. Ghánaní
+Ghanaian
+bíárá
+every
+pE
+like
+[VPnam
+/f_ish
+di
+eat
+](-e)
+-/n.sc/m.sc/l.sc/z.sc
+‘EveryGhanaianlikeseating/f_ish.’ (OVNMLZ)
+/six.oldstyle
+
+PDF PAGE 7
+VP Nominalization and the FOFC
+Strikingly,allofthelanguagesdiscussedinthissectionshowanobligatorychangeinwordorder
+fromVOtoOVundernominalization.WhatalloftheseVOlanguageshaveincommon,and
+alsowhatdistinguishesthemfromtheVOlanguagesdiscussedintheprecedingsection,isthat
+thenominalizerisasuﬃx,ratherthanapre/f_ix.Infact,wewerenotableto/f_indanylanguagewith
+asuﬃxalnominalizerthatretainedVOorderundernominalization.Forthisreason,wepropose
+theempiricalgeneralizationin(/one.oldstyle/seven.oldstyle).
+(/one.oldstyle/seven.oldstyle) Generalization:
+NolanguageretainsVOwordorderinsideanominalizedVPifthenominalizerisasuﬃx.
+/T_hechangefromVOtoOVinsidenominalizedVPshaso/f_tenbeenanalyzedas Object Shi/f_t
+inpreviousanalyses,i.e.movementoftheobjectDPtoahigherpositionabovetheverb(e.g.
+Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle;Aboh/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle,/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle;Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle).Whilethisisareasonableanalysis
+foranindividuallanguage,itfailstocapturethecross-linguisticgeneralizationin(/one.oldstyle/seven.oldstyle). /T_hiskind
+ofObjectShi/f_tcanbeimplementedasanEPPfeatureon ntriggeringmovementoftheobjectto
+Spec-nP(/one.oldstyle/eight.oldstyle)(cf.Chomsky/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle;Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle). /T_hisanalysisisshownbelowforexample (/one.oldstyle/six.oldstylea).
+(/one.oldstyle/eight.oldstyle) nP
+n′
+n
+-é
+[EPP]
+VP
+tDPV
+sí
+build
+DP
+dán
+house
+/T_heproblemwiththisview,however,isthatitgivesusnoobviousexplanationforthesuﬃx/pre/f_ix-
+asymmetry. Itisunclearwhyanarbitrarymovement-triggeringfeatureshouldbeseemingly
+obligatoryiftheheadhappenstoberealizedasasuﬃx,whereasoptionalorabsentifitisapre/f_ix.
+WhatweneedisanexplanationthatcaptureswhythechangefromVOtoOVorderisrequired
+onlywithasuﬃxalnominalizers. /T_hefollowingsectionarguesthatthisexplanationfollowsifwe
+aredealingwitharepairtoaviolationoftheFinal-over-FinalCondition.
+/two.oldstyle./three.oldstyle /T_he Final-over-Condition in nominalizations
+/T_hekeypartofthegeneralizationin(/one.oldstyle/seven.oldstyle)isthatthemorphologicalrealizationofthenominalizer,
+i.e. pre/f_ixvs. suﬃx,determineswhetherornotVOispossibleinsidethenominalizedVP.
+Crucially,thecon/f_igurationwhichisavoided,namelyVO-NMLZ,isonewhichwouldviolate
+theFOFC,assumingthatsuﬃxesrealizehead-/f_inalprojections.Toseethis,considertheabstract
+nominalizationcon/f_igurationsin(/one.oldstyle/nine.oldstyle).Ofthesefourcombinationsofverb,objectandnominalizer,
+threeofthem (/one.oldstyle/nine.oldstylea–c)arecompatiblewiththeFOFC.A/f_inalnominalizerembeddingahead-initial
+VPispredictedtobeimpossible(/one.oldstyle/nine.oldstyled).
+/seven.oldstyle
+
+PDF PAGE 8
+VP Nominalization and the FOFC
+(/one.oldstyle/nine.oldstyle) a. nP
+VP
+OV
+n
+Consistent head-initial
+c. nP
+VP
+VO
+n
+Initial-over-/f_inal
+b. nP
+nVP
+VO
+Consistent head-/f_inal
+d. * nP
+nVP
+OV
+Final-over-initial
+WearguethattheVOlanguageswithasuﬃxalnominalizerconstitutepreciselythisillicitcon/f_igu-
+ration,andthus,thisiswhywedonot/f_indVOorderwithsuﬃxalnominalizers.Instead,this
+structureisneutralizedtotheconsistenthead-/f_inalcon/f_igurationin (/one.oldstyle/nine.oldstyleb)byreversingtheorder
+ofverbandobject.Apre/f_ixalnominalizerattachingtoahead-initialVPrealizesthestructure
+in(/one.oldstyle/nine.oldstylea)andisthereforeentirelyunproblematicfromthepointofviewoftheFOFC. /T_hus,this
+FOFC-basedaccountexplainswhyVOorderisincompatiblewithsuﬃxalnominalizers. /T_his
+providesaprincipledaccountforthegeneralizationin(/one.oldstyle/seven.oldstyle),whereasitwouldbeanoddconspiracy
+ontheObjectShi/f_taccount. /two.oldstyle
+Furthermore,theFOFCaccountalsomakespredictions.Forexample,wehaveseenovert
+instantiationsofbothharmonicordersin (/one.oldstyle/nine.oldstylea)and(/one.oldstyle/nine.oldstyleb),wealsopredictonedisharmonicorder,
+namelytheinitial-over-/f_inalcon/f_igurationin (/one.oldstyle/nine.oldstylec).Asthefollowingsectionwillshow,thisorder
+isindeedalsoattested.
+/two.oldstyle./four.oldstyle Pre/f_ixal nominalizers with OV order
+/T_herearesomeVOlanguageswithpre/f_ixalnominalizersthatalsoexhibitOVorderinnominaliza-
+tions./T_hiswouldthenbeaninstantiationofthethirdpatternin (/one.oldstyle/nine.oldstylec)thattheFOFCpredictsto
+beattested.PerhapstheclearestexamplecomesfromKrachi(Kwa,Niger-Congo)(alsoHansford
+/one.oldstyle/nine.oldstyle/nine.oldstyle/zero.oldstyle:/two.oldstyle/four.oldstyle/three.oldstyledescribesthesamepatterninChumburung). /T_hediscourseneutralwordorderinKrachi
+isSVO,asshownin (/two.oldstyle/zero.oldstylea).Ithasapre/f_ixalnominalizer kE-thatattachestoVPs.Asweexpect,
+VOorderispossible (/two.oldstyle/zero.oldstyleb),butwhatmakesKrachidiﬀerentisthatOVorderisalsopossiblein
+nominalizedVPs(/two.oldstyle/zero.oldstylec).
+/two.oldstyleApotentialalternativeexplanation,suggestedbyareviewer,wouldbethattheobjectofthenominalizedVPis
+realizedasapossessor(analogousto John’s deathor the death of John).Forexample,Atlamaz&Baker(/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle:/two.oldstyle/zero.oldstyle/four.oldstyle)show
+thattheobjectofanominalizedverbisrealizedasanobliquephrase(likepossessors)inKurmanji(alsocf.Bodomo
+/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyleonDagaareSVCs).Ifpossessorsareprenominalinthelanguagesinquestion,thenthiscouldexplainwhy
+theobjectappearsbeforeanominalizedverb.However,thiscannotprovideageneralexplanationoftheVO →OV
+switchdescribedinsection/two.oldstyle./two.oldstyle.Whilesomeofthediscussedlanguagesdonotmarkprenominalpossessorsinany
+way,i.e.Buli(Sulemana/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle:/one.oldstyle/zero.oldstyle/three.oldstyle)andDagaare(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/eight.oldstyle/one.oldstyle/eight.oldstyle),manyoftheotherlanguagesindicate
+prenominalpossessorswithanovertmorpheme,e.g. féinEwe(Ameka/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle:/one.oldstyle/six.oldstyle/four.oldstyle), síninGengbe(Aboh/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle:/three.oldstyle/one.oldstyle)and
+neinAkan(SampsonKorsah,p.c.).Crucially,thispossessivemorphemecannotoccurwiththeobjectinnominalized
+VPs.
+/eight.oldstyle
+
+PDF PAGE 9
+VP Nominalization and the FOFC
+(/two.oldstyle/zero.oldstyle) Krachi(Kandybowicz&Torrence/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle:/two.oldstyle/two.oldstyle/seven.oldstylef.):
+a. Okyı
+woman
+wU
+the
+[VP E-dıkE
+/p.sc/s.sc/t.sc-cook
+i-gyo
+/p.sc/l.sc-yam
+]
+‘/T_hewomancookedyams.’ (VO)
+b. K E-
+/n.sc/m.sc/l.sc/z.sc-
+[VPdıkE
+cook
+i-gyo
+/p.sc/l.sc-yam
+]yı
+/f.sc/o.sc/c.sc
+Okyı
+woman
+wU
+the
+E-dıkE
+/p.sc/s.sc/t.sc-cook
+‘/T_hewomanonlycookedyams(i.e.shedidnothingelse).’ (NMLZVO)
+c. Ke-
+/n.sc/m.sc/l.sc/z.sc-
+[VPi-gyo
+/p.sc/l.sc-yam
+dıkE
+cook
+]yı
+/f.sc/o.sc/c.sc
+Okyı
+woman
+wU
+the
+E-dıkE
+/p.sc/s.sc/t.sc-cook
+‘Itwas /c.sc/o.sc/o.sc/k.sc/i.sc/n.sc/g.sc /y.sc/a.sc/m.sc/s.scthatthewomandid(noteatingrice).’ (NMLZOV)
+/T_hus,weseetwopossiblewordorders(regularVOandswitchedOV)withapre/f_ixalnominalizer. /three.oldstyle
+/T_henominalizer kE-hereexhibitsclitic-likepropertiesinthatitcan‘lean’ontowhicheverVP-
+internalconstituentfollowsit(alsoseeDaninsection/two.oldstyle./six.oldstyle). /T_hisprovidesevidenceforthe
+nominalizerattachingoutsidetheVP.
+/T_heKrachicaseisimportant,sincethepre/f_ixalnominalizerisaprocliticandcanleanonto
+theadjacentobjectinitsOVcomplement.Inotherlanguages,thenominalizerisstrictlyaverbal
+aﬃxandmust,hence,attachtotheverb.Wethereforeexpectto/f_indasurfaceONMLZ-Vorder
+insuchlanguages.Nevertheless,therearelanguagesthat,likeKrachi,stillclearlyexhibitachange
+fromVOtoOVorderinsuchcon/f_igurations. InYoruba,thenominalizingpre/f_ix V-(which
+harmonizeswiththeprecedingvowel)isaﬃxedtotheverb.InthesenominalizedVPs,boththe
+standardVOorder(/two.oldstyle/one.oldstylea)andtheswitchedOVorder(/two.oldstyle/one.oldstyleb)ispossible.
+(/two.oldstyle/one.oldstyle) Y oruba(Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle:/nine.oldstyle/six.oldstyle):
+a. Mo
+/one.oldstyle/s.sc/g.sc
+fé.
+want
+[VPé.-hun
+/n.sc/m.sc/l.sc/z.sc-weave
+aso
+cloth
+]
+‘Iwanttoweave(some)cloth.’ (NMLZ-VO)
+b. Mo
+/one.oldstyle/s.sc/g.sc
+fé.
+want
+[VPaso
+cloth
+ó.-hun
+/n.sc/m.sc/l.sc/z.sc-weave
+]
+‘Iwanttoweave(some)cloth’ (ONMLZ-V)
+InIgbo,theneutralwordorderisSVO,asinembeddedin/f_initivalclauses (/two.oldstyle/two.oldstylea).Nominalized
+VPsexhibitaswitchtoOVorderandthenominalizingpre/f_ixappearsattachedtotheverb (/two.oldstyle/two.oldstyleb).
+(/two.oldstyle/two.oldstyle) Igbo(Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle:/nine.oldstyle/seven.oldstylef.):
+a. Ó
+/three.oldstyle/s.sc/g.sc
+kú.zhi-ri
+teach-/a.sc/s.sc/p.sc
+m
+/one.oldstyle/s.sc/g.sc
+[VPi-gbá
+/i.sc/n.sc/f.sc-move
+igwè
+iron
+]
+‘S/hetaughtmetorideabike.’ (NMLZ-VO)
+b. Ó
+/three.oldstyle/s.sc/g.sc
+mára-na
+know-/p.sc/e.sc/r.sc/f.sc
+[VPigwè
+iron
+a-gbá
+/n.sc/m.sc/l.sc/z.sc-move
+]
+‘S/heknowshowtorideabike.’ (ONMLZ-V)
+/three.oldstyleNotefromthetranslationsthatthetwoordershavediﬀerentmeanings,inthattheyexpressdiﬀerenttypesof
+focus(Kandybowicz&Torrence/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle:/two.oldstyle/two.oldstyle/seven.oldstyle).VOorderin (/two.oldstyle/zero.oldstyleb)expressesexhaustivepredicatefocus,whereasthe
+alternativeOVorderin (/two.oldstyle/zero.oldstylec)yieldsacontrastivefocusinterpretation.Itisnotclearwhythechangeinwordorder
+wouldberequiredforacontrastivefocusinterpretation.Furthermore,theprocliticnatureofthenominalizer kE-
+meansthatwecanbecon/f_identthattheobjecthasnotscrambledoutofthefrontedVP.Sinceweareclearlydealing
+withwordordervariationinternaltothenominalizedVP,thispatternthereforefallsundertheauspicesoftheFOFC.
+/nine.oldstyle
+
+PDF PAGE 10
+VP Nominalization and the FOFC
+WearguethattheunderlyingstructuresinYorubaandIgboarethesameasinKrachi (/two.oldstyle/zero.oldstylec),i.e.
+theyareNMLZ-OVcon/f_igurationswithalaterprocessofaﬃxationtoderivethesurfaceONMLZ-
+Vorder.InYoruba,merginganominalizerleadsto/f_lexiblelinearizationinsidetheembeddedVP
+(/two.oldstyle/three.oldstyle)./T_hiscouldbeimplementedasthedeletionofpreviousestablishedlinearizationstatements
+(seeSheehan/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle b;Richards/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyleonestablishinglinearrelationsinsyntax).
+(/two.oldstyle/three.oldstyle) Flexible linearization of verb and complement in Y oruba:
+VP
+nP
+VP
+NP
+aso
+cloth
+V
+hun
+weave
+n
+´V. -
+V
+fé.
+want
+VP
+nP
+VP
+V
+hun
+weave
+NP
+aso
+cloth
+n
+´V. -
+V
+fé.
+want
+⇐⇒
+Independentofthewordorderchange,whichisoptionalinYorubaandobligatoryinIgbo,the
+aﬃxin nmustbeattachedtoaverbalhost.WeimplementthisaspostsyntacticLowering(Embick
+&Noyer/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle)asshownin(/two.oldstyle/four.oldstyle).
+(/two.oldstyle/four.oldstyle) Postsyntactic lowering of pre/f_ixal nominalizer:
+nP
+VP
+NP
+aso
+V
+V
+hun
+n
+é. -
+nP
+VP
+V
+V
+hun
+n
+ó. -
+NP
+aso
+Onthisview,YorubaandIgboalsoshowthebasicKrachipatternofa(potentiallyoptional)shi/f_t
+fromVOtoOVunderapre/f_ixalnominalizer,withindependentaﬃxationofthenominalizer.
+YorubaandIgboareexamplesofVOlanguagesthatallowOVorderwithanominalizingpre/f_ix.
+Anotherpossiblesourceforthisorderwouldbeahead-/f_inalOVlanguagewithanominalizing
+pre/f_ix.Duetothestrongtendencyforhead-/f_inallanguagestobesuﬃxing,thispatternisrather
+rare(seesection/two.oldstyle./five.oldstyle).However,Amharicseemstoinstantiateit.As(/two.oldstyle/five.oldstyle)shows,thebasicword
+orderofAmharicisOV.
+(/two.oldstyle/five.oldstyle) Basic OV order in Amharic(Baker&Kramer/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/four.oldstyle/two.oldstyle):
+Almaz
+Almaz
+[VPbet-u-n
+house-/d.sc/e.sc/f.sc-/a.sc/c.sc/c.sc
+ayy-ätStS
+see-/three.oldstyle./f.sc/s.sc/g.sc
+]
+‘Almazsawthehouse.’
+WhatareanalyzedasVPnominalizationsbyBaker&Kramer(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle)involvethenominalizing
+/one.oldstyle/zero.oldstyle
+
+PDF PAGE 11
+VP Nominalization and the FOFC
+pre/f_ix mä-attachedtotheverb(/two.oldstyle/six.oldstyle).
+(/two.oldstyle/six.oldstyle) OV with pre/f_ixal nominalizer in Amharic(Leslau/one.oldstyle/nine.oldstyle/nine.oldstyle/five.oldstyle:/three.oldstyle/nine.oldstyle/five.oldstyleﬀ.;Baker&Kramer/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/five.oldstyle/two.oldstyle):
+a. [ VPagär-ih
+country-your
+mä-k’rät-u-n
+/n.sc/m.sc/l.sc/z.sc-stay-/d.sc/e.sc/f.sc-/a.sc/c.sc/c.sc
+]bi-tti-wädd
+if-/two.oldstyle/s.sc/g.sc-want
+...
+‘Ifyouwanttostayinyourcountry...’
+b. [ VPmist-u-n
+wife-his-/a.sc/c.sc/c.sc
+bä-mä-gdäl
+against-/n.sc/m.sc/l.sc/z.sc-kill
+]t ä-kässäs-ä
+/p.sc/a.sc/s.sc/s.sc-accuse-/three.oldstyle/m.sc/s.sc/g.sc
+‘Hewasaccusedofmurderinghiswife.’
+Wecanemploythesameanalysishere,wherethenominalizingpre/f_ixisloweredpostsyntactically
+totheverb(/two.oldstyle/seven.oldstyle). Importantly,theunderlyingcon/f_igurationpriortoloweringwouldbethe
+disharmonicinitial-over-/f_inalcon/f_igurationpermittedbytheFOFC.
+(/two.oldstyle/seven.oldstyle) nP
+VP
+V
+V
+k’rät
+stay
+n
+mä-
+NP
+agär-ih
+country-your
+Animportantimplicitassumptionforthisargumentisthatthereisarelativelystrictcorrelation
+betweenheadednessandaﬃxtype.Inotherwords,theheadednessofaphrasemirrorswhether
+ornotitsheadisapre/f_ixorasuﬃx.Wemakethisassumptionexplicitin(/two.oldstyle/eight.oldstyle).
+(/two.oldstyle/eight.oldstyle) Aﬃx-directionality correlation:
+Pre/f_ixesrealizehead-initialstructures,suﬃxesrealizehead-/f_inalstructures.
+Wehavetakenthisasthenullhypothesisforourinvestigationofnominalizationandassume
+thatitisatleastastrongtendencyacrosslanguages(althoughprincipleddeviationsfromitmay
+bepossible;seee.g.Mithun/two.oldstyle/zero.oldstyle/zero.oldstyle/three.oldstyle). /T_hisassumptionreceivessomepost-hocjusti/f_icationbythe
+generalizationin(/one.oldstyle/seven.oldstyle).Iflanguagescouldvaryarbitrarilywithregardtowhethersuﬃxesoccupy
+eitherhead-initialorhead-/f_inalphrases,thenwewouldnotexpectthismorphologicalpropertyto
+correlatewithwhatappearstobeasyntacticrestriction(i.e.theFOFC). /T_hestrongestformof(/two.oldstyle/eight.oldstyle)
+thereforeleadsustopostulatethatbothKrachiandAmharicinstantiateunderlyingNMLZ-VO
+andNMLZ-OVcon/f_igurations,respectively.Furthermore,ifsomethinglike(/two.oldstyle/eight.oldstyle)didnothold,we
+mightexpectthatalanguagecouldopttochangetheheadednessofthe nPheadedbyasuﬃxto
+avoidaFOFC-violating/f_inal-over-initialcon/f_iguration.Ifthisweretohappen,wewouldexpect
+to/f_indexceptionstothegeneralizationin(/one.oldstyle/seven.oldstyle). Instead,whatwehaveseenisthatlanguages
+manipulatethewordorderinsidetheVP,ratherthanchangethedirectionalityofthe nhead./T_his
+restrictionmakessenseinlightof(/two.oldstyle/eight.oldstyle).
+Notethatthisanalysisisnotunfalsi/f_iable.Itmakestheclearpredictionthatweshouldnot
+/one.oldstyle/one.oldstyle
+
+PDF PAGE 12
+VP Nominalization and the FOFC
+/f_indVOlanguageswithasurfaceV-NMLZOorder.Underthepresentaccount,thiscouldonly
+derivefromanunderlyingFOFC-violating/f_inal-over-initialcon/f_iguration(VO-NMLZ)priorto
+loweringofthenominalizer.Whilewehaveseenlanguageswithaﬃxalnominalizingpre/f_ixes
+withbothVOandOVorder,wehavebeenunableto/f_indgenuineinstancesofthisunpredicted
+con/f_iguration.
+OnepotentialcandidateinstantiatingitcouldbeEnglishgerundssuchas read-ing books (is
+fun).Here,itseemslikewehaveanominalizingsuﬃx -ingandstillretainVOorderinsidethe
+nominalization.However,therearevariousreasonstothinkthatEnglishgerundsarenotprob-
+lematicforthecurrentFOFCanalysis.Forexample,onecouldassume,asAckema&Neeleman
+(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/seven.oldstylef.)do,thatthe -inginEnglishgerundsisnotactuallyanominalizer,butinsteadan
+in/f_lectionalsuﬃx.FollowingAdger(/two.oldstyle/zero.oldstyle/zero.oldstyle/three.oldstyle),weassumein/f_lectionaldependenciesinEnglishto
+involveasequenceofAgreedependencies(ratherthan ´‘AﬃxHopping’,forexample).Inthiscase,
+thenominalizerinEnglishgerundswouldbeanullaﬃxasinzeroderivationssuchas (a big)
+jump-ØN.
+AnalternativeanalysiscouldbethattheFOFCisnotviolatedingerundsbecausetheycontain
+additionalstructure. /T_heprevailingviewofgerundsisthattheycontaina vPorVoicePprojection
+(e.g.Fuetal./two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle;Alexiadou/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle;Baker&Vinokurova/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle;Bruening/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle). /T_hiscanbe
+seenbytheirabilitytohostadverbs(e.g. reading books thoroughly)(Fuetal./two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle)andcertain
+instrumentalmodi/f_iers reading books with a magnifying glass(Bruening/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle).Evenifwewereto
+treat -ingasanominalizingsuﬃx,therelevantstructureforgerundsin (/two.oldstyle/nine.oldstylea)wouldnotviolate
+theFOFC.Becauseofthesilent vPprojection,thereisnoimmediatedominationbetween nand
+VP,asrequiredbythede/f_initionoftheFOFCin(/one.oldstyle). /four.oldstyle
+(/two.oldstyle/nine.oldstyle) a. nP
+n
+-ing
+vP
+VP
+DP
+book
+V
+read
+v
+b. nP
+n
+-ing
+VP
+NP
+book
+V
+read
+/T_hisisincontrasttogenuineVPnominalizationssuchas book read-ing,whichwouldhavethe
+underlyingstructurein (/two.oldstyle/nine.oldstyleb)(seesection/three.oldstyle./two.oldstyleforfurtherdiscussion). /T_helackofa vPprojection
+(whichcanbeseenbyitsinabilitytohostadverbs,etc.)meansthatthisstructureisnotFOFC-
+compliant,leadingtoOVorderinsidetheVP(aswiththelanguageswesawinsection/two.oldstyle./two.oldstyle).Not
+allsuchFOFC-violatingcon/f_igurationsarenecessarilyrepaired,however.Ackema&Neeleman
+/four.oldstyle/T_hisofcourseraisesthequestionofhownullheadsareevaluatedwithregardtotheFOFC.Forexample,silent
+head-/f_inalnominalizersinVPnominalizationhavebeenassumedforModernFrench(Sleeman/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle)andSpanish
+(Ackema&Neeleman/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/eight.oldstyle),whilenotleadingtoanapparentFOFC-violation.Whilethisisinevitablyadiﬃcult
+issue,itispossiblethatthereisvariationregardingwhethernullheadsaretakenintoaccountbytheFOFC.One
+couldimagine,iftheFOFCholdsatPF,thatthisvariationcouldstemfromthetimingofitsevaluationrelativetoan
+operationthatremovesnullheads,suchas Pruning(Embick/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle).However,wewilllargelyleavethisasanopen
+issueforfutureresearch.
+/one.oldstyle/two.oldstyle
+
+PDF PAGE 13
+VP Nominalization and the FOFC
+(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle)arguethatthenominalizingsuﬃx -inginNorwegiancannotnominalizeVPs. /T_hisnomi-
+nalizeronlyattachestotheverbdirectlyasakindof‘lexicalnominalization’ (/three.oldstyle/zero.oldstylea),asshownin
+(/three.oldstyle/one.oldstylea)(seeBaker&Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyleforrecentdiscussion).Asyntacticnominalizationstrategy,onthe
+otherhand,where ncombineswithanentireVPisungrammatical(/three.oldstyle/zero.oldstyleb).
+(/three.oldstyle/zero.oldstyle) No phrasal nominalization in Norwegian(Ackema&Neeleman/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/eight.oldstyle/one.oldstyle):
+a. den
+that
+ulovlige
+illegal./d.sc/e.sc/f.sc
+kopier-ing-en
+copy-/n.sc/m.sc/l.sc/z.sc-/d.sc/e.sc/f.sc
+[PPav
+of
+populaere
+popular./p.sc/l.sc
+sanger
+songs
+]
+b. *den
+that
+ulovlige
+illegal./d.sc/e.sc/f.sc
+[VPkopier-ing-en
+copy-/n.sc/m.sc/l.sc/z.sc-/d.sc/e.sc/f.sc
+populaere
+popular./p.sc/l.sc
+sanger
+songs
+]
+‘thatillegalcopyingofpopularsongs.’
+/T_henominalizationin (/three.oldstyle/zero.oldstyleb)hastheFOFC-violatingstructurein (/three.oldstyle/one.oldstyleb)withtheaﬃxbeinglowered
+totheverbtogiverisetothesurfaceorderV-NMLZO.Recallthatthiswasthepatternthatwe
+predictnottobeattested,given(/two.oldstyle/eight.oldstyle).Here,wedonot/f_indOVorderinsidethenominalizedVP
+asarepair,butinsteadthisnominalizationstrategyissimplyunavailable.
+(/three.oldstyle/one.oldstyle) a. nP
+PP
+av populaere sanger
+of popular songs
+n
+n
+-ing
+V
+kopier
+copy
+b. nP
+n
+-ing
+VP
+NP
+populaere sanger
+popular songs
+V
+kopier
+copy
+*
+/T_hissuggeststhatnotallviolationsoftheFOFCinnominalizationswillresultina‘repair’based
+onre-linearization,butinsteadsometimesinsimpleungrammaticality.
+/two.oldstyle./five.oldstyle OV languages
+WehaveseenexamplesofOV-NMLZpatternfromVOlanguages,wherethechangeinword
+orderismotivatedbytheFOFC.However,wealso/f_indinstantiationsoftheOV-NMLZpattern
+inOVlanguages,forexampleinKorean(/three.oldstyle/two.oldstyle),SouthernPaiute(/three.oldstyle/three.oldstyle),Khoekhoe(/three.oldstyle/four.oldstyle)andBzhedug
+Adyghe(/three.oldstyle/five.oldstyle).
+(/three.oldstyle/two.oldstyle) Korean(Choi/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle:/three.oldstyle/three.oldstyle/three.oldstyle;Cho&Kim/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle:/six.oldstyle/seven.oldstyle/nine.oldstyle):
+a. John-i
+John-/n.sc/o.sc/m.sc
+[VPMary-lul
+Mary-/a.sc/c.sc/c.sc
+manna-ss-ta
+meet-/p.sc/s.sc/t.sc-/d.sc/e.sc/c.sc/l.sc
+]
+‘JohnmetMary.’ (OV)
+b. [ VPSakwa-lul
+apple-/a.sc/c.sc/c.sc
+mek
+eat
+]-ki-nun
+-/n.sc/m.sc/l.sc/z.sc-/t.sc/o.sc/p.sc
+John-i
+John-/n.sc/o.sc/m.sc
+mek-ess-ta.
+eat-/p.sc/s.sc/t.sc-/d.sc/e.sc/c.sc/l.sc
+‘Asforeatingapples,Johndid.’ (OVNMLZ)
+/one.oldstyle/three.oldstyle
+
+PDF PAGE 14
+VP Nominalization and the FOFC
+(/three.oldstyle/three.oldstyle) Southern Paiute(Givón/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle:/two.oldstyle/two.oldstyle/nine.oldstylef.):
+a. ’Áapachi
+boy
+’u
+the
+[VPkwanachi
+eagle
+’uway
+the
+paqha-qa
+kill-/a.sc/n.sc/t.sc
+]
+‘/T_heboykilledtheeagle.’ (OV)
+b. [ VP’Inay
+this
+kwanachi
+eagle
+paqha
+kill
+]-ta
+-/n.sc/m.sc/l.sc/z.sc
+ka-’ay-wa-tu
+/n.sc/e.sc/g.sc-good-/n.sc/e.sc/g.sc-/n.sc/m.sc/l.sc/z.sc
+’ura-qa.
+be-/a.sc/n.sc/t.sc
+‘Killingthiseaglewasbad.’ (OVNMLZ)
+(/three.oldstyle/four.oldstyle) Khoekhoe(denBesten/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle:/two.oldstyle/five.oldstyle,/three.oldstyle/seven.oldstyle):
+a. Tita
+/one.oldstyle/s.sc/g.sc
+ge
+/d.sc/e.sc/c.sc/l.sc
+[VPti
+/one.oldstyle/s.sc/g.sc./p.sc/o.sc/s.sc/s.sc
+||naoba
+uncle
+[goro
+/f_ive
+gurin
+years
+ei-!â]
+ago
+ge
+/r.sc/m.sc./p.sc/s.sc/t.sc
+mû
+see
+]
+‘Ihaveseenmyuncle/f_iveyearsago.’ (OV)
+b. [ VP||nãã‘n
+that
+hòá‘nà
+all
+||nã˜u
+hear
+]-s
+-/n.sc/m.sc/l.sc/z.sc
+‘hearallthat’ (OVNMLZ)
+(/three.oldstyle/five.oldstyle) Bzhedug Adyghe(Ershova/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle:/nine.oldstyle/nine.oldstyle,/one.oldstyle/zero.oldstyle/three.oldstyle):
+a. Ha č.e-me
+guest-/p.sc/l.sc
+s-ja-že.
+/one.oldstyle/s.sc/g.sc./a.sc/b.sc/s.sc-/three.oldstyle/p.sc/l.sc./i.sc/o.sc-wait
+‘I’mwaitingforguests.’ (OV)
+b. [ VPHač.’e-xe-m
+guest-/p.sc/l.sc-/o.sc/b.sc/l.sc
+ja-je-že
+/three.oldstyle/p.sc/l.sc./p.sc/o.sc/s.sc/s.sc-/d.sc/a.sc/t.sc-wait
+]-n
+-/n.sc/m.sc/l.sc/z.sc
+Zarine
+Zarina
+j@Pwef.
+/p.sc/o.sc/s.sc/s.sc.work
+‘WaitingforguestsisZarina’stask.’ (OVNMLZ)
+/T_heFOFC-basedaccountadvocatedherepredictsthatweshouldalso/f_indOVlanguageswith
+pre/f_ixalnominalizers.Insection/two.oldstyle./four.oldstyle,wesawthatAmhariccanbeviewedasanexampleofthis.
+Sofar,wehavenotbeenableto/f_indotherexamplesofOVlanguageswithpre/f_ixalnominalizers.
+/T_hisisperhapsnottoosurprisingthough,sincehead-/f_inallanguagestendtobeoverwhelmingly
+suﬃxal(Hawkins&Gilligan/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle:/two.oldstyle/three.oldstyle/zero.oldstyle).Whatismore,disharmonicwordordersarealsoclaimed
+toberareringeneral(Biberauer&Sheehan/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle:/two.oldstyle/zero.oldstyle/nine.oldstyle). /T_hisconspiracyoffactorsmaymean
+that,althoughthisorderNMLZ-OVistheoreticallypossible,itisrareduetotheoverwhelming
+preferenceforsuﬃxationinOVlanguages.
+/two.oldstyle./six.oldstyle Postverbal arguments in Dan
+/T_husfar,wehaveseenthattheFOFCaccountcorrectlypredictstheabsenceofhead-/f_inalVPs
+inthepresenceofsuﬃxalnominalizers.Aninterestingchallengetothisviewcomesfromthe
+MandeanlanguageDanspokeninCôted’Ivoire(Doneux/one.oldstyle/nine.oldstyle/six.oldstyle/eight.oldstyle;Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle;Baker&Gondo
+/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle)./five.oldstyleInDan,ditransitiveVPsshowtheorderNP-V-PP (/three.oldstyle/six.oldstylea).WhenaVPisnominalized,we
+donotobserveanychangeinwordorder(/three.oldstyle/six.oldstyleb).
+(/three.oldstyle/six.oldstyle) VP nominalization in Dan(Baker&Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle:/one.oldstyle/five.oldstyle):
+a. Klà
+Kla
+‚ e
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+[VPb˝a˝a
+rice
+n¯u
+give
+Z‚ ot˝a
+Zota
+d´ E
+to
+]
+‘KlagivesricetoZota.’
+/five.oldstyle/T_hankstoananonymousreviewerforbringingtherelevanceofDantoourattention.
+/one.oldstyle/four.oldstyle
+
+PDF PAGE 15
+VP Nominalization and the FOFC
+b. [ VPb˝a˝a
+rice
+n¯u
+give
+n´ 2
+child
+d´ E
+to
+]-s ‚ W
+-/n.sc/m.sc/l.sc/z.sc
+è
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+s¯ 2
+good
+‘Givingricetoachildisgood.’
+Baker&Gondo(/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle)assigntheditransitiveVPananalogousstructuretowhatistypically
+assumedforEnglishprepositionaldatives(e.g.Larson/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle;Bruening/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle),wherethedirect
+objectc-commandsthegoalargumentPP(/three.oldstyle/seven.oldstyle). /T_henominalizingsuﬃxattachestotheentireVP
+andleansontothe/f_inalconstituent,aswesawforthenominalizingpre/f_ixinKrachi(/two.oldstyle/zero.oldstyle).
+(/three.oldstyle/seven.oldstyle) nP
+n
+-s ‚ W
+VP
+V′
+PP
+n´ 2 d´ E
+child to
+V
+n¯u
+give
+NP
+b˝a˝a
+rice
+/T_hestructurein(/three.oldstyle/seven.oldstyle)wouldbeaviolationoftheFOFC,sinceahead-/f_inal nembedsahead-initial
+VPphrase(a /f_inal-over-initialcon/f_iguration).
+However,thereisanalternativeviewthatwouldbecompatiblewiththeaforementioned
+generalization.First,considerthat,withnominaldirectobjects,theVPinDanisstrictlyhead-
+/f_inal(/three.oldstyle/eight.oldstylea)(Doneux/one.oldstyle/nine.oldstyle/six.oldstyle/eight.oldstyle:/seven.oldstyle/seven.oldstyle).Undernominalization,thisOVorderwithintheVPismaintained
+(/three.oldstyle/eight.oldstyleb).
+(/three.oldstyle/eight.oldstyle) Nominalization with nominal object in Dan(Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/one.oldstyle/one.oldstyle;Baker&Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle:/one.oldstyle/three.oldstyle):
+a. Klà
+Kla
+‚ e
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+[VPb˝a˝a
+rice
+b` 7
+eat
+]
+‘Klaeatsrice.’
+b. [ VPb˝a˝a
+rice
+b` 7
+eat
+]-s ` W
+-/n.sc/m.sc/l.sc/z.sc
+è
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+s¯ 2
+good
+‘Eatingriceisgood.’
+Unlikecanonicalobjectarguments,goalarguments (/three.oldstyle/nine.oldstylea)andPPs (/three.oldstyle/nine.oldstyleb)appearpost-verbally
+(alsoseeNikitina/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle:/two.oldstyle/zero.oldstyleontherelatedlanguageWan).Furthermore,theyappearinthesame
+postverbalpositionasadverbs(/three.oldstyle/nine.oldstylec)(whichcanalsobepartofVPnominalizations).
+(/three.oldstyle/nine.oldstyle) PPs and adverbs are post-verbal in Dan(Gondo/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/five.oldstyle/seven.oldstyle,/one.oldstyle/eight.oldstyle/four.oldstyle,/two.oldstyle/eight.oldstyle/one.oldstyle):
+a. Klà
+Kla
+‚ e
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+[VPdò
+go
+pl´ 7´ 7
+village
+]
+‘Klagoestothevillage.’
+b. Klà
+Kla
+‚ e
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+[VPz‚ u
+go
+[PPd˝ U
+shower
+g ´ W
+in
+]]
+‘Klaiswashinghimselfintheshower.’
+/one.oldstyle/five.oldstyle
+
+PDF PAGE 16
+VP Nominalization and the FOFC
+c. Zòt ˝a
+Zota
+bà
+/p.sc/o.sc/s.sc/s.sc
+g` O
+car
+[VPdò
+go
+[AdvPv˝ a˜v˝ a˜d´ 7quickly]]
+‘Zota’scargoesfast.’
+Onewayofaccountingforthisapparentmixedheadednesswouldbetoassumethatthesurface
+positionofgoalargumentsisnotthecomplementoftheverb.Aswesawin(/three.oldstyle/nine.oldstyle),theyoccupy
+thesamesurfacepositionasrightwardVPadjuncts.Wewillthereforeproposethatsuchgoal
+argumentsareeitherprojectedasadjuncts/rightwardspeci/f_iers,orundergoobligatoryshort
+extrapositiontotherightedgeofVP,thesamestructuralpositionasadjuncts. /six.oldstyle /T_helatteroption
+isshownin(/four.oldstyle/zero.oldstyle).
+(/four.oldstyle/zero.oldstyle) vP
+v′
+vVP
+PP
+P
+g ´ W
+in
+DP
+d˝ U
+shower
+VP
+V
+z‚ u
+go
+tPP
+DP
+Klà
+Whennominalized,thesepostverbalconstituentsdonotchangetheirorder(Baker&Gondo
+/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle)./T_hisistruefordirectionalarguments(/four.oldstyle/one.oldstylea),adverbs(/four.oldstyle/one.oldstyleb)andPPadjuncts(/four.oldstyle/one.oldstylec).
+(/four.oldstyle/one.oldstyle) a. [ VPKlà
+Kla
+dó
+go
+pl´ 7´ 7
+village
+]-s ´ W
+-/n.sc/m.sc/l.sc/z.sc
+è
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+s¯ 2
+good
+‘Klagoingtothevillageisgood.’
+b. [ VPml` E˜` E˜snaketàgo[AdvPv˝ a˜v˝ a˜d´ 7quickly]]-s ‚ W-/n.sc/m.sc/l.sc/z.scè/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.scs¯ 2good
+‘/T_hesnake’sgoingalongquicklyisgood.’
+c. [ VPZ‚ ot˝ a
+Zota
+b˝ a
+/p.sc/o.sc/s.sc/s.sc
+t˝ a
+˜
+-b¯o
+song-pick
+[PPKlà
+Kla
+g ´ W
+in
+]]-s ´ W
+-/n.sc/m.sc/l.sc/z.sc
+è
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+s¯ 2
+good
+‘Zota’ssinginginKlaisgood.’
+Weanalyzesuchnominalizationsasthe nsuﬃxattachingtotheVPcontainingtheextraposed
+argumentoradjunct.
+Withthisinmind,thepotentiallyproblematicexamplein (/three.oldstyle/six.oldstyleb)canbereanalyzedasin(/four.oldstyle/two.oldstyle),
+/six.oldstyleNikitina(/two.oldstyle/zero.oldstyle/zero.oldstyle/seven.oldstyle)notesthatintherelatedMandeanlanguageWan,PPsareobligatorilyextraposed. /T_hiscanbe
+seenparticularlyclearlyincasesofVPsubordination,wherethePPassociatedwiththeembeddedverbappearsa/f_ter
+thematrixpredicate(i).
+(i) È
+/three.oldstyle/s.sc/g.sc./n.sc/o.sc/m.sc
+[VP[VPtPPkún`ã
+climb
+]ságl¯a
+started
+][ PPyr¯ E
+tree
+é
+/d.sc/e.sc/f.sc
+gó
+in
+]
+‘Hebegantoclimb(on)thetree.’
+WecanassumethatinWanandDan,extrapositiontargetsthehighestaccessibleVPnode.Inrestructuringcon/f_igu-
+rationslike(i),thiswouldbethematrixVP.
+/one.oldstyle/six.oldstyle
+
+PDF PAGE 17
+VP Nominalization and the FOFC
+wherethePPisprojectedinarightwardspeci/f_ier(seeBruening/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle bon‘R-dativeshi/f_t’in
+English).
+(/four.oldstyle/two.oldstyle) [ VPb˝a˝a
+rice
+n¯u
+give
+n´ 2
+child
+d´ E
+to
+]-s ‚ W
+-/n.sc/m.sc/l.sc/z.sc
+è
+/three.oldstyle/s.sc/g.sc./p.sc/r.sc/s.sc
+s¯ 2
+good
+‘Givingricetoachildisgood.’
+nP
+n
+-s ‚ W
+VP
+PP
+childto
+V′
+V
+give
+NP
+rice
+Onthisview,Danwouldnotconstituteacounterexampletotheproposedgeneralization.Here,
+thehead-/f_inalnominalizerin nembedsahead-/f_inalVP.Importantly,thepositionofaspeci/f_ier
+doesnotchangethehead-directionalityofagivenphrase.
+/two.oldstyle./seven.oldstyle Interim summary
+Inthissection,wehaveseenthattherearevariouscon/f_igurationsforVPnominalization. A
+summaryofthelanguagesinvestigatedisgivenin(/four.oldstyle/three.oldstyle).
+(/four.oldstyle/three.oldstyle) Typology of VP nominalization:
+Baseorder Nominalized
+BzhedugAdyghe OV OV-NMLZ (Ershova/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle)
+Jamsay OV OV-NMLZ (Heath/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle)
+Khoekhoe OV OV-NMLZ (denBesten/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle)
+Korean OV OV-NMLZ (Cho&Kim/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle)
+SouthernPaiute OV OV-NMLZ (Givón/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle)
+Amharic OV ONMLZ-V (Leslau/one.oldstyle/nine.oldstyle/nine.oldstyle/five.oldstyle)
+Akan VO OV-NMLZ (Hein/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle)
+Buli VO OV-NMLZ (Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a,b)
+Dagaare VO OV-NMLZ (Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle)
+Dangme VO OV-NMLZ (Ameka&KroppDakubu/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle)
+Ewe VO OV-NMLZ (Buell/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle)
+Gengbe VO OV-NMLZ (Aboh/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle)
+Krachi VO NMLZ-OV (Kandybowicz&Torrence/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle)
+Igbo VO ONMLZ-V (Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle)
+Yoruba VO ONMLZ-V (Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle)
+Krachi VO NMLZ-VO (Kandybowicz&Torrence/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle)
+Limbum VO NMLZ-VO (Becker&Nformi/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle)
+Mani VO NMLZ-VO (Childs/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle)
+/T_hai VO NMLZ-VO (Jenks/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle)
+Yoruba VO NMLZ-VO (Manfredi/one.oldstyle/nine.oldstyle/nine.oldstyle/three.oldstyle)
+/one.oldstyle/seven.oldstyle
+
+PDF PAGE 18
+VP Nominalization and the FOFC
+Ascanbeseenin(/four.oldstyle/three.oldstyle),onepatternisnotonlyunattested,butconsistentlyavoidedinthelanguages
+inwhichwewouldexpectittoarise.InalloftheVOlanguageswithasuﬃxalnominalizerthat
+wecould/f_ind,VOorderischangedtoOVinsidethenominalizedVP.InVOlanguageswitha
+pre/f_ixalnominalizer,we/f_indVOorderinsidethenominalizedVP,andsometimesevenOVorder.
+Furthermore,therearemanyOVlanguageswithasuﬃxalnominalizer.Aswesaw,thisgivesrise
+tothedescriptivegeneralizationin(/one.oldstyle/seven.oldstyle),repeatedbelow.
+(/four.oldstyle/four.oldstyle) Generalization:
+NolanguageretainsVOwordorderinsideanominalizedVPifthenominalizerisasuﬃx.
+WehavearguedthatthisgeneralizationfollowsfromtheassumptionthattheFOFCalsoconstrains
+wordorderwithinnominalizations.AllowingtheFOFCtoapplytonominalizationstructures
+suchasthosein(/four.oldstyle/five.oldstyle)successfullypredictsthethreeattestedpatternsin (/four.oldstyle/five.oldstylea–c)andrulesoutthe
+unattestedone(/four.oldstyle/five.oldstyled).
+(/four.oldstyle/five.oldstyle) a. nP
+VP
+OV
+n
+Consistent head-initial
+(e.g.Yoruba,Mani)
+c. nP
+VP
+VO
+n
+Initial-over-/f_inal
+(e.g.Krachi,Amharic)
+b. nP
+nVP
+VO
+Consistent head-/f_inal
+(e.g.Dagaare,Gengbe)
+d. * nP
+nVP
+OV
+Final-over-initial
+(unattested?)
+Assumingthatsuﬃxesoccupyhead-/f_inalpositions,asuﬃxalnominalizercannotembedahead-
+initialVP.Inotherwords,thesyntacticcon/f_igurationVO-NMLZispredictedtobeimpossible,
+sinceitisnotcompliantwiththeFOFC. /T_heotherthreepatternsthatarecompliantwiththeFOFC
+(NMLZ-VO,NMLZ-OV,OV-NMLZ)areattestedin(/four.oldstyle/five.oldstyle). /T_heFOFCprovidesanexplanatory
+accountforthisrestriction.Furthermore,italsohassomeconsequencesforourunderstandingof
+theFOFC,whichwillbediscussedinthefollowingsection.
+/three.oldstyle Discussion
+/three.oldstyle./one.oldstyle Mixed extended projections
+Recallthatthede/f_initionoftheFOFCin(/one.oldstyle),repeatedbelowin(/four.oldstyle/six.oldstyle),statesthatitholdsinsidean
+extendedprojection.
+/one.oldstyle/eight.oldstyle
+
+PDF PAGE 19
+VP Nominalization and the FOFC
+(/four.oldstyle/six.oldstyle) /T_he Final-over-Final Condition (FOFC)(Holmberg/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle:/one.oldstyle/two.oldstyle/four.oldstyle;Biberaueretal./two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/one.oldstyle):
+Ahead-/f_inalphrase αPcannotimmediatelydominateahead-initialphrase βP,if αand β
+aremembersofthesameextendedprojection.
+/T_hisquali/f_icationisnecessarysincetherearecasesinwhichthescopeoftheFOFCwouldbetoo
+broad,e.g.inrulingoutacceptablecasesofhead-initialDPsselectedbyhead-/f_inalVPs,asin
+German(/four.oldstyle/seven.oldstyle).
+(/four.oldstyle/seven.oldstyle) Ich
+I
+will
+want
+[VP[DPdas
+the
+[NPBuch
+book
+]]lesen
+read
+]
+‘Iwanttoreadthebook.’
+SinceDPsarepartofadiﬀerentextendedprojectionfromVPs,namelyanominalone,structures
+suchas(/four.oldstyle/seven.oldstyle)falloutsidethescopeoftheFOFCandarethereforenotruledout.
+If nandVdonotbelongtothesameextendedprojection,thenwewouldnotnecessarily
+expecttheFOFCtoholdinsidenominalizations,asitseemsto.Inordertomaintainthepresent
+analysis, nandVmustcountasbelongingtothesameextendedprojectionsothattheFOFC
+isenforced.Tothisend,weassumethatdeverbalnominalizationsconstitute mixed extended
+projections(Borsley&Korn/f_ilt/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle;Bresnan&Mugane/two.oldstyle/zero.oldstyle/zero.oldstyle/six.oldstyle;Pietraszko/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle; paceGrimshaw
+/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle).Onewayofachievingthistechnicallywouldbetoassumethatnominalizersactas‘switches’
+inthesenseofPanagiotidis(/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle:/one.oldstyle/four.oldstyle/three.oldstyle).Inotherwords,theyturnoneextendedprojectioninto
+another.ForPanagiotidis(/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle),anominalizerhasthefeatures[ uV,N],i.e.itselectsaverbal
+projectionandprojectsanominalone.Aslongasextendedprojectionsarede/f_inedbasedontwo
+headsbearingthesamecategorialfeature(eitherselectionalornot),thendeverbalnominalizers
+willalsocountaspartoftheextendedprojectionofV.Allofthisleadstothefollowingconsequence
+fortheFOFC:
+(/four.oldstyle/eight.oldstyle) Consequence for the FOFC:
+/T_heFOFCappliesinsideamixedextendedprojection(i.e.nominalizations)
+/T_hereissomeprecedenttoassumingthattherestrictionoftheFOFCtoextendedprojectionsis
+perhapstoostrong.Forexample,Biberauer&Sheehan(/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle)arguethattheFOFCcanaccount
+forobligatoryextrapositionofclausalcomplementsinunderlying[C-TP]-Vcon/f_igurations.Also,
+Biberaueretal.(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle:/one.oldstyle/eight.oldstyle/six.oldstyleﬀ.) attributetheabsenceof[N-PP]-PinFinnishtotheFOFC(see
+Holmberg/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).AccordingtoGrimshaw(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle:/one.oldstyle/two.oldstyle/zero.oldstyle),V-CPandP-NPshouldnotconstitute
+extendedprojections,andarethereforeproblematicforthede/f_initionoftheFOFCin(/four.oldstyle/six.oldstyle)(see
+Sheehan/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle aforrelevantdiscussion).Nominalizationspresentasimilarproblem prima facie,
+butcanperhapsbesomewhatbettercapturedunderthenotionofmixedextendedprojections
+thantheseothercases.
+/three.oldstyle./two.oldstyle /T_he FOFC in agent nominalizations
+WemightalsoexpectthatFOFCeﬀectsshouldbefoundinotherkindsofnominalizations.So
+far,wehavefocusedoneventnominalizations,butthereisalsoreasontobelievethattheFOFC
+/one.oldstyle/nine.oldstyle
+
+PDF PAGE 20
+VP Nominalization and the FOFC
+constrainsagentivenominalizations(Myler/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle;Roberts/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle b:/three.oldstyle/four.oldstyle/two.oldstylef.).Forexample,consider
+canonicalagentnominalizationssuchas truck driver,whichpresumablycontainstheVP drive
+truck(e.g.Roeper&Siegel/one.oldstyle/nine.oldstyle/seven.oldstyle/eight.oldstyle;Fuetal./two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle;Alexiadou/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle;Bruening/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle). Whenthe
+nominalizingsuﬃx -erselectsthisVP,anillicit/f_inal-over-initialcon/f_igurationiscreated(/four.oldstyle/nine.oldstyle).We
+observethesamekindofre-linearizationthatwesawwitheventnominalizationsabove. /T_his
+explainswhynominalizationof drive truckmustbe truck driverandnot *drive trucker,despite
+truckeritselfbeingpossible. /seven.oldstyle
+(/four.oldstyle/nine.oldstyle) * nP
+n
+-er
+VP
+NP
+truck
+V
+drive
+nP
+n
+-er
+VP
+V
+drive
+NP
+truck
+FurtherevidencefortheactivityoftheFOFCinagentnominalizationscomesfromobservations
+madebyAckema&Neeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle).Namely,thenominalizingsuﬃx -istcanattachtoanominal
+compoundsuchas rocket sciencetoform rocket scientist.However, -istcannotcombinewithnouns
+takingcomplements,e.g. history of science,toform *history of scientist(Ackema&Neeleman
+/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/one.oldstyle).As(/five.oldstyle/zero.oldstyle)shows, rocket scientistisFOFC-compliantsincecompoundsarepresumably
+head-/f_inal,followingWilliams’(/one.oldstyle/nine.oldstyle/eight.oldstyle/one.oldstyle) Righthand Head Rule(alsoseeMyler/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle). However,
+nominalizationofanountakingagenuinePPcomplement,asin *history of scientist,resultsina
+/f_inal-over-initialstructurethatiscorrectlyruledoutbytheFOFC.
+(/five.oldstyle/zero.oldstyle) nP
+n
+-ist
+NP
+N
+science
+N(P)
+rocket
+nP
+n
+-ist
+VP
+PP
+ofscience
+N
+history
+*
+/seven.oldstyleArevieweraskshowwecanknowthattheconstituencyof truck driveris[[truckdrive]-er]asin(/four.oldstyle/nine.oldstyle),rather
+thanaN-Nrootcompoundsuchas[truck[driv-er]](e.g.Selkirk/one.oldstyle/nine.oldstyle/eight.oldstyle/two.oldstyle;DiSciullo&Williams/one.oldstyle/nine.oldstyle/eight.oldstyle/seven.oldstyle;alsoseeSpencer
+/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle:/eight.oldstyle/eight.oldstyleﬀ. fordiscussion). Acompellingargumentfortheformerstructurecomesfromidioms. AsAckema&
+Neeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/five.oldstyle/six.oldstylef.)pointout,theidiomaticmeaningofVPidiomssuchas break the iceispreservedinsynthetic
+compoundslike ice-breaker,butlostinotheragentnominalizationssuchas /numbersign.oldstylebreaker of the ice.Furtherexamples
+include trouble-makervs. /numbersign.oldstylemaker of trouble, life-savervs. /numbersign.oldstylesaver of lives,and whistle-blowervs. /numbersign.oldstyleblower of whistles.
+Assumingthatpartsofanidiommusteitherformanunderlyingconstituent(Koopman&Sportiche/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle:/two.oldstyle/two.oldstyle/four.oldstyle)ora
+transitiveselectionalrelationship(e.g.O’Grady/one.oldstyle/nine.oldstyle/nine.oldstyle/eight.oldstyle;Bruening/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle a,/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle),thentheVPidiompartsinasynthetic
+compoundmustformaconstituenttotheexclusionof -er(ia).Inthestructureof breaker of the ice,therelevant
+idiomsparts( breakand ice)donotformaconstituent(ib)andthuslacktheidiomaticreading.
+(i) a. [[icebreak]-er]
+b. /numbersign.oldstyle[[break-er][oftheice]]
+c. /numbersign.oldstyle[[ice][break-er]]
+InthealternativeN-Ncompoundstructurein (ic),theseconditionsforpreservationofidiomaticmeaningareequally
+notmet. /T_hus,ifthiswerethecorrectstructurewewouldexpectittopatternwith (ib)inlosingtheidiomatic
+interpretation,contrarytofact.
+/two.oldstyle/zero.oldstyle
+
+PDF PAGE 21
+VP Nominalization and the FOFC
+/T_hisisfurtherbolsteredbytheobservationbyAckema&Neeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/seven.oldstyle/one.oldstyle)thatheadstaking
+PPcomplementscanappearinsideanominalizationiftheverbishead-/f_inal. /eight.oldstyle IntheDutch
+examplein(/five.oldstyle/one.oldstyle),thesuﬃx -aarembedsahead-/f_inalVP,astructurewhichrespectstheFOFC.
+(/five.oldstyle/one.oldstyle) [ nP[VP[PPaan
+on
+[DPde
+the
+weg
+way
+]]timmer
+hammer
+]-aar
+-er
+]
+‘careerist’
+/three.oldstyle./three.oldstyle Against an incorporation analysis
+/T_hereareotherapproachestothekindofnominalizationsdiscussedhere.InthespiritofBaker
+(/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle),Harley(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle:/one.oldstyle/three.oldstyle/six.oldstyle)arguesthatsyntheticcompoundssuchas truck driveraretheresultof
+nounincorporationviaheadmovement(alsoseePunske/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle;Iord ăchioaiaetal./two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).Inthe
+caseof truck driver,thisisformedbysuccessiveinstancesofhead-movementfromtheobject,to
+theverb,andthento n./T_heOVorderresultsfromthewaythattheresultingcomplexheadis
+linearized.ItisalsopossibletoadoptasimilarapproachfortheeventVPnominalizationswe
+discussed.Anexamplesuchas (/one.oldstyle/six.oldstyleb)wouldthenhaveananalysissuchas(/five.oldstyle/two.oldstyle),wherethenoun
+/f_irstincorporatesintotheverbandthiscomplexheadsubsequentlymovesto n./nine.oldstyle
+(/five.oldstyle/two.oldstyle) Incorporation approach to VP nominalization:
+nP
+n
+n
+-é
+V
+V
+sí
+build
+N
+dán
+house
+VP
+tNtV
+x
+y
+Oneofthepropertiesthatissupposedlyaccountedforbyahead-movementaccountisthatonly
+bareroots/ ncanactasgoalsforincorporation. /T_hus, *trucks driverisill-formedbecauseitwould
+requireaNum-headtobearafeaturetriggeringheadmovement(Harley/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle:/one.oldstyle/four.oldstyle/one.oldstyle).Furthermore,
+anincorporationanalysisisalsoassumedtoderivethefactthatcomplexphrasalmaterialcannot
+appearinsidesuchcompounds(seee.g.Roeper&Siegel/one.oldstyle/nine.oldstyle/seven.oldstyle/eight.oldstyle;Bresnan&Mchombo/one.oldstyle/nine.oldstyle/nine.oldstyle/five.oldstyle).However,
+theexclusionofphrasesfromcompoundsisbynomeansabsolute(seee.g.Botha/one.oldstyle/nine.oldstyle/eight.oldstyle/one.oldstyle;Ackema&
+Neeleman/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle;Sato/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle;Bruening/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle).Indeed,theeventVPnominalizationswearefocusing
+/eight.oldstyleAckema&Neeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle)oﬀeradiﬀerentexplanationforthedistinctionbetweenhead-initialandhead-/f_inal
+VPswithsuﬃxalnominalizers. /T_heyassumethatanaﬃxthatselectsaphrasecanonlydosoifittakestheheadofthat
+phraseasahost,andthereforerequiresadjacency(Ackema&Neeleman/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/six.oldstyle/four.oldstylef.).Wehaveseencounter-examples
+tothisinKrachi(/two.oldstyle/zero.oldstylec)andDan(/four.oldstyle/one.oldstyle),whereanominalizingsuﬃxisnotadjacenttotheverb.
+/nine.oldstyleOnemightwonderwhetherthebasicchangefromVOtoOVundernominalizationcannotsimplybeachievedby
+headmovementfromV-to- n./T_hisisinsuﬃcientforseveralreasons.First,ithasbeenarguedbyAckema&Neeleman
+(/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle)thatthereisageneralrestrictiononrightwardheadmovementthatitcannotcrossadependentofthathead
+(alsoseevanRiemsdijk/one.oldstyle/nine.oldstyle/nine.oldstyle/eight.oldstyle). /T_hisrulesoutrightwardmovementofVtoahead-/f_inal nposition.Furthermore,
+itisclearthatthechangefromVOtoOVwithinitialnominalizerscannotbederivedbyheadmovementto n,so
+somethingadditionalisrequiredinanycase.
+/two.oldstyle/one.oldstyle
+
+PDF PAGE 22
+VP Nominalization and the FOFC
+onhereshowsomedegreeofvariationinthecomplexityofthenominalargument.Forexample,
+weseeinKrachi(/two.oldstyle/zero.oldstyle)thattheobjectcanbearapluralmarker,unlikeinEnglish(cf.* trucks driver).
+InBuli,theobjectcanbemarkedasde/f_inite(/five.oldstyle/three.oldstyle).
+(/five.oldstyle/three.oldstyle) De/f_inite DP object in Buli VP nominalization(Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a:/two.oldstyle/six.oldstyle/two.oldstyle):
+(Ká)
+/f.sc/o.sc/c.sc
+[VPmángò-kú
+mango-/d.sc/e.sc/f.sc
+d¯ E
+eat
+]-k¯a
+-/n.sc/m.sc/l.sc/z.sc
+àl¯ı/àtì
+/c.sc
+Àtìm
+Àtìm
+d` E
+ate
+d¯ı¯em.
+yesterday
+‘ItiseatingthemangothatÀtìmateyesterday.(note.g.buyingabanana)’
+Dagaareisevenlessrestrictiveandallowsforade/f_initeDPmodi/f_iedbyanadjectiveanda
+demonstrativeinsideanominalizedVP(/five.oldstyle/four.oldstyle).
+(/five.oldstyle/four.oldstyle) Modi/f_ied object in Dagaare VP nominalization(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/eight.oldstyle/zero.oldstyle/five.oldstyle):
+[VPÀ
+/d.sc/e.sc/f.sc
+bó-vèlàà
+goat-good
+ná
+/d.sc/e.sc/m.sc
+dáá
+buy
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+/f.sc/o.sc/c.sc
+ká
+/c.sc
+ń
+/one.oldstyle/s.sc/g.sc
+(dá)
+/p.sc/s.sc/t.sc
+dá.
+buy
+‘ItisbuyingthatgoodgoatthatIdid.’
+/T_hiswouldnotbeexpectediftheseweregenuinecasesofnounincorporation(seeBaker/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle:/one.oldstyle/five.oldstyle/three.oldstyle).
+Fromthisweconcludethattheshi/f_tfromVOtoOVinnominalizationscannotbetheresultof
+incorporationviaheadmovement.Somelanguagesdoseemtoimposea‘bareness’requirement
+onthecomplementoftheverb,howeverthereissigni/f_icantcross-linguisticvariationinthisregard.
+Itispossiblethatthenominalobjectindeverbalnominalizationsissubjecttovaryingdegreesof
+pseudo-incorporation,whichrequireittosurfaceasabarenominal(seeMassam/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle).
+/four.oldstyle Nominalized serial verb constructions
+RecallthatinVOlanguageswithasuﬃxalnominalizersuchasDagaare(/one.oldstyle/two.oldstyle),thewordorder
+insidetheVPchangestoOVwhennominalized. /T_herearealsomorecomplexVPstructuresin
+suchlanguages,o/f_tenreferredtoasserialverbconstructions(SVCs).InDagaare,theseshowthe
+wordorderV /one.oldstyleOV/two.oldstylewherethedirectobjectissharedbetweenthetwoverbs(/five.oldstyle/five.oldstyle).
+(/five.oldstyle/five.oldstyle) Verb serialization with shared object in Dagaare(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/seven.oldstyle/nine.oldstyle/six.oldstyle):
+a. Ò
+/three.oldstyle/s.sc/g.sc
+dà
+/p.sc/s.sc/t.sc
+[VPs´ E/one.oldstyle
+roast
+lá
+/f.sc
+n´ Enè
+meat
+` O` O/two.oldstyle
+eat
+]
+‘Heroastedmeatandateit’ (V /one.oldstyleOV/two.oldstyle)
+b. *Ò
+/three.oldstyle/s.sc/g.sc
+dà
+/p.sc/s.sc/t.sc
+[VPs´ E/one.oldstyle
+roast
+lá
+/f.sc
+` O` O/two.oldstyle
+eat
+n´ Enè
+meat
+]
+‘Heroastedmeatandateit’ (*V /one.oldstyleV/two.oldstyleO)
+WhenthiscomplexVPisnominalized,itshowsadiﬀerentwordorder,however. /T_hebaseV /one.oldstyleO
+V/two.oldstylein(/five.oldstyle/five.oldstylea)changestoOV /one.oldstyleV/two.oldstyle(/five.oldstyle/six.oldstyle).
+(/five.oldstyle/six.oldstyle) Word in nominalized SVCs in Dagaare(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/seven.oldstyle/nine.oldstyle/eight.oldstyle):
+[VP N´ Enè
+meat
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle
+eat
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+F
+ká
+C
+ó
+/three.oldstyle/s.sc/g.sc
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle.
+eat
+‘Itisroastingmeatandeatingitthathedid’
+/two.oldstyle/two.oldstyle
+
+PDF PAGE 23
+VP Nominalization and the FOFC
+/T_hesamepatternisalsofoundinBuli(/five.oldstyle/seven.oldstyle)(Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a).
+(/five.oldstyle/seven.oldstyle) Verb serialization with shared object in Buli(Hiraiwa/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a:/two.oldstyle/six.oldstyle/three.oldstyle):
+a. Atìm
+Atim
+[VPsè/one.oldstyle
+roast
+l¯am
+meat
+N` Obí/two.oldstyle
+eat
+]
+‘Atimroastedandatemeat.’
+b. (ká)
+/f.sc/o.sc/c.sc
+[VP l¯am
+meat
+sè/one.oldstyle
+roast
+N` Obí/two.oldstyle
+eat
+]-k¯a
+-/n.sc/m.sc/l.sc/z.sc
+àl¯ı/átí
+C
+Atìm
+Atim
+sé/one.oldstyle
+roast
+N` Obí/two.oldstyle
+eat
+‘It’sroastingandeatingmeatthatAtimdid.’
+AcentralfeatureoftheseSVCsisthattheobjectis‘shared’betweenthetwoverbs. /T_herehave
+beenanumberofproposalsforhowtoreconcileobject-sharingwithstrictbinarybranching(Hale
+/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle;Collins/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle;Aboh/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).Simplifyingsomewhat,wecouldimaginetwobasicconstituencies
+fortheobjectsharingcon/f_igurationinDagaareandBuli(/five.oldstyle/eight.oldstyle).
+(/five.oldstyle/eight.oldstyle) a. [ VPV[VPOV]]
+b. [ VP[VPVO]V]
+However,Hiraiwa&Bodomo(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle)provideevidencefromextractionthatneitherisadequate.
+As(/five.oldstyle/nine.oldstylea)shows,itispossibletomovethe/f_irstverb(V /one.oldstyle)intheseriestogetherwiththedirectobject.
+Furthermore,thedirectobjectcanalsobefrontedalongwithV /two.oldstyle(/five.oldstyle/nine.oldstyleb).Finally,itispossibleto
+extractbothverbstogetherwiththesharedobject(/five.oldstyle/nine.oldstylec). /one.oldstyle/zero.oldstyle
+(/five.oldstyle/nine.oldstyle) Extraction in SVCs in Dagaare(Hiraiwa&Bodomo/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/seven.oldstyle/nine.oldstyle/eight.oldstyle):
+a. [ VP/one.oldstyle N´ Enè
+meat
+sé´ E/one.oldstyle
+roast
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+F
+ká
+C
+ó
+/three.oldstyle/s.sc/g.sc
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle.
+eat
+‘Itisroastingmeatthathedidandate(it)’ (extractionofDP +V/one.oldstyle)
+b. [ VP/two.oldstyle N´ Enè
+meat
+` O` O/two.oldstyle
+eat
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+F
+ká
+C
+ó
+/three.oldstyle/s.sc/g.sc
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle.
+eat
+‘Itiseatingmeatthatheroastedanddid’ (extractionofDP +V/two.oldstyle)
+c. [ VP/one.oldstyle//two.oldstyle N´ Enè
+meat
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle
+eat
+]-ó
+-/n.sc/m.sc/l.sc/z.sc
+lá
+F
+ká
+C
+ó
+/three.oldstyle/s.sc/g.sc
+s´ E/one.oldstyle
+roast
+` O` O/two.oldstyle.
+eat
+‘Itisroastingmeatandeatingitthathedid’ (extractionofDP +V/one.oldstyle+V/two.oldstyle)
+/T_hesedatasuggestthatthedirectobjectformsaconstituentbothwithV /one.oldstyleandV/two.oldstyletotheexclusion
+oftheotherverb. /T_hus,neitherofthestructuresin(/five.oldstyle/eight.oldstyle)canaccountfortheseconstituencyfacts.
+/T_hesameisalsotrueforthestructureproposedinBodomo(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle:/one.oldstyle/nine.oldstyle),wheretheobjectisanalyzed
+asapossessor.
+Tocapturethis,Hiraiwa&Bodomo(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle)arguethatobject-sharingSVCsinvolvea‘double-
+headed’VPinthesenseofBaker(/one.oldstyle/nine.oldstyle/eight.oldstyle/nine.oldstyle)andBaker&Stewart(/one.oldstyle/nine.oldstyle/nine.oldstyle/nine.oldstyle).Objectsharingistheresult
+ofamultidominantstructure(e.g.Citko/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle,/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle;Gra čanin-Yüksek/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle;Bachrach&Katzir
+/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle)asin(/six.oldstyle/zero.oldstyle),whereeachverbtakestheDPasitscomplement.
+/one.oldstyle/zero.oldstyleNotethatextractedverbsaredoubledintheirbase-position,asiso/f_tenfoundinpredicatefocusconstructions
+(seee.g.Hein/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle,/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle). Hiraiwa&Bodomo(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle:/eight.oldstyle/zero.oldstyle/four.oldstyle)assumethatthisconstructioninvolvesmovementin
+Dagaaresinceitisbothunboundedandconstrainedbyislands.Hiraiwa(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle b:/five.oldstyle/five.oldstyle/one.oldstylef.)showsthatBulipredicate
+frontingisalsosensitivetoislandsandadditionallyshowsreconstructioneﬀects.
+/two.oldstyle/three.oldstyle
+
+PDF PAGE 24
+VP Nominalization and the FOFC
+(/six.oldstyle/zero.oldstyle) Multidominance approach to sharing in SVCs:
+VP/one.oldstyle
+V/one.oldstyle
+roast
+VP/two.oldstyle
+V/two.oldstyle
+eat
+DP
+meat
+VP/one.oldstyle//two.oldstyle
+/T_hisnowprovidesthreephrasalconstituentsthatcanbetargetedformovement,corresponding
+totheextractionpossibilitiesin(/five.oldstyle/nine.oldstyle).EitherofthelowerVPconstituents(VP /one.oldstyleorVP/two.oldstyle)canbe
+moved,correspondingto (/five.oldstyle/nine.oldstylea)and(/five.oldstyle/nine.oldstyleb)respectively.Inaddition,thelargerVP /one.oldstyle//two.oldstyleconstituent
+canalsobeextracted,asin(/five.oldstyle/nine.oldstylec).
+Importantly,whentheentireVP /one.oldstyle//two.oldstyleconstituentisnominalizedunderextraction,wedonot
+/f_indtheotherwiseexpectedV /one.oldstyleOV/two.oldstyleorder,butratherashi/f_tedOV /one.oldstyleV/two.oldstylecon/f_igurationinsidethe
+VP.Wearguethatthisfollowsfromthestructurein(/six.oldstyle/zero.oldstyle)andtheassumptionthattheFOFCholds
+innominalizations. /T_henominalizerattachestothelargerVP /one.oldstyle//two.oldstyleconstituent,whichconsistsofa
+head-initialVP/one.oldstyleandahead-/f_inalVP /two.oldstyle(/six.oldstyle/one.oldstylea)./T_hiscreatesaFOFC-compliantstructurewithregard
+toV/two.oldstyle,butabanned/f_inal-over-initialcon/f_igurationwithregardtoV /one.oldstyle./T_hepredictionoftheFOFC
+accountisthatweshould/f_indanobligatorychangeinwordorderinVP /one.oldstyle,butnotinVP /two.oldstyle,leading
+tohead-/f_inalorderinVP /one.oldstyle(/six.oldstyle/one.oldstyle).
+(/six.oldstyle/one.oldstyle) a. *
+VP/one.oldstyle
+V/one.oldstyle
+roast
+VP/two.oldstyle
+V/two.oldstyle
+eat
+DP
+meat
+VP/one.oldstyle//two.oldstyle
+nP
+n
+b.
+VP/one.oldstyle
+V/one.oldstyle
+roast
+VP/two.oldstyle
+V/two.oldstyle
+eat
+DP
+meat
+VP/one.oldstyle//two.oldstyle
+nP
+n
+Recallfrom(/five.oldstyle/nine.oldstylec)thatthisisindeedwhatwe/f_ind,namelyachangeofwordorderfromV /one.oldstyleOV/two.oldstyle
+toOV /one.oldstyleV/two.oldstyle./T_hus,whendouble-headedVPstructuressuchas(/six.oldstyle/zero.oldstyle)arenominalized,theFOFC
+mustberespectedbyeachVPindependently.
+/five.oldstyle Conclusion
+Inthispaper,wehavearguedthatthescopeoftheFinal-over-FinalConditionshouldbeextended
+tonominalizations. /T_hemotivationforthiscomesfromtheconsistentavoidanceofVOorder
+insidenominalizedVPswithasuﬃxalnominalizer.Nocomparablerestrictionwasfoundwith
+pre/f_ixalnominalizers.Wehavearguedthatthisdirectionalasymmetryfollowsnaturallyunder
+/two.oldstyle/four.oldstyle
+
+PDF PAGE 25
+VP Nominalization and the FOFC
+anexplanationthatinvokestheFOFC,sincetheunattestedorderwouldconstituteanillicit
+/f_inal-over-initialcon/f_iguration.ExtendingtheFOFCtonominalizationsissomewhatproblematic
+giventhefactthathasbeenassumedtoonlyholdwithinanextendedprojection(Biberaueretal.
+/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle)./T_hiscanbeaccommodatedbyassumingthatnominalizationsconstitutemixedextended
+projections(Borsley&Korn/f_ilt/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle),whichwouldthenalsofallunderthescopeoftheFOFC.
+References
+Aboh,EnochO.(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle). /T_he Morphosyntax of Complement-Head Sequences: Clause Structure and
+Word Order Patterns in Kwa.OxfordUniversityPress:Oxford.
+Aboh,EnochO.(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle).ObjectShi/f_t,VerbMovementandVerbReduplication.InG.Cinque
+&R.S.Kayne(eds). /T_he Oxford Handbook of Comparative Syntax.OxfordUniversityPress:
+Oxford./one.oldstyle/three.oldstyle/eight.oldstyle–/one.oldstyle/seven.oldstyle/seven.oldstyle.
+Aboh,EnochO.(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).ClauseStructureandVerbSeries. Linguistic Inquiry/four.oldstyle/zero.oldstyle(/one.oldstyle)./one.oldstyle–/three.oldstyle/three.oldstyle.
+Aboh,EnochO.(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle). /T_heMorphosyntaxoftheNounPhrase.InE.O.Aboh&J.Essegbey(eds).
+T opics in Kwa Syntax.Springer:Dordrecht./one.oldstyle/one.oldstyle–/three.oldstyle/seven.oldstyle.
+Ackema,Peter&AdNeeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle).EﬀectsofShortTermStorageinProcessingRightward
+Movement.InS.Nooteboom,F.Weerman&F.Wijnen(eds). Storage and Computation in the
+Language Faculty.Kluwer:Dordrecht./two.oldstyle/one.oldstyle/nine.oldstyle–/two.oldstyle/five.oldstyle/six.oldstyle.
+Ackema,Peter&AdNeeleman(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle). Beyond Morphology: Interface Conditions on W ord Forma-
+tion.OxfordUniversityPress:Oxford.
+Adger,David(/two.oldstyle/zero.oldstyle/zero.oldstyle/three.oldstyle). Core Syntax.OxfordUniversityPress:Oxford.
+Alexiadou,Artemis(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle). Functional Structure in Nominals: Nominalization and Ergativity.John
+Benjamins:Amsterdam.
+Ameka,FelixK.(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle).InformationPackagingConstructionsinKwa:MicrovariationandTypol-
+ogy.InE.O.Aboh&J.Essegbey(eds). T opics in Kwa Syntax.Springer:Dordrecht./one.oldstyle/four.oldstyle/one.oldstyle–/one.oldstyle/seven.oldstyle/six.oldstyle.
+Ameka,FelixK.&MaryE.KroppDakubu(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle).ImperfectiveConstructions:Progressiveand
+ProspectiveinEweandDangme.InF.K.Ameka&M.E.KroppDakubu(eds). Aspect and
+Modality in Kwa Languages.JohnBenjamins:Amsterdam./two.oldstyle/one.oldstyle/five.oldstyle–/two.oldstyle/eight.oldstyle/nine.oldstyle.
+Atlamaz,Ümit&MarkBaker(/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle).OnPartialAgreementandObliqueCase. Syntax/two.oldstyle/one.oldstyle(/three.oldstyle).
+/one.oldstyle/nine.oldstyle/five.oldstyle–/two.oldstyle/three.oldstyle/seven.oldstyle.
+Bachrach,Asaf&RoniKatzir(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).LinearizingStructures. Syntax/two.oldstyle/zero.oldstyle(/one.oldstyle)./one.oldstyle–/four.oldstyle/zero.oldstyle.
+Baker,Mark(/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle). Incorporation: A/T_heory of Grammatical Function Changing.ChicagoUniver-
+sityPress:Chicago.
+Baker,MarkC.(/one.oldstyle/nine.oldstyle/eight.oldstyle/nine.oldstyle).ObjectSharingandProjectioninSerialVerbConstructions. Linguistic
+Inquiry/two.oldstyle/zero.oldstyle(/four.oldstyle)./five.oldstyle/one.oldstyle/three.oldstyle–/five.oldstyle/five.oldstyle/three.oldstyle.
+Baker,MarkC.(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).IsHeadMovementStillNeededForNounIncorporation?. Lingua/one.oldstyle/one.oldstyle/nine.oldstyle.
+/one.oldstyle/four.oldstyle/eight.oldstyle–/one.oldstyle/six.oldstyle/five.oldstyle.
+Baker,MarkC.&BleuGildasGondo(/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle).PossessionandNominalzationinDan:Evidencefor
+aGeneral /T_heoryofCategories.Ms.RutgersUniversity&FelixHouphou ëtBoignyUniversity.
+/two.oldstyle/five.oldstyle
+
+PDF PAGE 26
+VP Nominalization and the FOFC
+Baker,MarkC.&NadyaVinokurova(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).OnAgentNominalizationsandWhy /T_heyAreNot
+likeEventNominalizations. Language/eight.oldstyle/five.oldstyle(/three.oldstyle)./five.oldstyle/one.oldstyle/seven.oldstyle–/five.oldstyle/five.oldstyle/six.oldstyle.
+Baker,Mark&OsamuyimenT.Stewart(/one.oldstyle/nine.oldstyle/nine.oldstyle/nine.oldstyle).OnDouble-HeadednessandtheAnatomyofthe
+Clause.Ms.Rutgers.
+Baker,Mark&RuthKramer(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle).RethinkingAmharmicprepositionsascasemarkersinserted
+atPF. Lingua/one.oldstyle/four.oldstyle/five.oldstyle./one.oldstyle/four.oldstyle/one.oldstyle–/one.oldstyle/seven.oldstyle/two.oldstyle.
+Becker,Laura&JudeNformi(/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle).FocusandVerbDoublinginLimbum.InK.Barnickel,M.G.
+Naranjo,J.Hein,S.Korsah,A.Murphy,L.Paschen,Z.Pu škar&J.Zaleska(eds). Replicative
+Processes in Grammar.Vol./nine.oldstyle/three.oldstyle.of Linguistische Arbeits Berichte (LAB).UniversitätLeipzig:
+Leipzig./five.oldstyle/seven.oldstyle–/eight.oldstyle/four.oldstyle.
+Biberauer,/T_heresa,AndersHolmberg&IanRoberts(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle).StructureandLinearizationin
+DisharmonicWordOrders.InC.B.Chang&H.J.Haynie(eds). Proceedings of the /two.oldstyle/six.oldstyleth West
+Coast Conference on Formal Linguistics.CascadillaProceedingsProjectSomerville,MA/nine.oldstyle/six.oldstyle–/one.oldstyle/zero.oldstyle/four.oldstyle.
+Biberauer,/T_heresa,AndersHolmberg&IanRoberts(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle).ASyntacticUniversalanditsConse-
+quences. Linguistic Inquiry/four.oldstyle/five.oldstyle(/two.oldstyle)./one.oldstyle/six.oldstyle/nine.oldstyle–/two.oldstyle/two.oldstyle/five.oldstyle.
+Biberauer,/T_heresa&MichelleSheehan(/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle).Disharmony,AntisymmetryandtheFinal-over-
+FinalConstraint.InM.Uribe-Etxebarria&V.Valmala(eds). W ays of Structure Building.Oxford
+UniversityPress:Oxford./two.oldstyle/zero.oldstyle/six.oldstyle–/two.oldstyle/four.oldstyle/four.oldstyle.
+Biberauer,/T_heresa,MichelleSheehan&GlendaNewton(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle).ImpossibleChangesandIm-
+possibleBorrowings: /T_heFinal-over-FinalConstraint.InA.Breitbarth,C.Lucas,S.Watts&
+D.Willis(eds). Continuity and Change in Grammar.JohnBenjamins:Amsterdam./three.oldstyle/five.oldstyle–/six.oldstyle/zero.oldstyle.
+Bodomo,Adams(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle). /T_heSyntaxofNominalizedComplexVerbalPredicatesinDagaare.
+Studia Linguistica/five.oldstyle/eight.oldstyle(/one.oldstyle)./one.oldstyle–/two.oldstyle/two.oldstyle.
+Borsley,Robert.D.&JaklinKorn/f_ilt(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).MixedExtendedProjections.InR.Borsley(ed.). /T_he
+Nature and Functioning of Syntactic Categories.AcademicPress:London./one.oldstyle/three.oldstyle/three.oldstyle–/one.oldstyle/six.oldstyle/six.oldstyle.
+Botha,Rudolf(/one.oldstyle/nine.oldstyle/eight.oldstyle/one.oldstyle).ABaseRule /T_heoryofAfrikaansSyntheticCompounding.InM.Moortgat,
+H.vanderHulst&T.Hoekstra(eds). /T_he Scope of Lexical Rules.Foris:Dordrecht./one.oldstyle–/seven.oldstyle/seven.oldstyle.
+Branan,Kenyon(/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle).FOFC-motivatedmovement:EvidencefromSkou.Ms.NationalUniver-
+sityofSingapore.
+Bresnan,Joan&JohnMugane(/two.oldstyle/zero.oldstyle/zero.oldstyle/six.oldstyle).AgentiveNominalizationsinG ˜ık˜uy˜uandthe /T_heoryof
+MixedCategories.InR.M.Kaplan,M.Butt,M.Dalrymple&T.H.King(eds). Intelligent
+Linguistic Architectures.CSLIPublications:Stanford,CA./two.oldstyle/zero.oldstyle/one.oldstyle–/two.oldstyle/three.oldstyle/four.oldstyle.
+Bresnan,Joan&SamA.Mchombo(/one.oldstyle/nine.oldstyle/nine.oldstyle/five.oldstyle). /T_heLexicalIntegrityPrinciple:EvidencefromBantu.
+Natural Language and Linguistic/T_heory/one.oldstyle/three.oldstyle(/two.oldstyle)./one.oldstyle/eight.oldstyle/one.oldstyle–/two.oldstyle/five.oldstyle/four.oldstyle.
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle).QRObeysSuperiority:FrozenScopeandACD. Linguistic Inquiry
+/three.oldstyle/two.oldstyle(/two.oldstyle)./two.oldstyle/three.oldstyle/three.oldstyle–/two.oldstyle/seven.oldstyle/three.oldstyle.
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle a).DitransitiveAsymmetriesanda /T_heoryofIdiomFormation. Lin-
+guistic Inquiry/four.oldstyle/one.oldstyle(/four.oldstyle)./five.oldstyle/one.oldstyle/nine.oldstyle–/five.oldstyle/six.oldstyle/two.oldstyle.
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle b).DoubleObjectConstructionsDisguisedasPrepositionalDatives.
+Linguistic Inquiry/four.oldstyle/one.oldstyle(/two.oldstyle)./two.oldstyle/eight.oldstyle/seven.oldstyle–/three.oldstyle/zero.oldstyle/five.oldstyle.
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle).By-PhrasesinPassivesandNominals. Syntax/one.oldstyle/six.oldstyle(/one.oldstyle)./one.oldstyle–/four.oldstyle/one.oldstyle.
+/two.oldstyle/six.oldstyle
+
+PDF PAGE 27
+VP Nominalization and the FOFC
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).SyntacticConstraintsonIdioms(DoNotIncludeLocality).In
+C.Halpert,H.Kotek&C.vanUrk(eds). A Pesky Set: Papers for David Pesetsky.MITWorking
+PapersinLinguistics:Cambridge,MA./one.oldstyle/eight.oldstyle/three.oldstyle–/one.oldstyle/nine.oldstyle/two.oldstyle.
+Bruening,Benjamin(/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle). /T_heLexicalistHypothesis:BothWrongandSuper/f_luous. Language
+/nine.oldstyle/four.oldstyle(/one.oldstyle)./one.oldstyle–/four.oldstyle/two.oldstyle.
+Buell,LestonC.(/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle).EweVPFrontingandDerivationbyPhase.Ms.UniversityofAmsterdam.
+Childs,GeorgeT.(/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle). A Grammar of Mani.DeGruyterMouton:Berlin/Boston.
+Cho,Sae-Youn&Jong-BokKim(/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle).EchoedVerbConstructionsinKorean:AConstruction-
+BasedHPSGAnalysis. Korean Journal of Linguistics/two.oldstyle/seven.oldstyle(/four.oldstyle)./six.oldstyle/six.oldstyle/one.oldstyle–/six.oldstyle/eight.oldstyle/one.oldstyle.
+Choi,Kiyong(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).KoreanVP-FocusConstructions:AnotherCaseofBaseAdjunctionofX /zero.fitted
+toY/zero.fitted. Studies in Generative Grammar/one.oldstyle/zero.oldstyle(/two.oldstyle)./three.oldstyle/two.oldstyle/nine.oldstyle–/three.oldstyle/five.oldstyle/six.oldstyle.
+Chomsky,Noam(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).MinimalistInquiries: /T_heFramework.InR.Martin,D.Michaels,
+J.Uriagereka&S.J.Keyser(eds). Step by Step: Essays on Minimalist Syntax in Honor of Howard
+Lasnik.MITPress:Cambridge,MA./eight.oldstyle/nine.oldstyle–/one.oldstyle/five.oldstyle/five.oldstyle.
+Citko,Barbara(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle).OntheNatureofMerge:ExternalMerge,InternalMerge,andParallel
+Merge. Linguistic Inquiry/three.oldstyle/six.oldstyle(/four.oldstyle)./four.oldstyle/seven.oldstyle/five.oldstyle–/four.oldstyle/nine.oldstyle/six.oldstyle.
+Citko,Barbara(/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle). Symmetry in Syntax: Merge, Move and Labels.CambridgeUniversityPress:
+Cambridge.
+Collins,Chris(/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle).ArgumentSharinginSerialVerbConstructions. Linguistic Inquiry/two.oldstyle/eight.oldstyle(/three.oldstyle).
+/four.oldstyle/six.oldstyle/one.oldstyle–/four.oldstyle/nine.oldstyle/seven.oldstyle.
+denBesten,Hans(/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle).KhoekhoeSyntaxandItsImplicationsforL/two.oldstyleAcquisitionofDutchand
+Afrikaans. Journal of Germanic Linguistics/one.oldstyle/four.oldstyle(/one.oldstyle)./three.oldstyle–/five.oldstyle/six.oldstyle.
+DiSciullo,AnnaMaria&EdwinWilliams(/one.oldstyle/nine.oldstyle/eight.oldstyle/seven.oldstyle). On the De/f_inition of W ord.MITPress:Cambridge,
+MA.
+Doneux,JeanL.(/one.oldstyle/nine.oldstyle/six.oldstyle/eight.oldstyle). Esquisse grammaticale du dan.Departementdelinguistiquegeneraleet
+linguistiqueafricainedelaFacultedeslettresetscienceshumainesdel’UniversitedeDakar:
+Dakar.
+Embick,David(/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle). /T_he Morpheme: A/T_heoretical Introduction.deGruyter:Boston.
+Embick,David&RalfNoyer(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle).MovementOperationsA/f_terSyntax. Linguistic Inquiry/three.oldstyle/two.oldstyle(/four.oldstyle).
+/five.oldstyle/five.oldstyle/five.oldstyle–/five.oldstyle/nine.oldstyle/five.oldstyle.
+Erlewine,MichaelYoshitaka(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).LowSentence-FinalParticlesinMandarinChineseandthe
+Final-over-FinalConstraint. Journal of East Asian Linguistics/two.oldstyle/six.oldstyle(/one.oldstyle)./three.oldstyle/seven.oldstyle–/seven.oldstyle/five.oldstyle.
+Erlewine,MichaelYoshitaka(toappear).ASyntacticUniversalinaContactLanguage: /T_heStory
+ofSinglish Already.In Discourse Particles in Asian Languages.Routledge:London..
+Ershova,Ksenia(/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle).Non-canonicalNounIncorporationinBzhedugAdyghe.InA.E.Ju-
+rgensen,H.Sande,S.Lamoureux,K.Baclawski&A.Zerbe(eds). Proceedings of Berkeley
+Linguistics Society /four.oldstyle/one.oldstyle.BerkeleyLinguisticsSociety:Berkeley,CA./nine.oldstyle/nine.oldstyle–/one.oldstyle/one.oldstyle/nine.oldstyle.
+Fu,Jingqi, /T_homasRoeper&HagitBorer(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle). /T_heVPWithinProcessNominals:Evidence
+FromAdverbsandtheVPAnaphor Do So. Natural Language and Linguistic /T_heory/one.oldstyle/nine.oldstyle(/three.oldstyle).
+/five.oldstyle/four.oldstyle/nine.oldstyle–/five.oldstyle/eight.oldstyle/two.oldstyle.
+Fuss,Eric&CarolaTrips(/two.oldstyle/zero.oldstyle/zero.oldstyle/two.oldstyle).VariationandchangeinOldandMiddleEnglish:Onthevalidity
+/two.oldstyle/seven.oldstyle
+
+PDF PAGE 28
+VP Nominalization and the FOFC
+oftheDoubleBaseHypothesis. Journal of Comparative Germanic Linguistics/four.oldstyle./one.oldstyle/seven.oldstyle/one.oldstyle–/two.oldstyle/two.oldstyle/four.oldstyle.
+Givón,/T_homas(/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle). Ute Reference Grammar.JohnBenjamins:Amsterdam.
+Gondo,BleuGildas(/two.oldstyle/zero.oldstyle/one.oldstyle/four.oldstyle). Etude phonologique et morphosyntaxique du Dan-Gblewo (Côte
+d’Ivoire).PhDthesis,UniversitéFélixHouphou ëtBoigny.
+Gračanin-Yüksek,Martina(/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle).LinearizingMultidominanceStructures.InT.Biberauer&
+I.Roberts(eds). Challenges to Linearization.deGruyter:Berlin./two.oldstyle/six.oldstyle/nine.oldstyle–/two.oldstyle/nine.oldstyle/four.oldstyle.
+Grimshaw,Jane(/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle).ExtendedProjections.Ms.BrandeisUniversity.
+Grimshaw,Jane(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).LocalityandExtendedProjection.InP.Coopmans,M.Everaert&
+J.Grimshaw(eds). Lexical Speci/f_ication and Insertion.JohnBenjamins:Amsterdam./one.oldstyle/one.oldstyle/five.oldstyle–/one.oldstyle/three.oldstyle/three.oldstyle.
+Haddican,William(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle).SentencePolarityandWordOrderinBasque. /T_he Linguistic Review
+/two.oldstyle/one.oldstyle(/two.oldstyle)./eight.oldstyle/seven.oldstyle–/one.oldstyle/two.oldstyle/four.oldstyle.
+Hale,Ken(/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle).MisumalpanVerbSequencing.InC.Lefebvre(ed.). Serial Verbs: Grammatical,
+Comparative and Cognitive Approaches.JohnBenjamins:Amsterdam./one.oldstyle–/three.oldstyle/six.oldstyle.
+Hansford,KeirL.(/one.oldstyle/nine.oldstyle/nine.oldstyle/zero.oldstyle). A Grammar of Chumburung: A Structure-Function Hierarchical Descrip-
+tion of the Syntax of a Ghanaian Language.PhDthesis,SOASUniversityofLondon.
+Harley,Heidi(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).CompoundinginDistributedMorphology.InR.Lieber&P.Štekauer(eds).
+/T_he Oxford Handbook of Compounding.OxfordUniversityPress:Oxford./one.oldstyle/two.oldstyle/nine.oldstyle–/one.oldstyle/four.oldstyle/four.oldstyle.
+Hawkins,JohnA.&GaryGilligan(/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle).Pre/f_ixingandSuﬃxingUniversalsinRelationtoBasic
+WordOrder. Lingua/seven.oldstyle/four.oldstyle./two.oldstyle/one.oldstyle/nine.oldstyle–/two.oldstyle/five.oldstyle/nine.oldstyle.
+Heath,Jeﬀrey(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle). A Grammar of Jamsay.deGruyter:Berlin.
+Hein,Johannes(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).Doublingand do-SupportinVerbalFronting:TowardsaTypologyof
+RepairOperations. Glossa/two.oldstyle(/one.oldstyle)./six.oldstyle/seven.oldstyle./one.oldstyle–/three.oldstyle/six.oldstyle.
+Hein,Johannes(/two.oldstyle/zero.oldstyle/one.oldstyle/eight.oldstyle). Verbal Fronting: Typology and/T_heory.PhDthesis,Universit ätLeipzig.
+Hiraiwa,Ken(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle).EPP:ObjectShi/f_tandStylisticFrontinginScandinavian.InK.Megerdoomian
+&L.A.Bar-el(eds). Proceedings of WCCFL /two.oldstyle/zero.oldstyle.CascadillaPress:Somerville,MA./two.oldstyle/nine.oldstyle/zero.oldstyle–/three.oldstyle/zero.oldstyle/three.oldstyle.
+Hiraiwa,Ken(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle a). Dimensions of Symmetry in Syntax: Agreement and Clausal Architecture.
+PhDthesis,MIT.
+Hiraiwa,Ken(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle b).PredicateCle/f_tsinBùlì:CategoriesandPhases. Linguistic Analysis/three.oldstyle/two.oldstyle.
+/five.oldstyle/four.oldstyle/four.oldstyle–/five.oldstyle/eight.oldstyle/three.oldstyle.
+Hiraiwa,Ken&AdamsBodomo(/two.oldstyle/zero.oldstyle/zero.oldstyle/eight.oldstyle).Object-SharingasSymmetricSharing:PredicateCle/f_ting
+andSerialVerbsinDàgáárè. Natural Language and Linguistic/T_heory/two.oldstyle/six.oldstyle(/four.oldstyle)./seven.oldstyle/nine.oldstyle/five.oldstyle–/eight.oldstyle/three.oldstyle/two.oldstyle.
+Holmberg,Anders(/two.oldstyle/zero.oldstyle/zero.oldstyle/zero.oldstyle).DerivingOVOrderinFinnish.InP.Svenonius(ed.). /T_he Derivation
+of VO and OV.JohnBenjamins:Amsterdam./one.oldstyle/two.oldstyle/three.oldstyle–/one.oldstyle/five.oldstyle/two.oldstyle.
+Holmberg,Anders(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).Introduction.InM.Sheehan,T.Biberauer,I.Roberts&A.Holmberg
+(eds)./T_he Final-over-Final Condition: A Syntactic Universal.MITPress:Cambridge,MA./one.oldstyle–/nine.oldstyle.
+Iordăchioaia,Gianina,ArtemisAlexiadou&AndreasPairamidis(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle).MorphosyntacticSources
+forNominalSyntheticCompoundsinEnglishandGreek. Zeitschri/f_t für W ortbildung/one.oldstyle(/one.oldstyle)./four.oldstyle/seven.oldstyle–/seven.oldstyle/one.oldstyle.
+Jenks,Peter(/two.oldstyle/zero.oldstyle/one.oldstyle/one.oldstyle). /T_he Hidden Structure of/T_hai Noun Phrases.PhDthesis,HarvardUniversity.
+Kandybowicz,Jason&HaroldTorrence(/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle).PredicateFocusinKrachi:/two.oldstyleProbes,/one.oldstyleGoal,/three.oldstylePFs.
+InK.Kim,P.Umbal,T.Block,Q.Chan,T.Cheng,K.Finney,M.Katz,S.Nickel- /T_hompson&
+L.Shorten(eds). Proceedings of WCCFL /three.oldstyle/three.oldstyle.CascadillaProceedingsProject:Somerville,MA.
+/two.oldstyle/eight.oldstyle
+
+PDF PAGE 29
+VP Nominalization and the FOFC
+/two.oldstyle/two.oldstyle/seven.oldstyle–/two.oldstyle/three.oldstyle/six.oldstyle.
+Kiparsky,Paul(/one.oldstyle/nine.oldstyle/nine.oldstyle/six.oldstyle). /T_heShi/f_ttoHead-InitialVPinGermanic.InH. /T_hráinsson,S.Epstein&
+S.Peter(eds). Studies in Comparative Germanic Syntax II.Kluwer:Dordrecht./one.oldstyle/four.oldstyle/zero.oldstyle–/one.oldstyle/seven.oldstyle/nine.oldstyle.
+Kobele,GregoryM.&HaroldTorrence(/two.oldstyle/zero.oldstyle/zero.oldstyle/four.oldstyle). /T_heSyntaxofComplementClausesinAsante
+Twi.Ms.ULCA.
+Koopman,Hilda&DominiqueSportiche(/one.oldstyle/nine.oldstyle/nine.oldstyle/one.oldstyle). /T_hePositionofSubjects. Lingua/eight.oldstyle/five.oldstyle./two.oldstyle/one.oldstyle/one.oldstyle–/two.oldstyle/five.oldstyle/eight.oldstyle.
+Larson,RichardK.(/one.oldstyle/nine.oldstyle/eight.oldstyle/eight.oldstyle).OntheDoubleObjectConstruction. Linguistic Inquiry/one.oldstyle/nine.oldstyle(/three.oldstyle)./three.oldstyle/three.oldstyle/five.oldstyle–/three.oldstyle/nine.oldstyle/one.oldstyle.
+Ledgeway,Adam(/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle). From Latin to Romance: Morphosyntactic Typology and Change.Oxford
+UniversityPress:Oxford.
+Leslau,Wolf(/one.oldstyle/nine.oldstyle/nine.oldstyle/five.oldstyle). Reference Grammar of Amharic.Harrassowitz:Wiesbaden.
+Manfredi,Victor(/one.oldstyle/nine.oldstyle/nine.oldstyle/three.oldstyle).VerbFocusintheTypologyofKwa/KruandHaitian.InF.Byrne&
+D.Winford(eds). Focus and grammatical relations in Creole languages.Benjamins:Amsterdam.
+/three.oldstyle–/five.oldstyle/one.oldstyle.
+Manfredi,Victor(/one.oldstyle/nine.oldstyle/nine.oldstyle/seven.oldstyle).AspectualLicensingandObjectShi/f_t.InR.-M.Déchaine&V.Manfredi
+(eds). Object Position in Benue-Kwa.HollandAcademicGraphics: /T_heHague./eight.oldstyle/seven.oldstyle–/one.oldstyle/two.oldstyle/two.oldstyle.
+Massam,Diane(/two.oldstyle/zero.oldstyle/zero.oldstyle/one.oldstyle).PseudoNounIncorporation. Natural Language and Linguistic/T_heory/one.oldstyle/nine.oldstyle(/one.oldstyle).
+/one.oldstyle/five.oldstyle/three.oldstyle–/one.oldstyle/nine.oldstyle/seven.oldstyle.
+Mithun,Marianne(/two.oldstyle/zero.oldstyle/zero.oldstyle/three.oldstyle).WhyPre/f_ixes?. Acta Linguistica Hungarica/five.oldstyle/zero.oldstyle(/one.oldstyle–/two.oldstyle)./one.oldstyle/five.oldstyle/five.oldstyle–/one.oldstyle/eight.oldstyle/five.oldstyle.
+Myler,Neil(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle).Form,FunctionandExplanationattheSyntax-MorphologyInterface:Agree-
+ment,AgglutinationandPost-SyntacticOperations.MPhil /T_hesis,UniversityofCambridge.
+Nikitina,Tatiana(/two.oldstyle/zero.oldstyle/zero.oldstyle/seven.oldstyle).NominalizationandWordOrderChangeinNiger-Congo.Ms.Stanford
+University.
+Nikitina,Tatiana(/two.oldstyle/zero.oldstyle/zero.oldstyle/nine.oldstyle). /T_heFunctionandFormofActionNominalizationinWan. Mandenkan
+/four.oldstyle/five.oldstyle./one.oldstyle/seven.oldstyle–/two.oldstyle/eight.oldstyle.
+O’Grady,William(/one.oldstyle/nine.oldstyle/nine.oldstyle/eight.oldstyle). /T_heSyntaxofIdioms. Natural Language and Linguistic/T_heory/one.oldstyle/six.oldstyle(/two.oldstyle).
+/two.oldstyle/seven.oldstyle/nine.oldstyle–/three.oldstyle/one.oldstyle/two.oldstyle.
+Panagiotidis,Phoevos(/two.oldstyle/zero.oldstyle/one.oldstyle/five.oldstyle). Categorial Features: A Generative/T_heory of Word Class Categories.
+CambridgeUniversityPress:Cambridge.
+Pietraszko,Asia(/two.oldstyle/zero.oldstyle/one.oldstyle/nine.oldstyle).ObligatoryCPNominalizationinNdebele. Syntax/two.oldstyle/two.oldstyle(/one.oldstyle)./six.oldstyle/six.oldstyle–/one.oldstyle/one.oldstyle/one.oldstyle.
+Punske,Jeﬀrey(/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle).Compounding. Language and Linguistics Compass/one.oldstyle/zero.oldstyle(/eight.oldstyle)./three.oldstyle/eight.oldstyle/two.oldstyle–/three.oldstyle/nine.oldstyle/three.oldstyle.
+Richards,Norvin(/two.oldstyle/zero.oldstyle/one.oldstyle/six.oldstyle). Contiguity/T_heory.MITPress:Cambridge,MA.
+Roberts,Ian(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle a)./T_heFinal-over-FinalConditioninDP:Universal/two.oldstyle/zero.oldstyleandtheNatureof
+Demonstratives.InM.Sheehan,T.Biberauer,I.Roberts&A.Holmberg(eds). /T_he Final-over-
+Final Condition: A Syntactic Universal.MITPress:Cambridge,MA./one.oldstyle/five.oldstyle/one.oldstyle–/one.oldstyle/eight.oldstyle/six.oldstyle.
+Roberts,Ian(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle b)./T_heFinal-over-FinalConditioninMorphology.InM.Sheehan,T.Biberauer,
+I.Roberts&A.Holmberg(eds). /T_he Final-over-Final Condition: A Syntactic Universal.MIT
+Press:Cambridge,MA./three.oldstyle/two.oldstyle/three.oldstyle–/three.oldstyle/four.oldstyle/five.oldstyle.
+Roeper,/T_homas&MuﬀyE.A.Siegel(/one.oldstyle/nine.oldstyle/seven.oldstyle/eight.oldstyle).ALexicalTransformationforVerbalCompounds.
+Linguistic Inquiry/nine.oldstyle(/two.oldstyle)./one.oldstyle/nine.oldstyle/nine.oldstyle–/two.oldstyle/six.oldstyle/zero.oldstyle.
+Sande,Hannah,NicoBaier&PeterJenks(toappear). /T_heSyntacticDiversityofSAuxOVinthe
+Macro-SudanBelt.InE.Clem,P.Jenks&H.Sande(eds). /T_heory and Description in African
+/two.oldstyle/nine.oldstyle
+
+PDF PAGE 30
+VP Nominalization and the FOFC
+Linguistics: Selected papers from the /four.oldstyle/seven.oldstyleth Annual Conference on African Linguistics.Language
+SciencePress:Berlin..
+Sato,Yosuke(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle).ComplexPhraseStructureswithinMorphologicalWords:Evidencefrom
+EnglishandIndonesian. Lingua/one.oldstyle/two.oldstyle/zero.oldstyle./three.oldstyle/seven.oldstyle/nine.oldstyle–/four.oldstyle/zero.oldstyle/seven.oldstyle.
+Selkirk,ElisabethO.(/one.oldstyle/nine.oldstyle/eight.oldstyle/two.oldstyle). /T_he Syntax of Words.MITPress:Cambridge,MA.
+Sheehan,Michelle(/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle a).ExplainingtheFinal-over-FinalConstraint:FormalandFunctional
+Approaches.InT.Biberauer&M.Sheehan(eds). /T_heoretical Approaches to Disharmonic Word
+Order.OxfordUniversityPress:Oxford./four.oldstyle/zero.oldstyle/seven.oldstyle–/four.oldstyle/four.oldstyle/four.oldstyle.
+Sheehan,Michelle(/two.oldstyle/zero.oldstyle/one.oldstyle/three.oldstyle b).SomeImplicationsofaCopy /T_heoryofLabelling. Syntax/one.oldstyle/six.oldstyle(/four.oldstyle)./three.oldstyle/six.oldstyle/two.oldstyle–
+/three.oldstyle/nine.oldstyle/six.oldstyle.
+Sheehan,Michelle(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle). /T_heFinal-over-FinalConditionandAdverbs.InM.Sheehan,T.Biber-
+auer,I.Roberts&A.Holmberg(eds). /T_he Final-Over-Final Condition: A Syntactic Universal.
+MITPress:Cambridge,MA./nine.oldstyle/seven.oldstyle–/one.oldstyle/two.oldstyle/zero.oldstyle.
+Sheehan,Michelle, /T_heresaBiberauer,IanRoberts&AndersHolmberg(/two.oldstyle/zero.oldstyle/one.oldstyle/seven.oldstyle). /T_he Final-Over-
+Final Condition: A Syntactic Universal.MITPress:Cambridge,MA.
+Sleeman,Petra(/two.oldstyle/zero.oldstyle/one.oldstyle/zero.oldstyle). /T_heNominalizedIn/f_initiveinFrench:StructureandChange. Linguistica
+(Oporto)/five.oldstyle./one.oldstyle/four.oldstyle/five.oldstyle–/one.oldstyle/seven.oldstyle/three.oldstyle.
+Spencer,Andrew(/two.oldstyle/zero.oldstyle/zero.oldstyle/five.oldstyle).Word-FormationandSyntax.InP.Štekauer&R.Lieber(eds). Handbook
+of Word-Formation.Springer:Dordrecht./seven.oldstyle/three.oldstyle–/nine.oldstyle/seven.oldstyle.
+Sulemana,Abdul-Razak(/two.oldstyle/zero.oldstyle/one.oldstyle/two.oldstyle). /T_he Structure of the Determiner Phrase in Buli.Master’sthesis,
+UniversityofGhana,Legon.
+Travis,Lisa(/one.oldstyle/nine.oldstyle/eight.oldstyle/four.oldstyle). Parameters and Eﬀects of Word Order Variation.PhDthesis,MIT.
+vanRiemsdijk,Henk(/one.oldstyle/nine.oldstyle/nine.oldstyle/eight.oldstyle).HeadMovementandAdjacency. Natural Language and Linguistic
+/T_heory/one.oldstyle/six.oldstyle(/three.oldstyle)./six.oldstyle/three.oldstyle/three.oldstyle–/six.oldstyle/seven.oldstyle/nine.oldstyle.
+Williams,Edwin(/one.oldstyle/nine.oldstyle/eight.oldstyle/one.oldstyle).OntheNotions‘LexicallyRelated’and‘HeadofaWord’. Linguistic Inquiry
+/one.oldstyle/two.oldstyle(/two.oldstyle)./two.oldstyle/four.oldstyle/five.oldstyle–/two.oldstyle/seven.oldstyle/four.oldstyle.
+/three.oldstyle/zero.oldstyle
