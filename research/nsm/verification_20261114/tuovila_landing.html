@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+                         <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fi"> <![endif]-->
+                        <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="fi"> <![endif]-->
+                        <!--[if IE 8]>    <html class="no-js lt-ie9" lang="fi"> <![endif]-->
+                        <!--[if gt IE 8]><!--> <html class="no-js" lang="fi"> <!--<![endif]-->
+                        <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<meta property="og:image" content="http://oulurepo.oulu.fi//bitstream/handle/10024/34538/isbn951-42-7807-0.pdf.jpg?sequence=7&amp;isAllowed=y">
+<meta property="og:image:secure_url" content="https://oulurepo.oulu.fi//bitstream/handle/10024/34538/isbn951-42-7807-0.pdf.jpg?sequence=7&amp;isAllowed=y">
+<meta content="212px" property="og:image:width">
+<meta content="300px" property="og:image:height">
+<meta content="summary" name="twitter:card">
+<meta content="website" property="og:type">
+<meta property="og:url" content="https://oulurepo.oulu.fi/handle/10024/34538">
+<meta property="og:title" content="Kun on tunteet : suomen kielen tunnesanojen semantiikkaa">
+<link rel="shortcut icon" href="/themes/oulu56/images/favicon-32x32.png">
+<meta name="Generator" content="DSpace 5.6">
+<link href="/themes/oulu56/styles/main.css" rel="stylesheet">
+<link type="text/css" href="/static/css/creativecommons/cc-icons.min.css" rel="stylesheet">
+<link href="/themes/oulu56/styles/shared/flatpickr.min.css" rel="stylesheet">
+<link href="/themes/oulu56/styles/shared/bootstrap-tokenfield.min.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="https://oulurepo.oulu.fi:443/open-search/description.xml" title="DSpace">
+<script type="text/javascript">
+                //Clear default text of emty text areas on focus
+                function tFocus(element)
+                {
+                if (element.value == 'default'){element.value='';}
+                }
+                //Clear default text of emty text areas on submit
+                function tSubmit(form)
+                {
+
+                console.log(form);
+
+                var defaultedElements = document.getElementsByTagName("textarea");
+                for (var i=0; i != defaultedElements.length; i++){
+                if (defaultedElements[i].value == 'default'){
+                defaultedElements[i].value='';}}
+
+                //AM: If isbn is set, save it to localstorage for urn-generation
+                var idType = document.getElementsByName("dc_identifier_qualifier");
+                var idValue = document.getElementsByName("dc_identifier_value");
+                var isbnValue = document.getElementsByName("dc_identifier_isbn");
+
+                if (idValue.length == 0 && isbnValue.length > 0){
+                if (isbnValue[0].value != ""){
+                localStorage.setItem("form_isbn_id", isbnValue[0].value);
+                }else if(isbnValue[0].value == ""){
+                localStorage.removeItem("form_isbn_id");
+                }
+                }else if(idValue.length > 0 && isbnValue.length == 0){
+                if (idType[0].value == "isbn" && idValue[0].value != ""){
+                localStorage.setItem("form_isbn_id", idValue[0].value);
+                } else if(idValue[0].value == ""){
+                localStorage.removeItem("form_isbn_id");
+                }
+                }
+
+                }
+                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                function disableEnterKey(e)
+                {
+                var key;
+
+                if(window.event)
+                key = window.event.keyCode;     //Internet Explorer
+                else
+                key = e.which;     //Firefox and Netscape
+
+                if(key == 13)  //if "Enter" pressed, then disable!
+                return false;
+                else
+                return true;
+                }
+            </script><!--[if lt IE 9]>
+                <script type="text/javascript" src="/themes/oulu56/vendor/html5shiv/dist/html5shiv.js"> </script>
+                <script type="text/javascript" src="/themes/oulu56/vendor/respond/dest/respond.min.js"> </script>
+                <![endif]--><script src="/themes/oulu56/vendor/modernizr/modernizr.js" type="text/javascript"> </script><script crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://code.jquery.com/jquery-3.4.1.min.js"> </script><script crossorigin="anonymous" integrity="sha256-xI/qyl9vpwWFOXz7+x/9WkG5j/SVnSw21viy8fWwbeE=" src="https://code.jquery.com/ui/1.11.3/jquery-ui.min.js"> </script>
+<title>Kun on tunteet : suomen kielen tunnesanojen semantiikkaa - OuluREPO</title>
+<link rel="schema.DCTERMS" href="https://purl.org/dc/terms/" />
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/" />
+<meta name="DCTERMS.dateAccepted" content="2023-05-12T04:42:43Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2023-05-12T04:42:43Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2005-08-29" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="951-42-7807-0" />
+<meta name="DC.identifier" content="https://oulurepo.oulu.fi/handle/10024/34538" scheme="DCTERMS.URI" />
+<meta name="DC.language" content="fin" scheme="DCTERMS.RFC1766" />
+<meta name="DC.publisher" content="University of Oulu" />
+<meta name="DC.relation" content="Acta Universitatis Ouluensis. B, Humaniora" />
+<meta name="DC.subject" content="age groups" xml:lang="en" />
+<meta name="DC.subject" content="emotions" xml:lang="en" />
+<meta name="DC.subject" content="Finnish language" xml:lang="en" />
+<meta name="DC.subject" content="gender" xml:lang="en" />
+<meta name="DC.subject" content="ikäryhmät" xml:lang="fi" />
+<meta name="DC.subject" content="language" xml:lang="en" />
+<meta name="DC.subject" content="leksikologia" xml:lang="fi" />
+<meta name="DC.subject" content="lexicology" xml:lang="en" />
+<meta name="DC.subject" content="semantics" xml:lang="en" />
+<meta name="DC.subject" content="sukupuoli" xml:lang="fi" />
+<meta name="DC.subject" content="suomen kieli" xml:lang="fi" />
+<meta name="DC.subject" content="tunteet; semantiikka; kieli" xml:lang="fi" />
+<meta name="DC.title" content="Kun on tunteet : suomen kielen tunnesanojen semantiikkaa" xml:lang="fi" />
+<meta name="DCTERMS.alternative" content="Kun on tunteet : Suomen kielen tunnesanojen semantiikkaa" xml:lang="fi" />
+<meta name="DCTERMS.alternative" content="Such emotions : The semantics of emotion words in the Finnish language" xml:lang="en" />
+<meta name="DC.source" content="jultika.oulu.fi" />
+<meta name="DC.subject" content="Humanistinen tiedekunta" xml:lang="fi" />
+<meta name="DC.subject" content="Faculty of Humanities" xml:lang="en" />
+<meta name="DC.subject" content="artikkeliväitöskirja" xml:lang="fi" />
+<meta name="DC.subject" content="artikelavhandling" xml:lang="sv" />
+<meta name="DC.subject" content="http://urn.fi/URN:NBN:fi:au:mts:m964" />
+<meta name="DC.subject" content="väitöskirjat" xml:lang="fi" />
+<meta name="DC.subject" content="doktorsavhandlingar" xml:lang="sv" />
+<meta name="DC.subject" content="http://urn.fi/URN:NBN:fi:au:slm:s1227" />
+<meta name="DC.type" content="väitöskirja" xml:lang="fi" />
+<meta name="DC.type" content="doktorsavhandling" xml:lang="sv" />
+<meta name="DC.type" content="doctoral thesis" xml:lang="en" />
+<meta name="DC.type" content="http://purl.org/coar/resource_type/c_db06" />
+<meta name="DC.format" content="fulltext" />
+<meta name="DC.identifier" content="URN:ISBN:9514278070" />
+<meta name="DC.subject" content="Suomen kieli" xml:lang="fi" />
+<meta name="DC.subject" content="Finnish Language" xml:lang="en" />
+<meta name="DC.type" content="G5" />
+<meta name="DC.type" content="doctoralThesis" />
+<meta name="DC.source" content="jultika:2012" />
+<meta name="DC.type" content="Artikkeliväitöskirja" xml:lang="fi" />
+<meta name="DC.type" content="Doctoral dissertation (article-based)" xml:lang="en" />
+<meta name="DC.type" content="Artikelavhandling" xml:lang="sv" />
+<meta name="DC.relation" content="951-42-7806-2" />
+<meta name="DC.type" content="publishedVersion" />
+<meta name="DC.relation" content="1796-2218" />
+<meta name="DC.relation" content="65" />
+<meta name="DC.type" content="G5 Doctoral dissertation (articles)" xml:lang="en" />
+<meta name="DC.type" content="G5 Artikkeliväitöskirja" xml:lang="fi" />
+<meta content="age groups; emotions; Finnish language; gender; ik&auml;ryhm&auml;t; language; leksikologia; lexicology; semantics; sukupuoli; suomen kieli; tunteet; semantiikka; kieli" name="citation_keywords">
+<meta content="951-42-7807-0" name="citation_isbn">
+<meta content="Kun on tunteet : suomen kielen tunnesanojen semantiikkaa" name="citation_title">
+<meta content="University of Oulu" name="citation_publisher">
+<meta content="Tuovila, Seija" name="citation_author">
+<meta content="2005-08-29" name="citation_date">
+<meta content="https://oulurepo.oulu.fi/handle/10024/34538" name="citation_abstract_html_url">
+<meta content="fin" name="citation_language">
+<meta content="https://oulurepo.oulu.fi/bitstream/10024/34538/1/isbn951-42-7807-0.pdf" name="citation_pdf_url">
+<script type="text/x-mathjax-config">
+                    MathJax.Hub.Config({
+                        tex2jax: {
+                            inlineMath: [['$','$'], ['\\(','\\)']],
+                            ignoreClass: "detail-field-data|detailtable|exception"
+                        },
+                        TeX: {
+                            Macros: {
+                                AA: '{\\mathring A}'
+                            }
+                        }
+                    });
+                </script><script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"> </script>
+</head><body>
+<a href="#maincontent" class="skip-nav screen-reader-text" id="skip-nav">Hypp&auml;&auml; sis&auml;lt&ouml;&ouml;n</a>
+<header>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div id="navbarheader" class="container">
+<div class="navbar-header">
+<a class="navbar-brand navbar-brand-fi" href="/" aria-label="OuluREPO Startsida"></a>
+<div id="mobileLinks" class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
+<ul class="nav nav-pills pull-left ">
+<li class="dropdown" id="ds-language-selection-xs">
+<button data-toggle="dropdown" class="dropdown-toggle navbar-toggle navbar-link" role="button" href="#" id="language-dropdown-toggle-xs"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-globe"></b></button>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle-xs" role="menu" class="dropdown-menu pull-right">
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='lfi'; document.repost.submit();" lang="fi">FI</a>
+</li>
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='len'; document.repost.submit();" lang="en">ENG</a>
+</li>
+</ul>
+</li>
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+</ul>
+<button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">N&auml;yt&auml;/piilota sivun navigointi</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</div>
+<div id="langSelectionWrapper" class="navbar-header pull-right hidden-xs">
+<form method="post" name="repost" action="">
+<input type="hidden" name="type"><input type="hidden" name="locale"><input value="" type="hidden" name="author">
+</form>
+<ul class="nav navbar-nav pull-left" id="languageSelection">
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='lfi'; document.repost.submit();" lang="fi">FI</a>
+</li>
+<li id="langslash">/</li>
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='len'; document.repost.submit();" lang="en">EN</a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">N&auml;yt&auml;/piilota sivun navigointi</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</div>
+</div>
+</header>
+<div class="trail-wrapper hidden-print">
+<div class="container">
+<div id="topsearchbar" class="row">
+<div class="col-xs-12">
+<div id="wellcontainer">
+<div id="ouluwell">OuluREPO &ndash; Oulun yliopiston julkaisuarkisto / University of Oulu repository</div>
+<div class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">N&auml;yt&auml; viite&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/"><i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+                        OuluREPO etusivu</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10024/1">Oulun yliopisto</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10024/1102">Avoin saatavuus</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">N&auml;yt&auml; viite</a>
+</li>
+</ul>
+</div>
+<ul class="breadcrumb hidden-xs">
+<li>
+<i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+            <a href="/">
+<trail target="/">OuluREPO etusivu</trail>
+</a>
+</li>
+<li>
+<a href="/handle/10024/1">
+<trail target="/handle/10024/1">Oulun yliopisto</trail>
+</a>
+</li>
+<li>
+<a href="/handle/10024/1102">Avoin saatavuus</a>
+</li>
+<li class="active">N&auml;yt&auml; viite</li>
+</ul>
+<div class="ds-option-set" id="ds-search-option">
+<form method="get" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input aria-label="Hae sivustolta" placeholder="Haku" type="text" class="ds-text-field form-control" name="query">
+<div class="radio">
+<label><input value="" name="scope" type="radio" id="ds-search-form-scope-all">Hae OuluREPOsta</label>
+</div>
+<div class="radio">
+<label><input checked name="scope" type="radio" id="ds-search-form-scope-container" value="10024/1102">T&auml;m&auml; kokoelma</label>
+</div>
+<span class="input-group-btn"><button title="Hae" class="ds-button-field btn btn-primary"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-right">
+<div class="horizontal-slider clearfix">
+<div class="col-xs-12 col-sm-12 col-md-9 main-content">
+<div>
+<div id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/10024/34538/mets.xml?rightsMDTypes=METSRIGHTS-->
+<div class="item-summary-view-metadata">
+<h1>Kun on tunteet : suomen kielen tunnesanojen semantiikkaa</h1>
+<h5>Tuovila, Seija (2005-08-29)</h5>
+<hr>
+<div style="margin-bottom: 10px;" class="somelinks">
+<script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"> </script>
+<div data-badge-popover="right" data-badge-type="1" data-hide-no-mentions="true" class="altmetric-embed" data-isbn="951-42-7807-0">
+
+
+
+
+            &nbsp;
+        </div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<div class="row">
+<div class="col-xs-4 col-sm-10">
+<div class="thumbnail">
+<a href="/bitstream/handle/10024/34538/isbn951-42-7807-0.pdf?sequence=1&amp;isAllowed=y"><img alt="" class="img-responsive" src="/bitstream/handle/10024/34538/isbn951-42-7807-0.pdf.jpg?sequence=7&amp;isAllowed=y"></a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-12">
+<div class="item-page-field-wrapper table word-break">
+<h5>Avaa tiedosto</h5>
+<div>
+<a href="/bitstream/handle/10024/34538/isbn951-42-7807-0.pdf?sequence=1&amp;isAllowed=y"><i aria-hidden="true" class="glyphicon  glyphicon-file"></i> isbn951-42-7807-0.pdf (2.220Mt)</a>
+</div>
+<div>
+<a href="/bitstream/handle/10024/34538/isbn951-42-7807-0_meta.xml?sequence=2&amp;isAllowed=n"><i aria-hidden="true" class="glyphicon  glyphicon-lock"></i> isbn951-42-7807-0_meta.xml (41.39Kt)</a>
+</div>
+<div>
+<a href="/bitstream/handle/10024/34538/isbn951-42-7807-0_solr.xml?sequence=3&amp;isAllowed=n"><i aria-hidden="true" class="glyphicon  glyphicon-lock"></i> isbn951-42-7807-0_solr.xml (59.94Kt)</a>
+</div>
+</div>
+<div>
+<span class="bold">Lataukset:&nbsp;</span><span id="file_downloads"></span>
+</div>
+<br>
+</div>
+</div>
+<br>
+<div class="simple-item-view-authors item-page-field-wrapper table">
+<div>Tuovila, Seija</div>
+</div>
+<div class="simple-item-view-publisher">University of Oulu</div>
+<div class="simple-item-view-date word-break item-page-field-wrapper table">29.08.2005</div>
+<div class="simple-item-view-rights table">T&auml;m&auml; Kohde on tekij&auml;noikeuden ja/tai l&auml;hioikeuksien suojaama. Voit k&auml;ytt&auml;&auml; Kohdetta k&auml;ytt&ouml;&ouml;si sovellettavan tekij&auml;noikeutta ja l&auml;hioikeuksia koskevan lains&auml;&auml;d&auml;nn&ouml;n sallimilla tavoilla. Muunlaista k&auml;ytt&ouml;&auml; varten tarvitset oikeudenhaltijoiden luvan.</div>
+<div class="simple-item-view-show-full item-page-field-wrapper table">
+<a href="/handle/10024/34538?show=full">N&auml;yt&auml; kaikki kuvailutiedot</a>
+</div>
+</div>
+<div class="col-sm-8">
+<b>Julkaisun pysyv&auml; osoite on </b>
+<br>
+<a href="https://urn.fi/URN:ISBN:9514278070">https://urn.fi/URN:ISBN:9514278070</a>
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h4>Kuvaus</h4>
+<div>Esitetään Oulun yliopiston humanistisen tiedekunnan suostumuksella julkisesti tarkastettavaksi Linnanmaan Keckmaninsalissa (HU106) 3. syyskuuta 2005 klo 12.00</div>
+</div>
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h5 class="visible-xs">Tiivistelm&auml;</h5>
+<div><div lang="en" class="abs"><p class="abs_header">Abstract</p><p>The present study focuses on the semantics of Finnish emotion words (e.g. <em>joy</em>, <em>anger</em>). My aim has been to investigate and describe what kinds of linguistic-semantic interpretations arise from an emotions vocabulary compiled using a questionnaire as a research instrument. Moreover, I was interested in finding out what kinds of emotions the Finns identify. The data used for the study consisted of the written responses of a hundred Finns of various ages to a questionnaire item, which asked them to name various emotions. Besides the two objectives above, male and female conceptual frameworks for emotions were compared in the study, as well as those of different age groups. Both a qualitative and a quantitative analysis of the data, which consists of 2020 responses, were carried out. </p><p>The view of language adopted for this study draws from the basic notions of cognitive linguistics. I applied Anna Wierzbicka’s ideas to the semantic grouping of emotion words. Moreover, the explanations given for the 51 most commonly used emotion words were based on Wierzbicka’s idea of a natural semantic meta-language. I also used for the word descriptions the information provided by the Kielipankki newspaper corpus on the use of emotion words. The semantic contents of emotion words were explained as prototypical scenarios using the following semantic primitives: I, PERSON/SOMEONE, SOMETHING, THIS, OTHER, GOOD, BAD, THINK, KNOW, WANT, FEEL, CAN, DO, HAPPEN, THERE IS, WHEN, NOW, BEFORE, AFTER, A LONG TIME, A SHORT TIME, FOR SOME TIME, SOMETIMES, MIND, BODY, NEAR, INSIDE, NOT, TRUE, MAYBE, CAN, WOULD ‘cond.’, BECAUSE, IF, VERY, LIKE, MORE, SOME. The following semantic main categories were defined for emotion words: “Something good happened or will happen”, “Something bad happened or will happen”, “I want”, “I don’t want”, “I think something about myself”, “I think something about others”, “I know / don’t know”.</p><p>I investigated the status and significance of emotion words for the speakers of Finnish by using a cognitive significance index. The index has been developed by Urmas Sutrop particularly for the analysis of listing tasks. The cognitively most important emotion words for Finns were found to be: <em>viha</em>, <em>ilo</em>, <em>rakkaus</em>, <em>suru</em>, <em>pelko</em>, <em>onnellisuus</em>, <em>kateus</em>, <em>ahdistus</em>, <em>väsymys</em>, <em>masennus</em>, <em>tuska</em>, <em>ihastus</em>, <em>tyytyväisyys</em>, <em>inho</em>, <em>jännitys</em>, <em>pettymys</em>, <em>kaipaus</em>, <em> rauhallisuus</em>, <em>ikävä</em>, and <em>toivo</em>.</p><p>According to this study, the emotions with the highest frequency of expression in the Finnish language are hatred, joy, love and sorrow. Women were found to have more words for emotions (23.0) than men (17.6). The emotion vocabulary includes more negative words (53%) than positive ones (43%). The findings of this study suggest that the Finns think more often good of other people than bad, and more often bad of themselves than good.</p></div><div class="spacer">&nbsp;</div><div lang="fi" class="abs"><p class="abs_header">Tiivistelmä</p><p>Tutkimukseni aiheena on suomen kielen <em>tunteiden</em> (esim. <em>ilo</em>, <em>viha</em>) semantiikka. Tavoitteenani on ollut tutkia ja kuvata, millainen lingvistinen semanttinen tulkinta tutkimukseni kyselyllä koostetusta tunnesanastosta muodostuu ja millaisia tunteita suomalaiset mieltävät olevan olemassa. Tutkimukseni perusaineiston muodostivat sadan eri-ikäisen suomalaisen kirjalliset vastaukset tehtävään, jossa he saivat vapaasti luetella tunteiden nimityksiä. Lisäksi olen vertaillut miesten ja naisten sekä eri ikäryhmien tunnekäsitteistyksiä. Tutkin saamaani 2 020 vastauksesta muodostunutta aineistoa sekä laadullisesti että määrällisesti.</p><p>Työni kielinäkemys pohjautuu kognitiivisen kielentutkimuksen peruskäsityksiin. Sovelsin Anna Wierzbickan näkemyksiä tunnesanojen merkityksenmukaisessa ryhmittelyssä ja ajatusta luonnollisesta semanttisesta metakielestä 51 tyypillisimmän tunnesanan selittämisessä. Hyödynsin kuvauksissani myös Kielipankin lehtikorpusten antamaan tietoa tunnesanojen käytöstä. Selitin tunnesanojen merkityssisällöt prototyyppisinä skenaariona seuraavien semanttisten primitiivien avulla: MINÄ/ITSE, IHMINEN/HÄN/JOKU, ASIA/JOKIN, TÄMÄ, MUU/TOINEN, HYVÄ, PAHA/HUONO, AJATELLA, TIETÄÄ, HALUTA, TUNTEA, VOIDA, TEHDÄ, TAPAHTUA, OLLA / OLLA OLEMASSA, KUN, NYT, ENNEN, JÄLKEEN, KAUAN AIKAA, VÄHÄN AIKAA, JONKIN AIKAA, JOSKUS, MIELI, RUUMIS, LÄHELLÄ, SISÄLLÄ, EI/KIELTO, TOTTA, EHKÄ, SAATTAA, -ISI-, KOSKA/VUOKSI, JOS, HYVIN, KALTAISUUS, ENEMMÄN/LISÄÄ, VÄHÄN. Varsinaisista tunnesanoista hahmotin seuraavat päämerkitysryhmät: ”Jotakin hyvää tapahtui tai tapahtuu”, ”Jotakin pahaa tapahtui tai tapahtuu”, ”Haluan”, ”En halua”, ”Ajattelen itsestäni jotain”, ”Ajattelen toisista jotain”, ”Tiedän / en tiedä”.</p><p>Selvitin aineistoni tunnesanojen asemaa ja tärkeyttä kielenpuhujien mielessä kognitiivisen tärkeyden indeksin avulla. Indeksin on kehitellyt Urmas Sutrop nimenomaan luettelointitehtävien analysointia varten. Suomalaisille kognitiivisesti tärkeimmiksi tunnesanoiksi osoittautuivat <em>viha</em>, <em>ilo</em>, <em>rakkaus</em>, <em>suru</em>, <em>pelko</em>, <em>onnellisuus</em>, <em>kateus</em>, <em>ahdistus</em>, <em>väsymys</em>, <em>masennus</em>, <em>tuska</em>, <em>ihastus</em>, <em>tyytyväisyys</em>, <em>inho</em>, <em>jännitys</em>, <em>pettymys</em>, <em>kaipaus</em>, <em>rauhallisuus</em>, <em>ikävä</em>, <em>toivo</em>.</p><p>Tutkimukseni mukaan suomen kielen perustunteita ovat viha, ilo, rakkaus ja suru. Naisilla on runsaammin sanoja (23,0) tunteille kuin miehillä (17,6). Tunnesanastossa on enemmän negatiivisia (53 %) kuin positiivisia (43 %) sanoja. Tutkimukseni perusteella suomalaiset muun muassa ajattelevat toisista ihmistä enemmän hyvää kuin huonoa ja itsestä enemmän huonoa kuin hyvää.</p></div><div class="spacer">&nbsp;</div>
+</div>
+</div>
+<div class="simple-item-view-collections item-page-field-wrapper table">
+<h5>Kokoelmat</h5>
+<ul class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/10024/1102/mets.xml-->
+<li>
+<a href="/handle/10024/1102">Avoin saatavuus</a> [45957]</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="visible-xs visible-sm">
+<footer>
+<div class="row">
+<div id="footerlogocontainer" class="">
+<div id="footerlogo" class="hidden-print"></div>
+</div>
+<div id="footerlinks" class="hidden-print">
+<div class="footerlinkscolumn">
+<a href="https://oulurepo.oulu.fi/contact"><span class="__cf_email__" data-cfemail="412e342d343324312e012e342d346f2728">[email&#160;protected]</span></a><a href="https://www.oulu.fi/fi/yliopisto/kirjasto">Oulun yliopiston kirjasto</a><a href="https://oulu.cris.fi/">OuluCRIS</a><a href="https://laturi.oulu.fi/">Laturi</a><a href="https://muuntaja.oulu.fi/">Muuntaja</a>
+</div>
+<div class="footerlinkscolumn">
+<a href="/oulu_saavutettavuusseloste.html">Saavutettavuusseloste</a><a href="https://www.oulu.fi/fi/yliopisto/kirjasto/henkilotietojen-kasittely-oulun-yliopiston-kirjastossa">Tietosuojailmoitus</a><a href="/password-login">Yll&auml;pidon kirjautuminen</a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+</footer>
+</div>
+</div>
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<h4 class="ds-option-set-head  h6">Selaa kokoelmaa</h4>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a href="/handle/10024/1102/browse?type=title" class="list-group-item ds-option">Nimekkeet</a><a href="/handle/10024/1102/browse?type=author" class="list-group-item ds-option">Tekij&auml;t</a><a href="/handle/10024/1102/browse?type=dateissued" class="list-group-item ds-option">Julkaisuajat</a><a href="/handle/10024/1102/browse?type=subject" class="list-group-item ds-option">Asiasanat</a><a href="/handle/10024/1102/browse?type=dateaccessioned" class="list-group-item ds-option">Uusimmat</a><a href="/community-list" class="list-group-item ds-option">Sivukartta</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_browse2" class="list-group"></div>
+<h4 class="ds-option-set-head  h6">Omat tiedot</h4>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Kirjaudu sis&auml;&auml;n</a><a href="/register" class="list-group-item ds-option">Rekister&ouml;idy</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs hidden-sm">
+<footer>
+<div class="row">
+<div id="footerlogocontainer" class="">
+<div id="footerlogo" class="hidden-print"></div>
+</div>
+<div id="footerlinks" class="hidden-print">
+<div class="footerlinkscolumn">
+<a href="https://oulurepo.oulu.fi/contact"><span class="__cf_email__" data-cfemail="503f253c252235203f103f253c257e3639">[email&#160;protected]</span></a><a href="https://www.oulu.fi/fi/yliopisto/kirjasto">Oulun yliopiston kirjasto</a><a href="https://oulu.cris.fi/">OuluCRIS</a><a href="https://laturi.oulu.fi/">Laturi</a><a href="https://muuntaja.oulu.fi/">Muuntaja</a>
+</div>
+<div class="footerlinkscolumn">
+<a href="/oulu_saavutettavuusseloste.html">Saavutettavuusseloste</a><a href="https://www.oulu.fi/fi/yliopisto/kirjasto/henkilotietojen-kasittely-oulun-yliopiston-kirjastossa">Tietosuojailmoitus</a><a href="/password-login">Yll&auml;pidon kirjautuminen</a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+</footer>
+</div>
+<div aria-hidden="true" role="dialog" tabindex="-1" class="pswp">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button title="Close (Esc)" class="pswp__button pswp__button--close"></button><button title="Share" class="pswp__button pswp__button--share"></button><button title="Toggle fullscreen" class="pswp__button pswp__button--fs"></button><button title="Zoom in/out" class="pswp__button pswp__button--zoom"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button title="Previous (arrow left)" class="pswp__button pswp__button--arrow--left"></button><button title="Next (arrow right)" class="pswp__button pswp__button--arrow--right"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/oulu56/';</script><script src="/themes/oulu56/scripts/theme.js" type="text/javascript"> </script><script src="/themes/oulu56/scripts/photoswipe.js" type="text/javascript"> </script><script src="/themes/oulu56/scripts/fa.js" type="text/javascript"> </script><script src="/themes/oulu56/scripts/ps_gallery.js" type="text/javascript"> </script><script src="/themes/oulu56/scripts/flatpickr.min.js" type="text/javascript"> </script><script src="/themes/oulu56/scripts/annif.js" type="text/javascript"> </script><script type="text/javascript" src="/themes/oulu56/scripts/simplestats_downloads.js">
+                 
+            </script><script type="text/javascript">
+            //Clear isbn
+            $("document").ready(function(){
+                if(!window.location.href.includes("submit")){
+                    localStorage.removeItem("form_isbn_id");
+                }
+
+                var el = document.getElementById("aspect_submission_submit_CompletedStep_field_submit_again");
+                if(el != null){
+                    el.addEventListener("click", function(){
+                        localStorage.removeItem("form_isbn_id");
+                    });
+                }
+            });
+
+        </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5a6ee2c9d5d35c8',t:'MTc5NDY2ODg5NA=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5a6ee2c9d5d35c8',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>

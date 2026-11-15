@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "E01",
+    "language": "English",
+    "forms": [
+      "pleased"
+    ],
+    "status": "Q",
+    "scope": "He was pleased at that time",
+    "source": "Goddard 2018, Lecture 3, p.77, fig.12; PDF15",
+    "english": "this someone (= he) thought like this (at that time):\n    \"something good happened before\n    I wanted this\"\nbecause of this, he felt something good\n    like people often feel when they think like this",
+    "caution": "",
+    "scenario_ids": [
+      "S13",
+      "S14",
+      "S15"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "E02",
+    "language": "English",
+    "forms": [
+      "contented"
+    ],
+    "status": "Q",
+    "scope": "He was contented at that time",
+    "source": "Goddard 2018, p.77, fig.12; PDF15",
+    "english": "this someone (= he) thought like this (at that time):\n    \"something good is happening to me now\n    I want this\n    I don’t want anything else now\"\nbecause of this, he felt something good\n    like people often feel when they think like this",
+    "caution": "",
+    "scenario_ids": [
+      "S17",
+      "S18"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "E03",
+    "language": "English",
+    "forms": [
+      "delighted"
+    ],
+    "status": "Q",
+    "scope": "He was delighted at that time; greeting formulas excluded",
+    "source": "Goddard 2018, p.77, fig.12; PDF15",
+    "english": "this someone (= he) thought like this (at that time):\n    \"something very good happened a moment before\n    I didn’t know before that it would happen\"\nbecause of this, he felt something good\n    like people often feel when they think like this",
+    "caution": "",
+    "scenario_ids": [
+      "S14",
+      "S15"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "E04",
+    "language": "English",
+    "forms": [
+      "happy"
+    ],
+    "status": "Q",
+    "scope": "bare predicative modern emotional happy, not happy with",
+    "source": "Goddard 2018, p.85, fig.22; PDF23",
+    "english": "this someone (= he) thought like this (at that time):\n    \"many good things are happening to me now as I want\n    I can do many things now as I want\n    this is good\"\nbecause of this, he felt something good\n    like people often feel when they think like this",
+    "caution": "p.86/fig.23 discusses happy with but does not give a complete explication; do not invent one and cite it as Goddard’s.",
+    "scenario_ids": [
+      "S19",
+      "S20"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J01",
+    "language": "Japanese",
+    "forms": [
+      "suki da ENTITY"
+    ],
+    "status": "Q",
+    "scope": "person/animate/inanimate object, excluding activities",
+    "source": "Hasada 2000, p.173; PDF97",
+    "english": "X felt something because X thought something about another person/thing Y\nsometimes a person thinks about someone else/something:\n    \"when I am with this person/thing, I often feel something good\n    because of this, I want to be with this person/thing\"\nwhen this person thinks this, this person feels something good\nthis person feels good towards this someone else/something\nX felt something like this\nbecause X thought something like this about Y",
+    "caution": "",
+    "scenario_ids": [
+      "S01",
+      "S02"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J02",
+    "language": "Japanese",
+    "forms": [
+      "suki da EVENT"
+    ],
+    "status": "Q",
+    "scope": "activity prototype, independent from J01",
+    "source": "Hasada 2000, pp.173–174; PDF97–98",
+    "english": "X felt something because X thought something about something Y\nsometimes a person thinks about something:\n    \"when I do this thing, I often feel something good\n    because of this, I want to do this thing\"\nwhen this person thinks this, this person feels something good\nthis person feels good towards this something\nX felt something like this\nbecause X thought something like this about Y",
+    "caution": "",
+    "scenario_ids": [
+      "S03",
+      "S04"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J03",
+    "language": "Japanese",
+    "forms": [
+      "ai(suru)",
+      "aisuru"
+    ],
+    "status": "Q",
+    "scope": "enduring interpersonal caring love",
+    "source": "Hasada 2000, p.195; PDF108",
+    "english": "X felt something because X thought something about another person Y (in place Y)\nsometimes a person thinks about someone else for a long time:\n    \"I know good/bad things of this person\n    I can think many good things about this person\n    I want to be with this person\n    I want to do good things for this person\n    if I could do something good for this person, I would do it.\n    I will always want this\"\nwhen this person thinks this, this person feels something good\nthis person feels something very good towards this someone else\nX felt something like this\nbecause X thought something like this about Y",
+    "caution": "Retains the source’s awkward “(in place Y)”. The human-only generalization conflicts with its dog example and later activity evidence. This is not a definition of all modern aisuru uses.",
+    "scenario_ids": [
+      "S09",
+      "S10",
+      "S11"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J04",
+    "language": "Japanese",
+    "forms": [
+      "horeru"
+    ],
+    "status": "Q",
+    "scope": "attraction to a person or a quality of a person",
+    "source": "Hasada 2000, p.200; PDF111",
+    "english": "X felt something because X thought something about another person Y\nsometimes a person thinks about someone else/something about someone else Y:\n    \"I think good things about this person/thing about this person\n    because of this I want to be with this person all the time\n    I want to do something because of this\n    I cannot think of anything else\"\nwhen this person thinks this, this person feels something good\nthis person feels something very good towards Y\nX felt something like this\nbecause X thought something like this about Y",
+    "caution": "The source component lettering skips (g); no missing component has been supplied.",
+    "scenario_ids": [
+      "S11"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J05",
+    "language": "Japanese",
+    "forms": [
+      "akogare(ru)",
+      "akogareru"
+    ],
+    "status": "Q",
+    "scope": "idealization and desired similarity/proximity",
+    "source": "Hasada 2000, pp.204–205; PDF113",
+    "english": "X felt something because X thought something about another person/thing Y\nsometimes a person thinks about someone/something else [Y]:\n    \"I think this person/thing is good\n    if I were like this person/if I were near this thing,\n    I would feel something good\n    I am not like this person/I am not near this thing\n    I want to be like this person/I want to be near this thing\"\nwhen this person thinks this, this person feels something good\nthis person feels something good towards Y\nX felt something like this\nbecause X thought something like this",
+    "caution": "The formal block has “good” in the towards-Y line; following prose has “very good”. Preserve the formal block and the discrepancy.",
+    "scenario_ids": [
+      "S12"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J06",
+    "language": "Japanese",
+    "forms": [
+      "ureshii"
+    ],
+    "status": "Q",
+    "scope": "subjective use",
+    "source": "Hasada 2000, pp.236–237; PDF129",
+    "english": "I feel something because I thought something about something Y\nsometimes a person thinks:\n    \"something good happened to me\n    I want these things like this to be happening\n    I don’t want anything else now\"\nwhen this person thinks this, this person feels something very good\nI feel something like this\nbecause I thought something like this about Y",
+    "caution": "The commentary says “I wanted something like this to happen”; the final block instead has present “I want…”. Do not silently standardize.",
+    "scenario_ids": [
+      "S13",
+      "S16"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J07",
+    "language": "Japanese",
+    "forms": [
+      "tanoshii SUBJECTIVE"
+    ],
+    "status": "Q",
+    "scope": "subjective feeling; source optional brackets retained",
+    "source": "Hasada 2000, p.237; PDF129",
+    "english": "I feel something [because I thought something about something Y]\nsometimes a person thinks for some time:\n    \"some good things are happening here\n    I want these things to be happening\"\nwhen this person thinks this, this person feels something good\nI feel something like this\n[because I thought something like this about Y]",
+    "caution": "",
+    "scenario_ids": [
+      "S05",
+      "S06"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J08",
+    "language": "Japanese",
+    "forms": [
+      "tanoshii ATTRIBUTIVE"
+    ],
+    "status": "Q",
+    "scope": "source’s descriptive/general-evaluation use, not just syntactic attributive position",
+    "source": "Hasada 2000, p.237; PDF129",
+    "english": "I want to say something about something Y\nsometimes a person thinks for some time:\n    \"some good things are happening here\n    I want these things to be happening\"\nwhen this person thinks this, this person feels something good\nI say: other people can feel like this when they think about Y",
+    "caution": "Do not equate this source label with ENTITY content or with a Y case frame.",
+    "scenario_ids": [
+      "S05",
+      "S30"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J09",
+    "language": "Japanese",
+    "forms": [
+      "shiawase da"
+    ],
+    "status": "Q",
+    "scope": "subjective good circumstances and contentment",
+    "source": "Hasada 2000, p.241; PDF131",
+    "english": "X felt something because X thought something\nsometimes a person thinks for some time:\n    \"some good things are happening to me now\n    these things have been happening for some time\n    everything is good now\n    I can’t want anything more now\"\nwhen this person thinks this, this person feels something very good\nX felt something like this\nbecause X thought something like this",
+    "caution": "The prose allows very different actual durations, including an eating episode; not a categorical lifelong state.",
+    "scenario_ids": [
+      "S17",
+      "S19",
+      "S20"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "J10",
+    "language": "Japanese",
+    "forms": [
+      "koi(suru)",
+      "koisuru"
+    ],
+    "status": "Q",
+    "scope": "additional reference, not automatically a new target node",
+    "source": "Hasada 2000, p.177; PDF99",
+    "english": "X felt something because X thought something about another person Y\nsometimes a person thinks about someone else for some time,\n    not for a long time:\n    \"there are two kinds of people\n    sometimes I think something very good about a person of the other kind\n    when I think about this person, I want to be with this other kind of person\n    I know: I am not with this other kind of person now\n    I would do anything if I could be with this other kind of person\n    I cannot not think about this person\"\nwhen this person thinks this, this person feels something\nthis person feels something good towards this someone else\nX felt something like this\nbecause X thought something like this about Y",
+    "caution": "The author’s “two kinds/other kind” component is reported, not adopted as a universal requirement. Source Y-o/Y-ni discrepancy remains.",
+    "scenario_ids": [
+      "S11"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "F01",
+    "language": "Finnish",
+    "forms": [
+      "ILO",
+      "ilo",
+      "related iloinen / iloita"
+    ],
+    "status": "T",
+    "scope": "concept-family core, not separate derived-word definitions",
+    "source": "Tuovila 2005, p.87; PDF89; project English translation",
+    "english": "X feels something because X thinks something\nsometimes a person thinks:\n    \"something very good has happened / is happening now\n    I want this\"\nwhen this person thinks this, this person feels something very good for some time\nX feels something like this because X thinks something like this",
+    "caution": "Slash alternatives are in the source. Distinct from the English joy version used in Vanhatalo et al. 2019.",
+    "scenario_ids": [
+      "S13",
+      "S14",
+      "S15"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "F02",
+    "language": "Finnish",
+    "forms": [
+      "ONNELLISUUS",
+      "onnellisuus",
+      "related onnellinen"
+    ],
+    "status": "T",
+    "scope": "concept-family core",
+    "source": "Tuovila 2005, pp.87–88; PDF89–90; project English translation",
+    "english": "X feels something because X thinks something\nsometimes a person thinks:\n    \"something very good has happened / is happening now\n    I don’t want anything else\"\nwhen this person thinks this, this person feels something very good for a long time\nX feels something like this because X thinks something like this",
+    "caution": "",
+    "scenario_ids": [
+      "S17",
+      "S19",
+      "S20"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "F03",
+    "language": "Finnish",
+    "forms": [
+      "TYYTYVÄISYYS",
+      "tyytyväisyys",
+      "related tyytyväinen"
+    ],
+    "status": "T",
+    "scope": "concept-family core",
+    "source": "Tuovila 2005, p.88; PDF90; project English translation",
+    "english": "X feels something because X thinks something\nsometimes a person thinks:\n    \"something good has happened\n    I don’t want anything else now\"\nwhen this person thinks this, this person feels something good for some time\nX feels something like this because X thinks something like this",
+    "caution": "",
+    "scenario_ids": [
+      "S17",
+      "S18",
+      "S21"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "F04",
+    "language": "Finnish",
+    "forms": [
+      "TOIVO",
+      "toivo",
+      "related toivoa"
+    ],
+    "status": "T",
+    "scope": "hope-type core, not all verbal request/desire uses",
+    "source": "Tuovila 2005, p.90; PDF92; project English translation",
+    "english": "X feels something because X thinks something\nsometimes a person thinks:\n    \"I want something good to happen\n    I don’t know what will happen\n    I think: this can happen\"\nwhen this person thinks this, this person feels something good\nX feels something like this because X thinks something like this",
+    "caution": "This explication says nothing about PART/GEN alternation.",
+    "scenario_ids": [
+      "S07",
+      "S08"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "F05",
+    "language": "Finnish",
+    "forms": [
+      "RAKKAUS",
+      "rakkaus",
+      "related rakastaa / rakastua"
+    ],
+    "status": "T",
+    "scope": "interpersonal concept-family core",
+    "source": "Tuovila 2005, p.112; PDF114; project English translation, compared with Vanhatalo et al. 2019:173",
+    "english": "X feels something because X thinks something\nsometimes a person thinks:\n    \"I think: there is another person\n    when I think about this person, I feel something very good\n    I want good things for this person\"\nwhen this person thinks this, this person feels something very good for a long time\nX feels something like this because X thinks something like this",
+    "caution": "Not a separate definition of the inchoative rakastua or of activity-loving. The 2019 authors’ gloss says “good” on the long-duration line although Tuovila has hyvin hyvää; this translation follows Tuovila.",
+    "scenario_ids": [
+      "S09",
+      "S10"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "P01",
+    "language": "Korean",
+    "forms": [
+      "원하다"
+    ],
+    "status": "P",
+    "scope": "neutral WANT reading in the tested diagnostic frames",
+    "source": "Yoon 2003, pp.125–129,138",
+    "english": "X wants this thing.\nX wants to do this.\nX wants something to happen.",
+    "caution": "WANT is not reduced further. These are English diagnostic frames, not fabricated Korean corpus examples or a proof that every wenhata use has identical meaning.",
+    "scenario_ids": [
+      "S02",
+      "S04",
+      "S07"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "wenhata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "P02",
+    "language": "Korean",
+    "forms": [
+      "-고 싶다"
+    ],
+    "status": "P",
+    "scope": "V-ko siphta WANT construction",
+    "source": "Yoon 2003, pp.125–129,138",
+    "english": "X wants to do this.",
+    "caution": "Combinatorial allolexy concerns tested frames. The object of the embedded V is not a direct entity argument of siphta.",
+    "scenario_ids": [
+      "S04",
+      "S07"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "-ko siphta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "P03",
+    "language": "Finnish",
+    "forms": [
+      "haluta",
+      "tahtoa"
+    ],
+    "status": "P",
+    "scope": "WANT-exponent candidates",
+    "source": "Vanhatalo et al. 2014, pp.83–84,93, fn.18",
+    "english": "X wants this thing.\nX wants to do this.\nX wants something to happen.",
+    "caution": "Tentative exponent choice, not a demonstrated absolute desire/will opposition. These frames do not define all uses of either verb.",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "K01",
+    "language": "Korean",
+    "forms": [
+      "좋다"
+    ],
+    "status": "H",
+    "scope": "psychological attraction to an entity; GOOD reading kept separate",
+    "source": "Project hypothesis; Yoon 2003:111–114 motivates GOOD/LIKE distinction; J01 as comparison",
+    "english": "someone X thinks like this at this time:\n    \"when I am with this someone/something, I often feel something good\n    because of this, I want to be with this someone/something\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Cohta can also evaluate an entity as GOOD without attraction. Do not require every cohta example to imply wanting to be with Y.",
+    "scenario_ids": [
+      "S01",
+      "S02",
+      "S29",
+      "S30"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "cohta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K02",
+    "language": "Korean",
+    "forms": [
+      "좋다"
+    ],
+    "status": "H",
+    "scope": "activity preference, not necessarily current enjoyment",
+    "source": "Project hypothesis compared with J02; K41 grammatical evidence only",
+    "english": "someone X thinks like this at this time:\n    \"when I do this, I often feel something good\n    because of this, I want to do this at many times\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "A preference reading and an evaluation of an event may overlap; test, do not stipulate a polysemy split.",
+    "scenario_ids": [
+      "S03",
+      "S04",
+      "S05"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "cohta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K03",
+    "language": "Korean",
+    "forms": [
+      "좋아하다"
+    ],
+    "status": "H",
+    "scope": "entity preference",
+    "source": "Project hypothesis; Yoon 2003:111–114 and dictionary LIKE uses; J01 as comparison",
+    "english": "someone X thinks like this at this time:\n    \"when I am with this someone/something, I often feel something good\n    because of this, I want to be with this someone/something\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Independently test the same model for cohta and cohahata. No obligatory overt display of emotion is included.",
+    "scenario_ids": [
+      "S01",
+      "S02",
+      "S09"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "cohahata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K04",
+    "language": "Korean",
+    "forms": [
+      "좋아하다"
+    ],
+    "status": "H",
+    "scope": "activity preference",
+    "source": "Project hypothesis; dictionary activity uses and J02",
+    "english": "someone X thinks like this at this time:\n    \"when I do this, I often feel something good\n    because of this, I want to do this at many times\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "The event nominalization variants are pooled at this stage; they remain visible in the elicited sentence.",
+    "scenario_ids": [
+      "S03",
+      "S04",
+      "S05",
+      "S26"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "cohahata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K05",
+    "language": "Korean",
+    "forms": [
+      "사랑하다"
+    ],
+    "status": "H",
+    "scope": "interpersonal caring reading",
+    "source": "Project hypothesis compared with J03 and F05; Korean dictionary senses",
+    "english": "someone X thinks like this at this time:\n    \"I often think about this someone\n    when I think about this someone, I feel something very good\n    I want good things to happen to this someone\n    I want to do good things for this someone\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Neither caring alone nor feeling very good alone is assumed sufficient. Romantic and family uses may overlap without identical conditions.",
+    "scenario_ids": [
+      "S09",
+      "S10",
+      "S11"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "salanghata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K06",
+    "language": "Korean",
+    "forms": [
+      "사랑하다"
+    ],
+    "status": "H",
+    "scope": "activity-directed strong positive attachment",
+    "source": "Project hypothesis; attested Korean activity use K42; J03 does not supply this definition",
+    "english": "someone X thinks like this at this time:\n    \"when I do this, I feel something very good\n    I want to do this at many times\n    I want to do this for a long time\"\nbecause of this, X feels something very good at this time\nlike people often feel when they think like this",
+    "caution": "Do not force good-for-another-person components onto an activity. Test possible expressive or genre effects.",
+    "scenario_ids": [
+      "S03",
+      "S26"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "salanghata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K07",
+    "language": "Korean",
+    "forms": [
+      "아끼다"
+    ],
+    "status": "H",
+    "scope": "cherish a person",
+    "source": "Project hypothesis from Korean dictionary cherish sense, not saving sense",
+    "english": "someone X thinks like this at this time:\n    \"this someone is very good to me\n    I don’t want bad things to happen to this someone\n    I want to do good things for this someone\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Check whether “very good to me” overstates the personal relation. No pleasure component is forced inside the model thought.",
+    "scenario_ids": [
+      "S09",
+      "S10",
+      "S27"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "akkita"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K08",
+    "language": "Korean",
+    "forms": [
+      "아끼다"
+    ],
+    "status": "H",
+    "scope": "cherish an object",
+    "source": "Project hypothesis from Korean dictionary cherish sense",
+    "english": "someone X thinks like this at this time:\n    \"this something is very good to me\n    I don’t want something bad to happen to it\n    because of this, I want to do some things\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "The feeling clause itself is a testable conjecture. Saving water or withholding praise cannot confirm this meaning.",
+    "scenario_ids": [
+      "S27",
+      "S28"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "akkita"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K09",
+    "language": "Korean",
+    "forms": [
+      "바라다"
+    ],
+    "status": "H",
+    "scope": "hope-type reading",
+    "source": "Project hypothesis compared with F04; Korean dictionary wish/hope uses",
+    "english": "someone X thinks like this at this time:\n    \"I want something to happen after now\n    I don’t know if it will happen\n    I think: it can happen\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Test uncertainty and good feeling independently; palata may express a wish/request without these components. Other outer clausal forms stay outside the flagging sample.",
+    "scenario_ids": [
+      "S07",
+      "S08"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "palata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K10",
+    "language": "Korean",
+    "forms": [
+      "기쁘다"
+    ],
+    "status": "H",
+    "scope": "good-event reaction",
+    "source": "Project hypothesis compared with E01, J06 and F01; Korean dictionary examples",
+    "english": "someone X thinks like this at this time:\n    \"something good happened\n    I wanted something like this to happen\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Good versus very good, personal beneficiary, prior desire and surprise are separately tested; not imposed together.",
+    "scenario_ids": [
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S25"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "kipputa"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K11",
+    "language": "Korean",
+    "forms": [
+      "기뻐하다"
+    ],
+    "status": "H",
+    "scope": "reaction directed towards Y",
+    "source": "Project hypothesis independently tested against kipputa; dictionary and K24/K47/K61/K62",
+    "english": "someone X thinks like this at this time:\n    \"something good happened\n    I wanted something like this to happen\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "The provisional core matches K10. This is not a verified complete account of -e hata. Check viewpoint/inference without assuming visible expression or controllability.",
+    "scenario_ids": [
+      "S13",
+      "S16",
+      "S25",
+      "S31",
+      "S32"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "kippehata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K12",
+    "language": "Korean",
+    "forms": [
+      "즐겁다"
+    ],
+    "status": "H",
+    "scope": "ongoing pleasant experience",
+    "source": "Project hypothesis compared with J07; Korean dictionary and K48/K70",
+    "english": "someone X thinks like this at this time:\n    \"some good things are happening here now\n    I want it to be like this for some time\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Do not impose a long duration or conscious deliberate thought. An evaluative/descriptive reading remains possible.",
+    "scenario_ids": [
+      "S05",
+      "S06",
+      "S30"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "culkepta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K13",
+    "language": "Korean",
+    "forms": [
+      "즐기다"
+    ],
+    "status": "H",
+    "scope": "current participation with good feeling",
+    "source": "Project hypothesis from Korean enjoy uses; compare, do not copy, J07",
+    "english": "X is doing something at this time\nwhen X does this, X feels something good\nX wants to do this for some time",
+    "caution": "Participation, pleasure and wanting continuation all need testing; this is not a proved volitional or causative analysis.",
+    "scenario_ids": [
+      "S05",
+      "S06",
+      "S26"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "culkita"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K14",
+    "language": "Korean",
+    "forms": [
+      "즐기다"
+    ],
+    "status": "H",
+    "scope": "habitual activity",
+    "source": "Project hypothesis from dictionary habitual participation use",
+    "english": "X does this at many times\nwhen X does this, X often feels something good\nX wants to do this at many times",
+    "caution": "Whether “often does” is entailed or merely a tendency must be tested; compare current and habitual contexts.",
+    "scenario_ids": [
+      "S03",
+      "S04",
+      "S26"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "culkita"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K15",
+    "language": "Korean",
+    "forms": [
+      "행복하다"
+    ],
+    "status": "H",
+    "scope": "overall positive circumstances",
+    "source": "Project hypothesis compared with J09, F02 and E04; no claim of their equivalence",
+    "english": "someone X thinks like this at this time:\n    \"many good things are happening to me now\n    it has been like this for some time\n    I want it to be like this for a long time\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Test short episodes, personal freedom, interpersonal care, intensity, and wanting nothing else independently.",
+    "scenario_ids": [
+      "S17",
+      "S18",
+      "S19",
+      "S20"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "hayngpokhata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K16",
+    "language": "Korean",
+    "forms": [
+      "만족하다"
+    ],
+    "status": "H",
+    "scope": "contentment about something",
+    "source": "Project hypothesis compared with F03 and E02; Korean dictionary",
+    "english": "someone X thinks like this at this time:\n    \"it is like this now\n    this is good\n    I don’t want anything else now\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "A result can meet a standard while the person still wants more; S21 tests this counterexample. Verb/adjective labels do not settle sense identity.",
+    "scenario_ids": [
+      "S17",
+      "S18",
+      "S21"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "mancokhata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K17",
+    "language": "Korean",
+    "forms": [
+      "반갑다"
+    ],
+    "status": "H",
+    "scope": "encountering a person",
+    "source": "Project hypothesis from Korean dictionary encounter use",
+    "english": "someone X thinks like this at this time:\n    \"I wanted to see this someone\n    I see this someone now\n    this is good\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Prior wanting and prior separation may not be necessary. Greeting formulas are tested separately from experienced emotion.",
+    "scenario_ids": [
+      "S22",
+      "S23"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "pankapta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K18",
+    "language": "Korean",
+    "forms": [
+      "반갑다"
+    ],
+    "status": "H",
+    "scope": "a welcome occurrence or piece of information",
+    "source": "Project hypothesis; resumption-of-publication example K60 and dictionary news examples",
+    "english": "someone X thinks like this at this time:\n    \"I wanted something like this to happen\n    I know now: something like this is happening / happened\n    this is good\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Not restricted to seeing a person; slash marks alternatives to be separated if judgments differ.",
+    "scenario_ids": [
+      "S13",
+      "S24"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "pankapta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K19",
+    "language": "Korean",
+    "forms": [
+      "흐뭇하다"
+    ],
+    "status": "H",
+    "scope": "positive assessment with a settled good feeling",
+    "source": "Project hypothesis from Korean dictionary and K64/K65/K71; compared with F03",
+    "english": "someone X thinks like this at this time:\n    \"I think about this someone/something now\n    some good things happened / are happening\n    I wanted it to be like this\n    it is like this now\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Do not require personal achievement, own child, silence, pride, or a maum subject without evidence.",
+    "scenario_ids": [
+      "S16",
+      "S17",
+      "S18",
+      "S21"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "humushata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K20",
+    "language": "Korean",
+    "forms": [
+      "마음에 들다"
+    ],
+    "status": "H",
+    "scope": "positive evaluation of a particular Y",
+    "source": "Project hypothesis from Korean idiom entry and K38/K57/K58",
+    "english": "someone X thinks like this at this time:\n    \"I think about this someone/something now\n    this is good\n    I want something like this\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Wanting-to-choose and becoming acquainted are hypotheses, not established entailments. Internal maum-ey is not Y-LOC.",
+    "scenario_ids": [
+      "S01",
+      "S02",
+      "S29",
+      "S30"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "maumey tulta"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "K21",
+    "language": "Korean",
+    "forms": [
+      "즐거워하다"
+    ],
+    "status": "H",
+    "scope": "derived comparison item, not yet in main corpus",
+    "source": "Project hypothesis; official dictionary derivational link culkepta → culkewehata",
+    "english": "someone X thinks like this at this time:\n    \"some good things are happening here now\n    I want it to be like this for some time\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Same provisional core as K12 solely to test overlap and viewpoint differences. No attested frame is added to the corpus.",
+    "scenario_ids": [
+      "S05",
+      "S06",
+      "S31",
+      "S32"
+    ],
+    "final_semantic_node": null,
+    "native_speaker_verified": false,
+    "forms_romanized": [
+      "culkewehata"
+    ],
+    "romanization_system": "Yale-style spelling transliteration"
+  },
+  {
+    "id": "JH01",
+    "language": "Japanese",
+    "forms": [
+      "hoshii"
+    ],
+    "status": "H",
+    "scope": "entity desire",
+    "source": "Project draft; grammar evidence only",
+    "english": "X wants this something.",
+    "caution": "WANT-content diagnostic; not yet a full account of hoshii evaluation or construction",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH02",
+    "language": "Japanese",
+    "forms": [
+      "hoshigaru"
+    ],
+    "status": "H",
+    "scope": "third-person/entity desire",
+    "source": "Project draft; derivational relation to hoshii; grammar evidence only",
+    "english": "X wants this something.",
+    "caution": "Content-only draft. Does not yet explicate -garu or assert obligatory behavioral evidence",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH03",
+    "language": "Japanese",
+    "forms": [
+      "V-tai"
+    ],
+    "status": "H",
+    "scope": "desire to do",
+    "source": "Project draft; grammar evidence only",
+    "english": "X wants to do this.",
+    "caution": "Prime-based content diagnostic, not a complete construction explication",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH04",
+    "language": "Japanese",
+    "forms": [
+      "yorokobu"
+    ],
+    "status": "H",
+    "scope": "good-event reaction",
+    "source": "Project draft; Hasada grammatical discussion; Sakaba 2026 template only",
+    "english": "someone X thinks like this at this time:\n    \"something good happened\n    I wanted something like this to happen\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Independent draft; not an attested complete positive-verb NSM definition",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH05",
+    "language": "Japanese",
+    "forms": [
+      "tanoshimu"
+    ],
+    "status": "H",
+    "scope": "current enjoyment",
+    "source": "Project draft; Sakaba 2026:214–215,222–223 discussion/template",
+    "english": "X is doing something at this time.\nwhen X does this, X feels something good.\nX wants to do this for some time.",
+    "caution": "Participation/continuation draft, not copied from tanoshii as an established derived definition",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH06",
+    "language": "Japanese",
+    "forms": [
+      "manzoku da"
+    ],
+    "status": "H",
+    "scope": "contentment",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"it is like this now\n    this is good\n    I don’t want anything else now\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Compared with F03/E02, not defined by translating satisfied",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH07",
+    "language": "Japanese",
+    "forms": [
+      "daisuki da ENTITY"
+    ],
+    "status": "H",
+    "scope": "strong entity preference",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"when I am with this someone/something, I often feel something very good\n    because of this, I want to be with this someone/something\"\nbecause of this, X feels something very good at this time\nlike people often feel when they think like this",
+    "caution": "Strengthening is a testable hypothesis; not the only possible difference from suki",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH08",
+    "language": "Japanese",
+    "forms": [
+      "daisuki da EVENT"
+    ],
+    "status": "H",
+    "scope": "strong activity preference",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"when I do this, I often feel something very good\n    because of this, I want to do this at many times\"\nbecause of this, X feels something very good at this time\nlike people often feel when they think like this",
+    "caution": "Test expressive emphasis and context rather than fixing an intensity scale",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "JH09",
+    "language": "Japanese",
+    "forms": [
+      "ki ni iru"
+    ],
+    "status": "H",
+    "scope": "positive evaluation of a particular Y",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"I think about this someone/something now\n    this is good\n    I want something like this\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Acquisition of preference versus continuing state remains unresolved",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "FH01",
+    "language": "Finnish",
+    "forms": [
+      "pitää LIKE"
+    ],
+    "status": "H",
+    "scope": "entity preference",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"when I am with this someone/something, I often feel something good\n    because of this, I want to be with this someone/something\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Other pitää meanings excluded; activity extension must be tested separately",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "FH02",
+    "language": "Finnish",
+    "forms": [
+      "tykätä"
+    ],
+    "status": "H",
+    "scope": "entity preference",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"when I am with this someone/something, I often feel something good\n    because of this, I want to be with this someone/something\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Similarity to pitää is a hypothesis; register and word choice can differ",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "FH03",
+    "language": "Finnish",
+    "forms": [
+      "pitää LIKE EVENT",
+      "tykätä EVENT"
+    ],
+    "status": "H",
+    "scope": "activity preference",
+    "source": "Project draft; no independent definition verified",
+    "english": "someone X thinks like this at this time:\n    \"when I do this, I often feel something good\n    because of this, I want to do this at many times\"\nbecause of this, X feels something good at this time\nlike people often feel when they think like this",
+    "caution": "Shared draft only; not evidence that these words have one invariant meaning",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "FH04",
+    "language": "Finnish",
+    "forms": [
+      "nauttia"
+    ],
+    "status": "H",
+    "scope": "current enjoyment",
+    "source": "Project draft; no independent definition verified",
+    "english": "X is doing something at this time.\nwhen X does this, X feels something good.\nX wants to do this for some time.",
+    "caution": "Entity enjoyment may require another specification; do not pragmatically recode an entity as an event",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  },
+  {
+    "id": "FH05",
+    "language": "Finnish",
+    "forms": [
+      "rakastua"
+    ],
+    "status": "H",
+    "scope": "entering an interpersonal state",
+    "source": "Project draft; F05 core plus inchoative hypothesis",
+    "english": "before this time, X did not feel something like this about Y\nnow X feels something very good when X thinks about Y\nX wants to be with Y\nX wants good things to happen to Y",
+    "caution": "Not Tuovila’s independent definition of rakastua; test relation to caring and attraction",
+    "scenario_ids": [],
+    "final_semantic_node": null,
+    "native_speaker_verified": false
+  }
+]

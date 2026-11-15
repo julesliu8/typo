@@ -1,0 +1,54 @@
+{
+  "type": "DOM-only functional checks; no actual browser visual preview or download verification",
+  "environment": "domino 2.1.6 with dataset/append/NodeList.forEach shims; scope default explicitly set for DOM emulator",
+  "checks": [
+    {
+      "name": "core scope shows 16 free response situations",
+      "passed": true
+    },
+    {
+      "name": "extension scope shows 16 situations",
+      "passed": true
+    },
+    {
+      "name": "both scope shows 32 situations",
+      "passed": true
+    },
+    {
+      "name": "multiple expressions retain independent high ratings",
+      "passed": true
+    },
+    {
+      "name": "free response saved separately",
+      "passed": true
+    },
+    {
+      "name": "word-list gate unlocks only after explicit action",
+      "passed": true
+    },
+    {
+      "name": "phase switching preserves free responses",
+      "passed": true
+    },
+    {
+      "name": "can add independent whole-paraphrase reviews",
+      "passed": true
+    },
+    {
+      "name": "selected explication displayed",
+      "passed": true
+    },
+    {
+      "name": "all response fields have unique keys",
+      "passed": true
+    },
+    {
+      "name": "JSON import restores independent answers",
+      "passed": true
+    },
+    {
+      "name": "saved record includes all hidden phases",
+      "passed": true
+    }
+  ]
+}

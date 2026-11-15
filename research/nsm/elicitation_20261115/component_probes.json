@@ -1,0 +1,339 @@
+[
+  {
+    "id": "C01",
+    "title": "Pleasure without present desire",
+    "component": "When I am with Y / do Y, I often feel something good.",
+    "contrast": "I do not want to be with Y / do Y now.",
+    "candidates": [
+      "좋다",
+      "좋아하다",
+      "즐기다",
+      "마음에 들다"
+    ],
+    "candidates_romanized": [
+      "cohta",
+      "cohahata",
+      "culkita",
+      "maumey tulta"
+    ],
+    "scenarios": [
+      "S01",
+      "S03",
+      "S06"
+    ],
+    "models": "K01–K04,K14,K20"
+  },
+  {
+    "id": "C02",
+    "title": "Desire without positive feeling",
+    "component": "X wants this / wants to do this.",
+    "contrast": "X feels nothing good when thinking about it.",
+    "candidates": [
+      "원하다",
+      "바라다",
+      "-고 싶다"
+    ],
+    "candidates_romanized": [
+      "wenhata",
+      "palata",
+      "-ko siphta"
+    ],
+    "scenarios": [
+      "S02",
+      "S04",
+      "S08"
+    ],
+    "models": "P01,P02,K09"
+  },
+  {
+    "id": "C03",
+    "title": "Possibility in hope",
+    "component": "I think: this can happen.",
+    "contrast": "I know that this cannot happen.",
+    "candidates": [
+      "바라다",
+      "원하다"
+    ],
+    "candidates_romanized": [
+      "palata",
+      "wenhata"
+    ],
+    "scenarios": [
+      "S07",
+      "S08"
+    ],
+    "models": "K09,F04"
+  },
+  {
+    "id": "C04",
+    "title": "Good for another person",
+    "component": "I want good things to happen to this someone.",
+    "contrast": "I do not care if bad things happen to this someone.",
+    "candidates": [
+      "사랑하다",
+      "아끼다",
+      "좋아하다"
+    ],
+    "candidates_romanized": [
+      "salanghata",
+      "akkita",
+      "cohahata"
+    ],
+    "scenarios": [
+      "S09",
+      "S10"
+    ],
+    "models": "K05,K07,K03"
+  },
+  {
+    "id": "C05",
+    "title": "Prior wanting",
+    "component": "I wanted something like this to happen.",
+    "contrast": "I had never wanted or thought about this before.",
+    "candidates": [
+      "기쁘다",
+      "기뻐하다",
+      "반갑다",
+      "흐뭇하다"
+    ],
+    "candidates_romanized": [
+      "kipputa",
+      "kippehata",
+      "pankapta",
+      "humushata"
+    ],
+    "scenarios": [
+      "S13",
+      "S14",
+      "S15",
+      "S24"
+    ],
+    "models": "K10,K11,K18,K19"
+  },
+  {
+    "id": "C06",
+    "title": "Unexpectedness",
+    "component": "I did not know before that this would happen.",
+    "contrast": "I had known for a long time that this would happen.",
+    "candidates": [
+      "기쁘다",
+      "기뻐하다"
+    ],
+    "candidates_romanized": [
+      "kipputa",
+      "kippehata"
+    ],
+    "scenarios": [
+      "S14",
+      "S15"
+    ],
+    "models": "K10,K11,E03"
+  },
+  {
+    "id": "C07",
+    "title": "Personal beneficiary",
+    "component": "Something good happened to me.",
+    "contrast": "Something good happened only to someone else.",
+    "candidates": [
+      "기쁘다",
+      "기뻐하다",
+      "흐뭇하다"
+    ],
+    "candidates_romanized": [
+      "kipputa",
+      "kippehata",
+      "humushata"
+    ],
+    "scenarios": [
+      "S13",
+      "S16"
+    ],
+    "models": "K10,K11,K19,J06"
+  },
+  {
+    "id": "C08",
+    "title": "Wanting nothing else",
+    "component": "I do not want anything else now.",
+    "contrast": "I also want other things now.",
+    "candidates": [
+      "만족하다",
+      "행복하다",
+      "흐뭇하다"
+    ],
+    "candidates_romanized": [
+      "mancokhata",
+      "hayngpokhata",
+      "humushata"
+    ],
+    "scenarios": [
+      "S17",
+      "S18",
+      "S21"
+    ],
+    "models": "K15,K16,K19"
+  },
+  {
+    "id": "C09",
+    "title": "Duration",
+    "component": "It has been like this for some time.",
+    "contrast": "It has been like this for only a few moments.",
+    "candidates": [
+      "행복하다",
+      "즐겁다",
+      "기쁘다"
+    ],
+    "candidates_romanized": [
+      "hayngpokhata",
+      "culkepta",
+      "kipputa"
+    ],
+    "scenarios": [
+      "S19",
+      "S20"
+    ],
+    "models": "K15,K12,K10"
+  },
+  {
+    "id": "C10",
+    "title": "Pleasure in satisfaction",
+    "component": "X feels something good about this.",
+    "contrast": "X thinks this is good enough, but feels no good feeling.",
+    "candidates": [
+      "만족하다",
+      "마음에 들다",
+      "흐뭇하다"
+    ],
+    "candidates_romanized": [
+      "mancokhata",
+      "maumey tulta",
+      "humushata"
+    ],
+    "scenarios": [
+      "S21"
+    ],
+    "models": "K16,K20,K19"
+  },
+  {
+    "id": "C11",
+    "title": "Prior wish to meet",
+    "component": "I wanted to see this someone before now.",
+    "contrast": "I had never thought about seeing this someone.",
+    "candidates": [
+      "반갑다"
+    ],
+    "candidates_romanized": [
+      "pankapta"
+    ],
+    "scenarios": [
+      "S22",
+      "S23"
+    ],
+    "models": "K17"
+  },
+  {
+    "id": "C12",
+    "title": "Protection in cherishing",
+    "component": "I do not want something bad to happen to Y.",
+    "contrast": "I do not care if something bad happens to Y.",
+    "candidates": [
+      "아끼다",
+      "사랑하다"
+    ],
+    "candidates_romanized": [
+      "akkita",
+      "salanghata"
+    ],
+    "scenarios": [
+      "S09",
+      "S27",
+      "S28"
+    ],
+    "models": "K07,K08,K05"
+  },
+  {
+    "id": "C13",
+    "title": "Current participation",
+    "component": "X is doing this now and feels something good.",
+    "contrast": "X often does this, but now feels bad while doing it.",
+    "candidates": [
+      "즐기다",
+      "좋아하다",
+      "즐겁다"
+    ],
+    "candidates_romanized": [
+      "culkita",
+      "cohahata",
+      "culkepta"
+    ],
+    "scenarios": [
+      "S03",
+      "S05",
+      "S06"
+    ],
+    "models": "K13,K14,K04,K12"
+  },
+  {
+    "id": "C14",
+    "title": "Expressed versus private feeling",
+    "component": "X feels something good inside.",
+    "contrast": "X does nothing that other people can see or hear because of it.",
+    "candidates": [
+      "기뻐하다",
+      "기쁘다",
+      "즐거워하다",
+      "즐겁다"
+    ],
+    "candidates_romanized": [
+      "kippehata",
+      "kipputa",
+      "culkewehata",
+      "culkepta"
+    ],
+    "scenarios": [
+      "S31",
+      "S32"
+    ],
+    "models": "K10,K11,K12,K21"
+  },
+  {
+    "id": "C15",
+    "title": "Good quality versus attraction",
+    "component": "I think this is good for doing something.",
+    "contrast": "I do not want this and feel nothing good towards it.",
+    "candidates": [
+      "좋다",
+      "좋아하다",
+      "마음에 들다"
+    ],
+    "candidates_romanized": [
+      "cohta",
+      "cohahata",
+      "maumey tulta"
+    ],
+    "scenarios": [
+      "S30"
+    ],
+    "models": "K01,K03,K20"
+  },
+  {
+    "id": "C16",
+    "title": "Prior experience",
+    "component": "When I do this / am with this, I often feel something good.",
+    "contrast": "I have never done this / been with this before.",
+    "candidates": [
+      "좋아하다",
+      "좋다",
+      "마음에 들다"
+    ],
+    "candidates_romanized": [
+      "cohahata",
+      "cohta",
+      "maumey tulta"
+    ],
+    "scenarios": [
+      "S05",
+      "S29"
+    ],
+    "models": "K01–K04,K20"
+  }
+]
