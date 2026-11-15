@@ -1,0 +1,365 @@
+{
+  "id": "https://openalex.org/W2506774006",
+  "doi": "https://doi.org/10.1515/9783110880168.35",
+  "title": "Testing emotional universals in Amharic",
+  "display_name": "Testing emotional universals in Amharic",
+  "publication_year": 2001,
+  "publication_date": "2001-12-31",
+  "ids": {
+    "openalex": "https://openalex.org/W2506774006",
+    "doi": "https://doi.org/10.1515/9783110880168.35",
+    "mag": "2506774006"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1515/9783110880168.35",
+    "doi": "https://doi.org/10.1515/9783110880168.35",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1515/9783110880168.35",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306476199",
+      "display_name": "Mouton eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/P4310321051",
+      "host_organization_name": "De Gruyter Mouton",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321051",
+        "https://openalex.org/P4310313990"
+      ],
+      "host_organization_lineage_names": [
+        "De Gruyter Mouton",
+        "De Gruyter"
+      ],
+      "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Emotions in Crosslinguistic Perspective",
+    "raw_type": "book-chapter"
+  },
+  "parent_works": [
+    {
+      "id": "https://openalex.org/W631434834",
+      "display_name": "Emotions in Crosslinguistic Perspective",
+      "relationship": "volume"
+    }
+  ],
+  "lineage": [
+    "https://openalex.org/W2506774006",
+    "https://openalex.org/W631434834"
+  ],
+  "child_works_count": 0,
+  "type": "book-chapter",
+  "is_traditional": true,
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5040105923",
+        "display_name": "Mengistu Amberber",
+        "orcid": null,
+        "observed_orcids": []
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Mengistu Amberber",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5040105923"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.8851,
+  "has_fulltext": false,
+  "cited_by_count": 114,
+  "citation_normalized_percentile": {
+    "value": 0.89161554,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 100
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "35",
+    "last_page": "68"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12694",
+    "display_name": "Categorization, perception, and language",
+    "score": 0.9375,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Categorization, perception, and language",
+      "score": 0.9375,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12658",
+      "display_name": "Language and Culture",
+      "score": 0.013399999588727951,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11454",
+      "display_name": "Cultural Differences and Values",
+      "score": 0.006399999838322401,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/amharic",
+      "display_name": "Amharic language",
+      "score": 0.7870000004768372
+    },
+    {
+      "id": "https://openalex.org/keywords/emotion-concepts",
+      "display_name": "emotion concepts",
+      "score": 0.5809999704360962
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-linguistic-comparison",
+      "display_name": "cross-linguistic comparison",
+      "score": 0.699999988079071
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistic-relativity",
+      "display_name": "linguistic relativity",
+      "score": 0.4970000088214874
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780900699",
+      "wikidata": "https://www.wikidata.org/wiki/Q28244",
+      "display_name": "Amharic",
+      "level": 2,
+      "score": 0.9878333806991577
+    },
+    {
+      "id": "https://openalex.org/C16592111",
+      "wikidata": "https://www.wikidata.org/wiki/Q6092032",
+      "display_name": "Problem of universals",
+      "level": 2,
+      "score": 0.7587002515792847
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.48395803570747375
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.315961629152298
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.2916737198829651
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1515/9783110880168.35",
+      "doi": "https://doi.org/10.1515/9783110880168.35",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1515/9783110880168.35",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306476199",
+        "display_name": "Mouton eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/P4310321051",
+        "host_organization_name": "De Gruyter Mouton",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321051",
+          "https://openalex.org/P4310313990"
+        ],
+        "host_organization_lineage_names": [
+          "De Gruyter Mouton",
+          "De Gruyter"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Emotions in Crosslinguistic Perspective",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W143556871",
+    "https://openalex.org/W7010088661",
+    "https://openalex.org/W7112463660",
+    "https://openalex.org/W601436225",
+    "https://openalex.org/W6999336617",
+    "https://openalex.org/W7025525643",
+    "https://openalex.org/W41244906",
+    "https://openalex.org/W1879413087",
+    "https://openalex.org/W2883191753",
+    "https://openalex.org/W6887793098"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 92
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-14T11:04:58.165337",
+  "created_date": "2016-08-23T00:00:00"
+}

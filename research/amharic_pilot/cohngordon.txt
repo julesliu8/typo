@@ -1,0 +1,958 @@
+PDF PAGE 1
+Object Markers Without Reference in Amharic
+Reuben Cohn-Gordon
+Abstract
+Amharic exhibits an unusual phenomenon - object marking on intransitive verbs - which
+triggers a number of seemingly disparate semantic eﬀects, unrelated to object marking. I
+characterize these eﬀects, and discuss the possibility of an underlying modal semantics which
+uniﬁes the majority of usages.
+1 Object Markers in Odd Places
+This paper aims to document and understand the behaviour of one of Amharic’s more idiosyncratic
+verbal constructions, in which a 3rd person object marker aﬃxes to an intransitive verb:
+(1) a. Context: A child left home with-
+out his father’s permission.
+b. y 1m¨ at’al
+c. y 1-
+fut.subj.3ms
+m¨ at’-
+return-
+al
+fut
+He will return.
+(2) a. y 1m¨ at’atal
+b. y 1-
+fut.subj.3ms
+m¨ at’-
+return
+at-
+obj.3fs
+al
+fut
+c. “He is going to return (and when
+he does, so help him!)”
+Amharic, like other Semitic languages (Arad 2006) exhibits a number of valency shifting operations.
+For example, templatic morphology can make verbs causative (m¨ amtat→ mamtat; eat→ feed).
+However, while the bolded morpheme in (2) is an object marker with respect to its morphological
+and phonological characteristics, appearing in the same part of intransitive verbs as object markers
+do on transitive verbs, there is no object to which it refers.
+(2) provides an example of the non-referential use of the morpheme at: it aﬃxes to an intransitive
+verb, and does not refer to any argument in the sentence. For this reason, we refer to such
+morphemes as Object Markers Without Reference (OMWR).
+OMWRs appear in conjunction with, and acts as indicators of, a variety of speech acts. The goal
+of this paper is to characterize the semantics and pragmatics of OMWR. We ﬁrst review the facts
+regarding the syntactic and morphological distribution of intransitive object marking (section 2.1),
+before discussing its semantics and the conditions in which it is used.
+2 The Data
+The data in this paper was obtained by elicitation with six native Amharic speakers, with ages
+ranging from 20 to 60, of which four were male and two female.
+1
+
+PDF PAGE 2
+Typically, Amharic object markers are inﬁxed to the matrix verb, and agree in number (singular,
+plural), person (1st, 2nd, 3rd) and gender (masculine or feminine) with the object to which they
+refer. Amharic gender is neither entirely grammatical nor entirely semantic (Kramer 2014b). It
+is indicated by the morphology of the deﬁnite determiner (masculine u and feminine wa). If a
+noun has a referent of unknown gender or is without natural gender then it takes a masculine
+determiner, except for a set of around 30 nouns which are default feminine. Otherwise, gender is
+determined semantically, by the nature of the referent.
+An example of Amharic object marking is as follows:
+(3) a. y 1m¨ atawal
+b. y 1-
+fut.subj.3ms
+m¨ at-
+hit
+aw-
+obj.3ms
+al
+fut
+c. “He will hit him.”
+(4) a. y 1m¨ atatal
+b. y 1-
+fut.subj.3ms
+m¨ at-
+hit
+at-
+obj.3fs
+al
+fut
+c. “He will hit her.”
+(Kramer 2011) notes:
+“Object markers are only licensed for deﬁnite and/or speciﬁc arguments, although the
+exact generalization here is still under investigation (Yabe 2001; see Haile 1970 again
+for relevant discussion). When present, it triggers a poorly-understood semantic eﬀect
+of focus or some kind of emphasis on the argument which it references (Haile 1970; see
+also Demeke 2003).”
+This semantic eﬀect of emphasis is typical of clitic doubling more generally (Guti´ errez-Rexach
+1999; Leonetti 2008), which is a likely candidate for the syntactic status of the Amharic object
+marker (Kramer 2011).
+By contrast to the standard use of object markers, the key feature of OMWR is the appearance of
+an object marker on an intransitive verb, where the object marker does not have a valency shifting
+eﬀect, and does not refer to any object, implicit or otherwise.
+2.1 The Distribution of OMWR
+We begin with a brief survey of the distribution of OMWR, prior to a discussion of its semantics
+in section (3). The most noteworthy restriction on OMWR is that the object marker must be 3rd
+person singular.
+3rd singular object markers of either grammatical gender (masculine or feminine) are used as
+OMWRs, as shown in (5) and (6), irrespective of the gender of the speaker or subject. However,
+the gender of the OMWR matters for the semantics of the construction, and it is not always the
+case that either is felicitous in a given context.
+(5) a. y 1z¨ ambawal
+b. y 1-
+fut.3ms
+z¨ amba-
+rain
+w-
+obj.3ms
+al
+fut
+c. “It’s raining a lot!”
+2
+
+PDF PAGE 3
+(6) a. y 1m¨ at’atal
+b. y 1-
+fut.subj.3ms
+m¨ at’-
+return
+at-
+obj.3fs
+al
+fut
+“He will return (and when he does...).”
+Beyond these restrictions, the distribution of OMWR allows for most tenses, voices and syntactic
+environments. The following cases exhibit some of this variety.
+Past tense:
+(7) a. met’at a
+b. met’
+came
+at
+her
+a
+exclamation
+c. “You’ve come back, I see.”
+Passive:
+(8) a. y 1mettatal
+b. y 1-
+fut.2nd.ms
+mett
+hit.passive
+at
+her
+al
+future
+c. You are going to get hit.
+Interrogative:
+(9) a. sak’at ad¨ al?
+b. sak’-
+laugh.past.subject.3ms
+at
+interrogative
+ad¨ al
+c. “He will laugh, right?”
+Negation:
+(10) a. athedat 1m
+b. at-
+neg
+hed-
+go.2ms
+at-
+obj.3fs
+1m
+neg
+c. “You are not going to leave.”
+Conditional:
+(11) a. t 1s1k’at ¨ ana y1gudZahal
+b. t 1-
+fut.subj.2ms
+s1k’-
+laugh
+at
+obj.3fs
+¨ ana
+and
+y1-
+fut
+gudZ-
+regret
+ah-
+obj.2ms
+al
+fut
+c. “If you laugh, you will be sorry.”
+d. (n.b. Amharic experience verbs, e.g. “regret”,“be warm” express the experiencer as an
+object - this is unrelated to OMWR.)
+3
+
+PDF PAGE 4
+OMWR can even occur with optionally transitive verbs, in conditions where agreement between
+the object marker and an object is impossible due to gender. For instance, in a context where one
+person has lost the computer charger of a friend, their friend could either say “tamatawale.” (“You
+will bring it”, masculine OMWR) or “tamatatale.” (“You will bring one.”, feminine OMWR).
+Since computer chargers are typically masculine in gender, using the masculine marker suggests
+that there is a deﬁnite charger - the one that was lost - that the friend must bring. However, using
+the feminine marker only suggests that some charger will be brought - the object marker is not in
+agreement with any deﬁnite object. This sort of indeﬁnite reference is possible in Amharic with
+no object marking at all, e.g. “tamatale” (“You will bring something.”).
+3 The Meaning of OMWR
+To our knowledge, the only previous documentation of OMWR is (Leslau 1995):
+“While normaly the object suﬃx pronouns are used with transitive verbs, they are also
+ocasionally used with intransitive verbs. They then express special emotions depending
+on the context.” (p420)
+This brief characterization of the semantics only mentions the possibility of using a masculine
+object marker, and is vague, not specifying who experiences the emotion. As we will show, it
+encompasses only a small part of the semantic eﬀects associated with the construction. We propose
+to analyze the phenomenon as being divided into two broad camps. One is a usage associated with
+both genders of OMWR; this usage presupposes some speaker oriented bouletic or epistemic non-
+optimality associated with the verbal event. The other is an intensive usage associated only with
+the masculine.
+OMWR occurs in (at least) the following speech acts, obtained from elicitation with native speakers
+- we survey these to give a sense of the contexts in which it appears:
+3.1 Feminine OMWR
+W arnings A typical use associated with the feminine OMWR is a warning speech act, where a
+ﬁgure of authority (often a parent or teacher) warns their interlocutor that an event will happen
+as the consequence of some action. The action which will lead to this event can either be left
+implicit or included with a conditional construction. We characterize warnings as requiring that
+the matrix verb be in the 2nd person (and thus addressed directly to the subject) and that the
+event in question be preventable. In such warning speech acts, OMWRs are judged to be felicitous
+but not obligatory.
+For instance, (12) could be issued in a context where a parent is warning their child that if they
+are not careful when playing, they will fall down and hurt themselves:
+(12) a. t 1wedgatale
+b. ti-
+subj.2ms
+wedg
+fall
+-at
+obj.3fs
+-ale
+fut
+c. “You’re going to fall.”
+With an explicit conditional antecedent, this becomes:
+(13) a. kalt¨ at¨ an¨ ak¨ ak’h t1w¨ adgatale
+4
+
+PDF PAGE 5
+b. k-
+if
+al-
+not
+t¨ at¨ an¨ ak’¨ ak’-
+be-careful
+h
+subj.2ms
+ti-
+subj.2ms
+w¨ adg
+fall
+-at
+obj.3fs
+-ale
+fut
+c. “If you’re not careful, you’ll fall.”
+The warning can also be embedding into the past, with the sense “The event happened, just like I
+warned.”. In such cases, it is understood that the speaker previously committed a warning speech
+act like (13):
+(14) a. y 1h1w w¨ add¨ akat
+b. y 1h1w
+exclam
+w¨ add¨ a-
+fall
+k
+subj.2ms
+-at
+obj.3fs
+c. “See, you fell (like I warned you)!”
+Dares Another speech act in which OMWRs may appear are dares. In particular, an Amharic
+construction used speciﬁcally for dares is “wend + [verb]”, translating literally to: “being a man,
+[verb].”. Feminine OMWR may, but need not, co-occur with this construction. For instance:
+(15) a. w¨ and t 1m¨ at’atale
+b. w¨ and
+man
+t1-
+fut.subj.3ms
+m¨ at’-
+return
+at
+obj.3fs
+-ale
+fut
+c. “If you’re a man, you will come over here.”
+d. Paraphrase: I dare you to come over here.
+The contexts in which such dare speech acts are made are ones in which the subject, on performing
+the speciﬁed action, incurs, or risks incurring, a negative outcome. For instance, one would not use
+this construction to “dare” someone to pass the butter at dinner. Thus (15) carries the implication
+that if the interlocutor does come over, there will be some consequence, e.g. starting a ﬁght with
+the speaker.
+Contention Another use of the feminine OMWR expressescontention on the part of the subject.
+For instance, (16) would be said to tease the subjects of the sentence, in a situation where they
+either didn’t want to kiss, or didn’t expect to.
+(16) a. tisasamalat Shu
+b. ti-
+fut.subj.2ms
+sasam-
+kiss.mutual
+al-
+fut
+at
+obj.3fs
+atShu
+subj.2p
+c. “You two are going to kiss.”
+It is worth noting that contention looks a lot like verum focus in languages like English, such as
+in (17), or indeed the English translation of (16).
+(17) I will buy the book!
+However, the feminine OMWR would not be used in many cases where verum focus would. For
+instance, (18) is infelicitous.
+(18) a. ? y 1z¨ ambatal
+5
+
+PDF PAGE 6
+b. y 1-
+fut.3ms
+z¨ amb-
+rain
+at-
+obj.3fs
+al
+fut
+c. “It is raining.”
+3.1.1 Masculine OMWR
+The masculine OMWR can be used in plain declaratives with an intensive meaning. This intensive
+eﬀect of OMWR arises only with the masculine 3rd person object marker, and was characterized
+as a modern colloquial usage by all our consultants. (19) is an example:
+(19) a. y 1z¨ ambawal
+b. y 1-
+fut.3ms
+z¨ amba-
+rain
+w-
+obj.3ms
+al
+fut
+c. “It’s raining a lot!”
+This intensiﬁcation was judged by some of the consultants to only be felicitous for verbs which
+would have allowed gradation by other means. For instance, one consultant ruled out the intensive
+use of the masculine OMWR for break, on the grounds that something cannot “break a lot”, but
+allowed it for the frequentative form of break (translated into English as “shatter”), with the
+meaning: “shatter completely”. Other consultants, however, judged the intensive to be felicitous
+in almost all cases, by coercing the event structure of the verb. For instance, “yimetawal” was
+taken to mean “He regularly/constantly leaves” (where “yimetal” means: “he leaves”).
+Exclamations (Leslau 1995) documents usages of the masculine OMWR which, in his words,
+convey anger or emotion. On further examination, it appears that utterances such as (20), supplied
+by Leslau, require a context in which the action violates some norm. For instance, two contexts
+suggested by consultants for (20) were 1) that the subject could be a waiter who was currently at
+work or 2) that the subject could be sitting down by a tree in order to escape the heat, but by a
+tree which provided little shade. In the ﬁrst context type, sitting down is non-optimal deontically,
+while in the second, it is non-optimal as a strategy.
+(20) a. hed ¨ ana tak’am¨ at¨ aw
+b. hed
+go.past.3ms
+¨ ana
+and
+ta-
+past.pass.3ms
+k’am¨ at-
+sat
+ew
+obj.3ms
+c. “He went and sat down!”
+Rhetorical Questions Rhetorical usages of the masculine OMWR are also documented in
+(Leslau 1995). These exclamations take the syntactic form of a question, but can be uttered
+rhetorically, by a speaker to themselves, and take place in situations where the speaker is high-
+lighting their frustration or confusion with an event.
+A particular particle associated with these is “m¨ anun”, which explicitly marks that a question
+is rhetorical. In particular, “m¨ anun” is used for rhetorical questions of the form “How/why P?”.
+Masculine OMWR may, but again need not, co-occur with the “m¨ anun” construction. The OMWR
+may occur on verbs with either animate or inanimate subjects:
+(21) a. s’ahay saynor l 1bsu m¨ anun d¨ ar¨ aq1w
+6
+
+PDF PAGE 7
+b. s’ahay
+sun
+saynor
+absent
+l1bs-
+clothing
+u
+the
+m¨ anun
+exclam
+d¨ ar¨ ak’1-
+dry.past.3ms
+w
+obj.3ms
+c. “How could the clothes dry when there is no sun?” (Amharic and English from Leslau
+1995)
+(22) a. digisu 1yale m¨ anun tengahut
+b. digis-
+party
+u
+the
+1yale
+exists
+m¨ anun
+exclam
+tengahu-
+sleep.past.subj.3ms
+t
+obj.3ms
+c. “How can I sleep when it’s so loud?” (Amharic and English from Leslau 1995)
+Wishes One syntactic construction associated with wishes is shown in (23):
+(23) a. b 1motk1w
+b. b 1-
+with
+motk-
+die.inf
+1w
+obj.3ms
+c. “May he die.” (Amharic and English from Leslau 1995)
+The wishes in which OMWR appears seem to be associated with outcomes that are not optimal
+from the perspective of the speaker. For this reason, masculine OMWR would not appear with
+(23) in a context where the subject’s death was the best possible outcome, from the speaker’s
+perspective.
+Though this may seem counterintuitive, there are situations in which one wishes for a non-optimal
+outcome. For instance, suppose there is a party that I don’t want to go to. I know that the most
+likely way for it to be canceled is for it to rain. But if it rains, the clothes I’m drying outside will
+get wet. In this situation, I could say: “I hope it rains.” even though the optimal outcome would
+be for it neither to rain nor for the party to go ahead. In this case, the wish is for an outcome
+which is non-optimal, but good enough and reasonably probable.
+My claim is that Amharic wishes with OMWR are made in precisely these situations. An illustra-
+tive example is (24):
+(24) a. b¨ at¨ am¨ atah1w
+b. b 1-
+with
+t¨ a-
+pass
+m¨ ata-
+hit
+h1-
+subj.2ms
+w
+obj.3ms
+c. “May you be hit.” (Amharic and English from Leslau 1995)
+The suggested context for this utterance was a parent referring to their child, who is misbehaving.
+The parent knows that the child will learn a lesson if they annoy another child enough to get hit,
+but doesn’t see this as optimal, assuming that their child being hit is not a desirable outcome for
+the parent.
+3.2 A Semantics for OMWR
+Can a semantics be given to the appearance of object markers on intransitive verbs (OMWR)
+which accounts for its distribution with respect to the cases discussed above? Furthermore, can
+this semantics account for the distribution of gender?
+7
+
+PDF PAGE 8
+I ﬁrst consider the intensive eﬀect of OMWR (which I term usage 1), which is speciﬁc to the
+masculine marker. On usage 1, the OMWR can be characterized as a modiﬁer applying to gradable
+events and intensifying them, much like English “a lot”.
+The intensive usage of the OMWR can be putatively related to the use of the masculine determiner
+suﬃx “w”, with which it is syncretic. In Amharic, this masculine determiner may be used as an
+augmentative.
+For instance, z1mbu connotes a large ﬂy while z1mbwa connotes a small one. This augmentation
+and diminution depends on the default gender of the noun in question. Thus, a noun which is
+default masculine is diminished with the feminine article, and a default feminine noun is augmented
+with the masculine.
+This nominal intensiﬁcation can also take place on the cognate objects of certain verbs. For
+instance, (25) can mean to laugh a loud laugh, as a result of the masculine deﬁnite object marker
+(which is not an OMWR) augmenting the cognate object of “laugh”.
+(25) a. y 1sak’¨ aw
+b. sak’
+laugh.PAST.3ms
+¨ aw
+obj.3ms
+c. “He laughed a loud laugh.”
+On the basis of the connection to nominal augmentation, we can draw the following hypothesis,
+(26), the veracity of which is left open for future work:
+(26) There exists a cross-categorial morpheme w which can intensify either nouns or events.
+Of the cases of OMWR reviewed above, the intensive eﬀect triggered by the masculine OMWR
+stands out as separate for several reasons:
+• It is exclusive to modern colloquial language
+• It appears to have a gradable semantics
+• It bears a clear relation to the deﬁnite determiner, to which it is syncretic
+As such, we propose to treat it separately (but see section 3.3 for a discussion of its relation to
+other uses of OMWR). Excepting usage 1, a property of the contexts in which OMWR is used is
+that the matrix verb represents an outcome which is in some way non-optimal. With this in mind,
+we posit that the distribution of OMWR in the speech acts we have surveyed is the result of an
+underlying semantics deﬁned in (27):
+(27) Usage 2: [[P+OMWR]] = [[P]], with the pragmatic presupposition of □M B,O¬(P), for a
+realistic modal base MB and a contextually determined ordering source O.
+In other words, OMWR (in usage 2) is a sentential operator which does not modify the proposi-
+tion P, but creates a presupposition that the sentence is not optimal according to some ordering of
+realistic possible worlds. As discussed below, □M B,O¬(P) projects over negation, and can be back-
+grounded without redundancy, suggesting that it is a presupposition rather than at-issue content
+or a conventional implicature (see Potts 2005). In particular, we treat it as a pragmatic presup-
+position; on hearing a sentence with OMWR, the listener accommodates to the presupposition by
+assuming a context which is consistent with it. As such, the role of the OMWR is to facilitate
+certain sorts of inferences about the speech act being made, as we shall see below.
+8
+
+PDF PAGE 9
+The question remains of how this ordering source is speciﬁed, which I propose relates to the gender
+of the OMWR, in the following way:
+(28) The ordering source is bouletic or epistemic. For the masculine OMWR, the ordering source
+is determined relative to the speaker, while for the feminine OMWR, the ordering source
+is determined relative to the subject of the sentence.
+That is to say, the masculine OMWR is used in cases where the proposition expressed by the
+sentence is not optimal relative to the speaker’s knowledge/desires/plans while the feminine is
+used when the proposition is not optimal relative to the subject’s knowledge/desires/plans.
+The semantics for OMWR proposed in (27) and (28) is unusual, in that is introduces a modal which
+is not explicitly present. As well as this, it leaves the ordering source contextually unspeciﬁed to
+a degree, between being epistemic or bouletic. It is worth remarking on the choice of □¬(P) as
+the presupposition triggered by an OMWR as opposed to ¬□(P), another way of encoding the
+notion of modal “non-optimality”. □¬ is strictly stronger than¬□, but this strength appears to be
+justiﬁed by cases involving a bouletic ordering source. In such cases,¬□(P) merely entails that the
+speaker (or subject, depending on the gender of the OMWR) is indiﬀerent to P, while □¬ entails
+that P is never true in a world consistent with the agent’s wishes. This second meaning seems
+to be right for OMWR; for instance, OMWR is used in dares and warnings, where the context
+requires that P is unwanted by the subject, and not merely that the agent is indiﬀerent.
+We now consider the evidence for (27) and (28), explaining why the proposed semantics for OMWRs
+explains its use in the speech acts discussed above, when the proposition and the context are
+jointly taken into account. In all the cases surveyed, the OMWR is not necessary to achieve the
+illocutionary act in question, but simply aids the listener in reaching the intended interpretation.
+W arnings A key premise of a warning is that the event being warned about will be non-optimal
+for the subject (and perhaps, but not necessarily, for the speaker), since otherwise the warning
+would not be necessary. For instance, if a parent warns a child to be careful lest they fall, falling
+must contextually be considered a bad outcome. It is worth noting here that falling may not itself
+be the non-optimal outcome, but may stand in a direct causal relation to something which is, e.g.
+hurting oneself.
+Conﬁrming this intuition in Amharic, consultants noted that warnings of this sort were infelicitous
+(as in English) when it was diﬃcult to construct a context in which the event was non-optimal for
+the subject, such as with the following:
+(29) a. ? t 1s1k’atale
+b. t 1-
+subj.2ms
+s1k’
+laugh
+-at
+obj.3fs
+-ale
+fut
+c. “You’re going to laugh”.
+As regards hypothesis (28), consultants noted that OMWRs on warnings were feminine. Pre-
+sented with the masculine OMWR in this context, consultants remarked that this seemed marked,
+owing to the superiority of the feminine in this context. This is consistent with (28), since the
+non-optimality always pertains at least to the subject, and hence the ordering source should be
+relativized to the subject.
+This raises the possibility that the masculine OMWR is indeterminate as to the agent which
+supplies the ordering source, and only the feminine speciﬁes that the subject is the supplier. On
+9
+
+PDF PAGE 10
+this account, using the masculine instead of the feminine would only be pragmatically infelicitous.
+This would derive from a process of Gricean reasoning on the assumption that cooperative speakers
+avoid ambiguity, and would therefore prefer the feminine in cases where it is more informative.
+This potentially accounts for consultants’ judgments that the masculine is possible but marked.
+However, ﬁnding a situation in which there is an independent reason why the feminine cannot be
+used, in order to test whether the masculine merely implies the speaker determines the ordering
+source, is diﬃcult.
+Under negation, we observe that the presuppositional content projects, as in (30):
+(30) a. athedat 1m
+b. at-hed-at-
+neg
+1m
+go obj.3fs neg
+c. Reading 1: “You will not go. (There will be a bad consequence if you go.)”
+d. Reading 2: “(Unless you do something) you will not go.”
+On reading 1, the negation scopes over the OMWR, so that we obtain ¬OMWR(P), and then the
+presupposition □¬(P) projects over the negation.
+This derivation raises the question of whether OMWR can scope over the negation (i.e. OMWR(¬(P))
+) - this seems plausible since both the OMWR and the negation are morphologically attached to
+the verb. Supporting this, there is a reading of “athedat 1m” which acts as a warning that if some
+implicit or explicit antecedent is not met, the subject will not go.
+This interpretation of “athedat 1m” can be explained with OMWR scoping over negation, as in
+OMWR(¬(P)). In this order, hypotheses (27) and (28) create a presupposition of □¬¬(P), which
+equals □(P). Assuming a bouletic ordering source in this context, presupposing that the subject
+wants to go is a very natural thing to do, since it is in precisely such a context that informing
+them that they will not (or will not unless some condition is fulﬁlled) is relevant.
+Note that if the presupposition had been ¬□(P), as discussed in (3.2), we would obtain in this
+case¬□¬(P)=⋄(P ), which with a bouletic ordering source would merely indicate the subject’s
+indiﬀerence.
+We also note that warnings can project out of questions, lending evidence to the claim that the
+modal meaning is presuppositional. For instance, (31) can be paraphrased as: “Have you fallen?”,
+with the context being that there was previously a warning that this would happen, as in (13):
+(31) a. w 1dd¨ akat ende
+b. w 1dd¨ a-
+fall.past
+k-
+obj.3fs
+at
+interog
+ende
+c. “Have you fallen, (like I warned would happen?)”
+In this case, the eﬀect of the OMWR is more than just to presuppose that the subject did not
+want, or did not expect to fall, but also to presuppose that the speaker previously warned them,
+or that it was in the common ground that the event of falling was likely.
+As evidenced for the cases of contention discussed below, encoding this information semantically
+into the presuppositional content in hypothesis (27) would narrow the scope of the proposed se-
+mantics too far. As such, we will restrict ourselves to a weaker claim, that given the presupposition
+encoded by the OMWR, the listener may infer from (31) not just that the speaker considers falling
+10
+
+PDF PAGE 11
+to be a bad outcome for the subject, but that a previous warning was issued. This leaves open the
+question of how (31) comes to indicate that a previous warning had taken place.
+In cases where the antecedent is made explicit, as in (13), the matrix verb of the antecedent
+may also have a feminine OMWR 1 (see (32)), which is reported to increase the strength of the
+illocutionary eﬀect. This is understandable, since contexts in which a consequence is unwanted
+entail that the antecedent should also be unwanted. For instance, if it is bad for me to fall, and
+lack of care leads to my falling, then it is bad for me not to be careful. Note that this requires the
+content □¬P to project out of the antecedent, as we would expect it to.
+(32) a. kalt¨ at¨ an¨ ak¨ ak’hat t1w¨ adgatale
+b. k-
+if
+al-
+not
+t¨ at¨ an¨ ak’¨ ak’-
+be-careful
+h
+obj.3ms
+-at
+subj.2ms
+ti-
+subj.2ms
+w¨ adg-
+fall
+-at
+obj.3ms
+ale
+fut
+c. “If you’re not careful, you’ll fall.”
+While we characterized warnings as being addressed to the subject of the matrix verb, similar 3rd
+person cases appear as well in Amharic, where the speaker is either speaking to themselves or a
+third person. An instance of such a warning is the original example of OMWR provided, repeated
+here as (33):
+(33) a. y 1m¨ at’atal
+b. y 1-
+fut.subj.3ms
+m¨ at’-
+return
+at-
+obj.3fs
+al
+fut
+‘He had better return.’
+c. Context: A child left home without his father’s permission.
+Though I categorize this as a warning, it is worth noting that it is not addressed to the person
+being warned, and in fact, (6) can be said to oneself.
+Here, the speaker uses OMWR to encode, in addition to their belief that the child will return,
+the presupposition that returning will be non-optimal for the child. This is appropriate given the
+context where the parent plans to punish the child on their return.
+Further evidence that □¬P is not at issue (but rather presupposed) is that responding “no” to
+claim like (33) does not target □¬P. For instance, if someone says (33), denying this is a denial of
+the claim that the subject will return, not a denial that it will be bad for them to return.
+Dares As discussed above, dares take place in contexts where the speaker wishes to communicate
+that if the subject performs the relevant action, the speaker will ensure a negative consequence
+for the subject. As such, the OMWR is a natural way to intensify the force of the dare, by
+presupposing the non-optimality of performing the action for the subject. However, we note that
+OMWR on its own does not trigger a dare - that is, other contextual factors must be in place that
+establish an utterance as a dare speech act, on top of which the OMWR can be used.
+For example, saying (34) creates a presupposition for the interlocutor that the act of their coming
+over will be bouletically non-optimal:
+(34) a. w¨ and t 1m¨ at’atale
+1Consultants’ judgements varied on whether conditionals could have an OMWR on the antecedent without
+having one on the consequent.
+11
+
+PDF PAGE 12
+b. w¨ and
+man
+t1-
+fut.subj.3ms
+m¨ at’-
+return
+at
+obj.3fs
+-ale
+fut
+c. “Since you’re a man, you will come over here.”
+d. Paraphrase: I dare you to come over here.
+On hypothesis (28), it is also natural that the OMWR should be feminine in dares, as indeed it
+is, since the speaker wishes to convey not that the act is non-optimal for him/herself, but rather
+than it is non-optimal for the subject.
+Contention In the cases of OMWR which we identify as exhibiting contention, such as (16), we
+observed that the subject either does not want, or does not expect, the event in question to take
+place. For instance, (16) suggests that the subjects do not want to kiss, or do not expect to.
+On the proposed semantics for OMWR, the presupposition triggered by the feminine OMWR is of
+epistemic or bouletic non-optimality for the subject. This explains why feminine OMWR can be
+used in situations where a speaker wants to express contention on the part of the subject, since not
+wanting, or not expecting to do something correspond to bouletic and epistemic non-optimality
+respectively. This provides an explanation for the infelicity of (18), where it is the interlocutor
+who considers rain unlikely, not the subject of the verb.
+Exclamations Exclamations in which the masculine OMWR appear require a context in which
+the event is non-optimal for the speaker. For instance, (37) would be infelicitous in contexts where
+the speaker was not surprised by the event.
+Accordingly, we ﬁnd that in situations where the event in question in expected, the use of the
+OMWR to eﬀect this meaning is not appropriate. For instance, we consider the following two
+scenarios:
+(35) John goes to a serious play and laughs during it.
+(36) John goes to a comedy show and laughs during it.
+We then consider the situation in which John’s friend says (37) about John, in reference to this
+event:
+(37) a. sak¨ aw
+b. “He laughed!”
+This is judged felicitous in the ﬁrst case, where laughing is inappropriate, but not the second,
+where one would think the subject would expect or want to laugh.
+In the case of exclamations, the presuppositional content can be backgrounded explicitly, without
+creating redundancy. For instance, (38), from (Leslau 1995):
+(38) a. addis ab¨ aba att 1hid s1nn1l¨ aw tass¨ ar ¨ anna arr¨ af¨ ew
+b. addis
+Addis
+ab¨ aba
+Ababa
+at
+neg
+-t1hid
+go.inf
+s1nn1l¨ a
+tell.subj.1ms
+-w
+obj.3ms
+tass¨ ar
+jail.pass.subj.3ms
+¨ anna
+and
+arr¨ af¨ e-
+did
+w
+obj.3ms
+c. “We told him not to go, but he went and landed himself in jail!”
+12
+
+PDF PAGE 13
+Rhetorical Questions As noted above, rhetorical questions, particularly those associated with
+“m¨ anun”, are uttered in contexts where the speaker considers the event in question to be bouleti-
+cally non-optimal from their perspective. For instance, in saying “Why dry the clothes, given that
+there’s no sun?”, the context of the rhetorical question must be that the speaker does not think
+that it is worth drying the clothes. Similarly in (22), sleeping is futile because of the noise. For
+this reason, the use of OMWR helps to clarify the illocutionary force of the rhetorical question.
+Note also that the content □¬P projects out of the question, another feature of presupposition.
+Wishes As observed above, the key feature of the wishes in which OMWR is used is that the
+event of the verb is in some way non-optimal for the speaker. For instance (as a further example
+to cases (23) and (24) ) consultants suggested a typical context for (39) 2 to be the following: a
+young person enters a room, and on seeing an older person stand up, utters (39).
+Consultants explained that the force of this utterance is to convey that the interlocutor should
+not have to stand. Since one would not have to give up one’s seat to a dead person, (39) conveys
+that the speaker considers worlds in which they themselves are dead (and thus the interlocutor
+remains sitting) to be preferable to worlds in which they are alive and the interlocutor stands. The
+hyperbolic nature of this utterance seems to be a mark of respect for the older interlocutor.
+(39) a. b 1motk -u -t
+b. b 1-
+with
+motk
+die.inf
+-u
+subj.1ms
+-t
+obj.3ms
+c. “May I die.”
+Given that this preference for dying over the interlocutor standing is the intended meaning of
+(39), what the OMWR adds is a further presupposition that worlds in which the speaker dies are
+considered non-optimal by the speaker. This adds force to (39): the speaker would rather die than
+have their interlocutor stand, and that’s true even though they would rather not die at all!
+3.2.1 The Status of the Content of OMWR
+The diagnosis of the meaning of OMWR as not at-issue seems secure, given its ability to project out
+of interrogatives as well as out of antecedents and negation. However, the possibility remains that
+it is expressive content (see Potts 2007) rather than a presupposition. One reason to consider this
+is repeatability, the potential to use OMWR on more than one verb in the sentence, in cases where
+an auxiliary construction is used for the matrix verb. For instance, (38), an example provided by
+(Leslau 1995) and modiﬁed below in (40) allows for an OMWR both on the light verb “arr¨ afe”
+(do) and on the content verb “tass¨ are” (be jailed).
+(40) a. addis ab¨ aba att 1hid s1nn1l¨ aw tass¨ ar1w ¨ anna arr¨ af¨ ew
+b. addis
+Addis
+ab¨ aba
+Ababa
+at
+neg
+-t1hid
+go.inf
+s1nn1l¨ a
+tell.subj.1ms
+-w
+obj.3ms
+tass¨ ar1-w
+jail.pass.subj.3ms
+¨ anna
+and
+arr¨ af¨ e-
+did
+w
+obj.3ms
+c. “We told him not to go, but he went and landed himself in jail!”
+2Note that in (39), the object marker is “t” rather than “w”: this is a result of a regular process in Amharic
+verbal morphophonology where the masculine 3rd person object marker /w/ becomes /t/ when proceeding /u/.
+13
+
+PDF PAGE 14
+This is identiﬁed by Potts (2007) as a typical feature of expressive content. Further investigating
+the type of non-at-issue meaning involved in OMWR is a task left for future work. Consultants
+noted that the repetition of OMWR had the eﬀect of strengthening the force of the utterance,
+comparable to how repetition of swears (e.g. “Why is your damn dog not on its damn leash?”)
+intensiﬁes their eﬀect.
+3.2.2 F urther Evidence for Hypothesis (28)
+Hypothesis (28) predicts that the female OMWR will be infelicitous when the subject of the verb
+is not animate. Note by contrast that this is not a prediction for the masculine OMWR.
+We see this prediction upheld in the distribution of feminine OMWR. For instance, (41) appears
+to be infelicitous, or requires anthropomorphization of the car:
+(41) a. ? kalt¨ ank’¨ asak’¨ ask m1kin1w y1g1ddjatal
+b. k-
+if
+al-
+neg
+t¨ ank’¨ asak’¨ as-
+move.
+k
+subj.2ms
+m1kin1-
+car
+w
+def.masc
+y1-
+subj.3ms
+g1ddj-
+hit.PASS
+at-
+obj.3fs
+al
+fut
+c. “If you don’t move, your car will be hit.”
+This is explained by hypothesis (28), since the feminine OMWR requires an animate subject
+according to which we can supply an ordering source. Meanwhile, the masculine OMWR can have
+an inanimate subject (see 21), since the ordering source depends on the speaker, who is always
+animate.
+Our theory also predicts that while (41) is infelicitous, modifying the sentence to “If you don’t
+move, you will be hit.” should be acceptable since the subject, now animate, can be used to specify
+the ordering source. This is indeed the case, as shown in (42):
+(42) a. ? kalt¨ ank’¨ asak’¨ ask t1g1ddjatale
+b. k-
+if
+al-
+neg
+t¨ ank’¨ asak’¨ as-
+move.
+k
+subj.2ms
+t1-
+subj.2ms
+g1ddj-
+hit.PASS
+at-
+obj.3fs
+ale
+fut
+c. “If you don’t move, you will be hit.”
+Similarly, our theory correctly predicts the infelicity of (43)
+(43) a. y 1z¨ ambatal
+b. y 1-
+fut.3ms
+z¨ amb-
+rain
+at-
+obj.3fs
+al
+fut
+(43) is infelicitous because the expletive subject of “rain”, a weather verb, cannot be used to supply
+an ordering source. By contrast, (5) is perfectly felicitous as an expression of surprise that it rained
+(or an intensive in usage 1).
+3.3 Speculative Diachrony of OMWR
+While the semantics proposed in (27) and (28) does well at explaining the distribution of uses of
+OMWR, the reason that a former object marker should have acquired this meaning is puzzling.
+Though no clear synchronic explanation is forthcoming, a speculative diachronic conjecture is that
+14
+
+PDF PAGE 15
+the object marker, which is most likely a doubled clitic (see Kramer 2014a) became (at least in
+certain dialects) reanalyzed as a sentential operator which operates on propositions.
+There are several reasons to think that this took place in the Gojjam dialect of Amharic. Firstly,
+this region was associated with heavy use of OMWR by all the Amharic speakers consulted (who
+were mainly from Addis Ababa). Secondly, there is evidence that the object marker morphemes
+are not category D, the category they inhabit according to the doubled clitic analysis of (Kramer
+2014a).
+Kramer notes that “when a DP is deﬁnite and contains a relative clause, the deﬁnite determiner
+attaches to the verb within the relative clause – see (44). However, if the verb within the relative
+clause has an object marker, there is no determiner.”. For instance:
+(44) a. y¨ an¨ agg¨ arat(#u) (Standard Amharic)
+b. y¨ a
+rel-clause
+-n¨ agg¨ ar
+tell
+-at
+her
+c. the one who told her
+As noted by (Kramer 2014a), only the object marker, and not the deﬁnite determiner, surfaces
+in relative clause DPs like (46). (Kramer 2014a) further notes that this is easily explained on
+the assumption that both the object marker and the determiner share category D, and on the
+secondary assumption that a morphological rule barring haplology deletes the second of two Ds.
+In Gojjam Amharic, it has been observed by (Leslau 1995) that the determiner and object marker
+can appear simultaneously, unlike the case of (44) discussed above. Following Kramer’s reason-
+ing, this suggests that object markers are no longer of the same syntactic category as deﬁnite
+determiners in Gojjam Amharic:
+(45) a. y¨ an¨ agg¨ aratu (Gojjam Amharic)
+b. y¨ a
+rel-clause
+-n¨ agg¨ ar
+tell
+-at
+her
+-u
+the
+c. the one who told her
+This reanalysis of the object marker, if indeed this is the case, may have been precipitated by
+reduced use of deﬁnite determiners on nouns in Gojjam Amharic. (Marcos 1973) notes that
+Gojjam Amharic uses an indirect object marker, namely ya (which in this dialect replaces the
+standard la) in place of both the direct object marker n and deﬁnite determiner. Marcos (1973)
+gives the following example:
+(46) a. y¨ abet l 1k¨ abbaw (Gojjam Amharic)
+b. y¨ a
+gen
+bet
+house
+l1k¨ abb
+infinitive
+aw
+paint it
+c. “that I may paint the house”
+To summarize, we conjecture, in the absence of conclusive evidence, that OMWR may have orig-
+inated in Gojjam, with the reanalysis of doubled clitics as verbal operators. The hypothesis is
+that once these morphemes no longer served the function of object marking, they were analyzed
+as having a semantic function (perhaps related to the cross-linguistically attested semantics of
+doubled clitics) and were generalized to intransitive verbs. For here, their use was adopted into
+dialects which still have doubled clitics, but exclusively on intransitive verbs where the doubled
+clitic interpretation is not available.
+15
+
+PDF PAGE 16
+4 Conclusions
+I have attempted to establish the following claims:
+• The inﬁxation of a 3rd person singular object marker of either gender on intransitive verbs
+does not transitivize the verb, but rather changes its semantics.
+• The semantics of OMWR can be divided into two cases:
+– Usage 1 (only masculine): Intensiﬁcation of gradable predicate
+– Usage 2: A presupposition of □(¬P ), when P is asserted in a sentence with a matrix
+verb with OMWR
+This phenomenon is noteworthy on account of the presence of a modal in the semantics which is
+both contextually ﬂexible in its ordering source and not expressed explicitly. As discussed in (3.3),
+the diachrony of OMWR, in relation to actual verbal object markers (analyzed as doubled clitics
+by Kramer 2014a) is unclear. Are the semantic eﬀects noted cross-linguistically for clitic doubling
+in any way related to the eﬀects of OMWR? Is OMWR in origin a dialectal variant, given that
+consultants associate heavy usage of OMWR (often without semantic content) with the Gojjam
+region of Ethiopia. These are questions left open for future work.
+References
+Arad, Maya (2006). Roots and patterns: Hebrew morpho-syntax . Vol. 63. Springer Science & Busi-
+ness Media.
+Guti´ errez-Rexach, Javier (1999). “The formal semantics of clitic doubling”. In:Journal of Seman-
+tics 16.4, pp. 315–380.
+Kramer, Ruth (2011). “Object markers are doubled clitics in Amharic”. In:
+— (2014a). “Clitic doubling or object agreement: the view from Amharic”. In: Natural Language
+& Linguistic Theory 32.2, pp. 593–634.
+— (2014b). “Gender in Amharic: A morphosyntactic approach to natural and grammatical gen-
+der”. In: Language Sciences 43, pp. 102–115.
+Leonetti, Manuel (2008). “Speciﬁcity in clitic doubling and in diﬀerential object marking”. In:
+Probus 20.1, pp. 33–66.
+Leslau, Wolf (1995). Reference grammar of Amharic . Otto Harrassowitz Verlag.
+Marcos, Habte Mariam (1973). “Regional variations in Amharic”. In: Journal of Ethiopian Studies
+11.2, pp. 113–129.
+Potts, Christopher (2005). The logic of conventional implicatures . 7. Oxford University Press on
+Demand.
+— (2007). “The expressive dimension”. In: Theoretical linguistics 33.2, pp. 165–198.
+16

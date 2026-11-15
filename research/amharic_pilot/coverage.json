@@ -1,0 +1,24 @@
+{
+  "total_records": 27,
+  "current_formal_scope": 19,
+  "background_or_excluded": 8,
+  "current_content_counts": {
+    "EVENT": 11,
+    "ENTITY": 8
+  },
+  "current_lexeme_counts": {
+    "fällägä": 5,
+    "wäddädä": 9,
+    "däss alä": 5
+  },
+  "final_nodes_assigned": 0,
+  "semantic_categories_nonexclusive": true,
+  "gaps": [
+    "HAPPY_ENTITY的外部普通实体刺激NP",
+    "afäqqärä的完整实体/事件NP句",
+    "LOVE_EVENT的独立高强度用法",
+    "显性体验者NP在däss alä中的标记",
+    "同词同义的名物化ACC/无标记交替条件",
+    "Amberber2001 pp38–68及其他Mouton目标分析正文"
+  ]
+}

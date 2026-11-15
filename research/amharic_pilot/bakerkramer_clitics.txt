@@ -1,0 +1,2451 @@
+PDF PAGE 1
+1 
+ 
+Doubled Clitics are Pronouns: Amharic Objects (and Beyond) 
+ 
+Mark Baker 
+Rutgers University 
+ 
+Ruth Kramer 
+Georgetown University 
+ 
+ 
+Abstract: Controversy and uncertainty have plagued the question of whether “object markers” (OMs) are 
+object pronouns cliticized to the verb or realizations of object agreement. Using data from Amharic, we 
+address this question from a new perspective. Specifically, we claim that Amharic OMs should be 
+analyzed as clitics because they are unable to double nominals that are quantified, anaphoric, or contain a 
+variable bound by a quantifier. These restrictions can be derived from familiar principles of grammar—
+the Weak Crossover condition and the Binding theory—if and only if the OM is taken to be a pronoun 
+(D) adjoined to v at LF. We then explain in terms of syntactic structure why these OMs can double even 
+nonreferential DPs in experiencer subject constructions, whereas they cannot double theme arguments in 
+unaccusatives or passives. Finally, we consider whether our analysis provides a diagnostic that 
+distinguishes pronominal clitics from agreement morphemes across languages. OMs in Greek, Bulgarian, 
+and Spanish seem to work broadly like Amharic, confirming that they are pronominal clitics. In contrast, 
+OMs in Burushaski and Sambaa behave like agreement, even though certain other putative diagnostics 
+suggest they might be clitics. We thus confirm that both object clitics and object agreement exist. 
+ 
+Keywords: Amharic, clitic doubling, object agreement, weak crossover, clitics, pronouns 
+ 
+ 
+1. Introduction: Agreement vs. Clitic Doubling 
+ 
+It is an awkward fact that generative linguistics has had a hard time distinguishing reliably between pure 
+agreement and clitic doubling (CD). Conceptually, the two analyses are often very different, one focusing 
+on the process of Agree, and the other on the distinct process of Move as the principal explanatory engine 
+(although hybrid analyses also exist). It is troubling, then, that there has been little consensus as to what 
+data will tell us which analysis is correct for a given construction in a given language.  
+ As one case in point, consider the paradigm in (1) from Amharic, a Semitic language spoken in 
+Ethiopia. (1)a shows an ordinary transitive clause, with the object as a separate phrase before the verb 
+(Amharic is a rather uniform head final language, with the apparent exception of Ps; see Baker and 
+Kramer 2014). In contrast, (1)b is the way to express a weak, unstressed pronoun as object in Amharic. 
+Here the morpheme /w/ ‘it’/‘him’ comes after the verb ‘see’, and forms a phonological unit with it. As a 
+point of terminology, we call elements like /w/ in (1)b object markers (OMs, a term taken from Bantu 
+linguistics), to use a neutral term that does not prejudge whether it is agreement or a clitic pronoun.  
+Finally, (1)c has both an overt DP object before the verb and an OM attached to the verb which matches it 
+in person-number-gender features.1 
+ 
+                                                           
+1 Gloss abbreviations follow the Leipzig Glossing Rules with the following additions: 1 –Noun Class 1 in Bantu, 2 – 
+Noun Class 2 in Bantu, 7 – Noun Class 7 in Bantu, CP – conjunctive participle, DJ – disjoint, FV – final vowel, GER – 
+gerund, NPRS – nonpresent, NPST – nonpast, .O – object marker, PREV – preverb, .S – subject agreement, X – a gender 
+in Burushaski, Y – a gender in Burushaski. 
+
+PDF PAGE 2
+2 
+ 
+(1) a. Lämma       wɨʃʃa-w-ɨn          ayy-ä. 
+    Lemma.M   dog-DEF.M-ACC  see.PFV-3MSG.S 
+     ‘Lemma saw the dog.’ 
+ 
+b. Lämma       ayy-ä-w. 
+     Lemma.M  see.PFV-3MSG.S-3MSG.O 
+      ‘Lemma saw it/him.’ 
+ 
+c. Lämma       wɨʃʃa-w-ɨn           ayy-ä-w. 
+    Lemma.M   dog-DEF.M-ACC   see.PFV-3MSG.S-3MSG.O 
+     ‘Lemma saw the dog.’2 
+ 
+The question thus arises whether the OM has the status of an agreement marker, and (1b) is related to (1c) 
+as an instance of pro-drop, or whether the OM has the status of a cliticized pronoun, and (1c) is related to 
+(1b) as an instance of clitic doubling—or indeed whether the two analyses converge, such that this is a 
+distinction without a difference.  Similar issues arise in many other more-studied languages, including the 
+Romance languages, some Slavic languages, Greek, and various Bantu languages, to name just a few. 
+ Often this question is decided by looking at a range of semi-traditional diagnostics, as in previous 
+work by one of the authors on Amharic (Kramer 2014). In Kramer 2014, it is shown that OMs in Amharic 
+consistently behave like clitics for many of the diagnostics that have been widely used in the literature 
+(see also Mullen 1986 and Yabe 2001). However, many of these diagnostics are not so well-understood, 
+in the sense that we do not know why they hold, so we do not know how reliable they are. This becomes 
+crucial when we want to apply the tests typologically to other languages, where the diagnostics may not 
+all point to the same result. Which diagnostics should we trust in such conflicts? 
+ With this issue in mind, we want to consider a class of data that has not been explained in the 
+previous literature on Amharic OMs. (2) shows that there is a range of DPs that can function as direct 
+objects in Amharic which cannot be doubled by an OM. These are what we may informally think of as 
+“less than fully referential” nominals—a class that includes nonspecific indefinite NPs ((2)a), 
+interrogative DPs ((2)b), universally quantified DPs ((2)c), and reflexive anaphors ((2)d), among others.  
+ 
+(2) a. Lämma        wɨʃʃa       y-ay-all.                     (*y-ay-äw-all)  
+ Lemma.M    dog.M     3MSG.S-see.IPFV-AUX.3MSG.S     3MSG.S-see.IPFV-3MSG.O-AUX.3MSG.S 
+ ‘Lemma sees a dog.’  
+ 
+b. Mann-ɨn        ayy-ɨʃ ?  (*ayy-ɨʃ-ɨw)   
+ who.M-ACC   see.PFV-2FSG.S           see.PFV-2FSG.S-3MSG.O 
+  ‘Who did you (feminine) see?’   
+ 
+c. Lämma   hullu-n-ɨmm       säw         ayy-ä.      (*ayy-ä-w) 
+  Lemma.M  every-ACC-FOC   person     see.PFV-3MSG.S               see.PFV-3MSG.S-3MSG.O   
+  ‘Lemma saw everyone.’ 
+ 
+d. Lämma       ras-u-n      gäddäl-ä.            (*gäddäl-ä-w)   
+  Lemma.M   self-his-ACC    kill.PFV-3MSG.S        kill.PFV-3MSG.S-3MSG.O 
+  ‘Lemma killed himself.’   
+ 
+                                                           
+2 All data without a citation is from the fieldnotes of one (or more) of the authors.  Each Amharic observatio n was 
+checked with at least two of the six speakers identified in the acknowledgements. To the best of our knowledge, all 
+our consultants speak the standard dialect of Amharic as described in, e.g., Leslau 1995. 
+
+PDF PAGE 3
+3 
+ 
+That some such restrictions exist in some languages is, of course, well-known, especially for 
+definiteness/specificity effect in (1)c vs.(2)a, but we believe that the broader contours of the phenomenon 
+have not been accurately identified, and that the significance of (2b-d) has not been properly interpreted. 
+We claim that these examples are quite mysterious from a pure Agree perspective, whereas they can be 
+explained in terms of familiar grammatical conditions if we adopt a clitic doubling analysis, in which the 
+OM is taken to be intrinsically pronominal. Our central claim is that the OM is a D(P) merged into the 
+structure at the vP level, and as a D(P) it itself is interpreted as a pronoun at LF, distinct from the doubled 
+DP. Once we make this assumption, the badness of (2)b and (2)c follows as weak crossover violations, 
+and the badness of (2)d follows as a kind of violation of Condition B of the Binding theory. We conclude 
+from this that there is real explanatory force to saying that Amharic OM are pronominal clitics, not mere 
+agreement markers (or indeed clitics that have phi-features but do not count as pronouns).3 
+ Our discussion develops in the following stages. In section 2, we briefly discuss why existing 
+theory can account for the badness of examples like (2a) but not examples like (2b-d), so that there is 
+something new to learn here. Then in section 3, we lay out and motivate our basic assumptions about the 
+structure of the clauses in (1) and (2). In section 4, we investigate how the Crossover condition applies to 
+such structures to derive the badness of examples like (2b) and (2c). As an extension, we also consider the 
+fact that OMs can double quantified DPs in a certain kind of experiencer construction in Amharic, a 
+difference that we can explain in terms of structure, without stipulating that some OMs are pronominal 
+and others are not.  Then, in section 5, we investigate how Binding theory applies to the structures in 
+question to explain why examples like (2d) are bad as violations of Condition B. This also includes an 
+explanation of why OMs can double putative subjects in experiencer subject constructions, but not in 
+unaccusative and passive constructions, thereby completing our analysis of Amharic OMs. 
+ Finally, section 6 reflects on the possible typological implications of our analysis. Although our 
+primary object of study here is Amharic, inasmuch as we appeal to universal principles of grammar—
+Agree, Crossover, and Binding theory—we naturally expect similar effects to hold in other languages that 
+have similar structures, all things being equal. If so, we might have a principled new way to distinguish 
+pronominal clitics from “mere” agreement. We give preliminary data that suggests that, despite well-
+known variation with regard to specificity, animacy, and obligatoriness, clitic doubling languages may be 
+quite similar when it comes to the data that is crucial here. In particular, well-studied CD languages like 
+Greek, Spanish, and Bulgarian are like Amharic in the relevant respects. In contrast, (2)-like restrictions 
+apparently do not hold in certain Bantu languages, like Sambaa, or in Burushaski; these then are 
+languages with true object agreement, even though other, more surfacy criteria suggests that their OMs 
+might be clitics. If sharp contrasts like these hold up under further investigation, then we have a better-
+understood diagnostic that gets directly at the essential conceptual difference between clitic-doubling and 
+agreement—that doubling clitics are pronouns, whereas agreement markers are not. 
+ 
+2. Why there is something to be gained 
+ 
+The prima facie importance of examples like (2) is that there is no obvious reason why they should be bad 
+if OMs in Amharic are just manifestations of simple object agreement. More specifically, it should be 
+possible for v (or the equivalent) to agree with the object in such examples. One cannot, for example, say 
+that these objects fail to participate in Agree because they lack the relevant features, since the DPs in 
+question clearly do have phi-features. Indeed, such nominals participate perfectly well in Agree 
+                                                           
+3 We acknowledge, however, that there might be other senses of clitic doubling in which the doubling clitic is not a 
+pronominal clitic. For example, there might be two morphemes that realize phi-features on the verb and are 
+compatible with every kind of DP, but one is more tightly bonded to the verb for phonological purposes, or one is 
+more mobile than the other in word/morpheme order (see Coon 2017 for a case in point in Mayan languages). Then 
+it might make sense to say the more tightly bonded one is an affix and the less tightly bonded one a clitic, but not a 
+pronominal clitic. One might tentatively think of any such nonpronominal clitics as functional heads that undergo 
+Agree but then attach to the verb by cliticization at PF rather than by any syntactic process.  
+
+PDF PAGE 4
+4 
+ 
+relationships when they appear in subject position, where they trigger subject agreement on the verb. This 
+can be seen for the universal quantifier and for a non-d-linked wh-phrase in (3).4 
+ 
+(3) a. Hullu-mm   set           mät’t’-atʃtʃ.  
+ every-FOC   woman.F     come.PFV-3FSG.S 
+ ‘Every woman came.’5 
+ 
+ b. Man  mät’t’-a?  
+ who.M  come.PFV-3MSG.S 
+ ‘Who came?’ (Leslau 1995:68) 
+ 
+Why then should object agreement be any different from subject agreement in this respect? 
+It has, of course, been thought for a long time that some instances of agreement—especially 
+object agreement, it seems—come along with semantic consequences or restrictions. This has not been 
+taken to be fatal to an agreement-based account. Thus, it is often said that the verb agrees with the object 
+only if it is “specific”, where some authors are more explicit than others what they mean by this. For 
+example, it has been suggested that [+specific] may be another feature that can be present on nominals 
+and involved in agreement (see Suñer 1988 and Sportiche 1996:264 on Romance; Franks and King 2000 
+on Slavic, among others.). As a placeholder for a future account, we have no problem with this, but as an 
+official theory we consider it unpromising. First, specificity is primarily a semantic or pragmatic notion, 
+not a morphosyntactic feature; indeed it does not seem to be common for languages to mark this feature 
+systematically on nominals themselves (e.g., a book is ambiguous between specific and nonspecific 
+readings in English), whereas the core phi-features involved in agreement, like person, number, and 
+gender, are often (although not universally) marked on the DP itself. Second, although a specificity 
+condition might rule out (2)ab it is not clear that it would extend to (2)cd without rendering the term 
+“specificity” vacuous. Third, along these lines it is far from obvious why specificity should matter for 
+object agreement in Amharic (and many other languages), but not for subject agreement. 
+ A more promising agreement theory that is responsive to some of these concerns is one that 
+makes a connection with object shift. This involves linking up two ideas: the idea that the direct object is 
+interpreted as specific if it moves out of VP to land in a position in the vicinity of Spec vP, and the idea 
+that only if the object moves to such a position can venter into Agree with it. For example, Baker 
+(2008:198-200) argues for such a view for certain Bantu languages, and Baker (2012a) applies it to 
+Amharic. This seems promising because the first idea is independently motivated by studies of object 
+shift in Germanic languages in the tradition of Diesing (1992). Thus, the visible correlation between a 
+DP’s position and its interpretation in (4)a and (4)b in Dutch seems attractively similar to the correlation 
+between OM-doubling and interpretation between (1)a and (2)a in Amharic (see Sportiche 1996: sec 7 for 
+an early connection between clitic doubling and object shift/scrambling). 
+ 
+(4) a. … dat Jan mijn huis waarschijnlijk zal  kopen. 
+ that Jan my house probably will  buy. 
+ ‘that Jan will probably buy my house’ (Broekhuis 2008:218) 
+ 
+b. … dat Jan waarschijnlijk een huis zal kopen. 
+ that Jan probably a house will buy. 
+ ‘that Jan will probably buy a house’ (Broekhuis 2008:218) 
+ (Bad is: *… een huis waarschijnlijk zal kopen) 
+ 
+                                                           
+4 We cannot, however, show this for a reflexive anaphor like ras-u: it cannot be used as a subject because it would 
+have no possible antecedent in the local clause when it is in that position (Condition A). 
+5 Some speakers prefer the form hullu-wa-mm ‘every-DEF.F-FOC’ for feminine nouns.  
+
+PDF PAGE 5
+5 
+ 
+So this view is better grounded theoretically than an unadorned Agree account.6  Indeed, we tentatively 
+accept this idea for the specificity effect in (2a), narrowly construed. But on a closer look we discover that 
+the account is at best incomplete, in that it does not carry over to examples with universal quantifiers like 
+(2)c, or examples with reflexive anaphors like (2)d. The reason is simply because analogous DPs can 
+undergo object shift in languages like Dutch and Icelandic. (5) shows that it is possible to object-shift a 
+universal quantifier in Icelandic (with two possible landing sites, both above the VP-adverb oft); and (5b) 
+that it is possible to object-shift a reflexive anaphor. (6) shows that the same is true in Dutch.   
+ 
+(5) a. Sámur  leigði  {hverja spólu}  eflaust         {hverja spólu} oft.   Icelandic 
+    Sam     rented  {each   tape}    doubtlessly  {each   tape}   often. 
+    ‘Sam probably rented each video tape often.’   (G. Harðarson, p.c.) 
+  
+b.  Sámur  gagnrýndi   sjálfan    sig       eflaust          oft                  
+       Sam     criticized    self         REFL    doubtlessly often  
+  ‘Sam probably criticized himself often.’ (G. Harðarson, p.c.) 
+ 
+(6) a.  …dat Jan alle boeken vaak meeneemt.    Dutch 
+       that Jan all books often takes.along  
+  ‘… that each book is such that Jan often takes it along with him.’ (Broekhuis 2008:222) 
+ 
+b. ... dat  Hans zichzelf  waarschijnlijk      heeft  bekritiseerd   
+ … that Hans himself   probably      has  criticized 
+ ‘…that Hans has probably criticized himself.’ (Broekhuis, p.c.) 
+ 
+Therefore, one cannot explain the badness of OMs doubling DPs like these simply by saying that they 
+cannot undergo object shift, so they are not in the right place to be agreed with. Rather there must be an 
+additional condition that rules out such examples in a language like Amharic, which has OMs in addition 
+to object shift—one that does not apply in languages like Dutch and Icelandic with object shift only. An 
+Agree-based account is incomplete in this respect, and there is room for a CD account to do better. 
+ However, we do not think that clitic doubling accounts have been very clear about exactly what is 
+wrong with examples like (2b-d) either. We doubt we are the first to think that there is some connection 
+between being a pronominal clitic and being incompatible with quantifiers and anaphors, but this has 
+rarely if ever been developed in detail.7  We proceed to undertake this, deriving the badness from the 
+syntactic configuration plus the assumption that the clitics are pronouns, and count as such for UG 
+principles that govern the interpretation of pronouns, namely the Crossover condition and Binding theory. 
+ 
+ 
+3. Basics of the clitic doubling construction 
+ 
+3.1 Structural characteristics 
+ 
+To begin with, then, we need a decent handle on the structure of the relevant sentences. On this matter, 
+we try to be uncontroversial in the sense of only assuming as much as we need about the structure to 
+make our account work, leaving the finer-grained details somewhat open. 
+                                                           
+6 However, developing such an approach still poses some nontrivial issues for the theory of Agree, in that one needs 
+to say why v cannot agree with DP unless DP moves out of VP, given that it is normally assumed to be possible for v 
+to agree into VP. (For Baker (2008), this motivates saying that Agree must be strictly upward in certain languages.) 
+7 One clear precedent (and inspiration) for our analysis is Rizzi’s (1986) proposal about why quantified nominals 
+cannot undergo CLLD in Italian and French. However, the restrictions on CLLD and on true clitic doubling are 
+similar in some respects, but not identical (see fn 8 for some discussion). 
+
+PDF PAGE 6
+6 
+ 
+ In short, we assume that the structures in questions have the following crucial characteristics: 
+ 
+(7) In a clitic doubling configuration: 
+a.  The clitic is a weak pronoun: tentatively a D head with phi features but no NP complement.   
+b. The clitic is adjoined to v or a nearby verbal head in the middle region of the clause (above VP 
+but below the subject). 
+c. The object that D doubles is low in the structure, in or near VP, inside the domain of v. 
+ 
+In particular, it is not crucial exactly where the doubled DP is inside the greater VP-domain, nor exactly 
+where the clitic is in the middle field of the clause.8 We also leave open for current purposes exactly how 
+the structure is formed, including how the clitic may have arrived in the vicinity of v.  One possibility is 
+that it is simply base generated there, a possibility arising from the free Merge of linguistic elements, not 
+ruled out by any parametric properties of Amharic. (Sportiche’s (1996) Clitic phrase hypothesis would be 
+a version of this possibility.)  
+ Another possibility is that the clitic gets to v by some kind of movement.  Here there are several 
+sub-possibilities. One familiar one is that the clitic is generated inside the object DP and moves out of that 
+DP to adjoin to v (sometimes called the “big DP hypothesis”; see Uriagereka 1995, who attributes the idea 
+to Esther Torrego), a semi-conventional type of head movement.  Another variant would be that the DP in 
+object position moves to Spec vP as a whole, but then a special process of m-merger applies, reducing this 
+higher copy of DP to its D head and adjoining it to v, as in Matushansky’s (2006) reconstruction of head 
+movement (see also Harizanov 2014 and Kramer 2014 for the use of m-merger to give CD). Along these 
+lines, though, we would have to make the nonstandard assumption that m-merger happens in the narrow 
+syntax—or that PF feeds LF—so that the structure it derives is interpreted at LF. However, the details of 
+how the configuration described in (7) comes about are not crucial for our central point here. What is 
+crucial is that the clitic is interpreted as a pronoun at LF and/or the interface with the semantic system 
+(where Crossover and the Binding theory presumably apply), and for that where the clitic is relative to 
+other elements is more important than how it got there. 
+ That the configuration described in (7) exists is perhaps a little more obvious in certain Bantu 
+languages like Haya than in Amharic, because Haya has Specifier-Head-Complement word order.  This 
+language has triples like (8), superficially analogous to (1) in Amharic apart from matters of 
+morpheme/word order. 
+ 
+(8) a. Y-a-bona   Kato kileki.  (Riedel 2009: 71) 
+ 1.S-PST.1.CJ -see      1Kato today 
+  ‘He saw Kato today.’ 
+ 
+b. Y-áá-mu-kôm-a.    (Riedel 2009: 67) 
+  1.S-PST.1.DJ-1.O-tie-FV 
+  ‘He tied him.’ 
+ 
+c. Y-aa-mu-bona Kato kileki.  (Riedel 2009: 71) 
+  1.S-PST.1.DJ-1.O-see 1Kato today 
+  ‘He saw Kato today.’ 
+                                                           
+8 In the larger picture, there are also structures to consider in which the doubled DP is higher than the clitic attached 
+to v: these are, broadly speaking, Clitic Dislocation (CLLD) structures as opposed to clitic doubling (CD) structures.  
+Some languages only have the former, not the latter, including standard Italian and French.  CLLD structures obey 
+some of the same constraints as CD structures, possibly including some of those discussed here, given that the clitic 
+is intrinsically pronominal in CLLD too. But there are also subtle but important differences between CL and CLLD 
+known for languages like Greek (Anagnostopoulou 1994).  We have not looked for these differences in Amharic 
+(e.g., systematically comparing Oi S  V+cli  to S Oi V+cli), leaving CLLD for possible future work. 
+
+PDF PAGE 7
+7 
+ 
+ 
+The fact that the OM mu here comes before the main verb bona but after the tense morpheme aa fits well 
+with the fact that it is attached to v, hence before V (or V in v) but after the realization of T. The fact that 
+the visible object Kato in (8c) comes after the verb but before the time adverb fits well with the idea that 
+it is still in situ inside VP (or perhaps adjoined to VP or some low projection), not dislocated to the left or 
+right periphery; see Riedel (2009: 70-73) for further evidence of this from details of word order.9  Similar 
+structures have been proposed many times for clitic doubling in Romance, Slavic, and Greek languages, 
+except that D in these languages seems to attach to a higher head, roughly T as opposed to v. So (7) 
+describes a possible UG structure, one that we would not be surprised for Amharic to have too. 
+ And the available evidence suggests that Amharic does have this structure, apart from differences 
+in order. Indeed, in Amharic it is more obvious that the OM is adjoined to v, rather than simply being in 
+Spec vP, which is expected to be to the left of VP, since in Amharic the OM shows up at/near the end of 
+the clause, encliticized to the verb. We expect phonologically weak functional elements like bare D heads 
+to be attracted to some stronger element that can host them phonologically, such as the verb (or the 
+second position, in other languages). The evidence that the clitic is adjoined to v, as opposed to a much 
+higher functional head, comes from complex tenses consisting of a main verb and an auxiliary verb. In 
+such constructions, the OM encliticizes to the main verb, coming between the main verb and the 
+auxiliary, just like (in mirror order to) Haya and other Bantu languages.  It does not come after the 
+auxiliary, as one might expect if it just appeared at the end of the clause in a structure-insensitive way. 
+ 
+(9) Lämma      wɨʃʃa-w-ɨn   y-ay-äw-all. 
+Lemma.M   dog-DEF.M-ACC  3MSG.S-see.IPFV-3MSG.O-AUX.3MSG.S 
+‘Lemma sees the dog.’ 
+ 
+ The other important aspect of the characterization in (7) is that the object DP (‘the dog’ in (9)) is 
+low in the structure, within the domain of the head that the D clitic adjoins to. Prima facie, the fact that 
+the object appears after the subject and before the verb in the most neutral order, even when doubled by 
+an OM, suggests that it is neither Left- nor Right- dislocated. However, this is not beyond doubt: Eilam 
+(2009) claims that all doubled objects in Amharic are clitic left dislocated, similar to French and Italian. 
+We disagree with this for several reasons. First, an SOV sentence with an OM like (1c) can be 
+pronounced with what is impressionistically the same smooth intonation contour as an SOV sentence 
+without an OM like (1a); there is no prosodic break, as exists between a left-dislocated DP and the rest of 
+the clause in Indo-European languages. Second, full DPs doubled by an OM can also follow adverbs, 
+even adverbs that are considered very low in Cinque’s (1999) hierarchy, as seen in (10).  
+ 
+(10) a. Lämma       ahunɨmm wɨʃʃa-w-ɨn  y-ay-äw-all. 
+ Lemma.M   still dog-DEF.M-ACC 3MSG.S-see.IPFV-3MSG.O-AUX.3MSG.S 
+ ‘Lemma still sees the dog.’ 
+ 
+b. Gäna wɨʃʃa-w-ɨn al-ayy-ä-w-ɨmm. 
+ yet dog-DEF.M-ACC NEG-see.PFV-3MSG.S-3MSG.O-FOC 
+ ‘He has not seen the dog yet.’ 
+ 
+ Third, objects doubled by OMs necessarily have the case that they should have if they are in the 
+same in-situ position as undoubled OMs.  This should not be taken for granted, since obviously dislocated 
+DPs in Amharic do not necessarily display case connectivity.  It is possible to have orders like [Object, 
+                                                           
+9 In contrast, disjoint/conjoint marking in Haya and phrasal phonology have been taken as providing evidence that 
+the doubled object is not in VP in Haya.  See Riedel (2009:67-73) for reasons to trust the word order evidence rather 
+than the phonological evidence in this case. 
+
+PDF PAGE 8
+8 
+ 
+Subject, Verb-OM] where the object dislocated/adjoined to clause initial position has default (unmarked) 
+nominative case, rather than accusative case. An example is given in (11). 
+ 
+(11) Almaz ɨbab näkkäs-at.    (Also OK: Almaz-ɨn…) 
+Almaz snake bite.PFV(3MSG.S)-3FSG.O10            Almaz-ACC 
+‘A snake bit Almaz; As for Almaz, a snake bit her.’ 
+ 
+This suggests that accusative case is strictly assigned to the position inside VP, and an adjoined DP that 
+binds that position may or may not inherit its case. But this sort of case mismatch does not occur with 
+simple CD: a clitic-doubled direct object in SOV order must have accusative case, as seen in (12). 
+ 
+(12) ɨbab Almaz-ɨn/*Almaz näkkäs-at.11 
+snake Almaz-ACC/Almaz bite.PFV(3MSG.S)-3FSG.O 
+‘A snake bit Almaz; As for Almaz, a snake bit her.’ 
+ 
+This follows if Almaz is not dislocated from the position that is directly associated with accusative case in 
+(12) the way it is in (11) (see Harizanov 2014: 1045-1047 for a similar argument from Bulgarian).   
+ Fourth, for what it is worth, it is possible to relativize a possessor from within a clitic-doubled 
+DP, just as it is from an undoubled object, as shown in (13). 
+ 
+(13)  [CP Almaz [Obj -- gänzäb-u-n]        yä-särräk’-ätʃtʃ-(ɨw)]                   astämari    
+      Almaz.F         money-his-ACC  COMP-steal.PFV-3FSG.S-3MSG.O  teacher.M  
+ 
+bät’am habtam näw 
+very     rich       be.3MSG.S  
+ 
+‘The teacher whose money Almaz stole is very rich.’ 
+ 
+This appears to replicate an argument of Harizanov’s (2014: 1044-1045) in favor of true clitic doubling as 
+opposed to clitic dislocation in Bulgarian. Inasmuch as adjoined phrases are islands for extraction and 
+complements are not, (13) suggests that the doubled object ‘his money’ is in complement position in 
+Amharic. We admit, however, that we have not attempted to explore the syntax of relative clauses in 
+Amharic in any detail, making this argument somewhat tentative.12 
+ Overall, then, the evidence that is available supports the view that the doubled DP may be in-situ 
+in the normal VP-internal position in Amharic. As such, Amharic is similar to VO languages for which 
+good evidence has been given that the full doubled DP is in the clause-internal object position, including 
+Greek (Anagnostopoulou 1994, 1999:764-768), Spanish (Jaeggli 1986, Suñer 1988), and Bulgarian 
+(Harizanov 2014; but see Krapova and Cinque 2008 for a different view). Even if this is not quite right, 
+such that the dislocated object is not literally in situ, it must be close to that position. The doubled object 
+in SOV order clearly has a quite different status than the obviously dislocated object in OSV orders, given 
+the difference in case marking in (11) vs. (12). If it is in an adjoined position, then, it must be adjoined 
+                                                           
+10 Third person masculine singular agreement (ä) is deleted by a regular process of hiatus when it is followed by any 
+vowel-initial suffix (Leslau 1995). In such cases, we still gloss it and place it in parentheses. 
+11 Note that Amharic is a DOM language, and indefinite objects in situ have no morphologically overt case marking  
+(e.g., (2a)), similar to subjects.  But this is not an option for a definite object like the name Almaz in (12). 
+12 In particular, we are not sure whether relative clauses in Amharic involve true operator movement or a (null) 
+resumptive pronoun strategy, and what their exact island behavior is.  Julie Anne Legate points out that extraction is 
+ruled out from clitic-doubled DPs (and other specific DPs) in many languages, but question formation is probably 
+more sensitive to this factor than wh-movement in relative clauses is. (Indeed, there is some gradation in the 
+Bulgarian judgments too: Harizanov (2014: 1044 n.10) reports that interrogative movement out of clitic -doubled 
+objects in Bulgarian is not always acceptable, whereas movement of referential DPs out of such object s is.) 
+
+PDF PAGE 9
+9 
+ 
+low in the clause, to VP rather than to TP. If so, it is still within the c-command domain of the head that 
+hosts the D, as in (7), and this is all that our analysis really requires. We represent the doubled object as 
+being the complement of V in our structures, because this is our best guess, but skeptical readers should 
+bear in mind that it doesn’t need to be exactly that.13 
+ 
+3.2 Associating the OM with the object 
+ 
+So far, then, we have claimed that a clitic doubling structure in Amharic has a D(P) adjoined to v and a 
+fully articulated DP in the c-command domain of v, in (or near) the theta-position of the object.  But there 
+is another obvious fact to be captured here: the fact that the D head matches the object in phi-features, 
+such that it counts as a kind of double of the object.  Why must this be?  Why can’t the OM double an 
+agentive subject instead?  Or why can’t it just be a distinct item, unassociated with any DP in the clause, 
+as in (14), where the OM is masculine, but both the subject and object are feminine? (Note that Romance 
+languages do sometimes allow clitics not associated with any argument in the clause, as in so-called 
+ethical dative constructions.14). In short, why are these “object markers”, not just “markers”? 
+ 
+(14) *Almaz      Aster-ɨn         ayy-ätʃtʃ-äw. 
+Almaz.F     Aster.F-ACC   see.PFV-3FSG.S-3MSG.O 
+‘Almaz saw (him) Aster.’ 
+ 
+ We address this point as follows. We claim that the D head is intrinsically a nominal item—
+specifically a pronoun—since it has both a full set of phi-features (person, number, gender, and perhaps 
+case) and the category feature D. However, it is in a non-argument position. Therefore, it can only satisfy 
+the Theta-Criterion/Full interpretation if it can establish a link with a properly licensed DP associated 
+with a thematic position. Adopting a base-generation analysis for ease of exposition (see below on 
+movement-based alternatives), we suggest this link is at minimum mediated by the familiar Agree 
+properties of the v that D is adjoined to. It is standard to say that v can enter into Agree with an object DP 
+inside its c-command domain (Chomsky 2000, 2001, and many others). It is plausible that v also Agrees 
+with the D adjoined to it, and this forces D and DP to have the same phi-features, thereby licensing D.  
+(Compare Landau’s (2001, 2004) theory of control, where a functional head, T or v, agreeing with both its 
+specifier and a PRO inside its domain induces feature sharing, and indeed a referential dependency 
+between the two. Similarly, for Reuland (2011) the binding of anaphor by a DP is mediated by Agree.) 
+Then (14) is bad because the OM does not in fact agree with any of the DPs in the clause, overt or covert. 
+Moreover, since v probes downward for something to agree with and is lower than the subject, v must 
+agree with the object, not the subject, so the OM does as well. Therefore, (15a) is good, but (15b) is not. 
+ 
+(15) a. Almaz     mäs’haf-u-n         ayy-ätʃtʃ-ɨw 
+    Almaz.F  book-DEF.M-ACC  see.PFV-3FSG.S-3MSG.O 
+     ‘Almaz saw the book.’ 
+ 
+b. *Almaz   mäs’haf-u-n          ayy-ätʃtʃ-at 
+    Almaz.F  book-DEF.M-ACC   see.PFV-3FSG.S-3FSG.O 
+     ‘Almaz saw the book.’ 
+ 
+                                                           
+13 Indeed, even if the doubled DP is higher than the clitic, our principles could be restated slightly so as to give the 
+crucial effects, as long as the clitic is intrinsically pronominal. 
+14 It is an open question whether Amharic has any “ethical dative” clitics that do not double any argument. Leslau 
+(1995:420-421) notes that intransitive verbs can have third masculine singular OMs with some kind of emotional 
+effect, but it remains unclear whether transitive verbs (like the one in (14)) can ever have this kind of OM. If any 
+such cases exist, they must be very heavily restricted, so we do not consider ethical dative clitics here.   
+
+PDF PAGE 10
+10 
+ 
+ Perhaps the clearest evidence that Agree has a role to play in these structures comes from 
+ditransitive constructions with verbs like ‘give’ in Amharic (and also derived ditransitives, created by 
+morphological causativization; see Amberber 2002: Chapter 3). These sentences look mostly as one 
+would expect in an SOV language with a moderate amount of case marking: the word order is generally 
+subject-source/goal-theme-verb, with nominative subject and accusative theme object. With verbs that 
+take a goal argument, the IO can be dative or accusative; with verbs that take a source argument (and also 
+in causatives), the IO is accusative like the DO.  A typical example with a goal argument is in (16). 
+ 
+(16) Gɨrma     lä-Almaz         mäs’haf-u-n           sät’t’-ä    
+ Girma.M  DAT-Almaz.F  book-DEF.M-ACC   give.PFV-3MSG.S 
+ ‘Girma gave the book to Almaz.’ 
+ 
+How then do OMs work in structures like these, where there are two objects which could conceivably be 
+doubled?  In fact, the possibilities are restricted. When both a goal argument and a theme are present, the 
+OM must be associated with the goal, not the theme, as in (17)a. Similarly, in (17)b, the OM can be 
+associated with the source argument of ‘rob’, but not with the theme argument.15 
+ 
+(17) a. Gɨrma     lä-Almaz       mäs’haf-u-n         sät’t’-at            (*sät’t’-ä-w) 
+  Girma.M DAT-Almaz.F book-DEF.M-ACC give.PFV(3MSG.S)-3FSG.O   give.PFV-3MSG.S-3MSG.O 
+  ‘Girma gave the book to Almaz.’ (Kramer 2014:600) 
+ 
+ b. Lämma     Aster-ɨn       gänzäb-u-n              särräk’-at.              (*särräk’-ä-w) 
+  Lemma.M Aster.F-ACC money-DEF.M-ACC rob.PFV(3MSG.S)-3FSG.O  rob.PFV-3MSG.S-3MGS.O  
+ ‘Lemma robbed Aster of the money.’  (Baker 2012b:49-50) 
+Following previous literature on Amharic (Demeke 2003, Baker 2012a, Kramer 2014), we take this 
+restriction to be an effect of the locality restrictions on Agree. The source/goal indirect object 
+asymmetrically c-commands the theme object in Amharic as in many other languages (see Baker 2012b 
+for some discussion and evidence). Therefore, when v probes down looking for a DP to agree with, it 
+finds the IO before the DO, and must agree with that; therefore the OM must agree with the IO as well.  
+The examples in (17) with the masculine OM are thus violations of the intervention condition on Agree.16 
+ It is also worth noting that in Amharic OMs on a matrix verb never (as far as we can tell) double 
+a DP inside a CP complement of that verb. This is what we expect given that CPs are phases (except in 
+ECM constructions, which Amharic doesn’t have) and the Agree relation cannot look into a phase. 
+ As an aside in anticipation of the cross-linguistic comparison in section 6, clitics in Amharic seem 
+different from clitics in IE languages when it comes to ditransitive constructions. Many IE languages do 
+allow the theme to be doubled by a clitic even when there is a goal present. (18) shows this in Greek. 
+ 
+(18)  (To)       edosa   tu Petru  to vivlio. 
+ 3NSG.ACC  gave.1SG.S  the.GEN Peter.GEN  the.ACC book.ACC 
+ ‘I gave (it) Peter the book.’ (Anagnostopoulou 2001:15) 
+ 
+                                                           
+15 This locality effect seems to be quite sharp when both internal arguments are accusative.  It is a bit noisier when 
+the goal is dative: then an OM doubling the accusative theme argument is sporadically accepted (although usually 
+not). We attribute this to the possibility of parsing a nominal in dative case as a PP rather than an NP. On that parse, 
+the goal is not a target for Agree, and does not intervene for v+D agreeing with the theme. 
+16 Even though the higher argument is animate and the lower argument is not in these examples, there is probably 
+not an animacy effect generally. The OM associates only with the higher argument even when both arguments are 
+human for särräk’a ‘rob’ and asayyä ‘show’ (sät’t’ä ‘give’ is more variable, perhaps because lä-DP in this context 
+can be parsed either as a PP or a dative-marked DP; see fn. 15). 
+
+PDF PAGE 11
+11 
+ 
+This contrast might make one think that Amharic OM constructions show a kind locality that is 
+characteristic of Agree, whereas Greek OMs show a different kind of locality because they are a different 
+sort of construction, possibly involving D(P) movement instead of Agree.   
+However, work by Anagnostopoulou (2001) suggests that this would be a hasty conclusion. 
+Anagnostopoulou observes that a small number of verbs like ‘teach’ in Standard Greek (and more verbs 
+in northern dialects) take two accusative objects rather than one genitive (=dative) object and one 
+accusative object. With these verbs, only the goal argument can be doubled by an OM on the verb—just 
+as in (17) in Amharic.  
+ 
+(19) (*Tin)  didaksa  ta    pedhia tin grammatiki  ton  arxion ellinikon. 
+ 3FSG.ACC taught.1SG.S the.ACC children.ACC the.ACC grammar     the.GEN ancient Greek  
+ ‘I taught (it) the children the grammar of ancient Greek.’ (Anagnostopoulou 2001:11, 16) 
+ 
+To capture the clear parallel between (17)b and (19), we probably want to say that Agree is involved in 
+both languages. The goodness of (18) then suggests that the genitive goal is different enough in its 
+features from the accusative theme in Greek that the v head can see the theme past this sort of goal. For 
+concreteness, we can say that ‘Peter’ in (18) bears the feature [GEN], and v can probe for [ACC] separately 
+from [GEN]. Then there is no intervention between v and the theme in (18), although there is in (19) and 
+(17)b where the two internal arguments have exactly the same case features.  
+We can then complete the account by stipulating that “dative” case in Amharic in examples like 
+(17)a does not count as a feature distinct from [ACC]. In essence, this means that dative in Amharic is 
+“weaker” (less distinct from accusative) than dative/genitive in I-E languages like Greek. This seems to 
+be true, in that the goal in (17)a is only optionally dative; it can also be accusative Almaz-ɨn ‘Almaz’ in 
+more or less free variation, whereas dative/genitive does not alternate freely with accusative in the 
+relevant I-E languages. Therefore the superficial difference between (17a) and (18) need not stand in the 
+way of a unified analysis of CD in these languages. On the contrary, the fact that the precise features of 
+the probes and goals matter for whether or not there is an intervention effect in DOCs tends to support the 
+idea that Agree is at work. (We thank Elena Anagnostopoulou (personal communication) for generous 
+discussion of these matters.) 
+ The essentials of the Amharic clitic doubling construction, then, are summarized in the structure 
+in (20), where dashed arrows indicate Agree relations.17 
+ 
+(20)          TP 
+       3 
+    DP              T 
+Lämma   ri 
+             vP                  T 
+     ro             
+   VP                      v                     
+         3           2       
+       DP              V       v            D    
+      dog             see             
+ 
+At this point, we reiterate that we think that several more detailed theories as to how a CD 
+construction is derived are compatible with the boundary conditions implicated in this sketch. It could be 
+that the D head is base-generated adjoined to v, in which case the link between D and DP is created 
+entirely by Agree, mediated through v, as we have assumed for purposes of exposition. Alternatively, 
+some kind of movement of D or DP could be involved as well: either D moves out of the DP object to 
+                                                           
+17 It is not entirely clear whether there is V-to-T raising in Amharic, so we omit it from the tree.  If V does raise to T, 
+it has no impact on our analysis. 
+
+PDF PAGE 12
+12 
+ 
+adjoin to v, stranding the rest of DP (the “big DP” derivation), or DP as a whole remerges in Spec vP but 
+then it is reduced to its D-head and adjoined to the verb by a version of m-merger. In these variations, the 
+Agree relation motivated by (14)-(17) might rather be thought of as holding between v and a nearby DP as 
+a precondition to DP or its D head moving to v (see Chomsky 2000, 2001 for the hypothesis that Agree is 
+always a precondition to movement, and Béjar and Rezac 2003; Rezac 2004, 2008; Roberts 2010; Nevins 
+2011; Preminger 2011 for applications of this to clitic constructions in particular). But whichever of these 
+options is taken, the network of relationships in (20) can be taken to exist at the LF interface. 
+ On this view, then, D is in fact a kind of object agreement element closely related to v. Crucially, 
+however, it is not just an object agreement element, on our view.  Rather, since it bears the category 
+feature D as well as phi-features it is an intrinsically pronominal element, and counts as such for 
+principles of interpretation at the LF interface (cf. Reuland 2011: 22 on the definition of a pronoun).  The 
+idea that the OM counts as a pronominal is plausible in the light of facts like those in (21), where it does 
+not double any overt DP object. 
+ 
+(21) a. Gɨrma  ayy-ä-w  
+       Girma see.PFV-3MSG.S-3MSG.O  
+  ‘Girma saw him.’ (‘him’  ‘Girma’) 
+ 
+ b. Yä-Gɨrma ɨnnat     ayy-ätʃtʃ-ɨw  
+  of-Girma  mother  see.PFV-3FSG.S-3MSG.O  
+  ‘Girma’s mother saw him.’ (‘him’ = ‘Girma’) 
+ 
+c. Gɨrma  Almaz  ɨnd-ayy-ätʃtʃ-ɨw                         sämm-a 
+Girma  Almaz  COMP-see.PFV-3FSG.S-3MSG.O  hear.PFV-3MSG.S 
+  ‘Girma heard that Almaz saw him.’ (‘him’ = ‘Girma’). 
+ 
+Here (21a) shows that the OM cannot be coreferential with the subject of the verb it attaches to, but it can 
+be coreferential with the possessor of the subject ((21b)), or with the subject of a higher clause ((21c)). It 
+can also refer to some entity available in the discourse context that is not represented in the sentence. This 
+is typical behavior for a pronoun, subject to Principle B of the Binding theory, or the equivalent.18 
+Like other pronouns, then, we assume that OMs in Amharic can enter into semantically 
+significant relationships of referential dependence (for foundational discussion of this notion of Binding 
+theory, see Safir 2004a,b).  In fact, when there is an overt object DP present, it is referentially dependent 
+first of all on the object DP that it doubles: in addition to agreeing in phi-features, the two must refer to 
+the same discourse referent. If it were not, the OM’s argumental nature as a pronoun would not be 
+licensed for Full Interpretation; there would still be a Theta-Criterion violation despite the superficial 
+matching of phi-features.  We make this assumption explicit in (22). 
+ 
+(22) A D adjoined to head H is referentially dependent on the DP it agrees with via H. 
+ 
+This referential dependency is the extra factor that comes from saying that OMs are pronominal clitics 
+(D(P)s), not just agreeing heads with phi-features only.19 That (22) holds is clearly consistent with all the 
+                                                           
+18 The alternative is to capture this behavior by saying that it is not the OM itself that is pronominal, but it agrees 
+with a null DP that is intrinsically pronominal (i.e., pro) in these examples. That is a possibility that we do not rule 
+out, although we tentatively assume that the D – empty category relation here counts as a movement relation, given 
+that the higher element has all the features of that the lower element one has, following Roberts (2010).  Our point 
+here is only that it is plausible to say that the OM is a pronoun, not that it is inevitable.  
+19 It is quite possible that (22) can be deduced from the general principles involved in exactly how the CD 
+construction is derived. For example, if D is actually a copy of the object DP created by movement followed by 
+partial deletion of the higher copy, then (22) is simply the traditional idea that reduced copies are referentially 
+
+PDF PAGE 13
+13 
+ 
+grammatical examples we have seen so far. The crucial question for what follows is whether the 
+referential dependency asserted in (22) for CD structures in Amharic is compatible with other restrictions 
+that are put on the interpretation of pronominal elements by the principles of Crossover and Binding 
+theory.  In sections 4 and 5, we argue that they are not compatible in a well-defined range of cases, which 
+provides the explanation for the otherwise unexplained restrictions on clitic doubling shown in (2b-d). 
+ Of course, not all languages have the object clitic doubling construction that Amharic has. 
+Therefore there should ultimately be something to say about what sort of parameterization allows a 
+representation like (20) in one language but not in another. Since we are not being fully detailed about 
+how this structure is formed in Amharic, we are not in a position to be fully detailed about the nature of 
+this parameterization either.  However, we can say in a preliminary way that we foresee two distinct kinds 
+of parameters at work here. The first might be thought of as a kind of EPP feature associated with v, 
+saying that it tolerates merging with an overt minimal-maximal projection like D, but not with some 
+larger phrase. On the one hand, this distinguishes Amharic from languages like English, which appear to 
+only allow traces of movement in Spec vP; on the other hand, it distinguishes Amharic from languages 
+like Dutch or Icelandic, which allow a full maximal projection in Spec vP as a result of object shift. In this 
+respect, Amharic would be approximately like the mainland Scandinavian languages, which allow only 
+weak pronouns in Spec vP (see (27)). The second parameter would concern whether a weak pronoun (D 
+head) associated with v can double a DP inside VP. This is possible in Amharic and some Bantu 
+languages like Haya, but not in Mainland Scandinavian or other Bantu languages, like Lubukusu. There 
+are different semi-familiar ways to formulate this. In our current expository terms, one might be to say 
+that (22) applies to license X in a non-argument position by linking it to Y in an argument position in 
+some languages but not others.  In Amharic, it does, but in languages that have object clitics but not 
+object clitic doubling, it does not, and D associated with v is only licensed if it binds a trace in a thematic 
+position, as part of an ordinary movement chain.20  There is more to consider about these parametric 
+issues, surely, but this should be enough for us to pursue our main theme. 
+ 
+3.3 The OM does not bind the object 
+ 
+One additional feature to note about the structure in (20) that we are arguing for is that the D itself does 
+not c-command the DP it doubles, because it is merged with a verbal head, and the constituent that 
+immediately dominates v and D does not contain the object DP.  This view contrasts with a possible 
+alternative in which the D(P) clitic is in a canonical X-bar theoretic position like Spec vP. Having the D 
+merge with a verbal head is consistent with the observed facts, where the OM seems to be attached to the 
+main verb, and is not where one would expect a canonical specifier to be in Amharic (see (9)). But it is 
+particularly significant for our project here that D does not c-command the doubled object, at least at LF, 
+given our hypothesis that the OM counts as a referentially active element in its own right, entering into 
+relationships of referential dependence. This will allow us to derive restrictions on clitic doubling from 
+the Weak crossover condition and Condition B of the Binding theory. However, it immediately raises the 
+question of why a simple case of CD like (1c) or (23) does not violate Condition C of the Binding theory 
+the way that (24) does in English, given that the OM near v may seem to be higher in the clause than the 
+                                                                                                                                                                                           
+dependent on full copies within a movement chain (see Higginbotham 1983: 402, 409 for an explicit statement). In a 
+version that uses Agree without movement, one might be led to adopt an existing proposal in which Agree relations 
+can create (or count as) referential dependency relationships quite generally (e.g. Reuland 2011: Chapter 5, cf. also 
+Landau 2001). However, (22) would be derived in somewhat different ways in different versions, and since we are 
+leaving the exact derivational history of the construction open, we do not pursue the possible reduction here.  
+20 In a movement based derivation involving big DPs, one would say that D can move out of a larger DP stranding 
+the rest in some languages but not others.  In a movement based derivation involving m-merger, one would say that 
+m-merger applies to transform a full DP into its D head so as to satisfy v’s EPP feature in so me languages but not 
+others (see Diercks and Sikuku 2013). 
+
+PDF PAGE 14
+14 
+ 
+in situ object inside VP that it is referentially dependent on. (We indicate covaluation/referential 
+dependence informally with underlining here and at many points below.) 
+ 
+(23) Almaz Lämma-n gäddäl-ätʃtʃ-ɨw. 
+Almaz.F Lämma-ACC kill.PFV-3FSG.S-3MSG.O 
+ ‘Almaz killed Lemma.’ 
+ 
+(24) *She saw Aster in the mirror. 
+ 
+After all, if the OM is going to count as a pronoun for purposes of crossover and Condition B of the 
+Binding theory, it should count it as a pronoun for Condition C of the Binding theory as well. So we need 
+to make sure that (23) comes out as it should. 
+ But in fact there is no problem here, given that D merges with v, not with v’ (i.e., the syntactic 
+object consisting of v and its complement). Therefore D does not c-command the direct object, and no 
+disjoint reference effect is expected, on any standard version of the Condition C phenomenon.21 In effect, 
+the structure in (23) is in the relevant respects more like the English example in (25), where coreference 
+between the pronoun and the name is possible, than like (24), where it is not. The pronoun is not, strictly 
+speaking, higher than the direct object; it is only a prominent subpart of a constituent that is higher than 
+the direct object. 
+ 
+(25) Her brother saw Aster in the mirror. 
+ 
+In fact, there may be an indirect typological reason to think that Condition C is relevant to 
+doubling constructions in the way that one might expect given our hypothesis in (22). Descriptively, I-E 
+languages have two sorts of weak or deficient pronouns, as argued by Cardinaletti and Starke (1999): true 
+clitics that adjoin to a verbal head, which are ubiquitous in the Romance languages, and weak pronouns 
+that have little internal syntactic structure but still occupy phrasal positions, which are more characteristic 
+of Germanic languages. One way the difference can be seen is by interactions with verb movement. Verb 
+movement can (sometimes) carry an object clitic with it when it moves to C in Romance languages, as in 
+(26) from Italian. 
+ 
+(26) Gli-avesse Gianni parlatto in anticipo, niente sarebbe successo. 
+Him-had John spoken in advance nothing would.have happened 
+‘Had John spoken to him in advance, nothing would have happened.’  
+(Cardinaletti and Starke 1999:168) 
+ 
+In contrast, verb movement does not do this in most Germanic languages. For example, in Mainland 
+Scandinavian languages like Danish, weak pronouns can occupy a higher position near Spec vP (Engels 
+and Vikner 2006), a position which is not available to full DPs ((27b)). Nevertheless, these weak 
+pronouns are not carried along with the verb when it moves to C in verb second constructions, as shown 
+by (27a). 
+ 
+ 
+                                                           
+21 Note that technically we must assume that adjuncts do not c-command out of the category they are adjoined to 
+(i.e., we don’t distinguish segments from categories in the definition of c-command, the way that Kayne (1994:15-
+19) influentially does). Julie Anne Legate asks in this connection whether V moved to v is required to c-command 
+its trace, and if so, how that requirement is fulfilled. We do not take any explicit stand on the nature of head 
+movement here (cf. fn. 17). One familiar possibility is that V-to-v movement counts as a substitution-type movement 
+rather than as an adjunction-type movement (Larson 1988); another is that this sort of head movement happens at PF 
+(Chomsky 2001: 38), and so is not restricted by syntactic c-command. 
+
+PDF PAGE 15
+15 
+ 
+(27) a. Hvorfor læste  Peter  den aldrig?    
+ why read Peter it never 
+ ‘Why did Peter never read it?’ 
+ 
+b. Hvorfor læste Peter (*bogen) aldrig (bogen)  
+ why read Peter book-the never book-the 
+ ‘Why did Peter never read the book?’ (Engels and Vikner 2006:196) 
+ 
+The question arises, then, whether one could have “weak pronoun doubling” in a Germanic type 
+language, analogous to clitic doubling in Amharic or a Romance language.  If so, we might see examples 
+like (28) in some variety: 
+ 
+(28) Unattested: Hvorfor læste Peter den aldrig bogen. 
+ why read Peter it never book-the 
+    ‘Why did Peter never read the book?’ 
+ 
+But no clear examples of this sort are attested, despite intense work on these issues in a wide range of I-E 
+languages. Thus, Cardinaletti and Starke (1999:169) state that “Doubling is always clitic-doubling, in the 
+sense that doubling must always involve at least one clitic”, no other combinations of weak pronouns, 
+strong pronouns, and full DPs are allowed. Similarly, Franks and King (2000: chap. 7, esp. p. 251) 
+observe that the two Slavic languages that allow clitic doubling—Bulgarian and Macedonian—are the 
+same two that have verb-attached clitics rather than second position clitics. Bošković (2015) generalizes 
+from this that clitic doubling never happens with second position clitics (a.k.a. weak pronouns). 
+Assuming that this holds up over a wider range of languages, Condition C and our leading claim that 
+clitics and other weak pronouns are genuine pronouns might explain why: weak pronouns will only be 
+able to double DPs lower in the clause if they are clitics attached to a verbal head, so that c-command 
+doesn’t hold, and Condition C is therefore not violated. 
+ This reasoning about Condition C also generalizes to the other binding conditions. For example, it 
+is possible for an OM to double a strong pronoun in object position in Amharic, as shown in (29). 
+ 
+(29) Lämma      ɨssu-n     gäddäl-ä-w 
+Lemma.M  he-ACC kill.PFV-3MSG.S-3MSG.O 
+‘Lemma killed him.’ 
+ 
+One might wonder whether there is a Condition B violation here, since there are two pronouns in the 
+same clause, one referentially dependent on the other. But the answer is that there is no violation, since 
+the OM does not c-command the object pronoun (nor does the object pronoun c-command the OM). (29) 
+is thus more like Her sister saw her than like She saw her in this respect. Conversely, (30) shows that it is 
+impossible in Amharic for a reflexive anaphor in object position to take an OM that doubles it as the 
+clause-internal antecedent that it requires (compare the grammatical use of the anaphor in (61b) below). 
+ 
+(30) *Almaz ras-u-n gäddäl-ätʃtʃ-ɨw. 
+Almaz.F self.M-his-ACC kill.PFV-3FSG.S-3MSG.O 
+ ‘Almaz killed him.’ (Literally: Almaz him-killed himself.’) 
+ 
+Example (30) violates Condition A of the Binding theory for essentially the same reason that *Her 
+brother saw herself does: the anaphor does not have a c-commanding antecedent inside the clause.22 So 
+                                                           
+22 The badness of (30) is theoretically important for efforts in the tradition of Reinhart (1983) to deduce Condition C 
+from a pragmatic blocking principle, as most current theorists do (e.g. Safir 2004a, Reuland 2011, Büring 2005, 
+etc.). Generally speaking, these approaches say that using a full referential DP to refer to somet hing is bad wherever 
+
+PDF PAGE 16
+16 
+ 
+this set of data hangs together the way it should under the hypothesis that the OM does not c-command 
+the doubled object at LF/the conceptual-intentional interface, where anaphoric relations are evaluated. 
+ We conclude that ordinary clitic doubling is not expected to give a Condition C effect. Therefore, 
+this does not count as evidence against our primary hypothesis that OMs are interpreted as pronouns at 
+the LF interface in Amharic. We now turn to the positive effects that this hypothesis can have for 
+explaining restrictions on clitic doubling, like those shown in (2b-d). 
+ 
+4.  OMs, quantified DPs, and crossover 
+ 
+4.1 The basic analysis 
+ 
+One class of examples in which the OM is bad doubling an object DP is examples in which the DP is a 
+nonreferential quantifier. (31) provides fresh examples for the badness of an OM where the object is a 
+non-D-linked wh-phrase ((31a)) or a singular universal quantifier ((31b)); see also (2)bc.  (31c) adds a 
+similar example in which the object is (the equivalent of) a negative quantifier.23  These DPs are fine in 
+object position, but bad if an otherwise optional matching OM is included. 
+ 
+(31) a.  Almaz     mann-ɨn         sam-ätʃtʃ?    (*sam-ätʃtʃ-ɨw)  
+ Almaz.F   who.M-ACC   kiss.PFV-3FSG.S     kiss.PFV-3FSG.S-3MSG.O 
+  ‘Who (in the world) did Almaz kiss?’   
+ 
+b.   Tɨgɨst     hullu-n-ɨmm      mäs’haf  gäzz-atʃtʃ           (*gäzz-atʃtʃ-ɨw) 
+      Tigist.F  every-ACC-FOC  book.M   buy.PFV-3FSG.S           buy.PFV-3FSG.S-3MSG.O   
+       ‘Tigist bought every book.’ 
+ 
+c. Lämma mann-ɨn-ɨmm al-ayy-ä-mm.      (*al-ayy-ä-w-ɨmm) 
+ Lemma.M one-ACC-FOC NEG-see.PFV-3MSG.S-FOC      NEG-see.PFV-3MSG.S-3MSG.O-FOC 
+ ‘Lemma saw nobody; Lemma didn’t see anybody.’ 
+ 
+ What do objects like these have in common?  They strongly recall the range of DPs that cause 
+weak crossover violations in English and many other languages. Thus, a referential DP in object position 
+can be co-construed with a pronoun inside the subject, as long as it is in the right context, so that it has the 
+right information structure (with no focus on the object) (see (32a)). However, universally quantified or 
+negatively quantified DPs cannot be co-construed with a pronoun inside the subject DP, as shown in 
+(32b,c).  Similarly, the non-D-linked wh-phrase moved from the object position cannot be co-construed 
+with a pronoun inside the subject position, as in (32d).  This is a classic weak crossover paradigm, 
+familiar from Postal (1971), Chomsky (1976), and Wasow (1979), among others (see Safir 2015 for a 
+recent review). 
+ 
+(32) a. His mother loves John. 
+b. ?*His mother loves everyone. 
+c. ?*His mother loves nobody. 
+d. ?*Who does his mother love? 
+                                                                                                                                                                                           
+using a bound variable in that position is possible and gives the same meaning. ( 30) shows that it is not possible to 
+have a bound variable in object position (here in reflexive form, as expected) bound by the OM, so using a full 
+referential DP in this position is expected to be possible, as it is in (23). Hence our proposal should be compatible 
+with this type of theory, although we do not implement it here. 
+23 Like universally quantified DPs, negatively quantified DPs can undergo object shift in Dutch and Icelandic 
+(Broekhuis 2008, p.c.; G. Harðarson, p.c.). Hence, an example like (31c) must also be ruled out by a condition that 
+invokes the pronominal nature of the OM in Amharic—not just by a restriction on object shift. 
+
+PDF PAGE 17
+17 
+ 
+ 
+Facts like these show that the situations in which a pronoun can be interpreted as a variable bound by a 
+quantifier in English are rather restricted—significantly more restricted than when it can be interpreted as 
+being coreferential with a definite DP.  Our proposal, then, is that the contrast between (31) and (1c) in 
+Amharic can be explained in terms of the same principles as the contrast between (32b-d) and (32a) in 
+English—a result that can be achieved if and only if the OM in Amharic counts as a pronoun. 
+ The first step along this path is showing that the weak crossover phenomenon is present in 
+Amharic, in situations analogous to (32) in English. Indeed, a pronoun inside the subject can be 
+understood as coreferential with a referential DP in Amharic under favorable conditions, as in (33).24 
+ 
+(33) Context: Lemma attends an academically challenging high school in Addis Ababa.  Parents are 
+encouraged to help their children with their homework.  But not all parents participate to the same 
+degree. For example:  
+ 
+ɨnnat-u        Lämma-n       tɨ-rädd-all-ätʃtʃ,                      
+mother-his  Lemma-ACC  3FSG.S-help.IPFV-AUX-3FSG.S   
+ 
+abbat-u     gɨn  a-y-rädda-mm 
+father-his  but  NEG-3MSG.S-help.IPFV-FOC 
+ 
+‘His mother helps Lemma, but his father doesn’t help.’ 
+ 
+However, quantified DPs cannot bind a pronoun as variable inside the syntactic subject, even when the 
+sentences are put in contexts similar to the one that facilitates coreference in (33).  For example, (34)a 
+does not have a reading that is naturally given to the passive version in (34)b, where the theme moved to 
+the subject position does c-command the pronoun embedded inside the by-phrase. 
+ 
+(34) Context: There is an academically challenging boys’ school in Addis Ababa.  Parents are 
+encouraged to help their children with their homework. After surveying the students and 
+interviewing the families, we discovered a clear pattern of assistance:  
+ 
+a. #ɨnnat-u          tämari-w-ɨn           hullu   tɨ-rädd-all-ätʃtʃ,                      
+ mother-his    student-DEF-ACC   every   3FSG.S-help.IPFV-AUX-3FSG.S,  
+ 
+ abbat-u            gɨn   a-y-rädda-mm 
+ father-DEF/his  but  NEG-3MSG.S-help.IPFV-FOC 
+ ‘#His mother helps every student, but the/his father does not help.’  
+ (Not: for all x, x’s mother helps x …) 
+ 
+ b. Tämari-w      hullu  bä-ɨnnat-u        yɨ-r-rädd-all 
+  student-DEF  every  by-mother-his  3MSG.S-PASS-help.IPFV-AUX.3MSG.S 
+  ‘Every student is helped by his (own) mother.’  (Bound variable anaphora is possible.) 
+ 
+The same is true for non-D-linked wh-words, and for negative quantifiers, as shown in (35) and (36).  
+Note that the judgments here are somewhat variable and intermediate, as expected for weak crossover. 
+ 
+                                                           
+24 Kramer (2014) reports that a similar example is seriously degraded (?*), but it was elicited without an articulated 
+context. The examples here are carefully engineered to ensure that the object DP is neither the main focus of the 
+clause (this interferes in Amharic as in English), nor the topic of the clause (in which case the DP is best doubled by 
+an OM, which would inhibit our ability to construct similar sentences with quantified objects).   
+
+PDF PAGE 18
+18 
+ 
+(35) Context: There is an academically challenging boys’ school in Addis Ababa.  Parents are 
+encouraged to help their children with their homework, but it seems like there are gender 
+differences. I know a bit about this, but you know more. I ask: 
+ 
+?? ɨnnat-otʃtʃ-u      hulgize yɨ-rädd-all-u,                          
+     mother-PL-DEF always  3MSG.S-help.IPFV-AUX-3PL.S,  
+ 
+abbat-u      gɨn  mann-ɨn   andand  gize  yɨ-rädd-all? 
+father-his   but  who-ACC some     time  3MSG.S-help.IPFV-AUX.3MSG.S 
+‘??The mothers always help, but who does his father sometimes help?’ 
+ 
+(36) Context: There is an academically challenging boys’ school in Addis Ababa.  Parents are 
+encouraged to help their children with their homework. We’ve investigated how this is working 
+out, and we’ve discovered there are gender differences. So far we have learned this:  
+ 
+?? Abbat-u     mann-ɨmm  fäs’s’ɨmo  a-y-rädda-mm,  
+             father-his  one-FOC       never        NEG-3MSG.S-help.IPFV-FOC, 
+ɨnnat-otʃtʃ-u      gɨn  bɨzu    gize   yɨ-rädd-all-u 
+mother-PL-DEF  but  many  time  3PL.S-help.IPFV-AUX-3PL.S 
+‘??His father never helps anyone, although the mothers often do help.’ 
+So the principle that produces basic weak crossover effects holds in Amharic too—as we would expect 
+given that this is plausibly a UG principle, which has been replicated in many languages (although not 
+all). Therefore, it is available in Amharic as a possible explainer for our CD paradigm. 
+  What then are the principles that produce the weak crossover effect, and how can they be applied 
+to a CD structure? Many versions have been proposed over the years, and we think our intuition that the 
+CD restrictions and the WCO restrictions are intrinsically related could be expressed in most of them. 
+One classic version that makes explicit the relevance of whether something is a pronoun or not is (37).  
+ 
+(37) Parallelism Condition on Operator Binding (PCOB)  (Safir 1984) 
+If a single quantifier binds more than one variable, then either (a) or (b). 
+a. They are both pronouns 
+b. They are both traces. 
+ 
+In these terms, (32d) in English is bad because the quantifier who binds a trace in object position and the 
+pronoun his inside the subject—one of which is a pronoun and the other not. (32b) and (32c) are 
+ungrammatical for the same reason, once the quantifier everyone or nobody under goes QR at LF.  The 
+Amharic examples in (34a) and (35) are the same, apart from the expected differences in word order.  Our 
+idea, then, is that the CD examples in (31) are ruled out by the same condition, the quantifier binding both 
+a normal trace in the object position and the pronominal D that is merged with v. 
+For concreteness, we base our official analysis on that of Safir (2004b), an updated successor to 
+the PCOB that is broad in coverage and syntax-oriented.25 In these terms, the crucial principle can be 
+                                                           
+25 There have been attempts to eliminate crossover as a syntactic condition, and build it entirely into semantic 
+interpretation.  For example, see Büring (2005) for a way of building this condition into the semantic interpretation 
+scheme, where wh-words (and presumably moved quantifiers) and other nominals can both introduce lamb da-
+abstraction to bind variables, but the two kinds of operators are kept distinct, so that a quantifier cannot directly bind 
+a pronoun. However, a drawback of this approach is that it crucially follows Reinhart (1983) in assuming that one 
+DP must c-command another to license a bound variable interpretation; Safir (2004b:37-38) and Barker (2012) show 
+that this is empirically false (and in a way that becomes important for us in section 5.2 below).  
+
+PDF PAGE 19
+19 
+ 
+stated as the Crossover Condition in (39), which folds Safir’s (Extended) Independence Principle into his 
+Quantifier Dependency Condition to give a single condition. 26 This condition uses the notion of a q-
+variable, which is defined in (38). 
+ 
+(38) X is a q-variable if X is in an A-position and X replaces the deleted copy of an operator. 
+ 
+(39) The Crossover Condition: 
+X can be interpreted as dependent on a quantified antecedent Y only if  
+(i) X is a q-variable of Y, or  
+(ii) there is no q-variable of Y, or 
+(iii)  X is dependent on a variable of Y that no constituent containing X c-commands. 
+ 
+Consider then how the Crossover Condition applies to (40), a representation for an example like (2c), 
+equal to (20) but with QR applied to the object, adjoining a copy of the object to TP to represent its scope 
+(this structure is presented in English word order, for familiarity). 
+  
+(40) [TP everyone  [TP Lemma T [vP [him – v  ] [VP loves  <everyone*> ]]]] 
+ 
+Here the D merged with v counts as a pronoun; hence it is the sort of item that can be referentially 
+dependent on another item in the sense regulated by (39). The intended interpretation (indeed, the only 
+conceivable one given (22)) is one in which D counts as a sort of variable bound by the quantifier 
+‘everyone’ adjoined to TP. So we check to see if this is allowed by (39). The answer is that it is not. First, 
+D is not itself a q-variable of the quantifier, since it is not (and never was) a trace/copy of the quantifier, 
+so clause (i) does not hold. Second, the quantifier does have a q-variable, namely <everyone*>, the copy 
+of ‘everyone’ inside VP, so clause (ii) does not hold. Therefore, it comes down to clause (iii). Indeed, D is 
+referentially dependent on a (q-)variable of ‘everyone’, namely <everyone*>, by (22). However, it is the 
+case that a constituent containing D, namely [D - v], c-commands <everyone*>. Therefore, the 
+representation in (40) is ruled out, explaining the badness of (2c). This is parallel to (32b) being ruled out 
+in English because a constituent including the pronoun ‘his’, namely ‘his mother’, c-commands the 
+variable in object position left by QRing ‘everyone’. The same account generalizes to (31a-c), given the 
+assumption that ‘who’ and ‘nobody’ also undergo QR, count as quantified antecedents, and bind q-
+variables. Therefore, a doubling clitic cannot double a quantified DP given its status as a pronoun. 
+ In section 3.2 above, we mentioned that the same OMs that can double accusative objects in 
+monotransitive sentences in Amharic can also double dative objects in ditransitive sentences, as shown in 
+(17a). (41) is a second example of this type, using the verb ‘show’ (morphologically a causative of ‘see’). 
+ 
+                                                                                                                                                                                           
+Shan and Barker’s (2006) theory does not depend on c-command in the same way, but it does depend on 
+reconstructed linear order, at which stage the pronoun must not precede the quantifier’s variable. The use of linear 
+order is problematic in Amharic, where the OM encliticized to the clause-final verb always follows the quantified 
+DP—and it is not clear why it should be reconstructed anywhere else. So among the current contenders, Safir’s 
+version is particularly congenial to our facts, although we are not trying seriously to choose among theories here. 
+26 In particular, (39) is Safir’s Quantifier Dependency Principle (QDP) with his Extended Independence Principle 
+built in as the italicized condition on clause (iii). By subordinating the c-command condition to the QDP in this way, 
+we risk losing certain parallels between weak crossover and the distribution of sloppy identity readings that Safir 
+aspires to capture (following Reinhart 1983). However, we cannot permit an Independence principle to rule out D 
+being referentially dependent on a referential DP object in a structure like (20) on the grounds that [D - v] c-
+commands the object. We do not consider issues of sloppy identity under ellipsis here.  
+Safir (2004b:52, 69) says only that no nominal constituent that contains X can c-command the q-variable of 
+Y, but in later work he extends this to phrases of any category. We need the more permissive version, because it is 
+the constituent consisting of [D - v], presumably with label v, that creates the WCO effect in our Amharic examples. 
+On (iii) referring to a variable of Y, rather than a q-variable of Y, see section 4.4, especially fn. 34. 
+
+PDF PAGE 20
+20 
+ 
+(41) Lämma      lä-Aster        mäs’haf-u-n        asayy-at.   (*asayy-ä-w) 
+ Lemma.M  DAT-Aster.F book-DEF.M-ACC show.PFV(3MSG.S)-3FSG.O    show.PFV-3MSG.S-3MSG.O 
+ ‘Lemma showed the book to Aster.’ 
+ 
+Given that the OM is a pronoun that enters into relationships of referential dependence, we expect to get 
+crossover violations when it doubles a quantified goal/indirect object, just as when it doubles a quantified 
+direct object. This is correct, as shown by the examples in (42).27   
+ 
+(42) a. Lämma     lä-hullu  säw          lɨdʒ-u-n           asayy-ä-(??w) 
+  Lemma.M  DAT-every  person.M  child-DEF.M/his-ACC  show.PFV-3MSG.S-(??3MSG.O) 
+  ‘Lemma showed the (or his) child to everyone.’ 
+ 
+ b. Almaz lä-man  gänzäb sät’t’-ätʃtʃ-(?*ɨw)? 
+  Almaz.F DAT-who.M  money give.PFV-3FSG.S-(?*3MSG.O) 
+  ‘Who (in the world) did Almaz give money to?’ (I wouldn’t have expected her to give any.) 
+ 
+Although this result is a very natural extension of our analysis, it is not trivial from a cross-linguistic 
+perspective. Many I-E languages with clitic doubling differ from Amharic in this respect: for example, in 
+Spanish, dative clitics can double any kind of IO without restrictions, as emphasized by Suñer (1988) and 
+Gutiérrez-Rexach (1999), among others. But Spanish is significantly different from Amharic also in that it 
+distinguishes a set of dative clitics from a set of accusative clitics (with some overlap, and different details 
+in different dialects). It is thus not unnatural to say for Spanish that accusative clitics are true pronominal 
+elements while dative clitics are pure agreement markers. However, Amharic has only a single set of 
+OMs, used to double both IOs and DOs. Indeed, not only are the OMs for dative arguments formally 
+identical to the OMs for accusative arguments, they also have the same determiner-like properties 
+discussed by Kramer (2014:609-612): they trigger haplology when followed by a determiner, they are 
+insensitive to tense/aspect, and so on. Therefore, we expect the OMs in these examples to be inherently 
+pronominal just as other OMs are. Given this, the OMs for dative objects should also be incompatible 
+with a quantified doubled argument by the Crossover Condition—as in fact they are. It is therefore 
+expected that goal-doubling shows essentially the same restrictions as theme doubling in Amharic.  
+ 
+4.2 Variation in the behavior of putative quantifiers 
+ 
+It should be kept in mind that, in keeping with section 3.3, it is not the D itself that c-commands the q-
+variable in clitic doubling structures, but rather a larger constituent that contains D, namely [D - v]. 
+Hence, (40) counts as an instance of weak crossover, rather than strong crossover, according to the usual 
+distinction. This fits the feel of the construction: speakers seem to avoid doubling quantified expressions 
+spontaneously, but they sometimes classify constructed examples as awkward rather than as terrible or 
+inconceivable. Moreover, there can be subtle and partly context-influenced distinctions as to exactly 
+which quantified DPs trigger a violation, as is known to be true for weak crossover (but not for strong 
+crossover). What exactly counts as a quantified DP for purposes of weak crossover can be a subtle matter, 
+with some elements falling under the condition and other superficially similar elements not. Although the 
+ultimate account of what makes something a quantifier in the relevant sense may be somewhat elusive, 
+the logic of our analysis yields a fairly straightforward prediction: the kinds of factors that affect whether 
+a certain type of DP falls under weak crossover in a language like English or Amharic should also affect 
+whether that type of DP can undergo clitic doubling in Amharic. There is evidence that this is true. 
+                                                           
+27 We have, however, encountered somewhat more variability and gradation in these judgments than in others. Our 
+hunch about this is that the pragmatics of ditransitive sentences tends to facilitate specific/partitive type readings, 
+and special care is sometimes needed to bring out a truly quantificational reading (as in (42b)’s parentheticals).  
+
+PDF PAGE 21
+21 
+ 
+ For example, a distinction needs to be drawn between distributive universal quantification 
+expressed by a singular DP like ‘every N’ or ‘each N’ and universal quantification, often domain-
+restricted, expressed by a plural DP like ‘all (the) Ns’. Although the two can express similar propositions, 
+the singular quantifiers yield canonical crossover violations (see (32b)), whereas the violation can be very 
+weak or absent with plural domain-restricted DPs, as shown by (43). 
+ 
+(43) Their incautious statements ended up ruining all my friends.  (Cinque 1990:11, Safir 2015) 
+ 
+The same is true in Amharic, with the interesting qualification that there is no lexical distinction between 
+‘every’ and ‘all’ in Amharic; both are translated as hullu.  Plural Ns that are universally quantified do not 
+trigger WCO violations (compare with (34)a). 
+ 
+(44) Context: The new school in Addis Ababa is very demanding. There are five girls and four boys in 
+the class.  All the parents are encouraged to help their children with homework.  But there are 
+clear gender differences in the response. 
+ 
+ɨnnat-otʃtʃ-atʃtʃäw  set   lidʒ-otʃtʃ-u-n         hullu  bɨzu   gize   yɨ-rädd-all-u, 
+mother-PL-their     girl  child-PL-DEF-ACC  all      many  time  3PL.S-help.IPFV-AUX-3PL.S 
+ 
+abbat-otʃtʃ-atʃtʃäw gɨn   fäs’s’ɨmo  a-y-rädd-u-mm 
+father-PL-their        but   never        NEG-3PL.S-help.IPFV-3PL.S-FOC 
+‘Their mothers often help all the girls, but their fathers never help.’ 
+ 
+We correctly predict, then, that plural DPs with a quantifier like ‘all’ can be doubled by a plural OM in 
+Amharic, even though DPs with a quantifier like ‘every’ or ‘each’ cannot be doubled by a singular OM. 
+This is shown in (45).28 
+ 
+(45) a. Almaz    hullu-n-ɨmm       tämari       agäññ-ätʃtʃ(*-ɨw) 
+   Almaz.F  every-ACC-FOC  student.M  meet.PFV-3FSG.S(-3MSG.O) 
+    ‘Almaz met every student.’ 
+ 
+b.  Almaz.F  hullu-n  tämari-wotʃtʃ   agäññ-ätʃtʃ-atʃtʃäw 
+     Almaz     all-ACC  student-PL       meet.PFV-3FSG.S-3PL.O 
+      ‘Almaz met all the students.’ 
+  
+Presumably either ‘all N-PL’ does not undergo QR at all, or it does undergo QR, but its trace does not 
+count as a q-variable for purposes of the Crossover Condition in (39) (cf. Safir 2004b:87). 
+Similarly, it is known that crossover effects can be weaker with D-linked wh-phrases like which N 
+than with non-D-linked uses of who in English.  For example, Wasow (1979:163) gives (46) as 
+significantly better than examples like (32d) (but see Safir (2015) on variability in this data).  
+ 
+(46) ?Which picture did the man who painted it refuse to sell? 
+ 
+The same contrast holds in Amharic, with (47) notably better than an example like (35).  
+ 
+                                                           
+28 Note that clitic doubling is bad in (45a), even though there is an NP restrictor for the quantifier. In contrast, Rizzi 
+(1986) and Cinque (1990) report that quantifiers can be clitic left dislocated in Italian as long as they have an NP 
+restrictor. This may point to a difference between true CD and dislocated structures; see fn. 8.  
+
+PDF PAGE 22
+22 
+ 
+(47) Context: Lemma, Girma, and Mengistu are the only boys at the new school in Addis Ababa. 
+Parents are encouraged to help the students, but this does not work out equally because of gender 
+roles and affinities.  I know you have collected some data on this: 
+ 
+bäɨrgɨt’ ɨnnat-otʃtʃ-atʃtʃäw  set    lɨdʒ-otʃtʃ-u-n         hulgize  yɨ-rädd-all-u, 
+surely   mother-PL-their      girl  child-PL-DEF-ACC  always  3PL.S-help.IPFV-AUX-3PL.S 
+ 
+abbat-u     gɨn  yätɨññaw-ɨn     lɨdʒ    andand gize  yɨ-rädd-all? 
+father-his  but  which.M-ACC  child  some    time  3MSG.S-help.IPFV-AUX.3MSG.S 
+‘Obviously, their mothers always help the girls, but which boy does his father sometimes help?’ 
+ 
+In turn, Kramer (2014) observes that OMs in Amharic cannot normally double a simple question word 
+like ‘who’ or ‘what’ but can double a D-linked wh-phrase like ‘which N’, as shown in (48). 
+ 
+(48) a. Gɨrma      tɨnant        mann-ɨn        ayy-ä(*-w)                         
+    Girma.M  yesterday  who.M-ACC   see.PFV-3MSG.S(*-3MSG.O)      
+     ‘Who did Girma see yesterday? (Kramer 2014:601) 
+ b. Almaz    tɨnant yätɨñnaw-ɨn tämari ayy-ätʃtʃ-ɨw? 
+  Almaz.F   yesterday which.M-ACC student see.PFV-3FSG.S-3MSG.O 
+  ‘Which student did Almaz see yesterday?’ (Kramer 2014:601) 
+We explain this contrast also by saying that simple question words count as binding q-variables for 
+purposes of (39), but D-linked ones do not (or do not always).29 
+ Our explanation here is perhaps not as deep as one might want, in that we have offered no 
+predictive principle about which DPs give weak crossover effects and which do not and why. We will not 
+be the first to truly crack this open (but see fn. 44 for a conjecture). However, we have shown that the 
+same kinds of DPs that resist doubling by an OM also give weak crossover effects in more standard 
+structures in Amharic (as well as English). We take this to be evidence that the two phenomena are 
+related, and hence that OMs in Amharic are intrinsically pronominal, not mere agreement markers.30 
+ 
+4.3 Doubling of experiencer arguments 
+ 
+                                                           
+29 Indeed, ‘who’ can sometimes be given a D-linked reading in a particular context, and this affects CD judgments, 
+as one would expect. Thus, a consultant spontaneously observed that (31)a is better if there are several known 
+potential male kissees in the context—i.e., when ‘who’ is essentially synonymous with ‘which of the boys’. 
+The CD behavior of other D-like elements seems to have more to do with specificity than with weak 
+crossover. Hence and N ‘a (certain) N’, hulätt N-PL ‘two Ns’, and bɨzu N ‘many Ns’ can either be doubled by an 
+OM or not, depending on the sort of reading the NP/DP is assigned—specific, nonspecific, or partitive (Haile 1970, 
+Yabe 2001). Finally, generic objects cannot be doubled by an OM in Amharic (even though generic DPs must 
+undergo Object Shift in Dutch, Broekhuis 2008:221). We do not pursue the specificity effect in detail here. 
+30 An alternative analysis for Amharic is Eilam’s (2009), who proposes that the semantic restrictions on doubled 
+objects can be explained if doubled objects are all topics, and topics cannot be non-referential, quantificational, etc. 
+However, this alternative does not explain all the restrictions: it leaves open why ‘which NP’ can be doubled but not 
+‘what’, for example (see Eilam 2009:224). It also does not fit well with research on topics in Amharic (Demeke and 
+Meyer 2007), which claims that all topics in Amharic are at the left periphery, whereas doubled objects are not. In 
+addition, native speaker linguists report that adding an OM can result in a contrastive  focus interpretation for the 
+doubled object rather than a topic interpretation (Haile 1970, Demeke 2003:Ch.4). It is even grammatical for an OM 
+to double a definite DP that is the answer to a wh-question -- a clear case of doubling a focused DP. Therefore, the 
+full range of effects we have studied here cannot all be derived from the idea that all doubled DPs are topics.  
+
+PDF PAGE 23
+23 
+ 
+So far we have seen that in Amharic OMs cannot double nonreferential quantifiers that function as the 
+direct or indirect object of the clause, attributing this to crossover. However, there is one syntactic 
+environment in which this kind of doubling is possible: a special category of experiencer predicates. 
+Amharic does not have dative subject constructions per se, as some I-E languages do, but it does have a 
+not-so-small set of predicates in which the experiencer “subject” cannot trigger subject agreement, but 
+instead is doubled by an OM on the verb. Such predicates may also take a theme argument, and even if 
+they do not, they generally allow a cognate argument related to the verb root (see Leslau 1995:435-439, 
+Amberber 2005:303-314). (49) gives two typical examples. 
+ 
+(49) a. Almaz(-ɨn) (rab) rab-at. 
+ Almaz.F(-ACC) (hunger.M) hunger(3MSG.S)-3FSG.O  
+ ‘Almaz is hungry.’ 
+ 
+b. Aster       gänzäb       tʼäff-at 
+ Aster.F    money.M    lose(3MSG.S)-3FSG.O 
+ ‘Aster lost some money.’ 
+  
+Interestingly, in this type of structure, it is possible for nonreferential quantifiers to be doubled by an OM, 
+as shown in (50). This contrasts with the badness of OMs doubling such DPs used as theme-objects.  
+ 
+(50) a. Mann(-ɨn) ammäm-ä-w ?     (Interrogative) 
+  who(-ACC) hurt-3MSG.S-3MSG.O 
+  ‘Who is sick?’  
+ 
+ b. Hullu  säw  gänzäb  tʼäffa-w        (Quantified NP) 
+  every  person money lose(3MSG.S)-3MSG.O 
+  ‘Everyone lost some money.’ 
+ 
+c. Mann-ɨmm säw gänzäb al-tʼäffa-w-ɨmm              (Negative quantifier /polarity item) 
+  who-FOC person money  NEG-lose(3MSG.S)-3MSG.O-FOC 
+  ‘No one lost money.’ 
+ 
+In these examples, the OM seems to behave like an agreement marker, rather than like a pronominal 
+clitic. Because of facts analogous to this, researchers on Romance languages have often proposed that 
+dative clitics are really agreement morphemes, whereas accusative clitics are true pronominal clitics 
+(Sportiche 1996, Bleam 1999, Ormazabal and Romero 2013, etc.; see also Krapova and Cinque 2008 on 
+Bulgarian, and for references to other languages). But for Amharic it is not very satisfying simply to 
+stipulate this difference, given that there is no formal distinction between dative OMs and accusative 
+OMs, as discussed above. We seem to have the very same OMs in (50) that we have in (2), so the 
+question arises why these elements trigger restrictions in one syntactic context but not the other. 
+ In fact, it is not hard to give a unified account of these facts within our theory in which having an 
+OM double a quantified object is ruled out as a weak crossover violation. It is well-known that moving a 
+quantified DP to an A-position higher than the pronoun can avoid the WCO violation. This is seen in 
+familiar pairs like (51) in English, as well as in the literature on clause-internal scrambling; see also (34) 
+for passive affecting weak crossover judgments in Amharic. 
+ 
+(51) a. *It seems to her father that every girl is beautiful.   (Out by crossover) 
+b. Every girl seems to her father  -- to be beautiful.     (Possible) 
+ 
+
+PDF PAGE 24
+24 
+ 
+We can, then, reconcile the idea that OMs are always pronominal clitics in Amharic with the goodness of 
+(50) if we assume that experiencers move to an A-position higher than the D in experiencer constructions, 
+whereas theme objects of transitive clauses do not (A-) move higher than the D in [D - v].  
+ Indeed, this seems eminently reasonable to assume, given that experiencers are the notional 
+subjects of the clauses in (49) and (50). There are several reasons for saying this. First, they are the 
+highest arguments thematically, and the natural topics of the clause (Amberber 2005: 313). Second, they 
+can and most often do appear in nominative case, the case for subjects not c-commanded by any other DP 
+in Amharic (although accusative case is also possible; see Baker (2012b, 2015) on this alternation). 
+Possible evidence that these experiencers sit in an A-position like Spec TP rather than an A-bar position 
+like Spec of Topic Phrase is that they can act as controllers, which is a canonical property of subjects, not 
+topics. In (52), ‘Almaz’ is an experiencer in that it does not trigger feminine singular subject agreement 
+on the verb ‘need’, but rather is doubled by an OM. Nevertheless, it controls the null subject of the 
+infinitival complement of ‘need’, just as the subject does in English. 
+ 
+(52) Almaz  [PRO mɨgɨb  mä-blat]    y-asfällɨg-at-all. 
+Almaz            food    INF-eat      3MSG.S-need.IPFV-3FSG.O-AUX.3MSG.S 
+‘Almaz needs to eat some food.’ 
+ 
+Also relevant is the fact that, if the experiencer is a quantified DP, it can bind a variable inside the theme 
+argument, as shown in (53); no weak crossover effect arises here. 
+ 
+(53) Hullu   säw      lɨdʒ-u       t’äffa-w 
+ every   person  child-his  lost(3MSG.S)-3MSG.O 
+ ‘Everyone lost his own child.’  (Bound variable anaphora is OK) 
+ 
+We conclude that the experiencer is associated with an A-position that c-commands the theme argument. 
+It is plausible, then, to say that it also c-commands the D merged with v in this construction.  
+ Overall, then, the structure of an example like (50)b is approximately (54). 
+ 
+(54)               TP  
+                     q    i 
+                  DP                              T 
+              everyone                ri 
+                                       vP                     T 
+                              rp                                
+                            VP                        v               
+                       3               2 
+                                <DP>            V         v            D                  
+               <everyone>3         
+                                DP               V              
+                             money          lose 
+ 
+Here the experiencer argument is generated inside VP; if there is also a theme argument (or a cognate 
+object), the experiencer is the higher of the two arguments inside VP (analogous to goals being higher 
+than themes in DOCs). D is merged with v and v undergoes Agree with the highest DP inside its domain, 
+namely the experiencer.  This creates a referential dependency of D on the experiencer DP (see (22)). So 
+far this is just like clitic doubling in ditransitive constructions with a goal. But what is special about these 
+experiencer constructions is that there is no higher agent argument; therefore, the experiencer argument 
+can A-move to Spec TP, as dative-experiencer subjects do in Icelandic and other languages, putting it 
+above the D adjoined to v. We assume that when this happens, D is most immediately referentially 
+
+PDF PAGE 25
+25 
+ 
+dependent on the head of the chain formed by this movement. This assumption is made explicit in (55), 
+where we represent referential dependence with arrows. Therefore, the representation derived from (55b) 
+by movement is (55c), which becomes (55d) by QR.31 
+ 
+(55) a. If X is initially referentially dependent on Y, and Y forms an A-chain with Z, Z c-commanding  
+  Y, then X is referentially dependent on Z. 
+. 
+ b. [vP [D v]  [VP  everyone  lose money ]]   by Agree, (22) 
+ 
+                              
+ c. [TP everyone T  [vP [D v] [VP  <everyone>  lose money ]]]   by EPP-driven A-mov’t 
+                               
+ 
+ d. [TP   everyone   [TP <everyone> T  [vP  [D v]  [VP  <everyone>  lose money ]]]]  by QR 
+                                                           
+ 
+The D merged with v now counts as a pronoun that is referentially dependent on a copy of DP that c-
+commands it from an A position. This makes all the difference with respect to crossover. When the 
+experiencer undergoes QR from Spec TP, adjoining to the clause to represent its scope at LF, the q-
+variable bound by the quantifier is in Spec TP, a position not c-commanded by D, [D - v], or any other 
+constituent containing D. As a result, D’s referential dependence on this q-variable is allowed by the 
+Crossover Condition in (39), or the equivalent. We can thus account for the goodness of (50) without 
+having to stipulate that in Amharic some OMs are pronominal clitics and others are not, as is desirable.32 
+ Having an OM double a non-agentive derived subject is possible with experiencer predicates in 
+Amharic, but not with unaccusative verbs like ‘die’ or ‘fall’, nor with passive clauses. The analysis of 
+examples like (49) and (50) will not be complete until this contrast has been addressed, which requires 
+some revision of the representation. We discuss this issue in section 5.2. 
+ 
+4.4  An extension: OMs and nominals that contain a bound variable 
+ 
+Before moving on to Binding theory issues, however, there is one relatively novel effect that our account 
+of crossover effects can be extended to cover. Among the class of definite DPs that can be doubled by an 
+OM are common nouns with a pronominal possessor, as in (56). 
+ 
+(56)   Lämma       lɨdʒ-ɨh-ɨn                   ayy-ä-w 
+  Lemma.M  child.M-your.M-ACC  see.PFV-3MSG.S-3MSG.O 
+ ‘Lemma saw your child.’ 
+ 
+However, something interesting happens when the subject of a sentence like this is a quantified DP. Then 
+the OM is possible, but only if the possessor of the object is understood as some specific individual, 
+known from discourse. Thus (57)a with an OM on the verb cannot have the otherwise easily available 
+                                                           
+31 Higginbotham (1983) and Safir (2004b) apparently do not need a principle like (55a), since they assume that 
+referential dependencies are freely formed at the conceptual interface. Although (55a) might be eliminable (for 
+example, by reducing it to “Have Local Binding” (Rule H), presented in (65) below), we find it convenient to state it 
+explicitly, because for us the initial referential dependency of D on the highest object in VP is grammatically 
+enforced, as part of the licensing of the CD structure; referential dependencies thus are not all freely formed. 
+32 At this point, one might wonder why these experiencer arguments do not trigger subject agreement on the verb. 
+See fns. 37 and 40 for discussion of possible ways to prevent this. 
+
+PDF PAGE 26
+26 
+ 
+interpretation that every person x loves x’s own child.33  Similarly, (57b) with the OM on the verb cannot 
+mean for all x, x gave x’s wife some money, with a bound variable in the doubled dative argument. 
+ 
+(57) a. hullu säw lɨdʒ-u-n  yɨ-wädd-ä-(#w)-all  
+ Every person child.M-his-ACC  3MSG.S-love.IPFV-3MGS.S-(3MSG.O)-AUX.3MSG.S 
+ ‘Everyone loves his child.’ (Bad with OM as ‘every person x loves x’s own child’) 
+ 
+ b. Hullu-mm   säw       lä-mist-u        gänzäb  sät’t’-ä               (#sät’t’-at) 
+  every-FOC   person  DAT-wife-his  money  give.PFV-3MSG.S           give.PFV(3MSG.S)-3FSG.O 
+  ‘Everyone gave his wife some money.’ (bound reading only OK iff OM is omitted) 
+ 
+We want to say that the badness of (57) is also a sort of crossover violation, in an extended sense.  
+ In fact, the desired result follows readily from the Crossover Condition in (39), repeated here as 
+(58), given a certain understanding of referential dependency. 
+ 
+(58) The Crossover Condition: 
+X can be interpreted as dependent on a quantified antecedent Y only if  
+(i) X is a q-variable of Y, or  
+(ii) there is no q-variable of Y, or 
+(iii) X is dependent on a variable of Y that no constituent containing X c-commands. 
+ 
+Safir (2004b: 69-70) motivates an extension of the notion of referential dependency, such that if X is 
+dependent on an antecedent Y, then larger DPs that contain X are also referentially dependent on Y. This 
+is intuitive, in the sense that the referential value of the larger DP cannot be calculated without consulting 
+Y. Moreover, the notion of referential dependence is understood as being transitive: if X is dependent on 
+Y and Y is dependent on Z, then X is dependent on Z. We can break this down one step further, and say 
+that a larger DP is referentially dependent on a smaller DP inside it, and therefore is referentially 
+dependent on something that the smaller DP depends on.  
+ With these clarifications of the notion of referential dependence in hand, we can put the pieces 
+together and apply them to an example like (57a). The possessive pronoun ‘his’ inside the object ‘his 
+child’ is straightforwardly referentially dependent on the quantifier ‘everyone’ in the interpretation of 
+interest; this is allowed by the Crossover Condition, since no phrase containing ‘his’ c-commands the q-
+variable of ‘everyone’ in the subject position after QR (for example, ‘his child’ does not).  Then the larger 
+DP ‘his child’ is referentially dependent on ‘his’, and therefore also on ‘everyone’. Finally, the OM 
+merged with v is referentially dependent on the object ‘his child’ by (22), as usual for a CD structure. 
+Therefore, by the transitivity of referential dependence, ‘D’ is also dependent on ‘his’ and on ‘everyone’. 
+Since D is dependent on ‘everyone’, the Crossover Condition applies, checking if this dependency is 
+well-formed or not. The answer is that it is not, since D is also dependent on a variable bound by 
+‘everyone’, namely the pronoun ‘his’, which [D - v] containing D c-commands.34 Therefore condition (iii) 
+of (58) is not satisfied, and examples like (57a) are weak crossover violations in an extended sense. 
+ That referential dependency should be understood in this extended way for purposes of evaluating 
+a structure for crossover violations can be observed in English also, quite apart from CD constructions. So 
+consider (59)a in English, which is deviant as compared to the control sentences in (59)b and (59)c. 
+ 
+                                                           
+33 Two of three consultants clearly get this effect, although one seems not to. Note also that Leslau (1995: section 
+36) has quite a few examples of this general type, but none of them has a doubling OM.  
+34 Note that ‘his’ here is a variable bound by ‘everyone’ but not a q-variable of ‘everyone’. This motivates our 
+interpretative decision to use “variable” rather than “q-variable” in (39iii)/(58iii). As far as we can see, this decision 
+does not lead to any problems in the standard cases. 
+
+PDF PAGE 27
+27 
+ 
+(59) a. ??Every well-adjusted boy accepts that her new husband loves his mother.  
+b. (?)John accepts that her new husband loves his mother.  
+ c. Every well-adjusted boy accepts that his mother is loved by her new husband. 
+ 
+In (59)a the quantified subject of the matrix clause binds a pronoun inside the direct object of the 
+embedded clause. Meanwhile, the subject of the embedded clause properly contains a pronoun her that is 
+intended to be referentially dependent on the object his mother. But this interpretation is bad; it has the 
+flavor of a weak crossover violation. (58) explains why.  The pronoun her is trying to be referentially 
+dependent on the DP his mother, but his mother is in turn referentially dependent his and thus on every 
+well-adjusted boy which binds his. Therefore, her is (indirectly) referentially dependent on every well-
+adjusted boy, and (58) applies. But (58) is not satisfied, because her depends on a variable of every well-
+adjusted boy, namely his, via the larger DP his mother, and a DP containing her (her new husband) c-
+commands this variable. Therefore, (59a) violates the Crossover Condition. (59)b is a control sentence in 
+which the depended-on DP his mother does not contain a bound variable, and it is better. (59)c is a second 
+control sentence in which the depended-on DP his mother is not c-commanded by the DP containing the 
+dependent pronoun her as a result of passivization; it is even better. Therefore, the interpretation of the 
+Crossover Condition that explains why the CD examples in (57) are bad in Amharic is independently 
+motivated in English. 
+ We take the discovery in (57) to be rather significant, because it shows the fecundity of our clitic 
+doubling analysis in extending to new data. In contrast, an account in terms of agreement would not 
+predict this effect, and does not explain it. For example, there is no reason at all to think that ‘his child’ in 
+(57) has different phi-features from ‘your child’ in (56), such that it cannot trigger third masculine 
+singular agreement on the verb. Nor would an account based on restrictions on object shift apply to (57), 
+since it is perfectly possible for a DP that contains a variable bound by a quantifier to undergo object shift 
+in Icelandic (G. Harðarson, p.c.) and Dutch. (60) is an example from Dutch (Broekhuis, p.c.). 
+ 
+(60) ... dat iedereen   zijn salaris  waarschijnlijk --  wat            later  krijgt 
+  that everyone   his  salary   probably              somewhat later  gets 
+  '…that everyone will probably get his salary a bit later.' 
+ 
+Therefore, assuming that the OM is literally a pronoun and interpreted as such at LF is crucial to 
+explaining this phenomenon, at least among the range of analyses currently in view. This increases the 
+diversity of the examples that can be explained by our clitic doubling analysis but not by alternatives.  
+ 
+5. OMs and Binding Theory 
+ 
+5.1. OMs doubling anaphors 
+ 
+Next we extend the idea that doubling clitics count as pronouns into the domain of Binding theory, so as 
+to explain the last key fact in (2): the fact that an OM cannot double a reflexive anaphor in Amharic, as 
+shown again in (61)a. In contrast, the anaphor is fine if it is not doubled ((61)b). (61c) shows that an OM 
+cannot double an anaphor in the dative/indirect object position of a DOC either. 
+ 
+(61) a. *Lämma ras-u-n           gäddäl-ä-w. 
+       Lemma.M self.M-his-ACC   kill.PFV-3MSG.S-3MSG.O 
+ Lemma killed himself. 
+ 
+b. Lämma ras-u-n               gäddäl-ä    
+ Lemma.M self.M-his-ACC   kill.PFV-3MSG.S 
+ ‘Lemma killed himself.’ 
+ 
+
+PDF PAGE 28
+28 
+ 
+ c. Almaz     gänzäb-u-n              lä-ras-wa         sät’t’-ätʃtʃ-(*at) 
+  Almaz.F  money-DEF.M-ACC  DAT-self-her   give.PFV-3FSG.S-(*3FSG.O) 
+  ‘Almaz gave the money to herself.’ 
+ 
+Our leading idea about this restriction is again rooted in the assumption that the OM is intrinsically a 
+pronoun for purposes of interpretation at LF.  As such, it is required to be disjoint in reference from the 
+subject of the clause that contains it.  As mentioned in section 3.2, the idea that the OM is indeed 
+pronominal in this sense is supported by the fact that in examples like (21a), repeated here as (62), where 
+there is an OM but no overt doubled DP, the OM cannot refer to the subject of the same clause. 
+ 
+(62) #Lämma gäddäl-ä-w. 
+Lemma.M kill.PFV-3MSG.S-3MSG.O 
+ ‘Lemma killed him.’ (him  Lemma) 
+ 
+The idea, then, is that (61a) violates the Binding theory for essentially the same reason that (62) does. If 
+so, this is important because it provides converging evidence that OMs in Amharic are intrinsically 
+pronominal, counting as such for Binding theory as well as for the Crossover condition. 
+ In fact, this result is essentially immediate within the classic Chomsky 1981-style binding theory 
+and closely related work. Chomsky’s Condition B can be stated as follows:  
+ 
+(63) A pronoun cannot be referentially dependent on a DP that c-commands it within the same binding 
+domain (roughly the same clause). 
+ 
+The D(P) merged with v counts as a pronoun in both (62) and (61a,c) because it has a full set of phi-
+features (third, masculine, singular) and a category feature (D) but no descriptive/encyclopedic content 
+(cf. Reuland 2011: 22).  Moreover, it is c-commanded by the subject ‘Lemma’ in Spec TP, and they are in 
+the same binding domain (clause). Therefore, Condition B is indeed violated in both.  
+ The one additional issue that might need to be clarified with respect to (61a,c) is whether these 
+examples could sneak through because the OM can be referentially dependent on the anaphor in object 
+position in the first instance (see (22)), a referential dependency that is grammatically permitted. Then the 
+anaphor in object position can in turn be referentially dependent on the subject, which is clearly possible 
+(seen in (61b)). The consequence might be that (61a,c) could be possible with the OM indirectly 
+referentially dependent on the subject—contrary to fact. Fortunately, it is well-known in the Binding 
+theory literature that obviation conditions like Condition B and Condition C cannot normally be 
+circumvented in this way.  For example, one might think that (64a) should be possible with both pronouns 
+referring to Mary because the object of the lower clause her takes Mary as its direct antecedent, rather 
+than she—a dependency that is clearly possible in (64b). But (64a) is definitely not possible (see 
+Higginbotham (1983: 407), Safir (2004a,b), and Büring (2005: 120-121) for discussion, among others). 
+ 
+(64) a. Mary thinks that she embarrassed her. 
+          
+          
+   
+b. Mary thinks that John embarrassed her. 
+ 
+ 
+A standard way of closing this loophole this is what Büring (2005:121) calls “Have Local Binding!”, a 
+slight reformulation of Fox’s (2000: Chap. 4) “Rule H”, itself based on observations by Irene Heim. 
+ 
+
+PDF PAGE 29
+29 
+ 
+(65) Have Local Binding: 
+For any two NPs/DPs A and B, if A c-commands B and B is not bound within A’s c-command 
+domain, A must bind B unless that changes the interpretation. 
+ 
+The condition in (65) forces her in (64a) to be directly bound by (referentially dependent on) she, not 
+Mary, and this representation does violate Condition B in the usual way (cf. *She embarrassed her). In a 
+similar way, (65) forces the OM to be bound by (referentially dependent on) ‘Lemma’ rather than on 
+‘himself’ in (61a)—changing the initial referential dependency created in accordance with (22)—since 
+Lemma c-commands the OM, the two corefer in the intended interpretation, and there is no closer binder 
+for the OM. Therefore (61a) also violates Condition B in (63).  
+ Overall, then, Binding theory explains why it is impossible to have an OM double a reflexive 
+anaphor given that the OM is a pronominal clitic, not merely an agreement marker, to which Condition B 
+would not apply. We have formulated this analysis in terms of classical Binding theory, but we believe 
+that the same result would follow in many of the more recent updates of Binding theory, if not all.35 
+ 
+5.2  Application: OMs with derived theme subjects 
+ 
+With this result in hand, we are now in a position to return to a question raised in section 4.3 above but 
+not resolved: why can’t an OM double the derived subject of an unaccusative or passive verb?  That it 
+cannot is shown by the sharp badness of examples like (66) with an OM included. 
+  
+(66) a. Almaz  wäddäk’-ätʃtʃ-(*at)  
+  Almaz  fall.PFV-3FSG.S-(*3FSG.O) 
+  ‘Almaz fell.’ 
+ 
+ b. Almaz  bä-Gɨrma  tä-sam-ätʃtʃ-(*at) 
+  Almaz  by-Girma  PASS-kiss.PFV-3FSG.S-(*3FSG.O)  
+  ‘Almaz was kissed by Girma.’ 
+ 
+In one sense, we do not expect such examples to be good, since OMs are object markers, and these DPs 
+are not objects on the surface, but rather subjects. But as one pauses to think about the derivation, it is not 
+so obvious why it should be bad. ‘Almaz’ in these sentences presumably starts in the theme position 
+inside VP, just as direct objects do (the Unaccusative Hypothesis).  Then when v is merged, it can enter 
+into Agree with the DP inside VP, as usual, inducing agreement and thus referential dependency between 
+a D adjoined to v and the DP theme. Next the DP theme moves to Spec TP, but it is not immediately 
+obvious why that should break the relationship between D and DP, or cause some other problem. Indeed 
+in section 4.3 we assumed that essentially this derivation was possible with experiencer constructions, in 
+order to explain why OMs can double quantified DPs (only) in such sentences.  In I-E languages with 
+CD, one might be able to rule out examples like (66) by a case matching requirement: the object clitics 
+                                                           
+35 For example, in Reinhart and Reuland’s (1993) reflexivity framework (updated by Reuland 2011), (61a) like (62) 
+violates the Chain condition.  In both examples, (Lemma, OM) counts as a chain because the D(P)s are coindexed, 
+‘Lemma’ c-commands the OM, and there is no barrier between them (they are in the same clause). However, 
+(Lemma, OM) violates the Chain condition, because the tail of this chain (OM) is +R: it is referential, having a full 
+set of phi-features. 
+ One more recent Binding theory that might need some adaptation for our facts is the competition-based 
+binding theory of Safir (2004a). On Safir’s view, a pronoun is blocked in a certain position with a certain 
+interpretation if and only if an anaphor (more generally, a more dependent item) is possible in that posi tion with that 
+interpretation. The problem is that Amharic—unlike many Bantu languages and I-E languages—does not happen to 
+have an (overt) reflexive clitic that would compete with the pronominal OM in (61a). We do not consider the 
+problem a deep one for Safir’s binding theory, however; for example, it might be patched by positing a null 
+anaphoric clitic in Amharic, which would be present covertly along with the ‘self’ anaphor in an example like (61b).   
+
+PDF PAGE 30
+30 
+ 
+have accusative (or dative) case, whereas the doubled DPs in (66) are nominative.  But this is unlikely to 
+work for Amharic, since its OMs seem not to be marked for any particular case. Thus the same OMs that 
+double accusative objects in monotransitive constructions can double dative objects in ditransitive 
+constructions ((17a)).  Indeed, they can even double nominative DPs in the aforementioned experiencer 
+constructions (see (49)). So far, then, we do not have an obvious explanation for the badness of (66). 
+ But now in the light of this section, we have a plausible solution: these examples are also 
+Condition B-type violations of the Binding theory, on par with (62) and (61a). This is because the OMs in 
+(66) are illicitly bound by the local (derived) subject, just as the OM is bound by the (underived) subject 
+in (62). The derivation looks like (67), with referential dependency relations indicated. 
+ 
+(67) a.  [vP [D- v]  [VP  fall   Almaz ]] 
+                          
+   
+ 
+ b. [TP  Almaz  T  [vP [D  v]  [VP  fall   <Almaz> ]]] 
+                                 
+ 
+ 
+As usual, D initially links to the DP inside VP that it agrees with via v, as shown in (67a). Then the DP 
+inside VP moves to Spec TP to satisfy the EPP property of T, as in (67b).  In the derived structure, D 
+becomes referentially dependent on the Spec TP position (see (55a), possibly a result of Have Local 
+Binding in (65)). The resulting representation is then essentially the same as that of (61a), except that 
+object position contains a trace bound by the subject rather than an anaphor bound by the subject. (67b) 
+thus runs afoul of Binding theory for the same reason: D is a pronoun referentially dependent on a DP that 
+c-commands it within the same clause, a condition B violation. Binding theory therefore correctly rules 
+out (66a,b) using assumptions already in place. 
+ The outcome should be different if the OM did not count as a pronoun—for example, if it were a 
+mere agreement marker (see (82) below), or if it were an anaphor. Then there would be no Condition B 
+violation, since the anaphor would be subject to Condition A instead. This logical possibility is not 
+attested in Amharic since Amharic does not have any anaphoric OMs.  The possibility is attested in 
+Romance languages, however, where the anaphoric clitic se is often found in unaccusative structures: 
+ 
+(68) La fenêtre     s’est       cassée.        French 
+the window  itself-is  broken. 
+’The window broke.’ (Burzio 1986: 142) 
+ 
+This drives home the fact that the intrinsic pronominal nature of OMs in Amharic—related to them 
+having a full complement of phi-features— is essential to explaining the badness of (66).36 
+ So far, so good, but now we need to harmonize this account of the badness of an OM with 
+unaccusative and passive subjects with the goodness of an OM with experiencer subjects, in the data 
+discussed in section 4.3.  Two relevant examples with experiencer subjects are repeated here as (69).   
+ 
+(69) a. Almaz(-ɨn) (rab) rab-at. 
+ Almaz.F(-ACC) (hunger.M) hunger(3MSG.S)-3FSG.O 
+ ‘Almaz is hungry.’ 
+ 
+                                                           
+36 Again, there is a challenge to Safir’s (2004a) competition-based binding theory here, since that might predict that 
+a pronoun is possible in a structure like (67b) in a language like Amharic when there is (seemingly) no anaphoric 
+element in competition with it. See note 35 for some discussion. 
+
+PDF PAGE 31
+31 
+ 
+b. Aster     gänzäb      tʼäff-at 
+ Aster.F  money.M  lose(3MSG.S)-3FSG.O 
+ ‘Aster lost some money.’ 
+ 
+These must have derived subjects too: the experiencer must start lower than v, or v and the D adjoined to 
+it could not agree with it, and it must move to an A-position higher than D or there would be crossover 
+violations when the experiencer is a quantified DP. So what is the difference between them? 
+ In fact, Baker (2012b, 2015) addresses a closely related question and makes a proposal that we 
+can invoke here.  He starts with the observation that Amharic has two kinds of ditransitive constructions: 
+goal verbs like ‘give’ and ‘tell’, and source verbs like ‘rob’.  In active sentences, the two look extremely 
+similar, and indeed we already saw that they have parallel clitic doubling behavior, such that an OM can 
+double the higher source/goal argument but not the lower theme argument, as shown again in (70). ((70a) 
+is the version with an accusative goal rather than a dative goal, to maximize the similarity.) 
+ 
+(70) a. Lämma     Almaz-ɨn       tarik-u-n               näggär-at.     (*näggär-ä-w) 
+ Lemma.M Almaz.F-ACC story.M-DEF-ACC tell.PFV(3MSG.S)-3FSG.O *tell.PFV-3MSG.S-3MSG.O 
+ ‘Lemma told Almaz the story.’ 
+ 
+ b. Lämma     Aster-ɨn       gänzäb-u-n           särräk’-(at).            (*särräk’-ä-w) 
+  Lemma.M Aster.F-ACC money-DEF-ACC  rob.PFV(3MSG.S)-3FSG.O  rob.PFV-3MSG.S-3MSG.O  
+ ‘Lemma robbed Aster of the money.’  (Baker 2012b:49-50) 
+However, a striking difference appears when the two sorts of predicates are passivized, as shown in (71). 
+The source sentence in (71b) behaves more as one would expect.  The higher source object becomes the 
+subject of the passive sentence in every relevant respect: it is in nominative case, triggers subject 
+agreement on the verb, and triggers accusative case on its coargument ‘her suitcase’.  It also cannot be 
+doubled by an OM—just like the subject of the passive of a monotransitive verb in (66b) cannot be.  The 
+goal sentence in (71a) is different. Although the goal ‘Almaz’ can be in nominative case, it is defective as 
+a subject in other respects: it does not trigger subject agreement on the verb, and it does not trigger 
+accusative case on its coargument ‘story’. It also can be doubled by an OM—just like the subjects of 
+experiencer predicates like (69) can be. 
+ 
+(71) a. Almaz tarik-u-(*n) tä-nägr-ow-at       näbbär. 
+  Almaz.F story-DEF-(*ACC) PASS-tell-3MSG.GER-3FSG.O AUX 
+  ‘Almaz was told the story.’ 
+ 
+b. Aster ʃant’a-wa-n  tä-särräk’-äʧʧ-(*at) 
+ Aster.F suitcase.M-her-ACC PASS-rob.PFV-3FSG.S-(*3FSG.O) 
+ ‘Aster was robbed of her suitcase.’ 
+ 
+So passives of goal predicates are like experiencer predicates, whereas passives of source predicates are 
+like ordinary unaccusatives and passives with respect to OM-doubling, as well as in other respects. 
+ Baker (2012b) then asks why the goal argument of a ditransitive verb in Amharic cannot become 
+the subject of a passive for purposes of case and agreement, whereas an otherwise similar source 
+argument can. His answer was that goal arguments in Amharic are generated inside a PP headed by a null 
+P, whereas theme arguments and source arguments are not. The most straightforward consequence of this 
+PP shell is that it prevents the goal DP from c-commanding the theme DP and triggering accusative case 
+on it, assuming a dependent case theory of accusative along the lines of Marantz (1991), supported for 
+
+PDF PAGE 32
+32 
+ 
+Amharic in Baker (2012a, 2015).37 Baker then extends this proposal to one argument verbs: normal 
+unaccusatives take an ordinary DP argument, whereas experiencer verbs take a null-headed PP argument. 
+(Compare I-E languages like Icelandic, where goals and experiencers both bear quirky dative case; the 
+null headed PP shell in Amharic is basically its version of the same cross-linguistic tendency to use the 
+same distinctive morphosyntax for both goals and experiencers). 
+ Now this covert structural difference which accounts for differences in accusative case 
+assignment (and perhaps subject agreement) is also sufficient to address the difference in clitic doubling 
+that concerns us here. The final representation for the unaccusative and normal passive structure is the 
+same as before, repeated in (72a), with arrows again indicating the important referential dependency. The 
+final representation for the experiencer predicates and passives of goal structures is very similar, but there 
+is an additional PP shell around the derived subject, as shown in (72b). 
+ 
+(72) a.                                TP  
+                     q  i 
+                  DP                            T 
+              Almaz                 ri 
+                                       vP                     T 
+                              rp                                
+                            VP                        v               
+                       3               2 
+                                <DP>          V        v            D                  
+               <Almaz>        fall 
+ 
+ 
+ 
+ b.                                 TP  
+                     q  p 
+                  PP                                    T 
+              2                        ri 
+            P          DP                 vP                     T 
+                  Almaz       rp                                
+                                   VP                           v               
+                              3                  2 
+                                    <PP>             V            v            D                  
+                   <P-Almaz>    be.hungry 
+ 
+ 
+(72a) is a Condition B violation, as before. But (72b) is not, because ‘Almaz’ embedded inside the PP 
+shell does not c-command D. Thus, Condition B is not violated in (72b). The same piece of covert 
+                                                           
+37  Baker (2012b) also used the PP shell around goal and experiencer arguments to explain why v can agree with a 
+goal/experiencer argument in Amharic, but T cannot. Simplifying slightly, the idea was that the PP structure 
+prevents the goal/experiencer from satisfying T’s EPP property, and T must agree with the XP that satisfies its EPP 
+property in Amharic. Therefore, the theme argument must move to Spec TP and agree with T rather than the goal. 
+This led to saying that in examples with goal/experiencer-theme-verb word order, the goal/experiencer moves to a 
+distinct position above TP that is not associated with agreement or restricted to DPs, such as Spec TopP.  We could 
+adopt this view here too, except that for us the high position of sentence-initial goals/experiencers would have to be 
+an A-position so that movement to it bleeds weak crossover (see section 4.3). Perhaps it is really Spec SubjectP in 
+the sense of Cardinaletti (2004) and Rizzi (2006). However, we suppress this possible distinction between Spec TP 
+and Spec SubjP for simplicity. See fn 40 for an alternative way of ruling out subject agreement with experiencers. 
+
+PDF PAGE 33
+33 
+ 
+structure that explains why the theme argument is accusative in (71b) but not in (71a) or (69b) also 
+explains why an OM can double the nominative DP in (71a) and (69) but not in (71b) and (66).38 
+ Finally, recall that a structure like (72b) is possible with a quantified DP in the position of 
+‘Almaz’: there is no weak crossover violation when an OM doubles the experiencer DP. This may seem 
+like a contradiction to those reared on Reinhart’s (1983) influential claim that a DP must c-command a 
+pronoun in order for the pronoun to be interpreted as a variable bound by DP. If so, WCO evidence seems 
+to imply that the experiencer does c-command the OM, whereas Binding theory evidence seems to imply 
+that it does not. But in fact there is no contradiction, because Reinhart’s generalization has turned out to 
+be false, as discussed by Safir (2004a,b) and especially Barker (2012). This is shown already by the 
+grammaticality of familiar examples like Everyone’s mother loves him, whereas Binding theory is more 
+strictly sensitive to c-command, such that John’s mother loves him is not a Condition B violation. 39  Thus 
+all that the Safir-based Crossover Condition in (39) requires is that D(P) and constituents containing it not 
+c-command the variable position associated with the quantified DP, and that holds in (72a) as a result of 
+A-moving the null-headed PP to Spec TP (or Spec SubjP; see fn 37). 40  
+ 
+5.3 Summary 
+ 
+We now have a full analysis of when an OM can or cannot double a DP in Amharic. We set out to explain 
+why OMs cannot double a certain set of quantified DPs and anaphoric DPs. These restrictions do not 
+follow from pure agreement theory, given that at least some of these DPs demonstrably have phi-features. 
+It is not even enough to make Agree contingent on object shift, since some of these DPs count as specific, 
+and can undergo object shift in languages like Dutch and Icelandic. Therefore, we supplement an Agree 
+                                                           
+38 Notice that we are now rather close to having a general explanation for why pronominal subject clitics seem to be 
+rarer across languages than pronominal object clitics: there will often be a Condition B problem between the subject 
+clitic and the doubled subject, parallel to the one that rules out (72a). Descriptively, among the I-E languages subject 
+clitics are found only in Colloquial French and some Northern Italian dialects—a small subset of the languages that 
+have object clitics (and even in some of those varieties the elements in question behave like agreemen t rather than 
+pronominal clitics; see Poletto 2000 and Goria 2004 on Piedmontese). We expect that pronominal subject clitics 
+analyzed as Ds adjoined to T could sneak through if (a) T had no necessary EPP feature, so that [ SMi=T(+V) … 
+Subjecti …] order is allowed, or if (b) subjects front, but to a preverbal A-bar position like TopicP, giving [Subject i 
+SMi+T-V …] order, but where the subject crucially does not A-bind the SM to create a binding theory violation.  
+Colloquial French (Culbertson 2010) and Venuto (Poletto 2000:141, Roberts 2010:111) are two possible cases of the 
+(b) type. Poletto (2000:140) implies that the (a) pattern of having subject clitics with postverbal subjects that are 
+referential but not with ones that are quantified is attested in Italian dialects, but she does not say which ones have 
+this particular pattern. We leave more detailed consideration of subject clitics to future research.  
+39 Note that Binding theory apparently sees the null P in Amharic as a real P like under rather than a weak/case-like 
+P like to, which does not count even for Binding theory (OK is  I talked to Mary about herself).  
+40 An additional fact, which we do not fully analyze here, is that having an OM that doubles the experiencer 
+argument is not only possible, but obligatory: the examples in (69) are ungrammatical if the OM is omitted. We 
+conjecture that the OM is somehow required to cope with the fact that canonical NP movement to Spec TP is not 
+possible in these structures, but something a bit more marked must happen: a PP moves to Spec TP (as in (72b)), or 
+the lower theme argument moves to Spec TP past the higher experiencer argument, or Spec TP is exceptionally left 
+empty. Empirical support for this diagnosis is the fact that the OM is also required in the passive -of-‘tell’ example in 
+(71a), but not in the active version in (70a). This suggests that it is not the intrinsic nature of the doubled argument 
+that makes CD obligatory, but rather whether an internal argument is called on to m ove to Spec TP. This Amharic 
+effect is analogous to Anagnostopoulou’s (2003: 21-27) well-known observation that in Greek goals and 
+experiencers must be clitic-doubled in passive and unaccusative structures. (Her analysis is that this prevents the 
+goal/experiencer from counting as an intervener that blocks the theme from moving to subject position.) 
+ The fact that D+v must agree with the experiencer argument might also be used explain why subject 
+agreement with experiencers is impossible: a single morphological word can only agree with a particular DP once in 
+many languages (see “Kinyalolo’s Generalization” from Carstens 2005), and Amharic seems to be such a language 
+(see e.g., Kramer 2014: 618). 
+
+PDF PAGE 34
+34 
+ 
+theory with the assumption that OMs are Ds merged with v, and hence count as pronouns.  This 
+assumption is a priori plausible, given that OMs without an overt doubled DP are the normal expression 
+of weak object pronouns in Amharic. With that assumption, we can explain the incompatibility of OMs 
+doubling certain quantifiers using the Crossover Condition, and we can explain the incompatibility of 
+OMs doubling anaphors using the Binding theory.  We have also extended our account to explain why 
+OMs cannot double definite DPs that contain a bound variable, why OMs that double experiencer 
+arguments can double quantified DPs, and why OMs cannot double the arguments of unaccusative and 
+passive predicates at all.  We thus claim that this is a successful and fecund analysis. 
+ 
+6. On diagnostics for clitic doubling: a possible cross-linguistic application of the analysis 
+ 
+Although our discussion in the bulk of this article has been focused squarely on Amharic, the analysis has 
+potential implications beyond it. This is because it makes use of one syntactic categorization (that of 
+being a pronoun) and two principles (the Crossover Condition and Principle B of the Binding theory) that 
+are very robust cross-linguistically, and are arguably part of Universal Grammar.  Therefore, it is natural 
+to expect that the same consequences will follow in other languages, wherever essentially the same 
+syntactic structure exists—for any language that allows a D to be merged with v.  If that is so, then we 
+could have an effective diagnostic for pronominal clitics as opposed to simple agreement.  If an OM is 
+pronominal, then it counts as a pronoun for Binding theory and crossover, and the consequence should be 
+that it cannot double a nonreferential quantified DP or anaphor in the domain of the head it adjoins to.  
+Conversely, if an OM can double nonreferential quantified DPs and anaphors in that domain, then 
+crossover and Binding theory are not invoked.  Why not?  Plausibly because the OM is not a pronoun, but 
+rather agreement. This logic could then be applied cross-linguistically to test whether a given morpheme 
+is a pronominal clitic or a simple agreement. And that would be productive, since there has been much 
+confusion and controversy in the literature about how to distinguish pronominal clitics from agreement, 
+and different diagnostics can give conflicting results. With this in mind, we consider somewhat tentatively 
+in this last section what might be involved in applying our results as a diagnostic cross-linguistically. 
+ 
+6.1 Object clitics in some I-E languages  
+ 
+The received wisdom in the field is that many Romance languages, Greek, and Bulgarian/Macedonian 
+have clitic doubling, and these constructions have been much studied—although analyses also exist that 
+reduce clitics to agreement, or that blur the distinction between agreement and clitic doubling. Moreover, 
+there are some significant differences among these languages when it comes to specificity conditions on 
+clitic doubling, animacy conditions, and whether clitic doubling is optional or obligatory in particular 
+situations.  With this in mind, anonymous reviewers have suggested that some I-E languages may have a 
+different kind of clitic doubling than Amharic does.  If so, then, the diagnostic value of our analysis as a 
+way to distinguish pronominal clitics from agreement could be rather limited. 
+ But we are not so sure that I-E languages are significantly different from Amharic in the specific 
+respects that our analysis picks out as being crucial. First of all, in all the languages there are significant 
+restrictions on what quantified DPs can be doubled by a clitic, according to native speaker linguists that 
+we have consulted.  For example, (73) gives examples in which clitic doubling of a quantified DP is 
+degraded or totally out in Greek; (74) gives similar examples for Bulgarian.   
+ 
+(73) a. *S'  aftin tin  xora,     i     kivernisi      ton           voihai  ton kathenan se anagi.     Greek 
+      In  this  the country the government  3MS.ACC helps    the everyone in need 
+   ‘In this country the government helps everyone in need.’ (EA p.c.) 
+ 
+ b. *Den ton                idha           kanenan   stan  avli.    
+    not   3MSG.ACC   saw-1SG.S  anybody   in     yard 
+    ‘I didn’t see anyone in the yard.’ (a homeowner investigating a suspicious sound) (EA, p.c.) 
+
+PDF PAGE 35
+35 
+ 
+ 
+ c. *Ti       to              magirepses?  
+   what    3NSG.ACC cook.2SG.S 
+  ‘What did you cook?’ (Anagnostopoulou 1994: 174) 
+ 
+(74) a. *Maria  go                  vidja  vsekigo /  vseki student  v centyr-a      na  grad-a.    Bulgarian 
+ Maria    3M/NSG.ACC  saw   everyone/every student   in center-DEF of  town-DEF 
+ ‘Maria saw everyone/every student in the town center.’ 
+ 
+ b. Ivan   ne   (*go)              vidja nikogo   v    koridor-a.      
+  Ivan  not  3M/NSG.ACC   see    anyone   in  hallway-DEF 
+  ‘Ivan did not see anyone in the hallway.’ 
+ 
+ c. Kakvo (*go)              kupi     ot     magazin-a?       
+  what    3M/NSG.ACC  bought from store-DEF 
+  ‘What did you buy from the store?’    (all from Todor Koev, p.c.) 
+ 
+These are clearly reminiscent of our Amharic data, with similar sorts of universal, negative, and non-D-
+linked wh-quantifiers. Porteño Spanish is also very similar, according to Suñer’s (1988) classic study: 
+clitic doubling is bad with a singular distributive universal quantifier (p. 411), with a negative phrase (p. 
+396), and with a non-D-linked wh-phrase (p. 391), among others.41  
+There seems, then, to be a real point of similarity among Amharic, Spanish, Greek, and Bulgarian 
+here—hence value to saying that the Crossover Condition applies to these structures, hence reason to say 
+that the OMs are pronouns, not mere agreement.  Similarly, an anaphoric object cannot naturally be clitic 
+doubled in Greek in many cases, as shown in (76).42 
+ 
+(75) O    Janis  (??ton)     peripiithike            ton eafto tu   prin    vgi   ekso. 
+             The Janis  3MS.ACC  took.good.care.of  the self his    before he    went.out 
+             ‘John took good care of himself before he went out.’ (EA, p.c.) 
+ 
+(In contrast, Bulgarian and Spanish have special reflexive object clitics, so they are not relevant to this 
+point.)  Finally, our inquiries show that objects that contain a pronoun bound by a quantifier cannot be 
+doubled by a clitic in Greek, Bulgarian, and Spanish, as in Amharic.43 
+                                                           
+41 Suñer (1988) also shows that a full range of quantifiers can be clitic doubled when they appear in a partitive 
+construction like ‘none of them’, ‘which of them’, etc. Gutiérrez-Rexach’s (1999) thorough semantic discussion of 
+what quantified expressions can and cannot be doubled in Spanish reaches essentially t he same conclusion, in our 
+view. In the end, his most robust generalization is that all simple quantifiers can be doubl ed when they invoke a 
+particular set known from context—either explicitly, as in partitives, or implicitly—but not otherwise. We assume 
+that these facts are compatible with our theory, the partitive phrase making the DP as a whole “more referential” (cf. 
+fn. 44), but we do not go into the special syntactic and semantic issues raised by partitives here.  
+42 Iatridou (1988) gives examples of this form (e.g., with the verb 'hate') which are grammatical, but Elena 
+Anagnostopoulou (p.c.) conjectures that in these examples ton eafto tu has a literal nonreflexive meaning, meaning 
+something like ‘his true self’ or ‘his personality’. Similar issues arise in Amharic and need to be controlled for: ras-u 
+‘self-3m.sg’ is literally ‘his head’, and it can be doubled by an OM when it has its literal meaning. 
+43 For Greek, a precedent for our observation is Anagnostopoulou's (1994: Ch.2) generalization that “novel 
+definites” cannot be clitic-doubled, DPs containing a bound variable being one subtype of novel definite.  For 
+Bulgarian, we believe that Harizanov's (2014:1056) bad examples in his (41b) and (42b) are of the same type as our 
+(76b), although Harizanov gives a different explanation for them--one that would not generalize to the badness of 
+(76b). For Spanish, José Camacho and Liliana Sanchez (p.c.) observe that analogs of (76c) in which the object is 
+left- or right-dislocated do allow a bound variable interpretation. This then is an interesting difference between true 
+CD and clitic dislocation constructions worthy of future consideration. (We note that an anonymous reviewer reports 
+
+PDF PAGE 36
+36 
+ 
+ 
+(76) a.  ??Kanena pedhi den  tin          akoluthise  tin mitera tu.           Greek 
+     No         child  not  3FS.ACC follow        the mother his 
+ 'No child follows his mother.' (EA, p.c.) 
+ 
+b. Vseki        (??ja)      obica  sobstvena-ta  si       majka.        Bulgarian 
+ Everyone  3FS.ACC  loves  self-DEF         POSS  mother 
+ 'Everyone loves his own mother.' (clitic is ?? if ‘self’ is bound by ‘everyone’) (TK, p.c.) 
+ 
+c. Cada hombre (*la)        ama    a   su madre.     Spanish 
+ Each man       3FS.ACC  loves  to his mother. 
+ ‘Every/each man loves his mother.’   (bad with clitic on the bound variable reading) 
+ (L. Sanchez and J. Camacho, p.c.) 
+ 
+There is good preliminary evidence, then, that CD in Amharic is not something fundamentally different 
+from CD in the I-E languages, clitics in both families counting as pronouns for the relevant principles. 
+ There are some complications, however.  The literature on these languages tends to assume that at 
+least some quantified DPs can be doubled by clitics.  For example, (74)a in Bulgarian becomes good if 
+‘every student’ is replaced with vsicki-te xora ‘all-DEF people’ and the plural clitic gi is used in place of 
+go. Similarly, although neither Greek nor Bulgarian allows clitic doubling with non-D-linked wh-phrases, 
+both allow it with D-linked wh-phrases (Anagnostopoulou 1994:174-176, Franks and King 2000:254).  
+See Gutierrez-Rexach (1999) for a detailed semantic study of when clitic doubling of quantified DPs is 
+and is not allowed Spanish.  Furthermore, the literature suggests that clitic doubling actually ameliorates 
+conventional weak crossover violations, in much-discussed sentences like (77) from Greek and Bulgarian. 
+ 
+(77) a. O    Petros        (to)           epestrepse [tu  idioktiti       tui] [to kathe  aftokinito]  xtes  to  vradi       
+ The Peter.NOM 3NSG.ACC returned     the owner.GEN his  [the every car]   yesterday the night. 
+ ‘Peter returned to its owner every car last night.’  (Alexiadou and Anagnostopoulou 1997) 
+ 
+b. Ivan (i)           izprati  [nejnija Cek]  [na vsjaka Zena ]   vCera. 
+ Ivan 3FS.DAT  sent       her     check   to every  woman   yesterday 
+ ‘Ivan sent her check to every woman yesterday.’ (Harizanov 2014:1054-1055) 
+ 
+(However, the clitic doubling in ((77)b) is not accepted by all Bulgarian speakers: Todor Koev, an 
+anonymous reviewer of Harizanov’s article, and one of Harizanov's five speakers consider this bad (see 
+Harizanov 2014:1055 n.24).) Here the quantified DP that follows another object can bind a pronoun inside 
+the first object if and only if it is doubled by the clitic (see also Suñer 1988:421-423 for Porteño Spanish). 
+Harizanov uses this fact to argue that the clitic is essentially an occurrence of the quantified DP itself in a 
+higher (A-) position, from which it c-commands the first object–not an intrinsically pronominal element, 
+as in our proposal; see also van Urk (2015, 2016) for the same idea. With this in mind, two anonymous 
+reviewers ask whether Greek and Bulgarian have quite a different kind of clitic doubling from Amharic. 
+ We would not rush to that conclusion, given the data in (73)-(76), but would explore a different 
+line first.  It is not a surprise that some quantified DPs can be clitic doubled in these I-E languages: on the 
+contrary, we saw in section 4.2 that this is true also in Amharic, and we have related this to the fact that 
+some quantified DPs do not give weak crossover effects in English and Amharic.  We have not said 
+exactly why this is, but have adopted it as a descriptive observation from the literature on this topic. So it 
+is not surprising that, say, plural universal quantifiers analogous to ‘all the Ns’ and D-linked wh-phrases 
+                                                                                                                                                                                           
+that a sentence like (76c) is good in Spanish. We do not know what is behind the difference in judgments, but the 
+reviewer seems to speak a leista version of Spanish, in which the clitic has the form of a dative, and this might be 
+relevant, dative clitics behaving more like true agreement markers in Spanish.)  
+
+PDF PAGE 37
+37 
+ 
+like ‘which N’ should allow clitic doubling in I-E languages too.  It is perhaps less clear why a phrase like 
+to kathe aftokinito ‘the every car’ should allow clitic doubling in (77a) whereas ton kathenan ‘the 
+everyone’ does not in (73a), but we note that there is something akin to D-linking or partitivity at work 
+here: ‘the every car’ in (77a) clearly ranges over a particular set of cars known from (or accommodated 
+from) the context, whereas ‘the everyone’ in (73a) is more like a true universal quantifier.  Moreover, if 
+‘the every car’ counts as the sort of quantifier that is not subject to weak crossover, then this explains in a 
+unified way both why it can be doubled by the OM in (76a) and why it can bind the pronoun  ‘his’ inside 
+the indirect object. We do not have a general theory to offer here,44 but it is clear how to investigate the 
+matter further: one would compare systematically the range of quantificational DPs that cannot easily be 
+clitic doubled with the range of quantificational DPs that give weak crossover effects to see if they are the 
+same or not, as we have begun to do in Amharic.  Indeed, very preliminary investigation along these lines 
+in Greek is encouraging. First, whereas ton kathena ‘everyone’ triggers a strong WCO effect, the plural 
+universal ola ‘all’ does not, as shown in (78).  
+ 
+(78) a. *I     mitera  tu   panta    voithai  ton  kathena  
+   the mother his  always  helps    the  everyone 
+ ‘His mother always helps everyone.’ 
+ 
+b. (?)I   miteres   tus      voithisan   OLA ta  koritsia 
+          the   mothers theirs  helped       all      the girls 
+  ‘Their mothers helped all the girls.’ (EA, p.c.) 
+ 
+Our expectation, then, is that clitic doubling an ola N phrase should be possible, in contrast to clitic 
+doubling with unrestricted ton kathena, which is not (see (73a)). This is correct, as shown in (79).  
+ 
+(79) O daskalos   ta       voithise   ola ta   koritsia.  
+the teacher   them  helped     all  the girls 
+‘The teacher helped all the girls.’ (EA, p.c.) 
+ 
+We also mention that, in fact, data like (77) are often presented in relative isolation, not in a full 
+weak crossover paradigm that compares a range of quantifiers to referential DPs.  This should be done to 
+help clarify these issues. In this connection, Suñer (1988:422) makes an important further observation 
+about the Spanish data.  She shows that doubling a quantified object in an embedded clause voids weak 
+crossover even if the bound pronoun is inside the subject of the matrix clause, as in an example like (80). 
+ 
+                                                           
+44 Here is a nonexpert intuition about what might be behind this. The better clitic doubling examples seem to involve 
+reference to a known set of objects (e.g. the cars parked at a restaurant on a particular night) as well as quantification 
+over the individual members of that set. It is possible, then, that the initial link between the pronoun and the 
+quantified DP is established by coreference between the sets, not by bound variable anaphora. Then, at a later point 
+in interpretation, a distributive operator is applied to the sentence, saying that “Peter returned to A’s owners A” for 
+A={a set of cars} is true because for each X in A Peter returned to X’s owner X.  Coreference between plural sets 
+followed by applying a distributive operator might give a semantic interpretation that is very similar to an 
+intrinsically singular distributive quantifier binding a pronoun as a variable.  However, there could be a crucial 
+syntactic difference, if the Crossover Condition applies to quantifier-pronoun binding before the distributive 
+operator applies.  Then WCO treats the relevant structures like instances of coreference rather than like instances of 
+bound variable anaphora, even though the semantic distinction almost disappears further downstream. We do not 
+have the space or the expertise to work out this intuition in detail, but we offer it as a reason for hope that something 
+more principled can be said about which DPs give crossover effects and which do not and why. (It is clearer how 
+this account might apply to quantifiers that go with plural clitics and pronouns than with singulars, but the 
+interpretation of number morphology becomes a complex matter in quantified sentences, so we are not too 
+pessimistic that such a story could be extended to singulars like to kathe aftokinito ‘the every car’ in (77).) 
+
+PDF PAGE 38
+38 
+ 
+(80) A  quiénes  dijo  su     madre   que  no *(les)  dejaría          ningún dinero? 
+To who       said  their mother that  not  them  would.leave any      money  
+To whomi did their i mother say that she would not leave any money (to them i)? 
+ 
+This is not predicted by the Harizanov/van Urk interpretation of the phenomenon in (77), since the matrix 
+subject is clearly higher in the structure than any A-position marked by the clitic in the embedded clause, 
+nor should an embedded object be able to object shift into the matrix clause of a non-restructuring 
+predicate like ‘say’.  Suñer’s own interpretation of this fact is that the clitic in the lower clause makes the 
+clitic-wh-trace chain pronominal, so that the wh-phrase in Spec CP binds two pronominal variables (the 
+possessive pronoun su, and the clitic les, the latter in conjunction with the indirect object position itself), 
+thereby satisfying Safir’s PCOB in (37). Our interpretation is similar to Suñer’s: the presence of clitic 
+doubling in the embedded clause forces the quantified DP to have the sort interpretation ranging over 
+elements of a given set that is not subject to weak crossover. And if the DP a quiénes is not subject to 
+WCO, then there is no intrinsic barrier to the pronoun su in the matrix clause being referentially 
+dependent on it as well, given that there is no Condition C violation here.  So our interpretation of these 
+data is less problematic than the one that is common in the recent literature.  
+We tentatively conclude, then, that the data available at this point suggest that Greek, Bulgarian, 
+and Spanish are essentially like Amharic in the respects that are central to our analysis, although we 
+ultimately defer to experts in these languages to confirm this over a full range of data that compares clitic 
+doubling to weak crossover patterns. If so, then the behavior of true clitic doubling is encouragingly 
+uniform in this respect over a range of languages, even though the languages may differ significantly in 
+other respects that are not directly related to the basic pronoun/nonpronoun distinction--for example, 
+when it comes to issues of optionality, animacy and specificity conditions.45 Similarly Baker (in press) 
+discusses evidence drawn from Riedel (2009) to the effect that OMs are doubling pronominal clitics in 
+some Bantu languages, including Mainland Tanzanian Swahili and Haya.  
+ 
+6.2 Object agreement rather than clitics: Burushaski and Sambaa  
+ 
+Now applying the logic of our analysis from the other side, we can ask whether OMs ever turn out to be 
+true agreement markers by our potential diagnostic. Indeed, it is not totally uncontroversial that object 
+agreement even exists.  For example, Nevins (2011:960-61) asserts that, once one distinguishes clitics 
+from agreement, OMs always turn out to be clitics, and there can only be one true agreement per clause, 
+with the nominative/absolutive argument (cf. also Preminger 2009). In contrast we would conclude that 
+an OM is true agreement if it is attached to the verb, varies with the phi-features of the object, and is 
+systematically compatible with quantified DPs, anaphoric DPs, and DPs containing a bound variable.   
+In fact, it seems that some languages do have true object agreement according to this standard. 
+One such language is the isolate Burushaski, spoken in Northern Pakistan. In addition to having object 
+agreement with definite referential nominals (see (81)a), Burushaski also allows object agreement with 
+reflexive anaphors ((81)b), question words ((81)c), and negative or nonspecific indefinite NPs ((81)d). 
+We also include (81)e with a universal quantifier, but since the universally quantified DP contains a plural 
+definite DP, this may be less relevant to the question at hand (see Section 4.2).  
+ 
+                                                           
+45 For example, animacy conditions on CD are prominent in the literature on Spanish (and Romanian), but animacy 
+is not a major factor in Amharic (Kramer 2014:601), Greek, or Bulgarian (Harizanov 2014:1055). Even in Spanish, 
+the importance of animacy may have been overemphasized: see Suñer (1988:399-400) for examples of inanimate 
+direct objects doubled by clitics. Animacy effects are also variable across the Bantu languages ( Marten and Kula 
+2012). Thus, when an anonymous reviewer asks whether animacy restrictions on CD can be captured by our 
+analysis, we want to emphasize that these seem to be a relatively minor factor in CD, viewed crosslinguistically; 
+their importance in the literature is partly an artifact of the particular languages with which the literature began.  
+
+PDF PAGE 39
+39 
+ 
+(81) a. Hilés-e dasín mu-yeéts-imi.  
+ boy-ERG girl.ABS 3FSG.O-see-3MSG.S.PST 
+ ‘The boy saw the girl.’ (Willson 1996:3) 
+ 
+b. Khín   dasin-e    mu-khár       e-sqan-umo.  
+ DEM.F.PROX  girl-ERG  3FSG-self.Y.ABS   3Y.O-kill-3FSG.S.PST 
+ ‘This girl killed herself.’ (Willson 1996:18) 
+ 
+c. Mu-ar men- d-u-sú-č-a-m? 
+ her-DAT who-ABS PREV-3PL.O-bring-IMPF-1SG.S-NPRS 
+ ‘Whom (all) will I bring to her?’ (Yoshioka 2012:186) 
+ 
+d. Kholéi jé-e má-ma-r bés-an qhidmátan i-t-as  
+ here I-ERG you-OBL-DAT what-INDF.SG service.INDF.SG.ABS 3Y.O-do-INF 
+ 
+ a-ulán-č-a bá-a. 
+ NEG-be.able.to-IPFV-1SG.S COP-1SG.S.PRES 
+ ‘I cannot do anything (any service) for you here.’ (Yoshioka 2012:146) 
+ 
+e. Icé číiz- hár hán uyoon- muú rádi n-i-t.  
+ those.X thing-ABS every one.Y all-ABS now ready CP-3YPL.O-do 
+ ‘All those things he made ready.’ (Yoshioka 2012:46) 
+ 
+In short, there seem to be no restrictions on what sort of DP an OM can double in Burushaski, as expected 
+if the OM is true object agreement.  We also note that Burushaski is strikingly different from Amharic in 
+that it does allow an OM on the verb that doubles the derived subject of an unaccusative verb (although 
+not with the subject of an unergative verb; see Willson 1996, Baker 2017, and references cited there).46 
+ 
+(82) Acaanák hilés i-ír-imi.  
+ suddenly boy 3M.O-die-PST.3M.S 
+ ‘Suddenly the boy died.’ (Willson 1996:19) 
+ 
+In section 5.2, we explained the badness of an Amharic analog of (82) as a violation of Condition B of the 
+Binding theory: the OM is bound by the subject inside the same clause.  But (82) in Burushaski does not 
+violate Condition B, given that the OM is a true agreement, not a pronominal clitic.  So there is 
+converging evidence that OMs in Burushaski are not pronominal clitics. 
+ Another language of this sort is the Bantu language Sambaa spoken in Tanzania, as described by 
+Riedel (2009). (83)a shows that an object marker is possible in Sambaa with a nominal that is interpreted 
+as definite, but that nominal can also be interpreted as an indefinite (specific or nonspecific). (83)b shows 
+that an OM is possible with a negative polarity item or narrow scope indefinite, (83)c that it is possible 
+with an in-situ wh-word, and (83)d that it is possible with a singular universal quantifier.47 
+ 
+                                                           
+46 It is rare for an OM to go with the subject of unaccusatives even in languages that have true object agreement (like 
+Sambaa). This might be attributed to Kinyalolo’s Constraint (Kinyalolo 1991, Carstens 2005), a general but not 
+universal morphological filter that blocks a single verb form from manifesting more than one agreement with the 
+same NP. Burushaski would not be subject to this filter, but many other languages are.  
+47 Riedel also shows with some care that nominals doubled by an OM are not right dislocated in Sambaa. For 
+example, in a structure of the form [Subject OM-verb Object] the verb can still be in conjoint form, high tone spread 
+can happen between the verb and the object, and there is no sign of a prosodic break between the verb  and the 
+object. All of these are indications that the object can still be inside the VP even when the OM is present.  
+
+PDF PAGE 40
+40 
+ 
+(83) a. N-za-(mw)-ona ng’wana. 
+ 1SG.S-PFV.DJ-(1.O)-see 1child 
+ ‘I saw the/a child.’ (Riedel 2009:46) 
+ 
+b. Si-chi-on-iye  kintu chochoshe. 
+ NEG.1SG.S-7.O-see-PFV  7thing 7any 
+ ‘I didn’t see anything.’ (Riedel 2009:50) 
+ 
+c. U-wa-ene     (wa)-ndayi? 
+ 2SG.S-2.O-see.PFV  2(PL-)who 
+ ‘Who (all) did you see?’ (Riedel 2009:158) 
+ 
+d. N-za-m-somea [kia mwandisi] kitabu chakwe. 
+ 1SG.S-PFV-1.O-read.APPL every 1writer 7book 7his 
+ ‘I read each author his own book.’ (Riedel 2009:106) 
+ 
+Again, there seem to be no restrictions on what kind of nominal can be doubled by an OM in terms of the 
+nominal’s referentiality or quantificational force. (The missing datum here is an OM that doubles a 
+reflexive anaphor, but this cannot be tested in Sambaa, because Sambaa, like other Bantu languages, 
+expresses reflexivity by a special reflexive prefix on the verb, not by an independent DP.) So Sambaa too 
+has object agreement, not CD. There is, however, by all accounts significant variation within the Bantu 
+family in this regard, with OMs in many other languages counting as doubling clitics, or even as clitics 
+that cannot be doubled by an in situ object but only by a dislocated DP, as in Lubukusu. (See Baker (in 
+press) for preliminary discussion of this variation within the Bantu languages from our perspective.) 
+ 
+6.3 Comparing diagnostics 
+ 
+Finally, we can ask how our proposed diagnostic for agreement versus clitic doubling compares to other 
+diagnostics from the literature. One influential diagnostic is from Nevins (2011). He suggests that if the 
+morphemes that expone phi-features on the verb vary with the tense value of the verb (or similar 
+inflectional category), then they are manifestations of agreement on T (or similar head). In contrast, if 
+such morphemes are tense-invariant, then they are at best ambiguous as to whether they are clitics or 
+agreement. Indeed, Kramer (2014) shows that Amharic OMs do not clearly behave like agreement by this 
+test: whereas subject agreement is entirely different depending on whether the verb is perfective or 
+imperfective, the object markers are unaffected by this or any other inflectional change in the verb. OMs 
+are always suffixes at the end of the main verb (but before an auxiliary), and there is only a single 
+paradigm for them, invariant up to phonological changes. 
+However, Nevins’s diagnostic and ours do not give the same results in other languages. For 
+example, the OMs in both Burushaski and Sambaa would at best be ambiguous as to clitic/agreement 
+status by Nevins’s diagnostic, whereas they are true agreement according to ours. In Burushaski, subject 
+agreement is a suffix which varies with tense, but object markers are prefixes on the verb, and there is 
+only a single paradigm for them. Similarly, object markers in Sambaa apparently do not vary with the 
+tense (except perhaps phonologically), in that Riedel (2009: 21) gives only one form for OMs in her Table 
+2.3. So Nevins’ diagnostic is silent on these cases, whereas ours gives a clear result.48 
+                                                           
+48 Nevins further argues that, if a tense-invariant marker shows person complementarity effects (like the person -case 
+constraint) or omnivorous number, then it is a clitic. Amharic cannot attach multiple object markers to a verb 
+(Kramer 2014:625), so these effects cannot be tested. The same seems to be true for Burushaski. Sambaa object 
+markers, though, show person complementarity effects (Riedel 2009), which means that they are object clitics 
+according to the Nevins’ diagnostic tree. This conflicts with our conclusion that Sambaa has object agreement.  
+
+PDF PAGE 41
+41 
+ 
+ Another prominent diagnostic for clitic doubling in the recent literature comes from Preminger 
+(2009). He draws attention to situations in Basque in which putative agreement cannot take place, for 
+example because some other noun phrase intervenes between the agreeing head and the DP with which 
+agreement might be expected. He reasons that if some kind of default morpheme appears in such 
+situations, like the third singular morphology found on impersonal verbs or verbs with quirky case 
+subjects in many I-E languages, then it is a case of true agreement. In contrast, if no overt morpheme is 
+found in such circumstances, then it is a case of clitic doubling. He shows that absolutive marking in 
+Basque is agreement by this criterion, whereas dative “agreement” counts as clitic doubling. This test also 
+works well in Amharic, again as shown by Kramer (2014): third singular masculine subject agreement is 
+used on impersonal verbs of various sorts, but there is no third singular masculine OM when there is no 
+object; rather, the verb lacks a visible OM altogether. 
+ But this diagnostic also does not converge with ours when it comes to languages like Burushaski 
+and Sambaa. While we do not have data to show that object agreement has failed because some other 
+nominal intervenes, we do have data on unergative verbs.  In Basque, unergative verbs have third singular 
+default absolutive marking on verbs, even though there is no absolutive DP present in the clause (at least 
+overtly).  Preminger (2009:650-651) interprets this as evidence that absolutive marking is agreement in 
+Basque. However, neither Burushaski nor Sambaa has any kind of default object agreement marker in this 
+situation, as shown in (84). So Preminger’s test suggests that these languages have object clitics, whereas 
+ours says that they have object agreement. 
+ 
+(84) a. Síruf hir-i girát-c-aan  akhóle.  Burushaski 
+ only man-PL.ABS dance-NPST-3PL.S  here 
+ ‘Only men dance here.’ (Willson 1996:19) 
+ 
+b. Ne-n-shezigh-e.     Sambaa 
+  FUT-1SG.S-play-SUBJ 
+  ’I will play’ (Riedel 2009:34) 
+ 
+ What should we conclude from this mixed evidence? Our conclusion is that, although stories can 
+be told that make their diagnostics not implausible, the logic of the Nevins’s and Preminger’s tests is not 
+completely compelling. For example, it makes sense that, if subject agreement is associated syntactically 
+with T, different tense values can condition different allomorphs of subject agreement. But it also makes 
+sense that, since object agreement is associated syntactically with a different head (v), it might be spelled 
+out the same way regardless of the features on T. Similarly, there is a clear logic to Preminger’s 
+diagnostic, but it becomes muddied if one realizes that a paradigm could also have a special null form 
+which is used as the default, distinct from any overt third person form. This might be especially common 
+for object agreement, since most languages have only a few predicates (if any) that do not have a subject, 
+but almost all have many predicates that do not have an object. There is thus a clear functional reason 
+why it is worth a language’s while to have a special null default for when object agreement fails but not 
+for it to have one for when subject agreement fails. Thus both Nevins’s and Preminger’s diagnostics may 
+be tendencies rather than solid implications, and they may be picking up on differences between subject 
+agreement and object agreement rather than on the difference between agreement and clitics. 
+ In contrast, we claim that our diagnostic is firmer in that it gets to the heart of what it means for 
+an element to be an agreement morpheme as opposed to a pronoun, and it is grounded in well-established 
+grammatical principles, namely the Crossover Condition and the Binding theory. What does it mean to be 
+a pronominal clitic? It means to be a kind of pronoun, which falls under the same principles of 
+interpretation as other pronouns. And that leads to restrictions on what the clitic can double, as we have 
+shown. If there are no such restrictions, then there is evidence that the OM is not interpreted as a pronoun 
+                                                                                                                                                                                           
+However, it is difficult to push further on this apparent conflict, since it is not so clear from Nevins (2011) why 
+person complementarity effects indicate clitic status when they hold between direct objects and indirect objects.  
+
+PDF PAGE 42
+42 
+ 
+(unless there is a relevant difference in structure, as in Section 4.3), so there is no reason to call it a 
+pronoun. Then it is better to call it agreement, since it has phi-features but makes no contribution to the 
+interpretation. That is why we think our diagnostic is better. When all the diagnostics converge, as in 
+Amharic, there is no problem. But when they diverge, as in Burushaski and Sambaa, one needs to make 
+choices. Then it is better to have a small set of theoretically well-grounded diagnostics that go to the heart 
+of the matter than to have a larger set of merely plausible diagnostics that can give conflicting results. 
+ 
+7. Conclusion 
+ 
+In this article, we have investigated previously unexplained restrictions on object markers in Amharic: 
+they cannot double quantified DPs, anaphoric DPs, or DPs containing a bound variable. Although these 
+restrictions do not naturally follow from conditions on agreement, specificity, or object shift, we showed 
+that they can be derived from well-known principles concerning the interpretation of pronouns—the 
+Weak Crossover condition and the Binding theory—as long as these conditions apply to OMs as elements 
+that are interpreted as pronouns referentially dependent on the DP they double at LF. Our analysis also 
+extends to OMs that double goal objects and experiencer subjects, and it explains why OMs are 
+impossible doubling the theme arguments of passive and unaccusative predicates. 
+ We concluded by suggesting that our analysis might provide a powerful diagnostic for 
+distinguishing between pronominal clitic doubling and object agreement, thus addressing an issue that has 
+puzzled linguists for a long time. If an OM can appear with quantified DPs, anaphoric DPs, and DPs 
+containing a bound variable (and the DP is structurally lower than the position of the OM), then it is 
+agreement; if it is systematically ruled out with such DPs, then it is a pronominal clitic, since there is 
+evidence that grammatical principles see it as a pronoun. With this in mind, we put our Amharic results in 
+a broader cross-linguistic context, briefly comparing clitic doubling in Amharic with Spanish, Greek, and 
+Bulgarian, and contrasting it with object agreement in Sambaa and Burushaski,. Next steps for future 
+research would be to develop and test the cross-linguistic predictions of our approach, and to use the 
+diagnostic to refine typological generalizations about what agreement can and cannot do. 
+ 
+Acknowledgements: First and foremost, endless thanks to the many consultants who made this work 
+possible, especially our Amharic consultants (Meriem Tikue, Mengistu Amberber, Girma Demeke, 
+Mehret Tadesse, Mahi Megra, and Yetnayet Lemma) but also those who helped us with other languages: 
+Elena Anagnostopoulou, Hans Broekhuis, José Camacho, Liliana Sanchez, Todor Koev, and Gisli 
+Harðarson. Many thanks also to generous colleagues who we discussed this work with, including, but not 
+limited to, Ken Safir, Simon Charlow, Elena Anagostopoulou, Jenneke van der Wal, and Michael 
+Diercks. Thanks also to Lydia Felice for assistance in the final preparation of the manuscript.  Portions of 
+this work were presented at a colloquium talk at McGill University, and we thank the audience there for 
+helpful feedback. Finally, many thanks to three anonymous reviewers and the editor for deeply engaging 
+with this work and making it better. 
+ 
+References 
+Alexiadou, Artemis, and Elena Anagnostopoulou. 1997. Toward a uniform account of scrambling and 
+clitic doubling. In German: syntactic problems -- problematic syntax, eds. Werner Abraham and 
+Elly van Gelderen, 143-161. Tübingen: Niemeyer. 
+Amberber, Mengistu. 2002. Verb classes and transitivity in Amharic. Münich: Lincom. 
+Amberber, Mengistu. 2005. Differential subject marking in Amharic. In Competition and variation in 
+Natural Languages: the case for Case, eds. Mengistu Amberber and Helen de Hoop, 295-319. 
+Amsterdam: Elsevier. 
+Anagnostopoulou, Elena. 1994. Clitic dependencies in Modern Greek. Doctoral dissertation, University 
+of Salzburg. 
+
+PDF PAGE 43
+43 
+ 
+Anagnostopoulou, Elena. 1999. Conditions on clitic doubling in Greek. In Clitics in the languages of 
+Europe, ed. Henk van Riemsdijk, 761-798. Berlin: Mouton de Gruyter  
+Anagnostopoulou, Elena. 2001. Two classes of double object verbs: the role of zero-morphology. In 
+Progress in grammar, eds. Marc van Oostendorp and Elena Anagnostopoulou eds., 1-27. 
+Amsterdam/Utrecht/Delft: Roquade. Meertens Institute Electronic Publications in Linguistics 
+(MIEPiL). 
+Anagnostopoulou, Elena. 2003. The syntax of ditransitives: evidence from clitics. Berlin: Mouton. 
+Baker, Mark. 2008. The syntax of agreement and concord. Cambridge: CUP. 
+Baker, Mark. 2012a. On the relationship of object agreement and accusative case: evidence from 
+Amharic. Linguistic Inquiry 43: 255-274.  
+Baker, Mark. 2012b. “Obliqueness” as a component of argument structure in Amharic. In The end of 
+argument structure?, eds. Maria Cristina Cuervo and Yves Roberge, 43-74. Bingley: Emerald 
+Press. 
+Baker, Mark. 2015. Case: its principles and its parameters. Cambridge: Cambridge University Press. 
+Baker, Mark. 2017. Ergative case in Burushaski: A dependent case analysis. In The Oxford Handbook of 
+Ergativity, eds. Jessica Coon, Diane Massam, and Lisa deMena Travis, 759-781. Oxford: Oxford 
+University Press. 
+Baker, Mark. In press. On the status of object markers in Bantu languages. In Data-Rich Linguistics: 
+Papers in Honor of Yiwola Awoyale, eds. Akin Akinlabi and Oluseye Adesola.  Cambridge: 
+Cambridge Scholars Press. 
+Baker, Mark and Ruth Kramer. 2014. Rethinking Amharic prepositions as case markers inserted at PF. 
+Lingua 145: 141-172. 
+Barker, Chris. 2012. Quantificational binding does not require c-command. Linguistic Inquiry 43: 614-
+633. 
+Béjar, Susana and Milan Rezac. 2003. Person licensing and the derivation of PCC effects. In Romance 
+linguistics: theory and acquisition, eds. Ana Teresa Pérez-Leroux and Yves Roberge, 49-62. 
+Amsterdam: Benjamins. 
+Bleam, Tonia. 1999. Leísta Spanish and the syntax of clitic doubling. Doctoral dissertation, University of 
+Delaware. 
+Bošković, Zeljko. 2015. On second position clitics crosslinguistically. Ms., University of Connecticut. 
+Broekhuis, Hans. 2008. Derivations and evaluations: Object Shift in the Germanic languages. Berlin: 
+Mouton de Gruyter. 
+Büring, Daniel. 2005. Binding theory. Cambridge: CUP. 
+Burzio, Luigi. 1986. Italian syntax: A Government-Binding approach. Dordrecht: Reidel. 
+Cardinaletti, Anna. 2004. Toward a cartography of subject positions. In The structure of CP and IP, ed. 
+Luigi Rizzi, 115-165. New York: OUP. 
+Cardinaletti, Anna, and Starke, Michal. 1999. The typology of structural deficiency: A case study of three 
+classes of pronouns. In Clitics in the languages of Europe, ed. Hank van Riemsdijk, 145-234. 
+Berlin: Mouton de Gruyter. 
+Carstens, Vicki. 2005. Agree and EPP in Bantu. Natural Language and Linguistic Theory 23: 219-279. 
+Chomsky, Noam. 1976. Conditions on rules of grammar. Linguistic Analysis 2: 303-351. 
+Chomsky, Noam. 1981. Lectures on Government and Binding. Dordrecht: Foris. 
+Chomsky, Noam. 2000. Minimalist inquiries, the framework. In Step by step: essays on minimalist syntax 
+in honor of Howard Lasnik, eds. Roger Martin, David Michaels and Juan Uriagereka, 89-155. 
+Cambridge, MA: MIT Press.  
+Chomsky, Noam. 2001. Derivation by phase. In Ken Hale: A life in language, ed. Michael Kenstowicz, 1-
+52. Cambridge, MA: MIT Press.  
+Cinque, Guglielmo. 1990. Types of A´-dependencies. Cambridge, MA: MIT Press 
+
+PDF PAGE 44
+44 
+ 
+Cinque, Guglielmo. 1999. Adverbs and functional heads: a crosslinguistic perspective. Oxford: OUP. 
+Coon, Jessica. 2017. Little v agreement and templatic morphology in Chol. Syntax 20: 101-137. 
+Culbertson, Jennifer. 2010. Convergent evidence for categorial change in French: from subject clitic to 
+agreement marker. Language 85: 85-132. 
+Demeke, Girma A. 2003. The clausal syntax of Ethio-Semitic. Doctoral dissertation, University of 
+Tromsø. 
+Demeke, Girma A. and Ronny Meyer. 2007. Topics and topicalization in Amharic. Journal of African 
+Languages and Linguistics 28: 19-36. 
+Diercks, Michael and Justine Sikuku. 2013. Object clitics in a Bantu language: deriving pronominal 
+incorporation in Lubukusu. Ms., Pomona College and Moi University. 
+Diesing, Molly. 1992. Indefinites. Cambridge, MA: MIT Press. 
+Eilam, Aviad. 2009. The absence of intervention effects in Amharic: evidence for a non-structural 
+approach. Brill Annual of Afroasiatic Languages and Linguistics 1: 202-254. 
+Engels, Eva, and Vikner, Sten. 2006. An optimality-theoretic analysis of Scandinavian object shift and 
+remnant VP-topicalization. Linguistics in Potsdam 25: 195-231. 
+Fox, Danny. 2000. Economy and semantic interpretation. Cambridge, Mass.: MIT Press. 
+Franks, Steven and Tracy Holloway King. 2000. A handbook of Slavic clitics. New York: Oxford.  
+Goria, Cecilia. 2004. Subject clitics in the Northern Italian dialects. Dordrecht: Kluwer. 
+Gutiérrez-Rexach, Javier. 1999. The formal semantics of clitic doubling. Journal of Semantics 16. 315-
+380. 
+Haile, Getachew. 1970. The suffix pronouns in Amharic. Papers in African Linguistics 3: 101-111. 
+Harizanov, Boris. 2014. Clitic doubling at the syntax-morphophonology interface: A-movement and 
+morphological merger in Bulgarian. Natural Language & Linguistic Theory 32: 1033-1088. 
+Higginbotham, James. 1983. Logical form, binding, and nominals. Linguistic Inquiry 14: 395-420. 
+Iatridou, Sabine. 1988. Clitics, anaphors, and a problem of coindexation. Linguistic Inquiry 19: 698-703. 
+Jaeggli, Osvaldo. 1986. Three issues in the theory of clitics: case, doubled NPs, and extraction. In The 
+Syntax of Pronominal Clitics, ed. Hagit Borer, 15-42. New York: Academic.  
+Kayne, Richard S. 1994. The antisymmetry of syntax. Cambridge, MA: MIT Press. 
+Kinyalolo, Kasangati K.W. 1991. Syntactic dependencies and the spec-head agreement hypothesis in 
+Kilega. Doctoral dissertation, UCLA. 
+Kramer, Ruth. 2014. Clitic doubling or object agreement: the view from Amharic. Natural Language and 
+Linguistic Theory 32: 593-634. 
+Krapova, Iliyana, and Guglielmo Cinque. 2008. Clitic reduplication constructions in Bulgarian. In Clitic 
+doubling in the Balkan languages, eds. Dalina Kallulli and Liliane Tasmowski, 257-287. 
+Amsterdam: Benjamins. 
+Landau, Idan. 2001. Elements of control: structure and meaning in infinitival constructions. Dordrecht: 
+Springer. 
+Landau, Idan. 2004. The scale of finiteness and the calculus of control. Natural Language and Linguistic 
+Theory 22:811-877. 
+Larson, Richard. 1988. On the double object construction. Linguistic Inquiry 19:335-392. 
+Leslau, Wolf. 1995. Reference grammar of Amharic. Wiesbaden: Harrassowitz.  
+Longobardi, Giuseppe. 1994. Reference and proper names: a theory of N-movement in syntax and logical 
+form. Linguistic Inquiry 25: 609-665. 
+Marantz, Alec. 1991. Case and licensing. Paper presented at The 8th Eastern States Conference on 
+Linguistics, University of Maryland, Baltimore. 
+Marten, Lutz and Nancy Kula. 2012. Object marking and morphosyntactic variation in Bantu. Southern 
+African Linguistics and Applied Languages Studies 30: 237-253. 
+Matushansky, Ora. 2006. Head movement in linguistic theory. Linguistic Inquiry 37: 69-109. 
+
+PDF PAGE 45
+45 
+ 
+Mullen, Dana. 1986. Issues in the morphology and phonology of Amharic: the lexical generation of 
+pronominal clitics. Doctoral dissertation, University of Ottawa. 
+Nevins, Andrew. 2011. Multiple agree with clitics: person complementarity vs omnivorous number. 
+Natural Language and Linguistic Theory 29: 939-971.  
+Ormazabal, Javier and Juan Romero. 2013. Object clitics, agreement and dialectal variation. Probus 25: 
+301-344. 
+Poletto, Cecilia. 2000. The higher functional field: evidence from Northern Italian dialects. New York:  
+OUP. 
+Postal, Paul M. 1971. Cross-over phenomena. New York: Holt. 
+Preminger, Omer. 2006. Argument-mapping and extraction. In Proceedings of the 36th Conference of the 
+North East Linguistic Society (NELS 36), eds. Christopher Davis, Amy Rose Deal & Youri 
+Zabbal, 493-504. Amherst, MA: GLSA. 
+Preminger, Omer. 2009. Breaking agreements: distinguishing agreement and clitic doubling by their 
+failures. Linguistic Inquiry 40: 619-666. 
+Preminger, Omer. 2011. Agreement as a fallible operation. Doctoral dissertation, MIT. 
+Reinhart, Tanya. 1983. Coreference and bound anaphora: a restatement of the anaphora questions. 
+Linguistics and Philosophy 6: 47-88. 
+Reinhart, Tanya and Eric Reuland. 1993. Reflexivity. Linguistic Inquiry 24: 657-720. 
+Reuland, Eric. 2011. Anaphora and language design. Cambridge, MA: MIT Press. 
+Rezac, Milan. 2004. Elements of cyclic syntax: agree and merge. Doctoral dissertation, University of 
+Toronto. 
+Rezac, Milan. 2008. Phi-agree and theta-related Case. In Phi theory, eds. Daniel Harbour, David Adger, 
+and Susana Béjar, 83-129. Oxford: OUP.  
+Riedel, Kristina. 2009. The syntax of object marking in Sambaa: a comparative Bantu perspective. 
+Doctoral dissertation, Leiden University. 
+Rizzi, Luigi. 1986. On the status of subject clitics in Romance. In Studies in Romance linguistics, ed.  
+Oswaldo Jaeggli and Carman Silva-Coravalan, 391-420. Dordrecht: Foris. 
+Rizzi, Luigi. 2006. On the form of chains: criterial positions and ECP effects. In WH-movement: Moving 
+on, eds. Lisa L.-S. Cheng and Norbert Corver, 97-134. Cambridge, MA: MIT Press. 
+Roberts, Ian. 2010. Agreement and head movement. Cambridge, MA: MIT Press. 
+Safir, Kenneth. 1984. Multiple variable binding. Linguistic Inquiry 15:603-638. 
+Safir, Ken. 2004a. The syntax of anaphora. New York: OUP. 
+Safir, Ken. 2004b. The syntax of (in)dependence. Cambridge, MA: MIT Press. 
+Safir, Ken. 2015. Weak crossover. To appear in the Blackwell Companion to Syntax. 
+Shan, Chung-chieh, and Barker, Chris. 2006. Explaining crossover and superiority as left-to-right 
+evaluation. Linguistics and Philosophy 22:447-478. 
+Sportiche, Dominique. 1996. Clitic constructions. In Phrase structure and the lexicon, eds. Johan 
+Rooryck and Laurie Zaring, 213-276. Dordrecht: Kluwer.  
+Suñer, Margarita. 1988. The role of agreement in clitic-doubled constructions. Natural Language and 
+Linguistic Theory 6: 391-434. 
+Suñer, Margarita. 2000. Object-shift: comparing a Romance language to Germanic. Probus 12: 261-289. 
+Uriagereka, Juan. 1995. Aspects of the syntax of clitic placement in Western Romance. Linguistic Inquiry 
+26: 79-123. 
+van Urk, Coppe. 2015. A uniform syntax for phrasal movement: a case study of Dinka Bor. Doctoral 
+dissertation, MIT. 
+van Urk, Coppe. 2016. Pronoun copying and the realization of copies. In Proceedings of the 33rd West 
+Coast Conference on Formal Linguistics, ed. Kyeong-min Kim et al., 398-407. Somerville, MA: 
+Cascadilla Proceedings Project. 
+
+PDF PAGE 46
+46 
+ 
+Wasow, Thomas. 1979. Anaphora in generative grammar. Ghent: E. Story-Scientia. 
+Willson, Stephen. 1996. Verb agreement and case marking in Burushaski. Work Papers of the Summer  
+Institute of Linguistics North Dakota 40: 1-71. 
+Yabe, Tomoyuki. 2001. Clitic doubling and the link with possessed noun phrase constructions: the case of 
+Amharic object marking. Paper presented at the CUNY/SUNY/NYU Mini-Conference. 
+Yoshioka, Noboru. 2012. A reference grammar of Eastern Burushaski. Doctoral dissertation, Tokyo 
+University of Foreign Studies. 

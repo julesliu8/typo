@@ -1,0 +1,1677 @@
+PDF PAGE 1
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/authorsrights
+
+
+PDF PAGE 2
+Author's personal copy
+Rethinking Amharic prepositions as case markers
+inserted at PF
+Mark C. Baker 1, Ruth Kramer 1,*
+Georgetown University, Department of Linguistics, 1437 37th Street NW Box 571051 Poulton Hall 240,
+Washington, DC 20057, United States
+Received 6 June 2013; received in revised form 10 March 2014; accepted 17 March 2014
+Available online 8 May 2014
+Abstract
+In this paper we consider the morphosyntax of so-called prepositions (PrePs) in Amharic. It is typologically anomalous that Amharic
+should have prepositions, since it is otherwise a fairly canonical head-final language. Instead, we argue that the PrePs are really
+morphological prefixes that express the oblique case assigned to NP by a postposition (null or overt). What is somewhat unusual about
+Amharic, then, is where this prefix shows up in complex nominals. We argue that the case feature is not manifested on the first word of the NP,
+or the last word, or the noun head, but rather on the structurally highest element of the nominal, defined recursively. This explains the position
+of the PreP in nominals that have one or more adjectival modifiers, demonstratives, possessor expressions, and relative clauses, as well as
+its special location in verbal noun constructions. We briefly contrast our analysis with one that makes use only of leftward movement in the
+syntax, and we compare the distribution of the oblique case prefixes with that of the definiteness suffix --u and the accusative case suffix -n.
+© 2014 Elsevier B.V. All rights reserved.
+Keywords: Amharic; Oblique case; Head finality; Word order; PF insertion
+1. Introduction
+Amharic, a Semitic language spoken in Ethiopia, has a series of morphemes that are invariably described as
+‘‘prepositions’’ in the descriptive, pedagogical, and theoretical literatures. Some examples of these morphemes are given
+in (1).
+(1) a. kä-bet-u b. bä-bisiklet
+from-house-DEF2 by-bicycle
+‘from the house’ ‘by bicycle’ (Ayalew, 2006:78)
+c. wädä sinima bet d. lä-Gɨrma
+to cinema house to-Girma
+’to the movies’ (Appleyard, 1995:40) ‘to Girma’
+www.elsevier.com/locate/lingua
+Available online at www.sciencedirect.com
+ScienceDirect
+Lingua 145 (2014) 141--172
+* Corresponding author. Tel.: +1 202 687 5753.
+E-mail address: rtk8@georgetown.edu (R. Kramer).
+1 The authors’ names are listed in alphabetical order.
+2 Gloss abbreviations include: 1 -- first person; 2 -- second person; 3 -- third person, ABL-- ablative, ACC-- accusative, ALL -- allative, AUX --auxiliary,
+C --complementizer, CAUS-- causative, DEF -- definite marker, F --feminine, GEN -- genitive, LOC -- locative, M-- masculine, MID-- middle, NOM-- nominative,
+NOML-- nominalized verbal form, .O-- object agreement/clitic, PASS-- passive, PL-- plural, S-- singular.
+http://dx.doi.org/10.1016/j.lingua.2014.03.005
+0024-3841/© 2014 Elsevier B.V. All rights reserved.
+
+PDF PAGE 3
+Author's personal copy
+However, it is rather surprising that Amharic should have prepositions, since it is otherwise a quite typical-looking head-
+final language. As such, one would expect it to have postpositions rather than prepositions (Greenberg, 1966, etc.)---and
+indeed it has a distinct set of postpositions as well. The data in (1) thus raises some questions. Are these prepositions a
+typological anomaly? Do they imply that there is no ‘‘macroparameter’’ along the lines of the traditional Head Directionality
+Parameter, but that the order of each phrase can be fixed independently? Or, does (1) represent a somewhat different
+phenomenon that is only masquerading as prepositions?
+In this paper, we argue for the last interpretation. In particular, we claim that Amharic’s ‘‘prepositions’’ are best analyzed
+as semantic case markers and that these case markers are inserted post-syntactically (at PF), not as direct realizations of
+a P node, developing and amplifying some arguments of Tremblay and Kabbaj (1990) (see also Hetzron, 1970 and
+Mullen, 1986 for other precedents). This renders Amharic typologically more typical, removing (1) as an anomaly.
+This turns out to be more than an artifice designed to save a tidy and idealistic view of the world. It has the important
+benefit of accounting for the very unusual distribution of ‘‘prepositions’’ within nominals in Amharic. In multiword nominals
+they appear in various locations. In some, they attach to the first word, the nonhead, as in (2)a; in others, they attach to the
+last word, the apparent head of the construction, as in (2)b.
+(2) a. kä-tɨllɨk’-u bet PreP+[Adj N] = PreP+A N
+from-big-DEF house
+‘from the big house’
+b. mist-u-n bä-mä-gdäl PreP+[NP VN] = NP PreP+VN
+wife-his-ACC by-NOML-murder
+‘by murdering his wife’ (Leslau, 1995:400)
+Example (3) illustrates perhaps the most surprising morpheme placement of all: when the understood complement of the
+‘‘preposition’’ is a noun modified by a relative clause, the ‘‘preposition’’ appears apparently inside the relative clause,
+between the verb and its object.
+(3) sɨr-atʃtʃäw-ɨn lä-tʃ’ärräs-u-t särratäññ-otʃtʃ PreP+[[NP V] N] = NP PreP+V N
+work-their-ACC to-finish-3PL-DEF worker-PL
+‘to the workers who have finished their work’ (Leslau, 1995:89)
+It is very hard to derive the order in (3) by any plausible series of syntactic movements starting from the assumption that lä
+‘to’ is a preposition. We show, however, that it can be deduced from the view that lä is a case marker inserted at PF, given a
+series of independently motivated assumptions built around the idea that the case marker is spelled out on the highest
+word in the case-marked nominal. No previous work has given a unified analysis of the position of prepositions inside
+complex nominals of this type---including Tremblay and Kabbaj (1990).
+2. A closer look at the typological puzzle
+Apart from (1), Amharic is a rather well-behaved head-final language in the sense of Greenberg, 1966, Dryer, 2007,
+and many others. For example, Amharic has SOV word order, with complements only very rarely scrambling to post-
+verbal position (Kramer and Eilam, 2012):
+(4) Almaz bet-u-n ayy-ätʃtʃ Obj < V
+Almaz house-DEF-ACC see-3FS
+‘Almaz saw the house.’
+Similarly, lexical verbs precede auxiliaries, showing that VP complements come before V heads and/or that VP comes
+before functional heads like T and Aspect.
+(5) bä-t’ɨnt gize bä-mäk’a bɨ’ɨr yɨ-s’ɨf-u näbbär V < Aux
+in-ancient time with-reed pen 3-write-PL AUX
+‘In ancient times, they wrote with reed pens.’ (Leslau, 1995:316)
+Even CP complements come before the matrix verb in Amharic, as shown in (6).
+(6) [ɨnnat-u ɨndä-mot-ätʃtʃ ] tɨnantɨnna sämm-a CP < V
+mother-his that-die-3FS yesterday hear-3MS
+‘He heard yesterday that his mother died.’ (Leslau, 1995:743)
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172142
+
+PDF PAGE 4
+Author's personal copy
+Other typical head-final properties of Amharic include the fact that it has a sentence-final question particle (wäy; Leslau,
+1995:769; perhaps a head final CP), that genitive DPs precede the associated nouns (Leslau, 1995:191--192), that relative
+clauses come before the head noun (see (3)), that manner adverbs precede the verbs they modify (Leslau, 1995:368), and so
+on.
+In fact, Amharic is even a prototypical head final language in that it is has postpositions---the PP coming before the
+verb, as expected. Two examples of this are given in (7).3
+(7) a. mäs’haf-u [t’äräp’p’eza-w sɨr] näw DP < P
+book-DEF table-DEF under is
+‘The book is under the table.’ (Leslau, 1995:625)
+b. lɨbs-otʃtʃ-u [sat’ɨn wɨst’] natʃtʃäw
+clothes-PL-DEF box inside are
+‘The clothes are inside the box.’ (Ayalew, 2006:81)
+The only salient word order anomaly, then, is that Amharic also has prepositions, as shown in (1). (8) is another
+example, with two putative prepositional phrases used in a complete sentence.
+(8) Tom [lä-gubɨññɨt] [wädä ityop’p’ɨya] hed-ä
+Tom for-visit to Ethiopia go-3MS
+‘Tom went to Ethiopia for a visit.’ (Ayalew, 2006:79)
+Adopting a terminology that is both mnemonic and somewhat theory neutral, we refer to the P-like elements in (1) and (8)
+as PrePs, with the relationship between this category and the familiar syntactic category of adposition to be determined.
+To deepen this mystery just a little more, we point out that having OV word order along with prepositions is the rarest kind of
+mixed word order; it is found in only 14 of 1142 languages surveyed in Dryer (2011a).4 Moreover, of the 14 languages with this
+order that Dryer identifies, none could be considered as otherwise typical an SOV language as Amharic is. Three of them are
+OVS, rather than SOV, one of the rarest overall word orders (11 out of 1377 languages; Dryer, 2011b). In 12 out of 14, the
+genitive follows the noun, at least optionally, whereas this is ungrammatical in Amharic. In 13 out of 14, one or more NP-
+internal modifier (adjective, numeral, relative clause) can follow the noun, unlike Amharic.5 Amharic, then, looks to be a rare
+language among rare languages. It has mixed word order in that it has OV order and prepositions, but does not display mixed
+or variable word order along other dimensions, as superficially comparable languages do.
+The mixed word order of OV together with prepositions is also particularly problematic for theoretical approaches to
+mixed word order. The opposite mixture of having postpositions in a VO language is three times as common (42 of 1142
+languages; Dryer, 2011a), and it could have a relatively straightforward syntactic derivation: one can say that heads are
+always generated before their complements (hence VO), but DPs move leftward within PPs, perhaps to SpecPP, to give
+DP-P order on the surface. But the opposite derivation does not work to give an Amharic-like language. One might say that
+heads are always generated after their complements (hence OV), but it is not very plausible to say that DP moves
+rightward inside PP to give a derived order of P-NP, since the plausible landing sites for such a movement (the specifier of
+PP or some extension of P; adjoined to PP or to some extension of PP) should all be on the left in a language like Amharic.
+(Note that Amharic has initial subjects (SOV, possessor-noun) and initial adjoined modifiers (Adv-V, Adj-N).) Similarly,
+some versions of the Final-over-Final Constraint of Biberauer et al. (2007), etc. would allow for head final PPs inside head
+initial VPs, but not for head initial PPs inside head final VPs.
+In short, the existence of prepositions in Amharic is typologically anomalous and difficult to account for theoretically. It
+should be good news, then, that we claim that Amharic does not actually have prepositions, because then these difficulties
+might dissolve. We defend the following thesis:
+(9) ‘‘PrePs’’ are semantic case markers, marking nouns as standing in a specific semantic relation to the
+predicate (e.g., instrumental, locative, ablative, etc.).
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 143
+3 Many postpositions in Amharic were historically location-denoting nouns, rather than members of category P (Leslau, 1995). There are
+reasons to think that not all postpositions are synchronically nouns in Amharic (see Tremblay and Kabbaj, 1990), but their relationship to nominals
+does play a role in our analysis. See Section 5.5 for discussion.
+4 The fourteen languages are Neo-Aramaic (Jewish Arbel), Kuku-Yalanji, Tigre, Iraqw, Persian, Kurdish, Tajik, Tobelo, Sorbian, Päri, Tapieté,
+Tigrinya, Tuvaluan and Mangarrayi.
+5 All statistics on these languages are from the relevant chapters in the World Atlas of Language Structures (Dryer and the WALS author team,
+2011a--n).
+
+PDF PAGE 5
+Author's personal copy
+The remainder of the paper presents more direct evidence for (9), and explains in more detail how it opens up a solution to
+the issues of word/morpheme order in (2) and (3).
+3. Prepositions are case markers, not adpositions
+Before facing the central problems of morpheme order in Amharic head on, we provide preliminary support for (9) by
+comparing the PrePs to postpositions on the one hand, and to an uncontroversial case affix on the other hand, expanding
+on some lines of argument sketched in Hetzron (1970) and Tremblay and Kabbaj (1990).
+With respect to structural case marking, Amharic is a fairly typical nominative-accusative language (see Leslau, 1995,
+Baker, 2012, among others). Nominative is morphologically unmarked, whereas accusative case is marked overtly (only)
+on determined direct objects by the suffix --n.6
+(10) Almaz-Ø bet-u-n ayy-ätʃtʃ (= (4))
+Almaz-NOM house-DEF-ACC see-3FS
+‘Almaz saw the house.’
+The accusative marker --n and the postpositions are similar in terms of gross morpheme order: both follow the associated
+noun. It is plausible, then, to think that differences in their grammatical behavior are directly attributable to fundamental
+differences between a case morpheme and a true adposition. We can then compare the morphosyntactic properties of
+PrePs to those of both the accusative case marker and the postpositions. In every relevant respect, the PrePs pattern like
+the accusative case marker and not like the postpositions. We take this as showing that the PrePs are also case
+morphemes rather than true adpositions.
+Consider, for example, morphophonological evidence concerning wordhood, along the lines of Zwicky (1985). There is
+good evidence that the accusative case marker is a suffix or enclitic, not a morphophonological word in its own right. It is
+prosodically too small to be a word (just a single consonant, which is not a possible syllable type in Amharic (Mullen, 1986;
+Gebeyaw, 2001)) and it never stands on its own, without attaching to a nominal. As is typical for affixes, it undergoes
+processes of internal sandhi to accommodate to phonological properties of the preceding noun. For example, a central
+vowel is inserted before it by epenthesis if and only if the noun ends in a consonant:
+(11) a. Gɨrma-n
+Girma-ACC
+b. Almaz-ɨn
+Almaz-ACC
+Another relevant property of the accusative marker is that it cannot scope over the two DPs of a conjoined direct object;
+rather, it must be repeated on each conjunct (cf. Miller, 1992 on this test).7
+(12) a. gäbäre-w-ɨn ɨnna mämhɨr-u-n
+farmer-DEF-ACC and teacher-DEF-ACC
+‘the farmer and the teacher (acc.)’
+b. *gäbare-w ɨnna mämhɨr-u-n
+farmer-DEF and teacher-DEF-ACC
+c. *gäbare-w-ɨn ɨnna mämhɨr-u
+farmer-DEF-ACC and teacher-DEF
+Postpositions occur immediately to the right of a noun, like the accusative case marker. However, unlike --n,
+postpositions are morphophonologically independent from the noun. They are full words, always consisting of at least a
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172144
+6 Two other morphemes that one might consider to be structural cases (sometimes) in Amharic are dative lä- and genitive yä-. Both are prefixal,
+like (other) PrePs, not suffixal like accusative --n. Therefore we classify them as members of the category of PreP that is under investigation here,
+and not as outside points of comparison.
+7 An anonymous reviewer reports that (12b) is, although not necessarily perfect, better than (12c). However, three out of four consultants do not
+share this judgment, judging (12b) as clearly ungrammatical. It may be that the reviewer and the outlier consultant have a marginal reading of ‘the
+farmer and the teacher’ as a conjunctive/dvandva compound; such compounds are connected by an overt conjunction in Amharic (Leslau,
+1995:247--248). If so, the entire compound would count as one morphological word like other compounds and we predict that the case marker
+would attach to the final member of the compound (although it remains mysterious why both nouns have the definite marker); see Section 5.2.
+
+PDF PAGE 6
+Author's personal copy
+bimoraic foot (e.g., lay ‘upon’, at’ägäb ‘near’, ‘behind’, zuriya ‘around’---one possible exception is ga ‘by, near’ but the final [a]
+may be long (Mullen, 1986:133)). Many if not all postpositions can also stand alone without an NP complement, as in (13).
+(13) mäs’haf-u-n kä-sɨr wässäd-ä-w
+book-DEF-ACC from-under take-3MS-3MS.O
+‘He took the book from underneath.’
+Moreover, postpositions do not trigger or undergo any morphophonological processes related to the noun. For example,
+Amharic avoids vowel hiatus within words; typically, one of the two vowels in contact is deleted. For example, in (14) the
+noun ends in the vowel [a], the possessive suffix begins in the vowel [a]. These two [a]’s simplify down to a single [a].
+(14) gwaddäñña + atʃtʃäw = gwaddännatʃtʃäw
+friend their friend-their (Appleyard, 1995:24)
+But this is not what happens at the juncture between a noun and a postposition. When a vowel-final noun precedes a
+vowel-initial postposition, both vowels are retained, as in (15).
+(15) Addis Abäba at’ägäb *Addis Abäbat’ägäb
+Addis Ababa near
+‘near Addis Ababa’
+Postpositions also never trigger allomorphy in the noun that they are adjacent to, suggesting that they are not in a close
+enough morphological relationship with the noun to affect its form.
+Furthermore, a postposition can appear only once after a conjoined DP, and still be understood as governing both
+conjuncts, unlike the accusative --n in (12).
+(16) [t’äräp’p’eza-w ɨnna alga-w] lay
+table-DEF and bed-DEF on
+‘on the bed and the table’
+(It is also possible to have lay repeated after both conjuncts in an example like (16); this is simple PP coordination and
+does not help to distinguish a postposition from a case marker, as in (13).) A postposition can also be conjoined with
+another postposition, the two taking a single DP complement, as shown in (17).
+(17) Almaz-ɨn bet-u wɨst’-ɨnna wɨtʃ’tʃ’ ayyä-hw-at
+Almaz-ACC house-DEF in-and out see-1S-3FS.O
+‘I saw Almaz inside and outside the house.’ (cf. Tremblay and Kabbaj, 1990:172)
+How then do PrePs compare to accusative -n and postpositions in these respects? The answer is that they are like -n
+and unlike postpositions in every respect. First, they are capable of being prosodically smaller than postpositions: the
+majority consist of only one light syllable, i.e., smaller than a bimoraic foot (kä, bä, ɨ). This is smaller than a minimal
+prosodic word in most languages. PrePs also are incapable of appearing without a host on which to lean, most often an NP
+(but also potentially a postposition, as in (13)). Moreover, PrePs do participate in word-internal morphophonological
+processes, such as vowel deletion:
+(18) lä+ Almaz = [lalmaz]
+to Almaz (Appleyard, 1995:41)
+PrePs can also trigger allomorphy of their hosts. For example, demonstratives display suppletive allomorphy when
+immediately preceded by PrePs, as shown in (19)b.
+(19) a. yɨh bet
+this house
+b. bä-zzih bet
+in-this house (Appleyard, 1995:33--34)
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 145
+
+PDF PAGE 7
+Author's personal copy
+Like accusative --n, PrePs cannot scope over a conjoined DP, but must be repeated on each conjunct:8
+(20) a. kä-gäbäre-w ɨnna kä-mämhɨr-u
+from-farmer-DEF and from-teacher-DEF
+‘from the farmer and the teacher’
+b. *kä-[gäbäre-w ɨnna mämhɨr-u]
+from-farmer-DEF and teacher-DEF
+c. *gäbäre-w ɨnna kä-mämhɨr-u
+farmer-DEF and from-teacher-DEF
+And unlike postpositions, two PrePs cannot be conjoined and then combine with a single DP complement:
+(21) *wädä-nna kä-bet-u hed-ku
+to-and from-house-DEF go-1S
+Intended: I went to and from the house. (Tremblay and Kabbaj, 1990:172)
+We conclude that ‘‘prepositions’’ are very much like the known case marker with respect to morphophonological concerns
+and are quite different from postpositions.
+Another notable difference between PrePs and postpositions emerges by examining nominals with multiple APs. The
+accusative case marker must be present on the first AP inside a complex nominal phrase, and it is repeated on the second
+AP if and only if the definite marker --u is (see Kramer, 2009, 2010).
+(22) tɨnnɨʃ-u-n k’onjo-(w-ɨn) bet
+small-DEF-ACC pretty-(DEF-ACC) house
+‘the small, pretty house (acc.)’
+PrePs show the same doubling/concord behavior: they are required on the first AP, and they can also be repeated on the
+second AP if and only if the definite marker --u is (cf. Tremblay and Kabbaj, 1990).
+(23) kä-tɨnnɨʃ-u (kä-)k’onjo-w bet
+from-small-DEF (from-)pretty-DEF house
+‘from the small, pretty house’
+In contrast, postpositions cannot be repeated inside the same nominal phrase, wherever one tries to put the second
+instance of the postposition and regardless of the definiteness marker -u. One example illustrating this is in (24).
+(24) *tɨnnɨʃ-u wɨst’ k’onjo-w bet wɨst’
+small-DEF inside pretty-DEF house inside
+Intended meaning: ‘inside the small, pretty house’
+The ungrammaticality of (24) is expected if the postpositions are real, semantically relevant heads in the syntax. Then each
+instance of a postposition like wɨst’ should assign its own thematic role, and there are two instances of the postposition only if
+there are two distinct DP arguments that can function as their complements. In contrast, then, (23) suggests that PrePs like kä
+are not semantically relevant heads in the syntax, consistent with the view that they are inserted only at PF. We conclude that
+the PrePs behave like case markers in that they participate in DP-internal doubling/concord, whereas the postpositions
+behave like independent syntactic heads (cf. Nikanne, 1993 on Finnish case markers).9
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172146
+8 Again, an anonymous reviewer reports that (20b) is not as bad as (20c). Two out of four consultants share this judgment, whereas the other
+two report that (20b) is ungrammatical. The generalization that covers both (12) and (20) is that it is best to have the case marker present on both
+conjuncts, it is marginal to have it only at the relevant edge of the conjoined DP as a whole (at the end for a suffix like --n; at the beginning for a
+prefix like kä-), and it is totally out to have the case marker appear only internal to the conjunct. It seems unsurprising that (20b) is better than (20c),
+perhaps because ‘farmer and teacher’ can be understood as a compound by some speakers (see footnote 7).
+9 We do not develop a full account of DP-internal concord/doubling here, but see footnote 40 for some further observations. See also Kramer
+(2009, 2010) for some thoughts on how concord is accomplished in Amharic.
+An anonymous reviewer observes that a PreP is required on each part of an appositional nominal like ‘I have written to my friend, *(to) the chief
+clerk, *(to) Ato Bellete’. While interesting, we take this to be a different phenomenon from the distribution of PrePs within a single basic DP.
+
+PDF PAGE 8
+Author's personal copy
+Finally, there are basic distributional differences between the PrePs and the postpositions that suggest that they have
+quite different syntactic statuses. The postpositions always come after the nominal as a whole, as one would expect. This
+is just as true if the nominal is modified by an adjective ((26)) or by a relative clause ((27)) as if the nominal consists only of
+a simple noun ((25)).
+(25) mäs’haf-u [t’äräp’p’eza-w sɨr] näw (= (7)a)
+book-DEF table-DEF under is
+‘The book is under the table.’ (Leslau, 1995:625)
+(26) mäs’haf-u [tɨllɨk’-u t’äräp’p’eza sɨr] näw
+book-DEF big-DEF table under is
+‘The book is under the big table.’
+(27) mäs’haf-u [Gɨrma yä-gäzz-a-w t’äräp’p’eza sɨr] näw
+book-DEF Girma C-buy-3MS-DEF table under is
+‘The book is under the table which Girma bought.’
+In contrast, we saw in (2) and (3) there is nothing simple about where PrePs appear in a complex nominal: they can come
+before the first word in the nominal ((2)a), or before the last word ((2)b), or even before the middle word out of three ((3)).
+This also suggests that PrePs are quite different morphosyntactic animals from postpositions. The proposal that PrePs
+are case markers rather than adpositions gives us a distinction we can use to develop an account of these differences.
+4. The basics of the semantic case analysis
+The first step is to clarify just how the category of semantic case is represented grammatically. There are still dangers
+for us to avoid in this. Simply saying that an element like lä or bä is a case marker rather than an adposition does not
+automatically solve the puzzle about morpheme order that we presented in Sections 1 and 2. One widespread view in the
+generative literature is that semantic case is a functional category K(ase) that heads its own projection (Lamontagne and
+Travis, 1987; Bittner and Hale, 1996; Guerssel, 1992; Tremblay and Kabbaj, 1990), as sketched in (28).
+(28)           KP
+K                 DP    = kä- G rma‘from Girm a’
+kä             G rma
+
+One positive feature of this view is that kä- is represented in the syntax, so it can be interpreted semantically at LF. That is
+important, because we need to get from somewhere the meaning ‘from’ that pretheoretically is signaled by kä-. But a
+disadvantage of (28) is that this approach simply moves the problem of disharmonic word order in Amharic to a different
+category. It is presumably just as problematic to say that otherwise head-final Amharic has head-initial KPs as to say that it
+has head-initial PPs.10 So the potential for a uniform theory of word order that is opened up by realizing that kä- and its
+peers are case markers rather than adpositions is not realized in this version.
+Instead of (28), then, we propose that the syntax of Amharic includes a series of null Ps (with meanings like ‘from’) that
+govern DP complements---as suggested by Emonds, 1985, 1987, Guerssel, 1992, Nikanne, 1993, and others for
+languages like German, Berber, and Finnish. The null Ps then assign particular case features (lexical or inherent case) to
+their nominal complements; for example ‘‘ablative’’ is assigned by the null P that means ‘from’. On this view, the syntactic
+representation of kä-Gɨrma would be (29).
+(29) PP
+  DP              P ( = ‘fro m’)
+G rm a
+[+ ABLATI VE]
+
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 147
+10 Here we aspire to do better than Hetzron (1970) and Tremblay and Kabbaj (1990), who also argue that PrePs are case markers rather than
+adpositions, but do not really explain their grammatical distribution in these terms. Tremblay and Kabbaj (1990) only appeal to the lexical-
+functional distinction, without discussing why functional heads like K should be placed differently than lexical heads like P. Hetzron (1970)
+assumes that PrePs are case markers and focuses on how they are interpreted in conjunction with certain verbal suffixes; he does not advance an
+analysis of their morphosyntactic distribution.
+
+PDF PAGE 9
+Author's personal copy
+The crucial difference is that ‘‘ablative’’ is not a functional head; hence it is not regulated by the headedness parameter,
+however that is encoded. Rather, it is a feature, which is then realized as a morpheme that can in principle be either a
+prefix or a suffix (ablative is a prefix, but accusative is a suffix).11 The case feature on DP is then realized post-
+syntactically  as a dissociated morpheme somewhere inside the PF realization of that DP (McFadden, 2004; cf. Marantz,
+1991). For example, the feature [+ABLATIVE ] triggers the insertion of the prefix kä-. Meanwhile, only a null vocabulary
+item is inserted under the P node, by hypothesis. Therefore, the syntactic representation  in (29) is realized at PF as
+[kä-Gɨrma].
+Before fleshing out more precisely just how the dissociated morpheme is spelled out on the nominal complement of P,
+we point out some initial advantages of this approach. First of all, the word order problem is solved: since the P in (29) is
+phonologically null, we can safely say that it is a postposition, just as all overt Ps are in Amharic. Amharic is then a
+uniformly head final language in its syntax. The apparently anomalous elements turn out not to be syntactic heads at all,
+but rather dissociated morphemes not present in the syntax. However, if we said that PrePs are case markers inserted at
+PF without positing a null P, then we would have no account of where the meaning ‘from’ comes from at LF. Saying that
+there is a null P in the syntax that indirectly triggers the visible case morpheme at PF solves this problem, because the P
+can be interpreted at LF.
+Having a null P in the syntax is consistent with the fact that nominals with PrePs have the same syntactic distribution as
+PPs that contain overt postpositions (cf. McFadden, 2004). For example, both can serve equally well as the complement
+of a motion verb, as shown in (30).
+(30) a. Almaz [bet wɨst’] gäbb-atʃtʃ
+Almaz house in enter-3fs
+‘Almaz went inside the house.’
+b. Almaz [bä-bet] gäbb-atʃtʃ
+Almaz via-house enter-3FS
+‘Almaz entered via the house’
+Nominals with semantic case markers can even be coordinated with postpositional phrases:
+(31) mäs’haf-u [bä-bet-u] ɨnna [alga-w lay] näw
+book-DEF in-house-his and bed-his upon is
+‘The book is in his house and on his bed.’12
+This equivalence is, of course, why the semantic case markers have been analyzed as adpositions within the previous
+Amharic literature. We can continue to maintain that locations are expressed by PPs, that motion verbs and the copula
+select PPs, and so on. Such statements do not distinguish phrases that contain postpositions from phrases that contain
+PrePs in Amharic on this view.13
+Finally, the analysis predicts that it should be possible to have an overt P that takes a case-marked complement.
+Although the P happens to be null in (29), this is presumably a special case. Nothing precludes a P with
+morphophonological content from also triggering the insertion of a case marker on the DP. We therefore could find a
+postpositional phrase in which the nominal complement of P is semantically case marked. Indeed, such phrases are quite
+common in Amharic:
+(32) a. kä-wändɨmm-u gar
+ABL-brother-his with
+‘with his brother’ (Leslau, 1995:653)
+b. bä-zɨnab mɨknɨyat
+LOC-rain because
+‘because of rain’ (the game was delayed) (Leslau, 1995:623)
+In (32)a, the overt P is gar and its complement ‘his brother’ is case-marked with kä-; in (32)b the overt P is mɨknɨyat and its
+complement has the inherent case marker bä-. Judging by Leslau (1995), these are the two most common cases assigned
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172148
+11 See also Hetzron (1970), who proposes that PrePs are inserted to realize semantic features present at deep structure.
+12 Thanks to Jochen Zeller for asking about these structures.
+13 But see Section 5.5 for a refinement, in which postpositions generally express ‘‘place’’ whereas PrePs express (indirectly) path functions.
+
+PDF PAGE 10
+Author's personal copy
+by postpositions in Amharic, in that nonlocative postpositions that appear with only one PreP always appear with one of
+these two PrePs. In contrast, locative postpositions generally occur with a whole range of PrePs, with different meanings
+derived compositionally. This points to a more articulated PP structure for location-denoting phrases, which we return to in
+Section 5.5. For now, however, we can see that nonlocative gar is like the null P ‘from’ in (29) in that it triggers the insertion
+of a particular semantic case marker (ablative) on its complement at PF.
+Overall, then, the analysis has promise in that it addresses the word order puzzle that we started with, it allows for the
+proper distribution of PPs within Amharic, and it makes accurate predictions about the co-occurrence of postpositions and
+semantic case markers in the language.
+5. How the case marker is inserted postsyntactically
+Now we come to the heart of the matter: showing that a reasonable account of the placement of a PreP inside a
+complex nominal can be given in terms of the proposal in (9), whereas we foresee no plausible account forthcoming from
+an alternative analysis that takes PrePs to be head-initial Ps in the syntax with parts of the nominal undergoing syntactic
+movement.
+First we make explicit two assumptions from the Distributed Morphology literature. The first is simply that
+morphological operations occur post-syntactically on the PF branch. The second is that case morphemes are inserted
+post-syntactically (McFadden, 2004; Marantz, 1991), on the PF branch of this derivation. The question, then, is how
+exactly does the post-syntactic insertion of case markers happen in Amharic? The most obvious placement rules do not
+work in this instance: it is not correct to say that the case affix always attaches to the first word of the phrase, or to the last
+word of the phrase, or to the (apparent) head of the phrase, namely the noun.
+5.1. Insertion of PreP on the highest word in the nominal
+In pursuing a principled theory of the placement of PrePs in Amharic, it is useful to realize that PrePs are not the only
+elements that have a complex distribution within the Amharic nominal. Another element that shows up in different places
+depending on the internal structure of the nominal is the suffixal definiteness marker --u (see Kramer, 2009, 2010 and
+references cited there).
+To a striking degree, this element --u appears on the same word in the complex nominal as the PreP does, as shown
+below. Therefore, we set it as a goal of our account that it should determine the placement of both the definiteness marker
+and the PreP. This will give our account nontrivial generality, since it applies to suffixes (-u) as well as prefixes (the PrePs),
+and to definiteness features as well as case features.14 Mechanically, we can say that D in Amharic is a null head too (as
+many Ps are) but it assigns the feature [+DEF] to its NP complement. [+DEF] then is another dissociated feature, to be placed
+by the same PF rule (This is a departure from the analysis of definite markers developed in Kramer, 2009, 2010; see
+Section 6 for how to connect the two approaches).
+With this goal in mind, the correct generalization, we claim, is approximately as follows: if a feature F is associated with
+a nominal X, it is attached to the highest full word in X. By the expression ‘‘full word’’, we mean a stem together with the
+affixes and clitics that attach to it, a morphological word (m-word) in the sense of Embick and Noyer (2001). This is a
+potentially complex head that is not dominated by a further head projection. Which m-word is the highest in a given
+nominal is then determined in terms of c-command. The rule that inserts case markers can thus be stated in preliminary
+fashion as in (33) (to be revised below).
+(33) Insertion Rule (preliminary version)
+If feature F is to be inserted within constituent X, then attach F to the m-word Z such that Z asymmetrically
+c-commands all the other m-words in X.15
+Let us see, then, how (33) accounts for the distribution of both PrePs and -u. First, and most straightforwardly, when
+there is a single m-word in the nominal---the simple noun---then both the definiteness marker and the case marker trivially
+attach to that m-word. This can be seen in (34).
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 149
+14 A more obvious comparison would be with the accusative --n, compared pretheoretically with PrePs in Section 3. However, we believe that the
+realization of -n in a nominal is contingent on the realization of -u in the structure; see the appendix for discussion. Given this, PreP and -u is the
+more direct comparison from a theoretical point of view.
+15 It is crucial in this approach that morphological operations apply cyclically from the bottom up, so that complex m-words are already formed by
+the time the case marker is inserted (see e.g., the compounds in Section 5.2). This may raise some technical issues about cyclicity and the timing
+of the insertion of the case marker that we do not investigate here.
+
+PDF PAGE 11
+Author's personal copy
+(34) a. [bet-u]
+house-DEF
+‘the house’
+b. kä-[bet]MWd
+from-house
+‘from a house’
+This is, of course, what one would expect on almost any view.
+More interesting is the case when the DP contains an attributive adjective, as in (35). Here both the definiteness marker
+and the PreP attach to the adjective, not to the head noun.
+(35) a. tɨllɨk’-u bet
+big-DEF house
+‘the big house’
+b. kä-[tɨllɨk’]MWd bet
+from-big house
+‘from a big house’
+c. kä-[tɨllɨk’]-u bet (= (2)a)
+from-big-DEF house
+‘from the big house’
+The PreP placement in (35)b by itself is not very striking: it is just what we would expect if it was an ordinary preposition, as
+descriptive treatments say. But the placement of the definiteness suffix is striking, since it goes on the modifier, not on the
+head noun. It is clear, however, that both go on the same word.
+To account for these examples, we may suppose that adjectives are generated as the specifiers of designated
+functional heads in the extended projection of the nominal, following Cinque (1994, 2009).16 Then the syntactic structure
+of (35)c is as in (36).
+(36) PP
+
+DP[+ABL] P
+
+FP[+ABL,+ DEF] D
+
+AP                 F
+Highes t m-word big 
+NP               F
+house            
+In this structure, the A(P) ‘big’ asymmetrically c-commands the N(P) ‘house,’ assuming that the A(P) is both a minimal and
+maximal category along the lines of Bare Phrase Structure (Chomsky, 1995, etc.).17 Therefore, the A(P) counts as the
+highest m-word in the nominal (the D head being null). Therefore, the affixes are attached to this word, kä- spelling out the
+[+ABLATIVE] case feature as a prefix, and --u spelling out the [+DEFINITE] feature as a suffix. This gives the data in (35).18
+If a noun is modified by a series of adjectives, then (33) predicts that the case marker and the definiteness marker will
+necessarily attach to the leftmost adjective in the sequence of adjectives, assuming the normal right-branching structure,
+with specifiers (or adjuncts) consistently on the left of the modified constituent. (37) shows that this is correct.19
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172150
+16 We assume this for clarity and convenience, but other plausible structures might give the same effect. The other most plausible analysis of
+simple attributive adjectives is that they adjoin directly to the NP (as in Baker, 2003, among others). Then how the insertion rule in (33) applies
+depends on details of c-command in adjunction structures. The potential problem to be avoided would be if the A and the N were in a mutual c-
+command relationship, because then (33) would not say which word the case marker affixes to. But Kayne’s (1994) definitions do imply that an
+adjunct asymmetrically c-commands the head of the constituent to which it is adjoined. Under that understanding, (33) would also give the right
+result when applied to a structure that does not have the abstract head F in (36) but has A(P) adjoined directly to N(P).
+17 This naturally raises the question of where the preposition goes when the AP is not simultaneously maximal and minimal, when there is other
+material within the AP. On this matter, see Section 6.
+18 A reviewer wonders whether a Lowering operation (Embick and Noyer, 2001) would suffice to describe the distribution of the PreP and definite
+marker. As noted in Kramer (2010), a (non-stipulative) Lowering approach requires that D take an AP complement, and that A take an NP
+complement. This structure cannot be correct for Amharic, though, since prenominal adjectives can take PP complements (see (79)).
+19 In addition, both the definiteness marker and the PreP can optionally be repeated on the second adjective, if the adjective is also definite-
+marked. Accounting for this possibility requires some extra assumptions. See Section 3.
+
+PDF PAGE 12
+Author's personal copy
+(37) kä-tɨnnɨʃ-u k’onjo bet
+from-small-DEF pretty house
+‘from the small, pretty house’
+Again, the position of the definite suffix is more noteworthy than the position of the P here.
+The example in (19)b of a PreP with a nominal containing a demonstrative can be explained along the same lines.
+Demonstratives always precede the nouns they are associated with in Amharic. (In fact, they precede relative clauses,
+adjectives and possessors as well.) This makes it unlikely that the demonstrative is the head of a head-final Demonstrative
+Phrase (or DP). A more plausible idea is that the demonstratives are specifiers of some high projection, possibly DP
+(see Giusti, 1997, 2002; Brugè, 1996 for similar conclusions in Romance, and Kramer (2009, 2010) for discussion in
+Amharic). As a simultaneously minimal and maximal category in a high specifier position, the demonstrative asymmetrically
+c-commands the head noun. Therefore the case marker attaches to the demonstrative, as in (19). (The definiteness marker
+--u should also be spelled out on the demonstrative word, but +DEF is spelled out as Ø rather than as --u on words that are
+intrinsically definite, so this is not visible; see note 21.)
+This account also works in a straightforward  manner for nominals that contain possessors. It is normally assumed
+that the possessor is the specifier of some phrase that properly contains the possessed noun, although the exact
+head varies in different accounts (a special possessive D, N itself (or n), or some intermediate  head Poss). Whichever
+specific version is adopted, the possessor asymmetrically  c-commands the possessed noun. Therefore it is the
+highest m-word, and the PreP must affix to it, rather than to the possessed noun. This is shown in (38) with the
+analysis in (39).20
+(38) lä-[Gɨrma]MWd wändɨmm
+to-Girma brother
+‘to Girma’s brother’
+(39) DP[+DA TIV E ]
+                                 Poss P             D
+Ø
+                             DP         Poss
+Highest m-wor d  Girm a
+                                     NP        Pos s
+                                       bro ther Ø
+Similarly, in possessive structures the definiteness marker --u can affix to the possessor but not to the possessed noun,
+as shown in (40).
+(40) yä-tämari-w mäs’haf (*yä-tämari mäs’haf-u)
+GEN-student-DEF book GEN -student book-DEF
+‘a/the book of the student; the book of a student (for some speakers)’
+Here it is not entirely clear whether the --u suffix on the possessor ‘student’ is the manifestation of definiteness on the
+nominal ‘student’ or of definiteness on the larger nominal ‘book of a/the student.’ Ouhalla (2004) and den Dikken (2007)
+argue for the former, whereas Hartmann (1980) and Leslau (1995) have observed the latter; our consultants have mixed
+judgments. We tentatively assume that the nominal has either meaning. If it is the possessor that is definite, then --u is
+simply spelled out on the only overt word in that nominal ‘student’, as in (34)a. If the nominal as a whole is definite, then --u
+is spelled out on the highest word of the larger nominal, namely the possessor, just as lä- is in (38). If both are definite, then
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 151
+20 (38) does not include the possessive marker yä-, seen in (40). In (38), the prefix yä- is deleted at PF when it immediately follows a PreP. This is
+a kind of haplology, which is a general process in Amharic; see Leslau, 1995:89. We leave open just what yä- is in (40), especially since it has
+inspired a fair amount of controversy in the Amharic literature (see e.g., Ouhalla, 2004; den Dikken, 2007). For the cases at hand, we tentatively
+analyze it as a genitive case marker, realizing the case feature assigned to the possessor by an abstract POSS head (see (39)). This hypothesis
+does not, however, account for the fact that genitive yä- is homophonous with a morpheme found on the verb in relative clauses; see (59) below.
+This morpheme seems like a complementizer (and we gloss it as such), but we do not take an official stance on whether complementizer yä- and
+possessive yä- are two versions of the same morpheme (as argued in e.g., den Dikken, 2007). Interestingly, both the complementizer and
+possessive versions undergo haplology in the context of a PreP; see (58) below.
+
+PDF PAGE 13
+Author's personal copy
+one might expect a series of two --u’s on ‘student’, one for each instance of [+DEF], but it is plausible to say that such a
+sequence reduces down to a single token of --u by a form of haplology that is common in Amharic and many other
+languages (see Kramer, 2014). One thing that is clear is that --u cannot be spelled out on the possessed noun ‘book’ in the
+presence of the possessor, any more than the PreP can.21 This follows if the possessed noun is not the highest word in
+any DP. Again we see that the case prefix and the definite suffix target the same word.
+If both a possessor and an adjective are in the same DP, Amharic allows two word orders: both [Poss AP N] and
+[AP Poss N] are possible. When the possessor is initial, we assume that the Poss head selects an FP complement with an AP
+specifier. This is the more neutral order. When the AP is initial, it is focused. We therefore assume the AP has undergone
+focus-related movement to a higher specifier (possibly SpecDP; see Demeke, 2001, den Dikken, 2007 on AP fronting). The
+highest m-word in the possessor-initial order is therefore the possessor, whereas in the AP-initial order it is the A(P). As (33)
+predicts, the PreP and --u both attach to the highest m-word in either order: the possessor in (41), and the A(P) in (42).
+(41) bä-diräktär-u addis mäkina Possessor Initial
+in-director-DEF new car
+in the new car of the director (Leslau, 1995:195)
+(42) b-addis-u yä-diräktär-u mäkina22 AP Initial
+in-new-DEF GEN-director-DEF car
+in the NEW car of the director (Leslau, 1995:195)
+For the range of examples considered so far, a simpler rule would work, namely one that spells out the affixes on the
+first m-word in a DP constituent. But that simple version would not work for examples like (2)b, where the nominal consists
+of a verbal noun and its complement. In such examples, the definiteness marker ((43)) and the PreP ((44)) both attach to
+the verbal noun.23
+(43) agär-ɨh mä-k’rät-u-n bɨ-ttɨ-wädd. . .
+country-your NOML-stay-DEF-ACC if-2S-want. . .
+‘If you want to stay in your country. . .’ (Leslau, 1995:395)
+(44) [mist-u-n bä-[mä-gdäl]MWd] tä-kässäs-ä
+wife-his-ACC against-NOML-kill PASS-accuse-3MS
+‘He was accused of murdering his wife.’ (Leslau, 1995:400)
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172152
+21 It is, however, bad to realize [+DEF] as --u on a proper noun, to give a form like yä-Gɨrma-(*w) mäs’haf ‘the book of Girma’. Ouhalla (2004) very
+reasonably takes this to be evidence that --u always represents the definiteness of the possessor, not the definiteness of the nominal as a whole.
+But an alternative interpretation, just as good as far as we can see, is to say that [+DEF] is realized as the suffix -u on common nouns and
+adjectives, but as --Ø on words that are intrinsically definite, including proper nouns, pronouns, and demonstratives. The same spell out rule
+explains why simple names do not bear --u, despite being definite.
+22 Note that the --u on the adjective in this example cannot be a realization of [+DEF]associated with the possessor, since that shows up as --u
+suffixed to ‘director’. Therefore, it tends to confirm our assumption that the possessed nominal as a whole can be [+DEF] as well.
+23 An anonymous reviewer reports that a PreP can also appear prefixed to the object of a verbal noun, offering the example in (ia), which has
+‘‘basically the same meaning’’ as (ib).
+(i) a. bä-gänzäb mä-sräk’ tä-kässäs-a
+by-money NOML-steal PASS-accuse-3MS
+‘He was accused of stealing money.’
+b. gänzäb bä-mä-sräk’ tä-kässäs-ä
+money by-NOML-steal PASS-accuse-3MS
+‘He was accused of stealing money.’
+A potentially crucial difference between (ia) and (44) is that the object is a bare indefinite NP in (ia), whereas it is part of a larger DP in (44). Given
+this, it is plausible to say that ‘money’+’stealing’ is really a compound in (ia), so that the literal gloss should be ‘He was accused of money-stealing’.
+If so, then bä- prefixes to the single m-word in the constituent, as expected. Then the alternation between (ia) and (ib) would reduce to the
+possibility of parsing certain strings either as a compound word or as a syntactic phrase, on which see Section 5.2.
+Our account then predicts that the PreP should prefix to the verbal noun if the complement of the verb is anything but a bare indefinite NP---e.g.
+if it is a pronoun, a proper noun, a determined NP, a PP, indeed anything that has the wrong category or too much internal complexity to be
+plausibly analyzed as the nonhead of a compound. This is borne out: attaching the PreP to ‘his wife’ in examples like (44) or to a pronominal
+complement of the verbal noun is ungrammatical.
+
+PDF PAGE 14
+Author's personal copy
+This time it is the placement of the PreP that is more surprising than the placement of the definiteness marker. The
+definiteness marker could be seen as cliticizing to the right edge of the definite nominal, but for the first time in this section
+we do not see the PreP attaching to the left edge of the nominal. Instead, it prefixes to the verbal noun, not its complement,
+even though the complement precedes the verbal noun. Nevertheless, the generalization that the PreP and the --u suffix
+attach to the same element holds true. Taken by themselves, examples like (43) and (44) might make it tempting
+to say that the case marker affixes to the head of the nominal, but that assumption is problematic for examples like (41)
+and (42).
+However, our proposal in (33) can capture this whole range of data. We assume that these nominalized verbal
+constructions consist in the syntax of a VP (possibly extended by other projections) appearing as the complement of a
+head-final nominalizer, realized as mä-.24 The head verb of VP then raises by head movement to combine with mä- in the
+syntax, forming a single m-word, as shown in (45).
+(45) DP[+MALEFACTIVE.CASE]
+          NP/nP [+DEF, +MAL]        D
+Ø
+VP                    N/n
+ Hig hest m-w ord
+DP             V       N/n         V
+    mä- acc usewife- his    accuse
+As a result of this verb movement, the derived m-word (the complex head mä-gdäl) is the highest m-word inside the larger
+DP, asymmetrically c-commanding the object and anything else that may remain inside VP. Therefore, this is the word that
+the PreP and the definiteness suffix attach to.
+We account for the fact that the PrePs (and --u) attach to the last word in verbal constructions  but to the first word in
+simple nominals by saying that the verb moves into a higher head. To preserve this account, then, we also need to say
+that the head noun does not move to a high functional head. In particular, we need to say that the noun does not move into
+D in a structure like (36) or (39), since if it did it would presumably land in a position higher than the adjective or possessor,
+and the PreP would be spelled out on the noun. This assumption seems valid. In the simplest examples like bet-u ‘the
+house’ the definiteness marker --u (and its feminine singular version -wa) show up as suffixes on the noun, raising the
+possibility that N raises to D much like V raises to mä- in (45). But we have seen that the overall distribution  of --u is
+considerably more complex, and cannot be explained in this way. In particular, it does not affix to the head noun in
+examples like (35) and (40); hence it gives no support for the idea that there is N to D movement in Amharic. Nor do we
+know of any other reason to say that this happens.25 In contrast, mä- always affixes to the verb in a verbal noun
+construction---never to a complement or modifier associated with the verb. Thus, there is good reason to distinguish the
+two structures in the way that our account assumes.
+5.2. When PreP and -u seem not to attach to the same element
+We have seen that PrePs and the --u affix to the same word in a range of interesting cases. This need not be the first
+word, or the last word, or the head noun; rather we have argued that it is the highest word in the nominal. There are,
+however, a small number of constructions  in which the two do seem to affix to different units. In this subsection, we briefly
+survey these apparent counterexamples,  and argue that they do not seriously challenge our account.
+The first apparent counterexample to our generalization comes from compound nouns. These come in two main sorts
+in Amharic, as in many other languages. One is a simple juxtaposition of two nouns, as in (46)a. The other has the form of a
+possessive construction, with genitive yä- preceding the first member of the compound, as in (46)b.
+(46) a. hakim bet ‘doctor house’ = ‘hospital’
+b. yä-posta bet ‘(of) post house’ = ‘post office’
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 153
+24 Amharic’s nominalized verb is more like a (verbal) gerund in --ing than like a true derived nominal in English. For example, nominalized verbs
+take accusative marked direct objects, as in (44), can be modified by adverbs, and so on.
+25 See also Kramer (2009, 2010), who also argues that N does not move to D and that --u is the realization of D that gets attaches to a suitable
+host at PF.
+
+PDF PAGE 15
+Author's personal copy
+Now the definiteness marker --u suffixes to the last member of the compound ((47)), whereas the PreP prefixes to the first
+member of the compound ((48)).
+(47) a. hakim bet-u ‘the hospital’ (*hakim-u bet)
+b. yä-posta bet-u ‘the post office’ (also possible: yä-posta-w bet26)
+(48) a. wädä-hakim bet-u ‘to the hospital’ (*hakim wädä-bet-u, #wädä-hakim-u bet)
+b. kä-posta bet-u ‘from the post office’ (*posta kä-bet-u; also possible kä-posta-w bet)
+The ‘post office’ examples in particular are rather striking in that (46)b looks just like a possessive construction (see (40)),
+but (47)b does not, in that --u suffixes to the first member in a true possessive construction but to the last member of a
+compound in the form of a possessive construction. Moreover, (48)ab look like they have the PreP and the --u attached to
+different words.
+However, these data pose very little problem from a theoretical point of view. Rather, we simply say that compounds of
+both types are (can be) a single unit in the syntax, dominated by a single N node. Then the nominals bearing the
+dissociated feature in (47) and (48) contain only a single morphological word. This is trivially the highest morphological
+word in the nominal, and both affixes attach to that word. Since the PreP prefixes to the compound as a whole, it shows up
+before the first part of the compound, and since --u suffixes to the compound as a whole, it shows up after the last part of
+the compound. Nothing more needs to be said. (Note also that there can be variation across speakers as to which
+examples are treated as compounds and which are (possibly idiomatic) phrases with internal syntactic structure; see
+note 26.)
+Another case that we take to be similar is examples with complex numerals. If the numeral that modifies a noun
+consists (in some pretheoretic sense) of more than one word, then the PreP attaches to the first word of the complex and
+--u attaches to the last.
+(49) lä-and miliyon aratt mäto hamsa ʃih-otʃtʃ-u wättaddär-otʃtʃ
+to-one million four hundred fifty thousand-PL-DEF soldier-PL
+‘to the 1, 450,000 soldiers’
+This is, of course, what we would expect if ‘one million four hundred fifty thousand’ is only a single word, functioning as a
+(kind of) adjective modifying the noun. Then the PreP prefixes to the beginning of this complex word, and the definiteness
+suffix affixes to the end of it, just as if it were a simple adjective. So that is what we assume that it is, following Kramer
+(2009, 2010).
+In conclusion, we claim that the generalization that the PreP and the definiteness marker attach to the same word may
+in fact be exceptionless, the apparent exceptions coming from words that are complex morphologically but not
+syntactically. See also note 23 for another apparent counterexample that may be analyzed in essentially the same way.
+We tackle a few more apparent exceptions in Section 6, claiming that they are cases of a syntactic phrase acting as a
+morphological unit because it has been previously spelled out. Before that, though, we refine our insertion rule a little
+further.
+5.3. Recursive applications of the morpheme placement rule
+An important question for (33) is what happens when there is no unique highest word in the nominal; where do the
+dissociated morphemes go then? This situation can arise when the highest constituent in the nominal itself has complex
+structure. For example, imagine a possessed NP where the possessor itself consists of an adjective plus a noun, as in a
+phrase like ‘a tall teacher’s car.’ The structure should be approximately as in (50).
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172154
+26 The two possible realizations of ‘post office’ show that it is ambiguous between being a compound (simple N in the syntax, but with internal
+morphological structure) and being a genitive construction with a conventionalized/idiomatic meaning. If it is parsed as a compound, then the case
+prefix is at the beginning and the definiteness suffix is at the end; if it is parsed as a possessive construction, then both affixes attach to the
+possessor. Many examples in Amharic vacillate between these two parses, some speakers allowing one, some the other, and some both. We
+thank an anonymous reviewer for helpful clarification, and for providing the relatively unambiguous example hakim bet. In fact, even here wädä-
+hakim-u bet is possible, but it has only the compositional meaning ‘to the doctor’s house’, not the lexicalized meaning ‘to the hospital’. In contrast,
+there is no obvious semantic shift in the two parses of ‘post office’.
+
+PDF PAGE 16
+Author's personal copy
+(50) DP
+
+PossP                              D
+
+DP                    Poss
+ 
+FP         D          NP             Poss
+ car               
+AP         F
+tall 
+NP      F
+teacher     
+What is the highest word in (50)? It cannot be ‘teacher’, because that is c-commanded by ‘tall’. But it cannot be ‘tall’ either,
+since that is contained in FP, and FP does not contain ‘car’, so ‘tall’ does not c-command ‘car’. But ‘car’ does not
+c-command ‘tall’ either. So there is no uniquely highest word in this structure, as defined by c-command.
+What happens then if the largest nominal (PossP) in (50) bears one or both of the dissociated features [+DEF] or
+[+CASE]? In fact, the affix --u and the PreP both attach to the adjective inside the possessor, as shown in (51).
+(51) a. yä-rädadaɨm-u säwɨyye kot
+of-tall-DEF man coat
+‘the coat of a tall man’
+b. kä-rädadaɨm-u näggade suk’
+from-tall-DEF merchant shop
+‘from the shop of a tall merchant’
+We propose that this comes about as the result of recursive application of the principle that a dissociated feature is
+realized on the highest word in the nominal. The two subconstituents of PossP with overt material in (50) are the DP in
+SpecPossP and the NP that is the complement of Poss. Of the two, DP is the higher, since it c-commands NP. Therefore,
+the dissociated feature becomes attached to DP. But DP is itself a complex constituent with more than one overt
+morphological word. So we apply the PF placement rule again to DP. The result is that the features [+CASE]and/or [+DEF]
+become associated with AP, since AP c-commands NP within FP. This AP consists of only a single word (the A itself), so
+[+CASE]triggers the insertion of a PreP as a prefix to this word, and [+DEF] triggers the insertion of --u as a suffix to it. This
+gives us the patterns in (51). We therefore replace (33) with the explicitly recursive version in (52).27
+(52) Insertion Rule, Revised
+(i) If feature F is associated with a term28 that contains only a single m-word W, then attach F to W.
+(basis step)
+(ii) If feature F is associated with a phrase X that contains more than one,-word, then associate F with
+the highest term that is properly immediately contained in X and contains at least one m-word.
+(recursive step)
+Before moving on from (52), there is a possible structural ambiguity that we need to face. We assumed without
+comment that the definiteness feature that is ultimately spelled out on the initial adjective in these examples originally
+pertains to the largest nominal: that (51)a for example means ‘the coat of a tall man’. But there is another possibility, which
+is that the +definiteness feature pertains semantically only to the possessor nominal, so that (51)a can mean ‘a coat of the
+tall man’. Or indeed semantic definiteness could pertain to both the larger NP and the smaller NP, such that (51)a means
+‘the coat of the tall man’, also renderable in English as ‘the tall man’s coat’.
+We observed in Section 5.1 that the literature is divided, and that our consultants are a bit uncertain about these
+possibilities. Probably all allow the third meaning, whereas one accepts the first meaning and another does not. Now if (51)
+a is really the result of definiteness originally being attributed to the possessor, not to the nominal as a whole, then one
+could doubt whether the feature placement rule is really recursive in the way that we have said. The morpheme order in
+(51)a could arise by the following derivation:
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 155
+27 This formulation could also be used to sharpen our analysis of some of the examples already discussed in Section 5.1, where we intentionally
+blurred a possible distinction between a phrase like AP or NP and the morphological word (A or N) that it contains (invoking Chomsky’s Bare
+Phrase Structure). The details of the relationship between the morphological word and the smallest maximal projection that contains it are not
+crucial once we adopt (52).
+28 By ‘‘term’’ we mean anything which is a constituent in syntactic structure---a head or a phrase (see Chomsky, 1995:247).
+
+PDF PAGE 17
+Author's personal copy
+(53) [DP [PossP [DP [FP[+def] [AP tall] [NP man] F] DEF] [coat Poss] Ø] !
+[DP [PossP [DP [FP [AP[+def] tall] [NP man] F] DEF] [coat Poss] Ø] !
+[DP [PossP [DP [FP [AP tall+u] [NP man] F] DEF] [coat Poss] Ø] !
+yä-tall-u man coat
+We believe that this derivation does exist as well, but that it does not threaten our analysis that feature attachment is
+recursive. Our reasoning is that, unless there are unknown restrictions on the distribution of definiteness in complex
+nominals in Amharic (certainly not out of the question), it should be possible for the larger PossP to be specified as [+DEF]---
+with or without FP being intrinsically [+DEF] as well. Now what should be the PF manifestation of that feature? If the feature
+placement rule is not recursive, then it should place [+DEF]on the DP possessor, since that is higher in PossP than the NP
+complement of Poss, but it will not be able to look further inside DP. In that case, it would be reasonable to assume that
+[+DEF] would spell out as --u suffixed to the DP as a whole, hence to the last word in DP, namely ‘man’. Then we would
+expect the following two examples to be grammatical, depending on whether the nominal ‘tall man’ is also definite or not:
+(54) a. *yä-rädadaɨm säwɨyye-w kot
+of-tall man-DEF coat
+(‘the coat of a tall man’)
+b. *yä-rädadaɨm-u säwɨyye-w kot
+of-tall-DEF man-DEF coat
+(‘the coat of the tall man; the tall man’s coat’)
+But our consultants are unanimous in ruling out these possibilities.29
+Alternatively, if the feature placement rule is fully recursive (as we argue), then the definiteness marker --u ends up on
+the initial adjective regardless of whether it originally pertained to the possessor ‘tall man’ (since ‘tall’ is the highest thing in
+FP) or it originally pertained to the whole nominal ‘coat of tall man’ (since ‘tall’ is the highest thing in the highest thing in
+PossP), or both. On the fully recursive view, -u should always surface on the adjective, and it should not be clear to
+speakers whether --u signals the definiteness of ‘man’ or of ‘coat’ or of both. This second possibility fits well with Amharic
+speakers’ reactions to examples like these. Therefore, we conclude that the feature placement rule is recursive as stated
+in (52) pending a full study of the semantics of definiteness in possessed nominals in Amharic.
+Notice that these complications do not arise for the PrePs. The ablative feature in (51)b clearly belongs originally to the
+PossP as a whole, given what the expression means. The possessor might have a case value too, but if anything that is
+genitive (possibly realized as yä- in the absence of haplology; see footnote 20), not ablative.
+A similar sort of recursive structure is one in which the possessor of the head noun itself contains a possessor. This
+structure should look something like (55) for ‘the/a coat of the/a son of the/a king’.
+(55) DP
+
+PossP                              D
+
+DP                Poss
+ 
+PossP         D       NP              Poss
+ coat               
+DP         Poss
+king 
+NP        Poss
+son 
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172156
+29 However, an anonymous reviewer does allow a similar structure in the example in (i), where the head of the possessor is inanimate. He/she
+suggests that there may be an animacy effect.
+(i) yä-k’äyy bet-u at’ɨr
+of-red house-DEF fence
+‘the fence of the red house’
+Our only idea about why this example might be different is if ‘red house’ can be parsed as a compound in Amharic (compare English
+greenhouse). There is no special cultural significance of red houses in Ethiopia that we know of, but it is true that the language has many
+compounds that use bet as the head (e.g. see (46)). There is also some empirical support for a compound approach to (i), in that our consultant
+who accepts (i) does not accept a similar example with ‘book’ as the possessor rather than ‘house’. He also does not accept the definite marker on
+the possessor if the possessor is modified by multiple adjectives, making it seem less compound-like.
+
+PDF PAGE 18
+Author's personal copy
+If a case feature is associated with the larger PossP, it should be spelled out as a PreP on ‘king’, because that is the
+highest element in the highest element in the larger PossP (even though ‘king’ itself doesn’t c-command ‘coat’). This is
+clearly correct:
+(56) kä-nɨgus-u lɨda kot
+from-king-DEF child coat
+‘from the/a coat of the/a son of a/the king’
+Similarly, if a definiteness feature is associated with the larger PossP, it should be spelled out as --u on ‘king’. However, a
+definiteness feature associated with the smaller PossP ‘son of king’ will also spell out there, as will a definiteness feature
+associated only with ‘king’. So we predict that -u will appear only after the first noun ‘king’, but that speakers will be
+uncertain exactly which nominal is definite. This fits our observations: (57)a is good, with different speakers accepting
+different ranges of interpretation, and (57)b and (57)c are bad.
+(57) a. yä-nɨgus-u lɨda kot
+of-king-DEF child coat
+‘the coat of the/#a king’s son’
+b. *yä-nɨgus lɨda-u kot
+of-king child-DEF coat
+c. *yä-nɨgus-u lɨda-u kot
+of-king-DEF child-DEF coat
+Again, one of our consultants accepts (57)a with a reading in which only the coat is definite; another interprets definiteness
+as pertaining to all the nominals (as in English the king’s son’s coat).
+5.4. NPs modified by relative clauses
+Now we are ready for the most complex and surprising examples, mentioned in connection with (3) in Section 1. This is
+what happens when semantic or inherent case is associated with a nominal that is modified by a relative clause. Then the
+PreP shows up in the middle of the relative clause, between the complement of the verb and the verb itself. This was seen
+in (3); another example is (58).
+(58) k’äyy mäkina lä-gäzz-a astämari
+red car for-buy-3MS teacher
+‘for a teacher who bought a red car’
+In other words, the PreP lä- does not prefix to the first word of the nominal (k’äyy), or to the last word (astämari), or to the
+traditional head (astämari), but rather to one of the middle words.
+Despite the complexity of this example, we claim that it essentially follows from what we have already said about a case
+feature being spelled out on the highest element in the constituent, recursively defined. To show this, though, we need to
+know something about the structure of a relative clause in Amharic. A simpler phrase containing a relative clause (one with
+no PreP) is (59).
+(59) k’äyy mäkina yä-gäzz-a astämari
+red car C-buy-3MS teacher
+‘a teacher who bought a red car’
+In fact, we can afford to leave many fine details about the structure of relative clauses open, and concentrate on two
+clear facts about such examples. The first is that the relative clause comes before the noun it modifies, just as attributive
+adjectives do. Therefore, it is reasonable to say that the relative clause as a whole is also generated in the specifier of a
+functional head that mediates the relationship between it and the NP (Cinque, 2009), just as adjectives are. As a result, the
+relative clause as a whole asymmetrically c-commands the modified NP.
+The second crucial fact about (59) is that the relative complementizer-like element yä- appears prefixed to the verb of
+the relative clause, much as mä- prefixes to the verb in nonfinite/nominalized constructions (see (43)--(44)). Indeed,
+relative yä- is like mä- in that it never attaches to anything other than the finite verb in the relative clause. So, by parity of
+reasoning, it is plausible to think that V also undergoes head movement in relative clauses, reaching the C node, thereby
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 157
+
+PDF PAGE 19
+Author's personal copy
+forming a single m-word with the relative complementizer yä-. Consistent with this is the fact that in complex tenses in
+Amharic, which consist of a participial form of the main verb together with a verbal auxiliary, yä- appears as a prefix on the
+auxiliary, not on the main verb:
+(60) lɨda-otʃtʃ-u-n bähayl yɨ-gärf yä-näbbär-ä-w astämari
+child-PL-DEF-ACC severely 3MS-beat C-AUX-3MS-DEF teacher
+‘the teacher who used to beat the children severely’ (Leslau, 1995:87)
+This is what we expect if the auxiliary verb takes a (possibly extended) VP headed by the main verb as its complement.
+Then the auxiliary verb but not the main verb can move into C, in accordance with the Head Movement Constraint, just as
+auxiliaries can move into C but main verbs in the presence of auxiliaries cannot in English and French (Pollock, 1989,
+etc.). This effect holds throughout Amharic: all complementizers attach to the main verb in subordinate clauses lacking an
+auxiliary, or to the auxiliary when there is one (Leslau, 1995:318).
+With these assumptions in place, a relative clause in Amharic has (at least) the structure given in (61).
+(61) DP [ +DATIVE]
+qu
+FP                      D
+qo
+CP                                 F
+qy                        3
+Opi C                     NPi F
+ri            teacher       
+TP                  C            
+6       2  
+Opi DP    V C         V            
+4  buy yä - buy       highest m-word in highes t phrase
+red car
+Now where does the dative feature associated with the nominal as a whole finally end up? First we consider the
+immediate constituents of FP. Those are the NP ‘teacher’ and the CP relative clause. CP is the higher one, so the dative
+feature is associated with that. But this is internally complex, so we next consider what is the highest term in CP. This is the
+verb, as a result of V-to-C movement. This term contains a single m-word, so there is no need for further recursion;
+[+DATIVE] is spelled out as the prefix lä- on the inflected verb. This correctly derives (59) once the relative prefix yä- deletes
+after the PreP lä-, by the haplology rule that was mentioned in footnote 20. This is perfectly normal Amharic. Another
+example from Leslau (1995) is:
+(62) t’äft-äw sɨlä-näbbär-u sost nägär-otʃtʃ
+lost-3PL about-were-3PL three thing-PL
+‘about three things that were lost’ (Leslau, 1995:90)
+This shows the PreP prefixing to the auxiliary rather than the main verb, as expected given that only the auxiliary moves to
+C (compare (60)).
+By the same reasoning, we expect a definiteness feature associated with the nominal as a whole to be spelled out as
+the morpheme --u suffixed to the verb in the relative clause. This is entirely correct, as shown in (63). More specifically, (63)
+a shows the definiteness marker --u suffixed to the main verb of a relative clause when there is no auxiliary verb, and (63)b
+shows it suffixed to the auxiliary verb when the relative clause contains an auxiliary.
+(63) a. [[k’äyy mäkina yä-gäzz-a-w] astämari]
+red car C-buy-3MS-DEF teacher
+‘the teacher who bought a red car’
+b. [[tɨ-mäkrä-ññ yä-näbbär-k-äw-ɨn] hullu] ɨ-kkättäl-alläwh
+2-advise-1S.O C-used.to-2MS-DEF-ACC everything 1S-follow-AUX.1S
+‘I will follow everything you used to advise me (to do).’ (Leslau, 1995:87)
+This is less striking than the PreP placement examples, because --u as a suffix ends up at the edge of the relative clause,
+not apparently inside of it, the way the PreP does. But it does underline the recurring theme that the definiteness suffix
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172158
+
+PDF PAGE 20
+Author's personal copy
+consistently attaches to the same word as the case prefix does. This shows that our proposal has a welcome degree of
+generality, applying to features other than oblique case. It also shows that nothing in particular should be made of the fact that
+PrePs happen to be realized as prefixes, not suffixes. The definiteness marker --u is minimally different in that it is a suffix, but
+the placement rule that it obeys is the same. In the end, then, whether a dissociated morpheme happens to be a prefix or a
+suffix at PF plays no major role in determining what word it is attached to in our account, and this seems to be as it should be.
+We can combine the analysis of possessive noun phrases in Section 5.3 with the analysis of relative clauses above to
+generate an additional prediction. Consider the following nominal phrase:
+(64) [[doro wät’ y-amät’t’-a-w lɨda] täʃɨrt]
+chicken stew C-bring-3MS-DEF boy t-shirt
+‘the t-shirt of the boy who brought chicken stew’
+The context is a potluck for international students, and the boy who brought Ethiopian chicken stew wears a particularly
+notable t-shirt. To refer to the t-shirt, a speaker can say (64), where the possessor (‘boy’) is modified by a relative clause
+(‘who brought chicken stew’). On our assumptions, the structure of (64) is the following.
+(65) DP
+
+PossP                         D
+
+DP                    Poss
+ 
+FP         D          NP       Poss
+ tshirt               
+CP                         F
+who brought 
+chick en s tew      NP         F
+boy         
+In (64), the definite determiner is attached to the verb in the relative clause. If this is the realization of the definite D for ‘boy
+who brought chicken stew’ (the lower DP in (65)) then all is as expected for our analysis: the D marks the FP as [+DEF],
+the definite marker is inserted on the highest m-word (in the highest phrase) of the FP, which is the verb of the relative
+clause in C. We also assumed above that the definite marker within a possessor can be a reflex of the definiteness of the
+entire possessed DP; it can be the dissociated morpheme inserted by the highest D in (50). The analysis still predicts that
+the definite marker will be inserted on the verb in the relative clause -- it is the highest m-word within the highest phrase in
+the PossP. So far, then, this is just what we expect.
+Since the definite marker and the PreP are placed by the same insertion rule, the analysis further predicts that if the
+highest DP were assigned semantic case, say ablative, to give ‘from the t-shirt of the boy who brought doro wat’, the PreP
+will be attached to the verb of the relative clause inside the possessor of the NP. And indeed, this is what we find.
+(66) yɨh k’ulf [[doro wät’ k-amät’t’-a-w lɨda] täʃɨrt] näw
+this button chicken stew ABL-bring-3MS-DEF boy t-shirt is
+‘This button is from the t-shirt of the student who brought chicken stew.’
+The PreP kä- (reduced to k- due to hiatus avoidance; see (14)) attaches to the verb of the relative clause that modifies the
+possessor. This is even more striking than the basic relative clause cases: a preposition that allegedly scopes over the
+entire DP surfaces not just on the verb of a relative clause modifying the head noun, but on the verb of a relative clause that
+is modifying the possessor of the head noun. Yet this is entirely predicted by assuming that the PrePs are dissociated
+morpheme case markers and that they are inserted via the insertion rule in (52). We take this as strong confirming
+evidence for this insertion rule, including the fact that it applies recursively.
+We want to harp a bit on the fact that our PF placement theory claims to predict and explain the placement of these
+morphemes in relative clause structures, contrasting this with alternative theories that would rely heavily on the use of
+syntactic movement to derive the order of grammatical elements (words and morphemes). Our claim is that morpheme
+placement in relative clauses, although complex, is no more than the coming together of three ingredients, all of which are
+independently motivated. First, the fact that PrePs and --u attach to the relative clause rather than to the noun head is like
+the fact that these elements attach to an adjectival modifier rather than to the modified noun in simpler modificational
+structures. Second, the fact that PrePs and --u attach to the verb of the relative clause rather than to the complement of
+that verb is like the fact that PrePs and --u attach to the verbal noun rather than to its complement in simpler NPs containing
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 159
+
+PDF PAGE 21
+Author's personal copy
+a clause, such as (43) and (44). Ultimately, this is because verbs raise to higher heads like N/n and C in Amharic. Third, the
+fact that PreP and --u are placed recursively, crucially inside the higher constituent of the relevant NP, is the same as what
+we see with nested possessor constructions like (57), where the definiteness marker --u associated with the nominal as a
+whole (at least for some speakers) shows up inside the multi-word possessor of the nominal. What we see in relative
+clauses is merely the coming together of these various factors, each one justified in its own terms.
+In contrast, we do not think that a theory of morpheme order that depends primarily on syntactic movement could match
+this result. Within the tradition of Kayne (1994), one might very well say that Ps start out as prepositions, before their
+complements, even in a surface-head-final language like Amharic. Then one could say that the first-pass difference between
+PrePs and postpositions is that the DP complement of P moves to SpecPP or some higher position in the case of
+postpositions but not PrePs. So far, so good. But refinements would be needed for verbal nouns and relative clauses, such
+that not the whole nominal but some proper subpart of it moves higher in the case of PrePs. What would that subpart be? In (3)
+and (59), it would require moving the object of the embedded verb from inside the relative clause to a position above the P,
+stranding the verb of the relative clause below P. There would be a strong tension between this derivation and the fact that
+relative clauses are otherwise known to be very strong islands for extraction in almost every language, including Amharic
+(Eilam, 2010). Similarly, (62) would require moving the main verb out of the relative clause, leaving the auxiliary behind.30
+Even if such derivations could be squared somehow with what we know about locality conditions on movement, the
+question would remain as to why exactly these particular elements must move higher---why the object of a relative clause
+or a verbal noun must move, but a simple AP or possessor DP must not, even though one would expect the latter to be
+more accessible to movement than the former. No good reason comes to mind, at least for us. Therefore, we find an
+approach in terms of affixation to morphological words at PF based on their relative positions within the nominal to be
+much more plausible, since traditional islandhood is not relevant at PF. So, although we do not pretend to have considered
+every syntactic derivation that one might conceive of, we find it hard to see how a movement-based theory, if possible at
+all, could be explanatory in the way that we claim ours is. We challenge a proponent of movement to show otherwise.
+5.5. Complex PP structures
+Next, there is more to be said about combinations of PrePs and postpositions in Amharic. We mentioned above that
+some postpositions always occur with a single PreP affixed to their DP complement, usually bä- or kä-. But other
+postpositions can occur with a range of PrePs, and the PrePs contribute different elements of meaning to the construction.
+Indeed, this is very typical for location-denoting postpositions, as opposed to postpositions that express other kinds of
+relations (Leslau, 1995). A representative set is given in (67).
+(67) a. ɨ-zaf-u sɨr täññɨtʃtʃ-e s-allä-hw. . .
+LOC-tree-DEF under sleeping-1S while-AUX-1S
+‘As I was sleeping (at) under the tree. . .’ (or bä-zuf-u sɨr) (Leslau, 1995:625)
+b. däbdabbe-w-ɨn bä-mäzgiya sɨr aʃulk-äw
+letter-DEF-ACC via-door under slip-3MS.O
+‘Slip the letter (via) under the door.’ (Leslau, 1995:625)
+c. kä-tärara-w sɨr yämmi-mänätʃ’tʃ’-äw wɨha t’äbäl näw al-u
+from-mountain-DEF under C-gush-DEF water holy.water is say-3PL
+‘They say that the water gushing up from under (at the foot of) the mountain is holy
+water.’ (Leslau, 1995:625)
+d. kwas-u wädä-gɨdgɨdda-w sɨr t-änkäballäl-ä.
+ball-his to-wall-DEF under MID-roll-3MS
+‘His ball rolled toward under (toward the base of) the wall.’ (Leslau, 1995:625)
+e. kä-zzih ansɨto ɨskä-gubbɨta-w sɨr y-all-äw bota yä-nnässu näw.
+from-here starting up.to-hill-DEF under C-be-3MS area GEN-they is
+‘The area from here up to under (to the edge of) the hill is theirs.’ (Leslau, 1995:625)
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172160
+30 Kayne (2000:49) does indeed propose a derivation of [. . . NP . . . C/P+V] orders in Amharic that uses leftward movement of NPs out of the
+clause to a position higher than C/P. But whatever the plausibility of this derivation may be (it is not developed in any detail), Kayne does not
+consider the additional challenges that are posed by moving a verbal head or adverb leftward rather than an NP (for (60)), or by moving elements
+out of a relative clause modifier rather than out of the TP complement of C or P (for (58)). Another possible derivation, perhaps marginally more
+plausible, might be to say that some head X lower than P (the relative C?) attracts the highest verb of the relative clause, and then P itself attracts
+the relative clause remnant (including the trace of the moved V) to its Spec. In this derivation at least the relative clause moves as a unit. But it is
+hardly more attractive to say that V or TP moves out of the relative clause island than to say that its object does, and no ready answer to the ‘‘why’’
+question is at hand for this derivation either.
+
+PDF PAGE 22
+Author's personal copy
+f. mäs’haf-u t’äräp’p’eza-w sɨr näw.
+book-DEF table-DEF under is
+‘The book is under the table.’ (Leslau, 1995:625)
+The question, then, is what is the structure of these combinations, and what do they imply about the nature of the so-called
+‘‘prepositions’’.
+For data like this, it is not plausible to think that a single postposition can assign such a large range of lexical/inherent
+cases. Rather, examples like (67) point toward a more articulated PP structure of the sort explored for Dutch and English by
+Koopman (2000), Svenonius (2010), den Dikken (2010), and others. Simplifying somewhat, Svenonius distinguishes at least
+three distinct heads that can appear in a complex PP like (68) from English (not counting of, which is arguably a case marker).
+(68) That horse came [from in front of the barn].
+Svenonius claims that front is a head he calls AxPart; (short for ‘‘Axial Parts’’); it takes a DP (KP) that denotes an object
+and returns a region of space defined with respect to the geometrical structure of that object. Next, in here is a pure Ploc
+head; it is the least semantically distinctive part of the combination, but needed to make it refer to a place. Finally, from is a
+path head: it takes a place and returns a path defined with respect to that place. Moreover, these heads come in a fixed
+order determined by their semantics: AxPart selects DP/KP, Ploc selects AxPartP, and Path selects PlocP to form a PathP.
+The structure is given in (69).31
+(69) PathP
+   Path             PlocP
+   from    Plo c           Ax PartP
+               in      AxPart       DP[+GEN]
+                         front         of-t he-barn
+Other orders of these P-like elements are ruled out: *in from front of the barn, *from front in (of) the barn, *front in from the
+barn, *in front from the barn, etc.
+Now comparing (68)/(69) in English with (67) from Amharic, it is clear that the postposition  sɨr in Amharic corresponds
+to the AxPart element in English. It expresses where the location is relative to the geometrical structure of the reference
+DP (i.e., at its lowest part). The PreP, on the other hand, expresses the Path element. This is clear and consistent with
+wädä, which always means ‘toward [a place]’, and ɨskä, which always means ‘(all the way) up to [a place]’. It can also be
+discerned for kä-, which often means ‘from [a place]’, and bä- which sometimes means ‘by way of [a place], via [a place]’---
+the central part of a path, as opposed to its first part (source) or its last part (goal). The apparent exception is ɨ-, which
+seems to express a static location (see (67)a). For uniformity, we take that to be expressing a degenerate path, one in
+which the first, middle, and last parts are all the same---in effect, a point. There is no clear indication of Ploc in these
+Amharic PPs, distinct from Path and AxPart (but see below). The one significant empirical issue that is not covered by
+these first-pass empirical generalizations  is that the meanings of [bäN PostP], [käN PostP], [ɨN PostP] and indeed just
+[N PostP] are not always clearly differentiated  semantically;  they are often given identical pure-location  translations  in
+Leslau, 1995 (see (67)a and (67)f; see also Tremblay and Kabbaj (1990:168) , who say that there is no semantic
+difference). Nevertheless,  when a PreP does have a clearly isolatable meaning, it is a path-denoting  meaning.
+Given this, we should say that there are least two postpositions in the structure of the PPs in (67), one overt expressing
+AxPart and the other covert but assigning a distinctive semantic case such as ablative (from), allative (to/toward), perlative
+(through, along), etc. Moreover, based on cross-linguistic comparison and semantic composition, the null path-denoting
+head should be the higher of the two, just as it is in English. Hence, the structure of (67)d should be at least (70).
+(70) [PathP [AxPartP[+ALL] wall-DEF under/bottom] Ø [+ALL]]
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 161
+31 In fact, Svenonius makes further distinctions between PlocP, DegP, and pP, although these elements are not generally given distinct
+lexicalizations in English (at least in PPs without measure phrases). They do not have distinct lexicalizations in Amharic either, that we can tell, so
+we collapse them here, although we leave open the possibility that a finer study of PPs in Amharic could discover reasons to distinguish them in
+Amharic as well.
+
+PDF PAGE 23
+Author's personal copy
+Now we can see the challenge for our case insertion rule that is lurking in this data: it is to say which element of the
+potentially complex constituent AxPartP the case feature assigned by Path is realized on.
+First, there is one easy result to get. This is the fact that AxPartP is not necessarily complex. An AxPartP can consist solely
+of an AxPart head, without any DP argument (see (13)). In other words, some postpositions in Amharic can be used
+intransitively (‘‘adverbially’’) (compare Svenonius, 2010: sec 2.4 on English). When this is the case, our algorithm trivially
+predicts that the PreP will show up attached directly to the postposition, and this is what happens in (71)b, to be compared
+with the more canonical (71)a. (We are very grateful to an anonymous reviewer for calling our attention to this important fact.)
+(71) a. mäs’haf-u-n kä-t’äräp’p’eza-w sɨr wässäd-ä-w
+book-DEF-ACC from-table-DEF under take-3MS-3MS.O
+‘He took the book from under the table.’
+b. mäs’haf-u-n kä-sɨr wässäd-ä-w (= (13))
+book-DEF-ACC from-under take-3MS-3MS.O
+‘He took the book from underneath.’
+Other examples like this listed in Leslau (1995) include expressions like bä-lay ‘on, upon, up above’, (p. 620), wädä-mado
+‘across to the other side’ (p. 624), kä-wɨst’ ‘within, from inside’ (p. 640), and many others. Examples like (71)b are
+important because they confirm that the PreP is not the case assigned by AxPart to its complement (as happens in (32)). If
+it were, then we would expect the case marker to be absent (on the surface) whenever the DP is absent (on the surface).
+But (71)b shows that this is not true. Rather, (71)b confirms that the null case assigning head is higher than the
+postposition and assigns case to the postposition phrase as a whole. That case predictably is realized on the postposition
+when there is no DP inside the postposition phrase.
+But the postposition phrase can of course also be internally complex, containing more than one m-word. When it does,
+the case marker assigned by the Path head shows up on the noun, not on the postposition, as seen in (71)a and (67).
+Indeed, when the DP inside AxPartP consists itself of more than one m-word, the case marker can show up on something
+other than the noun; for example, it shows up on the adjective modifying the noun in (72).
+(72) mäs’haf-u-n kä-tɨllɨk’u t’äräp’p’eza sɨr wässäd-ä--w
+book-DEF-ACC from-big-DEF table under take-3MS-3MS.O
+‘He took the book from under the big table.’
+For our feature placement algorithm to work correctly, then, we must say that the DP is higher than AxPart within the place-
+denoting PP. In other words, the structure of (67)d must not be just (70) exactly, but something like (73), where DP
+asymmetrically c-commands the AxPart head.
+(73) PathP
+                 XP[+ALL]          Path [+AL L]
+      DP                   X´ Ø
+wall- DE F      Ax PartP     X
+bottom
+It is not obvious that this should be the structure. One might have thought, rather, that DP should be the complement of
+AxPart, as in English (69), such that AxPart would be as high as a simple NP, and higher than any overt m-word properly
+contained inside a complex DP.
+But while we concede that it is not obvious that (73) is the internal structure of a place-denoting PP, we assert that it is
+also not obvious that it is not. We take it that our algorithm in (52) is well enough established by now that we can begin to
+draw structural conclusions from it. Moreover, there are other things to be said in favor of (73). In particular, the majority of
+postpositions come historically from nouns (Leslau, 1995), and many of them can be used synchronically as nouns, in say
+subject or object position. For example, Tremblay and Kabbaj (1990:170) compare the nominal use of wɨst’ ‘inside’ used in
+subject position in (74)a with the postpositional use in (74)b.
+(74) a. yä-bet-u wɨst’ t’ɨru näw.
+GEN-house-DEF inside nice is
+‘The inside of the house is nice.’ (*bet-u wɨst’, *bä-bet-u wɨst’)
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172162
+
+PDF PAGE 24
+Author's personal copy
+b. Gɨrmay-ɨn bet-u wɨst’ ayyä-hu-t.
+Girmay-ACC house-DEF inside see-1S-3MS.O
+‘I saw Girmay inside the house.’
+(or bä-bet-u wɨst’, kä-betu wɨst’, ɨ-betu-u wɨst’, but not *yä-bet-u wɨst’)
+Now when wɨst’ is used as a noun, the DP that it expresses a part of is expressed as its possessor; in particular, it bears the
+genitive case prefix yä-. Now on our theory, the structure of a possessed nominal is exactly like the structure in (73), where
+the mystery element X is the familiar head Poss: compare (73) with (39). It is not at all surprising, then, that essentially the
+same structure would be carried over to postpositional uses of wɨst’ and other words like it.
+There are two ways in which this might be implemented that are worth considering. It is notable that the genitive particle
+yä- is not present in (74)b. This is Tremblay and Kabbaj’s (1990) major reason for saying that postpositions are
+synchronically distinct from nouns. We could express this by saying that the overall structure of the place-denoting phrase
+has stayed constant while the fine categorical features of the heads have changed over time: N has evolved into AxPart,
+and Poss has evolved into some other head, call it Rel (for ‘relator’, something that expresses geometrical relationships).
+The crucial difference, then, would be that Rel does not assign genitive case to its specifier, but rather a null case (or
+maybe ablative/partitive kä-; see below).
+The other way to implement this could be to say that AxPart phrases are still really nominals (PossPs), but they are
+nominals that are usually embedded inside a larger PP structure with a null head P. Suppose that that null headed P is one
+of the path-denoting heads surveyed in (67a-e). Then it is not surprising that genitive yä- does not appear on the nominal
+that denotes the reference object. The reason is that all of these path-denoting Ps assign a semantic/lexical case to their
+complement. By our feature placement rule, that case is realized on the reference-object-denoting nominal (or on the
+highest m-word inside it)---the same expression that bears the genitive yä-. Now we know that yä- is deleted in the context
+of another PreP systematically in Amharic (see footnote 20). Therefore the absence of yä- in these complex PPs does not
+count as evidence that AxPart is no longer nominal; it is expected on independent grounds.
+The only fact that still needs an account, then, is why yä- is suppressed even in an example like (67)e or (74)b, where
+there seems to be no path-denoting P. But even here, it is probably necessary on syntactic grounds to say that the PossP
+with AxPart as its semantic head is the complement of a null place-denoting P, comparable to in in in front of X in English---
+a Ploc, if not (also) a Path head. This is probably needed to account for why it has the external distribution of a PP.32 It may
+not be crazy, then, to say that this null place-denoting P assigns a sort of zero case to its complement. This case has no
+phonological exponent of its own (any adherent to the case filter would have to say this much), but it nevertheless triggers
+haplology on the relevant N, suppressing the genitive yä-.33 That then is the other possible view. The price of the first view
+is positing a novel category Rel, parallel to but distinct from Poss; the price of the second view is a case marker without
+phonological content that nevertheless has effects at PF. Either view will do for our purposes.
+We might tentatively take this one step further, to say something about the odd fact that there seem to be as many as
+four ways of expressing pure locations with no significant path function in Amharic: [kä-N PostP], [bä-N PostP], [ɨ-N
+PostP], and simply [N PostP]. This seems like an unusual state of affairs. But we can say something about it if we combine
+the ideas above, in the following way. We observed in Section 4 that, looking at nonlocative postpositions (those that are
+not AxPart heads), it seems like kä- and bä- are the two grammatical cases used inside PPs in Amharic. Let us then
+suppose both that the head that connects AxPart with DP is Rel, distinct from Poss, and that the RelP constituent has to be
+combined with at least a PlocP head, as well as perhaps a Path head. Now we can ask what cases (if any) do the heads Rel
+and Ploc assign? Our suggestion is that Rel assigns kä-, whereas Ploc assigns bä- (or, innovatively, Ø as above). This is
+not unreasonable on semantic grounds. We usually gloss kä- as ‘from’ (source, ablative), but it also has partitive meanings
+in which it could just as well be glossed as ‘of’ in English. One is shown in (75).
+(75) kä-sɨga-w a-qmɨs-äññ.
+from-meat-DEF CAUS-taste-1S.O
+‘Feed me (some) of the meat.’ (Leslau, 1995:605)
+Now partitive of is a very plausible case for Rel to assign, given that AxPart expresses some geometrically defined part of
+the reference object (compare English ‘in front of X’) On the other hand, bä- is perhaps not the most surprising path-like
+case to become grammaticalized as pure location in Amharic. In its obvious path uses, it means ‘through’ or ‘via’, referring to
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 163
+32 For example, this would be implied by the Noun Licensing Condition of Baker (2003).
+33 Indeed, Leslau (1995:616) presents the possibility of [NP PostP] as opposed to [PreP-NP PostP] as something of an innovation, more
+characteristic of spoken (informal) Amharic than of written Amharic, and not equally available with all relevant postpositions. The language might
+then be in a state of flux between these two analyses.
+
+PDF PAGE 25
+Author's personal copy
+the middle part of a path, not its beginning or end. As such, it could easily be picked as the unmarked member of the set, for
+use as the case assigned by pure place-denoting Ploc. Finally, ɨ- is the case assigned by a true path-denoting P, we claim, but
+one that denotes a trivial, point-like path. Then we have a sort of answer as to why Amharic seems to have so many
+semantically vacuous PrePs: if a constituent is only RelP, kä- surfaces, if it is a PlaceP with a semantically weak Ploc, bä-
+surfaces, and if it is PathP with a trivial pointlike path, ɨ- surfaces. (And, for one of these, assigning Ø instead is an innovative
+option.) Then the odd fact that Amharic has so many ways to express pure location stems from it having null postpositions that
+assign case (so it is not obvious how many are present in a given example), plus Amharic’s special rule for placing case
+features within complex constituents (our primary topic in this paper), which has the effect of stacking all the cases on the
+same head in these structures, plus Amharic’s rule of haplology, which deletes the second of two consecutive case markers.
+Overall, then, the interactions of PrePs and postpositions is a relatively complex topic in Amharic, and an area in which
+the language may be somewhat in flux. However, the basic facts of where PrePs are placed do follow from (52) once we
+attribute to postpositional phrases an internal structure that is parallel to if not identical to the structure of the possessed
+nominals which are their historical origin. Furthermore, our theory of PrePs and their placement may shed some light on
+why this is a complex topic in flux in Amharic, since it predicts that one case marker stacks on another and cause it to
+delete, creating a degree of opacity.34
+6. Discussion and theoretical implications
+As we approach our conclusion, we should ask how our proposal is connected to other current theories of post-
+syntactic insertion. It is standard in the Distributed Morphology literature to say that morphological operations like insertion
+happen at PF. Morphemes and features that are inserted post-syntactically are known as dissociated or ornamental
+(Embick, 1997, 1998; McFadden, 2004; Embick and Noyer, 2007, inter alia). The mechanisms for such insertion remain
+under-investigated. The general assumption has been that the morpheme or feature is inserted close to the node that has
+triggered insertion: either adjoined to that node, resulting in head adjunction (Embick, 1998, Embick and Noyer, 2007), or
+as a feature on the node itself (McFadden, 2004). However, in Amharic, it is not helpful to insert the case marker on/near
+the triggering node, which in our structures would be the null P. If it were inserted there, then it would be too high in the
+structure to appear (for example) within a relative clause. Rather, it seems most natural to describe the case marker as
+inserted directly by the rule above, attached to the highest m-word in the DP. It makes intuitive sense to us that, when one
+must put the case marker somewhere in DP, sticking it on the highest complete morphological unit within DP is one natural
+choice (along with sticking it on the first word of DP, or on the last word of DP).
+An anonymous reviewer asks about whether previous approaches to dissociated morpheme insertion can be restated
+in terms of (52). Some previous analyses clearly cannot be; for example, in Embick and Noyer, 2001 (p. 583, (65)), a
+definiteness feature is inserted adjoined to N in Swedish to account for definiteness ‘concord.’ In this case, it is clear that
+an inserted feature is not attached to the highest m-word in the DP. However, in our approach, the relevant features
+(definiteness, case) are inserted at a domain. There is no restriction that they be inserted on a particular category within
+that domain; they only respect (52). Thus, there might be two ways of inserting dissociated morphemes: insertion at
+particular nodes (perhaps reserved for agreement morphemes), and insertion hierarchically within a domain as per (52).
+The most immediate parallel with our approach is McFadden’s 2004 analysis of case as a dissociated feature. He
+proposes that a case feature is always inserted at D post-syntactically, and this seems broadly compatible with our
+approach; the case feature would be inserted at D because D is the highest m-word in the DP. This is most easily
+envisioned for a language like German (one of the languages McFadden focused on), where determiners are
+morphophonologically overt and show case distinctions.35
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172164
+34 An anonymous reviewer calls our attention to some interesting examples in which two PrePs are stacked on a single PostP: kä-bä-lay ‘from
+above’, wädä-bä-lay ‘toward the above’, and kä-wädä-lay ‘from above’ (see also Leslau, 1995). We admit that we do not understand these very
+well. Some look like they have a path embedded under a place function-- i.e. they are instances of PP recursion in the sense of Svenonius, 2010:
+sec. 3.2. Svenonius suggests that such recursion involves a null head like JOURNEY which PathP is embedded under and which heads the
+complement of a higher Place head (itself possibly under another Path head). If so, the NP headed by JOURNEY could be a spell out domain,
+which would explain why the first PreP does not trigger the deletion of the second PreP in this situation, giving unusual instances of PreP stacking.
+However, it is not clear that all of the attested cases have this recursive semantics. We leave these problems to future research.
+35 However, this raises the question of what prevents the feature from attaching to D (or P) in Amharic. The most natural answer is that D and P
+are exponed as null elements and thus cannot host any dependent elements, but this raises an order-of-operations problem. Under standard
+Distributed Morphology assumptions, insertion of dissociated morphemes is assumed to occur before exponence (i.e., Vocabulary Insertion), and
+in fact, we assume this below to argue against a Local Dislocation analysis of PrePs. We leave the issue of no-attachment-to-null-elements as an
+open question; one promising direction to pursue would be Embick’s (2010) proposal that null nodes are ‘‘pruned’’ (i.e., removed) from the
+derivation, but clarifying the predictions here requires a better understanding of cyclic domains within DPs.
+
+PDF PAGE 26
+Author's personal copy
+As an alternative to an insertion approach, it is conceivable that D and PreP, if inserted high in the nominal phrase,
+could undergo some kind of PF movement from their original high positions into the nominal phrase. Kramer, 2009, 2010
+develops an analysis of the definite marker along these lines, proposing that the definite marker is a realization of the D
+head itself, and the D head then undergoes the PF operation Local Dislocation to find a host within the nominal phrase
+(Embick and Noyer, 2001). Local Dislocation occurs after Vocabulary Insertion and Linearization, and trades a
+relationship of adjacency between two m-words for one of affixation. Kramer (2009, 2010) proposes that the definite
+marker is originally inserted at the left edge of the nominal in order to expone the D node, and then it undergoes Local
+Dislocation with the m-word that immediately follows it. An example is in (76). The definite marker starts at the left edge of
+the nominal, adjacent to the adjective tɨllɨk’ ‘big’ ((76)b). It locally dislocates with tɨllɨk’, and thus ends up affixed to the right
+edge of the adjective ((76)c). This results in the surface string (76)a.
+(76) a. tɨllɨk’-u bet
+big-DEF house
+‘the big house’
+b. PF at Linearization (* is the precedence relation):
+[-u * tɨllɨk’ * bet]
+c. PF after Local Dislocation:
+[tɨllɨk’-u bet]
+However, Local Dislocation is not available as an analytical option for PrePs. By hypothesis, Local Dislocation occurs after
+Vocabulary Insertion (this is what differentiates it from otherwise similar PF merger/affixation operations; see Embick and
+Noyer, 2001). This predicts that the morphophonological form of the host cannot be affected by the attachment of the
+dislocated item, because the host has already been exponed by the time of Local Dislocation. However, PrePs do trigger
+allomorphy on their hosts, most notably demonstratives; see (19). Insofar as we want a uniform analysis for PrePs and
+definite markers, then, Local Dislocation cannot be the PF operation that places them both.
+Nevertheless, one of Kramer’s 2009, 2010 auxiliary assumptions is helpful in addressing a few counterexamples for
+our analysis. Kramer (2009, 2010) claims that any syntactic material that has previously been spelled-out is inaccessible
+to later PF operations. This claim is compatible with the data we have presented so far: under plausible assumptions about
+phasehood, the insertion rule does not place the PrePs (or definite markers) within a previously spelled-out domain. For
+example, relative clauses are CPs and thus phases. The spell-out domain of a phase is the complement to the phase
+head: the TP in this case. Thus, the TP is inaccessible to the insertion rule, but the C head, which contains the verb,
+remains available and it is the C head that the PreP and definite marker attach to.36
+The assumption that already spelled out domains are opaque at PF is useful for our analysis when considering
+internally complex APs, which we have avoided until now. When an adjectival modifier is itself modified by an adverb like
+‘very,’ the PreP prefixes to ‘very’ and the definiteness marker suffixes to the adjective.
+(77) kä-bät’am rädadaɨm-u astämari
+from-very tall-DEF teacher
+‘from the very tall teacher’
+The PreP and the --u suffix thus appear to attach to separate m-words, calling into question our otherwise robust analysis
+where they are placed on the highest m-word by the same insertion rule.
+To address this problem, we start by following Kramer (2009, 2010) and assume that PF operations (including (52))
+cannot access previously-spelled out material. Now, much work on the internal structure of APs since Abney, 1987 has
+assumed that an AP has an extended projection (like nouns and verbs do), namely, a Deg(ree)P. Deg heads include
+degree expressions like how in a phrase like How charming! We can say, then, that a DegP is a phase, which causes its
+AP complement to be a spell-out domain (as also assumed by Kramer, 2009, 2010). The Deg head in the case of a string
+like ‘very tall’ ((77)) is null, however; ‘very’ has been argued not to be a Deg head because of phrases like How very
+charming! (Abney, 1987, cf. Corver, 1997).
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 165
+36 We further assume that the nominalizing N/n head in verbal noun constructions is a phase head (and thus the definite marker and PreP can
+attach to the verbal noun) and that there are no other phase heads besides N/n in the extended projection of the noun. The result is that the PreP
+and definite marker can attach to the verbal noun itself. The only difficult case is possessive nominals. Insofar as the definite marker can be placed
+fully inside the possessor phrase (e.g., on an AP modifying the possessor; see (51)), then possessors must not be phases. This may require us to
+assume that DPs are generally not phases, or perhaps, that possessor phrases are not XPs such that X is the cyclic head of a nominal projection.
+We leave this open for future research.
+
+PDF PAGE 27
+Author's personal copy
+The string ‘very tall’ thus comprises an AP spell-out domain. PF operations that occur after the AP has been spelled out
+treat it as a single opaque unit, equivalent to one m-word. One such PF operation is the insertion rule for dissociated
+morphemes, and thus, the whole AP qua spelled-out domain is the highest m-word within the highest term properly
+contained in FP. This accounts for why the definite marker attaches on the right of the AP and the PreP on the left. The
+structure of (77) is shown in (78), with previously spelled-out material italicized.37
+(78) PP
+3
+DP[+ABL] P
+wy
+FP[ +ABL,+ DEF] D
+ri
+Deg P                   F
+3          2
+Highes t m-word AP            Deg      NP       F
+5 teacher   
+very tall
+Another result of Deg being a phase head can be seen in the behavior of adjectives with PP complements. In this case,
+the definiteness marker suffixes to the adjective, as in (79) (not to the complement), whereas the PreP is ineffable: it
+cannot prefix to either the complement or the adjective ((80)ab). Rather, speakers express the intended notion by using a
+relative clause, rather than a simple adjective ((80)c).
+(79) lä-mist-u tammaññ-u astämari
+to-wife-his faithful-DEF teacher
+‘the teacher faithful to his wife’
+(80) a. *kä-(lä)-mist-u tammaññ-u astämari
+from-to-wife-his faithful-DEF teacher
+‘from the teacher faithful to his wife’
+b. *lä-mist-u kä-tammaññ-u astämari
+to-wife-his from-faithful-DEF teacher
+‘from the teacher faithful to his wife’
+c. lä-mist-u tammaññ kä-hon-ä-w astämari
+to-wife-his faithful from-be-3MS-DEF teacher
+‘from the teacher who is faithful to his wife
+(79) is what we would expect if the adjective simply counts as the highest thing in AP. If it is uniquely the highest thing in
+AP, then we would also expect (80)b, contrary to fact. However, if Degs are phase heads, then (80)b is automatically
+ruled out because the PreP cannot attach inside the spelled out AP. (80)a would then be the expected form, on a par
+with (77)---but this forces two PrePs to appear in sequence, something that is otherwise not common in Amharic
+(except on postpositions/locations,  for unknown reasons; see note 34). Other sequences of this sort are repaired by
+deleting the inner prefix, usually the semantically null yä- (see footnote 20). But lä- in (80)b is not semantically  null, so it
+is not deletable in this way. Therefore it is necessary to paraphrase as in (80)c, where the PreP can safely attach to the
+verb in the relative clause. The upshot is that, while our data does not support a Local Dislocation approach to PrePs,
+Kramer’s claim that PF operations cannot access previously spelled-out material does play a useful role in our
+account.
+We conclude by considering the generality of our insertion rule, both within the grammar of Amharic and outside the
+language. One easy-looking extension in Amharic is to the accusative case marker --n, but this turns out not to be so easy
+after all; see the appendix for some discussion. Other candidates could be the possessive/relative marker yä-, other C-like
+particles that prefix to the verb inside their TP complement (see ɨndä in (6)), and perhaps negation (which also surfaces as
+a prefix to V). These extensions go beyond what we can do here, but it is interesting to note that the PF affixation of
+functional heads seems to be a rather widespread characteristic of this language. (Compare Tremblay and Kabbaj (1990),
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172166
+37 Thanks to Mark Norris for discussion of this issue.
+
+PDF PAGE 28
+Author's personal copy
+who attribute the complex placement of case markers to their being functional heads in Amharic, although without
+investigating the details.)38
+Beyond Amharic, it is possible that case markers across languages are generally inserted by some type of rule that
+determines where they attach in the nominal (as opposed to being inserted on/near a triggering head; cf. McFadden, 2004
+and above discussion). However, the details of the rule almost certainly vary, so this conclusion is pending further study of
+the morphosyntax of case markers cross-linguistically. Amharic happens to reveal the PF nature of the phenomenon in a
+particularly vivid way, but the phenomenon itself could be of considerable generality, also applying to more ‘‘normal’’
+looking languages. This is a possible topic for future research.
+7. Conclusion
+In this paper, we have argued that so-called ‘‘prepositions’’ in Amharic are in fact semantic case markers. This re-
+analysis has several advantages. First, it solves an important word order problem in the language, concerning its
+apparently mixed headedness. Second, it explains certain clear affinities between ‘‘prepositions’’ and the accusative case
+marker, as well as the surprising lack of affinity between ‘‘prepositions’’ and postpositions. Third, it provides a way to
+understand the complicated distribution of the ‘‘prepositions’’ in complex nominals using a PF insertion rule---a distribution
+that is difficult or impossible to account for with syntactic movements. We conclude that, typologically speaking, Amharic is
+not a language with seriously mixed headedness in the syntax, but it is a language in which functional heads may
+correspond to affixes placed at PF in interesting ways.
+Acknowledgements
+Many thanks to Mengistu Amberber, Héctor Campos, Claire Halpert, Dana Hunter, Bryce Huebner, Richard Kayne,
+Lissa Krawczyk, Donna Lardiere, Kevin Martin, Mark Norris, Jong Un Park, Kyle Rawlins, Sharon Rose, Laura Siebecker
+and Jochen Zeller for helpful comments. Thanks also to audiences at the Brussels Conference on Generative Linguistics
+5 (Case at the Interfaces) and at the 42nd Annual Conference on African Linguistics for useful questions and discussion.
+Special thanks go to the Amharic consultants whose judgments shaped this work, especially Mahlet Tadesse, Mahi
+Megra, Yetnayet Lemma, Mehret Getachew Tadesse, Girma Demeke, Mengistu Amberber, Meriem Tikue and Bekale
+Seyum. Examples without attributed sources are from our fieldwork. Any errors of fact or interpretation are the
+responsibility of the authors.
+Appendix A. A note on the positioning of the accusative suffix --n.
+In addition to the PrePs, which we take to be inherent case markers, we have seen that Amharic has one clear instance
+of a structural case marker, the accusative marker --n. Indeed, we used this as a point of comparison in section 3, showing
+that the PrePs are more like the known case-marker --n than like postpositions in Amharic for various morphophonological
+and morphosyntactic considerations. It is natural, then, to ask whether --n is also placed by the same PF rule of placement
+stated in (52).
+At first glance, the answer seems to be yes. The data in (A1) shows that accusative --n suffixes to the noun in a simple
+nominal, to the adjective or possessor in a modified nominal, and to the verbal noun of a nominalized clause.
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 167
+38 However, we do not need to go as far as saying that all functional heads in Amharic are phonologically null but assign a feature to their
+complement that is later realized at PF as a dissociated morpheme. Nothing would necessarily rule out some functional heads as simply being
+head-final projections, e.g., the clause-final complementizer zänd (Leslau, 1995:677). Conversely, we do not necessarily need to analyze
+everything that is realized as a prefix at PF in this way. For example, an anonymous reviewer asks about the prefixal agreement on imperfective
+verbs in Amharic. Other syntactically interesting prefixes include the passive voice prefix t-, the causative prefixes a- and as-, and the verbal noun
+prefix mä-. These do not have as complex a distribution as the PrePs and the definiteness marker, but always simply attach to the finite verb (or a
+verbal stem, in the case of mä-). If these are analyzed as independent heads in the syntax at all (which is not clear, especially for agreement), they
+can simply be combined with their hosts by ordinary head movement of the verb into a higher head. See (45) for this sort of analysis of mä-. It is
+conceivable that a dissociated morpheme analysis could work for some of these prefixes as well, but it does not seem to be required.
+
+PDF PAGE 29
+Author's personal copy
+(A1) a. bet-u-n
+house-DEF-ACC
+‘the house.ACC’
+b. tɨllɨk’-u-n bet
+big-DEF-ACC house
+‘the big house.ACC’
+c. yä-tämari-w-ɨn mäs’haf
+of-student-DEF-ACC book
+‘the student’s book ACC’ (Leslau, 1995:197)
+d. [agär-ɨh mä-k’rät-u-n] bɨ-ttɨ-wädd. . .
+country-your NOML-stay-DEF-ACC if-2S-want
+‘If you want to stay in your country. . .’ (Leslau, 1995:395)
+So far, this is just like the PrePs and --u. In particular, we see that --n does not necessarily attach to the first thing in the
+nominal, or to the last thing in the nominal, or to the head noun; rather, it attaches to the highest word in the nominal. This
+extends also to complex examples of an NP modified by a relative clause: like PreP and --u, -n attaches to the verb of the
+relative clause:
+(A2) k’äyy mäkina yä-gäzz-a-w-ɨn astämari
+red car C-buy-3MS-DEF-ACC teacher
+‘the teacher who bought a red car ACC.’
+So the extension of our theory to accusative --n appears at first to be straightforward.
+We must note, however, that all of these examples also have the definiteness marker --u in them. So an alternative
+characterization of the data is that --n shows up in a nominal on whatever word --u shows up on. And indeed, there are
+some good reasons to say that the spell out of --n in Amharic is contingent on the spell out of --u or a similar morpheme.
+The simplest reason is the fact that, when the direct object is a common noun in Amharic, -n shows up on the object if it is
+definite (hence bears --u) but not if it is indefinite:
+(A3) a. Lämma wɨʃʃa-w-ɨn y-ayy-al
+Lemma dog-DEF-ACC 3MS-see-AUX.3MS
+‘Lemma sees the dog.’
+b. Lämma wɨʃʃa y-ayy-al (*wɨʃʃa-n)
+Lemma dog 3MS-see-AUX.3MS
+‘Lemma sees a dog.’
+To account for this, Kramer, 2014 and Baker, 2012 claimed (independently)  that all direct objects in Amharic are
+assigned accusative in the syntax, but accusative is spelled out as --n only on a word that word is [+DEF] The
+morphological  feature [+DEF] is intended to include proper nouns, pronouns, and demonstratives,  as well as determined
+common nouns.
+Another relevant fact concerns common nouns that are morphologically  definite because they bear a possessive
+suffix like --e ‘my’ or --u ‘his’. Like +definite --u, these suffixes do condition the spell out of --n on the accusative
+object:
+(A4) a. mäskot-e-n ‘my window ACC.’ (Leslau, 1995:53)
+b. bet-ɨh-ɨn ayyä-hu
+house-your-ACC see-1S
+‘I saw your (m.) house.’
+But different from definite --u, the possessive suffixes attach to the noun, not to the adjective, in a modificational
+structure:39
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172168
+39 When the pronominally possessed noun is not accusative, Leslau gives --u as obligatorily being on the adjective (p. 209), but when he gives it
+as accusative he says that --u is optional. We are not sure what is behind this seeming inconsistency, and indeed our consultants tend not to like
+Leslau’s example, preferring the adjective not to have the determiner.
+
+PDF PAGE 30
+Author's personal copy
+(A5) tɨllɨk’(-u) bet-e
+big(-DEF) house-my
+‘my big house’ (Leslau, 1995:213)
+Now if such a nominal is used as an object, -n attaches to the head noun, not to the adjective:
+(A6) a. mäkkan bazra-w-ɨn
+barren mare-his-ACC
+‘his barren mare ACC.’ (Leslau, 1995:184)
+b. tɨllɨk’ bet-e-n ʃät’-kw
+big house-my-ACC sell-1S
+‘I sold my big house.’ (Leslau, 1995:213)
+The affix --n cannot go on the adjective instead of or in addition to the possessed noun:
+(A7) a. *tɨllɨk’-ɨn bet-ɨh-ɨn
+big-ACC house-your-ACC
+b. *tɨllɨk-ɨn bet-ɨh
+big-ACC house-your
+That is consistent with the idea that accusative is spelled out as --n only on words that are marked for definiteness, since it
+is the noun but not the adjective that is so-marked in (A6). One additional detail is that, while --u never shows up on the
+possessed noun itself, it can show up on the adjective that modifies the possessed noun (see (A5)). This is the
+presumably the concord-like use of --u mentioned in Kramer (2009, 2010) and sources listed there. Now if this sort of
+nominal is used as an object, accusative --n shows up on the adjective if and only if --u does.
+(A8) a. tɨllɨk’-u-n bet-ɨh-ɨn
+big-DEF-ACC house-your-ACC
+‘your big house ACC.’
+b. mäkkan-wa-n bazra-w-ɨn
+barren-DEF.F-ACC mare-his-ACC
+‘his barren mare ACC.’ (Leslau, 1995:184)
+The contrast between (A8) and (A7) shows very clearly that where --n appears in a nominal depends on which words in the
+nominal are marked [+DEF]in general, and which bear --u in particular.40
+Based on facts like these, we think the theory of --n should be something like the following:
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 169
+40 Similar examples can be found with a sequence of adjectives modifying a definite noun. As mentioned in Section 3, the first one must be
+marked definite with --u and the second may also be marked --u, as a kind of concord (Kramer, 2009, 2010). Significantly, when such a nominal is
+accusative, -n follows --u exactly: it must appear on the first adjective, cannot appear on the head noun, and it appears on the second adjective
+only if --u does. Similar facts hold when there are three adjectives:-u must appear on the first adjective, and it appears on the second or third
+adjective only if --u does.
+(i) tɨnnɨʃ-u-n k’onjo-(w-ɨn) bet
+small-DEF-ACC pretty-(DEF-ACC) house
+‘the small, pretty house (acc.)’
+This data is also what one expects if [+ACC] spreads to everything in NP, but is spelled out on particular words if and only if they are marked [+DEF]in
+the morphology.
+Recall that PrePs can also be doubled when there are multiple modifiers that bear the affix --u (see (23) for two adjectives; similar facts hold
+with three). However, our rule for placing a semantic case feature does not put that feature on the second AP the way that (A9) does. We thus do
+not have a full understanding of Amharic concord yet. One possible view of the case doubling effect with oblique case might be that examples of
+the form P+A1-u A2 N have the structure [[A1(P) [A2(P) N(P) F] F] P], with the case feature assigned by P spelling out only on the highest word A1,
+as usual, whereas examples of the form P+A1-u P+A2-u N have the structure [[[A1 and A2] N(P) F] P], where the adjectives are joined by a null
+coordinator. Then the case feature triggered by P will be associated with [A1 and A2] as the highest phrase with overt material, and from there it
+distributes onto both members of the conjunction---something also seen in examples like (19). This proposal makes certain distinctive predictions
+about adjective order and the like which we cannot take up here. See Kramer (2009, 2010) for a similar proposal about definiteness concord and
+relative clauses.
+
+PDF PAGE 31
+Author's personal copy
+(A9) a. If a nominal X is assigned [+ACC] in the syntax, then every word in X is marked [+ACC].
+b. If word W is [+DEF, +ACC], then pronounce it as W+n
+This captures the facts that we have seen here. Notice that (A9) is quite a different rule for associating a syntactic feature
+belonging to a nominal as a whole with the words inside that nominal. Intuitively, what we have here is a difference
+between languages in which case or another feature is marked only once in a nominal (typically at the edge, but in Amharic
+on the highest) and languages in which case is marked on every word in a nominal. Both types of systems are known to
+exist in languages of the world, and they can coexist even in a single language.41
+One final type of example that convinces us that something like (A9) governs the distribution of --n is (A10).
+(A10) yä-kɨnd-u-n (yä)-däm sɨr k’wärrät’-ä-w
+of-arm-his-ACC (GEN)-blood vessel cut-3MS-3MS.O
+He cut a blood vessel in his arm (Leslau, 1995:196)
+Here both the possessive suffix -u and the accusative suffix --n attach to the first noun of the construction. Now where do
+the features that are realized by these morphemes originate? For accusative, the answer is clear: it is originally a feature of
+the largest nominal, the one headed by sɨr (the other nominals should be genitive, perhaps spelled out as yä-). The
+possessive suffix, however belongs in the first instance to the more deeply embedded noun kɨnd ‘arm’. Therefore, (A10)
+shows us something a bit remarkable: the --n associated with the nominal as a whole is spelled out on a noun that it has no
+direct connection with because of --n’s special affinity to words marked for definiteness. In other words, when (A9)b says
+that a [+DEF, +ACC]word receives the --n suffix, the [+DEF] feature and the [+ACC] feature can come originally from different
+constituents. We believe that this confirms that where --n appears has more to do with morphological spell out than with
+core matters of the syntax and semantics.
+In conclusion, we do not pretend that (A9) is a full account of --n in Amharic nominals.42 Rather, we offer it more as a
+descriptive generalization. The main point is that accusative does not obey the same rule of feature association that
+the oblique cases that manifest as PrePs do. The (many) examples in which the distribution of --n does look similar to the
+distribution of PrePs are better attributed to the fact that --u does follow the same feature association rule as the
+oblique cases do, and --u facilitates the realization of --n for the superficial reason stated in (A9b). That is why
+we compared the distribution of PrePs to that of --u in the body of this work, even though the comparison with --n may
+initially seem more promising, given that both are case markers.
+References
+Abney, S., 1987. The English noun phrase in its sentential aspect. Doctoral dissertation Massachusetts Institute of Technology.
+Appleyard, D., 1995. Colloquial Amharic. Routledge, New York.
+Ayalew, B.T., 2006. Amharic Learners’ Reference Grammar. National African Language Resource Center, Madison, WI.
+Baker, M.C., 2003. Lexical Categories: Verbs, Nouns, and Adjectives. CUP, Cambridge.
+Baker, M.C., 2012. On the relationship of object agreement and accusative case: evidence from Amharic. Linguistic Inquiry 43, 255--274.
+Biberauer, T., Holmberg, A., Roberts, I., 2007. Disharmonic word-order systems and the Final-over-Final-Constraint. In: Proceedings of the
+Incontro di Grammatica Generativa XXXIII, pp. 86--105.
+Bittner, M., Hale, K., 1996. The structural determination of case and agreement. Linguistic Inquiry 27, 1--68.
+Brugè, L., 1996. Demonstrative movement in Spanish: a comparative approach. University of Venice Working Papers in Linguistics 6, 1--53.
+Chomsky, N., 1995. The Minimalist Program. MIT Press, Cambridge, MA.
+Cinque, G., 1994. On the evidence for partial N-movement in the Romance DP. In: Cinque, G., et, al. (Eds.), Paths Towards Universal Grammar.
+Georgetown University Press, Washington, DC, pp. 85--110.
+Cinque, G., 2009. The Syntax of Adjectives: A Comparative Study. MIT Press, Cambridge, MA.
+Corver, N., 1997. Much-support as a last resort. Linguistic Inquiry 28, 119--164.
+Demeke, G.A., 2001. N-final relative clauses: the Amharic case. Studia Linguistica 55, 191--215.
+den Dikken, M., 2007. Amharic relatives and possessives: definiteness, agreement and the linker. Linguistic Inquiry 38, 302--320.
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172170
+41 For example, case is spelled out on most words inside a nominal in Indo-European languages like Latin, Greek, and Russian and in some
+Australian languages. In contrast, it is spelled out only once, on the last word of a nominal in Turkic languages, Quechua, Shipibo, etc. Oromo is a
+language with internal variation: the marked nominative suffix --n attaches to both words in a two-word NP, but oblique case markers only attach to
+the last word (Owens, 1985:98).
+42 For example, it does not predict the distribution of --n on generic NPs (see Leslau, 1995:182, 211). Another thing to work out would be exactly
+how far into the NP the accusative case feature can spread. (A10) shows that it can get onto the possessor of the possessor of the accusative
+noun, but other data would probably show that it cannot spread onto the dependents of a verb inside a relative clause, or the dependents of a
+verbal noun. Presumably this has much to do with the idea that PF operations cannot access previously spelled-out domains (see Section 6), but
+we do not attempt to work this out.
+
+PDF PAGE 32
+Author's personal copy
+den Dikken, M., 2010. On the functional structure of locative and directional PPs. In: Cinque, G., Rizzi, L. (Eds.), Mapping Spatial PPs. OUP,
+Oxford, pp. 74--126.
+Dryer, M., 2007. Word order. In: Shopen, T. (Ed.), Language Typology and Syntactic Description. 2nd ed. CUP, Cambridge, pp. 61--131.
+Dryer, M.S., 2011a. Relationship between the order of object and verb and the order of adposition and noun phrase. In: Dryer, M.S., Haspelmath,
+M. (Eds.), The World Atlas of Language Structures Online. Max Planck Digital Library, Munich (Chapter 95) http://wals.info/feature/95
+Dryer, M., 2011b. Order of subject, object and verb. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language Structures Online. Max
+Planck Digital Library, Munich (Chapter 81) http://wals.info/chapter/81
+Dryer, M., the WALS author team, 2011a. Language page for Neo-Aramaic (Arbel Jewish). In: Dryer, M.S., Haspelmath, M. (Eds.), The World
+Atlas of Language Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_naj
+Dryer, M., the WALS author team, 2011b. Language page for Tigré. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_tgr
+Dryer, M., the WALS author team, 2011c. Language page for Iraqw. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_irq
+Dryer, M., the WALS author team, 2011d. Language page for Persian. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_prs
+Dryer, M., the WALS author team, 2011e. Language page for Kurdish (Central). In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of
+Language Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_krd
+Dryer, M., the WALS author team, 2011f. Language page for Tajik. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language Structures
+Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_taj
+Dryer, M., the WALS author team, 2011g. Language page for Tobelo. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_tlo
+Dryer, M., the WALS author team, 2011h. Language page for Sorbian (Upper). In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of
+Language Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_sou
+Dryer, M., the WALS author team, 2011i. Language page for Päri. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language Structures
+Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_par
+Dryer, M., the WALS author team, 2011j. Language page for Mangarrayi. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_myi
+Dryer, M., the WALS author team, 2011k. Language page for Kuku Yalanji. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_kya
+Dryer, M., the WALS author team, 2011l. Language page for Tigrinya. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munichhttp://wals.info/languoid/lect/wals_code_tig.
+Dryer, M., the WALS author team, 2011m. Language page for Tapieté. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_tpt
+Dryer, M., the WALS author team, 2011n. Language page for Tuvaluan. In: Dryer, M.S., Haspelmath, M. (Eds.), The World Atlas of Language
+Structures Online. Max Planck Digital Library, Munich. http://wals.info/languoid/lect/wals_code_tvl
+Eilam, A., 2010. How and why is it that languages differ in their cleft questions. Ms. University of Pennsylvania.
+Embick, D., 1997. Voice and the interfaces of syntax. Doctoral dissertation University of Pennsylvania.
+Embick, D., 1998. Voice systems and the syntax/morphology interface. MIT Working Papers in Linguistics 41--72.
+Embick, D., 2010. Localim versus Globalism in Morphology and Phonology. MIT Press, Cambridge, MA.
+Embick, D., Noyer, R., 2001. Movement operations after syntax. Linguistic Inquiry 32, 555--595.
+Embick, D., Noyer, R., 2007. Distributed morphology and the syntax/morphology interface. In: Ramchand, G., Reiss, C. (Eds.), The Oxford
+Handbook of Linguistic Interfaces. OUP, Oxford, pp. 289--324.
+Emonds, J.E., 1985. A Unified Theory of Syntactic Categories. Foris, Dordrecht.
+Emonds, J.E., 1987. The invisible category principle. Linguistic Inquiry 18, 613--632.
+Gebeyaw, M., 2001. The Syllable Structure of Amharic. Master’s thesis Norwegian University of Science and Technology.
+Giusti, G., 1997. The categorial status of determiners. In: Haegeman, L. (Ed.), The New Comparative Syntax. Longman, New York, pp. 124--144.
+Giusti, G., 2002. The functional structure of noun phrases: a bare phrase structure approach. In: Cinque, G. (Ed.), Functional Structure in DP and
+IP. OUP, Oxford, pp. 54--90.
+Greenberg, J.H., 1966. Some universals of grammar with particular reference to the order of meaningful elements. In: Greenberg, J.H. (Ed.),
+Universals of Language. 2nd ed. MIT Press, Cambridge, MA, pp. 73--113.
+Guerssel, M., 1992. On the case system of Berber. Canadian Journal of Linguistics 37, 175--195.
+Hartmann, J., 1980. Amharische Grammatik. Steiner, Wiesbaden.
+Hetzron, R., 1970. Toward an Amharic case-grammar. Studies in African Linguistics 1, 301--354.
+Kayne, R.S., 1994. The Antisymmetry of Syntax. MIT Press, Cambridge, MA.
+Kayne, R.S., 2000. On the left edge in UG: a reply to McCloskey. Syntax 3, 44--51.
+Koopman, H., 2000. Prepositions, postpositions, circumpositions, and particles. In: Koopman, H. (Ed.), The Syntax of Specifiers and Heads.
+Routledge, London, pp. 204--260.
+Kramer, R., 2009. Definite markers, phi-features, and agreement: a morphosyntactic investigation of the Amharic DP. Doctoral dissertation UC
+Santa Cruz.
+Kramer, R., 2010. The Amharic definite marker and the syntax-morphology interface. Syntax 13, 196--240.
+Kramer, R., 2014. Clitic doubling or object agreement: the view from Amharic. Natural Language and Linguistic Theory .
+Kramer, R., Eilam, A., 2012. Verb-medial word orders in Amharic. Journal of Afroasiatic Languages 5, 75--104.
+Lamontagne, G., Travis, L., 1987. The syntax of adjacency. WCCFL 6, 173--186.
+Leslau, W., 1995. Reference Grammar of Amharic. Harrassowitz, Wiesbaden.
+Marantz, A., 1991. Case and licensing. In: Proceedings of the 1991 Eastern States Conference on Linguistics, pp. 234--253.
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172 171
+
+PDF PAGE 33
+Author's personal copy
+McFadden, T., 2004. The position of morphological case in the derivation: a study on the syntax/morphology interface. Doctoral dissertation
+University of Pennsylvania.
+Miller, P., 1992. Postlexical cliticization vs. affixation: coordination criteria. In: Proceedings of the 28th Meeting of the Chicago Linguistic Society,
+pp. 382--396.
+Mullen, D., 1986. Issues in the morphology and phonology of Amharic: the lexical generation of pronominal clitics. Doctoral dissertation University
+of Ottawa.
+Nikanne, U., 1993. On assigning semantic case in Finnish. In: Holmberg, A., Nikanne, U. (Eds.), Case and Other Functional Categories in Finnish
+Syntax. Mouton, New York, pp. 75--88.
+Ouhalla, J., 2004. Semitic relatives. Linguistic Inquiry 35, 288--300.
+Owens, J., 1985. A Grammar of Harar Oromo (Northeastern Ethiopia). Buske, Hamburg.
+Pollock, J.-Y., 1989. Verb movement, universal grammar and the structure of IP. Linguistic Inquiry 20, 365--424.
+Svenonius, P., 2010. Spatial P in English. In: Cinque, G., Rizzi, L. (Eds.), Mapping Spatial PPs. OUP, Oxford, pp. 127--160.
+Tremblay, M., Kabbaj, O., 1990. The internal structure of PPs in Amharic. In: Hutchison, J., Manfredi, V. (Eds.), Current Approaches to African
+Linguistics, 7. pp. 167--178.
+Zwicky, A., 1985. Clitics and particles. Language 61, 283--305.
+M. Baker, R. Kramer / Lingua 145 (2014) 141--172172
