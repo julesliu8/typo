@@ -1,0 +1,105 @@
+[
+  {
+    "id": "AF01",
+    "lexeme": "fällägä",
+    "content_type": "EVENT",
+    "Y_np_flagging": "ZERO",
+    "example_ids": [
+      "A01",
+      "A03"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": [
+      "A03"
+    ]
+  },
+  {
+    "id": "AF02",
+    "lexeme": "fällägä",
+    "content_type": "ENTITY",
+    "Y_np_flagging": "ZERO",
+    "example_ids": [
+      "A02",
+      "A04",
+      "A07"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  },
+  {
+    "id": "AF03",
+    "lexeme": "wäddädä",
+    "content_type": "ENTITY",
+    "Y_np_flagging": "ZERO",
+    "example_ids": [
+      "A05"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  },
+  {
+    "id": "AF04",
+    "lexeme": "wäddädä",
+    "content_type": "ENTITY",
+    "Y_np_flagging": "ACC",
+    "example_ids": [
+      "A06",
+      "A09",
+      "A11",
+      "A12"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  },
+  {
+    "id": "AF05",
+    "lexeme": "wäddädä",
+    "content_type": "EVENT",
+    "Y_np_flagging": "ZERO",
+    "example_ids": [
+      "A08",
+      "A10",
+      "A14"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": [
+      "A10"
+    ]
+  },
+  {
+    "id": "AF06",
+    "lexeme": "wäddädä",
+    "content_type": "EVENT",
+    "Y_np_flagging": "ACC",
+    "example_ids": [
+      "A13"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  },
+  {
+    "id": "AF07",
+    "lexeme": "däss alä",
+    "content_type": "EVENT",
+    "Y_np_flagging": "BA",
+    "example_ids": [
+      "A15",
+      "A16",
+      "A17",
+      "A19"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  },
+  {
+    "id": "AF08",
+    "lexeme": "däss alä",
+    "content_type": "EVENT",
+    "Y_np_flagging": "ZERO",
+    "example_ids": [
+      "A18"
+    ],
+    "scope": "observed Y surface form only; not proof of identical sense or complete E/Y construction",
+    "E_np_evidence": []
+  }
+]
